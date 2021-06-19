@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -31,8 +30,7 @@
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0"
-                    url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
          <editorialDecl>
             <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
        guidelines for a diplomatic edition.</p>
@@ -54,17 +52,17 @@
          </div>
       </front>
       <body>
-         <div xmlns="" xml:id="WuV37d-e89678" alias="l2d6">
-            <head>Distinctio 26</head>
-            <div type="circa-textum">
-               <head>Circa textum</head>
-               <p>
+        <div xml:id="WuV37d-e89678"><!--  alias="l2d6" -->
+            <head xml:id="WuV37d-e89678-Hd1e108">Distinctio 26</head>
+            <div xml:id="WuV37d-e89678-Dd1e111" type="circa-textum">
+               <head xml:id="WuV37d-e89678-Hd1e113">Circa textum</head>
+               <p xml:id="WuV37d-e89678-d1e116">
                   <lb ed="#B" n="45"/>Distinctio. 26. quae docet nunc 
       <lb ed="#B" n="46"/>quomodo libertas arbitrii gratiae 
       <lb ed="#B" n="47"/>auxilio fultiatur: suaque potentia 
       <lb ed="#B" n="48"/>extendatur.
     </p>
-               <p>
+               <p xml:id="WuV37d-e89678-d1e127">
       <!--402.xml-->
                   <cb ed="#B" n="b"/>
                   <lb ed="#B" n="49"/>Ec e gratia 
@@ -111,9 +109,9 @@
       perci<lb ed="#B" n="90" break="no"/>piendae etc. Et haec est diuisio praesentis dil. etc. 
       </p>
             </div>
-            <div>
-               <head>Quaestio</head>
-               <p>
+            <div xml:id="WuV37d-e89678-Dd1e226">
+               <head xml:id="WuV37d-e89678-Hd1e228">Quaestio</head>
+               <p xml:id="WuV37d-e89678-d1e231">
                   <lb ed="#B" n="91"/>¶ Quaestio ista declarat de gratia 
       <lb ed="#B" n="92"/>quantum ad eius quidditatem 
       substra<lb ed="#B" n="93" break="no"/>tum et actiuitate. Et seriose notat 
@@ -127,7 +125,7 @@
       <lb ed="#B" n="3"/>iectiue collocetur: Et arguitur quod 
       <lb ed="#B" n="4"/>non / triplici medio.
 </p>
-               <p>
+               <p xml:id="WuV37d-e89678-d1e259">
 ¶ Primo sic. Imago 
       <lb ed="#B" n="5"/>recreationis debet conformari imagini crea 
       <lb ed="#B" n="6"/>tionis. Sed in imagine creationis in anima nostra 
@@ -139,7 +137,7 @@
       gra<lb ed="#B" n="12" break="no"/>tiam subiectiue stare in ipsa essentia animae: non in 
       <lb ed="#B" n="13"/>his portionibus quae sunt animae potentiae.
 </p>
-               <p>
+               <p xml:id="WuV37d-e89678-d1e281">
 ¶ Secundo 
       <lb ed="#B" n="14"/>arguitur quod non sit subiectiue in portione inferi 
       <lb ed="#B" n="15"/>ori. Oaetia est dei donum per quod supra nos 
@@ -151,7 +149,7 @@
       pro<lb ed="#B" n="21" break="no"/>batur ex eo quod portio inferior circa terrena 
       <lb ed="#B" n="22"/>negociatur: vt Aug. 12. de trini.
 </p>
-               <p>
+               <p xml:id="WuV37d-e89678-d1e303">
 ¶ Tertio 
       <lb ed="#B" n="23"/>arguitur quod non sit in portione superiori. Nullum 
       <lb ed="#B" n="24"/>directiuum operis extat subiectiue in portione 
@@ -170,7 +168,7 @@
       <lb ed="#B" n="37"/>superiorem et inferiorem quo ad intellectum et volum 
       <lb ed="#B" n="38"/>tatem / sequitur.
 </p>
-               <p>
+               <p xml:id="WuV37d-e89678-d1e341">
 ¶ In ista quaestione sunt tres ar 
       <lb ed="#B" n="39"/>ticuli declarandi. 
       <lb ed="#B" n="40"/>ormius est terminorum declaratiuus 
@@ -180,7 +178,7 @@
       <lb ed="#B" n="44"/>termini sunt 
       <lb ed="#B" n="45"/>gratia / portio inferior / et portio superior. 
       </p>
-               <p>
+               <p xml:id="WuV37d-e89678-d1e359">
                   <lb ed="#B" n="46"/>¶ Primus igitur terminus est gratia. Unde 
       <lb ed="#B" n="47"/>notandum primo quod gratia solet accipi 
       tri<lb ed="#B" n="48" break="no"/>pliciter vltra gratiam increatam. Primo modo 
@@ -229,7 +227,7 @@
       me<lb ed="#B" n="89" break="no"/>ritis gratum faciens habentem: et opus eius 
       bo<lb ed="#B" n="90" break="no"/>num reddens.
 </p>
-               <p>
+               <p xml:id="WuV37d-e89678-d1e463">
 ¶ Secundus terminus est 
       <lb ed="#B" n="91"/>portio superior: et tertius est portio in i 
       <lb ed="#B" n="92"/>ferior. Ubi primo notandum / quod anima habet 
@@ -281,7 +279,7 @@
       conclusio<lb ed="#B" n="38" break="no"/>pes. Prima est de essenria gratiae. Secunda de eius 
       <lb ed="#B" n="39"/>sbiecto. Tertia de eius actiuitate.
 </p>
-               <p>
+               <p xml:id="WuV37d-e89678-d1e572">
 ¶ Pri 
       <lb ed="#B" n="40"/>ma est haec. Sic gratiae habitus extat creatus: vt 
       <lb ed="#B" n="41"/>in acciesentis genere collocetur. Dicit prima pars / quod 
@@ -325,7 +323,7 @@
       so<lb ed="#B" n="77" break="no"/>lum posuit gratiam increatam. Quid tamen sux 
       <lb ed="#B" n="78"/>hoc senserit: dictum est dist. 17. primi.
 </p>
-               <p>
+               <p xml:id="WuV37d-e89678-d1e663">
 ¶ Sed  
       <lb ed="#B" n="79"/>potest ne aliquem acceptare deus ad vitam 
       <lb ed="#B" n="80"/>aeternam sine quocunque creato? Dico primo 
@@ -367,7 +365,7 @@
       <lb ed="#B" n="15"/>genere et differentia: et patet quod non educitur de po 
       <lb ed="#B" n="16"/>tentia materiae: sicuti quidam sunt suspicati. 
       </p>
-               <p>
+               <p xml:id="WuV37d-e89678-d1e750">
                   <lb ed="#B" n="17"/>¶ Secunda pars conclusionis dicit / quod gratia crea 
       <lb ed="#B" n="18"/>ta est accidens. Probatur. Omne quod capit ma 
       <lb ed="#B" n="19"/>gis et minus est accidens: sed gratia est huiusmodi: igitur. 
@@ -396,7 +394,7 @@
       le<lb ed="#B" n="42" break="no"/>one est perfectior: vnde vix in vniuerso duae re 
       <lb ed="#B" n="43"/>perientur species / quin se habeant hoc modo.
 </p>
-               <p>
+               <p xml:id="WuV37d-e89678-d1e812">
 ¶ Se 
       <lb ed="#B" n="44"/>cunda conclusio est de subiecto gratiae: et 
       <lb ed="#B" n="45"/>est haec. Sic gratiae subiectum immediatum non ex 
@@ -490,7 +488,7 @@
       Dicen<lb ed="#B" n="30" break="no"/>dum quod sic: quia eadem est et voluntas: ex 
       pri<lb ed="#B" n="31" break="no"/>mo articulo.
 </p>
-               <p>
+               <p xml:id="WuV37d-e89678-d1e1012">
 ¶ Tertia conclusio est: de 
       <lb ed="#B" n="32"/>causalitate seu actiuitate ipsius gratiae: et 
       <lb ed="#B" n="33"/>est haec: sic ad substratum meriti causaliter 
@@ -556,13 +554,13 @@
       articu<lb ed="#B" n="91" break="no"/>lum: sunt 
       <lb ed="#B" n="92"/>tres difficultates.
 </p>
-               <p>
+               <p xml:id="WuV37d-e89678-d1e1151">
 ¶ Prima in qua spe 
       <lb ed="#B" n="93"/>qualitatis est gratia dicendum quod in prima specie qualita 
       <lb ed="#B" n="94"/>tis: quae dicitur habitus vel dispositio est enim hit 
       <lb ed="#B" n="95"/>et virtus sicut patebit sequenti distinctione. 
       </p>
-               <p>
+               <p xml:id="WuV37d-e89678-d1e1160">
                   <lb ed="#B" n="96"/>¶ Secunda difficultas: quae est 
       pricipa<lb ed="#B" n="97" break="no"/>lio potentia tam portionis superioris quam inferi 
       <lb ed="#B" n="98"/>oris dicendum quod voluntas quae dicitur animae regina: et 
@@ -575,7 +573,7 @@
       <lb ed="#B" n="4"/>ordo perfectionis est econuerso ordini 
       natu<lb ed="#B" n="5" break="no"/>e.
 </p>
-               <p>
+               <p xml:id="WuV37d-e89678-d1e1186">
 ¶ Tertia difficultas: vtrum forma 
       <lb ed="#B" n="6"/>le meriti sit absolutum quid vel respectiuum 
       <lb ed="#B" n="7"/>Respondum quod est respectiuum: vnde nihil dicit nisi 
@@ -584,7 +582,7 @@
       <lb ed="#B" n="10"/>portione superiori et inferiori collocatur. 
       <lb ed="#B" n="11"/>Tunc ad argumenta.
 </p>
-               <p>
+               <p xml:id="WuV37d-e89678-d1e1202">
 ¶ Ad primum respondet 
       <lb ed="#B" n="12"/>doc. deuo. quod sicuti nequit fieri odeordinatio 
       <lb ed="#B" n="13"/>in anima nisi per potentias: sic nec reordinatio 
@@ -593,7 +591,7 @@
       correspo<lb ed="#B" n="16" break="no"/>dentem essentiae anime: quia non videtur 
       <lb ed="#B" n="17"/>possibile: quod sit in anima nisi mediante po
 </p>
-               <p>
+               <p xml:id="WuV37d-e89678-d1e1219">
                   <lb ed="#B" n="18"/>Ad secundum 
       <lb ed="#B" n="19"/>principaliter est ad diligendum deum. secundo 
       <lb ed="#B" n="20"/>nos et proximum: et inquantum diligimus nos: aut 
@@ -603,7 +601,7 @@
       <lb ed="#B" n="24"/>lit inferiori quodammodo descendere dicitur: et 
       <lb ed="#B" n="25"/>in ita patet argumentum.
 </p>
-               <p>
+               <p xml:id="WuV37d-e89678-d1e1239">
 ¶ Ad tertium: maior 
       <lb ed="#B" n="26"/>est falsa: et dum probat per Aug. quia speculari 
       <lb ed="#B" n="27"/>aeterna est opus portionis superioris: 
@@ -612,20 +610,20 @@
       <lb ed="#B" n="30"/>Et sic patet ad quaestionem.
 </p>
             </div>
-            <div type="et-conclusiones">
-               <head>Conclusiones</head>
-               <p>
+            <div xml:id="WuV37d-e89678-Dd1e1253" type="et-conclusiones">
+               <head xml:id="WuV37d-e89678-Hd1e1255">Conclusiones</head>
+               <p xml:id="WuV37d-e89678-d1e1258">
 ¶ Ex praesenti autem 
       <lb ed="#B" n="31"/>dist. etc.
 </p>
-               <p>
+               <p xml:id="WuV37d-e89678-d1e1263">
 ¶ Prima conclusio. In operantem gratia 
       <lb ed="#B" n="32"/>scinditur atque diuiditur et cooperantem. Dicit 
       <lb ed="#B" n="33"/>conclusio: quod gratia diuiditur in gratiam operantem et co 
       <lb ed="#B" n="34"/>operantem: et ponitur a principio dist. vsque ibi 
       <lb ed="#B" n="35"/>Ipsa eadem tamen quaedam
 </p>
-               <p>
+               <p xml:id="WuV37d-e89678-d1e1274">
         ¶ Secunda conclusio diuina 
       <lb ed="#B" n="36"/>gratia in nob praecedit atque succedit ad dona va 
       <lb ed="#B" n="37"/>ria. Dicit conclusio quod gratia multa dona 
@@ -633,7 +631,7 @@
       <lb ed="#B" n="39"/>ab illo ca. Ppiscopa eadem tamen etc. vsque ibi. Non est 
       <lb ed="#B" n="40"/>tamen ignorandum.
 </p>
-               <p>
+               <p xml:id="WuV37d-e89678-d1e1287">
 ¶ Tertia conclusio: sic viri vo 
       <lb ed="#B" n="41"/>lentis fides dicatur: vt miserantis dei ponatur. 
       <lb ed="#B" n="42"/>Dicit conclusio: quod sic est fides hominis 

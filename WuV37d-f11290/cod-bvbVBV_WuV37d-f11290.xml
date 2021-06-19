@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -31,8 +30,7 @@
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0"
-                    url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
          <editorialDecl>
             <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
        guidelines for a diplomatic edition.</p>
@@ -54,12 +52,12 @@
          </div>
       </front>
       <body>
-         <div xmlns="" xml:id="WuV37d-f11290" alias="l2d2">
-            <head>Distinctio 2</head>
-            <div type="circa-textum">
-               <head>Circa textum</head>
+        <div xml:id="WuV37d-f11290"><!--  alias="l2d2" -->
+            <head xml:id="WuV37d-f11290-Hd1e108">Distinctio 2</head>
+            <div xml:id="WuV37d-f11290-Dd1e111" type="circa-textum">
+               <head xml:id="WuV37d-f11290-Hd1e113">Circa textum</head>
     
-               <p>
+               <p xml:id="WuV37d-f11290-d1e116">
                   <lb ed="#B" n="70"/>Distinctio secunda agit de 
       mo<lb ed="#B" n="71" break="no"/>do assumendi / siue de vnione natu 
       <lb ed="#B" n="72"/>rarum in christo ex parte naturae 
@@ -96,9 +94,9 @@
       <lb ed="#B" n="5"/>quaestionis videlicet 
       </p>
             </div>
-            <div>
-               <head>Quaestio</head>
-               <p>
+            <div xml:id="WuV37d-f11290-Dd1e193">
+               <head xml:id="WuV37d-f11290-Hd1e195">Quaestio</head>
+               <p xml:id="WuV37d-f11290-d1e198">
                   <lb ed="#B" n="6"/>¶ Quaestio ista tractat quomodo diuinum 
       <lb ed="#B" n="7"/>verbu sibi vniuit naturam humana 
       <lb ed="#B" n="8"/>singulare cum assumpte huanitatis per 
@@ -108,7 +106,7 @@
       spi<lb ed="#B" n="12" break="no"/>ritum praeexigat gratuitum. Et 
       ar<lb ed="#B" n="13" break="no"/>guitur ad partem falsam tribus mediis. 
       </p>
-               <p>
+               <p xml:id="WuV37d-f11290-d1e218">
                   <lb ed="#B" n="14"/>¶ Primo arguitur quod diuinum verbum non sit 
       <lb ed="#B" n="15"/>incarnatum: nihil censetur incarnatum nisi 
       car<lb ed="#B" n="16" break="no"/>ni vniatur: sed diuinum verbum non extat carni 
@@ -120,7 +118,7 @@
       <lb ed="#B" n="22"/>matum communicatione: quod non reperitur in carne 
       <lb ed="#B" n="23"/>vnde non dicimus verbum diuinum carnem:
 </p>
-               <p>
+               <p xml:id="WuV37d-f11290-d1e242">
 ¶ Se 
       <lb ed="#B" n="24"/>cundo arguitur quod non vniuit secum humanitate: 
       <lb ed="#B" n="25"/>si enim secumn vniuit diuinum verbum humanitatem 
@@ -138,7 +136,7 @@
       <lb ed="#B" n="37"/>set supposita supposito ibi autem partes to 
       <lb ed="#B" n="38"/>ti praeintelliguntur.
 </p>
-               <p>
+               <p xml:id="WuV37d-f11290-d1e277">
 ¶ Tertio arguitur quod de 
       <lb ed="#B" n="39"/>necessitate exigatur quod vnio fiat: grgatuito 
       ha<lb ed="#B" n="40" break="no"/>bitu praecedente: humana natura non potest 
@@ -155,7 +153,7 @@
       <lb ed="#B" n="49"/>te personae nullis praecedentibus meritis ho 
       <lb ed="#B" n="50"/>mini copulatur.
 </p>
-               <p>
+               <p xml:id="WuV37d-f11290-d1e311">
 ¶ In oppositum primi ar 
       <lb ed="#B" n="51"/>Id id es  
       <lb ed="#B" n="52"/>phi.: . i 
@@ -165,7 +163,7 @@
       <lb ed="#B" n="56"/>et ita cum non faciat mentionem de habitu 
       <lb ed="#B" n="57"/>gratuito videtur quod non exigatur. 
       </p>
-               <p>
+               <p xml:id="WuV37d-f11290-d1e329">
                   <lb ed="#B" n="58"/>¶ In ista quaestione sunt tres articli declarandi 
       <lb ed="#B" n="59"/>Primus est terminorum decla 
       <lb ed="#B" n="60"/>pratiuus. 
@@ -200,7 +198,7 @@
       ver<lb ed="#B" n="89" break="no"/>bum. Et tantum de isto termino 
       incarna<lb ed="#B" n="90" break="no"/>tio.
 </p>
-               <p>
+               <p xml:id="WuV37d-f11290-d1e403">
 ¶ Secundus terminus est 
       hu<lb ed="#B" n="91" break="no"/>tas 
       <lb ed="#B" n="92"/>manitas. Unde notat doctor deuotus in 
@@ -227,7 +225,7 @@
       proprieta<lb ed="#B" n="12" break="no"/>tibus ipsius corporis. In praesenti autem 
       quaestio<lb ed="#B" n="13" break="no"/>ne sumitur secundo modo maxime.
 </p>
-               <p>
+               <p xml:id="WuV37d-f11290-d1e458">
 ¶ Tertius  
       <lb ed="#B" n="14"/>terminus est spiritus a spirado. Unde 
       <lb ed="#B" n="15"/>ultra de spiritu dicta distin. 10. primi 
@@ -251,7 +249,7 @@
       <lb ed="#B" n="33"/>sunt tres conclusiones. Prima est de assum 
       <lb ed="#B" n="34"/>pta humanitate etc.
 </p>
-               <p>
+               <p xml:id="WuV37d-f11290-d1e506">
 ¶ Prima est haec. 
       <lb ed="#B" n="35"/>A diuino verbo natura humana singula 
       <lb ed="#B" n="36"/>ris congrue prae angelis assumpta est licet 
@@ -342,7 +340,7 @@
       <lb ed="#B" n="18"/>posse: oppositum patem ex conclusione: et tantum 
       <lb ed="#B" n="19"/>de prima conclusione.
 </p>
-               <p>
+               <p xml:id="WuV37d-f11290-d1e699">
 ¶ Secunda 
       conclu<lb ed="#B" n="20" break="no"/>sio est / de partibus assumpte humanitatis 
       <lb ed="#B" n="21"/>et est haec. Sic diuinum verbum veram carnem 
@@ -360,7 +358,7 @@
       vi<lb ed="#B" n="33" break="no"/>dete: quia spiritus carnem et ossa non habet si 
       <lb ed="#B" n="34"/>cut me videtis habere.
 </p>
-               <p>
+               <p xml:id="WuV37d-f11290-d1e735">
 ¶ Ex quo patet 
       er<lb ed="#B" n="35" break="no"/>ror impii manichei qui posuit christum so 
       <lb ed="#B" n="36"/>lum habuisse carnem fantasticam. Patet vl 
@@ -385,7 +383,7 @@
       ani<lb ed="#B" n="53" break="no"/>mam: est enim homo animal rationale: vt affert 
       <lb ed="#B" n="54"/>porphirius.
 </p>
-               <p>
+               <p xml:id="WuV37d-f11290-d1e785">
 ¶ Ex quo patet error Arri 
       <lb ed="#B" n="55"/>qui posuit christum nullam habere animam: sec 
       <lb ed="#B" n="56"/>verbum supplere locum animae: hoc non valet: 
@@ -416,7 +414,7 @@
       <lb ed="#B" n="81"/>tio aggregatio videretur et absolutum quando con 
       <lb ed="#B" n="82"/>stituta sunt absoluta.
 </p>
-               <p>
+               <p xml:id="WuV37d-f11290-d1e848">
 ¶ Tertia 
       conclu<lb ed="#B" n="83" break="no"/>sio est / omne ordine assumptorum et extat haec 
       <lb ed="#B" n="84"/>Humanitas ita primo a diuino verbo 
@@ -492,7 +490,7 @@
       <lb ed="#B" n="51"/>lum sunt 
       <lb ed="#B" n="52"/>tres difficultates.
 </p>
-               <p>
+               <p xml:id="WuV37d-f11290-d1e1009">
 ¶ Prima. An 
       vni<lb ed="#B" n="53" break="no"/>uersum sit deo vnibile. Dico quod non pro 
       prae<lb ed="#B" n="54" break="no"/>senti cum multa materia tam pene quam cu 
@@ -501,7 +499,7 @@
       <lb ed="#B" n="57"/>tis non occurrit ratio quare sua potestate 
       im<lb ed="#B" n="58" break="no"/>mensa id non posset efficere.
 </p>
-               <p>
+               <p xml:id="WuV37d-f11290-d1e1025">
 ¶ Secunda 
       <lb ed="#B" n="59"/>difficultas. An immediate in carne 
       chri<lb ed="#B" n="60" break="no"/>sti fuit infusa anima: Dico quod sic: vnde nullam ha 
@@ -510,7 +508,7 @@
       diui<lb ed="#B" n="63" break="no"/>num verbum vnione: alioquin personam 
       effecis<lb ed="#B" n="64" break="no"/>sent propriam.
 </p>
-               <p>
+               <p xml:id="WuV37d-f11290-d1e1041">
 ¶ Tertia difficultas 
       <lb ed="#B" n="65"/>Utrum subito post expressum marie con 
       <lb ed="#B" n="66"/>sensum. Ecce ancilla domini fiat n: ihi secundum 
@@ -527,7 +525,7 @@
       huma<lb ed="#B" n="77" break="no"/>nitatem incarnatio spiritum gratuitum veluti 
       <lb ed="#B" n="78"/>medium non praexigit. Tunc ad argumenta. 
       </p>
-               <p>
+               <p xml:id="WuV37d-f11290-d1e1075">
                   <lb ed="#B" n="79"/>¶ Ad primum argumentum nego minorem: et 
       <lb ed="#B" n="80"/>dum probatur ex communicatione vdiomatum: dico 
       <lb ed="#B" n="81"/>vnum verbum vsque ad octauam distin. vbi est 
@@ -539,7 +537,7 @@
       <lb ed="#B" n="87"/>tum fit vnio partium: et dum impugnatur: quia partes 
       <lb ed="#B" n="88"/>co.
 </p>
-               <p>
+               <p xml:id="WuV37d-f11290-d1e1099">
 ¶ Ad secundum dico ad minorem quod per 
       to<lb ed="#B" n="89" break="no"/>praecedunt: dico quod licet praecedant simpliciter: 
       <lb ed="#B" n="90"/>non tamen quo ad hoc: scilicet personari: aut in se 
@@ -550,7 +548,7 @@
       <lb ed="#B" n="95"/>dum quod non extat simile de vnione 
       beati<lb ed="#B" n="96" break="no"/>album: sic in proposito.
 </p>
-               <p>
+               <p xml:id="WuV37d-f11290-d1e1119">
 ¶ Ad tertium dicen 
       <lb ed="#B" n="97"/>fica et ista: vnio enim beatifica de se est ad  
       <lb ed="#B" n="98"/>actum secundum: seu operari: ideo exigit habitum 
@@ -565,9 +563,9 @@
       <lb ed="#B" n="6"/>bili.
 </p>
             </div>
-            <div type="et-conclusiones">
-               <head>Conclusiones</head>
-               <p>
+            <div xml:id="WuV37d-f11290-Dd1e1146" type="et-conclusiones">
+               <head xml:id="WuV37d-f11290-Hd1e1148">Conclusiones</head>
+               <p xml:id="WuV37d-f11290-d1e1151">
 ¶ Ex praesenti autem distinctione: 
       <lb ed="#B" n="7"/>sicut de praecedentibus etc. Prima 
       conclu<lb ed="#B" n="8" break="no"/>sio: vera diuinitas in christo dicitur atque 
@@ -576,7 +574,7 @@
       <lb ed="#B" n="11"/>Et ponitur a principio vsque ibi. Non sunt 
       er<lb ed="#B" n="12" break="no"/>go audiendi etc.
 </p>
-               <p>
+               <p xml:id="WuV37d-f11290-d1e1167">
 ¶ Secunda conclusio: Non 
       <lb ed="#B" n="13"/>inquinatur diuina bonitas: si ei iungatur nostra 
       <lb ed="#B" n="14"/>infirmitas. Dicit conclusio / quod deus non 
@@ -584,7 +582,7 @@
       <lb ed="#B" n="16"/>ab illo capitulo: Non sunt ergo etc. vsque ibi: 
       <lb ed="#B" n="17"/>Si autem quaeritur etc.
 </p>
-               <p>
+               <p xml:id="WuV37d-f11290-d1e1180">
 ¶ Tertia conclusio. Dum 
       <lb ed="#B" n="18"/>conceptio ventre perficitur materiae noscitur haec 
       <lb ed="#B" n="19"/>acta vnio. Dicit conclusio / quod simul 
