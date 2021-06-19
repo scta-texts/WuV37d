@@ -1,0 +1,747 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 11</title>
+            <author ref="#WilliamDeVaurouillon">William de Vaurouillon</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 11</title>
+               <date when="2021-06-19">June 19, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-bvbVBV">Basel 1510</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-06-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="360-v"/>
+            <cb ed="#B" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="WuV37d-f66139"><!-- l4d11 -->
+            <head xml:id="WuV37d-f66139-Hd1e108">Distinctio 11</head>
+            <div xml:id="WuV37d-f66139-Dd1e111" type="circa-textum">
+               <head xml:id="WuV37d-f66139-Hd1e113">Circa textum</head>
+               <p xml:id="WuV37d-f66139-d1e116">
+                  <lb ed="#B" n="13"/>Distinctio. 1. huius quarti doces 
+      <lb ed="#B" n="14"/>de coficiente et cofectione 
+      sacrame<lb ed="#B" n="15" break="no"/>ti eucharistiae. 
+      <lb ed="#B" n="16"/>Faut 
+      queri<lb ed="#B" n="17" break="no"/>tur qualis sit illa con 
+      <lb ed="#B" n="18"/>uersio: an formalis an 
+      <lb ed="#B" n="19"/>substantialis etc. Hic si 
+      <lb ed="#B" n="20"/>gnatur vndecima 
+      distin<lb ed="#B" n="21" break="no"/>ctio huius quarti: quae ita habet continuari 
+      <lb ed="#B" n="22"/>ad praecedentes. Nam postquam in precedenti 
+      <lb ed="#B" n="23"/>bus vtpute in octaua distinctioe est osten 
+      <lb ed="#B" n="24"/>sum quid est eucharistia in esse capiens: et 
+      <lb ed="#B" n="25"/>in nona et decima quaeue sit malicia 
+      indi<lb ed="#B" n="26" break="no"/>gne suscipiens: Nunc ostendere incipit in sa 
+      <lb ed="#B" n="27"/>cra policia: quis est conficiens et habet diui 
+      <lb ed="#B" n="28"/>di in tres partes principales. In prima 
+      <lb ed="#B" n="29"/>agit de ipsamet confectione. In secunda de 
+      <lb ed="#B" n="30"/>aliquorum consecutione. In tertia de conficien 
+      <lb ed="#B" n="31"/>tis auctorimatione. prima in principio. 
+      se<lb ed="#B" n="32" break="no"/>cunda distin. 12. ibi. Si autem quaeritur de 
+      ac<lb ed="#B" n="33" break="no"/>cidentibus quae remanent. tertia distinctione 
+      <lb ed="#B" n="34"/>13. ibi. Solet etiam quaeri: vttum praui 
+      sacer<lb ed="#B" n="35" break="no"/>dotes etc. Rursus prima particula quae est 
+      <lb ed="#B" n="36"/>praesens distinctio: in qua magister agit de ipsa 
+      <lb ed="#B" n="37"/>met confectione: habet diuidi in tres partes 
+      <lb ed="#B" n="38"/>In prima ostenditur panis et vini transubstan 
+      <lb ed="#B" n="39"/>tiatio. In secunda exprimitur tanti facti 
+      tri<lb ed="#B" n="40" break="no"/>plicata ratio. In tertia exponitur mixtio 
+      <lb ed="#B" n="41"/>aquae sed non intinctio. prima in principio 
+      <lb ed="#B" n="42"/>secunda ibi. Sub alia autem specie tribus etc. 
+      <lb ed="#B" n="43"/>Tertia ibi. Aqua vero admiscenda est 
+      vi<lb ed="#B" n="44" break="no"/>no etc. Haec est diuisio etc. 
+    </p>
+            </div>
+            <div xml:id="WuV37d-f66139-Dd1e189">
+               <head xml:id="WuV37d-f66139-Hd1e191">Quaestio</head>
+               <p xml:id="WuV37d-f66139-d1e194">
+                  <lb ed="#B" n="45"/>¶ Questio ista docet quomodo possibile 
+      <lb ed="#B" n="46"/>sit vt fiat ista transubstatiatio et quae sit 
+      <lb ed="#B" n="47"/>materia et actualitas quam doctor 
+      <!--737.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="48"/>subtilis protelat per septemquestiones 
+      <lb ed="#B" n="49"/>partiales et hac quaestione sunt 
+      va<lb ed="#B" n="50" break="no"/>rie et plures opiniones: vide in dec 
+      <lb ed="#B" n="51"/>sionibus meis vbi singulas annumeraui 
+      <lb ed="#B" n="52"/>N transubstan 
+      <lb ed="#B" n="53"/> tiatione panis triticeus: et vitis 
+      vi<lb ed="#B" n="54" break="no"/>num in corpus et sanguinem dominicum 
+      <lb ed="#B" n="55"/>conuertantur. Et arguitur quod non tripliciter. 
+      </p>
+               <p xml:id="WuV37d-f66139-d1e225">
+                  <lb ed="#B" n="56"/>¶ Primo sic. Transubstantiatio non est mu 
+      <lb ed="#B" n="57"/>tatio: ergo panis et vinum non transubstan 
+      <lb ed="#B" n="58"/>tiantur in corpus et sanguinem domini. Antecedens patet 
+      <lb ed="#B" n="59"/>quia tunc esset (exquo est ad substantiam 
+      <lb ed="#B" n="60"/>aut generatio aut corruptio ex. 5. phisico 
+      <lb ed="#B" n="61"/>rum: et hoc est falsum: quia in vtroque est 
+      ma<lb ed="#B" n="62" break="no"/>teria communis: sed non hic. Patet consequem 
+      <lb ed="#B" n="63"/>tia: quia alilas non videretur conuersio 
+      possi<lb ed="#B" n="64" break="no"/>bilis.
+</p>
+               <p xml:id="WuV37d-f66139-d1e247">
+¶ Secundo sic. Si panis et vinum 
+      com<lb ed="#B" n="65" break="no"/>uertunt in corpus et sanguinem domini: aut 
+      com<lb ed="#B" n="66" break="no"/>uertuntur in id quod est: aut in id quod non est: 
+      <lb ed="#B" n="67"/>non in id quod non est: quia tunc corpus chri 
+      <lb ed="#B" n="68"/>sti de nouo fieret: nec in id quod est: quia tunc 
+      <lb ed="#B" n="69"/>cresceret. ergo etc.
+</p>
+               <p xml:id="WuV37d-f66139-d1e260">
+¶ Tertio arguitur sic  
+      <lb ed="#B" n="70"/>Equae potest esse sacramentum eucharistiae sine 
+      <lb ed="#B" n="71"/>conuersione panis: sicut cum conuersione et 
+      <lb ed="#B" n="72"/>aeque bene. ergo non fit transubstantiatio. As 
+      <lb ed="#B" n="73"/>sumptum patet: quia fides est de praesentia 
+      <lb ed="#B" n="74"/>corporis dominici. Patet consequentia 
+      autorto<lb ed="#B" n="75" break="no"/>ritate philosophi in. 1. philosophicorum. Frustra fit per 
+      plu<lb ed="#B" n="76" break="no"/>ra: quod potest fieri per pauciora.
+</p>
+               <p xml:id="WuV37d-f66139-d1e279">
+¶ In oppo 
+      <lb ed="#B" n="77"/>situm est Ambro. eusebius et augusti. et 
+      Da<lb ed="#B" n="78" break="no"/>masce. panis et vinum supernaturaliter in 
+      cor<lb ed="#B" n="79" break="no"/>pus et sanguinem transit. 
+      </p>
+               <p xml:id="WuV37d-f66139-d1e288">
+                  <lb ed="#B" n="80"/>¶ In ista quaestione sunt tres articli declarandi 
+      <lb ed="#B" n="81"/>Primus est terminorum declaratiuus 
+      <lb ed="#B" n="82"/>Quorum Secundus est quaestionis responsiuus. 
+      </p>
+               <p xml:id="WuV37d-f66139-d1e297">
+                  <lb ed="#B" n="83"/>¶ Tertius est terminorum motiuus; 
+      <lb ed="#B" n="84"/>Quantum ad primum nun tera 
+      <lb ed="#B" n="85"/>cto a 
+      <lb ed="#B" n="86"/>mini sunt. panis / triticum / et vinum.
+</p>
+               <p xml:id="WuV37d-f66139-d1e308">
+¶ 
+      Pri<lb ed="#B" n="87" break="no"/>mus igitur terminus est panis. Et 
+      di<lb ed="#B" n="88" break="no"/>citur panis a pan greco quod est totum in lati 
+      <lb ed="#B" n="89"/>no: vel primo quia omnia animalia panem come 
+      <lb ed="#B" n="90"/>dunt: vel secundo quia cum omni cibo comeditur: 
+      <lb ed="#B" n="91"/>vel tertio quia in sustentatione animali quasi 
+      <lb ed="#B" n="92"/>habet alia alimenta virtualiter. Finxerunt 
+      <lb ed="#B" n="93"/>autem poetae quod pan quem latini siluanum dicunt: 
+      <lb ed="#B" n="94"/>esset deus terrae seu pastorum: et quod habebat 
+      <!--738.xml-->
+      <pb ed="#B" n="361-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>cornua in capite / repraesentando radios sols et 
+      <lb ed="#B" n="2"/>lunae / et pellem variatam caelum repraesentantem si 
+      <lb ed="#B" n="3"/>dereum: vultum rubeum propter aethera: vnam fistu 
+      <lb ed="#B" n="4"/>lam septem calamorum in manibus propter 
+      <lb ed="#B" n="5"/>armoniam septem caelorum: villosus inferius pro 
+      <lb ed="#B" n="6"/>pter vilitatem fruticum / arborum et animalium: et pe 
+      <lb ed="#B" n="7"/>des caprinos propter stabilitatem suam. Sic 
+      <lb ed="#B" n="8"/>equidem pan omnia terrena repraesentati supre 
+      <lb ed="#B" n="9"/>maque et insima: de quo et panis dictus est 
+      <lb ed="#B" n="10"/>verior panis noster qui de caelo descendit: 
+      <lb ed="#B" n="11"/>in quo sunt omnes thesauri sapinie et scientio 
+      <lb ed="#B" n="12"/>dei absconditi: et ideo panis / non aliud in cor 
+      <lb ed="#B" n="13"/>pus domini conuertitur. Qniam inquit Bonauem. 
+      se<lb ed="#B" n="14" break="no"/>cunda parte praesentis dist. arti. 1. q. 1. Sicut pa 
+      <lb ed="#B" n="15"/>nis ex multis granis efficitur: sic corpus chri 
+      <lb ed="#B" n="16"/>sti mysticum ex multis suppositis. Corpus  
+      <lb ed="#B" n="17"/>autem christi hic vt cibus continetur: non qualis 
+      <lb ed="#B" n="18"/>cunque: sed cibus conueniens / cibus efficax / cibus sa 
+      <lb ed="#B" n="19"/>nans / cibus omnibus communis. Signum tale 
+      ma<lb ed="#B" n="20" break="no"/>xime est panis triticeus: quia ex eius vsu na 
+      <lb ed="#B" n="21"/>turae non gignitur fastidium: quod de alio cibo 
+      <lb ed="#B" n="22"/>non conuenit. Efficax est confirmando: quia 
+      com<lb ed="#B" n="23" break="no"/>fortat. Est etiam sanus: vt Isaac in dietis. 
+      <lb ed="#B" n="24"/>dicit. Communis est etiam inter gentes / ma 
+      <lb ed="#B" n="25"/>time rationabiliter viuentes: quae etiam 
+      vi<lb ed="#B" n="26" break="no"/>no vitis conueniunt. Unde Dam. 
+      Consuetu<lb ed="#B" n="27" break="no"/>do est hominibus panem comedere / et bibere vi 
+      <lb ed="#B" n="28"/>num: ideo communiugauit eis dominus diuinitatem: et fe 
+      <lb ed="#B" n="29"/>cit ea corpus et sanguinem suum: vt per ea quae sunt 
+      <lb ed="#B" n="30"/>secundum naturam consueta / in quibus vita conserua 
+      <lb ed="#B" n="31"/>tur: ad ea quae sunt supra naturam anima 
+      trans<lb ed="#B" n="32" break="no"/>feratur. Secundo principaliter: quoniam vt panis in 
+      <lb ed="#B" n="33"/>clibano coquitur: sic christus in cruce pro nobis 
+      <lb ed="#B" n="34"/>decoctus est / et multis tribulationibus colatus; 
+      <lb ed="#B" n="35"/>Tertio / quia mundissime in reliqua cibaria ef 
+      <lb ed="#B" n="36"/>ficitur: nec tangentem coinquinat sicut caro 
+      <lb ed="#B" n="37"/>etc. Sic christus in viergine mundissima 
+      concae<lb ed="#B" n="38" break="no"/>ptus est mundissime. Unde apud hebreum di 
+      <lb ed="#B" n="39"/>citur panis sogalla id est praecipuus: apud grecum 
+      <lb ed="#B" n="40"/>epinsion id est supersubstantialis. Ego sum inqui 
+      <lb ed="#B" n="41"/>panis verus qui de caelo descendi.
+</p>
+               <p xml:id="WuV37d-f66139-d1e423">
+¶ Secun 
+      <lb ed="#B" n="42"/>dus terminus est triticum. Unde dicitur tri 
+      <lb ed="#B" n="43"/>ticum tripliciter. Conissime / communiter / et proprie. Communis 
+      <lb ed="#B" n="44"/>sime dicitur triticum omne illud quod in mola 
+      <lb ed="#B" n="45"/>teritur comestibile: et isto modo etiam faba trit 
+      <lb ed="#B" n="46"/>cum dicitur. Sic enim triticum a terendo dictum est. 
+      <lb ed="#B" n="47"/>Commuiter dicitur triticum idem quod frumentum: 
+      <lb ed="#B" n="48"/>ita tamen quod frumentum (vt dicit Papias) sit 
+      <lb ed="#B" n="49"/>omne id genus bladi quod aristas habet: et hoc 
+      <!--738.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>modo hordeum et siligo fpecies sunt tritici: vs 
+      <lb ed="#B" n="51"/>etiam praefatus dicit Papias in hoc nomine panis. 
+      <lb ed="#B" n="52"/>Tertio dicitur triticum proprie secundum quod de eo loqui 
+      <lb ed="#B" n="53"/>videtur Isaac in dietis particularibus / 
+      assignan<lb ed="#B" n="54" break="no"/>do nobiles eius proprietates / et vsum vtilem in mam 
+      <lb ed="#B" n="55"/>ducando: et sic est nobilissima bladi species 
+      <lb ed="#B" n="56"/>vsibus maxime competens humanis: vnde et sic di 
+      <lb ed="#B" n="57"/>citur a terendo: non quidem iam per communitatem sed pro 
+      <lb ed="#B" n="58"/>pter indigentiam hominum: et sic idem est quod 
+      fru<lb ed="#B" n="59" break="no"/>mentum: non capiendo secundo modo dicto 
+      frumen<lb ed="#B" n="60" break="no"/>tum / vt sit genus ad omne bladum: et dicitur a 
+      <lb ed="#B" n="61"/>frumen / quae est pars eminens gulae vel 
+      lguttu<lb ed="#B" n="62" break="no"/>ris: sed vt dicitur a frui id est vti: vnde hoc triticum 
+      <lb ed="#B" n="63"/>est vtilissimum humano vsui. Sic enim vbi nos 
+      <lb ed="#B" n="64"/>habemus in propheta: Deus iudicium tuum regi da. 
+      <lb ed="#B" n="65"/>Erit firmamentum in terra in summis montium: 
+      <lb ed="#B" n="66"/>quae videtur littera corrupta. Debet scribi: 
+      <lb ed="#B" n="67"/>Erit frumentum in terra in summis montium. 
+      <lb ed="#B" n="68"/>Quod ostendit veritas hebraica quae habet. CErit 
+      <lb ed="#B" n="69"/>triticum memoriale. Quod et Rabbi 
+      Salo<lb ed="#B" n="70" break="no"/>mon de venturo messia apud eum exponit: 
+      <lb ed="#B" n="71"/>sed hic nobis sufficit pro praesenti hoc habere 
+      <lb ed="#B" n="72"/>ex textu / aut textuum concordia: quod idem sit triti 
+      <lb ed="#B" n="73"/>cum et frumentum. De quo filius dei dicit. 
+      Ni<lb ed="#B" n="74" break="no"/>si granum frumenti cadens in terram nmortuum fu 
+      <lb ed="#B" n="75"/>erit / ipsum solum manet: quibus verbis hoc prae 
+      <lb ed="#B" n="76"/>sagiatur sacramentum. Et hoc triticum aut fru 
+      <lb ed="#B" n="77"/>mentum triplex est: quoddam sine barbis: quod 
+      <lb ed="#B" n="78"/>per excellentiam triticum appellatur: quia facilius 
+      te<lb ed="#B" n="79" break="no"/>ritur. Secundum cum barbis / in latum ad modum 
+      <lb ed="#B" n="80"/>gladii delphici. De quo Aristem. loquitur in 
+      <lb ed="#B" n="81"/>1. politis. Tertium cum barbis / aut in quadro aut 
+      <lb ed="#B" n="82"/>rotundo. De vtraque tamen trium specierum potest 
+      <lb ed="#B" n="83"/>confici corpus domini.
+</p>
+               <p xml:id="WuV37d-f66139-d1e521">
+¶ Tertius terminus 
+      <lb ed="#B" n="84"/>est vinum. Ethimologicatur quasi vite na 
+      <lb ed="#B" n="85"/>tum. Dicitur autem a vite aut a vena: quia cito 
+      ve<lb ed="#B" n="86" break="no"/>nas sanguine replet si est bonum. 
+      Antiqui<lb ed="#B" n="87" break="no"/>tus autem ex hoc vinum venenum dicebatur: sed 
+      <lb ed="#B" n="88"/>repartis venenis quibus venae inficiuntur rem 
+      te<lb ed="#B" n="89" break="no"/>nuit: nomen amisit aut mutauit: inter vina 
+      <lb ed="#B" n="90"/>vitis vinum est optimum: vt patet per Isaac in 
+      <lb ed="#B" n="91"/>lib. dietarum particularium. Ob hoc enim in natu 
+      <lb ed="#B" n="92"/>ra vini librum illum terminauit post bonum 
+      vi<lb ed="#B" n="93" break="no"/>num vitis: reliqua vt de sapaet reliquis deter 
+      <lb ed="#B" n="94"/>minans: vnde et vinum a veniendo potest dici: quia 
+      <lb ed="#B" n="95"/>nisi in conuiuio veniat: de communi laeticia non 
+      <lb ed="#B" n="96"/>veniet. Sic enim dicitur: Et vinum laetificet cor 
+      <lb ed="#B" n="97"/>hominis. Meri to ergo in cibo panis / et 
+      po<lb ed="#B" n="98" break="no"/>tu vini / seu e e cibo panis et potu vini hoc 
+      <!--739.xml-->
+      <pb ed="#B" n="361-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>sacramentum conficitur. 
+      <lb ed="#B" n="2"/>Quantum ad secundum artic 
+      <lb ed="#B" n="3"/>culum 
+      <lb ed="#B" n="4"/>sunt tres conclusiones. Prima est de 
+      possi<lb ed="#B" n="5" break="no"/>bilitate huius conuersionis. Secunda de actua 
+      <lb ed="#B" n="6"/>litate. Tertia de materia conuersionis. 
+      </p>
+               <p xml:id="WuV37d-f66139-d1e577">
+                  <lb ed="#B" n="7"/>¶ Prima est haec. Sic est transsubstantiatio 
+      <lb ed="#B" n="8"/>possibilis / vt quidlibet in quodlibet mutari 
+      <lb ed="#B" n="9"/>nequeat: loquendo simpliciter / sed in tantum. 
+      <lb ed="#B" n="10"/>Hec conclusio habet tres particulas. Prima 
+      <lb ed="#B" n="11"/>dicit: quod transsubstantiatio est possibilis. Ubi 
+      <lb ed="#B" n="12"/>doctor noster primo diffinit 
+      transsubstantia<lb ed="#B" n="13" break="no"/>tionem / dicens: Transsubstantiatio est transitio 
+      <lb ed="#B" n="14"/>totalis subae in substantiam. Ubi doctor tria 
+      <lb ed="#B" n="15"/>dicit. Primo diciti / quod transsubstantio est tramsi 
+      <lb ed="#B" n="16"/>tio sed hic non oportet meditari vt sic 
+      pa<lb ed="#B" n="17" break="no"/>nis transeat / sicut cum quis de loco ad locum 
+      <lb ed="#B" n="18"/>vadit: et remanet vbi vadit. sed per totum trmsopus 
+      <lb ed="#B" n="19"/>praecedens habet panis suum esse: in instanti con 
+      <lb ed="#B" n="20"/>uersionis primo habet non esse: et corpus chri 
+      <lb ed="#B" n="21"/>sti primo habet ibi esse: vt patet per fratrem Ri 
+      <lb ed="#B" n="22"/>char. de media villa / arti. 1. praesentis dis. q. 
+      <lb ed="#B" n="23"/>4. et est fundamentum in. 5. physicorum: ita quod 
+      <lb ed="#B" n="24"/>meditari debemus quod permanentia et 
+      successi<lb ed="#B" n="25" break="no"/>ua discordant in incipit / et concordant in 
+      desi<lb ed="#B" n="26" break="no"/>nit. Sicut enim si dico / sortes desinit esse: si 
+      <lb ed="#B" n="27"/>gnifico quod sortes non est: et immediate ante hoc 
+      <lb ed="#B" n="28"/>erat: et significo per li hoc / instans in quo 
+      pri<lb ed="#B" n="29" break="no"/>mo sortes non est: et per li immediate / significo 
+      <lb ed="#B" n="30"/>non instans: quia ex. 6. physicorum non est immedia 
+      <lb ed="#B" n="31"/>tum in tempore instans instanti: sed designo tempus 
+      <lb ed="#B" n="32"/>immediatum instanti: sic dico in successiuis. Tem 
+      <lb ed="#B" n="33"/>pus autem motus desinit esse. Dico quod mo 
+      <lb ed="#B" n="34"/>tus nunc non est / sed fuit ante immediate: et non 
+      <lb ed="#B" n="35"/>possum dicere affirmatiue: motus nunc est: 
+      <lb ed="#B" n="36"/>et immediate post hoc non erit: quia in nunc non est 
+      <lb ed="#B" n="37"/>motus. Discordant autem in incipit: si enim de 
+      <lb ed="#B" n="38"/>permanente dico / sortes incipit esse: debeo sic 
+      <lb ed="#B" n="39"/>dicere: sortes nunc est / et immediate ante hoc 
+      <lb ed="#B" n="40"/>non erat: vt sit affirmatiua de praesenti / nega 
+      <lb ed="#B" n="41"/>tiua de praeterito. Cuius dicti ratio est: 
+      <lb ed="#B" n="42"/>quia permanentia habent primum sui 
+      es<lb ed="#B" n="43" break="no"/>se: sed non habent vltimum sui esse: sed bene 
+      <lb ed="#B" n="44"/>habent primum non esse. Si autem de 
+      successi<lb ed="#B" n="45" break="no"/>uo: dico vt motus incipit esse: debeo sic ex 
+      <lb ed="#B" n="46"/>ponere. Motus nunc non est: et immediate 
+      <lb ed="#B" n="47"/>post hoc erit: vt sit propositio de praesenti ne 
+      <lb ed="#B" n="48"/>gatiua / et de futuro affirmatiua: quia omnis mo 
+      <lb ed="#B" n="49"/>tus est in tempore. Secunda pars diffinitio¬ 
+      <!--739.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>nis totalis dicit / et non totius: sic enim 
+      ali<lb ed="#B" n="51" break="no"/>quando transit totum in totum / et non qualibet pars 
+      <lb ed="#B" n="52"/>in aliam: vt patet in primo de generatione: 
+      <lb ed="#B" n="53"/>vbi dicit philosophus / quod generatio est 
+      transmuta<lb ed="#B" n="54" break="no"/>tio totius in totum: vt quando ex aere fit ignis: to 
+      <lb ed="#B" n="55"/>tum vnum vertitur in aliud: et tamen remanet 
+      mate<lb ed="#B" n="56" break="no"/>ria communis in vtroque / prius informata forma 
+      <lb ed="#B" n="57"/>aeris / postmodum forma ignis. Unde notan 
+      <lb ed="#B" n="58"/>dum quod totum potest capi tripliciter: primo 
+      cathego<lb ed="#B" n="59" break="no"/>rematice: secundo sincathegorematice: ttio 
+      <lb ed="#B" n="60"/>cathegorematice et sincathegorematice. 
+      <lb ed="#B" n="61"/>Cathegorematice sumitur / quando potest esse per se 
+      <lb ed="#B" n="62"/>subiectum aut praedicatum: vnde et 
+      cathegorema<lb ed="#B" n="63" break="no"/>tice id est praedicatiue: et cathaegorigo cas id est praedi 
+      <lb ed="#B" n="64"/>co cas: et dicitur plus a praedicato quam a subiecto: 
+      <lb ed="#B" n="65"/>quia praedicatum habet modum formae / sed 
+      subie<lb ed="#B" n="66" break="no"/>ctum materiae: ex. 1. postereus. ideo propositio per 
+      <lb ed="#B" n="67"/>se si conuertatur efficitur per accidens: forma autem 
+      <lb ed="#B" n="68"/>nobilior est materia: et denominatio debet fie 
+      <lb ed="#B" n="69"/>ri a digniori in talibus et isto modo dicitur in 
+      so<lb ed="#B" n="70" break="no"/>phismate. Totum quod est in mundo est in ocu 
+      <lb ed="#B" n="71"/>lo tuo: dato quod granum milii habeas in ocu 
+      <lb ed="#B" n="72"/>lo: non oportet ad partem descendere / vt dicatur 
+      <lb ed="#B" n="73"/>quaelibet pars mundi: sic. enim esset falsum: sed vt 
+      <lb ed="#B" n="74"/>dixi debet cathaegorematice poni id est vnum 
+      <lb ed="#B" n="75"/>totum: granum enim milii est vnum totum. Secundo 
+      <lb ed="#B" n="76"/>capitur pure sincathegorematice: et sic non 
+      <lb ed="#B" n="77"/>potest esse subiectum nec praedicatum: nec pars 
+      sbie<lb ed="#B" n="78" break="no"/>cti nec praedicati / sed additur subiecto aut 
+      prae<lb ed="#B" n="79" break="no"/>dicato: vt omnis / nullus / nil addendo si 
+      signifi<lb ed="#B" n="80" break="no"/>catiue capiuntur: vnde hoc modo sunt 
+      sincathego<lb ed="#B" n="81" break="no"/>remata in potentia / non actu: alioquin esset 
+      com<lb ed="#B" n="82" break="no"/>tradictio: quia sincathegorema idem est quod 
+      con<lb ed="#B" n="83" break="no"/>praedicatiuum: a sin quod est similis. Tertio dicitur 
+      sin<lb ed="#B" n="84" break="no"/>cathegorematice et cathegorematice: et hoc 
+      <lb ed="#B" n="85"/>modo capitur in proposito / dum dicitur quod transsubstam 
+      <lb ed="#B" n="86"/>tiatio est conuersio totalis: quia et totum in totum con 
+      <lb ed="#B" n="87"/>uertitur / et quaelibet pars in aliam respectiue: 
+      <lb ed="#B" n="88"/>vt materia in materiam / et forma in formam. 
+      <lb ed="#B" n="89"/>Tertia pars diffinitionis dicit / substantiae 
+      <lb ed="#B" n="90"/>in substantiam. Si enim esset in accidens: cum 
+      <lb ed="#B" n="91"/>motus ex. 5. physicorum denominationem susci 
+      <lb ed="#B" n="92"/>piat ex termino ad quem: iam non diceretur trans 
+      <lb ed="#B" n="93"/>substantiatio / sed transaccidentatio. Prima 
+      <lb ed="#B" n="94"/>ergo particula conclusionis diciti / quod 
+      transsub<lb ed="#B" n="95" break="no"/>stantiatio est possibilis. Probatur: quia 
+      termi<lb ed="#B" n="96" break="no"/>nus a quo potest simplicitur desinere esse: 
+      <lb ed="#B" n="97"/>et terminus ad quem simpliciter incipre esse 
+      <lb ed="#B" n="98"/>vt corpus christi: igitur potest hoc modo vnum in 
+      <!--740.xml-->
+      <pb ed="#B" n="362-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>aliud conuerti. Sed qualis mutatio est haec trans 
+      <lb ed="#B" n="2"/>substantiatio? Dicit Guill. varronis magister 
+      <lb ed="#B" n="3"/>magistri nostri/ i. 4. in sacrameni eucharistiae materia. 
+      <lb ed="#B" n="4"/>q3. opinione. 2. quod est mutatio obiectiua / non 
+      <lb ed="#B" n="5"/>subiectiua: sed hoc non est verum: quia quando transsub 
+      <lb ed="#B" n="6"/>stantiatur aliquid cathegorematice et sincathe 
+      <lb ed="#B" n="7"/>gorematice in aliud: nullo modo alitur se habet 
+      te<lb ed="#B" n="8" break="no"/>minus a quae quam prius: quia nullo modo se habet / nec 
+      ter<lb ed="#B" n="9" break="no"/>minus ad quem vt sic: vt si suba panis conuerte 
+      <lb ed="#B" n="10"/>retur in corpus christi / ens in caelo non vt in sacramento. 
+      <lb ed="#B" n="11"/>Mutatio autem secundum philosophum est alitur se habere nunc 
+      <lb ed="#B" n="12"/>quam prius. Dicamus igitur quod versio est genus trans 
+      <lb ed="#B" n="13"/>substantiationis: ita quod sicut secundum philosophum in. 5 
+      <lb ed="#B" n="14"/>physicorum est triplex mutatio a non subiecto 
+      <lb ed="#B" n="15"/>in subiectum: et accipitur ibi subiectum pro positi 
+      <lb ed="#B" n="16"/>uo / et non subiectum pro privatione positiui. 
+      Se<lb ed="#B" n="17" break="no"/>cundo a subiecto in non subiectum. Tertio a 
+      <lb ed="#B" n="18"/>subiecto in subiectum: ita extendendo de 
+      versio<lb ed="#B" n="19" break="no"/>ne dicamus: quod est versio a non subiecto in subie 
+      <lb ed="#B" n="20"/>ctum. Ecce creatio. Secundo a subiecto in non 
+      <lb ed="#B" n="21"/>subiectum: ecce annihilatio. Tertio a subie 
+      <lb ed="#B" n="22"/>cto in subiectum: ecce transsubatio: ita quod prope 
+      <lb ed="#B" n="23"/>non est transsubatio mutatio / sed versio. Secunda 
+      <lb ed="#B" n="24"/>pars conclusiois dicit quod quidlibet non potest conuerti 
+      <lb ed="#B" n="25"/>in quodlibet: vt deus nequit conuerti in 
+      crea<lb ed="#B" n="26" break="no"/>turam / neque creatura in deum: quia nihil potest 
+      <lb ed="#B" n="27"/>conuerti in aliud nisi cuius esse et non esse 
+      sub<lb ed="#B" n="28" break="no"/>est totaliter potentiae conuertentis: deus au 
+      <lb ed="#B" n="29"/>tem non potest facere se non esse: ideo vniuersali 
+      <lb ed="#B" n="30"/>ter loquendo non est verum / quod quodlibet pos 
+      <lb ed="#B" n="31"/>sit conuerti in quodlibet: sed creatum in creatum 
+      <lb ed="#B" n="32"/>potest conuerti / si est absolutum vtrumque. Et si 
+      <lb ed="#B" n="33"/>obiiciatur in contrarium per Augus. 7. super 
+      <lb ed="#B" n="34"/>Sen. ca. 4. Et Boetium libro de duabus 
+      <lb ed="#B" n="35"/>naturis / ca. 7. Nullo modo potest conuerti 
+      <lb ed="#B" n="36"/>corpus in spiritum / nec econuerso. Dicit fra 
+      <lb ed="#B" n="37"/>ter Hugo noui castri / quod illud intelligitur de 
+      <lb ed="#B" n="38"/>potentia creata. Et miror de isto baccalau 
+      <lb ed="#B" n="39"/>tio / qui pedetentim secutus est magistrum 
+      <lb ed="#B" n="40"/>suum: quod sic ipsum dimiserit: et posuerit in nihi 
+      <lb ed="#B" n="41"/>lo pedem suum: cum suus dicat magister / hoc 
+      <lb ed="#B" n="42"/>nihil est: et non dubito id sepe legerit: quia 
+      <lb ed="#B" n="43"/>nulla virtus creata potest hoc modo 
+      quod<lb ed="#B" n="44" break="no"/>cumque corpus in aliud conuertere. Dicamus 
+      <lb ed="#B" n="45"/>igitur cum doctore / et hoc. 2. q. primi articu 
+      <lb ed="#B" n="46"/>li. Et in primo dist. 36. quod aliquid aliquan 
+      <lb ed="#B" n="47"/>do est impossibile ratione vnica: aliquid 
+      <lb ed="#B" n="48"/>rationibus duabus aut pluribus vt 
+      quan<lb ed="#B" n="49" break="no"/>titas nequit esse qualitas ex vnica sua pro 
+      <!--740.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>pria ratione. In ente enim conueniunt quantitas 
+      <lb ed="#B" n="51"/>continua ex duabus: et quae sunt 
+      impossibi<lb ed="#B" n="52" break="no"/>lia ex duobus / sunt magis impossibilia / aui 
+      <lb ed="#B" n="53"/>pluribus rationibus quam quae sunt impossibilia 
+      <lb ed="#B" n="54"/>ex vno. Sic corpus non habet tantam 
+      impos<lb ed="#B" n="55" break="no"/>sibilitatem vt in corpus conuertatur: aut tot 
+      <lb ed="#B" n="56"/>impossibilitates quot sunt vt corpus in spiritum 
+      <lb ed="#B" n="57"/>conuertatur / aut econtra: et ita vnum respectu 
+      <lb ed="#B" n="58"/>alterius dicitur possibile / reliquum 
+      impossibi<lb ed="#B" n="59" break="no"/>le / non simpliciter sed respectiue: licet vtrum 
+      <lb ed="#B" n="60"/>que sit possibile deo. De respectibus et respe 
+      <lb ed="#B" n="61"/>ctus potest conuerti in absolutum / et secundo 
+      ab<lb ed="#B" n="62" break="no"/>solutum in respectum / et respectus in respectum: 
+      <lb ed="#B" n="63"/>ita tamen quod dicamus quod respectus suum habe 
+      <lb ed="#B" n="64"/>at modum in subiecto essendi: nisi diceremus 
+      <lb ed="#B" n="65"/>secundum quod quidam glo. in praedicamentis philosophum 
+      dicen<lb ed="#B" n="66" break="no"/>tem. Ad aliquid sunt quaecumque hocipsum quod sunt 
+      <lb ed="#B" n="67"/>ad aliud sunt / vt relatio sit tantum ad. Unde et 
+      <lb ed="#B" n="68"/>motus fuit Gilbertus porretani in commen 
+      <lb ed="#B" n="69"/>to super Boetio de trinitate / ad ponendum 
+      <lb ed="#B" n="70"/>relationes assistentes: et huiusmodi nomins est reper 
+      <lb ed="#B" n="71"/>tor: vt de eo scripsit Albertus magnus in 
+      li<lb ed="#B" n="72" break="no"/>bro. 6. principiorum: quem edidit idem Gilbet 
+      <lb ed="#B" n="73"/>tus: sed post idipsum in concilio remensi (vt di 
+      <lb ed="#B" n="74"/>cunt quidam retractauit beato cogente 
+      bernar<lb ed="#B" n="75" break="no"/>do / et praesente Cugenio. 2. assumpto de or 
+      <lb ed="#B" n="76"/>dine cistertiensium: ad quem edidit librum de 
+      <lb ed="#B" n="77"/>consideratione Bern. quinque libellis 
+      com<lb ed="#B" n="78" break="no"/>prehensum.
+</p>
+               <p xml:id="WuV37d-f66139-d1e963">
+¶ Secunda conclusio est haec 
+      <lb ed="#B" n="79"/>Sic materia panis in materiam conuertitur domini 
+      <lb ed="#B" n="80"/>ci corporis / et forma in formam vt neutrum: ne 
+      <lb ed="#B" n="81"/>que panis annihiletur. haec conclusio habet tres 
+      <lb ed="#B" n="82"/>partes. Primae duae currunt simul / quod 
+      mate<lb ed="#B" n="83" break="no"/>ria conuertitur in materiam / et forma in formam: 
+      <lb ed="#B" n="84"/>et patet: quia totus panis conuertitur in totum cor 
+      <lb ed="#B" n="85"/>pus christi: igitur a simili pars similis in partem si 
+      <lb ed="#B" n="86"/>milem. Patet consequentia. Antecedens patet. Tum pis 
+      <lb ed="#B" n="87"/>mo per Ambro. de sacramentis: et ponitur de 
+      <lb ed="#B" n="88"/>conse. disti. 2. Panis est in altari / vbi 
+      ac<lb ed="#B" n="89" break="no"/>cessit consecratio de pane fit corpus christi 
+      <lb ed="#B" n="90"/>Secundo in ca. Reuera mirabile est: 
+      ser<lb ed="#B" n="91" break="no"/>mo qui potuit facere quae non erant non po 
+      <lb ed="#B" n="92"/>test mutare ea quae sunt in id quod non erant 
+      <lb ed="#B" n="93"/>q. d. sic. Tertio Cusebius / et ponitur ibi 
+      <lb ed="#B" n="94"/>dem / quod corpus inuisibilis sacerdos visibi 
+      <lb ed="#B" n="95"/>es creaturas in substantiam corporis et san 
+      <lb ed="#B" n="96"/>guinis sui sua secreta potestate commutat. Fu 
+      <lb ed="#B" n="97"/>it tamen opinine fratrem Ioanmnis parrhvsien. ordi 
+      <lb ed="#B" n="98"/>nis praedicatorum / panem manere / non conuerti¬ 
+      <!--741.xml-->
+      <pb ed="#B" n="362-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>primo: quia sufficit ad fidem praesentia corporis 
+      <lb ed="#B" n="2"/>christi. Secundo: quia exquo creditum est vni 
+      <lb ed="#B" n="3"/>uersale: vt quod christus est ibi: non debet arta 
+      <lb ed="#B" n="4"/>ri modus / vt quod sine substantia panis. 
+      Ter<lb ed="#B" n="5" break="no"/>tio nec hoc reperitur in sacra scriptura: nec 
+      se<lb ed="#B" n="6" break="no"/>quitur ex ea: nec est determinatum ab ecclesia. 
+      <lb ed="#B" n="7"/>In contrarium huius vltimi Tho. venit in 
+      prae<lb ed="#B" n="8" break="no"/>ienti distin. arti: 1. q. 1. in solutione primae quae 
+      <lb ed="#B" n="9"/>stiumcuterpredicator in predicatorem. Sic enim 
+      <lb ed="#B" n="10"/>vt dicit Stacius thebaidos: vmbone 
+      re<lb ed="#B" n="11" break="no"/>pellitur vmbo. Et dicit quod immo. Quia 
+      dicen<lb ed="#B" n="12" break="no"/>do: hoc est corpus meum: expresse insinuat 
+      <lb ed="#B" n="13"/>panem non manere: quia alitur propositio esset fal 
+      <lb ed="#B" n="14"/>sa. Frater Ioam. dicit hoc non cogere: quia non 
+      <lb ed="#B" n="15"/>demonstraretur substantia panis / sed corpus 
+      <lb ed="#B" n="16"/>christi ibi contentum: sicut nec modo 
+      demon<lb ed="#B" n="17" break="no"/>strantur accidentia. Frater Guiller. de obam 
+      <lb ed="#B" n="18"/>qui flos modernorum nominatur / et inceptor 
+      ve<lb ed="#B" n="19" break="no"/>nerabilis: in quarto / in materia eucharistiae 
+      <lb ed="#B" n="20"/>q. 3. in solu. septimi dubii diciti / quod panis non 
+      <lb ed="#B" n="21"/>conuertitur / sed desinit esse: vel primo per anni 
+      <lb ed="#B" n="22"/>hilationem / vel secundo per resolutionem in ma 
+      <lb ed="#B" n="23"/>teriam / vel tertio per corruptionem in aliud. 
+      <lb ed="#B" n="24"/>Probatur primo: quia pauciora miracula sufi 
+      <lb ed="#B" n="25"/>ficiunt. Tum secundo: quia talis conuersio est ni 
+      <lb ed="#B" n="26"/>mis difficilis ad credendum. Tum tertio: quia 
+      <lb ed="#B" n="27"/>ista conuersio non videtur magis probari ex 
+      scri<lb ed="#B" n="28" break="no"/>ptura quam panem desinere esse. Contra istam opi 
+      <lb ed="#B" n="29"/>nionem et praecedentem arguit Tho. vbi. supra. c 
+      <lb ed="#B" n="30"/>prima conclusio est inconueniens: secunda 
+      impos<lb ed="#B" n="31" break="no"/>sibilis: tertia haeretica. Primum probatur ex 
+      <lb ed="#B" n="32"/>tribus. Primo: quia tollit reuerentiam 
+      debi<lb ed="#B" n="33" break="no"/>tam christo: quae non potest sibi exhiberi cum 
+      <lb ed="#B" n="34"/>substantia panis propter idolatriam. Secundo quia 
+      <lb ed="#B" n="35"/>debent accidentia immediate signare corpus 
+      <lb ed="#B" n="36"/>christi: quod non facerent si ibi esset substantia 
+      <lb ed="#B" n="37"/>panis. Tertio tolleretur verus vsus 
+      sacra<lb ed="#B" n="38" break="no"/>menti / si ibi esset substantia corporalis panis. 
+      <lb ed="#B" n="39"/>Secundo quod sit impossibilis etiam et secunda: 
+      <lb ed="#B" n="40"/>quia corpus christi non posset esse hoc / nisi 
+      ali<lb ed="#B" n="41" break="no"/>quid mutaretur in ipsum. Tertio quod sit haereti 
+      <lb ed="#B" n="42"/>ca patet: quia contra sacram scripturam / vbi dicitur: 
+      <lb ed="#B" n="43"/>Hoc est corpus meum: non dicit / hic est 
+      cor<lb ed="#B" n="44" break="no"/>pus meum. sed hoc est. Contra secundam opini 
+      <lb ed="#B" n="45"/>onem arguit idem vbi. supra. q. 2. quod non potest 
+      resol<lb ed="#B" n="46" break="no"/>ui substantia panis in materiam: quia aut in ma 
+      <lb ed="#B" n="47"/>teriam nudam: et hoc non est possibile: quia non est 
+      <lb ed="#B" n="48"/>danda materia sine forma: aut in materiam in 
+      <lb ed="#B" n="49"/>formatam: et tunc rediret inconueniens: quod di 
+      <!--741.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>ctum est si maneat cum accidentibus: vt quod sit 
+      po<lb ed="#B" n="51" break="no"/>sitio haeretica: aut tertio non maneret: et tunc 
+      <lb ed="#B" n="52"/>exquo et corpus posset percipi motus eius. 
+      <lb ed="#B" n="53"/>Sed satis ostendit Scotus in littera / 
+      quicquid<lb ed="#B" n="54" break="no"/>sit de conclusione: has neminem cogere ratio 
+      <lb ed="#B" n="55"/>ones: vnde magis inuestigando / et tertiam 
+      te<lb ed="#B" n="56" break="no"/>nendo opinionem / quam ponit Innocem. tertius 
+      <lb ed="#B" n="57"/>de officio missae / parte. 3. c. 16. quod substantia pa 
+      <lb ed="#B" n="58"/>nis conuertitur in corpus christi / et vinum in 
+      san<lb ed="#B" n="59" break="no"/>guinem. Quomodo possit conuerti substantia pa 
+      <lb ed="#B" n="60"/>nis in praexistens. Egidius de roma in suis thec 
+      <lb ed="#B" n="61"/>re. quae sunt. 50. theoremata. Primo dicit 
+      <lb ed="#B" n="62"/>quod causa est: quia deus aspicit materiam vt 
+      quid<lb ed="#B" n="63" break="no"/>et ita potest sibi imprimere quamcumque formam: es 
+      <lb ed="#B" n="64"/>forma distincta numero facit materiam 
+      di<lb ed="#B" n="65" break="no"/>stinctam numero: et ita posita forma corpo 
+      <lb ed="#B" n="66"/>ris christi in materia panis: materia panis 
+      <lb ed="#B" n="67"/>efficitur materia corporis christi. Sed contra 
+      <lb ed="#B" n="68"/>hoc: quia posterius prius non variat: vnde illa ma 
+      <lb ed="#B" n="69"/>teria sic dicendo est eadem sper secundum se in suo 
+      pri<lb ed="#B" n="70" break="no"/>ori: etiam sic ponendo esset generatio / non trans 
+      <lb ed="#B" n="71"/>substantiatio: vnde ratio potissima huius 
+      transsub<lb ed="#B" n="72" break="no"/>stantiationis est: quia ambo termini sunt in ple 
+      <lb ed="#B" n="73"/>na obedientia dei. Sed quaeritur terminus for 
+      <lb ed="#B" n="74"/>malis huius conuersionis? Dicit Tho. prima 
+      <lb ed="#B" n="75"/>parte summae. q. 76. artict. 3. et. 4. quod in 
+      natura<lb ed="#B" n="76" break="no"/>humana non est nisi materia prima et anima intel 
+      <lb ed="#B" n="77"/>lectiua. Tum quia vnius entis est vnum esse quod 
+      <lb ed="#B" n="78"/>est a forma. Tum secundo: quia forma substan 
+      <lb ed="#B" n="79"/>tialis dat esse simpliciter: et ita non sunt 
+      qua<lb ed="#B" n="80" break="no"/>rendae in eodem plures formae ordinatae. Tum 
+      <lb ed="#B" n="81"/>tertio: quia pluralitas non est ponenda sine 
+      ne<lb ed="#B" n="82" break="no"/>cessitate. Dicit tunc Tho. in praesenti dist. ai 
+      <lb ed="#B" n="83"/>ti. 1. q. 1. soluendo argumentum secundum quaestium 
+      <lb ed="#B" n="84"/>culae. 3. quod terminus huius conuersionis est 
+      com<lb ed="#B" n="85" break="no"/>positum ex materia et anima intellectiua / vt dat 
+      <lb ed="#B" n="86"/>esse corporeum / et non vt dat esse hominem. Sed 
+      <lb ed="#B" n="87"/>contra: quia idem fuit secundum numerum corpus 
+      chri<lb ed="#B" n="88" break="no"/>sti viuum et mortuum. Egidius de roma dicit 
+      <lb ed="#B" n="89"/>theore. 26. 29. et. 3o quod materia habens esse 
+      <lb ed="#B" n="90"/>quantitatiuum: est illud in quod fit conuersio. 
+      <lb ed="#B" n="91"/>Sed contra: quia non sunt efficatiora verba 
+      <lb ed="#B" n="92"/>sanguinis quam corporis: et tamen sanguis non est 
+      so<lb ed="#B" n="93" break="no"/>lum materia cum modo quantitatiuo: igitur nec 
+      <lb ed="#B" n="94"/>corpus. Unde motus doctor solem. dicit quali. 
+      <lb ed="#B" n="95"/>3. q. 6. 6. 15. 20. et in multis aliis locis: quae no 
+      <lb ed="#B" n="96"/>taui in tractatu quem composui de opinionibus / 
+      <lb ed="#B" n="97"/>quae sunt in doctore subti. quod in productis ab eo 
+      <lb ed="#B" n="98"/>dem agente non est nisi vna forma in producto a 
+      <!--742.xml-->
+      <pb ed="#B" n="363-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>duobus non concludunt rationes Tho. 
+      cuius<lb ed="#B" n="2" break="no"/>modi est homo: et ita secundum eum et doctorem nostrum 
+      <lb ed="#B" n="3"/>terminus formalis huiusmodi conuersionis est 
+      <lb ed="#B" n="4"/>forma corporeitatis / non anima intellectiua 
+      <lb ed="#B" n="5"/>Tertia pars diciti / quod panis / aut 
+      materia<lb ed="#B" n="6" break="no"/>aut forma eius non annihilatur. Patet: quia 
+      <lb ed="#B" n="7"/>terminus annihilationis est nihil: terminus autem 
+      <lb ed="#B" n="8"/>omnoi conuersionis est corpus christi.
+</p>
+               <p xml:id="WuV37d-f66139-d1e1256">
+¶ 
+      Ter<lb ed="#B" n="9" break="no"/>tia conclusio est de materia conuersionis: 
+      <lb ed="#B" n="10"/>et est haec. Solus panis triticeus et vinum 
+      vi<lb ed="#B" n="11" break="no"/>tis expessum aqua posita de congruo / non de ne 
+      <lb ed="#B" n="12"/>cessitate simplicitur / sunt materia sacmeni. Ista 
+      <lb ed="#B" n="13"/>conclusio tres habet partes: quae patent ex 
+      pri<lb ed="#B" n="14" break="no"/>mo arti. solum de aqua triplex est ratio: vt no 
+      <lb ed="#B" n="15"/>tat frater Richar. arti. 3. q. 1. Tum primo: 
+      <lb ed="#B" n="16"/>quia christus vt temperatus posuit aquam in 
+      vi<lb ed="#B" n="17" break="no"/>no. Tum secundo: quia in cruce exiuit de latere. 
+      <lb ed="#B" n="18"/>Tum tertio: quia petrus qui praesens fuit sic obser 
+      <lb ed="#B" n="19"/>uandum mandauit. Et tantum de secundo articulo. 
+      <lb ed="#B" n="20"/>Quantum ad tertium articu 
+      <lb ed="#B" n="21"/>lum sunt 
+      <lb ed="#B" n="22"/>tres difficultates.
+</p>
+               <p xml:id="WuV37d-f66139-d1e1289">
+¶ Prima difficul 
+      <lb ed="#B" n="23"/>tas. Qualibus verbis debet exprimi huiumoi 
+      <lb ed="#B" n="24"/>conuersio? Dicit doc. in. 5. q. praesentis dist. quae 
+      <lb ed="#B" n="25"/>est sine argumentis / tria dicta. Primum di 
+      <lb ed="#B" n="26"/>ctum: nec per verbum essendi / nec secundo per ver 
+      <lb ed="#B" n="27"/>bum fiendi: nec tertio per potest aut possibile: po 
+      <lb ed="#B" n="28"/>test huiusmodi conuersio in recto exprimi: vnde ista 
+      <lb ed="#B" n="29"/>est falsa: Panis est / erit / fuit corpus christi / et 
+      <lb ed="#B" n="30"/>econtra: sic de verbo fiendi et posse. Secun 
+      <lb ed="#B" n="31"/>dum dictum: cum ex arguit de in obliquo respe 
+      <lb ed="#B" n="32"/>ctu termini a quo potest exprimi haec con 
+      <lb ed="#B" n="33"/>uersio denotando ordinem: vt ex mane fit 
+      <lb ed="#B" n="34"/>meridies: vt si dicatur / ex pane fit corpus 
+      <lb ed="#B" n="35"/>christi. Tertium dictum quod potest exprimi ad 
+      <lb ed="#B" n="36"/>dendo ad terminum ad quem hanc praepositio 
+      <lb ed="#B" n="37"/>nem in: vt dicendo / panis transsubstantiatur in 
+      <lb ed="#B" n="38"/>corpus christi: nullo autem accepto motu 
+      <lb ed="#B" n="39"/>aut mutatione proprie.
+</p>
+               <p xml:id="WuV37d-f66139-d1e1328">
+¶ Secunda 
+      dif<lb ed="#B" n="40" break="no"/>ficultas. Si potest confici de amido. Ami 
+      <lb ed="#B" n="41"/>dum seu amiclum secundum Platearium in libro qui 
+      <lb ed="#B" n="42"/>dicitur circa instans: est temperate calidum et 
+      <lb ed="#B" n="43"/>humidum: vnde valet contra morbos 
+      spi<lb ed="#B" n="44" break="no"/>ritualium: vnde dicitur amiclum: quia fert 
+      amini<lb ed="#B" n="45" break="no"/>culum: vel amidum quasi amicum. d. in. c. muta 
+      <lb ed="#B" n="46"/>ta. Sic solebat dicere egregius doctor fra 
+      <lb ed="#B" n="47"/>ter Iuo fabri quaudam minister turon. Ami 
+      <lb ed="#B" n="48"/>dum ami doux. Fit autem hoc modo. Triticum 
+      <lb ed="#B" n="49"/>ponitur in aqua frigida per noctem et dicit: et 
+      <!--742.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>tunc remouetur aqua / et alia ponitur: et sic 
+      <lb ed="#B" n="51"/>consequenter / donec triticum putrefiet: et tunc 
+      <lb ed="#B" n="52"/>colatur triticum et lauatur: et quod album 
+      re<lb ed="#B" n="53" break="no"/>manet amidum vocatur: vnde valde dubium est. 
+      <lb ed="#B" n="54"/>aut satis incertum quod transmutet speciem: ide 
+      <lb ed="#B" n="55"/>non esset tutum de eo celebrare.
+</p>
+               <p xml:id="WuV37d-f66139-d1e1370">
+¶ Tertia 
+      <lb ed="#B" n="56"/>difficultas. Si de spelta potest missa celi 
+      <lb ed="#B" n="57"/>brari: Respondeo. Spelta dicitur tripliciter 
+      <lb ed="#B" n="58"/>Uno modo vt sit bladum quod non est 
+      frumen<lb ed="#B" n="59" break="no"/>tum aut auena: et sic capiunt supra ripam ianu 
+      <lb ed="#B" n="60"/>ensem / seu supra mare ianuense (vt 
+      proba<lb ed="#B" n="61" break="no"/>ui petendo prebendam equo meo) et sic de 
+      <lb ed="#B" n="62"/>spelta non potest celebrari. Secundo modo 
+      <lb ed="#B" n="63"/>dicitur spelta in britamnia / paumelle / in parti 
+      <lb ed="#B" n="64"/>bus pictauiae / besorge: quia habet granum ad 
+      <lb ed="#B" n="65"/>modum hordei: sed hordeum in culmo est ma 
+      <lb ed="#B" n="66"/>gis rotundum aut quadrum / spelta vero lata: 
+      <lb ed="#B" n="67"/>et hoc modo etiam de spelta non potest confici. Ter 
+      <lb ed="#B" n="68"/>tio modo dicitur spelta quddam genus frumenti 
+      <lb ed="#B" n="69"/>abundans in partibus alemaniae: cuius panis est 
+      <lb ed="#B" n="70"/>suauissimus et leuissimus et albississimus: et gra 
+      <lb ed="#B" n="71"/>num habet vt frumentum nostrum: et volui conspicere 
+      <lb ed="#B" n="72"/>etiam in culmo: vnde mihi videtur (vt occurrit 
+      <lb ed="#B" n="73"/>memoriae ) quod aliquando in vno culmo sunt multae ari 
+      <lb ed="#B" n="74"/>stae: quod non contingit in partibus pictauiae: et de 
+      <lb ed="#B" n="75"/>isto vidi celebrare communiter in Basilea / et 
+      si<lb ed="#B" n="76" break="no"/>ne peccato: quia verum frumentum est: vt patet ex 
+      <lb ed="#B" n="77"/>operationibus et proprietatibus. Et videtur esse 
+      il<lb ed="#B" n="78" break="no"/>lud triticum de quo facit mentionem Franciso 
+      <lb ed="#B" n="79"/>de maronis in. 6. distin. quarti / articn. 6. Et 
+      <lb ed="#B" n="80"/>sic patet ad. q. quod videlicet in 
+      transsubstantia<lb ed="#B" n="81" break="no"/>tione panis triticeus et vinum vitis 
+      conuer<lb ed="#B" n="82" break="no"/>tuntur in corpus et sanguinem dominicum. Et tunc 
+      <lb ed="#B" n="83"/>ad argumenta.
+</p>
+               <p xml:id="WuV37d-f66139-d1e1434">
+¶ Ad primum patet solutio in 
+      <lb ed="#B" n="84"/>prima conclusione / quod est versio / et sufficit.
+</p>
+               <p xml:id="WuV37d-f66139-d1e1439">
+¶ Ad  
+      <lb ed="#B" n="85"/>secundum dicendum / quod fit conuersio in id quod est: nec 
+      <lb ed="#B" n="86"/>tamen crescit: quia non fit conuersio per nutritionem 
+      <lb ed="#B" n="87"/>sed solum per transsubstantiationem.
+</p>
+               <p xml:id="WuV37d-f66139-d1e1448">
+¶ Ad tertium 
+      <lb ed="#B" n="88"/>dicendum / quod non est aeque bene: exquo placuit 
+      <lb ed="#B" n="89"/>christo: sicut probatum est in principio secundae 
+      <lb ed="#B" n="90"/>distinctionis per multa decreta.
+</p>
+            </div>
+            <div xml:id="WuV37d-f66139-Dd1e1458" type="et-conclusiones">
+               <head xml:id="WuV37d-f66139-Hd1e1460">Conclusiones</head>
+               <p xml:id="WuV37d-f66139-d1e1463">
+¶ Ex ista 
+      <lb ed="#B" n="91"/>distin. sicut de praece. de mente magistri etc 
+      <lb ed="#B" n="92"/>Prima conclusio. Panis substantia non ma 
+      <lb ed="#B" n="93"/>net creditur in sacra hostia / sed conuertitur. Di 
+      <lb ed="#B" n="94"/>cit conclusio / quod in sacramento altaris conuertitur 
+      <lb ed="#B" n="95"/>panis / etiam vinum in corpus christi et 
+      sangui<lb ed="#B" n="96" break="no"/>nem. Et ponitur a principio dis. vsque ad illud 
+      <lb ed="#B" n="97"/>capitulum: Sub alia autem specie etc.
+</p>
+               <p xml:id="WuV37d-f66139-d1e1481">
+¶ Secun 
+      <lb ed="#B" n="98"/>da conclusio est haec. Causa triplici sic oc. 
+      <!--743.xml-->
+      <pb ed="#B" n="363-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>cultatur forma duplici qui nobis datur. 
+      Di<lb ed="#B" n="2" break="no"/>cit conclusio / quod triplici de causa scilicet propter me 
+      <lb ed="#B" n="3"/>ritum propter horrorem fugiendum / et irrisiones 
+      <lb ed="#B" n="4"/>paganorum / christus sic nobis datur in sacramentoet sub 
+      <lb ed="#B" n="5"/>forma duplici: et quia est cibus et potus. Et po 
+      <lb ed="#B" n="6"/>nitur ab illo ca. Sub alia autem specie etc. vs 
+      <lb ed="#B" n="7"/>que ad illud. c. Aqua vero admiscenda est etc. 
+      </p>
+               <p xml:id="WuV37d-f66139-d1e1507">
+                  <lb ed="#B" n="8"/>¶ Tertia conclusio est haec. Aquae mixtio 
+      <lb ed="#B" n="9"/>vini debita / sed intinctio est inhibita. 
+      Di<lb ed="#B" n="10" break="no"/>cit conclusio. Aqua semper debet 
+      admisce<lb ed="#B" n="11" break="no"/>ri cum vino in celebratione missae: sed hostia 
+      <lb ed="#B" n="12"/>intincta non debet dari populo. Et ponitur 
+      <lb ed="#B" n="13"/>haec conclusio ab illo. c. Aqua vero admiscen 
+      <lb ed="#B" n="14"/>da est vino: vsque ad finem dist. 
+</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

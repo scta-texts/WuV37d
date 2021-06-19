@@ -1,0 +1,765 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 5</title>
+            <author ref="#WilliamDeVaurouillon">William de Vaurouillon</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 5</title>
+               <date when="2021-06-19">June 19, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-bvbVBV">Basel 1510</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-06-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="142-v"/>
+            <cb ed="#B" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="WuV37d-e65599"><!-- l2d5 -->
+            <head xml:id="WuV37d-e65599-Hd1e108">Distinctio 5</head>
+            <div xml:id="WuV37d-e65599-Dd1e111" type="circa-textum">
+               <head xml:id="WuV37d-e65599-Hd1e113">Circa textum</head>
+               <p xml:id="WuV37d-e65599-d1e116">
+                  <lb ed="#B" n="61"/>Distinctio. 5. tractat de angelbrum 
+      <lb ed="#B" n="62"/>peruersorum auersione: et bonorum 
+      <lb ed="#B" n="63"/>couersione.
+    </p>
+               <p xml:id="WuV37d-e65599-d1e125">
+                  <lb ed="#B" n="64"/>Ost hec con 
+      <lb ed="#B" n="65"/>sideratio adducit inqua 
+      <lb ed="#B" n="66"/>rere quales effecti sunt 
+      <lb ed="#B" n="67"/>dum diuiderentur 
+      auersi<lb ed="#B" n="68" break="no"/>one et couersione etc. 
+      <lb ed="#B" n="69"/>Hic signatur quinta distinctio huius 
+      secun<lb ed="#B" n="70" break="no"/>di: quae sic continuatur ad praecedentes: Nam post 
+      <lb ed="#B" n="71"/>quam in tertia et quarta distinctionibus posita 
+      <lb ed="#B" n="72"/>est angelica creatio in praesenti 
+      distincti<lb ed="#B" n="73" break="no"/>one declaratur diabolica auersio. Et 
+      parti<lb ed="#B" n="74" break="no"/>tur ista pars in tres partes principales. In 
+      <lb ed="#B" n="75"/>prima daemionis miseri panditur auersio. In 
+      se<lb ed="#B" n="76" break="no"/>cunda eius ostenditur de caelis celeri casu de 
+      <lb ed="#B" n="77"/>scensio. In tertia qualis luciferi est obsti 
+      <lb ed="#B" n="78"/>natio. prima in principio. secunda dist. 6. 
+      <lb ed="#B" n="79"/>bi. Praeterea sciri opertet etc. entia ibi. di. 7. 
+      <lb ed="#B" n="80"/>Supra dictum est quod angeli etc. Prima rut 
+      <lb ed="#B" n="81"/>sus particula quae est praesens dist. In qua 
+      <lb ed="#B" n="82"/>daemonis miseri panditur auersio in tres 
+      <lb ed="#B" n="83"/>partes diuiditur. In prima: quid sit auersio 
+      <lb ed="#B" n="84"/>atque conuersio clare ostenditur. In secunda quae 
+      <lb ed="#B" n="85"/>haec conditio sit et affectio plane exprimitur. 
+      <lb ed="#B" n="86"/>In tertia est dubitatio cuius solutio in pa 
+      <lb ed="#B" n="87"/>lam ponitur. prima in principio. secunda ibi 
+      <lb ed="#B" n="88"/>Habebant enim omnes: tertia ibi. Si autem quae 
+      <lb ed="#B" n="89"/>ritur vtrum post creationem etc. Et ista tertia 
+      <lb ed="#B" n="90"/>pars in tres partes diuiditur. In prima 
+      ostem<lb ed="#B" n="91" break="no"/>dit quod in conuersione hominis confertur gratia. In 
+      <lb ed="#B" n="92"/>secunda ostendit: quod inest ex auersione malis 
+      <lb ed="#B" n="93"/>iuste miseria. In tertia ostendit quod 
+      conuer<lb ed="#B" n="94" break="no"/>sio in bonis in confirmatione non fuit 
+      meri<lb ed="#B" n="95" break="no"/>toria. prima in principio. secunda ibi. Idque 
+      <lb ed="#B" n="96"/>a quibusdam dicitur. tertia ibi. Hic quaeri 
+      <!--302.xml-->
+      <pb ed="#B" n="143-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>solet vtrum in ipsa etc. Et haec est diuisio etc. 
+      <lb ed="#B" n="2"/>Circa quam quaeritur. 
+      </p>
+            </div>
+            <div xml:id="WuV37d-e65599-Dd1e211">
+               <head xml:id="WuV37d-e65599-Hd1e213">Quaestio</head>
+               <p xml:id="WuV37d-e65599-d1e216">
+                  <lb ed="#B" n="3"/>¶ Quaestio ista docet: an angeli prius 
+      <lb ed="#B" n="4"/>beatitudine quam acceperut meru 
+      <lb ed="#B" n="5"/>erint: vel in instanti creationis 
+      be<lb ed="#B" n="6" break="no"/>ati / et daemones miseri: in qua repre 
+      <lb ed="#B" n="7"/>hendit opinionem sancti Thomae. Et 
+      <lb ed="#B" n="8"/>recitatur defectus magistri 
+      sententi<lb ed="#B" n="9" break="no"/>arum primus in isto secundo. Et 
+      ha<lb ed="#B" n="10" break="no"/>betur a Scoto in isto passu in 
+      dua<lb ed="#B" n="11" break="no"/>bus quaestionibus. 
+      <lb ed="#B" n="12"/> N demonum ex 
+      <lb ed="#B" n="13"/>superbia auersio / et bonorum 
+      consum<lb ed="#B" n="14" break="no"/>mata conuersio merito fuerit prae 
+      <lb ed="#B" n="15"/>uio: Et arguitur primo / quod auersio daemonum 
+      <lb ed="#B" n="16"/>non fuerit per superbiam.
+</p>
+               <p xml:id="WuV37d-e65599-d1e249">
+¶ Primo sic de 
+      luci<lb ed="#B" n="17" break="no"/>fero. Peccatum daemonis fuit maximum: sed su 
+      <lb ed="#B" n="18"/>perbia non est maximum peccatum: igitur prima ei 
+      <lb ed="#B" n="19"/>auersio non extitit superbia. Maior patet. 
+      <lb ed="#B" n="20"/>Tum ratione eius in quem peccauit / quia in deum. 
+      <lb ed="#B" n="21"/>Tum ratione eius qui peccauit: quia angelus in statu 
+      <lb ed="#B" n="22"/>perfecto. Tum tertio ratione peccati quod est irremis 
+      <lb ed="#B" n="23"/>sibile. Sed minor patet: quia opposium superbiae 
+      <lb ed="#B" n="24"/>est humilitas: quae non est maxima virtus. Pro 
+      <lb ed="#B" n="25"/>atur: quia potest esse informis / non charitas. Tun 
+      <lb ed="#B" n="26"/>irsus: quia est species temperantiae: quae minima est 
+      <lb ed="#B" n="27"/>ritutum cardinalium.
+</p>
+               <p xml:id="WuV37d-e65599-d1e275">
+¶ Secundo arguitur ad  
+      <lb ed="#B" n="28"/>est sic de caeteris daemonibus. Omnis superbus 
+      <lb ed="#B" n="29"/>opetit praesse / non subesse: sed minores 
+      de<lb ed="#B" n="30" break="no"/>nones appetebant subesse / non praesse: ergo 
+      <lb ed="#B" n="31"/>deo fuit peccatum eorum primum superbia. Maior 
+      <lb ed="#B" n="32"/>atet per beatam Augstin. 14. de ciui. dei 
+      diffini<lb ed="#B" n="33" break="no"/>ntem superbiam. Quid est inquit superbia / 
+      nisi<lb ed="#B" n="34" break="no"/>uersae celsitudinis appetitus: ideo dicitur 
+      <lb ed="#B" n="35"/>iperbia / quasi super alios iens. Sed patet mi 
+      <lb ed="#B" n="36"/>or auctoritate magistri: et hugonis de sancto 
+      <lb ed="#B" n="37"/>ictore dicentium quod perui demones consentie 
+      <lb ed="#B" n="38"/>ant lucifero: et ita ponebant se sub eius 
+      do<lb ed="#B" n="39" break="no"/>inio: et eis certum erat non posse iugum di 
+      <lb ed="#B" n="40"/>ittere dei.
+</p>
+               <p xml:id="WuV37d-e65599-d1e306">
+¶ Tertio arguitur: quod bonorum 
+      <lb ed="#B" n="41"/>igelorum consummata conuersio non fuerit meri 
+      <lb ed="#B" n="42"/>praecedenti. Nullum magnum praemium datur a 
+      <lb ed="#B" n="43"/>o sine magno merito: sed beatitudo ange 
+      <lb ed="#B" n="44"/>a seu consummata conuersio fuit maximum 
+      per<lb ed="#B" n="45" break="no"/>ium: ergo summum exegit meritum: et istud non 
+      po<lb ed="#B" n="46" break="no"/>it esse in tam perua morula: cum etiam homo 
+      via<lb ed="#B" n="47" break="no"/>ecum magno. labore per totam vitam hoc ac¬ 
+      <!--302.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="48"/>quirat: et ita videtur quod hoc praemium merentur 
+      <lb ed="#B" n="49"/>nobis ministrando. Maior patet ex ratione 
+      <lb ed="#B" n="50"/>iusticiae distributiuae: quae secundum merita 
+      ponde<lb ed="#B" n="51" break="no"/>rat praemia. Sed patet minor per Augstin. dicen 
+      <lb ed="#B" n="52"/>tem: Summa merces est vt ipso perfruamur. 
+      </p>
+               <p xml:id="WuV37d-e65599-d1e340">
+                  <lb ed="#B" n="53"/>¶ In oppositum autem primi primo arguitur de 
+      <lb ed="#B" n="54"/>lucifero auctoritate Aurelii augustinus 1. super Ben. 
+      <lb ed="#B" n="55"/>ad litteram. Factus (continue se a luce verita 
+      <lb ed="#B" n="56"/>tis auertit) superbus / tumidus: et propriae po 
+      <lb ed="#B" n="57"/>testatis delectatione corruptus. Secundo de 
+      <lb ed="#B" n="58"/>minoribus daemonibus auctoritate Breg. 2. mo 
+      <lb ed="#B" n="59"/>ralis. Tanto magis homines ad caelestia 
+      ascen<lb ed="#B" n="60" break="no"/>dere inuident / quanto se a caelestibus per 
+      immun<lb ed="#B" n="61" break="no"/>diciam elationis desertos vident. Tertio 
+      ar<lb ed="#B" n="62" break="no"/>guitur quod meritum praecesserit praemium in bonis 
+      <lb ed="#B" n="63"/>angelis auctoritate beati Augustinus in li. de 
+      corru<lb ed="#B" n="64" break="no"/>ptione et gratia. Angeli sancti qui cadentibus 
+      <lb ed="#B" n="65"/>aliis steterunt: illius vitae mercedem recipere 
+      <lb ed="#B" n="66"/>meruerunt.
+</p>
+               <p xml:id="WuV37d-e65599-d1e373">
+¶ In ista quaestione ad alias pa 
+      <lb ed="#B" n="67"/>riformitur sunt tres articuli declarandi 
+      <lb ed="#B" n="68"/>Primus est terminorum 
+      decla<lb ed="#B" n="69" break="no"/>Quorum Bratiuus. 
+      <lb ed="#B" n="70"/>Secundus est quaestionis responsiuus. 
+      <lb ed="#B" n="71"/> Tertius est dubiorum motiuus.  
+      </p>
+               <p xml:id="WuV37d-e65599-d1e386">
+                  <lb ed="#B" n="72"/>¶ Quantum ad primum arti 
+      <lb ed="#B" n="73"/>uli 
+      <lb ed="#B" n="74"/>termini sunt: conuersio / auersio et demon. 
+      </p>
+               <p xml:id="WuV37d-e65599-d1e395">
+                  <lb ed="#B" n="75"/>¶ Primus igitur terminus est conuersio. Unde con 
+      <lb ed="#B" n="76"/>uersio solet capi tripliciter. Uno modo 
+      dici<lb ed="#B" n="77" break="no"/>tur conuersio propositionum transmutatio scilicet dum 
+      <lb ed="#B" n="78"/>de subiecto fit praedicatum / et de praedicato 
+      sub<lb ed="#B" n="79" break="no"/>iectum. Et isto modo apud logicos extat 
+      con<lb ed="#B" n="80" break="no"/>uersio triplex. simplex / per accidens / et per con 
+      <lb ed="#B" n="81"/>trapositionem. Et notat magnus Albertus  
+      <lb ed="#B" n="82"/>in perdicamentis / super praedicamento ad aliquid: 
+      <lb ed="#B" n="83"/>quod ista tria differunt: Conuersio / conuertibili 
+      <lb ed="#B" n="84"/>tas et conuertentia. Conuersio quippe solum est pro 
+      <lb ed="#B" n="85"/>positionum. Conuertibilitas deo est sbiecti et 
+      <lb ed="#B" n="86"/>passionis: vt est homo et risibilitas: vnde dicimus 
+      <lb ed="#B" n="87"/>quod risibilitas est conuertibilis cum homine: sed conuer 
+      <lb ed="#B" n="88"/>tentia solum est correlatiuorum. Unde et philosophus in ad 
+      <lb ed="#B" n="89"/>aliquid dicit / quod relatiua dicuntur ad conuerten 
+      <lb ed="#B" n="90"/>tiam. Et de huiusmodi conuersione agit Aristo. in. i. 
+      <lb ed="#B" n="91"/>priorum. Secundo principalitur dicitur conuersio quaedam 
+      <lb ed="#B" n="92"/>arguendi species: dum. scilicet ex opposito conclusionis 
+      <lb ed="#B" n="93"/>cum altera praemissarum infertur alterius praemissae opus 
+      <lb ed="#B" n="94"/>positum: vnde et inde dictus est a philosopho in. 2. prius 
+      <lb ed="#B" n="95"/>orum syllogismus conuersiuus: et differt hic 
+      <lb ed="#B" n="96"/>modus arguendi ab argumento ad impossi¬ 
+      <!--303.xml-->
+      <pb ed="#B" n="143-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>bile secundum textum et commenta: quia in argumento ad  
+      <lb ed="#B" n="2"/>impossibile non proceditur ex conclusione illata 
+      <lb ed="#B" n="3"/>actu / sed habitu. In syllogismo autem conuer 
+      <lb ed="#B" n="4"/>siuo proceditur ex opposito conclusionis actu 
+      <lb ed="#B" n="5"/>illatae. Tertia dicitur conuersio realis: et ista est 
+      <lb ed="#B" n="6"/>triplex. Prima est in inferius: vtputa quando ma 
+      <lb ed="#B" n="7"/>gis perfectum in minus perfectum conuertitur: sicut 
+      <lb ed="#B" n="8"/>hyemis tempore in climate nostro aer conuertitur in 
+      <lb ed="#B" n="9"/>aquam. Secunda est: quando fit conuersio in aequale: vt 
+      <lb ed="#B" n="10"/>sunt commutatiua iusticia / conuersiones 
+      politi<lb ed="#B" n="11" break="no"/>ce: quemadmodum nummisma in panem seu 
+      vi<lb ed="#B" n="12" break="no"/>num: ex. 5. ethi. Tertio quando fiunt in melius: vt 
+      <lb ed="#B" n="13"/>tempore estiuo conuertitur aqua in aerem / et aer in 
+      <lb ed="#B" n="14"/>ignem. Et hoc tertio modo in mente intellectu 
+      <lb ed="#B" n="15"/>ali creata extat triplex conuersio naturalis: 
+      <lb ed="#B" n="16"/>per gratiam et gloriam. Conuersio naturalis est 
+      <lb ed="#B" n="17"/>quando mens ex sua naturali conditione ad deum 
+      <lb ed="#B" n="18"/>est ordinabilis et appetitu tendit naturali: 
+      <lb ed="#B" n="19"/>et hoc modo loquitur Proclus. 3 propositione: 
+      <lb ed="#B" n="20"/>vbi ponit triplex esse rerum. Primum in 
+      cau<lb ed="#B" n="21" break="no"/>sa: secundum in egressu rerum: et tertium in regres 
+      <lb ed="#B" n="22"/>su ad causam suam / et dicit. Unumquodque tunc 
+      <lb ed="#B" n="23"/>perfectum est / cum ad id reuertitur vnde processit: 
+      si<lb ed="#B" n="24" break="no"/>cut patet in circulo: tunc enim perfectus est quando 
+      <lb ed="#B" n="25"/>finis iungitur principio. Secunda conuersio est 
+      <lb ed="#B" n="26"/>per gratiam: dum. scilicet habitu charitatis mens suo 
+      <lb ed="#B" n="27"/>communiungitur principio. De hac conuersione 
+      di<lb ed="#B" n="28" break="no"/>citur. Nunc ergo in toto corde vestro 
+      conuer<lb ed="#B" n="29" break="no"/>timini ad me dicit dominus. Et ista conuersio fit 
+      <lb ed="#B" n="30"/>tripliciter: sicut potest elici ex simili dicto 
+      do<lb ed="#B" n="31" break="no"/>ctoris subtilis lib. 4. in materia baptismi 
+      <lb ed="#B" n="32"/>distin. 6. parte. 3. q. 2. habitu solum: sicut in 
+      <lb ed="#B" n="33"/>dormiente habente charitatem habitu et virtu 
+      <lb ed="#B" n="34"/>te simul: sicut est in illo qui a principio vni 
+      <lb ed="#B" n="35"/>us negocii sibi proponit omnia in laudem dei 
+      <lb ed="#B" n="36"/>facere: non tamen semper cogitat de hoc in pro 
+      <lb ed="#B" n="37"/>cessu operis. Secunda conuersio fit habitu 
+      <lb ed="#B" n="38"/>virtute et actu: quando scilicet propter deum 
+      ope<lb ed="#B" n="39" break="no"/>ratur: et in ista completur conuersio 
+      gratio<lb ed="#B" n="40" break="no"/>sa. Tertia conuersio mentis creatae intelle 
+      <lb ed="#B" n="41"/>ctualis fit per gloriam: dum. scilicet mens creata 
+      im<lb ed="#B" n="42" break="no"/>mutabiliter suo adhaeret principio: ad quod 
+      <lb ed="#B" n="43"/>conuertitur memoria tentione / intelligentia 
+      <lb ed="#B" n="44"/>visione / voluntas fruitioue: et haec dicitur 
+      <lb ed="#B" n="45"/>voluntas consummata: de qua quaerit quae 
+      <lb ed="#B" n="46"/>stio.
+</p>
+               <p xml:id="WuV37d-e65599-d1e551">
+¶ Secundus terminus est auer 
+      <lb ed="#B" n="47"/>sio. et debet scribi sine d. Aduersio 
+      nem<lb ed="#B" n="48" break="no"/>pe cum d: idem est quod conuersio sicut est 
+      <lb ed="#B" n="49"/>illud: Aduerte mala inimicis meis: id est 
+      <!--303.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>conuerte mala inimicis meis. Auersio au 
+      <lb ed="#B" n="51"/>tem de se nihil dicit positiuum. Unde in pro 
+      <lb ed="#B" n="52"/>posito: auersio a deo solum dicit 
+      desertio<lb ed="#B" n="53" break="no"/>nem summi boni: ita quod sit secundum nomen quid 
+      <lb ed="#B" n="54"/>positiuum: licet secundum rem sit quid negatiuum: 
+      si<lb ed="#B" n="55" break="no"/>cut peccatum affirmatiue dicitur: licet 
+      formali<lb ed="#B" n="56" break="no"/>ter a parte rei nihil dicat positiuum. 
+      So<lb ed="#B" n="57" break="no"/>let autem auersio a deo capi tripliciter. 
+      Pri<lb ed="#B" n="58" break="no"/>mo modo solum in habitu: ita quod nunquam in eodem 
+      <lb ed="#B" n="59"/>supposito fuit actu: licet bene in alieno: hoc 
+      <lb ed="#B" n="60"/>modo pueri ante baptismum ratione peccati ori 
+      <lb ed="#B" n="61"/>ginalis dicuntur auersi a deo. Secundo 
+      auer<lb ed="#B" n="62" break="no"/>sio dicitur habitu: ita tamen quod aliquando 
+      fu<lb ed="#B" n="63" break="no"/>it actu: et isto modo peccator post actum 
+      <lb ed="#B" n="64"/>peccati auersus dicitur a deo ratione 
+      defor<lb ed="#B" n="65" break="no"/>mitatis et reatus in anima manentis. Ter 
+      <lb ed="#B" n="66"/>tio modo dicitur auersio ipsa inordinata 
+      affe<lb ed="#B" n="67" break="no"/>ctio: qua bonum spernitur incommutabile: et 
+      <lb ed="#B" n="68"/>hoc modo proprie dicitur auersio et sic capitur in 
+      <lb ed="#B" n="69"/>titulo quaestionis.
+</p>
+               <p xml:id="WuV37d-e65599-d1e608">
+¶ Tertius terminus est 
+      <lb ed="#B" n="70"/>daemon. Unde daemon solet capi tri e 
+      <lb ed="#B" n="71"/>pliciter. Uno modo daemon idem est quod 
+      sci<lb ed="#B" n="72" break="no"/>ens. Unde et de Paulo dicebant 
+      atheniem<lb ed="#B" n="73" break="no"/>ses. Nouorum daemoniorum videtur annuncia / e 
+      <lb ed="#B" n="74"/>tor id est nouarum scientiarum. Patet ex textu se 
+      <lb ed="#B" n="75"/>quenti. Dixerunt enim ei: Noua enim infers 
+      au<lb ed="#B" n="76" break="no"/>ribus nostreim: ita quod daemonium idem sit quod 
+      <lb ed="#B" n="77"/>scientia: et daemon idem quod sciens. Secundo 
+      dicun<lb ed="#B" n="78" break="no"/>tur daemones apud platonem quedam 
+      natu<lb ed="#B" n="79" break="no"/>rae subtiles aereae mirae cognoscibilitatis. 
+      <lb ed="#B" n="80"/>Et sic accipiendo daemon dicitur tripliciter. 
+      <lb ed="#B" n="81"/>Sunt enim apud platonem primo calodaemo: 
+      <lb ed="#B" n="82"/>nes id est boni daemones: a calo quod est bo 
+      <lb ed="#B" n="83"/>num. Sunt secundo cacodaemones: a cacos 
+      <lb ed="#B" n="84"/>quod est malum: ideo dicuntur mali 
+      daemo<lb ed="#B" n="85" break="no"/>nes. Tertio potest accipi daemodo / quasi di 
+      <lb ed="#B" n="86"/>mon a diuitiis: et mammodo pro quodam 
+      commu<lb ed="#B" n="87" break="no"/>ni his et illis: sicut animal est commune homin et 
+      <lb ed="#B" n="88"/>boui. Tertio principaliter dicitur demodo pro 
+      <lb ed="#B" n="89"/>angelo apostata per peccatum obstinato: et sic 
+      <lb ed="#B" n="90"/>accipitur in theologia: et est inuentum ex 
+      lin<lb ed="#B" n="91" break="no"/>gua syriaca: quali dimon / a diuitiis et mam 
+      <lb ed="#B" n="92"/>mon. Mammon quippe in illa lingua diues 
+      <lb ed="#B" n="93"/>dicitur. Dum igitur angelus immeritus 
+      beatitudi<lb ed="#B" n="94" break="no"/>nis diuitias habere voluit / seu dei 
+      aequa<lb ed="#B" n="95" break="no"/>litatem: recte daemodo numcupatus extitit: seu 
+      <lb ed="#B" n="96"/>per contrarium diues id est pauperimus seu 
+      mi<lb ed="#B" n="97" break="no"/>serrimus. Unde magister sequenti dist. ca. i 
+      <lb ed="#B" n="98"/>Et sicut inter bonos dicit nomine demodnis di¬ 
+      <!--304.xml-->
+      <pb ed="#B" n="144-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>uitiae vocanur scilicet mammona. Est enim mammodo no 
+      <lb ed="#B" n="2"/>mem daemonis: quo nomine vocantur diuitiae secundum sy 
+      <lb ed="#B" n="3"/>riacam linguam. Et tantum de primo articulo. 
+      <lb ed="#B" n="4"/>Quo ad secundum articulum sunt 
+      <lb ed="#B" n="5"/>tres 
+      conclusio<lb ed="#B" n="6" break="no"/>nes. Prima est de auersione luciferi. Secun 
+      <lb ed="#B" n="7"/>da de auersione minorum daemonum. Tertia 
+      <lb ed="#B" n="8"/>de consummata conuersione bonorum angelorum. 
+      </p>
+               <p xml:id="WuV37d-e65599-d1e698">
+                  <lb ed="#B" n="9"/>¶ Prima est haec. Lucifer ita inflatus est 
+      <lb ed="#B" n="10"/>primo superbiae spiritu: vt non errore intellectus / sed 
+      <lb ed="#B" n="11"/>peruersa voluntate dei aequalitatem appete 
+      <lb ed="#B" n="12"/>ret. Prima pars conclusionis dicit: quod primum 
+      <lb ed="#B" n="13"/>peccatum luciferi fuit peccatum superbiae. Probatur 
+      <lb ed="#B" n="14"/>diuisione septem peccatorum mortalium sufficienti: 
+      <lb ed="#B" n="15"/>ad quae caetera mortalia reducuntur: vt 
+      infi<lb ed="#B" n="16" break="no"/>delitas / haeresis / idolatria etc. Prima enim 
+      <lb ed="#B" n="17"/>sunt pure carnalia: sicut gula / luxuria. Se 
+      <lb ed="#B" n="18"/>cunda sunt pure spiritualia: sicut ista quattuor: su 
+      <lb ed="#B" n="19"/>perbia / inuidia / ira et accidia. Tertium est in 
+      <lb ed="#B" n="20"/>medio inter carnale et spirituale / naturam 
+      sa<lb ed="#B" n="21" break="no"/>piens vtrorumque scilicet auaricia. Sed non primo 
+      <lb ed="#B" n="22"/>peccauit peccatis carnalibus: nec partim 
+      <lb ed="#B" n="23"/>carnali / nec partim spirituali: cum sit simplex 
+      <lb ed="#B" n="24"/>spiritus: ergo a diuisione sufficienti peccauit 
+      <lb ed="#B" n="25"/>primo peccato spirituali. Sed non inuidia: quia 
+      <lb ed="#B" n="26"/>secundum Augstin. in libro de verginitate. Inuidia 
+      <lb ed="#B" n="27"/>est proles superbiae: et per consequens superbia est 
+      <lb ed="#B" n="28"/>mater eius: mater autem praecedit filiam. Nec 
+      <lb ed="#B" n="29"/>secundo peccauit primo peccato irae. Ira quippe 
+      <lb ed="#B" n="30"/>est vindex concupiscentiae lesae: et ita 
+      praesuppo<lb ed="#B" n="31" break="no"/>nit concupiscentiam peruersam seu impeditam: adeo 
+      <lb ed="#B" n="32"/>quod non fieret nisi esset peruersa. Confirmatur: 
+      <lb ed="#B" n="33"/>quia peccatum primum angeli non potuit primo 
+      <lb ed="#B" n="34"/>esse nolle. Omne quippe nolle velle prae 
+      <lb ed="#B" n="35"/>supponit: ideo enim aliquid ad aliquid habet 
+      <lb ed="#B" n="36"/>nolle: quia respectu alicuius habet velle 
+      <lb ed="#B" n="37"/>cui illud contrariatur: nolle autem est odii et 
+      <lb ed="#B" n="38"/>ire: vnde odiens vult oditum non esse: ex 
+      se<lb ed="#B" n="39" break="no"/>cundo rhetorice: igitur ante hoc nolle est ali 
+      <lb ed="#B" n="40"/>quod velle. Nec tertio primo peccauit 
+      pec<lb ed="#B" n="41" break="no"/>cato accidiae. Patet: quia etiam peccatum 
+      <lb ed="#B" n="42"/>accidiae ex aliquo ve lle inordinato 
+      praecedem<lb ed="#B" n="43" break="no"/>te nascitur: quare enim quis non vult 
+      labora<lb ed="#B" n="44" break="no"/>re: quia se nimis delicate diligit: igitur per diui 
+      <lb ed="#B" n="45"/>sionem relinquitur quod primo peccauit 
+      pecca<lb ed="#B" n="46" break="no"/>to superbiae. Confirmatur ista pars triplici au 
+      <lb ed="#B" n="47"/>ctoritate. Prima est ex glo. super illud: Ui 
+      <lb ed="#B" n="48"/>debam sathanam quasi fulgur de c aelo caden 
+      <lb ed="#B" n="49"/>tem. Dicit glo. Qui singulariter elatus erat: 
+      <!--304.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>vt in eius casu caeteri de elatione timerent. 
+      <lb ed="#B" n="51"/>Secunda est Isidori de summo bono: 
+      <lb ed="#B" n="52"/>Mox vt factus est / in superbiam erupit: et 
+      <lb ed="#B" n="53"/>praecipitatus de caelo est. Tertia est ex eccle 
+      <lb ed="#B" n="54"/>siastico. Initium omnis peccati superbia. 
+      <lb ed="#B" n="55"/>Et si obiiciatur per illud apostoli: Radix 
+      om<lb ed="#B" n="56" break="no"/>nium malorum cupiditas: ergo primo 
+      pecca<lb ed="#B" n="57" break="no"/>uit peccato. auariciae. Dicendum quod cupidi 
+      <lb ed="#B" n="58"/>tas solet accipi tripliciter. Primo modo 
+      <lb ed="#B" n="59"/>dicitur cupiditas quaedam inclinabilitas in 
+      ali<lb ed="#B" n="60" break="no"/>quod inordinatum: seu ex corruptione 
+      fomi<lb ed="#B" n="61" break="no"/>tis / sicut in nobis: seu ex conditione natu 
+      <lb ed="#B" n="62"/>ae: sicut in omni creato libero arbitrio per 
+      <lb ed="#B" n="63"/>naturam: tale enim ex se flexibile est / et in bonum 
+      <lb ed="#B" n="64"/>et in malum: et isto modo cupiditas est 
+      ra<lb ed="#B" n="65" break="no"/>dix et initium omnis peccati / etiam superbiae: 
+      <lb ed="#B" n="66"/>sed hoc modo non est peccatum / solum 
+      quip<lb ed="#B" n="67" break="no"/>pe est conditio. Secundo modo dicitur 
+      cupi<lb ed="#B" n="68" break="no"/>ditas omnis amor alicuius inordinatus:  
+      <lb ed="#B" n="69"/>et sic consequitur omne peccatum. Tertio 
+      <lb ed="#B" n="70"/>modo dicitur cupiditas amor alicuius inordina 
+      <lb ed="#B" n="71"/>tus: quod promittere videtur sufficientiam: et 
+      <lb ed="#B" n="72"/>hoc modo de auaricia: et est in nobis occasio 
+      <lb ed="#B" n="73"/>aliorum peccatorum: quod notauit apostolus quando 
+      <lb ed="#B" n="74"/>dicit: Radix omnium malorum cupiditas. 
+      <lb ed="#B" n="75"/>Et sic patet quod alio modo est initium peccati 
+      su<lb ed="#B" n="76" break="no"/>perbia / alio modo cupiditas: quia 
+      cupidi<lb ed="#B" n="77" break="no"/>tas vt conditio non est peccatum: ideo recte 
+      <lb ed="#B" n="78"/>dicitur radix: superbia autem vt actus: ideo 
+      di<lb ed="#B" n="79" break="no"/>citur initium: vel superbia dicatur simpliciter ini 
+      <lb ed="#B" n="80"/>tium: quia fuit primum peccatum. Cupiditas au 
+      <lb ed="#B" n="81"/>tem dicitur radix: et hoc in nobis quibus 
+      lo<lb ed="#B" n="82" break="no"/>quitur apostolus: ideo non est contradictio. Sed  
+      <lb ed="#B" n="83"/>queret aliquis: an istam superbiam in 
+      lucife<lb ed="#B" n="84" break="no"/>ro secutum sit aliud peccatum: Respondet doc. 
+      <lb ed="#B" n="85"/>deuotus huius distinctionis. q. 1. arti. . 1est quod 
+      <lb ed="#B" n="86"/>sic. Unde peccatum luciferi potuit considerari 
+      <lb ed="#B" n="87"/>primo quantum ad inchoationem: secundo quantum 
+      <lb ed="#B" n="88"/>ad mediationem: et tertio quantum ad 
+      consumma<lb ed="#B" n="89" break="no"/>tionem. Suum nempe peccatum initiatum est in 
+      <lb ed="#B" n="90"/>praesumptione: statim enim vt vidit suam 
+      pul<lb ed="#B" n="91" break="no"/>chritudinem / praesumpsit. Hediatum est in 
+      am<lb ed="#B" n="92" break="no"/>bitione: quia praesumens de se appetiuit quod 
+      omni<lb ed="#B" n="93" break="no"/>no supra se fuit: et ad quod peruenire non potu 
+      <lb ed="#B" n="94"/>it: sed consummatum est odii auersione: quia 
+      <lb ed="#B" n="95"/>exquo obtinere non potuit quod 
+      concupi<lb ed="#B" n="96" break="no"/>uit: ideo deo affectu contraire caepit: vnde 
+      <lb ed="#B" n="97"/>odium istud dei maximum fuit eius 
+      pecca<lb ed="#B" n="98" break="no"/>tum. Unde egregie doctor subtilis huius secun¬ 
+      <!--305.xml-->
+      <pb ed="#B" n="144-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>di / distinctione. 6. q. 2. dicit: quod sicut in bo 
+      <lb ed="#B" n="2"/>nis proceditur a magis bono ad minus. 
+      bo<lb ed="#B" n="3" break="no"/>num: sicuti ex dei dilectione ad creature 
+      <lb ed="#B" n="4"/>dilectionem. Sic econtra in malis ex minus 
+      <lb ed="#B" n="5"/>malo ad maius malum: sicuti ex dilectione 
+      <lb ed="#B" n="6"/>sui ad odium dei. Eapropter dicit Augustinus 
+      <lb ed="#B" n="7"/>quod duo amores duas fecerunt ciuitates: 
+      <lb ed="#B" n="8"/>Ciuitatem hierusalem amor dei vsque ad 
+      con<lb ed="#B" n="9" break="no"/>temptum sui: Ciuitatem babylonicam amor 
+      <lb ed="#B" n="10"/>sui vsque ad contemptum dei. Rursus in quo 
+      <lb ed="#B" n="11"/>libet istorum trium peccatorum mortalium fue 
+      <lb ed="#B" n="12"/>runt tria peccata. Primo nempe ipsam 
+      <lb ed="#B" n="13"/>praesumptionem: quae fuit eius primum 
+      pecca<lb ed="#B" n="14" break="no"/>tum: concomitantur tria peccata mortalia. 
+      <lb ed="#B" n="15"/>Primum fuit ingratitudo: quia gratias non 
+      <lb ed="#B" n="16"/>egit deo de suis baeneficiis. Unde Pernmn. in 
+      <lb ed="#B" n="17"/>libro de gradibus humilitatis. Quia gra 
+      <lb ed="#B" n="18"/>tuite bonitati dei a qua conditus es / 
+      in<lb ed="#B" n="19" break="no"/>gratus existis: iusticiam quam expiartus non 
+      <lb ed="#B" n="20"/>es / non metuis. Secundum peccatum fuit 
+      <lb ed="#B" n="21"/>nimius amor sui / quando se vidit ita 
+      for<lb ed="#B" n="22" break="no"/>mosum: et hoc peccatum vocat doctor 
+      sub<lb ed="#B" n="23" break="no"/>tilis loco praeallegato luxuriam: capiendo 
+      lar<lb ed="#B" n="24" break="no"/>ge luxuriam pro omni amore sui inordinato. 
+      <lb ed="#B" n="25"/>Tertium peccatum fuit omissio. Debebat 
+      <lb ed="#B" n="26"/>quippe prohibere illam praesumptionem quod 
+      <lb ed="#B" n="27"/>non fecit: ideo omisit. Similiter medium. scilicet 
+      <lb ed="#B" n="28"/>ambitionem / comitantur alia tria. Primum fu 
+      <lb ed="#B" n="29"/>it: quia voluit (vt patebit in tertia sparte 
+      <lb ed="#B" n="30"/>huius conclusionis) esse deus. Unde glo. su 
+      <lb ed="#B" n="31"/>er illud pateso. Quae non rapui tunc 
+      exolue<lb ed="#B" n="32" break="no"/>bam. Adam et diabolus voluerunt rapere 
+      diui<lb ed="#B" n="33" break="no"/>nitatem: et amiserunt felicitatem. Secundum 
+      <lb ed="#B" n="34"/>peccatum fuit: quia appetiit gloriam modo 
+      inde<lb ed="#B" n="35" break="no"/>bito / vtputa sine meritis. Unde Ansel. in li 
+      <lb ed="#B" n="36"/>bro de casu diaboli. Nihil appetiit ad quod 
+      <lb ed="#B" n="37"/>non peruenisset si stetisset. Tertium peccatum 
+      <lb ed="#B" n="38"/>fuit: quia nimis cito: quia appetebat 
+      glori<lb ed="#B" n="39" break="no"/>am adhuc existens viator. Similiter tertium scilicet 
+      <lb ed="#B" n="40"/>odium dei tria comitantur. Primum est 
+      inui<lb ed="#B" n="41" break="no"/>dia. Exquo enim habere non potuit quod 
+      quae<lb ed="#B" n="42" break="no"/>rebat: caepit diuine inuidere felicitati. Se 
+      <lb ed="#B" n="43"/>cundo peccatum obstinationis. Tertio 
+      pec<lb ed="#B" n="44" break="no"/>catum desperationis / se de venia penitus elon 
+      <lb ed="#B" n="45"/>gans. Unde patet in eo verisimiliter tres 
+      <lb ed="#B" n="46"/>quaternarios seu. 12. peccata mortalia 
+      fuis<lb ed="#B" n="47" break="no"/>se: vel in se / vel aequiualenter. Et si quaeratur: 
+      <lb ed="#B" n="48"/>an perpetrauit vnum antequam fieret aliud: quia il 
+      <lb ed="#B" n="49"/>lud erat ex praecedenti lectione aeuum corre¬ 
+      <!--305.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>spondens tempori nostro habito: vtrum primum 
+      <lb ed="#B" n="51"/>fuerit remissibile? Dicitur quod sic: et quod 
+      potuis<lb ed="#B" n="52" break="no"/>set poenitere de primo / et veniam apud 
+      de<lb ed="#B" n="53" break="no"/>um reperisse. Sed tunc dubitatur: quae 
+      pe<lb ed="#B" n="54" break="no"/>nitentia fuisset ei iniuncta: Potest dici quod lola 
+      <lb ed="#B" n="55"/>contritio suffecisset: vel forte locum 
+      inferio<lb ed="#B" n="56" break="no"/>rem in caelo accepisset: sicut aspicimus in 
+      <lb ed="#B" n="57"/>politia mundana. Et si dicatur: sequeretur 
+      eti<lb ed="#B" n="58" break="no"/>am modo quod eorum peccatum foret remissibile: 
+      <lb ed="#B" n="59"/>de hoc dicetur dist. 7.
+</p>
+               <p xml:id="WuV37d-e65599-d1e1038">
+¶ Secunda pars 
+      con<lb ed="#B" n="60" break="no"/>clusionis diciti / quod non peccauit primo 
+      erro<lb ed="#B" n="61" break="no"/>re intellectus. Probatur: quia error vt do 
+      <lb ed="#B" n="62"/>cet Augustinus in enchiridion / est poena. Si igi 
+      <lb ed="#B" n="63"/>tur primo habuit lucifer errorem: et ex erro 
+      <lb ed="#B" n="64"/>re venit in culpam: prius fuit in eo poena quam 
+      <lb ed="#B" n="65"/>culpa: quod est contra Augstin. Non est 
+      in<lb ed="#B" n="66" break="no"/>quit deus prius vltor quam homo sit 
+      pecca<lb ed="#B" n="67" break="no"/>tor.
+</p>
+               <p xml:id="WuV37d-e65599-d1e1058">
+¶ Tertia pars conclusionis dicit / quod 
+      <lb ed="#B" n="68"/>appetiit aequalitatem dei. Unde Bernu. in li 
+      <lb ed="#B" n="69"/>bro de gradibus humilitatis. Haec 
+      iniqui<lb ed="#B" n="70" break="no"/>tas tua non ita momentanea / sed odio di /¬o 
+      <lb ed="#B" n="71"/>gna est sempiterno: quod tuo dilectissimo et 
+      <lb ed="#B" n="72"/>altissimo desideras semper equari. Et quod 
+      <lb ed="#B" n="73"/>hoc possit desiderari / persuadetur a 
+      docto<lb ed="#B" n="74" break="no"/>re subtili. Uoluntas enim omnis tam commo 
+      <lb ed="#B" n="75"/>di quam bonesti habet totum ens pro 
+      obie<lb ed="#B" n="76" break="no"/>cto: et ita sicut potest quodlibet ens 
+      ama<lb ed="#B" n="77" break="no"/>re amore amicitiae / sic amore concupiscen 
+      <lb ed="#B" n="78"/>tiae: et ita aequalitatem dei: nec hoc impedit 
+      <lb ed="#B" n="79"/>impossibilitas. Damnati quippe odiunt 
+      <lb ed="#B" n="80"/>deum: et ita volunt eum non esse: quod tamen est 
+      <lb ed="#B" n="81"/>impossibile: sic in proposito. Et si dicatur / quod 
+      <lb ed="#B" n="82"/>secundum philosophum electio non est impossibilium. Dicenm 
+      <lb ed="#B" n="83"/>dum quod electio solet capi tripliciter. Uno on 
+      <lb ed="#B" n="84"/>modo pro omni actu voluntatis. Secundo modo pro 
+      <lb ed="#B" n="85"/>actu voluntatis distincto contra actum ex 
+      <lb ed="#B" n="86"/>infirmitate et ignorantia: sicut accipere 
+      vi<lb ed="#B" n="87" break="no"/>detur Aristo. in. 5. ethicorum vbi peccatum 
+      diui<lb ed="#B" n="88" break="no"/>ditur in peccatum ex electione / infirmitate et 
+      <lb ed="#B" n="89"/>ignorantia: et hoc modo electio bene est 
+      im<lb ed="#B" n="90" break="no"/>possibilium. Unde Aristotur. in. 3. ethicorum. 
+      <lb ed="#B" n="91"/>Uoluntas est impossibilium. Tertio dicitur 
+      <lb ed="#B" n="92"/>electio actus voluntatis consequens 
+      conclusio<lb ed="#B" n="93" break="no"/>nem syllogismi practici: et hoc modo non est 
+      im<lb ed="#B" n="94" break="no"/>possibilium: quia de impossibilibus nullus 
+      syllo<lb ed="#B" n="95" break="no"/>gigat: et hoc modo loquitur philosophus quando dicit 
+      <lb ed="#B" n="96"/>quod electio non est impossibilium.
+</p>
+               <p xml:id="WuV37d-e65599-d1e1123">
+¶ Ex 
+      secun<lb ed="#B" n="97" break="no"/>da parte conclusionis infero quod grauitur valde in 
+      <lb ed="#B" n="98"/>defecit sanctus Tho. vbi innuit quod peccare 
+      <!--306.xml-->
+      <pb ed="#B" n="145-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>non potuit angelus stante scientia faciendi in 
+      <lb ed="#B" n="2"/>vniuersali et particulari: non tantum secundum habi 
+      <lb ed="#B" n="3"/>tum / sed secundum actum. Et dat exemplum de 
+      me<lb ed="#B" n="4" break="no"/>dico qui dat medicinam aegroto bonam secundum 
+      <lb ed="#B" n="5"/>infirmitatem quam considerat: licet noceat in 
+      <lb ed="#B" n="6"/>firmo ex alia infirmitate abscondita 
+      me<lb ed="#B" n="7" break="no"/>dico. Patet oppositum ex conclusione: et 
+      com<lb ed="#B" n="8" break="no"/>firmatur ex articulo parrhysiensi: non posse 
+      <lb ed="#B" n="9"/>sstante scientia in vniuersali et particulari) 
+      vo<lb ed="#B" n="10" break="no"/>luntatem facere oppositum error: vnde patet cla 
+      <lb ed="#B" n="11"/>re / quod oportet vel sanctum Thomam dare locum 
+      <lb ed="#B" n="12"/>articulo / vel articulum sancto thomae. Sed non 
+      <lb ed="#B" n="13"/>dubitatur quo ad hoc / quan articulus sit 
+      prae<lb ed="#B" n="14" break="no"/>stantior.
+</p>
+               <p xml:id="WuV37d-e65599-d1e1167">
+¶ Secunda conclusio est de 
+      auer<lb ed="#B" n="15" break="no"/>sione minorum angelorum: et est haec: 
+      Mino<lb ed="#B" n="16" break="no"/>res daemones sic elatione tabuerunt / vt luci 
+      <lb ed="#B" n="17"/>feri peccato mouerentur. Prima pars diciti / quod 
+      <lb ed="#B" n="18"/>minores daemones peccauerunt peccato 
+      super<lb ed="#B" n="19" break="no"/>biae. Probatur. Omne peccatum aut est concupi. 
+      <lb ed="#B" n="20"/>scentia oculorum / aut carnis / aut superbia vitae. 
+      <lb ed="#B" n="21"/>Sed non peccauerunt superbia peccato carnis 
+      <lb ed="#B" n="22"/>cum sint simplices spiritus: nec oculorum 
+      concupi<lb ed="#B" n="23" break="no"/>scentia. Primo quammaxime: cum rationalis 
+      appe<lb ed="#B" n="24" break="no"/>titus primo moueatur: ergo a diuisione suffi 
+      <lb ed="#B" n="25"/>cienti superbia vitae. Et si obiiciatur: quia 
+      maio<lb ed="#B" n="26" break="no"/>ris est dignitatis subesse magis nobili sicu 
+      <lb ed="#B" n="27"/>ti regi quam duci. Si igitur peccassent peccato 
+      su<lb ed="#B" n="28" break="no"/>perbiae: videtur quod non elegissent subesse 
+      luci<lb ed="#B" n="29" break="no"/>fero: et non subesse deo: qui in infinitum erat no 
+      <lb ed="#B" n="30"/>bilior. Hic dicitur quod bene sciebant isti 
+      daemo<lb ed="#B" n="31" break="no"/>nes minores deum longe perfectiorem 
+      lucife<lb ed="#B" n="32" break="no"/>ro: sed quia volebant esse beati sine meri 
+      <lb ed="#B" n="33"/>tis: et sciebant quod deus nolebat hoc: elege 
+      <lb ed="#B" n="34"/>runt esse sub dominio luciferi: vt medio eius 
+      <lb ed="#B" n="35"/>illud possent consequi: sicut patet in 
+      mun<lb ed="#B" n="36" break="no"/>danis politiis. Secunda pars conclusionis. 
+      <lb ed="#B" n="37"/>dicit: quod moti sunt ad peccandum ex 
+      pecca<lb ed="#B" n="38" break="no"/>to luciferi. Hanc partem expresse ponit Ioam 
+      <lb ed="#B" n="39"/>nes dicens: Draco traxit secum tertiam partem 
+      <lb ed="#B" n="40"/>stellarum. Et si dicatur: quod tunc sequeretur quod 
+      <lb ed="#B" n="41"/>peccatum minorum angelorum esset 
+      remissibile<lb ed="#B" n="42" break="no"/>sicut fuit peccatum Ade: quia alio suggerente 
+      <lb ed="#B" n="43"/>factum est. Dico primo sicut dictum est de 
+      lu<lb ed="#B" n="44" break="no"/>cifero: quod dum peccabant primo peccato: ante ad  
+      <lb ed="#B" n="45"/>uentum secundi peccati adhuc existentes 
+      vi<lb ed="#B" n="46" break="no"/>atores erat remissibile per poenitentiam: nunc 
+      <lb ed="#B" n="47"/>autem sunt in termino: quia secundum Dama. Quod  
+      <lb ed="#B" n="48"/>est hominibus mors / extat casus 
+      diabo<lb ed="#B" n="49" break="no"/>lo. Dico vlterius quod non est simile de pec¬ 
+      <!--306.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>cato Ade: quia fallendo deceptus est: non ita 
+      <lb ed="#B" n="51"/>minores daemones / sed solum conceptum su 
+      <lb ed="#B" n="52"/>um monstrando. Sed quomodo potuit eis modo 
+      <lb ed="#B" n="53"/>strare suum conceptum: patebit. 9. di.
+</p>
+               <p xml:id="WuV37d-e65599-d1e1258">
+¶ Ter 
+      <lb ed="#B" n="54"/>tia conclusio est de conuersione consumma 
+      <lb ed="#B" n="55"/>ta beatorum spirituum: et est haec. Sic beati an 
+      <lb ed="#B" n="56"/>geli suam consummatam conuersionem ante 
+      meru<lb ed="#B" n="57" break="no"/>erunt: vt iam eam ministerio nullatenus 
+      me<lb ed="#B" n="58" break="no"/>reantur. Prima pars dicit: quod sancti angeli me 
+      <lb ed="#B" n="59"/>ruerunt suam beatitudinem per opera praecedentia 
+      <lb ed="#B" n="60"/>seu merita. Probatur / videlicet 
+      argumen<lb ed="#B" n="61" break="no"/>to doctoris subtilis hac dist. Uoluntas 
+      <lb ed="#B" n="62"/>non vult simul aliquid mutabiliter et 
+      immu<lb ed="#B" n="63" break="no"/>tabiliter: sed quando praemiatur vult 
+      immutabili<lb ed="#B" n="64" break="no"/>ter: quando autem meretur / contingenter et 
+      muta<lb ed="#B" n="65" break="no"/>biliter: igitur oportuit meritum praecedere 
+      prae<lb ed="#B" n="66" break="no"/>mium. Confirmatur ista pars: quia via debet prae 
+      <lb ed="#B" n="67"/>cedere terminum: et dispositio id ad quod  
+      <lb ed="#B" n="68"/>disponit meritum autem est via et dispositio 
+      <lb ed="#B" n="69"/>ad beatitudinem: igitur.
+</p>
+               <p xml:id="WuV37d-e65599-d1e1296">
+¶ Secunda pars conclusi 
+      <lb ed="#B" n="70"/>onis dicit: quod non merentur angeli suam 
+      beati<lb ed="#B" n="71" break="no"/>tudinem per ministeria nobis impensa. Patet 
+      <lb ed="#B" n="72"/>primo: quia tunc non existente homine non esset ange 
+      <lb ed="#B" n="73"/>lus beatus: quia non mereretur quod accepit: 
+      <lb ed="#B" n="74"/>sed hoc est falsum: quia minus dependent 
+      <lb ed="#B" n="75"/>in sua beatitudine ab homine quam vnus 
+      an<lb ed="#B" n="76" break="no"/>gelus ab alio: et tamen vnus non est 
+      bea<lb ed="#B" n="77" break="no"/>tus per alium. Tum secundo: quia sequeretur quod 
+      <lb ed="#B" n="78"/>gratia esset ex meritis: et ita non esset 
+      gra<lb ed="#B" n="79" break="no"/>tia. Probatur assumptum: daretur enim tunc 
+      an<lb ed="#B" n="80" break="no"/>gelo gloria: quia praeuideretur bene vsurus  
+      <lb ed="#B" n="81"/>ministerio: quod est falsum. Tum tertio: quia 
+      <lb ed="#B" n="82"/>sequeretur quod status angelicus non esset 
+      cer<lb ed="#B" n="83" break="no"/>tus: quia posset durare mundus longe 
+      longi<lb ed="#B" n="84" break="no"/>us quam faciet: et semper angeli ministrarent: et 
+      <lb ed="#B" n="85"/>ita eorum beatitudo augeretur. Et si dicatur / 
+      <lb ed="#B" n="86"/>quod nobis ministrando aliquid merentur. Re 
+      <lb ed="#B" n="87"/>spondetur: quod merentur praemium accidentale: vt 
+      <lb ed="#B" n="88"/>puta aliquod gaudium: non praemium essentia 
+      <lb ed="#B" n="89"/>le: cuiusmodi est dei visio et fruitio.
+</p>
+               <p xml:id="WuV37d-e65599-d1e1342">
+¶ Ex 
+      <lb ed="#B" n="90"/>ista parte conclusionis patet quod defecit 
+      ma<lb ed="#B" n="91" break="no"/>gister sententiarum in hac dist. vbi in fine di 
+      <lb ed="#B" n="92"/>cit: quod opinio quae dicit quod in angelis prius 
+      <lb ed="#B" n="93"/>fuit praemium / et postea meritum nobis 
+      mini<lb ed="#B" n="94" break="no"/>strando: plus sibi placet: tamen patet oppo 
+      <lb ed="#B" n="95"/>situm ex conclusione: vnde iste est locus 
+      pri<lb ed="#B" n="96" break="no"/>mus in hoc secundo: in quo a doctoribus et 
+      <lb ed="#B" n="97"/>magistris nostris parrhysiensibus magister non te 
+      <lb ed="#B" n="98"/>netur. Et tantum de secundo articulo. 
+      <!--307.xml-->
+      <pb ed="#B" n="145-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>Quantum ad tertium 
+      articu<lb ed="#B" n="2" break="no"/>lum sunt 
+      <lb ed="#B" n="3"/>tres breves difficultates.
+</p>
+               <p xml:id="WuV37d-e65599-d1e1377">
+¶ Prima. an 
+      <lb ed="#B" n="4"/>peccatum superbiae luciferi fuerit maximum eius 
+      <lb ed="#B" n="5"/>peccatum? Dicendum quod maximum peccatum 
+      <lb ed="#B" n="6"/>potest capi tripliciter. Primo 
+      inceptio<lb ed="#B" n="7" break="no"/>ne: et sic superbia fuit in eo maximum 
+      pecca<lb ed="#B" n="8" break="no"/>tum quia primum: ex quo alia secuta sunt. 
+      Se<lb ed="#B" n="9" break="no"/>cundo dicitur maximum peccatum 
+      irremissibilita<lb ed="#B" n="10" break="no"/>te: et sic obstinatio est in eo maximum 
+      pec<lb ed="#B" n="11" break="no"/>catum. Tertio dicitur maximum peccatum crimi 
+      <lb ed="#B" n="12"/>nis magnitudine: et sic in eo dei odium fuit 
+      <lb ed="#B" n="13"/>maximum peccatum.
+</p>
+               <p xml:id="WuV37d-e65599-d1e1401">
+¶ Secunda difficul 
+      <lb ed="#B" n="14"/>tas. An omnes minores daemones 
+      aequa<lb ed="#B" n="15" break="no"/>liter elati sunt? Dicendum quod non: immo aliqui 
+      <lb ed="#B" n="16"/>feruenti valde affectu / aliqui minus calido 
+      <lb ed="#B" n="17"/>vnde et poenae eorum aequales non extiterunt per 
+      <lb ed="#B" n="18"/>omnia: vt patebit sequenti distinctione. 
+      </p>
+               <p xml:id="WuV37d-e65599-d1e1414">
+                  <lb ed="#B" n="19"/>¶ Tertia difficultas. An vnico actu 
+      <lb ed="#B" n="20"/>beati meruerunt suam beatitudinem vel 
+      plu<lb ed="#B" n="21" break="no"/>ribus? Dicendum quod vno principaliter: dum 
+      <lb ed="#B" n="22"/>scilicet se submiserunt deo / dum alii se 
+      submitte<lb ed="#B" n="23" break="no"/>bant diabolo. Secundario autem fuerunt alii 
+      <lb ed="#B" n="24"/>actus: vtputa repugnantia malis angelia 
+      <lb ed="#B" n="25"/>detestatio peccati eorum / et alii. Ex quo 
+      pa<lb ed="#B" n="26" break="no"/>tet ad quaestionem / quod videlicet auersio 
+      de<lb ed="#B" n="27" break="no"/>monum fuit superbia et consummata beatorum com 
+      <lb ed="#B" n="28"/>uersio fuit merito praeuvio. Et tunc ad 
+      argu<lb ed="#B" n="29" break="no"/>menta.
+</p>
+               <p xml:id="WuV37d-e65599-d1e1440">
+¶ Ad primum iam patuit qualiter 
+      <lb ed="#B" n="30"/>superbia alio modo fuit maximum peccatum / 
+      <lb ed="#B" n="31"/>quia caput. Alio modo obstinatio / quia irre 
+      <lb ed="#B" n="32"/>missibile. Alio modo odium dei: quia crimen ma 
+      <lb ed="#B" n="33"/>ximum.
+</p>
+               <p xml:id="WuV37d-e65599-d1e1452">
+¶ Ad secundum. Ad minorem dicos 
+      <lb ed="#B" n="34"/>quod daemones non appetebant simplicitur 
+      sub<lb ed="#B" n="35" break="no"/>esse lucifero: quod tamen oporteret si ar 
+      <lb ed="#B" n="36"/>gumentum curreret: sed vt medio eius 
+      si<lb ed="#B" n="37" break="no"/>ne meritis haberent beatitudinem: et ita 
+      qua<lb ed="#B" n="38" break="no"/>dammodo deo non subessent.
+</p>
+               <p xml:id="WuV37d-e65599-d1e1465">
+¶ Ad tertium 
+      <lb ed="#B" n="39"/>dicendum in sententia: quod aliquotiens vnus 
+      <lb ed="#B" n="40"/>homo vno motu magno plus meretur quam centum 
+      <lb ed="#B" n="41"/>aliis. Sic beati angeli quia toto conatu suo 
+      <lb ed="#B" n="42"/>conuersi sunt ad deum: magis beatitudinem in 
+      <lb ed="#B" n="43"/>illo motu meruerunt: quam homo multis mere 
+      <lb ed="#B" n="44"/>tur non aeque intensis. Et sic patet ad quaestionem. 
+      </p>
+            </div>
+            <div xml:id="WuV37d-e65599-Dd1e1482" type="et-conclusiones">
+               <head xml:id="WuV37d-e65599-Hd1e1484">Conclusiones</head>
+               <p xml:id="WuV37d-e65599-d1e1487">
+                  <lb ed="#B" n="45"/>¶ Ex praesenti autem distinctione sicut de 
+      <lb ed="#B" n="46"/>acedentibus de mente magistri tres capiuntur conclu 
+      <lb ed="#B" n="47"/>siones. Prima conclusio. Bti spiritus deo com 
+      <lb ed="#B" n="48"/>uertuntur: sed mali funditus eo auertuntur. 
+      <lb ed="#B" n="49"/>Dicit conclusio / quod boni spiritus sunt conuersi 
+      <!--307.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>ad deum et mali auersi ab eo. Et ponitur a O 
+      <lb ed="#B" n="51"/>principio distinctionis vsque ibi: Si autem 
+      <lb ed="#B" n="52"/>quaeritur etc.
+</p>
+               <p xml:id="WuV37d-e65599-d1e1511">
+¶ Secunda conclusio. 
+      Coompe<lb ed="#B" n="53" break="no"/>rans gratia angelis beatis datur / non 
+      damna<lb ed="#B" n="54" break="no"/>tis sua malicia. Dicit conclusio / quod in conuei 
+      <lb ed="#B" n="55"/>sione beatorum angelorum data est eis coope 
+      <lb ed="#B" n="56"/>rans gratia / sed non malis propter suam mali 
+      <lb ed="#B" n="57"/>ciam. Et ponitur ab illo loco: Si autem etc. vsque 
+      <lb ed="#B" n="58"/>ibi: Hic quaeri solet etc.
+</p>
+               <p xml:id="WuV37d-e65599-d1e1527">
+¶ Tertia 
+      conclu<lb ed="#B" n="59" break="no"/>sio. Datum praemium angeli merentur per 
+      mini<lb ed="#B" n="60" break="no"/>sterium quo nos emulantur. Dicit 
+      conclusio<lb ed="#B" n="61" break="no"/>quod sancti angeli merentur suam beatitudinem per 
+      <lb ed="#B" n="62"/>ministeria nobis impensa. Et ponitur ab 
+      il<lb ed="#B" n="63" break="no"/>lo loco: Hic quaeri solet etc. vsque ad finemu 
+      <lb ed="#B" n="64"/>distinctionis. 
+</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

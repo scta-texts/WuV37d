@@ -1,0 +1,738 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 42</title>
+            <author ref="#WilliamDeVaurouillon">William de Vaurouillon</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 42</title>
+               <date when="2021-06-19">June 19, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-bvbVBV">Basel 1510</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-06-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="431-r"/>
+            <cb ed="#B" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="WuV37d-f99879"><!-- l4d42 -->
+            <head xml:id="WuV37d-f99879-Hd1e108">Distinctio 42</head>
+            <div xml:id="WuV37d-f99879-Dd1e111" type="circa-textum">
+               <head xml:id="WuV37d-f99879-Hd1e113">Circa textum</head>
+               <p xml:id="WuV37d-f99879-d1e116">
+                  <lb ed="#B" n="94"/>Distinctio. 42. huius quarti: in 
+      <lb ed="#B" n="95"/>qua docet magister de 
+      impedimen<lb ed="#B" n="96" break="no"/>to respectu propinquitatis 
+      spiri<lb ed="#B" n="97" break="no"/>tualis. 
+      <!--879.xml-->
+      <pb ed="#B" n="431-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>E paretaliu 
+      <lb ed="#B" n="2"/>graduum famosa quastio 
+      <lb ed="#B" n="3"/>ne aliquid licet min 
+      <lb ed="#B" n="4"/>insufficienter. Int 
+      mi<lb ed="#B" n="5" break="no"/>nores et praedicatores vet 
+      <lb ed="#B" n="6"/>est quirela et noua questio: in quo loco. 42. 
+      <lb ed="#B" n="7"/>quarti incipit distinctio docto. deuo. fra 
+      <lb ed="#B" n="8"/>tre Idam. bonauentu. doctore copioso 
+      fra<lb ed="#B" n="9" break="no"/>tre Richar. de media villa docto. subti. 
+      <lb ed="#B" n="10"/>fratre Ioanne. de dunis doctore 
+      illumina<lb ed="#B" n="11" break="no"/>to: fratre Francisco de maronis: et fratre 
+      <lb ed="#B" n="12"/>Tandulpho burgundiensi: seu secundum alios de 
+      <lb ed="#B" n="13"/>prouincia terrae laborum seu neapoli 
+      concor<lb ed="#B" n="14" break="no"/>diter dicentibus. Hi enim quinque in vnum 
+      con<lb ed="#B" n="15" break="no"/>ueniunt et incipiunt vbi noto: sed non est 
+      com<lb ed="#B" n="16" break="no"/>pletus senarius: in quo tres sunt contenti 
+      <lb ed="#B" n="17"/>binarii / nisi sextus adueniat. Et tu 
+      Tho<lb ed="#B" n="18" break="no"/>ma quo incipis / hic dicit: Aam de spirituali co 
+      <lb ed="#B" n="19"/>gnatione addamus etc. lis est de 
+      paupe<lb ed="#B" n="20" break="no"/>re regno: vt in. 1. theba vdos dicit statius  
+      <lb ed="#B" n="21"/>et vix in lite est linea et semper disputant: et 
+      <lb ed="#B" n="22"/>adhuc sub iudice lis est. Inquit flaccus 
+      <lb ed="#B" n="23"/>oratius in de arte poetica / vtrum epilogus 
+      <lb ed="#B" n="24"/>finem faciat praecedentium dictorum: an initium sit 
+      <lb ed="#B" n="25"/>dicendorum. ista est lis. Ecce verba 
+      qui<lb ed="#B" n="26" break="no"/>bus inter se distant. De parentalium 
+      gra<lb ed="#B" n="27" break="no"/>duum famosa quaestione aliquid licet minus 
+      <lb ed="#B" n="28"/>ufficienter dicimus. Et tunc sequitur quomodo 
+      <lb ed="#B" n="29"/>beatus thomas incipit: Iam de spiritua 
+      <lb ed="#B" n="30"/>li cognatione addamus: et verum potest quili 
+      <lb ed="#B" n="31"/>bet dicere vt adhuc indiscussa quaestio rema 
+      <lb ed="#B" n="32"/>neat: et huius solum distinctionis aperiatur 
+      <lb ed="#B" n="33"/>diuisio: quae primo sic ad praecedentes habet 
+      con<lb ed="#B" n="34" break="no"/>tinuari. Postquam in. 40. distinctione 
+      proposi<lb ed="#B" n="35" break="no"/>ta est consanguinitas: in. 41. seu immediate 
+      <lb ed="#B" n="36"/>praecedenti est subiuncta affinitas. Nunc in 
+      <lb ed="#B" n="37"/>42. hac distin. concluditur spiritualitas et 
+      lega<lb ed="#B" n="38" break="no"/>litas: ostendendo quomodo se habent ad matrimo 
+      <lb ed="#B" n="39"/>nium cognatio spiritualis et legalis. Et habet 
+      <lb ed="#B" n="40"/>diuidi in tres partes principales: praeter illam 
+      <lb ed="#B" n="41"/>partem in qua agit de secundis nuptiis: quae 
+      <lb ed="#B" n="42"/>fuit in distin. 26. condiuisa contra reliquas 
+      <lb ed="#B" n="43"/>partes / ibi: Sciendum est quod non solum primae 
+      <lb ed="#B" n="44"/>etc. In prima spiritualis cognatio a carnali 
+      <lb ed="#B" n="45"/>distinguitur. In secunda / an matrimonium di 
+      <lb ed="#B" n="46"/>rimat acute quaeritur. In tertia / legali cogna 
+      <lb ed="#B" n="47"/>tioni distinguendo iungitur. Prima in 
+      prin<lb ed="#B" n="48" break="no"/>cipio. Secunda ibi: Spirituales filii sunt quos 
+      <!--879.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="49"/>de sacro fatnte leuamus etc. Tertia ibi: Quod 
+      <lb ed="#B" n="50"/>autem spirituales vel adoptiui filii etc. Haec est 
+      <lb ed="#B" n="51"/>diuisio praesentis distinctionis etc. 
+      </p>
+            </div>
+            <div xml:id="WuV37d-f99879-Dd1e250">
+               <head xml:id="WuV37d-f99879-Hd1e252">Quaestio</head>
+               <p xml:id="WuV37d-f99879-d1e255">
+                  <lb ed="#B" n="52"/>¶ Quaestio ista determinat de 
+      impe<lb ed="#B" n="53" break="no"/>dimeto cognationis spualis 
+      lega<lb ed="#B" n="54" break="no"/>lisque: et de iusticiae publice 
+      bonesta<lb ed="#B" n="55" break="no"/>tis impedimento: et quid de secudis 
+      <lb ed="#B" n="56"/>nuptiis tenendum sit. De primo 
+      vi<lb ed="#B" n="57" break="no"/>de Sco. li. 4. distin. 42. q. vnica. 
+      <lb ed="#B" n="58"/>Utrum cognatio 
+      <lb ed="#B" n="59"/>spiritualis aut legalis bonestatis  
+      <lb ed="#B" n="60"/>publicae iusticia vel secundae nu 
+      <lb ed="#B" n="61"/>patiae communiugium impediant. Et arguitur quod non 
+      <lb ed="#B" n="62"/>tripliciter.
+</p>
+               <p xml:id="WuV37d-f99879-d1e281">
+¶ Primo sic: Cognatio spiri 
+      <lb ed="#B" n="63"/>tualis potest stare cum matrimonio: ergo 
+      ma<lb ed="#B" n="64" break="no"/>trimonium non impedit. Patet consequentia. 
+      <lb ed="#B" n="65"/>Illud enim quod potest stare cum alio ipsum 
+      <lb ed="#B" n="66"/>non impedit. Antecedens probatur: extra de 
+      <lb ed="#B" n="67"/>cognatione spirituali. ca. Si vir. Si vir vel 
+      <lb ed="#B" n="68"/>mulier scienter vel ignoranter filium suum 
+      <lb ed="#B" n="69"/>de sacro fonte suscepit / sequitur: nobis 
+      vi<lb ed="#B" n="70" break="no"/>detur quod siue ex ignorantia / siue ex malicia 
+      il<lb ed="#B" n="71" break="no"/>lud fecerit non sunt abinuicem separandi: nec 
+      <lb ed="#B" n="72"/>alter alteri debet debitum subtrahere. Et 
+      <lb ed="#B" n="73"/>confirmatur: quia cognatio spiritualis nulli bo 
+      <lb ed="#B" n="74"/>no matrimonii opponitur / patet: 
+      discurrem<lb ed="#B" n="75" break="no"/>do per fingula bona matrimonii.
+</p>
+               <p xml:id="WuV37d-f99879-d1e312">
+¶ Secun 
+      <lb ed="#B" n="76"/>do probatur / quod cognatio legalis non 
+      impe<lb ed="#B" n="77" break="no"/>diat: filius adoptiuus alicuius potest 
+      duce<lb ed="#B" n="78" break="no"/>re in matrimonium filiam eius adoptiuam: 
+      er<lb ed="#B" n="79" break="no"/>go non impedit cum naturali filia. Probatur 
+      <lb ed="#B" n="80"/>consequentia: quia magis conueniunt filius ad 
+      <lb ed="#B" n="81"/>optiuus et filia adoptiua quam filius 
+      adopti<lb ed="#B" n="82" break="no"/>uus et filia naturalis. Antecedens patet: 
+      <lb ed="#B" n="83"/>quia non inuenitur prohibitum. extra de 
+      cogna<lb ed="#B" n="84" break="no"/>tione legali. c. vnico in glo.
+</p>
+               <p xml:id="WuV37d-f99879-d1e334">
+¶ Tertio pro 
+      <lb ed="#B" n="85"/>batur / quod secundae nuptiae impediunt coniu 
+      <lb ed="#B" n="86"/>gium: secundae nuptiae sine peccato fieri 
+      nequi<lb ed="#B" n="87" break="no"/>unt: ergo impediunt matrimonium. Ante 
+      <lb ed="#B" n="88"/>cedens est magistri in praesenti dist. c. vl. 
+      Di<lb ed="#B" n="89" break="no"/>gamus inquit penitentia indiget. Et Chry 
+      <lb ed="#B" n="90"/>lostomus super Matth. Et recitatur. 31. q. i. 
+      <lb ed="#B" n="91"/>ca. Hac ratione. Secundae nuptiae secundum 
+      verita<lb ed="#B" n="92" break="no"/>tis rationem sunt / vere fornicatio.
+</p>
+               <p xml:id="WuV37d-f99879-d1e355">
+¶ In opu 
+      <lb ed="#B" n="93"/>positum primi. extra de cognatione 
+      spi<lb ed="#B" n="94" break="no"/>rituali. c. Ueniens. Mandamus quod si con 
+      <lb ed="#B" n="95"/>stiterit mulierem predicti viri filiam de sa¬ 
+      <!--880.xml-->
+      <pb ed="#B" n="432-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>cro fonte leuasse antequam eam desponsauit 
+      <lb ed="#B" n="2"/>vxorem: vos inter ipsos diuortium 
+      cele<lb ed="#B" n="3" break="no"/>bretis. In oppositum secundi: extra de co 
+      <lb ed="#B" n="4"/>gnatione legati. c. vnico. Si qua per 
+      ad<lb ed="#B" n="5" break="no"/>optionem mihi soror esse ceperit / quamdiu 
+      du<lb ed="#B" n="6" break="no"/>rat adoptio inter me et ipsam nuptiae 
+      con<lb ed="#B" n="7" break="no"/>sistere non possunt. In oppositum tertii. 31. 
+      <lb ed="#B" n="8"/>q. 1. c. Aperiant. Et sumptum est a Hiero. 
+      <lb ed="#B" n="9"/>in epistola ad pamachium: et recitat 
+      magi<lb ed="#B" n="10" break="no"/>ster huius distin. c. vltimo. Ego nunc libe 
+      <lb ed="#B" n="11"/>ra voce proclamo / non damnari in ecclesia 
+      <lb ed="#B" n="12"/>bigamiam: immo nec trigamiam: et ita licere 
+      <lb ed="#B" n="13"/>quanto et sexto et vltra quomodo et secundo 
+      <lb ed="#B" n="14"/>marito nubere. 
+      </p>
+               <p xml:id="WuV37d-f99879-d1e401">
+                  <lb ed="#B" n="15"/>¶ In ista quaestione ad praecedentes 
+      confor<lb ed="#B" n="16" break="no"/>miter sunt tres articuli declarandi: 
+      <lb ed="#B" n="17"/>Primus est terminorum declaratiuus 
+      <lb ed="#B" n="18"/>Quorum Secundus est quaestionis responsiuus 
+      <lb ed="#B" n="19"/>Tertius est terminorum motiuus  
+      <lb ed="#B" n="20"/>Quo ad primii articulum 
+      <lb ed="#B" n="21"/>imini sunt 
+      <lb ed="#B" n="22"/>Cognatio spiritualis: cognatio legalis: pu 
+      <lb ed="#B" n="23"/>plice bonestatis iusticia.
+</p>
+               <p xml:id="WuV37d-f99879-d1e423">
+¶ Primus 
+      ter<lb ed="#B" n="24" break="no"/>minus est cognatio spualis. Cogna 
+      <lb ed="#B" n="25"/>tio spiritualis secundum doc. sub. inpraesenti 
+      distin<lb ed="#B" n="26" break="no"/>ctione est quoddam vinculum contractum ex 
+      <lb ed="#B" n="27"/>dispensatione sacramentorum specialitur ba 
+      <lb ed="#B" n="28"/>ptismi et confirmationis: quia sicut habetur) 
+      <lb ed="#B" n="29"/>extra de cognatione spirituali in. 6. libro. ca. 
+      <lb ed="#B" n="30"/>quamuis. §. vltimo. ex datione aliorum sacramen 
+      <lb ed="#B" n="31"/>torum supple a baptismo et confirmatione: co 
+      <lb ed="#B" n="32"/>gnatio spiritualis nequaquam oritur quae 
+      ma<lb ed="#B" n="33" break="no"/>trimonium impediat vel dissoluat. sunt au 
+      <lb ed="#B" n="34"/>tem huiusmodi cognationis spiritualis: vt 
+      <lb ed="#B" n="35"/>dicit Hugo de nouo castro tres species. 
+      <lb ed="#B" n="36"/>Prima est paternitas: et contrahitur inter 
+      <lb ed="#B" n="37"/>conferentem sacramentum: et tenentes 
+      pue<lb ed="#B" n="38" break="no"/>rum ex vna parte: et puerum ex alia parte siue 
+      <lb ed="#B" n="39"/>in sacramento baptismi / siue in 
+      sacramen<lb ed="#B" n="40" break="no"/>to confirmationis: vnde conferens 
+      sacramen<lb ed="#B" n="41" break="no"/>tum dicitur spiritualis pater pueri: 
+      tenen<lb ed="#B" n="42" break="no"/>tes autem dicuntur patrini vel matrini. Se 
+      <lb ed="#B" n="43"/>cunda species est compaternitas 
+      spiritua<lb ed="#B" n="44" break="no"/>lis: quae contrahitur inter tenentes et 
+      paren<lb ed="#B" n="45" break="no"/>tes pueri: ideo dicuntur compatrini et 
+      comma<lb ed="#B" n="46" break="no"/>trinae. Et similiter secundum alios inter istos 
+      te<lb ed="#B" n="47" break="no"/>nentes et ipsum conferentem sacramentum 
+      <lb ed="#B" n="48"/>est ipsa compaternitas. Tertia species est 
+      fra<lb ed="#B" n="49" break="no"/>ternitas et sororeitas spiritualis: quae contra¬ 
+      <!--880.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>pitur inter suscipientem sacramentum et 
+      fili<lb ed="#B" n="51" break="no"/>os et filias bapticantis: vel iporum et ipsarum 
+      <lb ed="#B" n="52"/>tenentium.
+</p>
+               <p xml:id="WuV37d-f99879-d1e493">
+¶ Secundus terminus est 
+      <lb ed="#B" n="53"/>legalis cognatio. Est autem vt dicit 
+      fra<lb ed="#B" n="54" break="no"/>ter Raymundus in summa de matrimonio 
+      <lb ed="#B" n="55"/>quedam ex adoptione proximitas proueni 
+      <lb ed="#B" n="56"/>ens. In qua brevi descriptione tangitur 
+      <lb ed="#B" n="57"/>primo genus / cum dicitur: proximitas: in 
+      <lb ed="#B" n="58"/>quo cum reliquis cognationibus conuenit 
+      <lb ed="#B" n="59"/>Secundo praecessum / dum dicitur: 
+      proueni<lb ed="#B" n="60" break="no"/>ens. Tertio ortum / dum dicitur: ex adopti 
+      <lb ed="#B" n="61"/>one. Unde ultra dicta de adoptione lib. 
+      <lb ed="#B" n="62"/>3 di. decima. quia per adoptionem 
+      cogno<lb ed="#B" n="63" break="no"/>scitur cognatio legalis et eius species / est 
+      <lb ed="#B" n="64"/>notandum triplicem esse acceptionem 
+      ad<lb ed="#B" n="65" break="no"/>optionis: connumerando adoptionem in 
+      <lb ed="#B" n="66"/>communi: quia aliquando arrogatio dicitur 
+      <lb ed="#B" n="67"/>adoptio. Primo enim modo dicitur 
+      ado<lb ed="#B" n="68" break="no"/>ptio quoddam commune duabus speciebus 
+      <lb ed="#B" n="69"/>sub eo contentis: sicut est animal homini et 
+      <lb ed="#B" n="70"/>asino quae sunt simplex adoptio et 
+      arroga<lb ed="#B" n="71" break="no"/>tio: ideo secundo modo dicitur adoptio 
+      <lb ed="#B" n="72"/>illa species quae commune nomen habet cum 
+      <lb ed="#B" n="73"/>genere / nisi quod additur sepe vt dicatur 
+      sim<lb ed="#B" n="74" break="no"/>plex adoptio et dicitur simplex / quia sic 
+      ad<lb ed="#B" n="75" break="no"/>optatus in dominium non transit 
+      adoptan<lb ed="#B" n="76" break="no"/>tis: sed remanet in patris dominio. Ter 
+      <lb ed="#B" n="77"/>tio modo dicitur arrogatio: et qui sic 
+      ad<lb ed="#B" n="78" break="no"/>optatur sui iuris est: et tunc supple et in pote 
+      <lb ed="#B" n="79"/>statem transit arrogantis: vnde sunt metra: 
+      <lb ed="#B" n="80"/>Arrogo quie suus est: sed habet meus esse ne 
+      <lb ed="#B" n="81"/>cesse. Patris adopto suum: nec patris 
+      de<lb ed="#B" n="82" break="no"/>sinit idem. Differunt autem in tribus. 
+      Primo<lb ed="#B" n="83" break="no"/>qui arrogatur est sui iuris: qui adoptatur est 
+      <lb ed="#B" n="84"/>alieni. Secundo arrogatus transit in 
+      pote<lb ed="#B" n="85" break="no"/>statem arrogantis: adoptatus non transit in 
+      <lb ed="#B" n="86"/>potestatem adoptantis. Tertio / arroga 
+      <lb ed="#B" n="87"/>tio non fit nisi auctoritate principis: ado  
+      <lb ed="#B" n="88"/>ptio autem fit per quemlibet magistratum. Hae 
+      <lb ed="#B" n="89"/>tres differentiae accipi possunt ex his quae 
+      di<lb ed="#B" n="90" break="no"/>cuntur instituta de adoptione. 5. 1. 2. 3. et 
+      <lb ed="#B" n="91"/>4. coniunctim: et per illud quod dicitur extra de 
+      co<lb ed="#B" n="92" break="no"/>gnatione legali. c. vnico in glo. Ex quibus 
+      <lb ed="#B" n="93"/>sequitur quod arrogatus habet de necessitate le 
+      <lb ed="#B" n="94"/>gittimam in bonis arrogatoris: adoptans 
+      <lb ed="#B" n="95"/>vero non in bonis adoptantis. Est autem tri 
+      <lb ed="#B" n="96"/>plex species proueniens cognationis legalis ex 
+      <lb ed="#B" n="97"/>huiusmodi adoptione. Prima / intur adoptatum et 
+      <lb ed="#B" n="98"/>adoptantem: et ista dicitur quasi linea descendentium 
+      <!--881.xml-->
+      <pb ed="#B" n="432-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>vt ado potestas dicatur pater aut mater: 
+      ado<lb ed="#B" n="2" break="no"/>ptatus dicatur filius / aut adoptata filia. 
+      <lb ed="#B" n="3"/>Secunda species dicitur quasi ex latere venius 
+      <lb ed="#B" n="4"/>entium: et contrahitur inter liberos adoptiuos 
+      <lb ed="#B" n="5"/>et liberos naturales. Tertia species est qua 
+      <lb ed="#B" n="6"/>si legalis affinitas inter adoptatum et vxo 
+      <lb ed="#B" n="7"/>rem adoptantis: vel inter adoptantem et 
+      <lb ed="#B" n="8"/>vxorem adoptiui filii: inter autem adoptantem 
+      <lb ed="#B" n="9"/>et parentes adoptati nulla contrahitur lega 
+      <lb ed="#B" n="10"/>lis cognatio: quia tales non similis cohabitant. 
+      </p>
+               <p xml:id="WuV37d-f99879-d1e623">
+                  <lb ed="#B" n="11"/>¶ Tertius terminus est publice ho 
+      <lb ed="#B" n="12"/>nestatis iusticia. Est autem publice bone 
+      <lb ed="#B" n="13"/>statis iusticia: vt dicit frater Richar. de 
+      <lb ed="#B" n="14"/>media villa. 41. di. huius quarti. art. 1. q. 
+      <lb ed="#B" n="15"/>3 propinquitas ex sponsalibus proueniens: ro 
+      <lb ed="#B" n="16"/>bur trahens ex ecclesiae institutione / propter 
+      <lb ed="#B" n="17"/>eius bonestatem. Et datur haec descriptio ex 
+      <lb ed="#B" n="18"/>omni genere causae. Ex causa materiali: quia 
+      <lb ed="#B" n="19"/>ex sponsalibus: sunt enim in quibus contrahitur 
+      <lb ed="#B" n="20"/>causa formalis / propinquitas / causa 
+      effecti<lb ed="#B" n="21" break="no"/>ua / robur trahens ex institutione ecclesie / cau 
+      <lb ed="#B" n="22"/>sa finalis propter eius bonestatem. Et est no 
+      <lb ed="#B" n="23"/>tandum haec tria differre: proprium commune 
+      <lb ed="#B" n="24"/>publicum: proprium vni / commune multis: pu 
+      <lb ed="#B" n="25"/>blicum omnibus vnde hoc vocabulum sum 
+      <lb ed="#B" n="26"/>ptum est a quodam ciue romano quae dicebatur pu 
+      <lb ed="#B" n="27"/>blius: quae primo sua propria fecit cunctis communia: 
+      <lb ed="#B" n="28"/>vnde publicum venit. Ex quo patet quod per b. 
+      <lb ed="#B" n="29"/>debet scribi publicum in media syllaba: non 
+      <lb ed="#B" n="30"/>per. p. vt dicatur publicum non puplicum: et hoc 
+      <lb ed="#B" n="31"/>modo publius nomen meruit aeternum et pu 
+      <lb ed="#B" n="32"/>blicum. Et tantum de primo articulo. 
+      <lb ed="#B" n="33"/>Quantum ad secudum arti 
+      <lb ed="#B" n="34"/>culum 
+      <lb ed="#B" n="35"/>3 sunt tres conclusiones. Prima de 
+      cogna<lb ed="#B" n="36" break="no"/>tione spirituali. Secunda de legali. Tertia de se 
+      <lb ed="#B" n="37"/>a cundis nuptiis.
+</p>
+               <p xml:id="WuV37d-f99879-d1e684">
+¶ Prima conclusio est 
+      <lb ed="#B" n="38"/>haec: Cognatio spiritualis si praecedit et 
+      impe<lb ed="#B" n="39" break="no"/>dit contrahendum et dirimit contractum: non au 
+      <lb ed="#B" n="40"/>tem sic: si sequitur de hoc. 30. q. 1. ca. Nosse. 
+      <lb ed="#B" n="41"/>et ca. 4. Dictum est nobis. Probatur 
+      conclu<lb ed="#B" n="42" break="no"/>sio: tanto bonestius et purius custodiendum 
+      <lb ed="#B" n="43"/>est vinculum / quanto sanctius: sed non potest 
+      <lb ed="#B" n="44"/>contrahi carnaliter / nisi sequatur affinitas: 
+      <lb ed="#B" n="45"/>ergo nec generari spiritualiter / nisi vinculum 
+      <lb ed="#B" n="46"/>consequatur. Tum secundo: quia quae consanguineus est 
+      <lb ed="#B" n="47"/>affectu consanguinitatis tractatur: nec cum 
+      <lb ed="#B" n="48"/>tali matrimonium contrahitur: ergo nec in co 
+      <lb ed="#B" n="49"/>gnatione spirituali. Tum tertio: quia nobilius est 
+      <!--881.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>esse gratiae quam naturae: sed per esse naturae tale 
+      <lb ed="#B" n="51"/>vinculum contrahitur / quod adinuicem non contra 
+      <lb ed="#B" n="52"/>hunt communiugia: ergo a fortiori in regenera 
+      <lb ed="#B" n="53"/>tione spirituali. Pro secunda tamen parte 
+      con<lb ed="#B" n="54" break="no"/>clusionis quae dicit quod si adueniat post 
+      con<lb ed="#B" n="55" break="no"/>tractum matrimonium non dirimit. Est 
+      notan<lb ed="#B" n="56" break="no"/>dum quod dicit doctor deuotus in praesenti dist. 
+      <lb ed="#B" n="57"/>arti. 1. q. 2. quod si vir et mulier post 
+      contra<lb ed="#B" n="58" break="no"/>ctum matrimonium leuent simul puerum de 
+      ba<lb ed="#B" n="59" break="no"/>ptismo: vel quod vir baptiget puerum suum: hoc 
+      <lb ed="#B" n="60"/>potest fieri tripliciter. Primo necessitate: vt 
+      <lb ed="#B" n="61"/>quando paruulus est in articulo mortis: et non 
+      <lb ed="#B" n="62"/>est alius quie baptiget. Secundo ex ignorantia: 
+      <lb ed="#B" n="63"/>quia puerum suum esse ignorat. Tertio ex indu 
+      <lb ed="#B" n="64"/>stria. In primo casu nec amictit ius 
+      peten<lb ed="#B" n="65" break="no"/>di nec soluendi: similiter in secundo casu /nisi 
+      <lb ed="#B" n="66"/>fuerit ignorantia crassa: aut supina non 
+      <lb ed="#B" n="67"/>amittit. In tertio ius petendi amittit non 
+      <lb ed="#B" n="68"/>soluendi: quia alteri peccatum suum non praeiudi 
+      <lb ed="#B" n="69"/>cat. Ex his infero tria correlaria. Primum 
+      <lb ed="#B" n="70"/>inter omnes filios et filias compatrum siue 
+      <lb ed="#B" n="71"/>ante contractam compaternitatem / siue post po 
+      <lb ed="#B" n="72"/>test contrahi matrimonium: illo solo dempto 
+      <lb ed="#B" n="73"/>quo contractra est cognatio. et patet: quia 
+      <lb ed="#B" n="74"/>remota causa habet effectus remoueri: si ta 
+      <lb ed="#B" n="75"/>mem consuetudo ecclesie metropolitanae non 
+      <lb ed="#B" n="76"/>sit in contrarium: quia impediretur contrahendum 
+      <lb ed="#B" n="77"/>et dirimeretur contractum. extra de cognatione 
+      <lb ed="#B" n="78"/>spirituali. c. Super eo. et. c. praecedenti in textu et in 
+      <lb ed="#B" n="79"/>glo. Secundum correlarium: Filius 
+      sacerdotio<lb ed="#B" n="80" break="no"/>non potest ducere quam pater baptigauit. ex de 
+      <lb ed="#B" n="81"/>cognatione spirituali. c. vlti. patet ex superiori 
+      <lb ed="#B" n="82"/>bus: potest tamen contrahere cum ea quae consitetur 
+      pa<lb ed="#B" n="83" break="no"/>tri: quia licem haec sit filia spiritualis tertia. q. 1. c. 
+      <lb ed="#B" n="84"/>Omnes. tamen haec cognatio spiritualis 
+      per<lb ed="#B" n="85" break="no"/>poniam non est ad filium: sed solum patrem. vnde 
+      <lb ed="#B" n="86"/>doctor deuotur. q. 1. diciti / quod talis cognatio 
+      <lb ed="#B" n="87"/>quam maxime reperitur in comparatione 
+      rege<lb ed="#B" n="88" break="no"/>nerationis ad generationem: in qua sunt tria. 
+      <lb ed="#B" n="89"/>Dispositio ad regenerationem in cathecis 
+      <lb ed="#B" n="90"/>mo. secundo ipsa regeneratio in baptismo. ter 
+      <lb ed="#B" n="91"/>tio regenerationis consummatio in 
+      confirma<lb ed="#B" n="92" break="no"/>tione: ideo triplex contrahitur cognatio spi 
+      <lb ed="#B" n="93"/>ritualis. Primo ex cathegismo: secundo ex 
+      <lb ed="#B" n="94"/>baptismo: tertio ex confirmatione. Illa ta 
+      <lb ed="#B" n="95"/>mem quae est in cathecismo tam exilis est / vt vix 
+      <lb ed="#B" n="96"/>impediat matrimonium contrahendum: sed 
+      <lb ed="#B" n="97"/>non dirimit contractum. iuxta. c. Per 
+      ca<lb ed="#B" n="98" break="no"/>thecismum. de cognatione spirituali. 6. quia 
+      <!--882.xml-->
+      <pb ed="#B" n="433-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>ante baptismum nullus fit filius spiritualis. Et 
+      <lb ed="#B" n="2"/>si obiiciatur / quod charitate quo maior est omnibus 
+      <lb ed="#B" n="3"/>virtutibus / non contrahitur aliquod vinculum. 
+      <lb ed="#B" n="4"/>Tum secundo: nec sacramento eucharistiae: 
+      <lb ed="#B" n="5"/>quod maxime est sacramentum. Tum tertio: quia 
+      <lb ed="#B" n="6"/>tunc sequeretur / quod bapticati ab eodem 
+      bapti<lb ed="#B" n="7" break="no"/>tante cotraherent spiritualem cognationem. Sic 
+      <lb ed="#B" n="8"/>enim in generatione naturali / sicut inter pa 
+      <lb ed="#B" n="9"/>trem et filium est cognatio carnalis: sic inter fra 
+      <lb ed="#B" n="10"/>tres et inter se: et vt ad patrem referuntur. Ad  
+      <lb ed="#B" n="11"/>primum de charitate dicendum primo / quod est no 
+      <lb ed="#B" n="12"/>bilissima virtus. Secundo quod facit filios 
+      <lb ed="#B" n="13"/>dei christi haeredes et ei similes: qui eam 
+      in<lb ed="#B" n="14" break="no"/>fundit in nobis sine nobis. Tertio quod cha 
+      <lb ed="#B" n="15"/>ritate non contrahitur cognatio ad homines: 
+      <lb ed="#B" n="16"/>quia non est sacramentum: sed ad deum: vt 
+      cog<lb ed="#B" n="17" break="no"/>nati dei charitate censeamur. Ad secundum 
+      <lb ed="#B" n="18"/>dicendum / quod nec etiam omni sacramento 
+      con<lb ed="#B" n="19" break="no"/>trahitur cognatio / sed aqua et spiritu: aqua in 
+      <lb ed="#B" n="20"/>baptismo / spiritu in confirmatione. Ad 
+      terti<lb ed="#B" n="21" break="no"/>um dicendum / quod non est simile: in generatio 
+      <lb ed="#B" n="22"/>ne enim carnali qui ab eodem patre 
+      gignun<lb ed="#B" n="23" break="no"/>tur: vtplurimum similiores sunt quam qui ex di 
+      <lb ed="#B" n="24"/>uersis: in baptismo vero non oportet fore si 
+      <lb ed="#B" n="25"/>miliores baptigcatos ab vno quam diuersis. 
+      <lb ed="#B" n="26"/>Et sicut videmus ex affinitate affinitatem 
+      <lb ed="#B" n="27"/>non surgere antiquitus / nisi copula carnis 
+      <lb ed="#B" n="28"/>media: sic ex cognatione spirituali non surgit 
+      <lb ed="#B" n="29"/>cognatio spiritualis / nisi cognatione 
+      carna<lb ed="#B" n="30" break="no"/>li: sicut dictum est in corollario de filio sa 
+      <lb ed="#B" n="31"/>cerdotis. Et patet ex hoc quod participantes 
+      <lb ed="#B" n="32"/>idem sacramentum / cognationem spiritualem non con 
+      <lb ed="#B" n="33"/>trahunt: quia vt sic ad aliquod speciale non 
+      <lb ed="#B" n="34"/>ligantur / sed donans et suscipiens: et si non in 
+      <lb ed="#B" n="35"/>omibus / tamen certis. Ex quo patet 
+      cogna<lb ed="#B" n="36" break="no"/>tionem spiritualem contractam secundum tres in primo 
+      <lb ed="#B" n="37"/>articulo dictas species: et communiugium contra 
+      <lb ed="#B" n="38"/>hendum impedire / et contractum dirimere. Et 
+      <lb ed="#B" n="39"/>quamuis carnalis cognatio ad spiritualem sit 
+      <lb ed="#B" n="40"/>ordinata / non tamen econuerso: corpus qui 
+      <lb ed="#B" n="41"/>dem ad animam / non anima ad corpus: vt ad  
+      <lb ed="#B" n="42"/>finem ordinatur: sic non oportet 
+      cognati<lb ed="#B" n="43" break="no"/>onem spiritualem vacare carnaliter / vt car 
+      <lb ed="#B" n="44"/>nalis cognatio amplietur. Et sicut videmus 
+      <lb ed="#B" n="45"/>mediam virtutem ex ambobus impediri 
+      extremis<lb ed="#B" n="46" break="no"/>et medio saluari: sic et nimia cultus dispa 
+      <lb ed="#B" n="47"/>ritas / et nimia propinquitas impedit matri 
+      <lb ed="#B" n="48"/>monium siue coniugium. Ex quibus tertium 
+      sequi<lb ed="#B" n="49" break="no"/>tur corollarium: quod potest pater ducere sororem 
+      <!--882.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>spiritualis filiae / et filiam carnalem filiae spiritualis / et 
+      <lb ed="#B" n="51"/>filiam spiritualem filiae carnalis. Eodem iure filia 
+      <lb ed="#B" n="52"/>commatris potest duci in matrimonium. Horum 
+      ra<lb ed="#B" n="53" break="no"/>tio est: quia non protenditur haec spiritualis 
+      cogna<lb ed="#B" n="54" break="no"/>tio per cognationem carnalem. Sed extat 
+      du<lb ed="#B" n="55" break="no"/>bium: si vnus vir duas consequenter possit habere comma 
+      <lb ed="#B" n="56"/>tres: cui dubio in brevi. 4. metra respondent. 
+      <lb ed="#B" n="57"/>Quee mihii vlhcuius mea natum faonte leuauit 
+      <lb ed="#B" n="58"/>Nec mea commatur non fit recte mea communitusre 
+      <lb ed="#B" n="59"/>Di qua meae natum: non erem me faotnte leuauit 
+      <lb ed="#B" n="60"/>Nanc post facta meae: non inde vetahor 
+      <lb ed="#B" n="61"/>fiabere. 
+      </p>
+               <p xml:id="WuV37d-f99879-d1e967">
+                  <lb ed="#B" n="62"/>¶ Et est samina. Uir potest ducere commatrem 
+      vx<lb ed="#B" n="63" break="no"/>pris aliquando / aliquando non: si facta est commater ante 
+      <lb ed="#B" n="64"/>matrimonium consummatum: potest eam ducere 
+      mor<lb ed="#B" n="65" break="no"/>tua vxore: quia non est compater secundum Inno. et ho 
+      <lb ed="#B" n="66"/>stiem. Si post matrimonium consummatum fiat con 
+      <lb ed="#B" n="67"/>mater: tunc vlterius distinguere oportem: aut 
+      <lb ed="#B" n="68"/>hoc est quia vxor leuauit filium muliertis: et tunc 
+      <lb ed="#B" n="69"/>non potest eam ducere: quia est commater eius: aut quia 
+      <lb ed="#B" n="70"/>illa mulier filium vxoris non habitum de isto 
+      <lb ed="#B" n="71"/>marito: et tunc potest eam ducere: quia non est 
+      com<lb ed="#B" n="72" break="no"/>mater eius. Si autem filius sit de isto marito 
+      <lb ed="#B" n="73"/>non potest eam ducere: quia ratione filii fit 
+      comma<lb ed="#B" n="74" break="no"/>ter eius. Sed de confirmatione moueatur ca 
+      <lb ed="#B" n="75"/>sus. Epus confirmauit aliquam / quam filius 
+      <lb ed="#B" n="76"/>eius duxit vxorem: quid fiendum? Dicunt ali 
+      <lb ed="#B" n="77"/>qui summum pontificem consulendum: cum sit no 
+      <lb ed="#B" n="78"/>uus articulus. Sed melius est dicere 
+      matri<lb ed="#B" n="79" break="no"/>monium fore nullum: quia vt habetur extra li. 6. 
+      <lb ed="#B" n="80"/>Eodem modo contrahitur compaternitas in 
+      ba<lb ed="#B" n="81" break="no"/>ptismo et in confirmatione: sed filius 
+      bapti<lb ed="#B" n="82" break="no"/>gantis nequit accipere filiam bapticatam: er 
+      <lb ed="#B" n="83"/>go nec filius confirmantis ab eo confirmatam: 
+      <lb ed="#B" n="84"/>pro isto facit. c. vltimum de cog. spiritu. in sexto. 
+      </p>
+               <p xml:id="WuV37d-f99879-d1e1019">
+                  <lb ed="#B" n="85"/>¶ Secunda conclusio est haec. Sic lega 
+      <lb ed="#B" n="86"/>lis cognatio vinculum consistit / vt impediat 
+      <lb ed="#B" n="87"/>contrahendum et dirimat contractum 
+      communiugi<lb ed="#B" n="88" break="no"/>um. Quia sit vinculum patet. Tum primo 
+      au<lb ed="#B" n="89" break="no"/>ctoritate Nicolai papae: et habetur in 
+      litte<lb ed="#B" n="90" break="no"/>ra praesentis distin. inter eos non contrahitur 
+      <lb ed="#B" n="91"/>coniugium quos adoptio iungit. Tum 
+      secun<lb ed="#B" n="92" break="no"/>do: ecce tertia: lex naturalis / lex 
+      diuina<lb ed="#B" n="93" break="no"/>lex humana. Ultra legen naturalem lex diui 
+      <lb ed="#B" n="94"/>na addit cognationem spiritualem: ergo etiam 
+      <lb ed="#B" n="95"/>ultra naturalem legem pot humana addere co 
+      <lb ed="#B" n="96"/>gnationem. Tum tertio: quia sicut patris est 
+      <lb ed="#B" n="97"/>generare filium: ita et fouere / educare / et habus 
+      <lb ed="#B" n="98"/>reditatem relinquere. Ergo cum aliquis ab¬ 
+      <!--883.xml-->
+      <pb ed="#B" n="433-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>sumit aliquem ad hos actus: recte potest dici 
+      <lb ed="#B" n="2"/>pater / et ille filius: sed istae relationes sunt vin 
+      <lb ed="#B" n="3"/>culum: ergo. Unde istae tres cognationes: 
+      car<lb ed="#B" n="4" break="no"/>nalis / spiritualis / legalis: magnam habent conue 
+      <lb ed="#B" n="5"/>nientiam: et se habent sicut ordinantur. Prima 
+      <lb ed="#B" n="6"/>enim est carnalis: quae ex carnali generatione 
+      <lb ed="#B" n="7"/>ducitur. Secunda cognatio scilicet spiritualis / ex rege 
+      <lb ed="#B" n="8"/>neratione ducitur. Tertia cognatio quae lega 
+      <lb ed="#B" n="9"/>lis est: ex actibus generationem consequentibus 
+      <lb ed="#B" n="10"/>nominatur: qui sunt fouere / educare / 
+      possessio<lb ed="#B" n="11" break="no"/>nem dimittere: et leges in maximum solatium 
+      <lb ed="#B" n="12"/>ipsis coniugatis hoc concedunt. Nec potest 
+      quili<lb ed="#B" n="13" break="no"/>bet adoptare vel arrogare / sed vir / non mu 
+      <lb ed="#B" n="14"/>lier: et solum ille qui est paterfamilias / quae est 
+      <lb ed="#B" n="15"/>sui iuris: et non filiusfamilias: et solum ille quo 
+      <lb ed="#B" n="16"/>potuit filios naturaliter generare. Unde 
+      <lb ed="#B" n="17"/>esset frigidus / non posset adoptare. Simili 
+      <lb ed="#B" n="18"/>nec spado / quae caret testiculis naturaliter. Si 
+      <lb ed="#B" n="19"/>autem violenter sint sibi abscisi / potest 
+      adopta<lb ed="#B" n="20" break="no"/>re etiam. iste solus potest adoptare qui prae 
+      <lb ed="#B" n="21"/>cedit adoptatum per annos decenocto: ita quod 
+      <lb ed="#B" n="22"/>posset eum naturaliter generasse. Haec omnis 
+      <lb ed="#B" n="23"/>Hosti. extrahit. f. de adoptionibus. l. per 
+      <lb ed="#B" n="24"/>adoptionem. Notandum tamen primo / quod arroga 
+      <lb ed="#B" n="25"/>re potest quicumque potest adoptare: si fiat prin 
+      <lb ed="#B" n="26"/>cipis auctoritate: excepto quod arrogator 
+      <lb ed="#B" n="27"/>debet habere adminus. 60. annos: nisi for 
+      <lb ed="#B" n="28"/>te ex alia causa necessaria / puta propter 
+      mor<lb ed="#B" n="29" break="no"/>bum: vel quia coniunctam nsonam vult arrogare: et 
+      <lb ed="#B" n="30"/>est ratio quare non potest communiter: quia vsque ad il 
+      <lb ed="#B" n="31"/>lud tempus debet intendere generationi 
+      na<lb ed="#B" n="32" break="no"/>turali / non legali: sed minor. 6o. annis potest 
+      <lb ed="#B" n="33"/>adoptare. f. de adop l. si patre. §. 
+      vltimo<lb ed="#B" n="34" break="no"/>Notandum secundo / quod tutor vel curator non 
+      <lb ed="#B" n="35"/>possunt arrogare illum cuius tutelam vel curam 
+      <lb ed="#B" n="36"/>gerunt: si est minor. 25. non potest adopte 
+      <lb ed="#B" n="37"/>re: quia praesumitur quod noluit rationem reddere. 
+      <lb ed="#B" n="38"/>ff. de adop. l. vt ei. Notandum tertio harum 
+      <lb ed="#B" n="39"/>trium cognationum sufficientiam: carnalis / spi 
+      <lb ed="#B" n="40"/>ritualis / et legalis: posse sumi tripliciter: vt 
+      do<lb ed="#B" n="41" break="no"/>ctor inquit deuotus secundo arti. q. 1. 
+      prae<lb ed="#B" n="42" break="no"/>sentis distin. Primo modo secundum triplicem legem: 
+      <lb ed="#B" n="43"/>naturalem / diuinam / et positiuam: secundum legen na 
+      <lb ed="#B" n="44"/>tutalem est cognatio carnalis: quantum ad se 
+      <lb ed="#B" n="45"/>cundam spiritualis: quantum ad tertiam 
+      lega<lb ed="#B" n="46" break="no"/>lis. Secundo modo potest sumi penes id quod 
+      <lb ed="#B" n="47"/>aspiciunt. Tria enim in nobis sunt bona: na 
+      <lb ed="#B" n="48"/>turaei gratiae et fortune. Bona naturae aspi 
+      <lb ed="#B" n="49"/>cit cognatio carnalis. Bonum gratiae spiri¬ 
+      <!--883.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>tualis: bonum fortunae legalis. Tertio modo 
+      <lb ed="#B" n="51"/>vt cognatio carnalis respiciat carnem / 
+      spi<lb ed="#B" n="52" break="no"/>ritualis animam / legalis totum hominem. 
+      Se<lb ed="#B" n="53" break="no"/>cunda pars probatur. Tum primo. 30. q. 3. ita 
+      <lb ed="#B" n="54"/>diligere: Nicolaus papa dicit: et habetur in 
+      <lb ed="#B" n="55"/>littera. Inter eos non contrahitur matrimoni 
+      <lb ed="#B" n="56"/>um quos adoptio iungit. Tum secundo: quia 
+      <lb ed="#B" n="57"/>debet alius esse affectus paternus / alius 
+      <lb ed="#B" n="58"/>maritalis. Tum tertio. 30. q. 3. c. 1. Intur eos 
+      <lb ed="#B" n="59"/>qui natura / et eos qui adoptione filii sunt: 
+      ve<lb ed="#B" n="60" break="no"/>nerande leges romanae matrimonia contrahi 
+      <lb ed="#B" n="61"/>non permittunt. Notandi tamen sunt in hac materia 
+      <lb ed="#B" n="62"/>tres binarii propositionum multum aduertendi 
+      <lb ed="#B" n="63"/>Prima propositio. Cognatio legalis tandiu impe 
+      <lb ed="#B" n="64"/>dit quamdiu durat: sed ea remota non impedit. 
+      <lb ed="#B" n="65"/>Secunda propositio. In linea descendente cogna 
+      <lb ed="#B" n="66"/>tionis legalis qua est inter adoptantem patrem et fi 
+      <lb ed="#B" n="67"/>liam adoptatam: sper impedit matrimonium: etiam si 
+      <lb ed="#B" n="68"/>tollatur adoptio: en primus binarius. Tertia pro 
+      <lb ed="#B" n="69"/>positio. In linea quae respicit laturales / vt filium 
+      <lb ed="#B" n="70"/>naturalem et filiam adoptatam: impedit 
+      matrimo<lb ed="#B" n="71" break="no"/>nium quam diu durat adoptio: intellige tamen quamdiu 
+      <lb ed="#B" n="72"/>manet in potestate patris: vnde si pater moriatur / possunt 
+      <lb ed="#B" n="73"/>conhere: vel si filius naturalis vel filia 
+      adopti<lb ed="#B" n="74" break="no"/>ua emancipetur / possunt contrahere. Similiter est de filiis  
+      <lb ed="#B" n="75"/>arrogatis: extra de cogna. legali. c. vnico: 
+      <lb ed="#B" n="76"/>et arg. assumitur. C. de adop. li. penlis. §. penlis. 
+      <lb ed="#B" n="77"/>Quarta propositio. Filius illegitimus potest 
+      contra<lb ed="#B" n="78" break="no"/>here cum filia adoptiua: et similiter filia illegitia 
+      <lb ed="#B" n="79"/>cum filio adoptiuo: quia illegitimus non est i potesta 
+      <lb ed="#B" n="80"/>te patris: sicut vult Inno. et hosti. ex de 
+      co<lb ed="#B" n="81" break="no"/>gna. lega. c. vnico: en secundus binarius. Quita 
+      <lb ed="#B" n="82"/>secundum ber. Filii adoptiui possunt inter se contrahere. 
+      <lb ed="#B" n="83"/>Sexta / quod adoptatus non potest ducere filiam ad  
+      <lb ed="#B" n="84"/>optantis: nec adoptans vxorem adoptati: en trm 
+      <lb ed="#B" n="85"/>tius binarius.
+</p>
+               <p xml:id="WuV37d-f99879-d1e1247">
+¶ Tertia conclusio est haec. 
+      Se<lb ed="#B" n="86" break="no"/>cunda coniugia licita sunt et homo esta iudicantur. 
+      <lb ed="#B" n="87"/>Quod sint licita / patet auctoritate apostoli di. Uolo 
+      iu<lb ed="#B" n="88" break="no"/>niores nubere / filios procreare / 
+      matresta<lb ed="#B" n="89" break="no"/>milias esse. Tum secundo: quia Abraam secundas nu 
+      <lb ed="#B" n="90"/>ptias contraxit cum cethura. Tum tertio: quia re 
+      <lb ed="#B" n="91"/>manet morbus: ideo licitum est quarere 
+      remedi<lb ed="#B" n="92" break="no"/>um. Quia etiam sint homo estae probat Tum ratio sacrmeini. 
+      <lb ed="#B" n="93"/>Tum secundo bonum prolis: quod aliquando in primis 
+      <lb ed="#B" n="94"/>nuptiis non habetur. Tum tertio: quia inhonestas. 
+      <lb ed="#B" n="95"/>fornicationis euitatur. Et tantum de secundo arti. 
+      <lb ed="#B" n="96"/>Quantum ad tertium 
+      arti<lb ed="#B" n="97" break="no"/>culum 
+      <lb ed="#B" n="98"/>sunt tres difficultates.
+</p>
+               <p xml:id="WuV37d-f99879-d1e1278">
+¶ Prima diffi. Si 
+      <!--884.xml-->
+      <pb ed="#B" n="434-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>oportet vt quis dicatur compatur aut patrinus pu 
+      <lb ed="#B" n="2"/>eri / nisi bapticet eum vt eum tangat. Dicit tra 
+      <lb ed="#B" n="3"/>ter Landul. quod sic: licet hosti. dicat contrarium: si 
+      <lb ed="#B" n="4"/>etiam puer in baptismo aut in confirmatione in 
+      <lb ed="#B" n="5"/>uoluatur lintheo aut lauetur: omnes tenentes lin 
+      <lb ed="#B" n="6"/>theum compatres fiunt.
+</p>
+               <p xml:id="WuV37d-f99879-d1e1300">
+¶ Secunda difficul 
+      <lb ed="#B" n="7"/>tas. Unde venit verbum arrogationis in propo 
+      <lb ed="#B" n="8"/>sito? Dicendum quod arrogatio de qua loquimur: 
+      <lb ed="#B" n="9"/>est quasi quedam interrogatio. Unde 
+      dici<lb ed="#B" n="10" break="no"/>tur de ad et interrogatio sed mutatur. d. 
+      <lb ed="#B" n="11"/>in r. In arrogatione enim requiritur verbum al 
+      <lb ed="#B" n="12"/>rogantis / et eius qui arrogatur / etiam expressum: 
+      <lb ed="#B" n="13"/>vt / vis me habere in patrem: et / vis me 
+      ha<lb ed="#B" n="14" break="no"/>bere in filium: sed haec adoptio non requirit 
+      <lb ed="#B" n="15"/>vnde infans paruulus potest adoptari / non tantu 
+      <lb ed="#B" n="16"/>arrogari.
+</p>
+               <p xml:id="WuV37d-f99879-d1e1324">
+¶ Tertia difficultas. quot 
+      <lb ed="#B" n="17"/>sunt impedimeta mrimonii: Superius 
+      di<lb ed="#B" n="18" break="no"/>27. iuxta mentem doc. deuoti: diuisa sunt imi 
+      <lb ed="#B" n="19"/>pedimenta matrimonii in quattuor ternarios idem 
+      <lb ed="#B" n="20"/>12. iuxta illa metra. Error conditio. Sed quia il 
+      <lb ed="#B" n="21"/>la metra (vt hic Secundo innuit) nec implent sa 
+      <lb ed="#B" n="22"/>tis numerum / nec habent ordinem impedimenta si 
+      <lb ed="#B" n="23"/>tuandi: ideo iuxta numerum non iam. 12. sed. 14. reper 
+      <lb ed="#B" n="24"/>untur impedimenta in communi computo et ordine poti 
+      <lb ed="#B" n="25"/>ori: quae sequentibus metris ponuntur et conti 
+      <lb ed="#B" n="26"/>nenter: et obuiat Landulphus. 
+      <lb ed="#B" n="27"/>ss is fraus personae: serui dationis 6oe amens 
+      <lb ed="#B" n="28"/>Addita conditio tria communiugrii homoa tollens 
+      <lb ed="#B" n="29"/>Frigidus / arta / puer / truncatus / praestigiat 
+      <lb ed="#B" n="30"/>Alterius communium: obstant mutuae dationi. 
+      <lb ed="#B" n="31"/>Ordo sacex / votum deo cultus / sponsio 
+      <lb ed="#B" n="32"/>mcechi. 
+      <lb ed="#B" n="33"/>Carnalis legis / cognatio spiritualis 
+      <lb ed="#B" n="34"/>Nic vi praeccepti fit hiuic affinis hionores. 
+      </p>
+               <p xml:id="WuV37d-f99879-d1e1367">
+                  <lb ed="#B" n="35"/>¶ Hi versus continent haec 
+      impedimenta<lb ed="#B" n="36" break="no"/>Primus versus continet quinque id est metum 
+      <lb ed="#B" n="37"/>fraudem id est errorem personae: seruum id est errorom 
+      <lb ed="#B" n="38"/>conditionis: dationem / id est contractum cum alia: 
+      <lb ed="#B" n="39"/>amentem id est non compotem rationis. Secundus ver 
+      <lb ed="#B" n="40"/>sus continet haec tria impedimenta contara tria 
+      <lb ed="#B" n="41"/>bona communiugum scilicet sacramenti / fidei / prolis. Ter 
+      <lb ed="#B" n="42"/>tius versus continet impedimenta frigidita 
+      <lb ed="#B" n="43"/>tis in viro / artationis in faemina / puericis 
+      <lb ed="#B" n="44"/>in vtroque: truncationis membrorum necessari 
+      <lb ed="#B" n="45"/>orum / et praestigiatum id est maleficiatum. Quar 
+      <lb ed="#B" n="46"/>tus versus continet vnum. Quintus versus 
+      <lb ed="#B" n="47"/>continet ordinem sacrum / votum / disparem cul 
+      <lb ed="#B" n="48"/>tum: et adulterium cum sponsione / et fidei 
+      dati<lb ed="#B" n="49" break="no"/>one. Sextus versus continet cognationem 
+      <!--884.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>carnalem legalem et spiritualem. Septimus duo: 
+      <lb ed="#B" n="51"/>ita in summa sunt octo triplicata modo dicto. 
+      <lb ed="#B" n="52"/>Ex quo patet ad quaestionem / quod videlicet cog 
+      <lb ed="#B" n="53"/>natio spiritualis aut legalis / et publicae 
+      homoe<lb ed="#B" n="54" break="no"/>status iusticia: sed non secundae nuptiae matrimo 
+      <lb ed="#B" n="55"/>nium impediunt. Tunc ad argumenta.
+</p>
+               <p xml:id="WuV37d-f99879-d1e1419">
+¶ Ad 
+      <lb ed="#B" n="56"/>primum dicendum / quod loquitur de iam contracto 
+      <lb ed="#B" n="57"/>matrimonio. Qualiter autem bona matrimo: 
+      <lb ed="#B" n="58"/>nii impediantur: hoc dictum fuit in simili in 
+      praece<lb ed="#B" n="59" break="no"/>denti dist.
+</p>
+               <p xml:id="WuV37d-f99879-d1e1430">
+¶ Ad secundum dicendum / quod non est 
+      <lb ed="#B" n="60"/>simile: filius enim adoptiuus non est similis filio 
+      <lb ed="#B" n="61"/>adoptiuo / nisi propter patrem adoptantem: 
+      fi<lb ed="#B" n="62" break="no"/>lius autem naturalis maiorem habet 
+      conue<lb ed="#B" n="63" break="no"/>nientiam cum patre quam adoptiuus. Ratio patet. 
+      </p>
+               <p xml:id="WuV37d-f99879-d1e1441">
+                  <lb ed="#B" n="64"/>¶ Ad tertium dicendum / quod dictum Chrys. 
+      ex<lb ed="#B" n="65" break="no"/>ponendum est dum dicit: vere est fornicatio id est si  
+      <lb ed="#B" n="66"/>gnum fornicationis: ita de magistro dum diciti 
+      <lb ed="#B" n="67"/>indigent poenitentia id est ostenduntur indigere: quia 
+      <lb ed="#B" n="68"/>praetendunt incontinentiam.
+</p>
+            </div>
+            <div xml:id="WuV37d-f99879-Dd1e1455">
+               <head xml:id="WuV37d-f99879-Hd1e1457">Conclusiones</head>
+               <p xml:id="WuV37d-f99879-d1e1460">
+¶ Ex ista dist. st 
+      <lb ed="#B" n="69"/>cut de. etc. Prima conclusio est. Spiritualis cog 
+      <lb ed="#B" n="70"/>natio coniugium dirimit atque interimit: vt 
+      <lb ed="#B" n="71"/>dicit ratio. Dicit conclusio quod spiritualis cogna 
+      <lb ed="#B" n="72"/>tio impedit matrimonium. Et ponitur a prin 
+      <lb ed="#B" n="73"/>cipio distin. vsque ad illud capitulum. quod autem 
+      <lb ed="#B" n="74"/>spirituales vel adoptiui etc.
+</p>
+               <p xml:id="WuV37d-f99879-d1e1476">
+¶ Secunda con 
+      <lb ed="#B" n="75"/>clusio. Ut spiritualis in hoc officio / sic est le 
+      <lb ed="#B" n="76"/>galis sine dubio. Dicit conclusio / quod lega 
+      <lb ed="#B" n="77"/>lis cognatio sicut spiritualis impedit matri 
+      <lb ed="#B" n="78"/>monium. Et ponitut ab illo ca. quod autem spiri 
+      <lb ed="#B" n="79"/>tuales vel adoptiui etc. vsque ad illud capi 
+      <lb ed="#B" n="80"/>tulum: Sciendum est etiam quod non solum primae 
+      <lb ed="#B" n="81"/>nuptiae etc.
+</p>
+               <p xml:id="WuV37d-f99879-d1e1494">
+¶ Tertia conclusio. Non 
+      de<lb ed="#B" n="82" break="no"/>bent damnari secundae nuptiae nec blasphe 
+      <lb ed="#B" n="83"/>mari vt infamiae: et patet conclusio. Et ponitur 
+      <lb ed="#B" n="84"/>ab illo. c. Sciendum est etiam etc. vsque adfi. di. 
+</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,600 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 41</title>
+            <author ref="#WilliamDeVaurouillon">William de Vaurouillon</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 41</title>
+               <date when="2021-06-19">June 19, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-bvbVBV">Basel 1510</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-06-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="223-v"/>
+            <cb ed="#B" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="WuV37d-f04443"><!-- l2d41 -->
+            <head xml:id="WuV37d-f04443-Hd1e108">Distinctio 41</head>
+            <div xml:id="WuV37d-f04443-Dd1e111" type="circa-textum">
+               <head xml:id="WuV37d-f04443-Hd1e113">Circa textum</head>
+               <p xml:id="WuV37d-f04443-d1e116">
+      <!--464.xml-->
+                  <pb ed="#B" n="224-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>Distinctio. 41. in qua opposito 
+      <lb ed="#B" n="2"/>modo ad precedentem 
+      distinctio<lb ed="#B" n="3" break="no"/>ne malum habeat per fieri ex 
+      per<lb ed="#B" n="4" break="no"/>uersa intentione. 
+      <lb ed="#B" n="5"/>Inque inten 
+      <lb ed="#B" n="6"/>tio (vt supra dictum est)/ 
+      <lb ed="#B" n="7"/>bonum opus faciat et 
+      fi<lb ed="#B" n="8" break="no"/>des intetione dirigat 
+      <lb ed="#B" n="9"/>etc. Hic signatur distin. 41. 
+      <lb ed="#B" n="10"/>huius secundi libri quae sic continuatur ad 
+      <lb ed="#B" n="11"/>praeced. Nam postquam in. 40. dist. ostensum est 
+      <lb ed="#B" n="12"/>quod ex fine et intentione redditur actibus 
+      bo<lb ed="#B" n="13" break="no"/>nitas. Nunc in praesenti distinctione 
+      ostem<lb ed="#B" n="14" break="no"/>dit magister: quod ex intentionis peruersione 
+      <lb ed="#B" n="15"/>in actibus venit obliquitas. Et diuiditur 
+      <lb ed="#B" n="16"/>in tres partes principales. In prima 
+      prae<lb ed="#B" n="17" break="no"/>cedenti cum distinctione textus iungitur. 
+      <lb ed="#B" n="18"/>In secunda operis cum intentionis 
+      con<lb ed="#B" n="19" break="no"/>nexio ponitur. In tertia actuum cum 
+      vo<lb ed="#B" n="20" break="no"/>litione concordia tangitur. prima in prin 
+      <lb ed="#B" n="21"/>cipio. secunda ibi. Non immerito querius 
+      <lb ed="#B" n="22"/>potest etc. tertia ibi. Post haec inuestigari 
+      <lb ed="#B" n="23"/>oportet etc. prima parte indiuisa 
+      manen<lb ed="#B" n="24" break="no"/>te: rursus secunda particula in qua operis 
+      <lb ed="#B" n="25"/>etc. in tres partes diniditur. In prima cu 
+      <lb ed="#B" n="26"/>iusdam opinionis aliorum fit determina 
+      <lb ed="#B" n="27"/>tio. In secunda modo impugnationis ad  
+      <lb ed="#B" n="28"/>predictos fit obuiatio. In tertia verioris  
+      <lb ed="#B" n="29"/>positionis per magistrum est manifestatio 
+      <lb ed="#B" n="30"/>prima in principio. secunda ibi. His 
+      obii<lb ed="#B" n="31" break="no"/>citur etc. tertia ibi. Alii vero qui 
+      tripha<lb ed="#B" n="32" break="no"/>rium etc. Et sequitur vltima pars nostrae. 
+      <lb ed="#B" n="33"/>distinctionis illa scilicet Post haec inuestigari 
+      <lb ed="#B" n="34"/>oportet etc. in qua actuum etc. quae diuiditur in 
+      <lb ed="#B" n="35"/>tres partes principales. In prima an 
+      pec<lb ed="#B" n="36" break="no"/>catum omne requirit quod sit voluntarium. 
+      <lb ed="#B" n="37"/>In secunda: an voluntas subiectum eius 
+      <lb ed="#B" n="38"/>dicitur primarium. In tertia quod ita sit plane 
+      <lb ed="#B" n="39"/>concluditur quasi veri summarium. prima in 
+      <lb ed="#B" n="40"/>principio. secunda ibi. Illius etiam 
+      intelli<lb ed="#B" n="41" break="no"/>gentia etc. tertia ibi. Si autem omne peccatum etc. 
+      </p>
+            </div>
+            <div xml:id="WuV37d-f04443-Dd1e215">
+               <head xml:id="WuV37d-f04443-Hd1e217">Quaestio</head>
+               <p xml:id="WuV37d-f04443-d1e220">
+                  <lb ed="#B" n="42"/>¶ Quaestio ista tractat de actibus 
+      <lb ed="#B" n="43"/>volutariis quantum ad qualitatemus 
+      <lb ed="#B" n="44"/>indifferentiam et substratu in qua 
+      no<lb ed="#B" n="45" break="no"/>tat sanctum tho.: et habetur a scoto in 
+      <lb ed="#B" n="46"/>hoc loco. q. i. et. 2. 
+      <!--464.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="47"/>Utrum actus 
+      ali<lb ed="#B" n="48" break="no"/>quis deliberatiue voluntarius  
+      <lb ed="#B" n="49"/>ad bonum et malum indifferens no 
+      <lb ed="#B" n="50"/>minetur. Et arguitur quod non triplici medio. 
+      </p>
+               <p xml:id="WuV37d-f04443-d1e246">
+                  <lb ed="#B" n="51"/>¶ Primo sic: nulla privatiue opposita 
+      ha<lb ed="#B" n="52" break="no"/>bent medium: sed bonum et malum sunt 
+      priua<lb ed="#B" n="53" break="no"/>tiue opposita. igitur. maior patet auctorita 
+      <lb ed="#B" n="54"/>te philosophi. 4. metaphice vbi dicit quod privatiue 
+      <lb ed="#B" n="55"/>opposita sunt contradictorie opposita. talia autem 
+      <lb ed="#B" n="56"/>carent medio: vt album et non album: et similia: sed  
+      <lb ed="#B" n="57"/>minor probatur: quia malum nihil aliud est nisi 
+      <lb ed="#B" n="58"/>quoddam accidens proueniens ex defectu 
+      <lb ed="#B" n="59"/>boni: vt habet aug. prima responsione contra pela 
+      <lb ed="#B" n="60"/>gianos.
+</p>
+               <p xml:id="WuV37d-f04443-d1e270">
+¶ Secundo arguitur sic. Ex actibus 
+      <lb ed="#B" n="61"/>frequentatis generatur habitus. Si ergo ali 
+      <lb ed="#B" n="62"/>qui essent indifferentes actus ad bonum et ma 
+      <lb ed="#B" n="63"/>lum: ex talibus posset consimilis habitus ge 
+      <lb ed="#B" n="64"/>nerari quae scilicet nec esset bonus nec malus: sed 
+      <lb ed="#B" n="65"/>hoc est falsum. igitur. maior est philosophi in. 2. ethi 
+      <lb ed="#B" n="66"/>co. Ex frequenter enim operari iusta: nascitur 
+      iu<lb ed="#B" n="67" break="no"/>stica: et sic de aliis. Sed quod non sit talis dandus 
+      <lb ed="#B" n="68"/>hitus. probatur: quia cum ens et bonum conuertantur 
+      <lb ed="#B" n="69"/>non videtur possibile: quod aliquid sit et boni 
+      <lb ed="#B" n="70"/>rationem non sapiat.
+</p>
+               <p xml:id="WuV37d-f04443-d1e294">
+¶ Tertio arguitur sic. Cum 
+      <lb ed="#B" n="71"/>voluntas creata aliquem elicit actum aut 
+      de<lb ed="#B" n="72" break="no"/>fert illum ad creatorem: aut in creatura 
+      qui<lb ed="#B" n="73" break="no"/>escit: sed / siue sic: siue sic actus non est indif 
+      <lb ed="#B" n="74"/>ferens. igitur maior patet ex diuisione suf 
+      <lb ed="#B" n="75"/>ficienti: se habent quippe referre in 
+      crea<lb ed="#B" n="76" break="no"/>torem et quiescere in creatura: veluti referre et 
+      <lb ed="#B" n="77"/>non referre qua sunt contradictoria. Sed minor 
+      <lb ed="#B" n="78"/>probatur. Si enim voluntas in creatorem 
+      refe<lb ed="#B" n="79" break="no"/>ratur iam actus est bonus. Si vero in creatura 
+      <lb ed="#B" n="80"/>quiescat peruersus est aug. dicente. Summa peruer 
+      <lb ed="#B" n="81"/>nitas est vti fruendis: et frui vtendis.
+</p>
+               <p xml:id="WuV37d-f04443-d1e321">
+¶ In 
+      <lb ed="#B" n="82"/>oppositum arguitur auctoritate glo. super illo 
+      <lb ed="#B" n="83"/>verbo. Uelle adiacet mihi. dicit glo. quod est 
+      <lb ed="#B" n="84"/>velle gratiae et velle naturae: et ita praeter bo 
+      <lb ed="#B" n="85"/>num meriti et malum demeriti est actus aliquis 
+      <lb ed="#B" n="86"/>seu aliquod velle indifferens. 
+      </p>
+               <p xml:id="WuV37d-f04443-d1e334">
+                  <lb ed="#B" n="87"/>¶ In ista quaestione sunt tres articuli 
+      <lb ed="#B" n="88"/>Primus est terminorum declaratiuus 
+      <lb ed="#B" n="89"/>Quorum Secundus est quaestionis responsiuus 
+      <lb ed="#B" n="90"/>Tertius est dubiorum motiuus; 
+      <lb ed="#B" n="91"/>articulum 
+      <lb ed="#B" n="92"/>termini sunt 
+      <lb ed="#B" n="93"/>deliberatio: voluntarium: et actus indifferens. 
+      </p>
+               <p xml:id="WuV37d-f04443-d1e352">
+                  <lb ed="#B" n="94"/>¶ Primus igister teminus est deliberatio. vun 
+      <!--465.xml-->
+      <pb ed="#B" n="224-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>notandum quod ista tria differunt: surreptio 
+      <lb ed="#B" n="2"/>deliberatio et intellectio. Surreptio enim 
+      <lb ed="#B" n="3"/>omnem praeuisionem negat intellectus. 
+      <lb ed="#B" n="4"/>ideo dicitur surreptio: quasi surreptio: id 
+      <lb ed="#B" n="5"/>est fur rapiens. Deliberatio autem nomi 
+      <lb ed="#B" n="6"/>nat actum consilii in fiendis. Unde primo 
+      <lb ed="#B" n="7"/>notandum: quod deliberatio est actus 
+      intel<lb ed="#B" n="8" break="no"/>ectus non voluntatis: sicut enim ad vo 
+      <lb ed="#B" n="9"/>luntatem partinet sententiare: sic ad intellectum 
+      <lb ed="#B" n="10"/>deliberare. Secundo notandum quod quo ad in 
+      <lb ed="#B" n="11"/>feriora extat deliberatio actus primus pru 
+      <lb ed="#B" n="12"/>dentiae: quae dicitur inuestigatio seu eubulia. ex 
+      <lb ed="#B" n="13"/>6. ethicorum. Dum autem fit de aeternis extat 
+      <lb ed="#B" n="14"/>actus sapieniae. Tertio notandum: quod deliberatio 
+      <lb ed="#B" n="15"/>solum est agibilium directrix. ideo differt ab 
+      in<lb ed="#B" n="16" break="no"/>tellectione quae erat tertium: quia intellectio omnis 
+      <lb ed="#B" n="17"/>est scibilis: seu sit speculatiuum seu practicum 
+      <lb ed="#B" n="18"/>deliberatio autem solius extat practici. 
+      </p>
+               <p xml:id="WuV37d-f04443-d1e402">
+                  <lb ed="#B" n="19"/>¶ Secundus terminus est voluntarium: 
+      <lb ed="#B" n="20"/>notat doc. deuo. arti. 2. q. 1. praesentis dist. quod 
+      <lb ed="#B" n="21"/>voluntarium dicitur tripliciter. Primo aliquid dicitur 
+      <lb ed="#B" n="22"/>voluntarium solum voluntate aliena: sicut si po 
+      <lb ed="#B" n="23"/>namus peccatum originale solum voluntarium in par 
+      <lb ed="#B" n="24"/>uulis: quia ade voluntate quasi aliena traducitur 
+      <lb ed="#B" n="25"/>Secundo dicitur voluntarium solum voluntate 
+      pro<lb ed="#B" n="26" break="no"/>pria: sicut est peccatum mortale quod propria agitur 
+      <lb ed="#B" n="27"/>voluntate delinquentis. Tertio dicitur 
+      volunta<lb ed="#B" n="28" break="no"/>rium quod partim voluntate propria parti alie 
+      <lb ed="#B" n="29"/>na perpetratur: sicuti inquit sunt peccata 
+      venia<lb ed="#B" n="30" break="no"/>lia ortum habentia ex carne velante contra 
+      <lb ed="#B" n="31"/>spiritum. Noto rursus aliquid dici voluntarium 
+      <lb ed="#B" n="32"/>tripliciter. Primo effectiue: et sic quodlibet 
+      <lb ed="#B" n="33"/>a voluntate causatum quocumque modo dicitur 
+      volunta<lb ed="#B" n="34" break="no"/>rium: Secundo dicitur voluntarium sbiectiue: et sic 
+      <lb ed="#B" n="35"/>omnem quod est in voluntate dicitur voluntarium. 
+      Ter<lb ed="#B" n="36" break="no"/>tio dicitur voluntarium obiectie: et sic omne quod aspi 
+      <lb ed="#B" n="37"/>cit voluntas dicitur voluntarium.
+</p>
+               <p xml:id="WuV37d-f04443-d1e446">
+¶ Tertius 
+      ter<lb ed="#B" n="38" break="no"/>minus est indifferens actus vnde noto quod actum 
+      <lb ed="#B" n="39"/>esse indifferentem potest intelligi tripliciter. 
+      Pri<lb ed="#B" n="40" break="no"/>mo modo ad modum vnibilis: vt sicut dicimus 
+      <lb ed="#B" n="41"/>animal indifferens ad rationale et irrationale: ve 
+      <lb ed="#B" n="42"/>luti ad sua inferiora: ita dicimus aliquem actum 
+      <lb ed="#B" n="43"/>esse indifferentem quasi quoddam superius 
+      <lb ed="#B" n="44"/>ad actum bonum et malum veluti inferiora. Se 
+      <lb ed="#B" n="45"/>cundo potest intelligi actus indifferens quasi tantum 
+      par<lb ed="#B" n="46" break="no"/>ticipans boni quantum mali et econtra: sicut si aequa 
+      <lb ed="#B" n="47"/>liter poneretur vnum scutum album et nigrum: nec 
+      <lb ed="#B" n="48"/>diceretur album nec nigrum: sed indifferes. 
+      Ter<lb ed="#B" n="49" break="no"/>tio potest intelligi actus indifferens ad bonum 
+      <!--465.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/> 
+                  <lb ed="#B" n="51"/>est fortitudo inter audaciam et pusillanimi 
+      <lb ed="#B" n="52"/>tatem quae neutrum est eorum: et sic accipitur in 
+      qua<lb ed="#B" n="53" break="no"/>stione tam loquendo de bono et malo 
+      na<lb ed="#B" n="54" break="no"/>ture: quam secundo de bono et malo moris. quam 
+      <lb ed="#B" n="55"/>tertio de bono et malo meriti et demeriti 
+      <lb ed="#B" n="56"/>Quantum ad secudum 
+      et<lb ed="#B" n="57" break="no"/>Nluiia 
+      <lb ed="#B" n="58"/>sunt tres conclusiones. Prima est de 
+      bonita<lb ed="#B" n="59" break="no"/>te et malicia actus voluntarii. secunda de actu 
+      <lb ed="#B" n="60"/>indifferentae voluntatis. tertia de subiecto 
+      <lb ed="#B" n="61"/>actus voluntarii mali.
+</p>
+               <p xml:id="WuV37d-f04443-d1e505">
+¶ Prima igitur est 
+      <lb ed="#B" n="62"/>haec. Licet necessitate simplici actu 
+      boni<lb ed="#B" n="63" break="no"/>tas sequatur nunquam tantum malicia. Dicit prima 
+      <lb ed="#B" n="64"/>pars quod bonitas sequitur actum voluntatis ne 
+      <lb ed="#B" n="65"/>cessitate simplici probatur. tum quia ex quo quid 
+      posi<lb ed="#B" n="66" break="no"/>tiuum est bonitatem sapit entis. tum secundo patet 
+      <lb ed="#B" n="67"/>ex diffinitione boni: quod aliqui philosophi distinguunt 
+      <lb ed="#B" n="68"/>tripliciter. Primum est bonum ex genie. 
+      Se<lb ed="#B" n="69" break="no"/>cuudum bonum ex circunstantia. Tertium bonum 
+      <lb ed="#B" n="70"/>secundum se: non est dubium quin actum suum 
+      bo<lb ed="#B" n="71" break="no"/>num simpliciter necessario consequatur: tum 
+      <lb ed="#B" n="72"/>tertio: ad quodcumque effectiue concurrit deus ne 
+      <lb ed="#B" n="73"/>cessario habet bonitatem non ipso constituto 
+      <lb ed="#B" n="74"/>in esse: huiusmodi est omne positiuum: 
+      alioquin<lb ed="#B" n="75" break="no"/>causa non esset vniuersalissima. Et si dicatur 
+      <lb ed="#B" n="76"/>quia bonitas non est de esse quidditatiuo actus 
+      <lb ed="#B" n="77"/>et ita non videtur eum sequi necessario. 
+      Dicen<lb ed="#B" n="78"/> 
+                  <lb ed="#B" n="79"/>tas in secundo modo sicuti in primo suo modo: 
+      <lb ed="#B" n="80"/>bonitas autem extat: respectu actus in secun 
+      <lb ed="#B" n="81"/>do modo: ideo dicit conclusio. Sequitur: et si quaeratur: an 
+      <lb ed="#B" n="82"/>sit possibile vnum eundem actum voluntarium esse 
+      <lb ed="#B" n="83"/>bonum et malum? Dicendum quod si loquamur de 
+      <lb ed="#B" n="84"/>varia bonitate et malicia vtique extat 
+      possi<lb ed="#B" n="85" break="no"/>bile: vt scilicet idem actus sit bonus in genere natu 
+      <lb ed="#B" n="86"/>re: et malus in genere morum vel bonus in 
+      <lb ed="#B" n="87"/>genere morum: et malus in genere meriti 
+      <lb ed="#B" n="88"/>vel adminus non bonus: sed non econtra: 
+      <lb ed="#B" n="89"/>non est possibile quod actu sit bonus in gene 
+      <lb ed="#B" n="90"/>re meriti: et malus in genere morum: cuius 
+      <lb ed="#B" n="91"/>ratio: quia in bono ascendimus a minus 
+      <lb ed="#B" n="92"/>perfecto ad perfectius: ita quod semper 
+      per<lb ed="#B" n="93" break="no"/>fectius praesupponit minus perfectum: et 
+      <lb ed="#B" n="94"/>ita non extat possibile: quod in superiori sit actus 
+      <lb ed="#B" n="95"/>bonus et in inferiori malus. Loquendo autem 
+      <lb ed="#B" n="96"/>de bonitate eadem et malicia vtputa 
+      morum<lb ed="#B" n="97" break="no"/>aut meriti: non extat possibile similis actum fore 
+      <lb ed="#B" n="98"/>bonum et malum respectu eiusdem: quia tunc op¬ 
+      <!--466.xml-->
+      <pb ed="#B" n="225-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>posita in eodem essent. Dico autem respectu 
+      <lb ed="#B" n="2"/>eiusdem: quia extat possibile respectu vni 
+      <lb ed="#B" n="3"/>us actum habere bonitatem: respectu al 
+      <lb ed="#B" n="4"/>terius maliciam: veluti dare elemosinam 
+      in<lb ed="#B" n="5" break="no"/>quantum aspicit pauperem: habet bonitatem ex 
+      <lb ed="#B" n="6"/>obiecto: inquantum est propter vanam glesiam habet 
+      <lb ed="#B" n="7"/>maliciam ex fine. Tertio dico: quod ille idem 
+      <lb ed="#B" n="8"/>actus: qui bonus ex voluntate cantus est: effi 
+      <lb ed="#B" n="9"/>ci malus potuit. patet manifeste: quia vo 
+      <lb ed="#B" n="10"/>luntas extat libera: et ita non cogebatur dare 
+      <lb ed="#B" n="11"/>bonitatem suo actui: sed actu causato nequit 
+      <lb ed="#B" n="12"/>in maliciam mutari: quia subitus est: ideo in 
+      <lb ed="#B" n="13"/>eo nequit fieri talis transmutatio. Et si 
+      di<lb ed="#B" n="14" break="no"/>catur ex illo gregorii. Sepe quod charitas in 
+      <lb ed="#B" n="15"/>cipit culpa peragit: et ita videtur quod actio 
+      <lb ed="#B" n="16"/>transmutetur de bona in malam. Dicendum 
+      <lb ed="#B" n="17"/>quod non est eadem actio nisi intelligatur in 
+      commu<lb ed="#B" n="18" break="no"/>ni non numero. Sed dicebat secunda pars con 
+      <lb ed="#B" n="19"/>clusionis: quod numquam malicia necessitate 
+      sim<lb ed="#B" n="20" break="no"/>plici sequitur actum voluntarium probatur: quia si 
+      <lb ed="#B" n="21"/>sic tunc necessario: aut deus esset causa ma 
+      <lb ed="#B" n="22"/>li secluso quocumque primo peccato: aut non esset 
+      <lb ed="#B" n="23"/>aliquod malum imputandum voluntati: quae 
+      <lb ed="#B" n="24"/>rum vtrumque valde est inconueniens: patet tamen 
+      <lb ed="#B" n="25"/>sequela: quia cum ille actus non posset poni si 
+      <lb ed="#B" n="26"/>ne malicia a quacumque causa: tunc deus 
+      cau<lb ed="#B" n="27" break="no"/>sans actum causaret et maliciam et volun 
+      <lb ed="#B" n="28"/>tas creata: cum illam maliciam separare non pos 
+      <lb ed="#B" n="29"/>set: ei actus imputandus non censeretur. No 
+      <lb ed="#B" n="30"/>tandum tamen quod talis actus potest intelligi tripli 
+      <lb ed="#B" n="31"/>citer aut secundum quod actus: et sic nullam nominat 
+      <lb ed="#B" n="32"/>maliciam: quia tunc omnis actus esset malus: aut se 
+      <lb ed="#B" n="33"/>cundo secundum quod hoc actus. Et sic adhuc illam nominai 
+      <lb ed="#B" n="34"/>maliciam: quia nihil adhuc intelligitur nisi posi 
+      <lb ed="#B" n="35"/>tiuum: aut tertio secundum quod hic talis actus: et 
+      <lb ed="#B" n="36"/>sic sunt aliqui actus: qui teste philosopho in. 2. 
+      <lb ed="#B" n="37"/>ethicorum mox nominati malum dicunt: sicuti 
+      <lb ed="#B" n="38"/>homicidium adulterium etc. Et patet quod ista 
+      <lb ed="#B" n="39"/>maliciae inseparabilitas non inest sibi 
+      inquan<lb ed="#B" n="40" break="no"/>tum actus: aut hic actus: sed inquantum talis hoc 
+      <lb ed="#B" n="41"/>actus: nec est simile si bonitas sequitur 
+      neces<lb ed="#B" n="42" break="no"/>sario actum aliquem: quod et malicia: quia malicia 
+      <lb ed="#B" n="43"/>est praeter intentionem naturae: et non bonum: vnde 
+      <lb ed="#B" n="44"/>quando dicitur malum in genere non debet ad 
+      <lb ed="#B" n="45"/>cipi quasi quoddam superius malum habens species: sed 
+      <lb ed="#B" n="46"/>intelligitur malum cadens super indebitam 
+      mate<lb ed="#B" n="47" break="no"/>riam: genus enim ibi dicitur materia: sicuti est oc 
+      <lb ed="#B" n="48"/>cidere inocentem: innocens est materia 
+      inde<lb ed="#B" n="49" break="no"/>bita occisioni.
+</p>
+               <p xml:id="WuV37d-f04443-d1e701">
+¶ Secunda conclusio est de 
+      <!--466.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>actu indifferente voluntatis: et est haec. Li 
+      <lb ed="#B" n="51"/>cet in esse naturae ad bonum et malum nullus 
+      <lb ed="#B" n="52"/>sit actus indifferens voluntatis: in esse tamen 
+      <lb ed="#B" n="53"/>morum et meriti deliberatione collocatur. 
+      <lb ed="#B" n="54"/>Dicit prima pars conclusionis: quod in esse 
+      na<lb ed="#B" n="55" break="no"/>turae nullus est actus indifferens: inter 
+      bo<lb ed="#B" n="56" break="no"/>num et malum ipsius voluntatis. patet manife 
+      <lb ed="#B" n="57"/>ste: vnde vt ait doctor subtilis dist. 46. 
+      sicu<lb ed="#B" n="58" break="no"/>ti pulchritudo consistit ex aggregatione omnium 
+      <lb ed="#B" n="59"/>conuenientium corpori: vt tangit Aug. bona 
+      faci<lb ed="#B" n="60" break="no"/>es sicuti sunt quantitas: figura color et con 
+      <lb ed="#B" n="61"/>similia: sic naturae bonitas ex omnibus quae 
+      si<lb ed="#B" n="62" break="no"/>bi competere noscuntur: dicente diuino dyon. 
+      <lb ed="#B" n="63"/>quarto diuinorum nominm: Bonum est ex 
+      perfe<lb ed="#B" n="64" break="no"/>cta et integra causa: vnico autem requisito 
+      de<lb ed="#B" n="65" break="no"/>ficiente iam intrat malicia. Et hinc est quod apud 
+      <lb ed="#B" n="66"/>philosophum malum dicitur multiphariam: et apud 
+      pi<lb ed="#B" n="67" break="no"/>tagoram cum infinito locatur. Ex quo liqui 
+      <lb ed="#B" n="68"/>do patet: quod nullum ponitur medium in es 
+      <lb ed="#B" n="69"/>se naturae inter bonitatem et maliciam: quiu 
+      <lb ed="#B" n="70"/>immediate deficiente bonitate intret ma 
+      <lb ed="#B" n="71"/>licia. Sed dicit secunda pars conclusionis 
+      <lb ed="#B" n="72"/>quod in genere morum et meriti etiam praeuia 
+      de<lb ed="#B" n="73" break="no"/>liberatione repetitur actus indifferens. probatur 
+      <lb ed="#B" n="74"/>primo in genere morum: sicuti est leuare fe 
+      <lb ed="#B" n="75"/>stucam de terra: nec videtur malum ex moribus 
+      <lb ed="#B" n="76"/>nec bonum. Confirmatur: quia actus 
+      preceden<lb ed="#B" n="77" break="no"/>tes virtutes non sunt boni moraliter: et tamen non 
+      <lb ed="#B" n="78"/>debent dici mali: patet tertio de actibus etiam 
+      <lb ed="#B" n="79"/>qui gignantur post habitum virtutis: non tamen 
+      <lb ed="#B" n="80"/>mediante virtute: quia non oportet virtutem 
+      <lb ed="#B" n="81"/>vt videtur operari nisi quando concurrit passio ve 
+      <lb ed="#B" n="82"/>hemens. Secundo probatur ista pars in genie me 
+      <lb ed="#B" n="83"/>riti vel demeriti: esset enim valde durum 
+      di<lb ed="#B" n="84" break="no"/>cere: quod homo existens in peccato mortali in qua 
+      <lb ed="#B" n="85"/>libet suo actu demereretur seu peccaret: 
+      <lb ed="#B" n="86"/>aut mortaliter: aut venialiter cum excitetui 
+      <lb ed="#B" n="87"/>ad bene operandum. Confirmatur: veluti si quis 
+      <lb ed="#B" n="88"/>comedat habita deliberatione: tum motus 
+      ap<lb ed="#B" n="89" break="no"/>petitu naturali iste actus non videtur meritori 
+      <lb ed="#B" n="90"/>us nec demeritorius: nec bonus: nec ma 
+      <lb ed="#B" n="91"/>lus moraliter.
+</p>
+               <p xml:id="WuV37d-f04443-d1e799">
+¶ Ex quo patet liquido defe 
+      <lb ed="#B" n="92"/>ctus sancti Tho. qui posuit quod omnis actus 
+      progre<lb ed="#B" n="93" break="no"/>diens a voluntate deliberata est bonus vel 
+      <lb ed="#B" n="94"/>malus moraliter: et nullus indifferens: et 
+      <lb ed="#B" n="95"/>omnis elicitus a voluntate charitate informa 
+      <lb ed="#B" n="96"/>ta cum deliberatione est meritorius vitae aeter 
+      <lb ed="#B" n="97"/>ne: aut poenae eterne: et nullus indifferens: 
+      op<lb ed="#B" n="98" break="no"/>positum patet ex conclusione: vnde recte huic opi¬ 
+      <!--467.xml-->
+      <pb ed="#B" n="225-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>nioni congruit id quod dicit doc. deuo. q. 3. at 
+      <lb ed="#B" n="2"/>ti. I. huius dist. aut enim nimis artat viam salu 
+      <lb ed="#B" n="3"/>tis: aut nimis ampliat. Si enim dicat quod 
+      <lb ed="#B" n="4"/>oportet: dum aliquis existens in charitate cum 
+      <lb ed="#B" n="5"/>deliberatione agit quod actualiter in deum 
+      refe<lb ed="#B" n="6" break="no"/>rat nimis artat viam caeli. Si autem intelligat 
+      <lb ed="#B" n="7"/>quod sufficiat relatio hitualis vel in vniuersa 
+      <lb ed="#B" n="8"/>li vel in particulari nimis ampliat: quia sic ha 
+      <lb ed="#B" n="9"/>bens habitum in principio anni ad benefacien 
+      <lb ed="#B" n="10"/>dum: et intendens licem post non cogitaret sper me 
+      <lb ed="#B" n="11"/>reri videretur per totum annum quod non videtur: vnde 
+      <lb ed="#B" n="12"/>ratiobiliter praefertur opinioni sancti tho. opinio 
+      <lb ed="#B" n="13"/>doct. deuoti quae eadem. q. dicit aliquem actum 
+      <lb ed="#B" n="14"/>indifferentem inter bonum ex merito: et ma 
+      <lb ed="#B" n="15"/>lum etiam habita deliberatione: patet ma 
+      <lb ed="#B" n="16"/>nifeste: si quis non cogitans de deo 
+      ambu<lb ed="#B" n="17" break="no"/>let vt sit sanior: aut ludat solum ex 
+      virtu<lb ed="#B" n="18" break="no"/>te eutrapelie esset graue valde dicere quod 
+      <lb ed="#B" n="19"/>demereretur. Et si dicatur quod iuxta Bern. 
+      <lb ed="#B" n="20"/>In via dei stare retrocedere est: et ita opor 
+      <lb ed="#B" n="21"/>tet: aut semper mereri aut demereri. Di 
+      <lb ed="#B" n="22"/>cendum quod illa auctoritas habet intelligi quando 
+      <lb ed="#B" n="23"/>tenetur quis operari et non operetur: vnde nec 
+      <lb ed="#B" n="24"/>censetur verbum ociosum: si aliquis dicat 
+      <lb ed="#B" n="25"/>vnum verbum iocosum ad recreationem 
+      spiri<lb ed="#B" n="26" break="no"/>tuum: licet enim careat ratione iuste necessitati 
+      <lb ed="#B" n="27"/>non tamen ratione pie vtilitatis. Et si dicatur: 
+      <lb ed="#B" n="28"/>quia sicut deus est alpha et principium: ita esto et 
+      <lb ed="#B" n="29"/>finis. igitur. sicuti omnia ab eo veniunt: ita et re 
+      <lb ed="#B" n="30"/>ferri debent: et nisi quis faciat peccare 
+      vi<lb ed="#B" n="31" break="no"/>detur. Dicendum secundum doct. subtilem hac dist. qua 
+      <lb ed="#B" n="32"/>extat opinio doct. deuo. in isto passu quod 
+      ali<lb ed="#B" n="33" break="no"/>quid referri in deum potest intelligi triplici 
+      <lb ed="#B" n="34"/>ter: actualiter: et hoc non oportet: essem 
+      <lb ed="#B" n="35"/>enim obligati ad impossibile. Secundo 
+      vir<lb ed="#B" n="36" break="no"/>tualiter: quando ex fine dilecto diligimus qua 
+      <lb ed="#B" n="37"/>sunt ad finem. Tertio habitualiter inquantum 
+      <lb ed="#B" n="38"/>habemus charitatem: et ad hoc obligamur 
+      <lb ed="#B" n="39"/>scilicet vt sper habeamus habitum charitatis qua 
+      <lb ed="#B" n="40"/>referre possimus ad deum actus nostros. 
+      <lb ed="#B" n="41"/>Et per oppositum etiam non referri dicitur tripli 
+      <lb ed="#B" n="42"/>citer. Primo negatiue: et sic non ponit 
+      <lb ed="#B" n="43"/>peccatum. Secundo priuatiue vt scilicet solum dicit 
+      <lb ed="#B" n="44"/>non referibile: sicut est peccatum veniale: quod tamen 
+      <lb ed="#B" n="45"/>stat cum habitu referente. scilicet charitate. 
+      Ter<lb ed="#B" n="46" break="no"/>tio contrarie: vt scilicet est peccatum mortale: quod stat 
+      <lb ed="#B" n="47"/>cum charitate: et ita patet quod sicuti omnia sunt a 
+      <lb ed="#B" n="48"/>deo sic ad ipsum sunt referibilia hitu: vt 
+      <lb ed="#B" n="49"/>ad finem: nec oportet tamen quod actu.
+</p>
+               <p xml:id="WuV37d-f04443-d1e929">
+¶ Tertia 
+      <!--467.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>conclusio est de subiecto actus mali voluntarii 
+      <lb ed="#B" n="51"/>et est haec: sicut a voluntate creata omne peccatum 
+      <lb ed="#B" n="52"/>deficiendo procedit: sic in eadem solum formaliter 
+      <lb ed="#B" n="53"/>existit. Dicit prima pars conclusiois: quod peccatum 
+      <lb ed="#B" n="54"/>omne procedit deficiendo a voluntate creata 
+      <lb ed="#B" n="55"/>patet ex dicto Aug. et est in littera. Peccatum 
+      <lb ed="#B" n="56"/>enim vsque adeo extat voluntarium: vt si non sit 
+      <lb ed="#B" n="57"/>voluntarium non sit peccatum. Et confirmatur. 
+      Pec<lb ed="#B" n="58" break="no"/>catum enim aut inest per naturam: et sic natura 
+      <lb ed="#B" n="59"/>de se mala esset: aut secundo per violentiam 
+      <lb ed="#B" n="60"/>et sic excusaret. aut tertio per voluntatem: et 
+      <lb ed="#B" n="61"/>habetur propositum: patet tertio ex signo: furio 
+      <lb ed="#B" n="62"/>sis enim: quia vsu carent rationis: et per consequens 
+      <lb ed="#B" n="63"/>voluntatis non imputatur id quod faciunt. Et si 
+      <lb ed="#B" n="64"/>dicatur: quia dicit aug. in libro retract. quod sunt 
+      <lb ed="#B" n="65"/>quedam necessitate facta improbanda. Dicen 
+      <lb ed="#B" n="66"/>dum quod intelligitur: quia cum poena maxime venia 
+      <lb ed="#B" n="67"/>le vitamus: et illam difficultatem nominat 
+      necessi<lb ed="#B" n="68" break="no"/>tatem. Sed dicit secunda pars conclusionis: 
+      <lb ed="#B" n="69"/>quod omne peccatum est in voluntate formaliter: patet 
+      pri<lb ed="#B" n="70" break="no"/>mo auctoritate Ansel. in lib. omne originali peccato: 
+      <lb ed="#B" n="71"/>Nusquam enim inquit nisi in voluntate peccatum est: patet 
+      <lb ed="#B" n="72"/>secundo: quia iusticia in ea stat solum: et ita 
+      iniu<lb ed="#B" n="73" break="no"/>sticia: patet tertio: quia sola libera est. Ex quo pa 
+      <lb ed="#B" n="74"/>tet quod si sanc. tho. intellexerit quaestione. 2. 
+      <lb ed="#B" n="75"/>arti. 2. praesentis dist. peccatum formaliter 
+      sta<lb ed="#B" n="76" break="no"/>re in partibus organicis: merito est 
+      dimit<lb ed="#B" n="77" break="no"/>tendus: nisi saluetur per equiuocationem:. vnde 
+      <lb ed="#B" n="78"/>patet: quod ista cogitatio: obliuio suggestio 
+      <lb ed="#B" n="79"/>et talia non dicuntur peccata: nisi inquantum 
+      ordi<lb ed="#B" n="80" break="no"/>nant ad deformitatem voluntatis: vel ab ea iam 
+      <lb ed="#B" n="81"/>deformata proueniunt: quae est quasi regina 
+      <lb ed="#B" n="82"/>in regno animae: caeterisque imperans 
+      poten<lb ed="#B" n="83" break="no"/>tiis: et a solo deo imperium accipiens: 
+      meriu<lb ed="#B" n="84" break="no"/>to cuius sibi soli culpa imputatur. 
+      <lb ed="#B" n="85"/>articulum 
+      <lb ed="#B" n="86"/>sunt tres 
+      <lb ed="#B" n="87"/>difficultates.
+</p>
+               <p xml:id="WuV37d-f04443-d1e1018">
+¶ Prima an sit aliquod 
+      bo<lb ed="#B" n="88" break="no"/>num in voluntate creata per essentiam. Dicendum 
+      <lb ed="#B" n="89"/>quod si accipiatur per essentiam bonum id est a se nullum 
+      <lb ed="#B" n="90"/>tale est in voluntate creata: nisi diceretur ipse 
+      <lb ed="#B" n="91"/>deus qui solum est hoc modo bonum per essen 
+      <lb ed="#B" n="92"/>tiam et vbique est: et maxime in voluntate per 
+      gra<lb ed="#B" n="93" break="no"/>tiam. Si autem dicatur bonum per essentiam id est in 
+      pri<lb ed="#B" n="94" break="no"/>mo modo. Dicendum quod non nisi improprie ipsa 
+      <lb ed="#B" n="95"/>met bonitas: et patet quod charitas creata non 
+      <lb ed="#B" n="96"/>est hoc modo bona: sed tertio modo dicitur bona per 
+      es<lb ed="#B" n="97" break="no"/>sentiam: quia inseparabilis est ab ea bonitas 
+      </p>
+               <p xml:id="WuV37d-f04443-d1e1042">
+                  <lb ed="#B" n="98"/>¶ Secunda difficultas: quomodo intelligiu 
+      <!--468.xml-->
+      <pb ed="#B" n="226-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>illa auctoritas. omnia in laudem dei facite. Dicen 
+      <lb ed="#B" n="2"/>dum quod secundum quod li omnia potest capi tripliciter. Pri 
+      <lb ed="#B" n="3"/>mo enim capitur omnia distributiue: et sic est 
+      com<lb ed="#B" n="4" break="no"/>silium: vt dicat apostolus. Consulo vt quodlibet in 
+      <lb ed="#B" n="5"/>laudem dei faciatis. Secundo capitur negati 
+      <lb ed="#B" n="6"/>ue: et sic est praeceptum: et est sensus. Sic facia 
+      <lb ed="#B" n="7"/>tis opera vstra: vt nihil sit contra gloriam dei. 
+      <lb ed="#B" n="8"/>Tertio capitur collectiue: et sic est finis praece 
+      <lb ed="#B" n="9"/>pti: vt sit sensus: sic viuite vt ad caelum 
+      veni<lb ed="#B" n="10" break="no"/>atis in quo omnia in laudem aguntur dei.
+</p>
+               <p xml:id="WuV37d-f04443-d1e1075">
+¶ Ter 
+      <lb ed="#B" n="11"/>tia difficltas: quomodo intelligitur illa auctas 
+      <lb ed="#B" n="12"/>Septies in die cadit iustus etc. Dicendum quod 
+      <lb ed="#B" n="13"/>intelligitur septies id est pluries: sicut illud. Ter 
+      <lb ed="#B" n="14"/>virgis cesus sum: id est pluries: secundum glo. 
+      <lb ed="#B" n="15"/>numerus indeterminatus pro determiato. Ca 
+      <lb ed="#B" n="16"/>sus autem hic intelligitur: aut de malo pene: 
+      <lb ed="#B" n="17"/>aut peccati venialis: et hoc de lege communi: et 
+      <lb ed="#B" n="18"/>nisi assit specialis protectio dei. Ex quo patet 
+      <lb ed="#B" n="19"/>ad quaestionem: quod vicem aliquis actus delibe 
+      <lb ed="#B" n="20"/>ratiue voluntarius inter bonum et malum in 
+      <lb ed="#B" n="21"/>differens nominatur.
+</p>
+               <p xml:id="WuV37d-f04443-d1e1102">
+¶ Ad primum argumen 
+      <lb ed="#B" n="22"/>tum dicendum in summa: quod licet bonum et ma 
+      <lb ed="#B" n="23"/>lum sint loquendo simpliciter priuatiue 
+      op<lb ed="#B" n="24" break="no"/>posita non tamen applicando ad actum in gene 
+      <lb ed="#B" n="25"/>morum vel meriti: nisi actus ille debeat ha 
+      <lb ed="#B" n="26"/>bere bonitatem: et est exemplum: licet enim 
+      al<lb ed="#B" n="27" break="no"/>bum et nigrum sint opposita contrarie: non tamen 
+      <lb ed="#B" n="28"/>vt intelliguntur in quidditate hominis: quia sic 
+      <lb ed="#B" n="29"/>homo nec albus est nec niger: nec colore 
+      me<lb ed="#B" n="30" break="no"/>dio coloratus: sic in proposito.
+</p>
+               <p xml:id="WuV37d-f04443-d1e1124">
+¶ Ad se 
+      <lb ed="#B" n="31"/>cundum totum conceditur vsque ibi. Du dicit quod 
+      <lb ed="#B" n="32"/>ille habitus erit bonus: exquo est ens: patet enim so 
+      <lb ed="#B" n="33"/>lutio ex secunda conclusione vbi dictum est 
+      <lb ed="#B" n="34"/>quod non est actus indifferens: quo ad esse na 
+      <lb ed="#B" n="35"/>turae: bene autem in esse morum: ideo non obuiat 
+      ar<lb ed="#B" n="36" break="no"/>gumentum.
+</p>
+               <p xml:id="WuV37d-f04443-d1e1140">
+¶ Ad tertium dicendum: quod quiescit in 
+      <lb ed="#B" n="37"/>creatura voluntas: nam quidam contrarie: quia 
+      <lb ed="#B" n="38"/>sic peccaret mortalitur: vt obiicit argumen 
+      <lb ed="#B" n="39"/>tum: nec privatiue: quia peccaret venialiter: sed 
+      <lb ed="#B" n="40"/>negatiue solum id est non refert: et hoc non est peccatum 
+      <lb ed="#B" n="41"/>vt patuit. Ex. etc.
+</p>
+            </div>
+            <div xml:id="WuV37d-f04443-Dd1e1154" type="et-conclusiones">
+               <head xml:id="WuV37d-f04443-Hd1e1156">Conclusiones</head>
+               <p xml:id="WuV37d-f04443-d1e1159">
+¶ Prima conclusio: recta 
+      <lb ed="#B" n="42"/>intentio fide dirigitur extra conducitur et 
+      opera<lb ed="#B" n="43" break="no"/>tio. Dicit conclusio quod fide intentio 
+      interi<lb ed="#B" n="44" break="no"/>or: et operatio exterior diriguntur et poni 
+      <lb ed="#B" n="45"/>tur a principio distin. vsque hic. Post haec 
+      <lb ed="#B" n="46"/>inuestigari opertet etc.
+</p>
+               <p xml:id="WuV37d-f04443-d1e1172">
+¶ Secunda conclusio: vo 
+      <lb ed="#B" n="47"/>luntas creata peruersa deficit atque elicit 
+      <lb ed="#B" n="48"/>varia peccata. Dicit conclusio quod voluntas 
+      <lb ed="#B" n="49"/>creata est causa defectiua peccatorum omnium 
+      <!--468.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>et incipit in illo ca. Post haec inuestigari etc 
+      <lb ed="#B" n="51"/>vsque ibi. Illius etiam intelligentia.
+</p>
+               <p xml:id="WuV37d-f04443-d1e1190">
+¶ Tertia con 
+      <lb ed="#B" n="52"/>clusio. Extat formaliter mala voluntate in 
+      <lb ed="#B" n="53"/>peruersitate culpa realiter. Dicit conclusio: 
+      <lb ed="#B" n="54"/>quod peccatum est formaliter in voluntate 
+      ma<lb ed="#B" n="55" break="no"/>la: et ponitur ab illo capitulo Illius etiam etc. 
+      <lb ed="#B" n="56"/>vsque ad finem distinctionis. 
+</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,686 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 14-16</title>
+            <author ref="#WilliamDeVaurouillon">William de Vaurouillon</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 14-16</title>
+               <date when="2021-06-19">June 19, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-bvbVBV">Basel 1510</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-06-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="42-v"/>
+            <cb ed="#B" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="WuV37d-e19683"><!-- l1d14-16 -->
+            <head xml:id="WuV37d-e19683-Hd1e108">Distinctio 14-16</head>
+            <div xml:id="WuV37d-e19683-Dd1e111" type="circa-textum">
+               <head xml:id="WuV37d-e19683-Hd1e113">Circa textum</head>
+               <p xml:id="WuV37d-e19683-d1e116">
+                  <lb ed="#B" n="37"/>Distinctio. 14. in quo magister recitat de 
+      <lb ed="#B" n="38"/>gemina processione spiritus sancti. scilicet eterna et 
+      <lb ed="#B" n="39"/>temporali: de vltima tamen praecipue. 
+      <lb ed="#B" n="40"/>Peterea 
+      di<lb ed="#B" n="41" break="no"/>lligenter annotandum est quod 
+      <lb ed="#B" n="42"/> gemina e processio 
+      spiritus<lb ed="#B" n="43" break="no"/>sancti: aeterna videlicet etc. 
+      <lb ed="#B" n="44"/>Hic signatur distinctio. 14. 
+      <lb ed="#B" n="45"/>huius primi: quae ita continuatur ad praecedentes. 
+      <lb ed="#B" n="46"/>Nam postquam a. 10. distinctione vsque huc egit 
+      <lb ed="#B" n="47"/>magister de sanctis piritus aeterna processione: 
+      <!--101.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="48"/>Nunc in ista distinctione agere incipit de 
+      <lb ed="#B" n="49"/>temporali eius missione. Et diuiditur ista pars in 
+      <lb ed="#B" n="50"/>tres partes: secundum quod missio potest comparari ad  
+      <lb ed="#B" n="51"/>tria: ad mittentem / ad modum missionis: et ter 
+      <lb ed="#B" n="52"/>tio ad proprietatem missi spiritus scilicet pater et 
+      fili<lb ed="#B" n="53" break="no"/>us. Primo enim personae mittentes trinae pro 
+      <lb ed="#B" n="54"/>clamantur et spiritus sanctus. Secundo modi 
+      missi<lb ed="#B" n="55" break="no"/>onis clare duplicatur scilicet visibilis et 
+      inuisi<lb ed="#B" n="56" break="no"/>bilis. Tertio proprietates missi spiritus 
+      nar<lb ed="#B" n="57" break="no"/>ratatur scilicet donum vel donabilitas. Secunda 
+      <lb ed="#B" n="58"/>incipit circa medium. 15. distinctionis / ibi: 
+      <lb ed="#B" n="59"/>Queritur vtrum semel tantum. Tertia incipit di 
+      <lb ed="#B" n="60"/>stin. 16. ibi: hic quaeritur cum spiritus sanctus  
+      <lb ed="#B" n="61"/>etc. Prima iterum pars in qua de personis  
+      <lb ed="#B" n="62"/>agit mittentibus: diuiditur in tres. In 
+      pri<lb ed="#B" n="63" break="no"/>ma ostendit quod flamen mittant pater et 
+      geni<lb ed="#B" n="64" break="no"/>tus. In secunda quod purus homo hoc non dat cae 
+      <lb ed="#B" n="65"/>litus funditus. In tertia quod seipsum mittuit 
+      <lb ed="#B" n="66"/>spiritus sanctus. Secunda incipit ibi: hic 
+      quae<lb ed="#B" n="67" break="no"/>ritur etiam / vtrum sancti viri etc. Tertia in 
+      prin<lb ed="#B" n="68" break="no"/>cipio. 15. dist. Hic considerandum est cum spi 
+      <lb ed="#B" n="69"/>ritus detur hominibus. Et iterum prima pars in 
+      <lb ed="#B" n="70"/>tres partes diuiditur. Primo enim tangitur 
+      spi<lb ed="#B" n="71" break="no"/>ritus sancti duplex processio. Secundo vtram 
+      <lb ed="#B" n="72"/>quem a patre esse et filio. In tertia ostenditui 
+      <lb ed="#B" n="73"/>spiritum sanctum dari in esse proprio. Secunda 
+      <lb ed="#B" n="74"/>incipit ibi: De temporali autem missione Beda 
+      <lb ed="#B" n="75"/>in homelis. Tertia ibi: Sunt autem aliqui 
+      <lb ed="#B" n="76"/>etc. Et quia secundum quod tangit hipocras in ampho 
+      <lb ed="#B" n="77"/>rismis. Uita brevis / ars vero longa: 
+      tem<lb ed="#B" n="78" break="no"/>pus autem acutum experimentum vero fallax. 
+      <lb ed="#B" n="79"/>Tum secundo: quia ista materia satis clara est: 
+      <lb ed="#B" n="80"/>et amplius in tertio locum habet de missione 
+      <lb ed="#B" n="81"/>verbi dei in mundum. Tum tertio: quia Secundo in 
+      <lb ed="#B" n="82"/>his tribus distinctionibus. 14. 15 et. 16. vnica 
+      <lb ed="#B" n="83"/>ponit quaestionem brevem: ideo has tres simul 
+      <lb ed="#B" n="84"/>iungam. Quare sequitur. 15. distinctio. 
+    </p>
+               <p xml:id="WuV37d-e19683-d1e227">
+                  <lb ed="#B" n="85"/>Hic considerandum 
+      <lb ed="#B" n="86"/>est cum spiritus sanctus detur hominibus a pa 
+      <lb ed="#B" n="87"/>tre et filio: quod est ipsum temporaliter procede 
+      <lb ed="#B" n="88"/>re ab vtroque vel mitti etc. In qua 
+      post<lb ed="#B" n="89" break="no"/>quam magister ostendit quod flamen mittunt pater 
+      <lb ed="#B" n="90"/>et filius: nunc ostendit quod seipsum mittit spiritussan 
+      <lb ed="#B" n="91"/>ctus. Et diuiditur quo ad praesentem partem in tres 
+      <lb ed="#B" n="92"/>partes principales. In prima ostendit 
+      spiritum<lb ed="#B" n="93" break="no"/>sanctum a seipso mitti / arguendo per 
+      impossi<lb ed="#B" n="94" break="no"/>bile: quia si non: tunc aliquid ageret pater et 
+      <lb ed="#B" n="95"/>filius quod non spiritus sanctus. Secundo hoc ostem 
+      <!--102.xml-->
+      <pb ed="#B" n="43-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>dit per exemplum valde probabile: quia scilicet et 
+      <lb ed="#B" n="2"/>spiritus mittit filium: et filius mittit se. In 
+      ter<lb ed="#B" n="3" break="no"/>tia contrarium docet solubile: ex eo quod filius 
+      di<lb ed="#B" n="4" break="no"/>cit de seipso: A meipso non veni. Secunda 
+      <lb ed="#B" n="5"/>incipit ibi: Non autem mireris quod spiritus sanctus. 
+      <lb ed="#B" n="6"/>Tertia ibi: Sed ad hoc opponitur. Et se 
+      <lb ed="#B" n="7"/>quitur illa particula: Hic quaeritur vtrum semel 
+      <lb ed="#B" n="8"/>tantum missus sit filius. Quae est secunda pars 
+      hui<lb ed="#B" n="9" break="no"/>distinctionis. 15. quae fuit diuisa in praecedenti 
+      <lb ed="#B" n="10"/>distinctione. 9. 14. et. 15. dist. In qua post 
+      <lb ed="#B" n="11"/>quam magister ostendit quod spiritus a se mittitur: 
+      <lb ed="#B" n="12"/>hic missionis modus aperitur scilicet visibilis et 
+      <lb ed="#B" n="13"/>inuisibilis. Et diuiditur in tres partes. In prius 
+      <lb ed="#B" n="14"/>ma dubitatur de filii missione primitus. In 
+      se<lb ed="#B" n="15" break="no"/>cunda dupliciter mittitur genitus scilicet visibiliter et 
+      <lb ed="#B" n="16"/>inuisibiliter. In tertia ostendit quod totidemus 
+      <lb ed="#B" n="17"/>modis procedit spiritus. Secunda incipit ibi: 
+      <lb ed="#B" n="18"/>Ad quod dicimus quod duobus etc. 3. distin. 16. 
+      <lb ed="#B" n="19"/>Nunc de spiritu sancto videndum est.
+</p>
+               <p xml:id="WuV37d-e19683-d1e301">
+¶ Secunda 
+      <lb ed="#B" n="20"/>iterum particula in qua agit de missione 
+      fi<lb ed="#B" n="21" break="no"/>lii: diuiditur in tres partes. In prima enim per Bre 
+      <lb ed="#B" n="22"/>go. filii missionem dat multiplicem. scilicet visibilem 
+      <lb ed="#B" n="23"/>et inuisibilem. In secunda inter eas differentiam 
+      <lb ed="#B" n="24"/>assignat duplicem: vt patet in textu. In 
+      ter<lb ed="#B" n="25" break="no"/>tia dubitationem mouet mentis hortatricem / 
+      <lb ed="#B" n="26"/>scilicet an pater dicatur missus. Secunda incipit 
+      <lb ed="#B" n="27"/>ibi: Ecce distincti sunt duo modi etc. Ter 
+      <lb ed="#B" n="28"/>tia ibi: hic quaeritur quare pater non dicatur 
+      <lb ed="#B" n="29"/>missus. Tunc sequitur dist. 16. ibi. 
+</p>
+               <p xml:id="WuV37d-e19683-d1e325">
+                  <lb ed="#B" n="30"/>Nunc de spiritusancto 
+      <lb ed="#B" n="31"/>videndum est praeter illam ineffabilem et 
+      <lb ed="#B" n="32"/>aeterna processione etc. In qua ostendiu 
+      <lb ed="#B" n="33"/>magister / quod dupliciter mittitur spiritus sanctus. 
+      <lb ed="#B" n="34"/>Et diuiditur in tres partes. Primo enim 
+      <lb ed="#B" n="35"/>emporalem missionem distinguit duplicem in 
+      <lb ed="#B" n="36"/>flamine missibili. Secundo de missione 
+      <lb ed="#B" n="37"/>ipsius agit visibili. Tertio tandem notifi 
+      <lb ed="#B" n="38"/>cat de inuisibili. Secunda incipit ibi: Et pri 
+      <lb ed="#B" n="39"/>mo agamus de illo etc. Tertia distin. 17. 
+      <lb ed="#B" n="40"/>Iam nunc accedamus ad signandam 
+      missi<lb ed="#B" n="41" break="no"/>onem spiritus sancti. Prima iterum pars / quae 
+      <lb ed="#B" n="42"/>est sedecima distinctio: in tres partes 
+      di<lb ed="#B" n="43" break="no"/>uiditur. In prima visibilis missio 
+      clari<lb ed="#B" n="44" break="no"/>us ponitur. In secunda exortum dubium lucide 
+      <lb ed="#B" n="45"/>soluitur: scilicet quare spiritus sanctus non dicitur 
+      <lb ed="#B" n="46"/>minor patre ex ista missione / sicut filius 
+      di<lb ed="#B" n="47" break="no"/>citur minor patre propter missionem in carnem. 
+      <lb ed="#B" n="48"/>In tertia ad hilarium stilus vertitur: vbi do¬ 
+      <!--102.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="49"/>cet nos caute aduertere quoddam 
+      Hi<lb ed="#B" n="50" break="no"/>larii dictum. Secunda incipit ibi: Sed 
+      pri<lb ed="#B" n="51" break="no"/>us quaerendum est: cum filius dicatur minor 
+      <lb ed="#B" n="52"/>etc. Tertia ibi: hilarius autem dicere 
+      vi<lb ed="#B" n="53" break="no"/>detur etc. Et haec est diuisio harum trium distin 
+      <lb ed="#B" n="54"/>ctionum in generali. 
+      </p>
+            </div>
+            <div xml:id="WuV37d-e19683-Dd1e387">
+               <head xml:id="WuV37d-e19683-Hd1e389">Quaestio</head>
+               <p xml:id="WuV37d-e19683-d1e392">
+                  <lb ed="#B" n="55"/>¶ Quaestio ista determinat de mis 
+      <lb ed="#B" n="56"/>sione tam actiua quam passiua 
+      perso<lb ed="#B" n="57" break="no"/>narum diuinarum. Et eliditur 
+      er<lb ed="#B" n="58" break="no"/>ror antiquorum doctorum: qui 
+      fu<lb ed="#B" n="59" break="no"/>erunt ante tempus magistri 
+      sente<lb ed="#B" n="60" break="no"/>tiaru: que magister a nonullis 
+      vi<lb ed="#B" n="61" break="no"/>detur imitatum: licet contrarium 
+      re<lb ed="#B" n="62" break="no"/>peritur in textu nostro. Ulide Secundo in 
+      <lb ed="#B" n="63"/>q. vnica in tribus distinctionibus. 
+      <lb ed="#B" n="64"/>Irca quam 
+      que<lb ed="#B" n="65" break="no"/>ritur: vtrum missio actiua et passiua 
+      <lb ed="#B" n="66"/> cuilibet conueniat diuinarum personarum. 
+      <lb ed="#B" n="67"/>Et arguo quod sic / triplici medio.
+</p>
+               <p xml:id="WuV37d-e19683-d1e423">
+¶ Prio 
+      <lb ed="#B" n="68"/>sic. Omnis respectus dei ad creaiuram est 
+      <lb ed="#B" n="69"/>communis tribus personis: sed tam mittere quam 
+      <lb ed="#B" n="70"/>mitti dicunt huiusmodi respectum: igitur tam 
+      mitte<lb ed="#B" n="71" break="no"/>re quam mitti conueniunt tribus personis. 
+      Ma<lb ed="#B" n="72" break="no"/>ior patet ex auctoritate Augstin. vulgata. Opera 
+      <lb ed="#B" n="73"/>dei ad extra sunt communia tribus. Sed minor 
+      pro<lb ed="#B" n="74" break="no"/>batur. Mittere enim dicit manifestare / et mit 
+      <lb ed="#B" n="75"/>ti manifestari: et ita aspiciunt id cui fit 
+      ma<lb ed="#B" n="76" break="no"/>nifestatio.
+</p>
+               <p xml:id="WuV37d-e19683-d1e445">
+¶ Secundo arguitur sic. Ita se 
+      vi<lb ed="#B" n="77" break="no"/>detur habere mitti ad tres personas sicut 
+      mitte<lb ed="#B" n="78" break="no"/>re: sed mittere est comne tribus: igitur et mitti. 
+      <lb ed="#B" n="79"/>Maior patet: quia sicut est diuinarum personarum se 
+      <lb ed="#B" n="80"/>ipas manifestare hominibus seu angelis: ita et 
+      <lb ed="#B" n="81"/>manifestari: immo contradictio est quod seipsas 
+      <lb ed="#B" n="82"/>manifestant: et quod non manifestentur. Sed mi 
+      <lb ed="#B" n="83"/>nor patet per magistrum in tex. di. 15. vbi ex 
+      intenti<lb ed="#B" n="84" break="no"/>one probat quod pater mittit filium et specitum sanctum: 
+      <lb ed="#B" n="85"/>et filius se et spiritum: et spiritus se et filium.
+</p>
+               <p xml:id="WuV37d-e19683-d1e467">
+¶ Ter  
+      <lb ed="#B" n="86"/>tio arguitur sic. Tantae dignitatis in diuinis est 
+      <lb ed="#B" n="87"/>mitti: quante et mittere: et econtra / tantae est 
+      mit<lb ed="#B" n="88" break="no"/>tere sicut mitti. Sed quaelibet diuinarum perso 
+      <lb ed="#B" n="89"/>narum mittitur: igitur qualibet mittit: igitur qualibet 
+      <lb ed="#B" n="90"/>mittitur. Maior patet: quia ea quae in diuinis 
+      re<lb ed="#B" n="91" break="no"/>periuntur aequaliter perfecta sunt / cum sint 
+      infini<lb ed="#B" n="92" break="no"/>ta infinitate diuinae essentiae. Sed probatur 
+      mi<lb ed="#B" n="93" break="no"/>nor: quia quaelibet persona datur: vt innuit Augstinus 
+      <lb ed="#B" n="94"/>ad dardanum: et etiam quaelibet dat: dare autem et 
+      <lb ed="#B" n="95"/>dari idem videntur quod mittem et mitti.
+</p>
+               <p xml:id="WuV37d-e19683-d1e492">
+¶ In 
+      <!--103.xml-->
+      <pb ed="#B" n="43-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>oppositum arguitur: quia vt ait Augustinus de patre 
+      <lb ed="#B" n="2"/>4. de trinita. c. 27. Pater nusquam legitur mis 
+      <lb ed="#B" n="3"/>sus: igitur mitti non conuenit patri. Quod etiam 
+      <lb ed="#B" n="4"/>mittere non conueniat culibet / probatur: quia mit 
+      <lb ed="#B" n="5"/>tere dicit quandam auctoritate: sed spiritus sanctus 
+      su<lb ed="#B" n="6" break="no"/>per nullam personam habet auctoritate: igitur sibi non con 
+      <lb ed="#B" n="7"/>uenit mittere.
+</p>
+               <p xml:id="WuV37d-e19683-d1e516">
+¶ In ista quaestione 
+      confor<lb ed="#B" n="8" break="no"/>miter vt in praecedentibus sunt tres articuli. 
+      <lb ed="#B" n="9"/>Primus est terminorum declaratiuus 
+      <lb ed="#B" n="10"/>Quorum Secundus est quaestionis responsiuus. 
+      </p>
+               <p xml:id="WuV37d-e19683-d1e525">
+                  <lb ed="#B" n="11"/>¶ Tertius est dubiorum motiuus; 
+      <lb ed="#B" n="12"/>Quo ad primii articulum pon 
+      <lb ed="#B" n="13"/>mus. ter 
+      <lb ed="#B" n="14"/>minus est missio: a mitto tis.
+</p>
+               <p xml:id="WuV37d-e19683-d1e536">
+¶ Hissio 
+      <lb ed="#B" n="15"/>non est nisi quedam actio seu passio 
+      <lb ed="#B" n="16"/>seu quidam respectus missi ad mittentem seu 
+      <lb ed="#B" n="17"/>mittentis ad missum. Unde missio proprie ex 
+      cre<lb ed="#B" n="18" break="no"/>aturis ad creatorem transfertur. Hissio quipu 
+      <lb ed="#B" n="19"/>pe passiua in creaturis secundum doctorem 
+      deuo<lb ed="#B" n="20" break="no"/>tum dist. 15. ad tria comparatur. Primo ad prin 
+      <lb ed="#B" n="21"/>cipium: secundo ad terminum: tertio ad missum. 
+      <lb ed="#B" n="22"/>Ad principium comparatur missio sub triplici 
+      ha<lb ed="#B" n="23" break="no"/>bitndine. Primo vt ad dantem este: et sic 
+      mit<lb ed="#B" n="24" break="no"/>titur radius a sole. Secundo vt ad dantemus 
+      <lb ed="#B" n="25"/>virtutem: et sic mittitur iaculum a proiectore. 
+      <lb ed="#B" n="26"/>Tertio vt ad dantem iurisditionem seu aucto 
+      <lb ed="#B" n="27"/>ritatem: et sic mittitur nuncius a praeceptore: et sic 
+      <lb ed="#B" n="28"/>in ista comparatione ad principium reperitur 
+      <lb ed="#B" n="29"/>missio actiua in patre / et passiua in filio et 
+      <lb ed="#B" n="30"/>spiritu sancto. Quia tam filius quam spiritus sanctus 
+      <lb ed="#B" n="31"/>habent esse a patre: habent et virtutem: 
+      ha<lb ed="#B" n="32" break="no"/>bent et iurisditionem operandi: sic spiritussan 
+      <lb ed="#B" n="33"/>ctus respectu filii: cum ista tria productum 
+      <lb ed="#B" n="34"/>accipiat a producente.
+</p>
+               <p xml:id="WuV37d-e19683-d1e582">
+¶ Secundo 
+      com<lb ed="#B" n="35" break="no"/>paratur missio ad terminum sub triplici 
+      ha<lb ed="#B" n="36" break="no"/>bitudine. Primo vt ad locum in quo quie 
+      <lb ed="#B" n="37"/>tatur: et sic mittitur lapis deorsum. Secundo  
+      <lb ed="#B" n="38"/>vt ad aliquem a quo habeatur: sicut mittitur 
+      <lb ed="#B" n="39"/>donum alicui. Tertio ad aliquem vt eo 
+      ope<lb ed="#B" n="40" break="no"/>retur. Et isto modo mittit pater filin et 
+      spiritum<lb ed="#B" n="41" break="no"/>sanctum / et filius spiritum sanctum: immo etiam 
+      fili<lb ed="#B" n="42" break="no"/>us seipsum. Primo ad quiescendum. Unde 
+      <lb ed="#B" n="43"/>dicitur. Deliciae meae esse cum filiis hominum. Se 
+      <lb ed="#B" n="44"/>cundo ad possidendum. Nam in animas 
+      san<lb ed="#B" n="45" break="no"/>ctas se transfert. Tertio ad operandum: nam 
+      <lb ed="#B" n="46"/>Non possum (inquit sapiens) esse continens 
+      ni<lb ed="#B" n="47" break="no"/>si deus det. Tertio comparatur missio in 
+      cre<lb ed="#B" n="48" break="no"/>aturis ad missum: et ista comparatio est 
+      imperfe<lb ed="#B" n="49" break="no"/>ctionis: et hoc tripliciter. Primo sub ratione 
+      <!--103.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>separationis missia mittente. Sicut cum quis 
+      <lb ed="#B" n="51"/>a parrhysius mittit aliquem romam: oportet 
+      <lb ed="#B" n="52"/>quod missus separetur a mittente: alioquin nunquam 
+      <lb ed="#B" n="53"/>ret romam: Sic non est in diuinis: quia 
+      spiritu<lb ed="#B" n="54" break="no"/>sanctus est vbique cum patre mittente: cum 
+      vbi<lb ed="#B" n="55" break="no"/>que sit per essentiam: verum est tamen quod loco 
+      <lb ed="#B" n="56"/>huius est semper emanatio personae. missae ab 
+      <lb ed="#B" n="57"/>aliquo mittentium seu productio. Secundo  
+      <lb ed="#B" n="58"/>comparatur in his inferioribus missio ad  
+      <lb ed="#B" n="59"/>missum sub ratione subiectionis in 
+      aucto<lb ed="#B" n="60" break="no"/>ritate seu esse: quia semper distinguitur essen 
+      <lb ed="#B" n="61"/>tia a mittente: ideo imperfectius est quam mit 
+      <lb ed="#B" n="62"/>tens. Non sic est in diuinis: nam spiritus 
+      mis<lb ed="#B" n="63" break="no"/>sus a patre seu filio habet eandem essentiam 
+      <lb ed="#B" n="64"/>cum patre mittente seu filio: et idem posse est 
+      <lb ed="#B" n="65"/>penitus in mittente et misso: sed tamen 
+      lo<lb ed="#B" n="66" break="no"/>co huius est subauctoritas in misso: et 
+      au<lb ed="#B" n="67" break="no"/>ttoritas in mittente. Tertio comparatur 
+      mis<lb ed="#B" n="68" break="no"/>sio in creaturis ad missum: quia missum non 
+      <lb ed="#B" n="69"/>est vbi mittitur: ideo oportet quod mutet 
+      lo<lb ed="#B" n="70" break="no"/>tum: et quod sit in eo mutatio. In diuins vero 
+      mis<lb ed="#B" n="71" break="no"/>sus est vbi mittitur: cum tres personae diuinae in omni 
+      <lb ed="#B" n="72"/>loco sint praesentes: ideo non oportet quod 
+      persona<lb ed="#B" n="73" break="no"/>litur accedat: nec est in eo mutatio sed tamen loco 
+      <lb ed="#B" n="74"/>huius est alicuius effectus de nouo productio scilicet 
+      <lb ed="#B" n="75"/>doni intellectus in missione filii vel gratiae seu 
+      <lb ed="#B" n="76"/>charitatis in missione spiritus sancti.
+</p>
+               <p xml:id="WuV37d-e19683-d1e680">
+¶ Unde 
+      <lb ed="#B" n="77"/>noto vlterius / quod missio tripliciter reparitur i 
+      <lb ed="#B" n="78"/>diuinis scilicet actiue dicta: et ista dicit manife 
+      <lb ed="#B" n="79"/>stare personam productam quae mittitur. Secun 
+      <lb ed="#B" n="80"/>do reperitur passiue dicta: et ista habet 
+      tri<lb ed="#B" n="81" break="no"/>plicem respectum. Unum ad producentem: vnde nul 
+      <lb ed="#B" n="82"/>la persona mittitur nisi procedat. Unde dicit 
+      <lb ed="#B" n="83"/>Augustinus iii. de trini. quod filio mitti non est 
+      ali<lb ed="#B" n="84" break="no"/>ud nisi manifestari quod a patre procedat: et 
+      <lb ed="#B" n="85"/>spiritui sancto mitti non est aliud nisi 
+      manifesta<lb ed="#B" n="86" break="no"/>ri quod a patre procedat et filio: et iste respe 
+      <lb ed="#B" n="87"/>ctus est realis semper sicut producentis ad  
+      <lb ed="#B" n="88"/>productum. Secundus respectus est 
+      missi<lb ed="#B" n="89" break="no"/>ad mittentem: et iste est rationis: cum aliqua 
+      <lb ed="#B" n="90"/>persona vt patebit seipsam mittat: et 
+      eius<lb ed="#B" n="91" break="no"/>dem a se non fit relatio realis. Tertius 
+      re<lb ed="#B" n="92" break="no"/>spectus est missi ad id ad quod mittitur: et iste) 
+      <lb ed="#B" n="93"/>etiam est rationis: cum diuina persona non 
+      refe<lb ed="#B" n="94" break="no"/>ratur realiter ad creaturam. Tertio dicitur 
+      <lb ed="#B" n="95"/>missio in diuinis vt quoddam vniuocum mis 
+      <lb ed="#B" n="96"/>sioni actiue et passiue dictae: et haec de 
+      mis<lb ed="#B" n="97" break="no"/>sione.
+</p>
+               <p xml:id="WuV37d-e19683-d1e729">
+¶ Secundus terminus est actio. 
+      <lb ed="#B" n="98"/>Actio dicitur tripliciter. Uno modo dici et 
+      <!--104.xml-->
+      <pb ed="#B" n="44-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>tur actio quidam respectus extrinsecus ad  
+      <lb ed="#B" n="2"/>ueniens: qui constituit apud GBilbertum 
+      por<lb ed="#B" n="3" break="no"/>retanum vnum sex principiorum: quem sic diffi 
+      <lb ed="#B" n="4"/>nit. Actio est secundum quam in id quod subiici 
+      <lb ed="#B" n="5"/>tur agere dicimur. Et sic capitur in quaestio 
+      <lb ed="#B" n="6"/>ne dum dicitur missio actiua: ab ista scilicet actione. 
+      <lb ed="#B" n="7"/>Secundo capitur ad signandum actiones / seu 
+      <lb ed="#B" n="8"/>verius actus immanentes: et dicuntur 
+      imma<lb ed="#B" n="9" break="no"/>nentes: quia manent in agente vt intellectio et 
+      <lb ed="#B" n="10"/>volitio et sic accipitur in. 9. metaphy. et 
+      <lb ed="#B" n="11"/>in. 6. ethicorum / dum dicit philosophus. 
+      Pruden<lb ed="#B" n="12" break="no"/>tia est ratio rerum a nobis agibilium. 
+      Ter<lb ed="#B" n="13" break="no"/>tio capitur actio pro actu exteriori seu in exte 
+      <lb ed="#B" n="14"/>riorem transeunte materiam. Sicut exponi po 
+      <lb ed="#B" n="15"/>test illud quod dicitur. Agite poenitentiam: ap 
+      <lb ed="#B" n="16"/>propinquabit in vos regnum dei.
+</p>
+               <p xml:id="WuV37d-e19683-d1e775">
+¶ Unde 
+      <lb ed="#B" n="17"/>noto quod ista tria se habent per ordinem: actio/ 
+      <lb ed="#B" n="18"/>treatio / factio. Actio enim quoddam 
+      commu<lb ed="#B" n="19" break="no"/>ne est creationi et factioni: quod enim creat / 
+      <lb ed="#B" n="20"/>agit: et quod facit / agit. Creatio vero in hoc 
+      <lb ed="#B" n="21"/>differt a factione: quia creatio nihil 
+      prae<lb ed="#B" n="22" break="no"/>supponit ex parte facti: sed factio 
+      praesuppo<lb ed="#B" n="23" break="no"/>nit materiam: et hoc de actione.
+</p>
+               <p xml:id="WuV37d-e19683-d1e793">
+¶ Tertius 
+      <lb ed="#B" n="24"/>terminus est passiua a passione. Passio 
+      <lb ed="#B" n="25"/>enim quo ad praesens / dicitur tripliciter. Uno 
+      <lb ed="#B" n="26"/>modo dicitur passio quidam respectus extrinse 
+      <lb ed="#B" n="27"/>cus adueniens: qui secundum Gilbertum consti 
+      <lb ed="#B" n="28"/>tuit vnum principium: et respondet actioni: 
+      <lb ed="#B" n="29"/>quam Gilbertus sic diffinit. Passio est illa 
+      <lb ed="#B" n="30"/>tio respectusque actionis: et sic capitur in 
+      no<lb ed="#B" n="31" break="no"/>stra quaestione: vt a tali passione passiua 
+      di<lb ed="#B" n="32" break="no"/>catur missio. Secundo dicitur passio pro 
+      conuer<lb ed="#B" n="33" break="no"/>tibili cum aliquo / et egrediente ex eiusdem pro 
+      <lb ed="#B" n="34"/>priis principiis / et in secundo modo 
+      praedicabi<lb ed="#B" n="35" break="no"/>li: et sic dicitur proprium alicuius speciei passio 
+      <lb ed="#B" n="36"/>vt risibilitas hominis. Tertio dicitur passio 
+      <lb ed="#B" n="37"/>vt habet distingui contra passibilem qualita 
+      <lb ed="#B" n="38"/>tem: et est species de praedicamento 
+      qualita<lb ed="#B" n="39" break="no"/>tis: et sic loquitur de passionibus Alexan 
+      <lb ed="#B" n="40"/>der aphricus seu aphrodiseus in li. de 
+      pas<lb ed="#B" n="41" break="no"/>sionibus. Et Aristote. in. 2. rhetoricae: 
+      vt<lb ed="#B" n="42" break="no"/>sunt gaudium spes / metus / et caeterae. Et hoc 
+      <lb ed="#B" n="43"/>de primo articulo. 
+      <lb ed="#B" n="44"/>Quantum ad secundum 
+      arti<lb ed="#B" n="45" break="no"/>culum 
+      <lb ed="#B" n="46"/>sunt tres conclusiones.
+</p>
+               <p xml:id="WuV37d-e19683-d1e845">
+¶ Prima est. Cuili. 
+      <lb ed="#B" n="47"/>bet diuinissimarum personarum actiua conuenit 
+      <lb ed="#B" n="48"/>missio. Probatur ista conclusio. Omni illi 
+      per<lb ed="#B" n="49" break="no"/>sonae conuenit actiua missio cui conuenit perso¬ 
+      <!--104.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>nam missam manifeste procedere. Sed cuilibet 
+      <lb ed="#B" n="51"/>trium hoc conuenit: igitur missio actiua conuenit 
+      <lb ed="#B" n="52"/>tribus. Maior patet ex quid nomins. Hissio 
+      <lb ed="#B" n="53"/>enim actiua nihil aliud est nisi talis ostensio acti 
+      <lb ed="#B" n="54"/>ua processionis missi. Sed minor probatur: 
+      de<lb ed="#B" n="55" break="no"/>clarare enim talem processionem vel angelico vul 
+      <lb ed="#B" n="56"/>tui vel nobis dicit perfectionem: et ita nulli 
+      <lb ed="#B" n="57"/>negandum est personae. Confirmatur ratione 
+      <lb ed="#B" n="58"/>magistri in littera. Quia si vna persona 
+      <lb ed="#B" n="59"/>mitteret / alia non: sequeretur quod aliquid 
+      age<lb ed="#B" n="60" break="no"/>ret vna persona quod non alia: quod non 
+      com<lb ed="#B" n="61" break="no"/>ceditur.
+</p>
+               <p xml:id="WuV37d-e19683-d1e884">
+¶ Ex isto infertur quod decepti sunt 
+      <lb ed="#B" n="62"/>antiqui doctores ante tempus magistri: qui tn 
+      <lb ed="#B" n="63"/>ponebant tantum esse duas personas 
+      mittem<lb ed="#B" n="64" break="no"/>tes / et duas solum missas: patrem et filium 
+      mit<lb ed="#B" n="65" break="no"/>tentes solum: et filium et spiritum sanctum solas 
+      <lb ed="#B" n="66"/>missas: quia (vt dicebant) oportet esse aucto 
+      <lb ed="#B" n="67"/>ritatem in mittente respectu missi / et 
+      distin<lb ed="#B" n="68" break="no"/>ctionem realem mittentis a misso. Sed (cum 
+      re<lb ed="#B" n="69" break="no"/>uerentia eorum) patet horum falsa opinio ex 
+      <lb ed="#B" n="70"/>14. et. 15. distinctionibus: vbi luculenter per 
+      <lb ed="#B" n="71"/>auctoritates sacras ostendit magister: quod 
+      <lb ed="#B" n="72"/>spiritus sanctus misit filium in mundum / testimo 
+      <lb ed="#B" n="73"/>nio esaimae / dicentis: Spiritus domini super me. Mit 
+      <lb ed="#B" n="74"/>tit etiam seipsum in mentes deuotorum. Et quod 
+      <lb ed="#B" n="75"/>dicunt / quod oportet mittentem auctoritatem ha 
+      <lb ed="#B" n="76"/>bere super missum. Dico quod verum est: sed non 
+      <lb ed="#B" n="77"/>oportet quod quilibet mittens habeat / sed  
+      <lb ed="#B" n="78"/>vnus aut duo: sicut quando mittitur filius: solus 
+      <lb ed="#B" n="79"/>pater mittens habet istam auctoritatem: quando 
+      <lb ed="#B" n="80"/>autem mittitur spiritus sanctus: pater et filius habent 
+      <lb ed="#B" n="81"/>istam auctoritatem / non spiritus sanctus: cum tamen 
+      <lb ed="#B" n="82"/>et filius mittat se / et spiritus sanctus mittat se 
+      <lb ed="#B" n="83"/>et filium: vnde vt in textu nostro dist. 15. inquit 
+      <lb ed="#B" n="84"/>magister: Ex predictis aperte monstratur / 
+      <lb ed="#B" n="85"/>quod filius a patre / et spiritusancto / et seipso mis 
+      <lb ed="#B" n="86"/>sus est. et tamen certum est quod spiritus sanctus 
+      <lb ed="#B" n="87"/>non habet auctoritatem super filium / sed 
+      ma<lb ed="#B" n="88" break="no"/>gis econtra. Et quod dicunt secundo: quod 
+      <lb ed="#B" n="89"/>oportet mittentem distingui realiter a 
+      mis<lb ed="#B" n="90" break="no"/>so. Dico sicut dixi: quod verum est / ab aliquo 
+      <lb ed="#B" n="91"/>mittentium / non a quolibet: et ita cum filius 
+      <lb ed="#B" n="92"/>mittitur aut spiritus sanctus: semper ad minus 
+      di<lb ed="#B" n="93" break="no"/>stinguitur realitur a patre mittente: et hoc 
+      suf<lb ed="#B" n="94" break="no"/>ficit.
+</p>
+               <p xml:id="WuV37d-e19683-d1e958">
+¶ Secunda conclusio. 
+      Diuinissi<lb ed="#B" n="95" break="no"/>mo patri non conuenit / sed vnigenito et fia 
+      <lb ed="#B" n="96"/>mini passiua missio. Prima pars dicit quod 
+      pe<lb ed="#B" n="97" break="no"/>ter non mittitur. Probatur per Augstin. et c in 
+      te<lb ed="#B" n="98" break="no"/>xtu. 15. di. Pater inquit (vt ait aug. / numquam le¬ 
+      <!--105.xml-->
+      <pb ed="#B" n="44-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>gitur missus. Et roboratur ratione. Nihil 
+      mit<lb ed="#B" n="2" break="no"/>titur nisi quod procedit: sed pater non 
+      proce<lb ed="#B" n="3" break="no"/>dit: quia est a se: et est prima persona: igitur 
+      <lb ed="#B" n="4"/>pater non mittitur. Assumptum patet ex quan 
+      <lb ed="#B" n="5"/>to de trini. Hissio enim passiua non est nisi 
+      <lb ed="#B" n="6"/>manifestatio personae quae procedit. Sed pro 
+      <lb ed="#B" n="7"/>batur secunda pars / quod missio passiua conueniat 
+      <lb ed="#B" n="8"/>filio et spiritui sancto. De filio enim dicitur: 
+      <lb ed="#B" n="9"/>Mater intelligitur misisse eum  cum 
+      fe<lb ed="#B" n="10" break="no"/>cit eum ex faemina. 2. de trini. De 
+      spiritu<lb ed="#B" n="11" break="no"/>sancto vero dicitur. Quem mittet pater in 
+      <lb ed="#B" n="12"/>nomine meo. Et corroboratur. Quia 
+      vbi<lb ed="#B" n="13" break="no"/>cunque est totum esse missionis passiuae / ibi est 
+      <lb ed="#B" n="14"/>passiua missio. Sed sic est de filio et 
+      spiri<lb ed="#B" n="15" break="no"/>tusancto. Probatur. Hissio enim passiua 
+      <lb ed="#B" n="16"/>tria importat: scilicet manifestari: et hoc est 
+      <lb ed="#B" n="17"/>principale significatum: et conuenit patri et 
+      <lb ed="#B" n="18"/>filio et spirituisancto: Nam quaelibet persona non 
+      <lb ed="#B" n="19"/>bis manifestata est: sicut in bapticatione 
+      <lb ed="#B" n="20"/>christi: pater in voce / spiritus in columba / 
+      fili<lb ed="#B" n="21" break="no"/>us in humanitate assumpta. Secundum quod im 
+      <lb ed="#B" n="22"/>portat est processio. Et tertium est respectus solum 
+      <lb ed="#B" n="23"/>ad mittentem: et ista conueniunt filio et spirituisam 
+      <lb ed="#B" n="24"/>cto: cum vterque eorum procedat: et ad 
+      pa<lb ed="#B" n="25" break="no"/>trem qui mittit habeant respectum. Et ista 
+      <lb ed="#B" n="26"/>duo vltima non sunt de principali 
+      signifi<lb ed="#B" n="27" break="no"/>cato missionis / sed sunt connotata.
+</p>
+               <p xml:id="WuV37d-e19683-d1e1035">
+¶ Ter 
+      <lb ed="#B" n="28"/>tia conclusio. Hissio visibilis tam geniti 
+      <lb ed="#B" n="29"/>quam flaminis ad inuisibilem ordinatur. 
+      Uo<lb ed="#B" n="30" break="no"/>catur missio inuisibilis quae fit in donis 
+      ani<lb ed="#B" n="31" break="no"/>mae: vt in dono sapientiae / sicut Salomo 
+      <lb ed="#B" n="32"/>ni: vel in dono pietatis / sicut Movfi. 
+      Uo<lb ed="#B" n="33" break="no"/>catur autem missio visibilis / quae apparet 
+      <lb ed="#B" n="34"/>oculis: sicut missio filii dei quando 
+      assum<lb ed="#B" n="35" break="no"/>psit carnem humanam: vel spiritus sancti in igne 
+      <lb ed="#B" n="36"/>super apostuolos. Probatur conclusio. Omne 
+      <lb ed="#B" n="37"/>signum ad signatum ordinatur: sed missio visi 
+      <lb ed="#B" n="38"/>bilis est signum inuisibilis: igitur ad illam 
+      or<lb ed="#B" n="39" break="no"/>dinatur. Maior patet: quia signum est signati 
+      <lb ed="#B" n="40"/>gratia. Minor patet de triplici missione 
+      <lb ed="#B" n="41"/>visibili spiritus sancti. Primo in columba: se 
+      <lb ed="#B" n="42"/>cundo in flatu: tertio in igne. Columba enim 
+      <lb ed="#B" n="43"/>signat plenitudinem gratiae in christo / vt in 
+      <lb ed="#B" n="44"/>alios redundaret / et alios redimeret: sicut 
+      <lb ed="#B" n="45"/>in lege per columbam primogenita erant 
+      redem<lb ed="#B" n="46" break="no"/>pta. Flatus redundantiam sensus et 
+      vigo<lb ed="#B" n="47" break="no"/>rem in apostolis / qui alios erant illuminaturi. 
+      <lb ed="#B" n="48"/>Agnis ardorem charitatis in praedicatoribus. 
+      <lb ed="#B" n="49"/>Et sic patet de secundo articulo. 
+      <!--105.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>Quantum ad tertium 
+      articu<lb ed="#B" n="51" break="no"/>lum sunt 
+      <lb ed="#B" n="52"/>tres difficultates.
+</p>
+               <p xml:id="WuV37d-e19683-d1e1096">
+¶ Prima est: Utrum 
+      <lb ed="#B" n="53"/>vna persona mittat aliam per aliam: vtputa: sit 
+      <lb ed="#B" n="54"/>concedendum quod pater mittat spiritumsanctum per 
+      <lb ed="#B" n="55"/>filium? Dico quod sic. Sicut enim ista conceditur: 
+      <lb ed="#B" n="56"/>quod pater producit spiritum sanctum per filiumet 
+      cre<lb ed="#B" n="57" break="no"/>at per fiium: lita ista: ipater mittit spiritum per 
+      fi<lb ed="#B" n="58" break="no"/>lium: ita quod li per dicat subauctoritatem in fi 
+      <lb ed="#B" n="59"/>lio / et auctoritate in patre. Nam pater a se mittit: 
+      <lb ed="#B" n="60"/>filius deo ab alio / quia a patre.
+</p>
+               <p xml:id="WuV37d-e19683-d1e1116">
+¶ Secunda 
+      dif<lb ed="#B" n="61" break="no"/>ficultas: quomodo potest intelligi quod tres personae in 
+      <lb ed="#B" n="62"/>mittant: et tamen quod duae solae mittantur: 
+      Re<lb ed="#B" n="63" break="no"/>spondet doctor subtilis in ista distinctione: 
+      <lb ed="#B" n="64"/>et dat exemplum in his tribus: 
+      memoria<lb ed="#B" n="65" break="no"/>intelligentia et voluntas. Tam enim 
+      intelli<lb ed="#B" n="66" break="no"/>gentia quam memoria quam voluntas declarant me 
+      <lb ed="#B" n="67"/>moriam: et tamen sola memoria est declarata. Sic 
+      <lb ed="#B" n="68"/>tres personae mittunt: et tamen duae solae mittuntur. 
+      <lb ed="#B" n="69"/>Aliud exemplum valde gratum doctoris 
+      de<lb ed="#B" n="70" break="no"/>uoti in. 3. distin. 1. de incarnatione verbi. 
+      <lb ed="#B" n="71"/>Tres puellae vnicum induunt indumentum: 
+      <lb ed="#B" n="72"/>et tamen vnica puella induitur. Sic omnes 
+      <lb ed="#B" n="73"/>diuinae personae agunt incarnationem: et tamen 
+      <lb ed="#B" n="74"/>vnica persona et sola incarnatur. Ita in 
+      propo<lb ed="#B" n="75" break="no"/>sito: Licet omnes mittant: tamen duae solae 
+      <lb ed="#B" n="76"/>mittuntur.
+</p>
+               <p xml:id="WuV37d-e19683-d1e1153">
+¶ Tertia difficultas. Qui 
+      <lb ed="#B" n="77"/>sunt illa dona / et quomodo differunt: in quibus fili 
+      <lb ed="#B" n="78"/>dei et spiritus sanctus mittuntur: Respondit do 
+      <lb ed="#B" n="79"/>ctor deuotus in secunda parte distinctionis. 
+      <lb ed="#B" n="80"/>15. quod huiusmodi dona possunt capi tripliciter: aut 
+      <lb ed="#B" n="81"/>quantum ad radicem quae dicitur gratia: et sic 
+      <lb ed="#B" n="82"/>non differunt missio filii et spiritus sancti inuisibilis 
+      <lb ed="#B" n="83"/>quia ambae fiunt dono gratie. Aut secundo 
+      capiun<lb ed="#B" n="84" break="no"/>tur quantum ad habitum: et tunc debent distingui 
+      <lb ed="#B" n="85"/>habitus tripliciter. Primi sunt affectiui: 
+      <lb ed="#B" n="86"/>et in istis mittitur spiritus sanctus. Alii sunt pure 
+      cog<lb ed="#B" n="87" break="no"/>nitiui: et in istis nec filius nec spiritus sanctus mit 
+      <lb ed="#B" n="88"/>titur. Tertii sunt partim cognitiui et partim affe 
+      <lb ed="#B" n="89"/>ctiui: secundum quod sunt cognitiui in eis mittitur filius: 
+      <lb ed="#B" n="90"/>secundum quod affectiui spiritus sanctus. Capiuntur 
+      ter<lb ed="#B" n="91" break="no"/>tio quantum ad actus qui sunt illuminatio: et 
+      <lb ed="#B" n="92"/>sic mittitur filius: vel inflammatio et sic mittitur 
+      <lb ed="#B" n="93"/>spiritus: quamuis ambae missiones inuisibiles sint 
+      <lb ed="#B" n="94"/>de potentia ordinata inseparabiles. Numquam enim 
+      <lb ed="#B" n="95"/>mittitur inuisibilitur filius quin mittatur spiritus sanctus 
+      <lb ed="#B" n="96"/>nec econtra. Et sic patet quid dicendum sit ad  
+      <lb ed="#B" n="97"/>quaestionem: quod videlicet actiua missio tribus 
+      <lb ed="#B" n="98"/>congruit personis: sed passiua solum genito 
+      <!--106.xml-->
+      <pb ed="#B" n="45-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>et sacro flamini. Et tunc ad argumenta. 
+      </p>
+               <p xml:id="WuV37d-e19683-d1e1212">
+                  <lb ed="#B" n="2"/>¶ Ad primum dico sicut dictum est quod mit 
+      <lb ed="#B" n="3"/>ti habet duplex significatum. principale. scilicet 
+      <lb ed="#B" n="4"/>manifestari: et quia quaelibet persona 
+      ma<lb ed="#B" n="5" break="no"/>nifestatur: quo ad hoc omnibus conuenit. Sed  
+      <lb ed="#B" n="6"/>secundum suum significatum est quod indicat perso 
+      <lb ed="#B" n="7"/>nam quae mittitur procedere et illud est 
+      pro<lb ed="#B" n="8" break="no"/>prium spiritui et filio nec est respectus ad 
+      ex<lb ed="#B" n="9" break="no"/>tra sed magis ad intra: ideo non currit 
+      ar<lb ed="#B" n="10" break="no"/>gumentum.
+</p>
+               <p xml:id="WuV37d-e19683-d1e1234">
+¶ Ad secundum negatur maior: 
+      <lb ed="#B" n="11"/>nam mittere solum dicit manifeste procede 
+      <lb ed="#B" n="12"/>re personam: etiam hoc est commune tribus; 
+      <lb ed="#B" n="13"/>mitti vero super hoc vt patuit addit pro 
+      <lb ed="#B" n="14"/>cessionem missi quae non conuenit patri qui est 
+      <lb ed="#B" n="15"/>a se ideo non currit argumentum:
+</p>
+               <p xml:id="WuV37d-e19683-d1e1248">
+¶ Ad ter 
+      <lb ed="#B" n="16"/>tium nego minorem: et ad probationem de dare 
+      <lb ed="#B" n="17"/>et dari dico quod non est consimile: quia inter 
+      <lb ed="#B" n="18"/>dantem et datum solum est relatio rationis sicut 
+      <lb ed="#B" n="19"/>inter communicans et communicatum: sed sem 
+      <lb ed="#B" n="20"/>per missum ad aliquem mittentium habet re 
+      <lb ed="#B" n="21"/>lationem realem ideo non valet. Ulterius dico quod 
+      <lb ed="#B" n="22"/>vocat istas missiones infinitas propter 
+      in<lb ed="#B" n="23" break="no"/>finitatem essentiae: dico quod non sunt infinite 
+      <lb ed="#B" n="24"/>formaliter: tum primo: quia sunt 
+      relatio<lb ed="#B" n="25" break="no"/>nes: tum secundo quia sunt essentia rationis: tum 
+      <lb ed="#B" n="26"/>tertio quia dicunt respectum ad creaturas et sic 
+      <lb ed="#B" n="27"/>patet ad quaestionem.
+</p>
+            </div>
+            <div xml:id="WuV37d-e19683-Dd1e1278" type="et-conclusiones">
+               <head xml:id="WuV37d-e19683-Hd1e1280">Conclusiones</head>
+               <p xml:id="WuV37d-e19683-d1e1283">
+¶ Ex his tribus 
+      di<lb ed="#B" n="28" break="no"/>stinctionibus de mente magistri tres 
+      <lb ed="#B" n="29"/>eliciuntur conclusiones de qualibet vna. Pri 
+      <lb ed="#B" n="30"/>ma conclusio est: pater et genitus mittunt 
+      <lb ed="#B" n="31"/>spiritum: sed dari penitus nequit per condi 
+      <lb ed="#B" n="32"/>tum. Ista conclusio dicit: quod pater et filius 
+      <lb ed="#B" n="33"/>mittunt spiritum sanctum: sed quod nulla creatura 
+      <lb ed="#B" n="34"/>potest eum dare. Prima pars ponitur a 
+      <lb ed="#B" n="35"/>principio distinctionis. 14. vsque ad illud 
+      <lb ed="#B" n="36"/>ca. Hic quaeritur etiam: vtrum sancti viri etc. 
+      <lb ed="#B" n="37"/>Secunda vero pars eiusdem conclusionis a 
+      <lb ed="#B" n="38"/>prefato textu. Hic quaeritur etiam: vtrum sancti 
+      <lb ed="#B" n="39"/>viri etc. vsque ad finem distinctionis.
+</p>
+               <p xml:id="WuV37d-e19683-d1e1312">
+  Secun 
+      <lb ed="#B" n="40"/>da conclusio. Seipsum spiritus mittit 
+      ve<lb ed="#B" n="41" break="no"/>raciter: sed et dupliciter missus est genitus 
+      <lb ed="#B" n="42"/>Dicit conclusio quod spiritus sanctus seipsum 
+      mit<lb ed="#B" n="43" break="no"/>tit et quod filius dei missus est dupliciter. scilice 
+      <lb ed="#B" n="44"/>visibiliter quando sumpsit pro nobis 
+      car<lb ed="#B" n="45" break="no"/>nem humanam: et inuisibiliter in mentibus 
+      com<lb ed="#B" n="46" break="no"/>templatiuorum. Et deducit istam 
+      conclusio<lb ed="#B" n="47" break="no"/>nem quo ad primam hartem a principio. 15. 
+      di<lb ed="#B" n="48" break="no"/>vsque ad illud ca. Hic quaeritur: vtrum tantum 
+      <lb ed="#B" n="49"/>semel missus sit filius etc. Et secundam par 
+      <!--106.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>tem ab illo ca. vsque ad finem distinctionis. 
+</p>
+               <p xml:id="WuV37d-e19683-d1e1343">
+                  <lb ed="#B" n="51"/>Tertia conclusio: bino spiritus modo mit 
+      <lb ed="#B" n="52"/>titur: minor se dicitur et patre genitus: 
+      <lb ed="#B" n="53"/>Dicit conclusio quod spiritus sanctus dupliciter mit 
+      <lb ed="#B" n="54"/>titur: visibiliter et inuisibiliter: et quod filius 
+      <lb ed="#B" n="55"/>dei et se et patre est minor secundum naturam huma 
+      <lb ed="#B" n="56"/>nam. Prima pars conclusionis ponitur a 
+      <lb ed="#B" n="57"/>principio. 16. dist. vsque ad illud ca. Sed prie 
+      <lb ed="#B" n="58"/>us quaerendum est etc. Secunda pars ab illo 
+      <lb ed="#B" n="59"/>ca. vsque ad etc.
+</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

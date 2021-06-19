@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 27</title>
+            <author ref="#WilliamDeVaurouillon">William de Vaurouillon</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 27</title>
+               <date when="2021-06-19">June 19, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-bvbVBV">Basel 1510</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-06-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="395-r"/>
+            <cb ed="#B" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="WuV37d-f82587"><!-- l4d27 -->
+            <head xml:id="WuV37d-f82587-Hd1e108">Distinctio 27</head>
+            <div xml:id="WuV37d-f82587-Dd1e111" type="circa-textum">
+               <head xml:id="WuV37d-f82587-Hd1e113">Circa textum</head>
+               <p xml:id="WuV37d-f82587-d1e116">
+                  <lb ed="#B" n="27"/>Distinctio. 27. agit de matrimo 
+      <lb ed="#B" n="28"/>nio quantum ad eius effectum qui est. 
+      <lb ed="#B" n="29"/>consensus.
+    </p>
+               <p xml:id="WuV37d-f82587-d1e125">
+                  <lb ed="#B" n="30"/>POst haec ad  
+      <lb ed="#B" n="31"/>quo uertendum est quod sit 
+      com<lb ed="#B" n="32" break="no"/>iugium etc. Hic signatur 
+      <lb ed="#B" n="33"/>27. di. huius quarti: quae ita 
+      ha<lb ed="#B" n="34" break="no"/>bet continuari ad praece. Nam 
+      <lb ed="#B" n="35"/>postquam in praecedenti dis. actum est de 
+      matrimo<lb ed="#B" n="36" break="no"/>nii formali initio: nunc incipit agere de ma 
+      <lb ed="#B" n="37"/>trimonii effectiuo principio. Et habet diuidi in 
+      <lb ed="#B" n="38"/>tres partes principales. In prima onndit quem 
+      <lb ed="#B" n="39"/>per verba de praesenti consensus expressus habe 
+      <lb ed="#B" n="40"/>at effectum. In secunda / quem teneat per verba de 
+      <lb ed="#B" n="41"/>futuro robur detectum. In tertia / quas imper 
+      <lb ed="#B" n="42"/>fectus consensus matrimonii dicat defectum 
+      <lb ed="#B" n="43"/>Prima in praesenti di. Secunda dist. 26. seu se 
+      <lb ed="#B" n="44"/>quenpti / ibi: hic quaeri debet vtrum consensus 
+      <lb ed="#B" n="45"/>de futuro etc. Tertia. 39. ibi: Oportem au 
+      <lb ed="#B" n="46"/>tem consensum communiugalem liberum esse etc. Rur 
+      <lb ed="#B" n="47"/>sus prima particula quae est praescus dis. in qua 
+      <!--806.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="48"/>magister onndit quem per verba de praesenti 
+      con<lb ed="#B" n="49" break="no"/>sensus expressus habeat effectum in tres 
+      par<lb ed="#B" n="50" break="no"/>tes diuiditur. In prima ponitur veritatis 
+      de<lb ed="#B" n="51" break="no"/>terminatio. In secunda scribitur falsitatis sim 
+      <lb ed="#B" n="52"/>plex opinio. In tertia concluditur 
+      auctori<lb ed="#B" n="53" break="no"/>tatum explanatio. Prima in principio. Se 
+      <lb ed="#B" n="54"/>cunda ibi: Quidam tamen asserunt verum communiugium 
+      <lb ed="#B" n="55"/>etc. Tertia ibi: His autem ita respondemus 
+      <lb ed="#B" n="56"/>etc. Et haec est diuisio praesentis dist. in gene 
+      <lb ed="#B" n="57"/>rali: Circa quam talis mouetur titulus 
+      quaesti<lb ed="#B" n="58" break="no"/>onis in speciali.
+          </p>
+            </div>
+            <div xml:id="WuV37d-f82587-Dd1e196">
+               <head xml:id="WuV37d-f82587-Hd1e198">Quaestio</head>
+               <p xml:id="WuV37d-f82587-d1e201">
+                  <lb ed="#B" n="59"/>Questio haec declarat de eo quod 
+      <lb ed="#B" n="60"/>causat matrimonium completiue ac 
+      <lb ed="#B" n="61"/>expsso cosensu per verba de praesenti: e 
+      <lb ed="#B" n="62"/>habetur a Scoto in ista distin. q. 2. et 
+      <lb ed="#B" n="63"/>distinctioe. 26. q. vnica. 
+      <lb ed="#B" n="64"/>Urui verum 
+      ma<lb ed="#B" n="65" break="no"/>trimonium expresso mutuo de 
+      prae<lb ed="#B" n="66" break="no"/>senti consensu compleatur: quod non 
+      ar<lb ed="#B" n="67" break="no"/>guitur tripliciter. Primo sic: Aliquis potest 
+      <lb ed="#B" n="68"/>esse certus de matrimonio: igitur ad matri. 
+      <lb ed="#B" n="69"/>monium non requiritur consensus. Antecedens patet. Ali 
+      <lb ed="#B" n="70"/>ter enim nullus secure posset vti actu 
+      ma<lb ed="#B" n="71" break="no"/>trimonii sine pariculo. Patet consequenta: quia 
+      nul<lb ed="#B" n="72" break="no"/>lus videt conceptum interiorem alterius. 
+      </p>
+               <p xml:id="WuV37d-f82587-d1e234">
+                  <lb ed="#B" n="73"/>¶ Secundo arguitur sic: Matrimonium est 
+      com<lb ed="#B" n="74" break="no"/>tractus aut fit ex contractu: igitur non requiritur 
+      <lb ed="#B" n="75"/>consensus interior. Antecedens patet: quia vir et 
+      <lb ed="#B" n="76"/>mulier illo modo conueniunt: Do si des: vel 
+      <lb ed="#B" n="77"/>do vt des. Patet consequenta: quia ita fit in reliquis 
+      <lb ed="#B" n="78"/>contractibus etiam sine consensu interiori: et hoc 
+      <lb ed="#B" n="79"/>dicit magister in listra praesentis dis. c. 2. quod si vir 
+      <lb ed="#B" n="80"/>et mulier explicant: quod tamen corde non volunt 
+      <lb ed="#B" n="81"/>si non sit ibi coactio vel dolus / 
+      matrimo<lb ed="#B" n="82" break="no"/>nium contrahunt.
+</p>
+               <p xml:id="WuV37d-f82587-d1e258">
+¶ Tertio arguitur sic: Potest 
+      <lb ed="#B" n="83"/>pater filium aut filiam tradere matrimonio 
+      <lb ed="#B" n="84"/>ipsco vel ipsa reclamante: ergo ad 
+      matrimo<lb ed="#B" n="85" break="no"/>nium non requiritur interior consensus. Patet 
+      <lb ed="#B" n="86"/>consequenta. Antecedens patet: quia filius aut 
+      fi<lb ed="#B" n="87" break="no"/>lia sunt res patris: vnicuique autem licitum 
+      <lb ed="#B" n="88"/>est vti sua re vt vult: vnde. 32. q. 2. c. 
+      Ho<lb ed="#B" n="89" break="no"/>norantur. in textu et glo. et extra de 
+      sponsa<lb ed="#B" n="90" break="no"/>ibus. in glo. super. c. Tuae. sufficit expressio pa 
+      <lb ed="#B" n="91"/>rentum pro filiis. In oppofitum: tum primo 
+      <lb ed="#B" n="92"/>magister in listera: tum secundo Innocentius  
+      <lb ed="#B" n="93"/>tertius in decretali quadam / de 
+      sponsali<lb ed="#B" n="94" break="no"/>bus. c. tua nos. respondens cuidam casui in 
+      <lb ed="#B" n="95"/>hac materia vbi defuit interior consensus 
+      <!--807.xml-->
+      <pb ed="#B" n="395-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>et vir mutauit sibi nomen: dicit quod non est ma 
+      <lb ed="#B" n="2"/>trimonium. et ratio quam assignat in fine / his 
+      <lb ed="#B" n="3"/>verbis continetur: quia ex altera parte dolus as 
+      <lb ed="#B" n="4"/>fuit et defuit omnino consensus sine quo neque 
+      <lb ed="#B" n="5"/>unt caetera fedus perficere communiugale. Tum 
+      <lb ed="#B" n="6"/>tertio per decretalem aliam / cuius principium est: 
+      <lb ed="#B" n="7"/>Tuae. immediate hanc praecedentem qua dicit: pue 
+      <lb ed="#B" n="8"/>ri ante annos legittimos per verba sola 
+      <lb ed="#B" n="9"/>non contrahunt cum intelligantur minime 
+      con<lb ed="#B" n="10" break="no"/>sentire. 
+      </p>
+               <p xml:id="WuV37d-f82587-d1e317">
+                  <lb ed="#B" n="11"/>¶ In ista quasti. sunt tres articli declarandi 
+      <lb ed="#B" n="12"/>Primus est terminorum decla 
+      <lb ed="#B" n="13"/>Quorum ratiuus  
+      <lb ed="#B" n="14"/>SSecundus est quaestionis responsiuus 
+      <lb ed="#B" n="15"/>Tertius est terminorum motiuus  
+      <lb ed="#B" n="16"/>Quo ad primum. articulum 
+      <lb ed="#B" n="17"/>termini sunt 
+      <lb ed="#B" n="18"/>Mamenimonium / consensus / expessus:
+</p>
+               <p xml:id="WuV37d-f82587-d1e338">
+¶ 
+      Pri<lb ed="#B" n="19" break="no"/>nus terminus est matrimonium. 
+      <lb ed="#B" n="20"/>Unde matrimonii solent dari tres antiqua 
+      <lb ed="#B" n="21"/>rum definitiones. Prima est hugo. 
+      dicen<lb ed="#B" n="22" break="no"/>tis: Matrimonium est duarum personarum ido 
+      <lb ed="#B" n="23"/>nearum legittimus de communiunctione consensus. 
+      <lb ed="#B" n="24"/>Secunda est magistri in praesenti dist. Ma 
+      <lb ed="#B" n="25"/>trimonium est viri mulierisque coniunctio ma 
+      <lb ed="#B" n="26"/>ritalis inter legittimas personas vitam 
+      indis<lb ed="#B" n="27" break="no"/>solubilem retinens. Tertia est quorundam 
+      <lb ed="#B" n="28"/>aliorum dicentium: Matrimonium est consor 
+      <lb ed="#B" n="29"/>tium communis vitae et communicatio diuini et humani 
+      <lb ed="#B" n="30"/>iuris. Primo quaeritur qualiter hae tres de 
+      <lb ed="#B" n="31"/>matrimonio definitiones distinguantur  
+      <lb ed="#B" n="32"/>Et respondet sanctus Tho. praesentis distin. q. 
+      <lb ed="#B" n="33"/>1. arti. 1. in solutione principali tertiae 
+      quae<lb ed="#B" n="34" break="no"/>stiunculae: In matrimonio inquit tria oc. 
+      <lb ed="#B" n="35"/>currunt consideranda causa matrimonii: es 
+      <lb ed="#B" n="36"/>sentia matrimonii et effectus 
+      matrimo<lb ed="#B" n="37" break="no"/>nii. Definitio hugonica causam tangit ma 
+      <lb ed="#B" n="38"/>trimonii: vt per se notum est. Definitio autem 
+      <lb ed="#B" n="39"/>magistri tangit primo essentiam matrimoniis 
+      <lb ed="#B" n="40"/>scilicet communiunctionem. Secundo addit subiectum in 
+      <lb ed="#B" n="41"/>hoc quod dicit: intur legittimas personas. Ter 
+      <lb ed="#B" n="42"/>tio ponit differentiam contrahentem in hoc quod 
+      <lb ed="#B" n="43"/>dicit: maritalis. quia cum matrimonium sit com 
+      <lb ed="#B" n="44"/>iunctio in ordine ad aliquid vnum: talis 
+      <lb ed="#B" n="45"/>communiunctio in specim trahitur per illud ad quod 
+      <lb ed="#B" n="46"/>ordinatur et idem quod ad maritum pertinet. 
+      <lb ed="#B" n="47"/>Tertia definitio tangit effectum ad quem 
+      <lb ed="#B" n="48"/>ordinatur matrimonium scilicet vita communis 
+      <lb ed="#B" n="49"/>in rebus domesticis: et quia omnis com¬ 
+      <!--807.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>municatio aliquo iure conseruatur / dicitur 
+      com<lb ed="#B" n="51" break="no"/>municatio diuini et humani iuris. Sed 
+      al<lb ed="#B" n="52" break="no"/>tius considerantes dimissis extremis 
+      de<lb ed="#B" n="53" break="no"/>finitionibus mediam magistri capiamus: vbi 
+      <lb ed="#B" n="54"/>tria consideratione digna occurrunt. 
+      Pri<lb ed="#B" n="55" break="no"/>mum quia dicit magister quod matrimonium est 
+      <lb ed="#B" n="56"/>communiunctio: quaeritur quae coniunctio / aut actio 
+      <lb ed="#B" n="57"/>communiunctio / aut coniunctio passio: aut tertio 
+      <lb ed="#B" n="58"/>communiunctio relatio non communiunctio actio non 
+      <lb ed="#B" n="59"/>communiunctio passio: quia nihil agitur. Actio autem 
+      <lb ed="#B" n="60"/>est secundum Gilber. porretani in sex principiorum 
+      <lb ed="#B" n="61"/>principio secundum quam in id quod subiicitur agere 
+      <lb ed="#B" n="62"/>dicimur. Actus autem voluntatis quae sunt hu 
+      <lb ed="#B" n="63"/>iusmodi coniunctio productiui non sunt: 
+      <lb ed="#B" n="64"/>nec matrimonium est communiunctio relatio: quia 
+      <lb ed="#B" n="65"/>relatio non est finis motus. ex. 5. 
+      phisico<lb ed="#B" n="66" break="no"/>Doctor subtilis huius dist. q. 1. in paucis 
+      <lb ed="#B" n="67"/>tripliciter hoc dubium soluit. Dicit enim ¬ 
+      <lb ed="#B" n="68"/>modo quod si matrimonium difter obligatio quae ex 
+      <lb ed="#B" n="69"/>contractu nascitur: tunc illa commniunctio 
+      ha<lb ed="#B" n="70" break="no"/>bitualis est: et dicitur vinculum indissolubile 
+      <lb ed="#B" n="71"/>aut indissolubilitas vinculi vna res: sed 
+      <lb ed="#B" n="72"/>ternarie designata. Si secundo dicamus quod 
+      <lb ed="#B" n="73"/>matrimonium est contractus: tunc matrimo 
+      <lb ed="#B" n="74"/>nium est communiunctio id est actus communiugandi: et sic ma 
+      <lb ed="#B" n="75"/>trimonium est volitiones duorum nubentium quae 
+      <lb ed="#B" n="76"/>volitiones vt in vnum communiunguntur 
+      matrimo<lb ed="#B" n="77" break="no"/>nium dicuntur: vel dicamus iuxta eundem tertio 
+      <lb ed="#B" n="78"/>quod matrimonium est passio sed sic 
+      intelligen<lb ed="#B" n="79" break="no"/>do vt actum interiorem et exteriorem personarum 
+      <lb ed="#B" n="80"/>includat matrimonio communiunctarum. Sed 
+      quid<lb ed="#B" n="81" break="no"/>dicetur horum trium melius cui inquan matrimonium 
+      <lb ed="#B" n="82"/>est relatio: non quae per motum aut actus inducit 
+      <lb ed="#B" n="83"/>sed quae post actus non proprie per actus derelinqui 
+      <lb ed="#B" n="84"/>tur: et sunt plura talia vincula aut plures 
+      <lb ed="#B" n="85"/>relationes. Prima est viri ad mulierem. 
+      <lb ed="#B" n="86"/>secunda mulieris ad virum: tertia amborum 
+      <lb ed="#B" n="87"/>ad prolem educandam: dato quod etiam non sit proles 
+      <lb ed="#B" n="88"/>nec tantum plura sunt matrimonis: sed vnum 
+      <lb ed="#B" n="89"/>vnitate integritatis non indiuisibilis sim 
+      <lb ed="#B" n="90"/>plicitatis. Secundum consideratione dignum est 
+      <lb ed="#B" n="91"/>dum dicitur: intur legittimas personas. siquidem. 2s 
+      <lb ed="#B" n="92"/>q. 1. c. Si quis iudaice. tripharie diuiditur 
+      <lb ed="#B" n="93"/>matrimonium. Primum legittimum / sed non 
+      ra<lb ed="#B" n="94" break="no"/>tum. secundum ratum sed non legittimum. tertium 
+      ra<lb ed="#B" n="95" break="no"/>tum et legittimum. Legittimum matrimonium est. 
+      <lb ed="#B" n="96"/>quod instituitur aut contrahitur in institutione 
+      le<lb ed="#B" n="97" break="no"/>gis et prouinciae moribus et istud possunt 
+      contra<lb ed="#B" n="98" break="no"/>here infideles: sed non est ratum: quia potest dif¬ 
+      <!--808.xml-->
+      <pb ed="#B" n="396-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>solui: vt in casu in quo vnus coniugum non vel 
+      <lb ed="#B" n="2"/>let habitare cum alio sine iniuria creato 
+      <lb ed="#B" n="3"/>ris. Matrimonium est ratum / sed non legitti 
+      <lb ed="#B" n="4"/>mum quod contrahitur absque omni solennitate ex as 
+      <lb ed="#B" n="5"/>fectu intur coniuges solo expresso. Tertio ma 
+      <lb ed="#B" n="6"/>trimonium est ratum et legittimum quando concui 
+      <lb ed="#B" n="7"/>xit ibi solennitas et mutuus consensus expres 
+      <lb ed="#B" n="8"/>sus. Sed quae solennitas. 26. q. 1. c. Si quis. 
+      <lb ed="#B" n="9"/>Illud scilicet matrimonium est legittimum et ratum 
+      <lb ed="#B" n="10"/>quando filia ordine iuris a parentibus traditur a 
+      <lb ed="#B" n="11"/>lacerdote bendicitur / et mutuo consensu 
+      per<lb ed="#B" n="12" break="no"/>ficitur. Et. 306. q. 5. c. Aliter. Non fit 
+      legitti<lb ed="#B" n="13" break="no"/>mum communiugium / nisi ab his qui super ipsam 
+      faemi<lb ed="#B" n="14" break="no"/>nam donationem habaere videntur: et a quibus cu 
+      <lb ed="#B" n="15"/>stoditur vt vxor petatur a parentibus et propinquio 
+      <lb ed="#B" n="16"/>ribus sponsetur / et legibus dotetur scilicet secundum facul 
+      <lb ed="#B" n="17"/>tatem eius et nobilitatem: et a sacerdote 
+      bendi<lb ed="#B" n="18" break="no"/>catur / et a paranimphis custoditur etc. 
+      diuer<lb ed="#B" n="19" break="no"/>sae tamen prouinciae in suis habundant sensibus: vnde 
+      <lb ed="#B" n="20"/>potest patere clandestina matrimonia: licet ra 
+      <lb ed="#B" n="21"/>ta non tamen esse legittima: et pro imperfectis 
+      ha<lb ed="#B" n="22" break="no"/>heri. Tertium consideratione dignum est / dum 
+      <lb ed="#B" n="23"/>dicitur: vitam indissolubilem retinens. Obiicitur 
+      <lb ed="#B" n="24"/>quia matrimonium est indissolubilitas: vt dictum 
+      <lb ed="#B" n="25"/>est. vno modo: quomodo ergo modo dicitur quod est continens 
+      <lb ed="#B" n="26"/>vitam indissolubilem: Dicendum / non est contra 
+      <lb ed="#B" n="27"/>dictio quod homo sit rationalis: et tamen animam habeat 
+      <lb ed="#B" n="28"/>rationalem: sic nec quod matrimonium sit 
+      indisso<lb ed="#B" n="29" break="no"/>lubile aut indissolubilitas: et tamen retineai 
+      <lb ed="#B" n="30"/>vitam indissolubilem. Secundo principaliter 
+      no<lb ed="#B" n="31" break="no"/>tandum secundum doctorem deuotum. q. 2. arti. 1. 
+      prae<lb ed="#B" n="32" break="no"/>sen. di. quod hoc sacraendum trinomium est: difitur con 
+      <lb ed="#B" n="33"/>iugium / dicitur nuptiae / dicitur matrimonium: si com 
+      <lb ed="#B" n="34"/>sideratur secundum id quod est diffter comuniugium: quia comune 
+      iu<lb ed="#B" n="35" break="no"/>gum est / mutuum vinculum et mutua potestas. Ei 
+      <lb ed="#B" n="36"/>hoc dicit Isid. in. 9. ethimolo. Si conside 
+      <lb ed="#B" n="37"/>ratur secundum id quod patet / dicitur nuptiae: quasi nubiae 
+      <lb ed="#B" n="38"/>a nubibus quia quasi nube operiri solebant: et eorum 
+      <lb ed="#B" n="39"/>capita velabantur. Aut tertio consideratur secundum 
+      <lb ed="#B" n="40"/>fructum qui sequitur: et sic matrimonium 
+      appel<lb ed="#B" n="41" break="no"/>latur: et est nomen principale. Ubi tertio 
+      prin<lb ed="#B" n="42" break="no"/>cipaliter notandum est secundum Rich. praesentis dis. 
+      <lb ed="#B" n="43"/>arti. 1. q. 1. Matrimonium dicitur tripliciter 
+      <lb ed="#B" n="44"/>aut quasi matrismunium id est officium: quia eius est 
+      <lb ed="#B" n="45"/>puerum nutrire. Tum primo in ventre menstruo 
+      <lb ed="#B" n="46"/>sanguine: tum secundo post ventrem lacte: tum 
+      <lb ed="#B" n="47"/>tertio longo tempore antequam ad mensam patris 
+      <lb ed="#B" n="48"/>veniat. Secundo dicitur matrimonium quasi matre: 
+      <lb ed="#B" n="49"/>muniens: quia bonus filius debet esse muni¬ 
+      <!--808.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>mentum matris. Tertio dicitur matrimonium quas 
+      <lb ed="#B" n="51"/>matrem mouens: ne scilicet a lege viri discedat. 
+      </p>
+               <p xml:id="WuV37d-f82587-d1e640">
+                  <lb ed="#B" n="52"/>¶ Secundus terminus est consensus: 
+      <lb ed="#B" n="53"/>Ubi notandum quod ista tria differunt: Sensus in 
+      <lb ed="#B" n="54"/>assensus / consensus. Sensus enim etiam vnius 
+      <lb ed="#B" n="55"/>dicitur: assensus etiam et consensus nunquam nisi 
+      <lb ed="#B" n="56"/>multorum. Dicitur autem sensus tripliciter. Uno 
+      <lb ed="#B" n="57"/>modo pro intellectu: vt dicit in homelis. beat 
+      <lb ed="#B" n="58"/>Srego. quod angeli sunt / viuunt / sentiunt et 
+      <lb ed="#B" n="59"/>discernunt. Et Paulus dicit: Hoc enim sen 
+      <lb ed="#B" n="60"/>tite in vobis quod et in christo iesu. Secun 
+      <lb ed="#B" n="61"/>do dicitur sensus pro cognitiua interiori sen 
+      <lb ed="#B" n="62"/>sibili: et sic sunt quinque sensus interiores: 
+      <lb ed="#B" n="63"/>sensus communis seu fantasia / imaginatio / esti 
+      <lb ed="#B" n="64"/>matiua / experimentatiua / memoratiua. Ter 
+      <lb ed="#B" n="65"/>tio pro potentia cognitiua exteriori: et sic 
+      <lb ed="#B" n="66"/>sunt alii quinque. scilicet Uisus / auditus / olfatus / 
+      <lb ed="#B" n="67"/>gustus et tactus. Ubi rursus quae ad hoc ergo 
+      <lb ed="#B" n="68"/>notandum sensum dici tripliciter. Uno modo 
+      <lb ed="#B" n="69"/>pro potentia sensitiua. Secundo modo pro actu 
+      sen<lb ed="#B" n="70" break="no"/>tiendi. si primo / secundo aut tertio modis: et hoc 
+      <lb ed="#B" n="71"/>modo aliquando dicitur vir sensatus. Tertio modo 
+      <lb ed="#B" n="72"/>ifitur pro coniuncto ex potentia organica et 
+      or<lb ed="#B" n="73" break="no"/>ganico: sicut dicit doc. subti. li. 1. dis. 3. q. 
+      <lb ed="#B" n="74"/>vlti. Secundo etiam loquendo de assensu difter 
+      tri<lb ed="#B" n="75" break="no"/>pliciter secundum illum modum sensus: ita quod primo 
+      <lb ed="#B" n="76"/>modo sensus est principiorum quae per se 
+      cognoscun<lb ed="#B" n="77" break="no"/>tur. assensus conclusionum qua aliunde 
+      cogno<lb ed="#B" n="78" break="no"/>scuntur quasi aliunde sensus: quia a principiis. Se 
+      <lb ed="#B" n="79"/>cundo modo iuxta sensum comunem et 
+      imagina<lb ed="#B" n="80" break="no"/>tiuam: vt sensus communis praesentet aurum per se mon 
+      <lb ed="#B" n="81"/>tem per se et imagiatiua assentiat: hoc est quasi vnum 
+      <lb ed="#B" n="82"/>ad vnum sentiat: dicendo montem aureum. Tertio 
+      <lb ed="#B" n="83"/>iuxta sensum exteriorem: vt si dicas: vides 
+      <lb ed="#B" n="84"/>hoc: respondet cui dicis: video: et assentit. Con 
+      <lb ed="#B" n="85"/>sensus autem ab ambobus propece differt: quia actus 
+      <lb ed="#B" n="86"/>est voluntatis proprie informatus charitate: 
+      <lb ed="#B" n="87"/>communius tamen hoc capitur: quia omnes qui contrahunt huiusmodi 
+      <lb ed="#B" n="88"/>non habent affectum.
+</p>
+               <p xml:id="WuV37d-f82587-d1e723">
+¶ Tertius terminus 
+      <lb ed="#B" n="89"/>expressus. Est enim triplex consensus. 
+      Impres<lb ed="#B" n="90" break="no"/>sus quie latitat: et ideo dicitur impressus: quia intus quasi in 
+      <lb ed="#B" n="91"/>primitur a volito: aut in toto aut in pte: est 
+      expres<lb ed="#B" n="92" break="no"/>sus qui in lucem prodit vt pateat: ideo dicitur quasi exis praissus 
+      <lb ed="#B" n="93"/>Est tertio consensus compraessus: quia vult progredi 
+      <lb ed="#B" n="94"/>vt appareat et impeditur ne exeat: hunc 
+      conce<lb ed="#B" n="95" break="no"/>ptum habebat coe nicostrati vxor: de qua in legen 
+      <lb ed="#B" n="96"/>da beati sebastiami legitur: quae cum vellet astantibus 
+      <lb ed="#B" n="97"/>exponem qua viderat non potuit: donec praecibus sancti 
+      <lb ed="#B" n="98"/>sebastiam ligua eius soluta est. et tantum d. 1. arti. 
+      <!--809.xml-->
+      <pb ed="#B" n="396-v"/>
+                  <cb ed="#B" n="a"/>
+               </p>
+               <p xml:id="WuV37d-f82587-d1e754">
+                  <lb ed="#B" n="1"/>¶ Quantum ad secundum 
+      arti<lb ed="#B" n="2" break="no"/>culum 
+      <lb ed="#B" n="3"/>sunt tres conclusiones. Prima est de con 
+      <lb ed="#B" n="4"/>sensu requisito ad matrimonium. Secunda est 
+      <lb ed="#B" n="5"/>de quidditate matrimonii. Tertia de 
+      contra<lb ed="#B" n="6" break="no"/>entibus matrimonium.
+</p>
+               <p xml:id="WuV37d-f82587-d1e770">
+¶ Prima 
+      conclu<lb ed="#B" n="7" break="no"/>sio: Sic consensus mutuus expressus de prae 
+      <lb ed="#B" n="8"/>senti ad matrimonium exigitur: vt non cau 
+      <lb ed="#B" n="9"/>sa efficiens sed praeuia dispositio asseratur. 
+      <lb ed="#B" n="10"/>Ista conclusio tres habet partes. Prima dicit 
+      <lb ed="#B" n="11"/>quod ad matrimonium requiritur consensus / probatur: 
+      <lb ed="#B" n="12"/>Ad veram enim susceptionem alicuius sacrameni 
+      re<lb ed="#B" n="13" break="no"/>quiritur intentio suscipiendi illud sacraentdum si sit 
+      <lb ed="#B" n="14"/>adultus / et vsum habeat rationis: igitur similiter ad 
+      <lb ed="#B" n="15"/>contrahendum matrimonium requiritur 
+      consen<lb ed="#B" n="16" break="no"/>sus. Probatur secundo: quia in sacramenis 
+      suscipien<lb ed="#B" n="17" break="no"/>dis deficiente medio nil factum est: vt in 
+      ba<lb ed="#B" n="18" break="no"/>ptismo deficiente caractere non est baptism 
+      <lb ed="#B" n="19"/>et in sacramento eucharistiae si non est corpus 
+      chri<lb ed="#B" n="20" break="no"/>sti verum: ita ex quo consensus est medium 
+      vniti<lb ed="#B" n="21" break="no"/>uum in matrimonio si non sit / non est 
+      matri<lb ed="#B" n="22" break="no"/>monium. Tum tertio: quia quod sacraendum aliquid 
+      si<lb ed="#B" n="23" break="no"/>gnet interius: patet ex definitione sacrameni: et 
+      <lb ed="#B" n="24"/>non videtur melius quam vt signet gratiosum 
+      <lb ed="#B" n="25"/>consensum.
+</p>
+               <p xml:id="WuV37d-f82587-d1e814">
+¶ Sed obiicitur: quia dicit magi 
+      <lb ed="#B" n="26"/>ster in istera. c. 2. quod si vir et mulier verbis 
+      ex<lb ed="#B" n="27" break="no"/>plicant: quod tamen corde non volunt / si non sit ibi 
+      <lb ed="#B" n="28"/>coactio vel dolus / matrimonium contrahunt 
+      <lb ed="#B" n="29"/>Dicendum / magistrum intelligere quantum ad 
+      <lb ed="#B" n="30"/>iudicium ecclesie quae iudicat de expressis. Et si 
+      <lb ed="#B" n="31"/>dicatur quod pueri bene bapticantur: et tamen 
+      si<lb ed="#B" n="32" break="no"/>ne consensu eorum. Respondendum / quod non est simi 
+      <lb ed="#B" n="33"/>le de isto contractu quae est tantum adultorum: et de 
+      <lb ed="#B" n="34"/>baptismo qui etiam est paruulorum. Sed 
+      rur<lb ed="#B" n="35" break="no"/>sum per simile. dicit enim Isido. Qualiter 
+      ar<lb ed="#B" n="36" break="no"/>te verborum iuret quis in ea signatione deus acci 
+      <lb ed="#B" n="37"/>pit in qua accipit ille cui iuratur: ergo a simili 
+      suffi<lb ed="#B" n="38" break="no"/>cit quod dicat quod consentit: dato quod non 
+      consenti<lb ed="#B" n="39" break="no"/>at vt sit verum matrimonium. Dicit doc. deuo 
+      <lb ed="#B" n="40"/>tus praesentis di. ar. 2. q. 2. quod taliter iurans qua 
+      <lb ed="#B" n="41"/>ad humanum iudicium obligatur: si tamen dicatur 
+      ob<lb ed="#B" n="42" break="no"/>ligari secundum deum: hoc est propter hoc quod deus 
+      re<lb ed="#B" n="43" break="no"/>putat talem dignum poena pariurii: sicut et illum 
+      <lb ed="#B" n="44"/>quo iuramentum non implet: et hoc propter suam 
+      <lb ed="#B" n="45"/>fraudem: nec in hoc peccat ecclesia si aliquando 
+      <lb ed="#B" n="46"/>vbi non est matrimonium / iudicat matrimo 
+      <lb ed="#B" n="47"/>nium: dato enim quod a rei veritate recedat: non 
+      <lb ed="#B" n="48"/>tamen recedit a veritate iusticiae secundum allegata 
+      <lb ed="#B" n="49"/>iudicans. Et si dicatur: quae dicit le non conseusis¬ 
+      <!--809.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>se in matrimonium / contra se allegat: ergo sibi est 
+      <lb ed="#B" n="51"/>credendum: quia vnicuique contra se creditur. Di 
+      <lb ed="#B" n="52"/>co tria: primo quod ecclesia habet testimonium in 
+      <lb ed="#B" n="53"/>contrarium: secundo quod causa matrimonialis est 
+      fauo<lb ed="#B" n="54" break="no"/>rabilis: ideo tali non debet credi: tertio dico 
+      <lb ed="#B" n="55"/>quod in foro prninae bene crederetur sibi: et dabitur 
+      <lb ed="#B" n="56"/>sibi vtile consilium: vnde patet quod talibus non consen 
+      <lb ed="#B" n="57"/>tientibus matrimonium / sed fingentibus non pa 
+      <lb ed="#B" n="58"/>trocinatur nec fraus nec dolus / sicut nec in alio 
+      <lb ed="#B" n="59"/>quocumque: nec coram deo coram qua rea est conscientia: 
+      <lb ed="#B" n="60"/>nec coram mundo coram qua detinenter obligati 
+      <lb ed="#B" n="61"/>non volentes. Sed requeritur ne consensus 
+      mu<lb ed="#B" n="62" break="no"/>tuus ? Dico quod sic aliter ad non suum vel non 
+      <lb ed="#B" n="63"/>suam accederet: et secundo falsum diceret: et 
+      ter<lb ed="#B" n="64" break="no"/>tio sacramendum falsificaret / dicendo: do vt des. 
+      <lb ed="#B" n="65"/>nec dare intendens. Secunda pars conclusionis 
+      <lb ed="#B" n="66"/>diciti / quod iste consensus debet esse expressus 
+      <lb ed="#B" n="67"/>vt sit certitudo possibilis communiugibus aut 
+      <lb ed="#B" n="68"/>per verba vel signa alia: quia muti possunt 
+      contra<lb ed="#B" n="69" break="no"/>here matrimonium. extra de spain. c. Tuae fra 
+      <lb ed="#B" n="70"/>ternitati. Sic enim ratio exigit vt exquo est 
+      do<lb ed="#B" n="71" break="no"/>natio a donatore facta / quod donatoris vor 
+      <lb ed="#B" n="72"/>luntas exprimatur vt donatarius rem accipiat. 
+      <lb ed="#B" n="73"/>Ex isto expresso consensu infert tria fratur 
+      hu<lb ed="#B" n="74" break="no"/>go de nouo castro in praesenti dis. q. 1. Pri 
+      <lb ed="#B" n="75"/>mum est quadam relatio copulationis et obliga 
+      <lb ed="#B" n="76"/>tionis et habitudo quadam mutua: et ex hac di 
+      <lb ed="#B" n="77"/>cuntur coniuges. Secundum / quod relinquitur est 
+      ob<lb ed="#B" n="78" break="no"/>ligatio mutua ad nutriendum prolem et 
+      sollici<lb ed="#B" n="79" break="no"/>tudinem habendam de ea. Tertium ex isto 
+      com<lb ed="#B" n="80" break="no"/>sensu cum signo sensibili in eis derelinqui 
+      <lb ed="#B" n="81"/>tur quod simul debent viuere: animas conuiuere. 
+      </p>
+               <p xml:id="WuV37d-f82587-d1e943">
+                  <lb ed="#B" n="82"/>¶ Sed dubium est an in nouo testamento in 
+      <lb ed="#B" n="83"/>quitiens contrahitur matrimonium / totiens sit ibi 
+      <lb ed="#B" n="84"/>sacraendum: vt si non per verba / sed per signa: vt in 
+      <lb ed="#B" n="85"/>mutis contrahatur? Dicit idem hugo in secunda 
+      <lb ed="#B" n="86"/>q. quod doc. sub. velle videtur quod matrimonium 
+      <lb ed="#B" n="87"/>non est sacraendum / dum fit sine verbis: et ita in mu 
+      <lb ed="#B" n="88"/>tis esset matrimonium / sed non sacramentdum. Sed 
+      vi<lb ed="#B" n="89" break="no"/>deatur textis doc. non in praesenti di. quia brevis 
+      <lb ed="#B" n="90"/>est in eo: et nil tangit ad istud propositum: sed  
+      <lb ed="#B" n="91"/>in praecedente et aperte apparebit quod cum si non 
+      <lb ed="#B" n="92"/>absolute locutus est / ex si autem arguere 
+      ab<lb ed="#B" n="93" break="no"/>solute ratione formae est logicam dimittere. 
+      <lb ed="#B" n="94"/>Si leo volat / habet alas: ergo leo habet alas. vnde et 
+      <lb ed="#B" n="95"/>ipemet modicum ante hoc innuit / dicens: Ista 
+      <lb ed="#B" n="96"/>inquit conclusio est dubia doc. nostro. et post iungit 
+      <lb ed="#B" n="97"/>Uidetur enim ipsi quod inter mutos non est matrimo 
+      <lb ed="#B" n="98"/>uii sacramentdm. Quis ista concipiet dubium est: et 
+      <!--810.xml-->
+      <pb ed="#B" n="397-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>videtur: ista enim tria se habent per ordinem / 
+      dubi<lb ed="#B" n="2" break="no"/>um / suspicio / opinio. Dubium in medio 
+      com<lb ed="#B" n="3" break="no"/>sistit aequilitur / hanc partem et illam conspiciens. Su 
+      <lb ed="#B" n="4"/>spicio modicum flectitur erga partem vnam: sed eam 
+      <lb ed="#B" n="5"/>non accipit. Opinio vero partem capit cum for 
+      <lb ed="#B" n="6"/>midine alterius. si ergo doctori sub. videtur (vi 
+      <lb ed="#B" n="7"/>tu dicis) opinio cuius est non dubium: si autem 
+      <lb ed="#B" n="8"/>sibi est dubium vt asseris / quomodo sibi videtui 
+      <lb ed="#B" n="9"/>multum intur se distant est et non. et ad rationes 
+      <lb ed="#B" n="10"/>tius. Ad primam / dum dicitur: Irrationabile videtur re 
+      <lb ed="#B" n="11"/>mouere ab isto sacramento quod est in omnibus aliis 
+      <lb ed="#B" n="12"/>sacramenis / supplendum est noue legis: sed numqua 
+      <lb ed="#B" n="13"/>inuenitur aliquod sacraendum quod non conferatur sub ali 
+      <lb ed="#B" n="14"/>quibus verbis / cum ergo personae contrahentes sint 
+      <lb ed="#B" n="15"/>hoc miuistri si non prasesent verba exprimere: nec sa 
+      <lb ed="#B" n="16"/>cramentum conferre. Ad hanc rationem dico tria. 
+      <lb ed="#B" n="17"/>Primo quod potest esse sacramendum: et est de facto si 
+      <lb ed="#B" n="18"/>ne verbis vt sacraendum eucharistiae: verba enim pa 
+      <lb ed="#B" n="19"/>nis et vini non sunt verba sacrament / sed 
+      conse<lb ed="#B" n="20" break="no"/>crationis. Secundo dico: non est mirum si hoc sa 
+      <lb ed="#B" n="21"/>cramentum hoc habeat priuilegium: tum communitate: 
+      <lb ed="#B" n="22"/>tum secundo necessitate: tum tertio antiquitate: quia 
+      <lb ed="#B" n="23"/>in paradiso fuit institutum matrimonium. et 
+      <lb ed="#B" n="24"/>si non vt sacramendum: vt in praecedenti di. dictum est: 
+      <lb ed="#B" n="25"/>baptismo consimile non est: quia bapticans sols 
+      <lb ed="#B" n="26"/>minister: et satis potest repariri quae loquatur: hic 
+      <lb ed="#B" n="27"/>autem sunt duo ministri: aut ambo muti sunt: 
+      <lb ed="#B" n="28"/>aut secundo vir mutus: sed non est muta muli 
+      <lb ed="#B" n="29"/>er aut tertio muta mulier: vir non mutus 
+      <lb ed="#B" n="30"/>sic distingue vt verbum ex toto non sit / vel in 
+      <lb ed="#B" n="31"/>parte. Tertio dico quod signa: tunc pro verbis ha 
+      <lb ed="#B" n="32"/>bentur: vnde Dauid loquins: inducitur quod est 
+      ver<lb ed="#B" n="33" break="no"/>bum quod factum est: vbi verbum pro re 
+      ponitur<lb ed="#B" n="34" break="no"/>Ad secundam quae est talis: vbi non est materia 
+      <lb ed="#B" n="35"/>nec forma sacrament / ibi non est sacraendum: sed ista non 
+      <lb ed="#B" n="36"/>sunt intur mutos: quia verbum primo prolatum quod 
+      <lb ed="#B" n="37"/>dicit aliquis: accipio te / est ibi materiale. et 
+      <lb ed="#B" n="38"/>quod alius dicit: et ego te / est formale. sed  
+      <lb ed="#B" n="39"/>mutis ista deficiunt: quia non proferunt. Satis patet 
+      <lb ed="#B" n="40"/>solo ex iam dictis: quia primum signum consesus ex parte 
+      <lb ed="#B" n="41"/>vnius habet locum matiae et signum correspondens ex 
+      <lb ed="#B" n="42"/>parte alterius locum formae: et est ibi consensus quaidam 
+      <lb ed="#B" n="43"/>non primus de essetia sacrament: quia sacraendum est quid sens 
+      <lb ed="#B" n="44"/>bile / consensus spiritualis. Ad tertiam quae est rationa 
+      <lb ed="#B" n="45"/>bile est quod christus instituens sacraendum matrimo 
+      <lb ed="#B" n="46"/>nii: aliquid addat vltra contractum matrimonii: 
+      <lb ed="#B" n="47"/>sed illud non videtur aliud nisi signum verbale: igii 
+      <lb ed="#B" n="48"/>Dico ex adumso quod rationabile est quod muti non 
+      <lb ed="#B" n="49"/>priueutur sacramento matrimonii ex quo contrahuni 
+      <!--810.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>matrimonium: sed loqui nequnt: ideo signa sint lo 
+      <lb ed="#B" n="51"/>co verborum. Est vna alia ratio: quia mutus non 
+      <lb ed="#B" n="52"/>potest absolute: ergo nec hoc sacraendum ministrare 
+      <lb ed="#B" n="53"/>sed quantum valeat / satis patet: nec iudicaui 
+      <lb ed="#B" n="54"/>solutione dignam. Et si quis pro hugone 
+      di<lb ed="#B" n="55" break="no"/>cat: non est opinio eius: quia in quaestione innuitur 
+      <lb ed="#B" n="56"/>opinio alterius? Dico tria. Primo quod 
+      vi<lb ed="#B" n="57" break="no"/>detur opinio eius: secundo / dato quod alterius 
+      ratio<lb ed="#B" n="58" break="no"/>nis non concludunt: tertio / quod opposita vide 
+      <lb ed="#B" n="59"/>tur verior. Tertia pars conclonis diciti / quod 
+      <lb ed="#B" n="60"/>iste consensus per verba de praesenti expressus 
+      <lb ed="#B" n="61"/>se habet ad matrimonium: non vt causa efficiens: sed 
+      <lb ed="#B" n="62"/>vt dispositio praeuia. hanc partem ponit doc. 
+      ex<lb ed="#B" n="63" break="no"/>presse in. 2. q. praesentis di. Ex quo infertur quod 
+      <lb ed="#B" n="64"/>matrimonium non est aliquid causatum ab illo con 
+      <lb ed="#B" n="65"/>tractu matrimoniali: sed derelictum. vnde et 
+      <lb ed="#B" n="66"/>quando diciter contractus matrimonialis causa matrimo 
+      <lb ed="#B" n="67"/>nii: sicut dixi in 1. arti. praece. di. debet 
+      acci<lb ed="#B" n="68" break="no"/>pi causa pro dispositione praeuia: sicut apartio fene 
+      <lb ed="#B" n="69"/>strae difiter causa illuminationis domus. Et tantum de 
+      <lb ed="#B" n="70"/>prima conclusione.
+</p>
+               <p xml:id="WuV37d-f82587-d1e1145">
+¶ Secunda conclusio est 
+      <lb ed="#B" n="71"/>haec: Matrimonium formaliter triplex est 
+      re<lb ed="#B" n="72" break="no"/>latio rationis aut respectus aduenientis extrin 
+      <lb ed="#B" n="73"/>secus. Ista conclusio tres habet particulas. 
+      <lb ed="#B" n="74"/>Prima particula diciti / quod matrimonium est. 
+      <lb ed="#B" n="75"/>formaliter triplex relatio / patet: quia matrimo 
+      <lb ed="#B" n="76"/>nium formaliter et secundum nomen non dicit nisi 
+      re<lb ed="#B" n="77" break="no"/>spectum viri ad faeminam: aut secundo faeminae ad 
+      <lb ed="#B" n="78"/>virum: aut tertio amborum ad prolem. Et si 
+      di<lb ed="#B" n="79" break="no"/>cas de tertio respectu: quia proles non est nec 
+      <lb ed="#B" n="80"/>vnquam erit in multis matrimoniis: ergo talia 
+      <lb ed="#B" n="81"/>non essent matrimonia: quia deesset vna pars 
+      <lb ed="#B" n="82"/>essentialis: sicut homo non est anima deficiente. Dicen 
+      <lb ed="#B" n="83"/>dum quod tertius respectus qui extat ad prolem non est 
+      <lb ed="#B" n="84"/>actualis / sed potentialis: et talis non exigit 
+      <lb ed="#B" n="85"/>terminum actu / sed solum potentia. Et si di 
+      <lb ed="#B" n="86"/>cas: veteres sunt et decrepiti: nec iste 
+      ge<lb ed="#B" n="87" break="no"/>nerare / nec ista concipre potest: Dicendum / si non 
+      <lb ed="#B" n="88"/>possunt ex se / potens est deus vt suppleat. Qui 
+      <lb ed="#B" n="89"/>enim potuit dare sterili vt pariat / potest 
+      da<lb ed="#B" n="90" break="no"/>re faeminae vt concipiat. Elicabet et sara por 
+      <lb ed="#B" n="91"/>tabunt testimonium: et anna et ioachim de 
+      <lb ed="#B" n="92"/>maria. Ex quo primo infertur quod loquendo 
+      abso<lb ed="#B" n="93" break="no"/>lute et formaliter matrimonium non est aliquid 
+      <lb ed="#B" n="94"/>absolutum. Ex quo patet quod nec suba nec qualitas 
+      <lb ed="#B" n="95"/>nec quantitas: plura enim non sunt absoluta 
+      <lb ed="#B" n="96"/>praedicamenta. Secundo sequitur quod matrimonium 
+      <lb ed="#B" n="97"/>non est vnum per se / sed per accens: non est enim bene cogsci 
+      <lb ed="#B" n="98"/>bile quomodo hae tres relationes vuum per se consti¬ 
+      <!--811.xml-->
+      <pb ed="#B" n="397-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>tuant. Sequitur tertio / quod matrimonium 
+      deno<lb ed="#B" n="2" break="no"/>minat id in quo non est nisi in parte / pate:: exquo 
+      <lb ed="#B" n="3"/>enim matrimonium includit illas tres relatio 
+      <lb ed="#B" n="4"/>nes: et in nullo duorum sunt illae tres: quilibet 
+      <lb ed="#B" n="5"/>enim duorum ad plus non habet nisi duas: vnam 
+      <lb ed="#B" n="6"/>ad reliquum coiugem: et secundam ad prolem. De qua 
+      <lb ed="#B" n="7"/>adhuc dubium magnum existit: si eadem sit in 
+      <lb ed="#B" n="8"/>viro et muliere sicut denarius numerus in 
+      <lb ed="#B" n="9"/>decem ouibus: hoc dubium relinqui. Dicuntur hi re 
+      <lb ed="#B" n="10"/>spectus triplici vocabulo: dicuntur obliga 
+      <lb ed="#B" n="11"/>tio mutua: dicuntur secundo vinculum mutuum: 
+      <lb ed="#B" n="12"/>dicuntur tertio indissolubilitas. Secunda pars 
+      <lb ed="#B" n="13"/>conclusionis dicit quod matrimonium est 
+      relatio<lb ed="#B" n="14" break="no"/>rationis breviter patet: quia derelinquitur ex acti 
+      <lb ed="#B" n="15"/>bus voluntatum nubentium seu ex eorum 
+      consen<lb ed="#B" n="16" break="no"/>sibus qua sunt actus immanentes: et ita non produ 
+      <lb ed="#B" n="17"/>etiui. ex. 9. metaph. Tertia pars dicit / quod sunt 
+      <lb ed="#B" n="18"/>extrinsecus aduenientes / patet: quia non oriuntur 
+      <lb ed="#B" n="19"/>immediate posito fundamento et termino 
+      <lb ed="#B" n="20"/>est natura respectuum intrinsecus 
+      aduenien<lb ed="#B" n="21" break="no"/>tium: sed aliud praexigunt: vt consensum de prae 
+      <lb ed="#B" n="22"/>senti expressum. Et tantum de secunda conclusione. 
+      </p>
+               <p xml:id="WuV37d-f82587-d1e1262">
+                  <lb ed="#B" n="23"/>¶ Tertia conclusio: Per isteras per 
+      parem<lb ed="#B" n="24" break="no"/>tes per se potest matrimonium confici. Habet 
+      <lb ed="#B" n="25"/>haec conclusio tres partes: de listris patet. 36. q. 5 
+      <lb ed="#B" n="26"/>nec illud in glo. et debet intelligi si sunt ab 
+      <lb ed="#B" n="27"/>sentes. quod fama / auditu vel alio modo se no 
+      <lb ed="#B" n="28"/>uerint. De secunda parte. 32. q. 2. Non omnis. 
+      <lb ed="#B" n="29"/>6. cum dicitur. in textu et glo. Si parentes 
+      con<lb ed="#B" n="30" break="no"/>trahant pro filiis praesentibus et scientibus / sufficit 
+      <lb ed="#B" n="31"/>eorum taciturnitas. Tertia pars patet per se. Et 
+      <lb ed="#B" n="32"/>tantum de secundo articulo. 
+      <lb ed="#B" n="33"/>Quantum ad tertium arti 
+      <lb ed="#B" n="34"/>culum 
+      <lb ed="#B" n="35"/>sunt tres difficultates.
+</p>
+               <p xml:id="WuV37d-f82587-d1e1293">
+¶ Prima: Si 
+      <lb ed="#B" n="36"/>consensus matrimonii expressus per verba de 
+      <lb ed="#B" n="37"/>praesenti: et contractus matrimonii sint idem. Dicit 
+      <lb ed="#B" n="38"/>doc. sub. in praesenti di. q. 2. quod nihil aliud in 
+      <lb ed="#B" n="39"/>vnum quam aliud.
+</p>
+               <p xml:id="WuV37d-f82587-d1e1304">
+¶ Secunda difficultas: 
+      <lb ed="#B" n="40"/>Utrum matrimonium formaliter dicat perfectio 
+      <lb ed="#B" n="41"/>nem exquo non est nisi ens rationis per accidens: Di 
+      <lb ed="#B" n="42"/>co quod sic: et perfectius quam ens inquantum ens: quia 
+      <lb ed="#B" n="43"/>addit aliquam differentiam supiu ens:
+</p>
+               <p xml:id="WuV37d-f82587-d1e1315">
+¶ 
+      Ter<lb ed="#B" n="44" break="no"/>tia difficultas. Quid sensit frater Ri 
+      <lb ed="#B" n="45"/>char. de media villa / vtrum parentes 
+      pos<lb ed="#B" n="46" break="no"/>sint contrahere pro filiis: Frater Hugo de 
+      <lb ed="#B" n="47"/>nouo castro dicit quod sensiti / quod non in fine se 
+      <lb ed="#B" n="48"/>cunde. q. huius di. Tnde vt patet in Rich. huius 
+      <lb ed="#B" n="49"/>di. art. 1i. q. 3. in fi. ponit Rich. de hoc duas 
+      <!--811.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>opiniones ad nullam se determinans. Ex quo 
+      <lb ed="#B" n="51"/>enim filius et filia praesentes verba audiunt et intel 
+      <lb ed="#B" n="52"/>ligunt / et tacent persumuntur consentire: per 
+      re<lb ed="#B" n="53" break="no"/>gulam iur. in. 6. qui tacet. Et sic patet ad quaesti 
+      <lb ed="#B" n="54"/>onem / quod vicem verum matrimonium mutuo de 
+      prae<lb ed="#B" n="55" break="no"/>senti expresso consensu completur. Tunc ad 
+      ar<lb ed="#B" n="56" break="no"/>gumenta
+</p>
+               <p xml:id="WuV37d-f82587-d1e1351">
+¶ Ad primum ditur / quod ad certitudinem 
+      <lb ed="#B" n="57"/>matrimonii requiritur probabilitas non demon 
+      <lb ed="#B" n="58"/>stratio: et hoc potest haberi de consensu.
+</p>
+               <p xml:id="WuV37d-f82587-d1e1358">
+¶ Ad 
+      <lb ed="#B" n="59"/>secundum dicitur / quod in reliquis contractibus 
+      praesuppo<lb ed="#B" n="60" break="no"/>nitur consensus / ad magistrum dictum est in 
+      pri<lb ed="#B" n="61" break="no"/>ma conclusione.
+</p>
+               <p xml:id="WuV37d-f82587-d1e1367">
+¶ Ad tertium patem quod pater non  
+      <lb ed="#B" n="62"/>potest filium aut filiam dare matrimonio ipso 
+      vel<lb ed="#B" n="63" break="no"/>ipsa reclamante: et dato quod sit patris: non 
+      ta<lb ed="#B" n="64" break="no"/>mem isto modo nec etiam pro omni tempore.
+</p>
+            </div>
+            <div xml:id="WuV37d-f82587-Dd1e1377" type="et-conclusiones">
+               <head xml:id="WuV37d-f82587-Hd1e1379">Conclusiones</head>
+               <p xml:id="WuV37d-f82587-d1e1382">
+¶ Ex ista  
+      <lb ed="#B" n="65"/>dis. sicut de praece. tres etc.
+</p>
+               <p xml:id="WuV37d-f82587-d1e1387">
+¶ Prima con tn 
+      <lb ed="#B" n="66"/>clusio: Est verum communiugium ex consensibus non 
+      <lb ed="#B" n="67"/>connubium ex corporibus. Dicit conclusio quod verum 
+      <lb ed="#B" n="68"/>communiugium fit ex mutuo consensu de praesenti ex 
+      <lb ed="#B" n="69"/>praesso / plusquam ex commixtione carnali. Et po 
+      <lb ed="#B" n="70"/>nitur a principio di. vsque ad illud. c. Quidam 
+      <lb ed="#B" n="71"/>tamen asserunt verum communiugium.
+</p>
+               <p xml:id="WuV37d-f82587-d1e1403">
+¶ Secunda conclor 
+      <lb ed="#B" n="72"/>Carnali copula solum coniugium fit vt fert 
+      <lb ed="#B" n="73"/>impium haeresis notula. Dicit conclusio quod matri 
+      <lb ed="#B" n="74"/>monium solum fit in carnali copula: vt dicunt 
+      <lb ed="#B" n="75"/>haeretici. Et ponitur ab illo. c. Quidam tamen 
+      <lb ed="#B" n="76"/>asserunt etc. vsque ibi: his autem respondemus etc. 
+      </p>
+               <p xml:id="WuV37d-f82587-d1e1416">
+                  <lb ed="#B" n="77"/>¶ Tertia conclusio: Sponsae ratio est 
+      multi<lb ed="#B" n="78" break="no"/>pharie / vnde plenarie patet solutio. Dicit 
+      com<lb ed="#B" n="79" break="no"/>clusio quod distinctio sponsae euacuat 
+      funda<lb ed="#B" n="80" break="no"/>mentum haereticorum. Et ponitur ab illo. c. His 
+      <lb ed="#B" n="81"/>etc. vsque ad sinem distinctionis.
+</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

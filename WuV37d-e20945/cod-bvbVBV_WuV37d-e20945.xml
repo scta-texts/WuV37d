@@ -1,0 +1,621 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 17</title>
+            <author ref="#WilliamDeVaurouillon">William de Vaurouillon</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 17</title>
+               <date when="2021-06-19">June 19, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-bvbVBV">Basel 1510</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-06-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="45-r"/>
+            <cb ed="#B" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="WuV37d-e20945"><!-- l1d17 -->
+            <head xml:id="WuV37d-e20945-Hd1e108">Distinctio 17</head>
+            <div xml:id="WuV37d-e20945-Dd1e111" type="circa-textum">
+               <head xml:id="WuV37d-e20945-Hd1e113">Circa textum</head>
+               <p xml:id="WuV37d-e20945-d1e116">
+                  <lb ed="#B" n="60"/>Distinctio decima septima in qua 
+      <lb ed="#B" n="61"/>magister agit de missione 
+      spiritus<lb ed="#B" n="62" break="no"/>sancti inuisibili. 
+      <lb ed="#B" n="63"/>Am nunc acceda 
+      <lb ed="#B" n="64"/>mus ad assignandam missionem 
+      <lb ed="#B" n="65"/>spius sancti quae inuisibiliter mitti 
+      <lb ed="#B" n="66"/>tur in corda fidelium etc. Hic incipit 
+      <lb ed="#B" n="67"/>7. dist. huius primi quae ita continuatur ad 
+      <lb ed="#B" n="68"/>praecedentes: nam postquam in praecedenti di 
+      <lb ed="#B" n="69"/>stinctione egit magister de missione spiritus 
+      <lb ed="#B" n="70"/>visibili. Nunc in ista tractat de inuisibili. 
+      <lb ed="#B" n="71"/>Et diuiditur in tres partes. Primo enim 
+      prae<lb ed="#B" n="72" break="no"/>dictorum inseritur vtilis repetitio. Secun 
+      <lb ed="#B" n="73"/>do de missione inuisibili spiritus: 
+      magi<lb ed="#B" n="74" break="no"/>stri tangitur opinio. Tertio sue 
+      opinio<lb ed="#B" n="75" break="no"/>nis datur defensio. secunda incipit ibi. Hic 
+      <lb ed="#B" n="76"/>autem vt intelligibili. tertia ibi. Hic quaeritur 
+      <lb ed="#B" n="77"/>si charitas spiritus sanctus est etc. Secun 
+      <lb ed="#B" n="78"/>da iterum particula in qua de missione inui 
+      <lb ed="#B" n="79"/>sibili agit secundum suam opinionem prima 
+      par<lb ed="#B" n="80" break="no"/>te indiuisa manente partitur in tres. In 
+      pri<lb ed="#B" n="81" break="no"/>ma sanctispus veri amoris inuisibilem notifi 
+      <lb ed="#B" n="82"/>cat missionem. In secunda ex vi tenoris 
+      tan<lb ed="#B" n="83" break="no"/>te rei dat confirmationem. In tertia stilo 
+      re<lb ed="#B" n="84" break="no"/>thoris de tacto infert epilogationem. 
+      secun<lb ed="#B" n="85" break="no"/>da incipit ibi. Ne autem in re tanta etc. tertia 
+      <lb ed="#B" n="86"/>ibi. Ecce hic aperitur quod supra dictum 
+      <lb ed="#B" n="87"/>est etc. Secunda autem et tertia partibus indi 
+      <lb ed="#B" n="88"/>uisis manentibus sola prima pars diuiditur 
+      <lb ed="#B" n="89"/>in tres principales. In prima ostendit quod 
+      <lb ed="#B" n="90"/>amor quo deum et proximum diligimus est idem 
+      <lb ed="#B" n="91"/>penitus. In secunda quod ille amor est 
+      spiri<lb ed="#B" n="92" break="no"/>tus sanctus. In tertia quod non causaliter sed per 
+      es<lb ed="#B" n="93" break="no"/>sentiam est amor funditus. Secunda 
+      inci<lb ed="#B" n="94" break="no"/>pit ibi. Cum autem fraterna dilectio sit deus 
+      <lb ed="#B" n="95"/>etc. tertia ibi. Sed ne forte aliquis dicat 
+      il<lb ed="#B" n="96" break="no"/>lud dictum esse etc. Et sequitur illa pars: hic quaeri¬ 
+      <!--107.xml-->
+      <pb ed="#B" n="45-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>tur: si charitas spiritus sanctus est etc. In 
+      <lb ed="#B" n="2"/>qua postquam magister suam tetigit 
+      opinio<lb ed="#B" n="3" break="no"/>nem: nunc opinioni suae dat defensionem: et 
+      <lb ed="#B" n="4"/>diuiditur in tres partes secundum quod magistri 
+      <lb ed="#B" n="5"/>opinio potest tripliciter impugnari. Pri 
+      <lb ed="#B" n="6"/>mo ratione: secundo autortoritate: tertio ra 
+      <lb ed="#B" n="7"/>tione et auctoritate simul. Primo ergo contra 
+      <lb ed="#B" n="8"/>suam opinionem obiicit forti ratione: quia 
+      chari<lb ed="#B" n="9" break="no"/>ras augetur: sed non spiritus sanctus. In se 
+      <lb ed="#B" n="10"/>cunda auctoritatis confirmatione: quia dicit 
+      <lb ed="#B" n="11"/>augustinus quod charitas creata est a spiritusancto. 
+      <lb ed="#B" n="12"/>In tertia auctoritatis atque rationis combi 
+      <lb ed="#B" n="13"/>natione: quia charitas est animi affectio 
+      <lb ed="#B" n="14"/>vt videtur: et hoc etiam innuit Augustinus 
+      se<lb ed="#B" n="15" break="no"/>cunda incipit ibi. Supradictum est quod 
+      spiri<lb ed="#B" n="16" break="no"/>tus sanctus etc. tertia ibi. Alias quoque 
+      in<lb ed="#B" n="17" break="no"/>ducunt rationes etc. Et haec est diuisio 
+      prae<lb ed="#B" n="18" break="no"/>sentis distinctionis in generali. 
+      </p>
+            </div>
+            <div xml:id="WuV37d-e20945-Dd1e245">
+               <head xml:id="WuV37d-e20945-Hd1e247">Quaestio</head>
+               <p xml:id="WuV37d-e20945-d1e250">
+                  <lb ed="#B" n="19"/>¶ Quaestio ista declarat 
+      necessita<lb ed="#B" n="20" break="no"/>tem charitatis in natura 
+      beatifica<lb ed="#B" n="21" break="no"/>bili ad hoc vt deo acceptetur: de qua 
+      <lb ed="#B" n="22"/>Scotus dist. 17. q. 1. in qua notatur 
+      <lb ed="#B" n="23"/>magister sententiarum quem Scotus 
+      fi<lb ed="#B" n="24" break="no"/>deliter saluat. 
+      <lb ed="#B" n="25"/>Arca quam mo 
+      <lb ed="#B" n="26"/>uetur talis titulus questionis. 
+      <lb ed="#B" n="27"/>Utrum charitas infusa in 
+      meri<lb ed="#B" n="28" break="no"/>to praeter increatam de necessitate 
+      requi<lb ed="#B" n="29" break="no"/>ratur. Et arguo quod sic: triplici medio. Pri 
+      <lb ed="#B" n="30"/>mo sic: quandocumque aliqua sunt essentiali 
+      <lb ed="#B" n="31"/>ter ordinata nequit esse posterius sine pri 
+      <lb ed="#B" n="32"/>mo: sed virtutes sunt huiusmodi: et inter 
+      <lb ed="#B" n="33"/>eas charitas est summa: igitur in merito 
+      <lb ed="#B" n="34"/>necessario requiritur: cum meritum sit opus 
+      <lb ed="#B" n="35"/>virtuosum. maior patet ex quo: quid est 
+      <lb ed="#B" n="36"/>ordinis essentialis: sicut quia materia prior est 
+      <lb ed="#B" n="37"/>per essentiam toto composito nequit esse 
+      com<lb ed="#B" n="38" break="no"/>positum sine materia: sed minor probatur 
+      <lb ed="#B" n="39"/>per Augstin. 15. de trini. ca. 19. Nullum donum 
+      <lb ed="#B" n="40"/>est excellentius isto dono quod est charitas: 
+      <lb ed="#B" n="41"/>quod etiam sit ordo in virtutibus patet: quia 
+      per<lb ed="#B" n="42" break="no"/>fectior est vna alia: vt iusticia fortitudine 
+      <lb ed="#B" n="43"/>et sapientia scientia etc. Secundo arguitur sic 
+      <lb ed="#B" n="44"/>quando aliquis effectus dependet a duabus 
+      <lb ed="#B" n="45"/>causis equiuocis: vna non causante nequit 
+      <lb ed="#B" n="46"/>esse effectus: sed meritum dependet effectiue: 
+      <lb ed="#B" n="47"/>vt a causis equiuocis a voluntate a chari 
+      <lb ed="#B" n="48"/>tate creata: igitur requirit de necessitate 
+      <!--107.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="49"/>eas vt sit: maior patet ex consimili. Quia 
+      <lb ed="#B" n="50"/>enim secundum Augstin. in. 9. de trinitate. Obiectum 
+      <lb ed="#B" n="51"/>et potentia intellectiua requiruntur ad causandum 
+      <lb ed="#B" n="52"/>noticiam: nequit sine obiecto esse noticia: nec 
+      <lb ed="#B" n="53"/>sine potentia etiam vt videtur de potentia dei. 
+      <lb ed="#B" n="54"/>Sed probatur minor: de voluntate enim patet 
+      <lb ed="#B" n="55"/>quia omne meritum ideo meritum: quia voluntarium 
+      si<lb ed="#B" n="56" break="no"/>cut peccatum: ideo peccatum: quia voluntarium: secundum Aug. 
+      <lb ed="#B" n="57"/>sed de charitate quod requiratur: patet quia 
+      cau<lb ed="#B" n="58" break="no"/>sae indeterminate vt agat requirit 
+      determi<lb ed="#B" n="59" break="no"/>nans: charitas est huiusmodi: quia est causa 
+      <lb ed="#B" n="60"/>minus vniuersalis. Tertio arguo sic: 
+      ni<lb ed="#B" n="61" break="no"/>hil potest supra se eleuari per naturam: sed per 
+      <lb ed="#B" n="62"/>omne meritum se leuat creatura rationalis 
+      <lb ed="#B" n="63"/>supra se. igitur habet aliquid formaliter in 
+      <lb ed="#B" n="64"/>tus diuinum latitans quo iuuatur: 
+      huiusmo<lb ed="#B" n="65" break="no"/>di vocatur creata charitas. maior patet: 
+      <lb ed="#B" n="66"/>quia certis suis limitibus quaelibet continetur 
+      <lb ed="#B" n="67"/>creatura quantum est de se. Sed minor 
+      pa<lb ed="#B" n="68" break="no"/>tet: quia meritum est de se via veniendi ad  
+      <lb ed="#B" n="69"/>beatitudinem ad quam nequit homo ex se 
+      per<lb ed="#B" n="70" break="no"/>uenire. In oppositum arguitur auctoritate 
+      <lb ed="#B" n="71"/>Hiero. et est in littera: dilectio igitur quae est 
+      <lb ed="#B" n="72"/>ex deo et deus est proprie spiritus sanctus  
+      <lb ed="#B" n="73"/>per quem diffunditur in cordibus nostris: deus 
+      <lb ed="#B" n="74"/>charitas per quam nos tota inhabitet 
+      tri<lb ed="#B" n="75" break="no"/>nitas. Ecce clare quod innuit hiero. 
+      chari<lb ed="#B" n="76" break="no"/>tatem quae est in nobis solum esse spicritum sanctum. 
+      </p>
+               <p xml:id="WuV37d-e20945-d1e383">
+                  <lb ed="#B" n="77"/>¶ In ista quaestione sunt tres articuli. 
+      <lb ed="#B" n="78"/>Primus est terminorum declaratiuus 
+      <lb ed="#B" n="79"/>Secundus est quaestionis responsiuus. 
+      <lb ed="#B" n="80"/>Quorum. 
+      <lb ed="#B" n="81"/>Tertius est dubiorum motiuus. 
+      </p>
+               <p xml:id="WuV37d-e20945-d1e396">
+                  <lb ed="#B" n="82"/>¶ Quantum ad primum artic 
+      <lb ed="#B" n="83"/>culum  
+      </p>
+               <p xml:id="WuV37d-e20945-d1e403">
+                  <lb ed="#B" n="84"/>¶ Primus terminus est charitas. Cha 
+      <lb ed="#B" n="85"/>ritas dicitur quasi chara vnitas: et est excel/i 
+      <lb ed="#B" n="86"/>lentissimum dei donum voluntatem perficiens in s 
+      <lb ed="#B" n="87"/>portione superiori ad deum hominem extaticum fa 
+      <lb ed="#B" n="88"/>ciens et in inferiori sui proximi dilectiuum vt 
+      <lb ed="#B" n="89"/>extrahi potest ex. 4. diony. de diui. no. vnde 
+      <lb ed="#B" n="90"/>Aug. in lib. de laude charitatis. Ille tenet 
+      <lb ed="#B" n="91"/>quicquid patet: quicquid latet in diuinis 
+      <lb ed="#B" n="92"/>scripturis qui charitatem seruat in moribus 
+      <lb ed="#B" n="93"/>vel secundum Aug. in li. de moribus ecclesie Chari 
+      <lb ed="#B" n="94"/>tas est rectissima animi affectio. 
+</p>
+               <p xml:id="WuV37d-e20945-d1e430">
+¶ 
+      No<lb ed="#B" n="95" break="no"/>to vlterius quod ista tria gratia / charitas: et 
+      <lb ed="#B" n="96"/>sapientia vt est. 7. donum sanctispuns sunt idem 
+      <lb ed="#B" n="97"/>in re differunt tamen in modo. vnde secundum doct. sub. li. 2. per 
+      <lb ed="#B" n="98"/>Braenta differt a charitate in hoc licem sint eadem 
+      <!--108.xml-->
+      <pb ed="#B" n="46-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>virtus: quia gratia est quasi superioris ad infcriorem 
+      <lb ed="#B" n="2"/>Charitas vero quasi inferioris ad superio 
+      <lb ed="#B" n="3"/>rem. Unde principes dicuntur habere suos 
+      sub<lb ed="#B" n="4" break="no"/>ditos gratos: et dicunt iste est mihi gratus 
+      <lb ed="#B" n="5"/>et subditi dicuntur habere suos principes 
+      <lb ed="#B" n="6"/>charos: vnde dicunt: dominus meus est mi 
+      <lb ed="#B" n="7"/>hi charus. Sic loquendo proprie deus 
+      <lb ed="#B" n="8"/>dicitur nos habere gratos et nos dicimur 
+      <lb ed="#B" n="9"/>habere charum deum.
+</p>
+               <p xml:id="WuV37d-e20945-d1e467">
+¶ Ulterius secundum do 
+      <lb ed="#B" n="10"/>cto. deuo. in. 3. in materia donorum et in 
+      <lb ed="#B" n="11"/>ista distinctione dubio litterali quarto: dif 
+      <lb ed="#B" n="12"/>ferunt charitas et sapientia: nam charitas 
+      <lb ed="#B" n="13"/>dicit ipsum affectum voluntatis in deum: sed 
+      <lb ed="#B" n="14"/>sapientia addit quendam gustum diuinitatis 
+      <lb ed="#B" n="15"/>iam habitum de quo dauid. Gustate et 
+      vi<lb ed="#B" n="16" break="no"/>dete quoniam suauis est dominus. Et ideo dicitur sa 
+      <lb ed="#B" n="17"/>pientia a sapore quasi sapida scientia. 
+      <lb ed="#B" n="18"/>
+               </p>
+               <p xml:id="WuV37d-e20945-d1e489">
+¶ Noto tertio quod triplex est charitas scilice 
+      <lb ed="#B" n="19"/>increata / infusa / et acquisita. Increata 
+      cha<lb ed="#B" n="20" break="no"/>ritas dicitur tripliciter. Uno modo dicitur 
+      quod<lb ed="#B" n="21" break="no"/>dam commune tribus personis et se habet 
+      per<lb ed="#B" n="22" break="no"/>modum habitus in diuina voluntate. Secun 
+      <lb ed="#B" n="23"/>do dicitur charitas vt appropriatur patri: vnde 
+      <lb ed="#B" n="24"/>in quadam prosa canitur. Charitas est pater 
+      <lb ed="#B" n="25"/>et ratio huius appropriationis est: quia 
+      so<lb ed="#B" n="26" break="no"/>lus pater secundum Rich. dicitur habere amorem 
+      <lb ed="#B" n="27"/>gratuitum: quia tribuit et non accipit. Secundo 
+      <lb ed="#B" n="28"/>filio: quia charitate incarnatus est. 
+      Ter<lb ed="#B" n="29" break="no"/>tio modo dicitur charitas quoddam appro 
+      <lb ed="#B" n="30"/>priatum spiritui sancto: vnde isto modo potem 
+      <lb ed="#B" n="31"/>tia appropriatur patri: sapientia filio: cha 
+      <lb ed="#B" n="32"/>ritas spiritui sancto: et ratio appropriationis 
+      <lb ed="#B" n="33"/>est: quia per modum exit voluntatis cuius est cha 
+      <lb ed="#B" n="34"/>ritas habitus. Secundo dicitur charitas in 
+      <lb ed="#B" n="35"/>fusa: et illa dicitur charitas quae ab increa 
+      <lb ed="#B" n="36"/>ta diuinis influxibus solum in voluntates 
+      <lb ed="#B" n="37"/>aut angelicas aut nostras mittitur. Tertio 
+      <lb ed="#B" n="38"/>dicitur charitas acquisita: et ista est quae ex 
+      <lb ed="#B" n="39"/>dilectione dei frequenti ex naturalibus 
+      ac<lb ed="#B" n="40" break="no"/>quiritur quam gentilium multi habere 
+      potue<lb ed="#B" n="41" break="no"/>runt: vnde sicut distinguitur fides in infu 
+      <lb ed="#B" n="42"/>sam et acquisitam. Ita dico de charitate: 
+      <lb ed="#B" n="43"/>vnde ista tria se habent per ordinem:. vt in 
+      <lb ed="#B" n="44"/>nuitur dist. 12. huius primi a magistro vni 
+      <lb ed="#B" n="45"/>tas / sanctitas / et charitas. Unitas enim di 
+      <lb ed="#B" n="46"/>citur inquantum amor corda vnit 
+      amanti<lb ed="#B" n="47" break="no"/>um: vnde in. 4. de diuinis nomnibus ex dicto Dio 
+      <lb ed="#B" n="48"/>nysii. Amorem dicimus vnitiuam et 
+      conti<lb ed="#B" n="49" break="no"/>nuatiuam virtutem. Sanctitas autem addit 
+      <!--108.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>supra ista vnitatem quod amor sit purus et 
+      <lb ed="#B" n="51"/>mundus: vnde Dionysius. 12. de diui. 
+      no<lb ed="#B" n="52" break="no"/>diffiniens sanctitatem dicit igitur. 
+      Sancti<lb ed="#B" n="53" break="no"/>tas quidem est vt secundum nos dicatur ab omni 
+      <lb ed="#B" n="54"/>immundicia libera et perfecta et omnino 
+      im<lb ed="#B" n="55" break="no"/>maculata mundicia. Charitas vero super 
+      <lb ed="#B" n="56"/>vnitatem et sanctitatem addit quod amatum sit 
+      <lb ed="#B" n="57"/>valde appreciabile.
+</p>
+               <p xml:id="WuV37d-e20945-d1e580">
+¶ Sequitur secun 
+      <lb ed="#B" n="58"/>dus terminus. Infusa charitas quae 
+      da<lb ed="#B" n="59" break="no"/>tur nobis a deo: habet tria de communi 
+      <lb ed="#B" n="60"/>nomina: infusa / effusa / et diffusa. Et dicitur in 
+      <lb ed="#B" n="61"/>fusa inquantum infunditur in nobis a primo 
+      <lb ed="#B" n="62"/>agente: quasi intus fusa a fundo dis: 
+      Dici<lb ed="#B" n="63" break="no"/>tur effusa inquantum ad extra per bona re 
+      <lb ed="#B" n="64"/>lucet opera: quasi extra fusa. Dicitur 
+      dif<lb ed="#B" n="65" break="no"/>fusa inquantum ad opera interiora bona se 
+      <lb ed="#B" n="66"/>diffundit. quasi de intus fusa.
+</p>
+               <p xml:id="WuV37d-e20945-d1e602">
+¶ Tertius  
+      <lb ed="#B" n="67"/>terminus est meritum. vnde meritum secundum 
+      <lb ed="#B" n="68"/>doct. subti. in hac dist. q. 1. arti. 
+      princi<lb ed="#B" n="69" break="no"/>pali primo est actus libere voluntatis medi 
+      <lb ed="#B" n="70"/>ante dono gratiae elicitus a diuina volunta 
+      <lb ed="#B" n="71"/>te acceptus vt praemiabilis beatitudine: et 
+      <lb ed="#B" n="72"/>dicitur a mereor. ris. vnde in merito tria 
+      <lb ed="#B" n="73"/>sunt. Primum actus substantia: et istud est quod 
+      <lb ed="#B" n="74"/>dam ens reale absolutum de praedicamento quali 
+      <lb ed="#B" n="75"/>tatis. Secundum productio passiua: quia iste) 
+      <lb ed="#B" n="76"/>actus a voluntate elicitur: et istud est quidam 
+      <lb ed="#B" n="77"/>respectus de praedicamento passionis. 
+      Ter<lb ed="#B" n="78" break="no"/>tium est acceptatio passiua cui actiua 
+      corre<lb ed="#B" n="79" break="no"/>spondet in deo: et istud est ens solum ratio 
+      <lb ed="#B" n="80"/>nis: et dicitur formale meriti. Noto 
+      fina<lb ed="#B" n="81" break="no"/>liter quod meritum capitur tripliciter. Primo: 
+      <lb ed="#B" n="82"/>vt ad solum bonum ordinatur: et sic capitur 
+      com<lb ed="#B" n="83" break="no"/>muniter. Secundo capitur vt ordinatur ad 
+      <lb ed="#B" n="84"/>malum seu paenam: et sic dicuntur merita mala 
+      <lb ed="#B" n="85"/>Unde Augustinus in li. de libero arbitrio legem di 
+      <lb ed="#B" n="86"/>uinam diffiniens dicit: quod lex diuina quedam 
+      <lb ed="#B" n="87"/>summa ratio intelligenda est: cui semper 
+      ob<lb ed="#B" n="88" break="no"/>temperandum est: per quam boni vitam mali 
+      pae<lb ed="#B" n="89" break="no"/>nam merentur aeternam. Tertio capitur pro quaedam cor 
+      <lb ed="#B" n="90"/>huic et illi mexito: et tantum de primo articulo. 
+      <lb ed="#B" n="91"/>Quantum ad secudii 
+      arti<lb ed="#B" n="92" break="no"/>culum 
+      <lb ed="#B" n="93"/>sunt tres conclusiones.
+</p>
+               <p xml:id="WuV37d-e20945-d1e663">
+¶ Prima est 
+      <lb ed="#B" n="94"/>de potentia absoluta dei: potest quis cha 
+      <lb ed="#B" n="95"/>rus esse deo sola charitate increata. 
+      pro<lb ed="#B" n="96" break="no"/>bo istam conclusionem sic. Quandocunquam 
+      <lb ed="#B" n="97"/>in aliquo ordine agentium sunt multae 
+      cau<lb ed="#B" n="98" break="no"/>sae: quod potest deus per illas multas causas potest et 
+      <!--109.xml-->
+      <pb ed="#B" n="46-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>per seipsum. Sed deus per charitatem crea 
+      <lb ed="#B" n="2"/>tam potest efficere voluntatem nostram sibi 
+      <lb ed="#B" n="3"/>charam: ergo et sine charitate creata: mi 
+      <lb ed="#B" n="4"/>nor patet de se: sed maior declaratur sic: cau 
+      <lb ed="#B" n="5"/>salitas enim causae actiuae inquantum sic: non 
+      di<lb ed="#B" n="6" break="no"/>cit imperfectionem: et per consequens cum in deo omnis 
+      <lb ed="#B" n="7"/>sit perfectio sine imperfectione poterit ab 
+      <lb ed="#B" n="8"/>eo suppleri. Qui enim potuit abel per Adan 
+      <lb ed="#B" n="9"/>creare potuit seipso facere. Ita de 
+      consi<lb ed="#B" n="10" break="no"/>milibus: dixi tamen notanter in maiori in 
+      <lb ed="#B" n="11"/>genere causae effectiuae quia in genere cau 
+      <lb ed="#B" n="12"/>sae materialis seu formalis non potest: non 
+      <lb ed="#B" n="13"/>enim potest farere hominem quin habeat 
+      cor<lb ed="#B" n="14" break="no"/>pus et animam: et ratio est: quia causalitas 
+      <lb ed="#B" n="15"/>materiae et formae important rationem 
+      par<lb ed="#B" n="16" break="no"/>tis quae non est ponenda in deo. Ex quo 
+      in<lb ed="#B" n="17" break="no"/>fero quod sanctus Thomas hac distinctione 
+      <lb ed="#B" n="18"/>in scripto suo. q. 1. non satis dicit: dicendo 
+      <lb ed="#B" n="19"/>quod anima non potest esse in esse gratuito 
+      si<lb ed="#B" n="20" break="no"/>ne charitate creata: sicut nec aliquod album 
+      <lb ed="#B" n="21"/>sine albedine informante: patet quod hoc est 
+      <lb ed="#B" n="22"/>falsum: nam sola charitate increata potes 
+      <lb ed="#B" n="23"/>mens esse chara deo: nec est simile quod obii 
+      <lb ed="#B" n="24"/>cit quod nequit esse album sine albedine: 
+      albe<lb ed="#B" n="25" break="no"/>do enim denominat suum subiectum 
+      intrin<lb ed="#B" n="26" break="no"/>sece: charitas autem solum increata denomnins 
+      <lb ed="#B" n="27"/>ret extrinsece. Et est exemplum clarissimum 
+      <lb ed="#B" n="28"/>quando enim video parietem paries dicitui 
+      <lb ed="#B" n="29"/>visus: quaero a sancto Thoma in quo est 
+      <lb ed="#B" n="30"/>visio: ipse non diceret quod in pariete: quia 
+      <lb ed="#B" n="31"/>non habet oculos: et tamen dicitur visus 
+      vi<lb ed="#B" n="32" break="no"/>sione quae non est in ipso. Sed occurrit nunc 
+      <lb ed="#B" n="33"/>dubium quare non potest deus facere 
+      pa<lb ed="#B" n="34" break="no"/>rietem album sine albedine: et tamen 
+      po<lb ed="#B" n="35" break="no"/>test facere animam charam sine charitate 
+      cre<lb ed="#B" n="36" break="no"/>ata. Respondeo solutio petenda est a doc. 
+      sub<lb ed="#B" n="37" break="no"/>tili. dist. 2. huius primi. q. 3. in solu. 
+      argu<lb ed="#B" n="38" break="no"/>penultimi. dicit enim quod entium aliqua sunt 
+      <lb ed="#B" n="39"/>quae dicunt perfectionem simpliciter in sua 
+      <lb ed="#B" n="40"/>ratione formali: et ista quando transferuntur 
+      <lb ed="#B" n="41"/>ad deum remanent in propria ratione remota 
+      <lb ed="#B" n="42"/>sola limitatione: sicut bonitas / veritas: 
+      <lb ed="#B" n="43"/>simliter charitas: nam deus dicitur bonus 
+      ve<lb ed="#B" n="44" break="no"/>rus / charus: et in huiusmodi potest supple 
+      <lb ed="#B" n="45"/>re effectum formalem quem habebat forma: 
+      <lb ed="#B" n="46"/>alia autem sunt quae dicunt imperfectionem de 
+      <lb ed="#B" n="47"/>sua ratione formali: et ista quando transferuntur 
+      <lb ed="#B" n="48"/>ad deum non remanent in propria ratione forma 
+      <lb ed="#B" n="49"/>li sed solum in quadam eminentia: et huiusmo¬ 
+      <!--109.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>di est albedo et consimilia. Unde ista non 
+      <lb ed="#B" n="51"/>conceditur: deus est albus: et in huiusmodi non 
+      <lb ed="#B" n="52"/>supplet deus effectum formalem nec potest: quia 
+      <lb ed="#B" n="53"/>tunc esset pars compositi: quod est 
+      impossi<lb ed="#B" n="54" break="no"/>le. Confirmatur tota conclusio ponamus quod an 
+      <lb ed="#B" n="55"/>geli sint creati in puris naturalibus sicut 
+      <lb ed="#B" n="56"/>multi ponunt. Ponamus idem secundo de adan 
+      <lb ed="#B" n="57"/>in illo tunc statu poterat deus eos diligere: 
+      <lb ed="#B" n="58"/>et per consequens erant dilecti: et sine tamen creata 
+      <lb ed="#B" n="59"/>(per casum) charitate. Ponamus tertio si 
+      <lb ed="#B" n="60"/>cut est possibile quod deus creet hominem vnum 
+      <lb ed="#B" n="61"/>modo in puris naturalibus. Quaero qua 
+      <lb ed="#B" n="62"/>liter deus se habebit ad eum: aut tamquam 
+      ami<lb ed="#B" n="63" break="no"/>cus: aut tanquam non amicus: si vt amicus 
+      pa<lb ed="#B" n="64" break="no"/>tet quod sine charitate creata potest esse cha 
+      <lb ed="#B" n="65"/>rus deo: si non amicus: quaero vnde surgit ista 
+      <lb ed="#B" n="66"/>non amicitia: non ex parte hominis: quia per casum 
+      <lb ed="#B" n="67"/>nullum habet peccatum: nec ex parte dei qui 
+      <lb ed="#B" n="68"/>suam diligit creaturam. igitur videtur conclusio 
+      <lb ed="#B" n="69"/>vera.
+</p>
+               <p xml:id="WuV37d-e20945-d1e838">
+¶ Secunda conclusio: de potentia dei 
+      <lb ed="#B" n="70"/>ordinata: nemo sine creata charitate 
+      me<lb ed="#B" n="71" break="no"/>reri dicitur: probatur conclusio: quandocumque ab ali 
+      <lb ed="#B" n="72"/>quo acceptante tota operis dependet 
+      appre<lb ed="#B" n="73" break="no"/>ciabilitas nequit operans actum suum dignum 
+      <lb ed="#B" n="74"/>facere acceptationis: nec praeparare nisi elici 
+      <lb ed="#B" n="75"/>at sicut imperat acceptans: et sicut vult: sed 
+      <lb ed="#B" n="76"/>quod operatur homo intantum habet rationem 
+      <lb ed="#B" n="77"/>meriti inquantum deus acceptat et non plus 
+      <lb ed="#B" n="78"/>igitur debet elici vt deus vult: sed deus vult 
+      <lb ed="#B" n="79"/>vt prius sit grata voluntas et ordinata 
+      cha<lb ed="#B" n="80" break="no"/>ritate quam eliciat: igitur nequit nisi sic mereri 
+      <lb ed="#B" n="81"/>maior patet: quia facere opposito modo volum 
+      <lb ed="#B" n="82"/>tati acceptantis est proucare acceptantem 
+      <lb ed="#B" n="83"/>ad puniendum non ad dandum praemia: minor 
+      <lb ed="#B" n="84"/>prima probatur: quis enim diceret quod solus 
+      <lb ed="#B" n="85"/>actus sit condignus vita aeterna nisi quia 
+      <lb ed="#B" n="86"/>deus vult. Sed probatur secunda minor 
+      au<lb ed="#B" n="87" break="no"/>ctoritate sacri canonis in locis pluribus: 
+      <lb ed="#B" n="88"/>et Augustinus in li. quique heresum.
+</p>
+               <p xml:id="WuV37d-e20945-d1e882">
+¶ Ex ista con 
+      <lb ed="#B" n="89"/>clusione eliditur error pessimus pellagii et quae 
+      <lb ed="#B" n="90"/>rundam begardorum et beginarum: qui 
+      po<lb ed="#B" n="91" break="no"/>suerunt quod ex puris naturalibus potest quis 
+      <lb ed="#B" n="92"/>mereri vitam aeternam. vt a Iohe. 22. innuitur 
+      <lb ed="#B" n="93"/>inclemen: patet satis ex predictis. 
+      Ter<lb ed="#B" n="94" break="no"/>tia conclusio. probabiliter potest dici magistrum 
+      cha<lb ed="#B" n="95" break="no"/>ritatem creatam non negasse. Ista conclusio probatur 
+      <lb ed="#B" n="96"/>argumento doc. solenis: quod facit de philosophis. 
+      <lb ed="#B" n="97"/>et applico huic materie non est verisimiliter 
+      <lb ed="#B" n="98"/>hominem tam eleuatum: tam tritum in diuinis itris: 
+      <!--110.xml-->
+      <pb ed="#B" n="47-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>sicut fuit magister in eodem libro satis par 
+      <lb ed="#B" n="2"/>uo: sicut est sententiarum textus: contradixis 
+      <lb ed="#B" n="3"/>se sibimet: sed alibi posuit charitatem 
+      crea<lb ed="#B" n="4" break="no"/>tam. igitur hic non negauit. Probatur minor: 
+      <lb ed="#B" n="5"/>vnde in. 2. dist. 26. magister in ca. 
+      pelagia<lb ed="#B" n="6" break="no"/>norum heresis: dicit illam ergo gratiam dei 
+      si<lb ed="#B" n="7" break="no"/>ne qua nihil boni possumus facere non esse 
+      di<lb ed="#B" n="8" break="no"/>cunt nisi in libero arbitrio etc. loquitur de sanctis 
+      <lb ed="#B" n="9"/>qui hoc dicunt. Si ergo est in libero 
+      arbi<lb ed="#B" n="10" break="no"/>trio oportet quod vt acciesens. Item in. 27. dist. 
+      <lb ed="#B" n="11"/>1. quoque mirabile illud allegat Aug. ad Dar 
+      <lb ed="#B" n="12"/>danum: et dicit quod pueri baptimati pertinent 
+      <lb ed="#B" n="13"/>ad templum dei: et tamen certum est quod hoc non 
+      <lb ed="#B" n="14"/>est per opera sua: quia adhuc non habent 
+      <lb ed="#B" n="15"/>velle: ergo oportet quod hoc sit per aliquod 
+      do<lb ed="#B" n="16" break="no"/>num creatum eos sanctificans et illud voco 
+      <lb ed="#B" n="17"/>charitatem. Et si dicatur quod hoc est contra inten 
+      <lb ed="#B" n="18"/>tionem textus: quia dicit magister in ista di 
+      <lb ed="#B" n="19"/>stinctione: non ita dicitur deo tu es charitas 
+      <lb ed="#B" n="20"/>mea: sed dicitur tu es charitas: sicut dicitur 
+      <lb ed="#B" n="21"/>tu es patientia mea: et tu es spes mea: 
+      vbi<lb ed="#B" n="22" break="no"/>videtur innuere quod dicitur tu es spes mea: 
+      <lb ed="#B" n="23"/>quia efficit in nobis specie: sed non dicitur tu 
+      <lb ed="#B" n="24"/>es charitas mea sed charitas: quia non 
+      ef<lb ed="#B" n="25" break="no"/>ficit in nobis charitatem: sed est ipsa 
+      chari<lb ed="#B" n="26" break="no"/>tas: dico quod non est tota ratio sed ratio 
+      praeci<lb ed="#B" n="27" break="no"/>pua est: quia charitas dicit perfectionem sim 
+      <lb ed="#B" n="28"/>plicitur: ideo dicitur de deo vere: non sic spes: 
+      <lb ed="#B" n="29"/>ion non difiter de deo nisi effectiue: et ita non 
+      ne<lb ed="#B" n="30" break="no"/>gat magister charitatem creatam: sed ponit 
+      <lb ed="#B" n="31"/>increatam. Addo quod intimius se habet ad 
+      cha<lb ed="#B" n="32" break="no"/>ritatis donum quam ad caetera: quia potest esse donum 
+      <lb ed="#B" n="33"/>spei: aut fidei in homine: quamuis non inhabitet 
+      <lb ed="#B" n="34"/>deus: sed immediate infusa gratia 
+      habi<lb ed="#B" n="35" break="no"/>tat spiritus sanctus ideo non est consimile: vnde si 
+      <lb ed="#B" n="36"/>non sunt imponenda alicui grauioraquam fece 
+      <lb ed="#B" n="37"/>rit: non videtur hoc saluo meliori iudicio im 
+      <lb ed="#B" n="38"/>ponendum magistro: quod scilicet charitatem 
+      nega<lb ed="#B" n="39" break="no"/>uerit creatam: cum etiam leges et decreta in piis 
+      <lb ed="#B" n="40"/>et dubiis fauendum esse potius reo quam actori 
+      <lb ed="#B" n="41"/>censeant: hoc expresse habetur in suina doc. 
+      <lb ed="#B" n="42"/>subti. q. 1. huius dist. arti. 3. Et in idem 
+      ve<lb ed="#B" n="43" break="no"/>nit doc. deuotus hac dist. dicit in sententia: 
+      <lb ed="#B" n="44"/>quod charitas potest capi tripliciter. Uno modo 
+      <lb ed="#B" n="45"/>effectiue: et sic est communis toti trinitati: 
+      <lb ed="#B" n="46"/>quia tres in nobis efficiunt charitatem. Aut se 
+      <lb ed="#B" n="47"/>cundo exemplariter: et sic est appropriata 
+      spi<lb ed="#B" n="48" break="no"/>tuisancto: qui est nexus patris et filii. Aut 
+      <lb ed="#B" n="49"/>tertio formaliter: et tunc dicit quod magister 
+      <!--110.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>dicit quod est animi affectio bona: et addit quod 
+      <lb ed="#B" n="51"/>magister non errauit sed defecit: hunc 
+      defe<lb ed="#B" n="52" break="no"/>ctum ego accipio: quia non habitu sed actum 
+      ex<lb ed="#B" n="53" break="no"/>pressit charitatem cum tamen sit habitus: et hoc 
+      <lb ed="#B" n="54"/>de secundo articulo. 
+      <lb ed="#B" n="55"/>Quo ad tertium articulum sunt 
+      <lb ed="#B" n="56"/>res difficul a 
+      <lb ed="#B" n="57"/>tates iuxta tres conclusiones.
+</p>
+               <p xml:id="WuV37d-e20945-d1e1041">
+¶ Prima  
+      <lb ed="#B" n="58"/>difficultas: si sola charitate increata es e 
+      <lb ed="#B" n="59"/>set chara voluntas. Utrum in ea esset aliquid in 
+      <lb ed="#B" n="60"/>formaliter: qua chara dicereretur: dico quod sic: 
+      <lb ed="#B" n="61"/>sed illud est solum ens et respectus rationis. 
+      <lb ed="#B" n="62"/>et est exemplum. Unde intelligo lapidem 
+      produ<lb ed="#B" n="63" break="no"/>co lapidem in esse cognito: et hoc esse cogni 
+      <lb ed="#B" n="64"/>tum est ens rationis: et apud Nicolaum 
+      <lb ed="#B" n="65"/>boneti in. 2. metha. suae vocatur quinta 
+      pra<lb ed="#B" n="66" break="no"/>xis: sic si illa charitate increata essemus 
+      cha<lb ed="#B" n="67" break="no"/>ri: quodam respectu rationis formaliter 
+      es<lb ed="#B" n="68" break="no"/>semus tales quamuis realiter a parte dei. 
+      </p>
+               <p xml:id="WuV37d-e20945-d1e1067">
+                  <lb ed="#B" n="69"/>¶ Secunda difficultas: Utrum eadem 
+      ac<lb ed="#B" n="70" break="no"/>ceptatione acceptet deus charitatem creatam dioe 
+      <lb ed="#B" n="71"/>et meritum seu opus bonum: dico quod non: immo per 
+      <lb ed="#B" n="72"/>tum acceptatione charitatis potest stare non 
+      <lb ed="#B" n="73"/>acceptatio operis: sicut quando quas in statu 
+      cha<lb ed="#B" n="74" break="no"/>ritatis facit actum neutrum: vt leuare festu 
+      <lb ed="#B" n="75"/>causa: vel facit peccatum veniale tunc deus 
+      acce<lb ed="#B" n="76" break="no"/>ptat charitatem non actum.
+</p>
+               <p xml:id="WuV37d-e20945-d1e1087">
+¶ Tertia 
+      dif<lb ed="#B" n="77" break="no"/>ficultas. Si magister negasset omnem cha 
+      <lb ed="#B" n="78"/>ritatem creatam. Utrum esset error pelagii. di 
+      <lb ed="#B" n="79"/>co quod non: nam adhuc ponebat secundum omnes quen 
+      <lb ed="#B" n="80"/>dam influxum specialem sanctis piritus mouentem 
+      <lb ed="#B" n="81"/>animam in bonum opus: quod non faciebat 
+      pe<lb ed="#B" n="82" break="no"/>lagius. Et sic patet quid dicendum sit ad. q. 
+      <lb ed="#B" n="83"/>Respondendum est enim quod de lege seu poten 
+      <lb ed="#B" n="84"/>tia ordinata dei non potest quis mereri sine 
+      <lb ed="#B" n="85"/>charitate infusa: licet bene de potentia 
+      ab<lb ed="#B" n="86" break="no"/>soluta. Et tunc ad argumenta.
+</p>
+               <p xml:id="WuV37d-e20945-d1e1111">
+¶ Ad primum 
+      <lb ed="#B" n="87"/>dico: quod abutitur terminis: non est enim idem 
+      <lb ed="#B" n="88"/>ordo essentialis et ordo perfectionis. Ille enim 
+      <lb ed="#B" n="89"/>ordo dicitur essentialis quando aliqua ita se habent 
+      <lb ed="#B" n="90"/>quod vnum de necessitate: aut simpliciter: aut 
+      <lb ed="#B" n="91"/>sepius aliud requirit ad sui esse: sed non sic 
+      <lb ed="#B" n="92"/>est ordo perfectionis: est enim inter illa quae se 
+      <lb ed="#B" n="93"/>non exigunt: sicut homo est perfectior boue 
+      <lb ed="#B" n="94"/>et tamen ad sui esse bos hominem non requirit. 
+      <lb ed="#B" n="95"/>Sic in proposito charitas est perfectior: non 
+      <lb ed="#B" n="96"/>tamen sequitur quod sine illa aliae nequeant esse 
+      <lb ed="#B" n="97"/>virtutes.
+</p>
+               <p xml:id="WuV37d-e20945-d1e1138">
+¶ Ad secundum dico: quod maior 
+      <lb ed="#B" n="98"/>habet veritatem quando effectus nequit aliunde cau 
+      <!--111.xml-->
+      <pb ed="#B" n="47-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>sari: nec ab vna istarum solum: nec tertio 
+      ali<lb ed="#B" n="2" break="no"/>quod agens potest supplere causalitatem 
+      <lb ed="#B" n="3"/>talem: et hoc tertium est in proposito: quia omnem 
+      <lb ed="#B" n="4"/>causalitatem effectiue in absolutis deus 
+      sup<lb ed="#B" n="5" break="no"/>plere potest: et ad exemplum de potentia et obie 
+      <lb ed="#B" n="6"/>cto in cognitione. Dico quod obiectum habet 
+      <lb ed="#B" n="7"/>compatari ad cognitionem dupliciter. 
+      Pri<lb ed="#B" n="8" break="no"/>mo effectiue: quia est causa partialis: et hanc 
+      <lb ed="#B" n="9"/>supplere potest deus. Secundo 
+      terminati<lb ed="#B" n="10" break="no"/>ue: et hanc non: charitas vero solum comparatur 
+      <lb ed="#B" n="11"/>ad meritum effectiue: ideo non est simile. Ad  
+      <lb ed="#B" n="12"/>tertium dico quod licet non esset charitas creata 
+      <lb ed="#B" n="13"/>adhuc esset ille influxus spaialis diuini spi 
+      <lb ed="#B" n="14"/>ritus: ideo non leuaret se naturaliter supra 
+      <lb ed="#B" n="15"/>se natura humana: ideo non currit obiectio¬ 
+      </p>
+            </div>
+            <div xml:id="WuV37d-e20945-Dd1e1183" type="et-conclusiones">
+               <head xml:id="WuV37d-e20945-Hd1e1185">Conclusiones</head>
+               <p xml:id="WuV37d-e20945-d1e1188">
+                  <lb ed="#B" n="16"/>¶ Ex ista distinctione sicut ex aliis 
+      <lb ed="#B" n="17"/>tres elicio conclusiones. Prima est spiritus sanctus 
+      <lb ed="#B" n="18"/>dicitur charitas quae deo penitus nos vnit 
+      <lb ed="#B" n="19"/>vnitas. Dicit conclusio quod spiritus sanctus est il 
+      <lb ed="#B" n="20"/>la charitas qua diligimus et vnimur in amo 
+      <lb ed="#B" n="21"/>re deo: et debet intelligi causaliter: quia in no 
+      <lb ed="#B" n="22"/>bis deus efficit charitatem: et exemplariter 
+      <lb ed="#B" n="23"/>quia sicut in diuinis spiritus sanctus dicitur 
+      <lb ed="#B" n="24"/>nexus amoris patris et filii: sic nos per 
+      cha<lb ed="#B" n="25" break="no"/>ritatem vnimur cum deo et proximo. Et 
+      <lb ed="#B" n="26"/>deducit magister istam conclusionem a 
+      prin<lb ed="#B" n="27" break="no"/>cipio distinctionis vsque ad illud. c. Tunc 
+      <lb ed="#B" n="28"/>enim nobis mitti etc.
+</p>
+               <p xml:id="WuV37d-e20945-d1e1219">
+¶ Secunda conclusio tunc 
+      <lb ed="#B" n="29"/>flamen mittitur inuifibiliter cum iam 
+      dili<lb ed="#B" n="30" break="no"/>gitur deus veraciter. Dicit conclusio quod 
+      spiritus<lb ed="#B" n="31" break="no"/>sanctus dicitur mitti inuisibiliter: quando nos 
+      <lb ed="#B" n="32"/>facit diligere deum. Et deducit istam conclusio 
+      <lb ed="#B" n="33"/>nem magister ab illo ca. Tunc enim nob mitti 
+      <lb ed="#B" n="34"/>etc. vsque ad illud ca. Hic quaeritur si charitas 
+      <lb ed="#B" n="35"/>spiritus sanctus est. etc.
+</p>
+               <p xml:id="WuV37d-e20945-d1e1237">
+¶ Tertia 
+      conclu<lb ed="#B" n="36" break="no"/>sio. Non augmentatur diuinus spiritus 
+      <lb ed="#B" n="37"/>sed quod mutatur nos sumus penitus. Dicit 
+      <lb ed="#B" n="38"/>conclusio quod charitas quae est 
+      spiritussan<lb ed="#B" n="39" break="no"/>ctus non augmentatur nec mutatur: sed 
+      <lb ed="#B" n="40"/>nos mutamur: quando plus aut minus 
+      di<lb ed="#B" n="41" break="no"/>ligimus deum. Et deducit istam 
+      conclusi<lb ed="#B" n="42" break="no"/>onem magister ab illo ca. hoc quaeritur si 
+      cha<lb ed="#B" n="43" break="no"/>ritas spiritus sanctus est: vsque ad finem di 
+      <lb ed="#B" n="44"/>stinctionis. 
+</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,665 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 37</title>
+            <author ref="#WilliamDeVaurouillon">William de Vaurouillon</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 37</title>
+               <date when="2021-06-19">June 19, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-bvbVBV">Basel 1510</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-06-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="218-v"/>
+            <cb ed="#B" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="WuV37d-f01949"><!-- l2d37 -->
+            <head xml:id="WuV37d-f01949-Hd1e108">Distinctio 37</head>
+            <div xml:id="WuV37d-f01949-Dd1e111" type="circa-textum">
+               <head xml:id="WuV37d-f01949-Hd1e113">Circa textum</head>
+               <p xml:id="WuV37d-f01949-d1e116">
+                  <lb ed="#B" n="42"/>Distinctio. 37. in qua magister 
+      <lb ed="#B" n="43"/>determinat de peccati substrata acti 
+      <lb ed="#B" n="44"/>one an scilicet a deo sit occasio qua pec 
+      <lb ed="#B" n="45"/>catum committitur. 
+    </p>
+               <p xml:id="WuV37d-f01949-d1e127">
+      <!--453.xml-->
+                  <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="46"/>Unt autem et 
+      <lb ed="#B" n="47"/>aliiplurimi longe 
+      ali<lb ed="#B" n="48" break="no"/>ter de peccato et actu sen 
+      <lb ed="#B" n="49"/>tientes etc. Hic signatur 
+      <lb ed="#B" n="50"/>37. dist. huius secundi libri 
+      <lb ed="#B" n="51"/>quae sic continuatur ad praecedentes: Nam post 
+      <lb ed="#B" n="52"/>quam in. 35. dist. inquirit magister: an peccatum 
+      <lb ed="#B" n="53"/>sit actus vel: priuatio. Et in. 36. an 
+      pecca<lb ed="#B" n="54" break="no"/>tum sit poena peccati vel punitio: Nunc in praesenti 
+      <lb ed="#B" n="55"/>dist. inquirit an a deo sit peccati mala occa 
+      <lb ed="#B" n="56"/>sio. Et habet diuidi distincti. in tres 
+      par<lb ed="#B" n="57" break="no"/>tes principales. In prima ad dicta 
+      poni<lb ed="#B" n="58" break="no"/>nitur continuatio. In secunda de culpa sequitur 
+      <lb ed="#B" n="59"/>noua opinio. In tertia hac prime tangitur 
+      <lb ed="#B" n="60"/>huic opinio. prima in principio. secunda 
+      <lb ed="#B" n="61"/>ibi. Asserunt enim voluntatem malam etc. tertia 
+      <lb ed="#B" n="62"/>ibi. In hoc autem verbo superioris smina etc. pri 
+      <lb ed="#B" n="63"/>ma parte indiuisa manente. Rursus secun 
+      <lb ed="#B" n="64"/>da pars in qua de culpa sequitur noua opinio: in 
+      <lb ed="#B" n="65"/>tres partes diuiditur. In prima dicta opinio 
+      <lb ed="#B" n="66"/>clare explicatur. In secunda eius defensio pla 
+      <lb ed="#B" n="67"/>ne praesentatur. In tertia quaedam conclusio dictis an 
+      <lb ed="#B" n="68"/>notatur. prima in principio. secunda ibi. Illa quam 
+      <lb ed="#B" n="69"/>aug. etc. tertia ibi. Ex quo colligitur res aliquis 
+      <lb ed="#B" n="70"/>esse etc. Et sequitur illa vltima particula scilicet 
+      <lb ed="#B" n="71"/>In hoc autem verbo: in qua huius secunde opi. 
+      <lb ed="#B" n="72"/>quo ponit quod nilulo modo nec quantum ad positiuum 
+      <lb ed="#B" n="73"/>nec quantum ad deformitatem peccata sunt a deo 
+      <lb ed="#B" n="74"/>Ad primam quae dicit quod sunt a deo tamquam ad 
+      posi<lb ed="#B" n="75" break="no"/>tiuum non deformitatem tangitur opinio. Et ista 
+      <lb ed="#B" n="76"/>pars habet diuidi in tres. In prima varie 
+      opi<lb ed="#B" n="77" break="no"/>nionis panditur controuersia. In secunda vox 
+      <lb ed="#B" n="78"/>eruditionis iungitur monitoria. In tertia listera 
+      <lb ed="#B" n="79"/>braeuvis sermonis secatur dubitatoria. prima 
+      <lb ed="#B" n="80"/>in principio. secunda ibi. Intendat diligenter 
+      <lb ed="#B" n="81"/>his verbis etc. tertia ibi. Cum igitur omnes 
+      <lb ed="#B" n="82"/>in hoc consentiant etc. 
+      </p>
+            </div>
+            <div xml:id="WuV37d-f01949-Dd1e215">
+               <head xml:id="WuV37d-f01949-Hd1e217">Quaestio</head>
+               <p xml:id="WuV37d-f01949-d1e220">
+                  <lb ed="#B" n="83"/>¶ Quaestio ista declarat magistrali 
+      <lb ed="#B" n="84"/>ter quo malum sit a deo: et quid de for 
+      <lb ed="#B" n="85"/>tuitu aut falsitate sit tenedu. Et ha 
+      <lb ed="#B" n="86"/>betur a sco. li. 2. dist. 37. q. i. 
+      <lb ed="#B" n="87"/>Utrum peccatum seu 
+      <lb ed="#B" n="88"/>fortuitum vel falsitas a domino deo 
+      <lb ed="#B" n="89"/>producatur. Et arguitur ad partem fal 
+      <lb ed="#B" n="90"/>sam tribus mediis
+</p>
+               <p xml:id="WuV37d-f01949-d1e240">
+¶ Primo arguitur quod peccatum 
+      <lb ed="#B" n="91"/>a deo causatur. actus substratus peccato est a deo. igister et 
+      <!--454.xml-->
+      <pb ed="#B" n="219-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>deformitas: et ita peccatum: antecedens patet tum primo 
+      <lb ed="#B" n="2"/>quia est aliquod ens non a se: quia sic esset deus 
+      <lb ed="#B" n="3"/>ergo ab alio: et ita a deo: tum secundo. quia 
+      da<lb ed="#B" n="4" break="no"/>re elemosinam: praedicare christum: facere mira 
+      <lb ed="#B" n="5"/>cula: seruare fidem sunt opera eiusdem rationis 
+      <lb ed="#B" n="6"/>in esse naturae / siue fiant bene moraliter 
+      si<lb ed="#B" n="7" break="no"/>ue male: ergo habent causam eiusdem rationis 
+      <lb ed="#B" n="8"/>quantum ad esse naturae eorum: deus autem est cau 
+      <lb ed="#B" n="9"/>sa eorum quando sunt bona moraliter. ergo et 
+      <lb ed="#B" n="10"/>uando mala: tum tertio per illud. Nunquid 
+      <lb ed="#B" n="11"/>gloriabitur securis contra eum qui secat in ea: 
+      <lb ed="#B" n="12"/>ibi dicit glo. quod sennacheribs fuit in malis 
+      <lb ed="#B" n="13"/>actibus suis instrumentam dei. sed probatur 
+      <lb ed="#B" n="14"/>consequenta: quia voluntas creata ob aliud non dicitur cau 
+      <lb ed="#B" n="15"/>sa peccati: nisi quia causat illud substratum: 
+      te<lb ed="#B" n="16" break="no"/>ste enim dyon. nullus operatur ad malum 
+      aspici<lb ed="#B" n="17" break="no"/>ens: ex quarto diuinorum nomnm.
+</p>
+               <p xml:id="WuV37d-f01949-d1e288">
+¶ 
+      Secun<lb ed="#B" n="18" break="no"/>lo arguitur: quod fortuitum sit a deo: quandocumque sunt 
+      <lb ed="#B" n="19"/>diuerla ad aliquem concurrentia effectum 
+      exi<lb ed="#B" n="20" break="no"/>gitur: quod eorum vnio a causa fiat superiore: 
+      <lb ed="#B" n="21"/>sed in fortuitis diuersa exiguntur 
+      princi<lb ed="#B" n="22" break="no"/>pia: igitur ad eorum vnionem requiritur cau 
+      <lb ed="#B" n="23"/>sa superior quam deum nomino: cum alia non 
+      oc<lb ed="#B" n="24" break="no"/>currat: maior patet exemplo: quia enim ad 
+      com<lb ed="#B" n="25" break="no"/>positionem requiruntur plura scilicet materia et 
+      <lb ed="#B" n="26"/>forma: concludimus aliquam causam agentem 
+      <lb ed="#B" n="27"/>qua mediante fit vnio sed probatur minor ex 
+      <lb ed="#B" n="28"/>pis quae dicuntur in secundo philosophicorum. vbi 
+      po<lb ed="#B" n="29" break="no"/>nitur infortuna et effectuum varietas scilicet vnus 
+      <lb ed="#B" n="30"/>per se intentus reliquus non: et in causa 
+      in<lb ed="#B" n="31" break="no"/>tentio in principali non intentio in 
+      secunda<lb ed="#B" n="32" break="no"/>rio.
+</p>
+               <p xml:id="WuV37d-f01949-d1e323">
+¶ Tertio arguitur: quod falsitas sit a deo 
+      <lb ed="#B" n="33"/>ab illo sane potest dici effici falsitas: qui propo 
+      <lb ed="#B" n="34"/>sitionem facit falsam: sed deus est huiusmo 
+      <lb ed="#B" n="35"/>di. igitur: maior patet exemplo: qui enim facit 
+      <lb ed="#B" n="36"/>pominem: facit et humanitatem: sed probatur 
+      mi<lb ed="#B" n="37" break="no"/>nor accepta propositione: vtputa petrus non 
+      <lb ed="#B" n="38"/>est iustus: data sibi iusticia a deo ista erit 
+      <lb ed="#B" n="39"/>falsa: quae tamen prius erat vera casu posito 
+      <lb ed="#B" n="40"/>quod esset in peccato mortali.
+</p>
+               <p xml:id="WuV37d-f01949-d1e344">
+¶ In 
+      opposi<lb ed="#B" n="41" break="no"/>tum primi et tertii arguitur per illud. Omnia per ipseum 
+      <lb ed="#B" n="42"/>facta sunt: et sine iplo factum est nihil. glo. 
+      <lb ed="#B" n="43"/>augs id est peccatum. idem de falsitate cum formaliter 
+      <lb ed="#B" n="44"/>sit nihil. In oppositum secundi arguit sic 
+      <lb ed="#B" n="45"/>Aug. in lib. 93. quaestionum. Quicquid fit aca 
+      <lb ed="#B" n="46"/>su temere fit: sed deus temere nihil facit. 
+      <lb ed="#B" n="47"/>igitur nec casum: et capit casum pro fortuna. 
+      </p>
+               <p xml:id="WuV37d-f01949-d1e362">
+                  <lb ed="#B" n="48"/>¶ In ista questione ad praecedentes confor 
+      <lb ed="#B" n="49"/>miter suut tres articuli declarandi 
+      <!--454.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>Primus est terminorum decla 
+      <lb ed="#B" n="51"/>Quorum. Pratiuus. 
+      <lb ed="#B" n="52"/>Secundus est quaestionis responsiuus. 
+      <lb ed="#B" n="53"/>Tertius est dubiorum motiuus. 
+      <lb ed="#B" n="54"/>
+      articu<lb ed="#B" n="55" break="no"/>mini sunt peccatum: fortuitum et falsitas.
+</p>
+               <p xml:id="WuV37d-f01949-d1e386">
+¶ Pri 
+      <lb ed="#B" n="56"/>lum ter 
+      <lb ed="#B" n="57"/>mus igitur terminus est peccatum: vnde 
+      vl<lb ed="#B" n="58" break="no"/>tra tres peccati diffinitiones. 35. 
+      tracta<lb ed="#B" n="59" break="no"/>tas dist. et tres alias. 36. addo tartio tres 
+      <lb ed="#B" n="60"/>alias. Prima est aug. in li. de natura 
+      bo<lb ed="#B" n="61" break="no"/>ni. Peccatum inquit est priuatio modi: speciei 
+      <lb ed="#B" n="62"/>et ordinis. Secunda est eiusdem in li. de ciui. 
+      <lb ed="#B" n="63"/>dei. Peccatum inquit est male vti bono. 
+      Ter<lb ed="#B" n="64" break="no"/>tia est eiusdem in li. de vera religione: Peccatum 
+      <lb ed="#B" n="65"/>est inquit appetere quae christus contempsit 
+      <lb ed="#B" n="66"/>vel contemnere quae christus appetiit. Et 
+      <lb ed="#B" n="67"/>differunt. prima enim est communis peccato 
+      <lb ed="#B" n="68"/>triplici: originali: veniali: et mortali. In qua 
+      <lb ed="#B" n="69"/>libet enim horum trium est priuatio modi 
+      spe<lb ed="#B" n="70" break="no"/>ciei et ordinis: modi in mensura: quia nimis 
+      <lb ed="#B" n="71"/>ardenter fit ad commutabile bonum conuersio 
+      <lb ed="#B" n="72"/>Speciei: quia in quolibet peccato est feditas et 
+      <lb ed="#B" n="73"/>turpitudo ordinis: quia in peccato quolibet 
+      <lb ed="#B" n="74"/>est deordinatio destructa actus 
+      rectitudi<lb ed="#B" n="75" break="no"/>ne in veniali et mortali: et quasi habitus in 
+      <lb ed="#B" n="76"/>originali. Secunda est communis veniali et mor 
+      <lb ed="#B" n="77"/>tali: per quodlibet enim eorum anima malum 
+      ha<lb ed="#B" n="78" break="no"/>bet vsum de bono: licet mortale cum conuer 
+      <lb ed="#B" n="79"/>sione addat auersionem a deo: quod non venia 
+      <lb ed="#B" n="80"/>le. Tertia autem est propria peccato mortali 
+      <lb ed="#B" n="81"/>ratione illius contemptus.
+</p>
+               <p xml:id="WuV37d-f01949-d1e445">
+¶ Secundus ter 
+      <lb ed="#B" n="82"/>minus est fortuitum: Unde noto quod ista tria 
+      <lb ed="#B" n="83"/>hifferunt: fortuna casus et fatum: fortuna enim 
+      <lb ed="#B" n="84"/>secundum Arist. in. 2. philosophicorum. Est causa per acciesens 
+      <lb ed="#B" n="85"/>in agentibus a proposito et propter finem in his 
+      <lb ed="#B" n="86"/>quae raro eueniunt: et tangit tria. Primum ex 
+      <lb ed="#B" n="87"/>parte cansae efficientis dum dicit: causa per ac 
+      <lb ed="#B" n="88"/>cidens in agentibus a proposito. Unde non debet 
+      <lb ed="#B" n="89"/>dici causa per acceiments: sicut album dicitur 
+      cau<lb ed="#B" n="90" break="no"/>sa domus in albo edificante: sed 
+      intelligi<lb ed="#B" n="91" break="no"/>tur ratione effectus: quia scilicet praeter effectum 
+      intem<lb ed="#B" n="92" break="no"/>tum aliud accidit. Dicitur rursus a proposito 
+      <lb ed="#B" n="93"/>in quo differt a casu: qui casus est proprie in 
+      <lb ed="#B" n="94"/>agentibus solum a natura. Secundo 
+      tangi<lb ed="#B" n="95" break="no"/>tur causa finalis dum dicit in agentibus 
+      pro<lb ed="#B" n="96" break="no"/>pter finem. si enim agens nihil intenderet quod 
+      <lb ed="#B" n="97"/>acciperet proprie fortuna non diceretur. 
+      Ter<lb ed="#B" n="98" break="no"/>tio tangitur modus huius causae dum dicitur in 
+      <!--455.xml-->
+      <pb ed="#B" n="219-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>his quae raro eueniunt. Et debet capi 
+      te<lb ed="#B" n="2" break="no"/>ste doct. subti. in secunda distin. primi. q. 7. 
+      <lb ed="#B" n="3"/>istud raro non comparatiue ad tempus: sed ad 
+      <lb ed="#B" n="4"/>causam. dato enim quod qualibet die fodiens 
+      <lb ed="#B" n="5"/>praeter intentionem thesaurum repperiret a 
+      <lb ed="#B" n="6"/>fortuna diceretur: ideo solum dicitur raro: 
+      <lb ed="#B" n="7"/>quia id fodiens non intendit: casus autem teste) 
+      <lb ed="#B" n="8"/>Boe. 5. de consolatione est inopinatus rei 
+      <lb ed="#B" n="9"/>euentus causis concurrentibus ob aliud 
+      in<lb ed="#B" n="10" break="no"/>ceptis: et differt vt dictum est a fortuna in 
+      <lb ed="#B" n="11"/>agendo a natura. Fatum autem eodem teste) 
+      <lb ed="#B" n="12"/>Boe. in quarto de consotur. in rebus 
+      mobili<lb ed="#B" n="13" break="no"/>bus iberens dispositio et differt tam a 
+      for<lb ed="#B" n="14" break="no"/>tuna quam casu: quia in his duobus effectus prae 
+      <lb ed="#B" n="15"/>ter intentione accidit: in fato non: vnde hoc  
+      <lb ed="#B" n="16"/>modo fatum non intelligitur nisi di spositio 
+      <lb ed="#B" n="17"/>in rebus ex diuina relicta prouidentia. 
+      </p>
+               <p xml:id="WuV37d-f01949-d1e528">
+                  <lb ed="#B" n="18"/>¶ Tertius terminus est falsitas. vnde no 
+      <lb ed="#B" n="19"/>tandum quod ista tria differunt: falsitas: 
+      menda<lb ed="#B" n="20" break="no"/>cium: et peariurium: et se habent ex additione 
+      ad<lb ed="#B" n="21" break="no"/>inuicem. Falsitas enim est falsa vocis 
+      signifi<lb ed="#B" n="22" break="no"/>catio per proferentem edita seu 
+      inadequa<lb ed="#B" n="23" break="no"/>tio rei et intellectus: et ita solum pertinet 
+      <lb ed="#B" n="24"/>ad intellectum qui fallitur. Hendacium 
+      <lb ed="#B" n="25"/>autem super falsitatem addit intentionem 
+      fal<lb ed="#B" n="26" break="no"/>lendi: quae est a parte voluntatis. Unde Aug. 
+      <lb ed="#B" n="27"/>in li. de mendacio. Hendacium est falsa vo 
+      <lb ed="#B" n="28"/>cis prolatio ecce falsitas: cum intentione 
+      fal<lb ed="#B" n="29" break="no"/>lendi ecce materia voluntas: periurium rur 
+      <lb ed="#B" n="30"/>sus super falsitatem et mendacium addit auctoritate 
+      <lb ed="#B" n="31"/>scilicet quod aliquid assumat per modum 
+      testimo<lb ed="#B" n="32" break="no"/>nii in suae signum falsitatis. Unde omne periu 
+      <lb ed="#B" n="33"/>rium est mendacium non econtra. omne rursus 
+      <lb ed="#B" n="34"/>mendacium est falsum: non econtra: vnde 
+      fal<lb ed="#B" n="35" break="no"/>sitas genus est: vel quasi genus: quia nihil 
+      <lb ed="#B" n="36"/>est formaliter: alia autem quasi species. 
+      <lb ed="#B" n="37"/>articulum sunt 
+      <lb ed="#B" n="38"/>tres 
+      conclusio<lb ed="#B" n="39" break="no"/>nes. prima de causalitate peccati a deo. secun 
+      <lb ed="#B" n="40"/>da de causalitate fortuiti. tertia de 
+      causa<lb ed="#B" n="41" break="no"/>itate falsitatis.
+</p>
+               <p xml:id="WuV37d-f01949-d1e583">
+¶ Prima est haec. Sic 
+      <lb ed="#B" n="42"/>actus peccato substratus extat a deo: vt defor 
+      <lb ed="#B" n="43"/>mitas a sola creata proueniat voluntate 
+      <lb ed="#B" n="44"/>Prima pars dicit: quod actus substratus peccato 
+      <lb ed="#B" n="45"/>est effectiue a deo probatur. Si enim actus peccato 
+      <lb ed="#B" n="46"/>substratus non esset a deo: ex vno trium proue 
+      <lb ed="#B" n="47"/>niret. aut quia habet deformitatem quae nequit esse a 
+      <lb ed="#B" n="48"/>deo: aut quia secundo non sper substernitur peccato 
+      <lb ed="#B" n="49"/>actus: sicut in peccato omissionis: aut tertio 
+      <!--455.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>quia remoueret libertatem a voluntate creata 
+      <lb ed="#B" n="51"/>sed neutrum istorum impedit. igitur: maior patet ex 
+      <lb ed="#B" n="52"/>diuisione sufficienti: non enim est alius modus: sed 
+      <lb ed="#B" n="53"/>declaratur minor per singula. Primo quod non 
+      <lb ed="#B" n="54"/>impedit deformitas consequens istum actum. Et dat 
+      <lb ed="#B" n="55"/>gratum exemplum sanctus tho. arti. 2. praesem 
+      <lb ed="#B" n="56"/>tis dist. q. 2. quando enim inquit sunt due causae 
+      <lb ed="#B" n="57"/>vna principalis: alia secundaria: potest esse 
+      <lb ed="#B" n="58"/>defectus a secunda non a prima. prima cum 
+      <lb ed="#B" n="59"/>secunda causante positiuum actus: et a causa 
+      <lb ed="#B" n="60"/>secunda sola veniente defectu: exemplum est: 
+      <lb ed="#B" n="61"/>virtus enim progressiua et tibia sunt causae 
+      mo<lb ed="#B" n="62" break="no"/>tus animalis: virtus progressiua vt generalis: ti 
+      <lb ed="#B" n="63"/>bia vt secundaria: si accidat claudicatio at 
+      <lb ed="#B" n="64"/>tribuitur curuitati tibiae non virtuti 
+      progres<lb ed="#B" n="65" break="no"/>siue. Sic in proposito: positiuum quod est i pec 
+      <lb ed="#B" n="66"/>cato a deo: et increata causabitur voluntate: 
+      <lb ed="#B" n="67"/>et deformitas a sola creata exibit 
+      volunta<lb ed="#B" n="68" break="no"/>te: nec secundum impedit: scilicet quod non semper pec 
+      <lb ed="#B" n="69"/>catum habeat positiuum substratum sicut in pec 
+      <lb ed="#B" n="70"/>cato omissionis: quia vt dicit doctor 
+      de<lb ed="#B" n="71" break="no"/>uotus dubio primo litterali. 35. dist. omnis 
+      <lb ed="#B" n="72"/>omissio praesupponit commissionem seu actum 
+      <lb ed="#B" n="73"/>positiuum: dat gratum exemplum. Quare eni 
+      <lb ed="#B" n="74"/>quis ire non vult ad matutinas: quia vult 
+      <lb ed="#B" n="75"/>in lecto quiescere: nec tertium impedit scilicet quod 
+      <lb ed="#B" n="76"/>propter hoc remoueatur libertas a 
+      volun<lb ed="#B" n="77" break="no"/>tate creata: obuiat enim doctor subtilis. q. 5. 
+      <lb ed="#B" n="78"/>praesentis materiae donans ad hoc 
+      gratis<lb ed="#B" n="79" break="no"/>simam diuisionem quae in hoc ternario consi 
+      <lb ed="#B" n="80"/>stit. Aliquae enim causae ita se habent quod neu 
+      <lb ed="#B" n="81"/>tra aliam mouet in operatione sua: et tamen eum 
+      <lb ed="#B" n="82"/>dem causant effectum sicut obiectum et 
+      po<lb ed="#B" n="83" break="no"/>tentia intellectionem generant. Unde illa communis 
+      <lb ed="#B" n="84"/>auctoritas: obiectum mouet potentiam: capitur 
+      <lb ed="#B" n="85"/>aut metaphice aut segregatur ab intellectu 
+      <lb ed="#B" n="86"/>et voluntate deo excepto. Secundae sunt quae 
+      <lb ed="#B" n="87"/>ita se habent quod vna aliam mouet ad agendum 
+      <lb ed="#B" n="88"/>ita quod quaelibet quasi partem efficit effectus 2 non 
+      <lb ed="#B" n="89"/>totum sicuti dum sol et homo generant homi 
+      <lb ed="#B" n="90"/>nem: ex. 2. philosophicorum. Tertiae sunt quando 
+      su<lb ed="#B" n="91" break="no"/>perior mouet inferiorem: et tamen totus effectus 
+      <lb ed="#B" n="92"/>est a qualibet: sicut in proposito deus coope 
+      <lb ed="#B" n="93"/>ratur cum voluntate ad volendum: et tamen 
+      to<lb ed="#B" n="94" break="no"/>ta volitio est a deo causata tota: et a creata 
+      vo<lb ed="#B" n="95" break="no"/>luntate. ita tamen quod prius natura a deo quam 
+      <lb ed="#B" n="96"/>a creatura. Et patet quod quoe ad hoc illa propoato in lib. 
+      <lb ed="#B" n="97"/>de causis. Omnis causa primaria plus 
+      in<lb ed="#B" n="98" break="no"/>fiuit supercausatum quam causa secundaria: habet glosa 
+      <!--456.xml-->
+      <pb ed="#B" n="220-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>ri plus id est prius scilicet natura solum: aut plus id est perfe 
+      <lb ed="#B" n="2"/>ctius: quia a se causat: aut tertio plus: quia 
+      <lb ed="#B" n="3"/>etiam causat secundam causam. Et patet exemplo 
+      <lb ed="#B" n="4"/>manifesto: pater enim prius origine producit spirintum 
+      <lb ed="#B" n="5"/>sanctum quam filius: et tamen totum eo modo quo dicimus to 
+      <lb ed="#B" n="6"/>tum in diuinis eum producit filius sicut et pater: sic 
+      <lb ed="#B" n="7"/>suo modo in proposito: et corroboratur ista pars 
+      <lb ed="#B" n="8"/>conclusionis triplici medio eiusdem doct. 
+      sub<lb ed="#B" n="9" break="no"/>Primo quia si sola voluntas creata 
+      elice<lb ed="#B" n="10" break="no"/>ret illud positiuum: diuina voluntas posset 
+      <lb ed="#B" n="11"/>impediri si vellet oppositum. Secundo quia 
+      <lb ed="#B" n="12"/>tunc deus praescius non videretur 
+      futu<lb ed="#B" n="13" break="no"/>rorum cum illa (vt patet primo libro) sciat per actum 
+      <lb ed="#B" n="14"/>voluntatis suae: et in casu omnium non esset causa 
+      <lb ed="#B" n="15"/>Tum tertio: quia tunc non esset opeaus: cum non posset 
+      <lb ed="#B" n="16"/>impedire istud positiuum nisi destructa 
+      li<lb ed="#B" n="17" break="no"/>bertate: nec illud causaret: vnde patet quod 
+      si<lb ed="#B" n="18" break="no"/>cut deus est causa meriti ita suo non et sub 
+      <lb ed="#B" n="19"/>strati in demerito: vnde causalitas dei in hu 
+      <lb ed="#B" n="20"/>iusmodi causalitate non impedit contingenti 
+      <lb ed="#B" n="21"/>am voluntatis in volendo: quia sicut creata vo 
+      <lb ed="#B" n="22"/>luntas libere causat: sic diuina libere coopera 
+      <lb ed="#B" n="23"/>tur. Et si obiiciatur: quia deus non facit contra suam 
+      <lb ed="#B" n="24"/>probibitionem: cum igitur prohibuerit malas acti 
+      <lb ed="#B" n="25"/>ones: sequitur quod eas non facit. Dicendum quod si 
+      <lb ed="#B" n="26"/>bi non prohibuit eas sed aliis: nec eas agit 
+      <lb ed="#B" n="27"/>inquantum sunt prohibite: sed inquantum 
+      po<lb ed="#B" n="28" break="no"/>sitiua. Et si dicatur: quia si non faceret nec 
+      <lb ed="#B" n="29"/>creata voluntas. Dicendum vt inquit dyon. 
+      <lb ed="#B" n="30"/>quod coactam vitam non habemus: ideo pacto fucto 
+      <lb ed="#B" n="31"/>in nostris operationious concurrit deus vnde primo 
+      <lb ed="#B" n="32"/>infertur quod idem effectus venit a charitate 
+      per<lb ed="#B" n="33" break="no"/>fecta scilicet a voluntate dei quae cuncta quae agit 
+      <lb ed="#B" n="34"/>facit charitate et voluntate viciosa seu 
+      crea<lb ed="#B" n="35" break="no"/>ta ab intendente bonum finem scilicet deo qui pro 
+      <lb ed="#B" n="36"/>pter seipsum cuncta operatur: et 
+      intendem<lb ed="#B" n="37" break="no"/>te malum. scilicet creata voluntate. Secundo 
+      infer<lb ed="#B" n="38" break="no"/>tur quod nihil impedit creatam voluntatem 
+      conti<lb ed="#B" n="39" break="no"/>nuari primae voluntati quasi regulae in ope 
+      <lb ed="#B" n="40"/>rando: et tamen deficere: cuius ratio: quia non ex omni 
+      <lb ed="#B" n="41"/>parte continuatur quod exigitur. Dico secundum na 
+      <lb ed="#B" n="42"/>turam inquantum. scilicet exigit. Tertio infertur quod ad 
+      <lb ed="#B" n="43"/>aliqua deus operatur ad quae non mouet 
+      <lb ed="#B" n="44"/>seu excitat: quia ad positiua peccati 
+      con<lb ed="#B" n="45" break="no"/>currit: sicut est adulterium: aut homicidium 
+      <lb ed="#B" n="46"/>non tamen mouet voluntatem seu excitat 
+      <lb ed="#B" n="47"/>ad hoc operandum. Sed dicit secunda pars 
+      <lb ed="#B" n="48"/>conclusionis: quod deformitas peccati venit 
+      <lb ed="#B" n="49"/>asola creata voluntate non a deo: proha 
+      <!--456.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>tur triplici auctoritate. Prima sumitur in 
+      <lb ed="#B" n="51"/>li. 93. quaestionum. Nullo homine sapiente fit 
+      <lb ed="#B" n="52"/>homo deterior: tanta est enim haec culpa: vt in 
+      <lb ed="#B" n="53"/>homine sapiente non cadat. Cum ergo de 
+      <lb ed="#B" n="54"/>us omni homine sapiente sit praestantior: 
+      <lb ed="#B" n="55"/>sequitur secunda ex eodem libro q. 21. quod est 
+      <lb ed="#B" n="56"/>causa omni enti vt sit: non est de se causa non 
+      <lb ed="#B" n="57"/>essendi: deus autem est causa omnibus essendi. 
+      <lb ed="#B" n="58"/>igitur nulli de se est causa non essendi. Ter 
+      <lb ed="#B" n="59"/>tia sumitur ex li. ansel. de libero arbi. ca. 6. 
+      <lb ed="#B" n="60"/>Cum deus omnem gratiam etc. Cum igitur sit deus causa 
+      <lb ed="#B" n="61"/>gratiae nequit esse causa peccati: et ita solum a vo 
+      <lb ed="#B" n="62"/>luntate creata. Et si dicatur quod est causa mali 
+      <lb ed="#B" n="63"/>pene: sicuti carentiae visionis dei: et non 
+      frui<lb ed="#B" n="64" break="no"/>tionis eius: et tamen aequae intense sunt 
+      ma<lb ed="#B" n="65" break="no"/>la: sicut mala culpae: et ita videtur concedem 
+      <lb ed="#B" n="66"/>dum quod est causa mali culpae. Et 
+      confirma<lb ed="#B" n="67" break="no"/>tur: quia est causa subtractionis gratiae: quae 
+      <lb ed="#B" n="68"/>praeponderat peccato priuanti actus 
+      rectitudini<lb ed="#B" n="69" break="no"/>Dicendum quod carentia visionis dei et eius 
+      fru<lb ed="#B" n="70" break="no"/>tionis: et gratiae subtractio sunt nobis 
+      ma<lb ed="#B" n="71" break="no"/>la inquantum culpa exigente his caremus. Unde 
+      <lb ed="#B" n="72"/>si deus sine culpa nostra a nobis retrahe 
+      <lb ed="#B" n="73"/>ret suam gratiam non esset malum poenae. Uum 
+      con<lb ed="#B" n="74" break="no"/>clusiue dicendum quod remotionis ipsorum 
+      su<lb ed="#B" n="75" break="no"/>mus causa demeritoriae per vicia nostra: 
+      <lb ed="#B" n="76"/>et ita deus non est causa mali poenae immedia 
+      <lb ed="#B" n="77"/>te. Quicquid enim deus dat antecedenter dat et 
+      <lb ed="#B" n="78"/>consequenter quantum in ipso est: et ita dando 
+      <lb ed="#B" n="79"/>gratiam voluntati dabit consequenter opera bona: et 
+      <lb ed="#B" n="80"/>dando voluntatem dabit actus rectitudinemu 
+      <lb ed="#B" n="81"/>sed oberrante voluntate totum remotum 
+      <lb ed="#B" n="82"/>est dempta voluntate. Sed extat dubium 
+      <lb ed="#B" n="83"/>certum est quod prius natura deus cooperatur volum 
+      <lb ed="#B" n="84"/>tati quam ipsa operetur voluntas creata in 
+      il<lb ed="#B" n="85" break="no"/>lo priori: quaero vtrum deus causet actum rectum 
+      <lb ed="#B" n="86"/>vel obliquum: si rectum ergo in secundo 
+      instam<lb ed="#B" n="87" break="no"/>ti voluntas non peccat creata. Si obliquum 
+      <lb ed="#B" n="88"/>ergo deus est causa peccati. Respondendum pri 
+      <lb ed="#B" n="89"/>mo: quod ex parte sui nequit deus peccare: quia 
+      <lb ed="#B" n="90"/>nec auerti a se formaliter: quia tunc posset mu 
+      <lb ed="#B" n="91"/>tari: nec virtualiter: quia nihil aliud a se dili 
+      <lb ed="#B" n="92"/>gendum nisi quia id diligit. Ultra dicendum quod 
+      <lb ed="#B" n="93"/>in primo signo causat actum rectum quantum est 
+      <lb ed="#B" n="94"/>ex parte sui: et dum infertur ergo creata 
+      volun<lb ed="#B" n="95" break="no"/>tas non peccat: neganda est consequenta: quia non 
+      co<lb ed="#B" n="96" break="no"/>agit illi rectitudini: ideo hinc venit 
+      obliqui<lb ed="#B" n="97" break="no"/>tas: sicut licet sol cecum illuminet ex parte 
+      <lb ed="#B" n="98"/>sui: quod non illuminatur est ex parte oculi. 
+      <!--457.xml-->
+      <pb ed="#B" n="220-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>Ex quo patet quod illud verbum dum dictum 
+      <lb ed="#B" n="2"/>fuit: Quis decipiet achab regem israel: et 
+      <lb ed="#B" n="3"/>dicit dominus spiritui mendaci egredere et esto spi 
+      <lb ed="#B" n="4"/>ritus mendax in ore omnium prophetarum: istud de 
+      <lb ed="#B" n="5"/>bet intelligi permissiue non actiue: vnde et deus 
+      <lb ed="#B" n="6"/>licet per sui praesentiam sit boni causa in 
+      no<lb ed="#B" n="7" break="no"/>bis: non tamen primo se a nobis absentat 
+      nisi<lb ed="#B" n="8" break="no"/>peccemus. Et si dicatur: si est causa adulte 
+      <lb ed="#B" n="9"/>rii et homicidii: ergo non debet ea punire 
+      <lb ed="#B" n="10"/>Iam patuit: quia solum est causa quo ad 
+      positi<lb ed="#B" n="11" break="no"/>uum: immo nec ea permitteret nisi sciret in me 
+      <lb ed="#B" n="12"/>lius commutare: sicut enim cum palea granum 
+      <lb ed="#B" n="13"/>nascitur sic ex adulterio bona aliquando proles 
+      <lb ed="#B" n="14"/>nascitur. Ex quo patet quod melior est opinio 
+      <lb ed="#B" n="15"/>quam tractauit magister praecedenti dist. 35. et. 36. quae 
+      <lb ed="#B" n="16"/>dicit. Peccata quantum ad positiuum a deo non 
+      <lb ed="#B" n="17"/>quantum ad deformitatem quam illa quam in 
+      prsen<lb ed="#B" n="18" break="no"/>ti dis. tangit magister ponens: nec quo ad positi 
+      <lb ed="#B" n="19"/>uum: nec quo ad deformitatem esse peccata a deo. 
+      </p>
+               <p xml:id="WuV37d-f01949-d1e985">
+                  <lb ed="#B" n="20"/>¶ Secunda conclusio est de causalita 
+      <lb ed="#B" n="21"/>te fortuiti a deo: et est haec. Licet esse for 
+      <lb ed="#B" n="22"/>tuiti a deo veniat: vt tamen est fortuitum ab eo 
+      <lb ed="#B" n="23"/>dem non causatur. Dicit prima pars conclusionis 
+      <lb ed="#B" n="24"/>quod esse fortuiti a deo producitur: probatur: in 
+      nul<lb ed="#B" n="25" break="no"/>lo genere est dare duas causas primas 
+      sim<lb ed="#B" n="26" break="no"/>pliciter sicut non est dare duos fines vlti 
+      <lb ed="#B" n="27"/>mos in eodem gradum esse: ergo fortuiti: quae 
+      <lb ed="#B" n="28"/>ro / vnde est: aut a se aut a deo: aut tertio ab 
+      <lb ed="#B" n="29"/>alio: agente: si a se: ergo est a se: et ita non 
+      <lb ed="#B" n="30"/>causat a fortuna: et ita nec dicitur fortuitum: 
+      <lb ed="#B" n="31"/>et est manifesta contradictio. Si a deo 
+      ha<lb ed="#B" n="32" break="no"/>betur propositum: si ab alio agente: aut est sub 
+      <lb ed="#B" n="33"/>ordinatum deo: et ita erit a deo: quia prima caus 
+      <lb ed="#B" n="34"/>causat cum causa secunda: aut non subordina 
+      <lb ed="#B" n="35"/>tur et ita erunt duo prima principia effecti 
+      <lb ed="#B" n="36"/>ua: et confirmatur: quia cum causa per accens re 
+      <lb ed="#B" n="37"/>ducitur ad causam per se: ex. 2. philosophicorum. Cum 
+      <lb ed="#B" n="38"/>ergo fortuna sit causa per accens: habet ad deum 
+      <lb ed="#B" n="39"/>reduci sicuti ad primam causam per se: et cum 
+      <lb ed="#B" n="40"/>fortuitum reducatur ad fortunam: sequitur quod et 
+      <lb ed="#B" n="41"/>ad deum. Et si dicatur: quia fortuitum dicit priua 
+      <lb ed="#B" n="42"/>tionem cognitionis: deus autem omnium habet noti 
+      <lb ed="#B" n="43"/>ciam. Dicendum quod fortuitum nominat effectum ali 
+      <lb ed="#B" n="44"/>quem: et ratione huius dicitur esse a deo: vlte 
+      <lb ed="#B" n="45"/>rius nominat defectum cognitionis: et ratione 
+      <lb ed="#B" n="46"/>huius non est a deo: vnde solum isto secundo mod 
+      <lb ed="#B" n="47"/>est fortuitum in rebus ratione causarum particula 
+      <lb ed="#B" n="48"/>rium: non autem prime. quod enim quis fodiendo prae 
+      <lb ed="#B" n="49"/>ter intentionem thesaurum inueniat: dicitur 
+      <!--457.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>fortuitum ratione causarum particularium: respe 
+      <lb ed="#B" n="51"/>ctu autem primae nequaquam: cui antequam fiant 
+      cun<lb ed="#B" n="52" break="no"/>cta sunt nota: licet in hoc marcus erraue 
+      <lb ed="#B" n="53"/>rit tullius videre non potens deum cuncta 
+      praeno<lb ed="#B" n="54" break="no"/>scere: et tamen fortunam fore in rebus. Sed 
+      di<lb ed="#B" n="55" break="no"/>cit secunda pars conclusionis: quod fortuitum non est 
+      <lb ed="#B" n="56"/>a deo inquantum fortuitum. probatur. sicut enim 
+      ma<lb ed="#B" n="57" break="no"/>lum repugnat bono: ita fortuitum repugnat 
+      <lb ed="#B" n="58"/>prouidentiae: sed malum vt malum non venit a 
+      <lb ed="#B" n="59"/>summo bono. ergo nec fortuitum: vt fortui 
+      <lb ed="#B" n="60"/>tum a summa prouidentia. Et confirmatur: quia sicu 
+      <lb ed="#B" n="61"/>ti iniusticia nequit esse nisi ab eo qui 
+      opera<lb ed="#B" n="62" break="no"/>tur iniuste: sic nec fortuitum: vt fortuitum 
+      ni<lb ed="#B" n="63" break="no"/>si ab agente a fortuna.
+</p>
+               <p xml:id="WuV37d-f01949-d1e1087">
+¶ Tertia conclu 
+      <lb ed="#B" n="64"/>sio est: de causalitate falsitatis a deo: et est 
+      <lb ed="#B" n="65"/>haec. Licet diuina causalitas id quod falsun 
+      <lb ed="#B" n="66"/>est: attingat falsitatem: tamen non producit. Dicit 
+      <lb ed="#B" n="67"/>prima pars: quod diuina causalitas producit 
+      <lb ed="#B" n="68"/>id quod est falsum probatur. quia omne positiuum est 
+      <lb ed="#B" n="69"/>a deo. Omnia per ipsum facta sunt. Sed id quod est 
+      <lb ed="#B" n="70"/>falsum est aliquid. igitur. probatur minor: quia non est 
+      <lb ed="#B" n="71"/>intelligibile falsitatem quae sola est priuatio 
+      <lb ed="#B" n="72"/>veritatis esse sine subiecto. Et si dicatur: quia 
+      <lb ed="#B" n="73"/>quod deus potest facere: potest et dicere. Si ergo potest 
+      <lb ed="#B" n="74"/>facere falsum: potest etiam dicere falsum. Re 
+      <lb ed="#B" n="75"/>spondendum: quod dicere falsum potest intelligi 
+      <lb ed="#B" n="76"/>vel ratione substrati: et sic potest dicere falsum 
+      <lb ed="#B" n="77"/>hoc est dictu potest dicere id quod est falsum 
+      <lb ed="#B" n="78"/>licet non ratione qua est falsum vel 
+      for<lb ed="#B" n="79" break="no"/>maliter: et sic nequit dicere falsum: quia nec 
+      <lb ed="#B" n="80"/>illud sic causat. Et extat exemplum: dicit chi 
+      <lb ed="#B" n="81"/>stus iudeis. Si dixero: quia non noui eum 
+      ero<lb ed="#B" n="82" break="no"/>similis vobis mendax: potuit non dubium chri 
+      <lb ed="#B" n="83"/>stus dicere non noui eum: non inquantum sub ratio 
+      <lb ed="#B" n="84"/>ne falsi: sed inquantum dicibile erat. Ex quo 
+      <lb ed="#B" n="85"/>patet: quod licet falsum: inquantum aliquid 
+      ha<lb ed="#B" n="86" break="no"/>bet positiuum. habet ideam in deo: non tamen 
+      sequi<lb ed="#B" n="87" break="no"/>tur quod inquantum est falsum: Unde et falsum in 
+      <lb ed="#B" n="88"/>quantum aliquid habet positiui est verum: et habet 
+      <lb ed="#B" n="89"/>rationem veritatim: quod ex hoc probatur: quia ens et 
+      <lb ed="#B" n="90"/>verum conuertuntur cum igitur falsum sit ens ex 
+      <lb ed="#B" n="91"/>tat et verum. Sed dicit secunda pars conclusionis 
+      <lb ed="#B" n="92"/>quod deus non producit falsitatem. patet. Sicut enim 
+      <lb ed="#B" n="93"/>se habet malicia ad bonitatem: et sic falsitas 
+      <lb ed="#B" n="94"/>ad veritatem. Cum igitur a summa bonitate non 
+      <lb ed="#B" n="95"/>veniat malicia: ergo nec a summa 
+      verita<lb ed="#B" n="96" break="no"/>te falsitas. Et si dicatur: quia tam aequalitas quam 
+      <lb ed="#B" n="97"/>inaequalitas in rebus sunt a deo: ergo a 
+      si<lb ed="#B" n="98" break="no"/>mili tam veritas quam falsitas in rebus erun 
+      <!--458.xml-->
+      <pb ed="#B" n="221-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>ab eo: neganda est consequenta: quia licet inaequilitas quae 
+      <lb ed="#B" n="2"/>ad nomen dicat privationem: tamen a parte rei dicit 
+      <lb ed="#B" n="3"/>ordinem et gradum: falsitas autem ex toto dicit 
+      <lb ed="#B" n="4"/>privationem. Si autem inaequalitas capiatur quo 
+      <lb ed="#B" n="5"/>ad privatiuum: dicitur tunc quod nec inequalitas. 
+      <lb ed="#B" n="6"/>nec falsitas sunt a deo. 
+      <lb ed="#B" n="7"/>articulum 
+      <lb ed="#B" n="8"/>sunt tres dif 
+      <lb ed="#B" n="9"/>fi.
+</p>
+               <p xml:id="WuV37d-f01949-d1e1191">
+¶ Prima est: quomodo intelligitur illa auctoritas: 
+      <lb ed="#B" n="10"/>Non est malum in ciuitate quod non faciat dominus: 
+      <lb ed="#B" n="11"/>Dicendum primo quod intelligitur de malo poenae: 
+      <lb ed="#B" n="12"/>et maxime de malo poenae positiuo. Secundo diciu 
+      <lb ed="#B" n="13"/>quod intelligitur permissiue etiam de malo culpae: quia 
+      <lb ed="#B" n="14"/>nisi omnipotens permitteret / nullum malum penit 
+      <lb ed="#B" n="15"/>fieret. Tertio dicitur quod intelligitur etiam actiue de 
+      <lb ed="#B" n="16"/>malo culpae qua ad positiuum / non quo ad 
+      defor<lb ed="#B" n="17" break="no"/>mitatem. vnde: Ego dominus: et non est alter deus / for 
+      <lb ed="#B" n="18"/>mans lucem / et creans tenebras: faciens pacem et 
+      <lb ed="#B" n="19"/>creans malum.
+</p>
+               <p xml:id="WuV37d-f01949-d1e1215">
+¶ Secunda diffi. an operum for 
+      <lb ed="#B" n="20"/>tuitorum sit aliquod principium in nob praeter 
+      intelle<lb ed="#B" n="21" break="no"/>ctum et voluntatem? Dicit nico. boneti in. 2. suae 
+      <lb ed="#B" n="22"/>philosophie quod sic: et extrahit de philosopho in li. de homoa for 
+      <lb ed="#B" n="23"/>tuna: et inde est quod vnus est alio in bono magsis for 
+      <lb ed="#B" n="24"/>tunatus vel in malo: et in iuuentute habet bonas for 
+      <lb ed="#B" n="25"/>tunas / et in senectute malas/ vel econtra: totum 
+      <lb ed="#B" n="26"/>tamen residet principalitur ex parte diuinae voluntatis: 
+      <lb ed="#B" n="27"/>licet quaedam ex partem corporis sit dispositio. 
+      </p>
+               <p xml:id="WuV37d-f01949-d1e1235">
+                  <lb ed="#B" n="28"/>¶ Tertia diffi. est: quod est maioris 
+      dignita<lb ed="#B" n="29" break="no"/>tis: aut falsificare propositionem / aut 
+      verifica<lb ed="#B" n="30" break="no"/>re? Dicendum quod loquendo simpliciter verificare 
+      no<lb ed="#B" n="31" break="no"/>bilius est: tamen in casu falsi icare est nobilius. Hanc 
+      <lb ed="#B" n="32"/>vero propositionem / martinus est peccator: potest 
+      mar<lb ed="#B" n="33" break="no"/>tinus peccando verificare: solus tamen deus 
+      infundem<lb ed="#B" n="34" break="no"/>do gratiam eam potest falsificare. Ex hoc patet ad. q. 
+      <lb ed="#B" n="35"/>quod videlicem tam peccatum quam fortuitum quam falsum non 
+      <lb ed="#B" n="36"/>producuntur a deo / nisi secundum id quod dicunt 
+      posi<lb ed="#B" n="37" break="no"/>tiuum.
+</p>
+               <p xml:id="WuV37d-f01949-d1e1259">
+¶ Ad primum ar. conceditur antecedens et negatur 
+      <lb ed="#B" n="38"/>consequenta: et dicitur quod non solum peccat voluntas in il 
+      <lb ed="#B" n="39"/>lo defectu: sed quia tenetur habere rectitudinem et 
+      <lb ed="#B" n="40"/>non habet quod non potest conuenire primae voluntati: 
+      <lb ed="#B" n="41"/>cum sit prima regula cui tenemur conformari / 
+      <lb ed="#B" n="42"/>et non illa nob.
+</p>
+               <p xml:id="WuV37d-f01949-d1e1273">
+¶ Ad secundum in corpore. q. appa 
+      <lb ed="#B" n="43"/>ruit solutio. Dictum est enim quod secundum totum positi 
+      <lb ed="#B" n="44"/>uum quod est in fortuito: fortuitum est a deo / non alis: 
+      <lb ed="#B" n="45"/>et hoc sufficit.
+</p>
+               <p xml:id="WuV37d-f01949-d1e1282">
+¶ Ad tertium / maior est falsa: 
+      <lb ed="#B" n="46"/>non est enim verum quod si quis facit falsum ratione posi 
+      <lb ed="#B" n="47"/>tiui quod faciat falsitatem qua pura extat 
+      priua<lb ed="#B" n="48" break="no"/>tio: immo esset sophisma accidentis. Et ad 
+      ex<lb ed="#B" n="49" break="no"/>emplum adductum: quae facit hominem facit huma¬ 
+      <!--458.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>nitatem. Dico quod exemplum est dissile: tam enim homo 
+      <lb ed="#B" n="51"/>quam humanitas dicunt positionem: quod non est in propo 
+      <lb ed="#B" n="52"/>sito de falso et falsitate.
+</p>
+            </div>
+            <div xml:id="WuV37d-f01949-Dd1e1305" type="et-conclusiones">
+               <head xml:id="WuV37d-f01949-Hd1e1307">Conclusiones</head>
+               <p xml:id="WuV37d-f01949-d1e1310">
+¶ Ex etc. Prima 
+      <lb ed="#B" n="53"/>conclusio. Extat opinio quod a deo nec deformi 
+      <lb ed="#B" n="54"/>tas est aut positio vel culpae entitas. Dicit 
+      <lb ed="#B" n="55"/>conclusio / quod sunt aliqui opinantes quod nec positi 
+      <lb ed="#B" n="56"/>uum peccati nec deformitas sunt a deo: et 
+      poni<lb ed="#B" n="57" break="no"/>tur a prin. dist. vsque ibi: In hoc verbo autem etc. 
+      </p>
+               <p xml:id="WuV37d-f01949-d1e1323">
+                  <lb ed="#B" n="58"/>¶ Secunda conclusio. Ex opinione solum producuntur 
+      <lb ed="#B" n="59"/>dei actione quae bona dicuntur. Dicit conclusio / quod 
+      <lb ed="#B" n="60"/>secundum opinionem predictam solum illa dicuntur produci a 
+      <lb ed="#B" n="61"/>deo quae sunt bona / sicut culpa: et ponitur ab 
+      il<lb ed="#B" n="62" break="no"/>lo loco: In hoc autem verbo etc. vsque ibi: Cum 
+      <lb ed="#B" n="63"/>ergo in hoc omnes.
+</p>
+               <p xml:id="WuV37d-f01949-d1e1339">
+¶ Tertia conclusio. Malum 
+      pae<lb ed="#B" n="64" break="no"/>nale a deo ponitur atque conceditur produci tale. 
+      <lb ed="#B" n="65"/>Dicit conclusio / quod malum poenae fit a deo: et po 
+      <lb ed="#B" n="66"/>nitur ab illo. c. Cum ergo in hoc oes: vsque ad finem di. 
+</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

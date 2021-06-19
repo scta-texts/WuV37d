@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 20</title>
+            <author ref="#WilliamDeVaurouillon">William de Vaurouillon</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 20</title>
+               <date when="2021-06-19">June 19, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-bvbVBV">Basel 1510</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-06-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="285-v"/>
+            <cb ed="#B" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="WuV37d-f32051"><!-- l3d20 -->
+            <head xml:id="WuV37d-f32051-Hd1e108">Distinctio 20</head>
+            <div xml:id="WuV37d-f32051-Dd1e111" type="circa-textum">
+               <head xml:id="WuV37d-f32051-Hd1e113">Circa textum</head>
+               <p xml:id="WuV37d-f32051-d1e116">
+                  <lb ed="#B" n="45"/>Distinctio. 20. tractat de redem 
+      <lb ed="#B" n="46"/>ptione nostra facta per passione 
+      chri<lb ed="#B" n="47" break="no"/>sti quantum ad cogruentia et 
+      necessita<lb ed="#B" n="48" break="no"/>tem necno modu passionis. 
+      <!--587.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="49"/>2 vero 
+      que<lb ed="#B" n="50" break="no"/>ritur: vtrum alio modo 
+      <lb ed="#B" n="51"/>posset deus hominem 
+      li<lb ed="#B" n="52" break="no"/>berare quam per mortem 
+      <lb ed="#B" n="53"/>christi: hic signatur. 20. 
+      <lb ed="#B" n="54"/>distin. huius tertii: quae sic continuatur ad 
+      praecedem<lb ed="#B" n="55" break="no"/>tem: Nam postquam in praecedenti dis. passionis iesu 
+      <lb ed="#B" n="56"/>ostensa fuit vtilitas: Nunc in praesenti venatur 
+      <lb ed="#B" n="57"/>congruitas. Et habet diuidi ista distin. in 
+      <lb ed="#B" n="58"/>tres partes principales. In prima istius 
+      passio<lb ed="#B" n="59" break="no"/>nis ponitur congruentia. In secunda demonstratur 
+      <lb ed="#B" n="60"/>liberationis potentia. In tertia tante 
+      obla<lb ed="#B" n="61" break="no"/>tionis cpisopus profertur hostia. Prima in 
+      princi<lb ed="#B" n="62" break="no"/>pio. Secunda ibi. Si enim tres illi in causam 
+      <lb ed="#B" n="63"/>venirent etc. Tertia ibi. Christus ergo est 
+      <lb ed="#B" n="64"/>sacerdos etc. Haec est diuisio etc. 
+      </p>
+            </div>
+            <div xml:id="WuV37d-f32051-Dd1e167">
+               <head xml:id="WuV37d-f32051-Hd1e169">Quaestio</head>
+               <p xml:id="WuV37d-f32051-d1e172">
+                  <lb ed="#B" n="65"/>¶ Quaestio ista agit primo de gene 
+      <lb ed="#B" n="66"/>ris huani reparatione necessaria 
+      fa<lb ed="#B" n="67" break="no"/>cta per xpisopum scilicet deum et hominem / secundo / an sa 
+      <lb ed="#B" n="68"/>tiffactoriae potuisset per creaturam 
+      pu<lb ed="#B" n="69" break="no"/>tam fieri aut alio modo Sco. eodem loco. 
+      <lb ed="#B" n="70"/>Utrum sit necessa 
+      <lb ed="#B" n="71"/>rium cpisci passione durissima homi 
+      <lb ed="#B" n="72"/>nem satiffactoriae reparari. Et 
+      ar<lb ed="#B" n="73" break="no"/>guitur quod non triplici medio.
+</p>
+               <p xml:id="WuV37d-f32051-d1e194">
+¶ Primo sic: 
+      <lb ed="#B" n="74"/>vbi nobilius lapsum non est necesse xpisci 
+      pas<lb ed="#B" n="75" break="no"/>sione reparari: nec ignobilius: sed 
+      natura<lb ed="#B" n="76" break="no"/>angelica nobilior est naturam humana: et tamen 
+      <lb ed="#B" n="77"/>non est necesse eam reparari: quinimo numquam repa 
+      <lb ed="#B" n="78"/>rabitur: igitur etc. Maior patet ex eo quod natura 
+      <lb ed="#B" n="79"/>nobilior magis participat de dei bonita 
+      <lb ed="#B" n="80"/>te: quam ignobilior: et ita aptior reparationi 
+      <lb ed="#B" n="81"/>videtur. Minor vero probatur ex illo. Ite 
+      ma<lb ed="#B" n="82" break="no"/>ledicti in ignem aeternum: qui paratus est diabo 
+      <lb ed="#B" n="83"/>bolo et angelis eius.
+</p>
+               <p xml:id="WuV37d-f32051-d1e218">
+¶ Secundo arguitur sic 
+      <lb ed="#B" n="84"/>Undecumque fit adequatio solutionis ad debitum 
+      <lb ed="#B" n="85"/>extat sufficiens solutio sed alio modo potuit 
+      <lb ed="#B" n="86"/>fieri huiusmodi adequatio quam passione xriscpi: igitur etc. 
+      <lb ed="#B" n="87"/>Maior patet: quia non plus satisfactio exigit 
+      <lb ed="#B" n="88"/>nisi quod tantum soluatur quantum debetur. Sed minor 
+      <lb ed="#B" n="89"/>probatur: quia tantum ponderabat et longe plus oratio 
+      <lb ed="#B" n="90"/>xpici in bonum: quam adae peccatum in malum. Tum 
+      <lb ed="#B" n="91"/>quia ex maiori affectu christus orauit: quam 
+      <lb ed="#B" n="92"/>adam peccauit. Tum quia ex eo quod naturam hu 
+      <lb ed="#B" n="93"/>mana diuinae insita erat aliqualiter 
+      diui<lb ed="#B" n="94" break="no"/>ni verbi odorem. sapiebat: sicut manus 
+      <!--588.xml-->
+      <pb ed="#B" n="286-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>odorem pomi in ea positi.
+</p>
+               <p xml:id="WuV37d-f32051-d1e253">
+¶ Tertio 
+      ar<lb ed="#B" n="2" break="no"/>guitur sic. Merita christi aut equalia 
+      fue<lb ed="#B" n="3" break="no"/>runt: aut inequilia. Sed / siue sic: siue sic: 
+      ali<lb ed="#B" n="4" break="no"/>ter potuit satisfieri pro peccato adae quam mor 
+      <lb ed="#B" n="5"/>te christi: igitur etc. Maior patet: quia inter eque 
+      <lb ed="#B" n="6"/>le et inequile nihil locatur medium: cum quasi sint 
+      <lb ed="#B" n="7"/>contradictoria: quorum alterum eorum de quoli 
+      <lb ed="#B" n="8"/>bet verificatur. Sed minor probatur. Si vero 
+      <lb ed="#B" n="9"/>fuerunt equalia: ergo alio merito quam 
+      passi<lb ed="#B" n="10" break="no"/>one potuimus redimi: cum equale equo a 
+      <lb ed="#B" n="11"/>iusto iudice ponderetur. Si vero essent 
+      ine<lb ed="#B" n="12" break="no"/>qualia adhuc potuit. Tum quia ex equali gra 
+      <lb ed="#B" n="13"/>tia et charitate christi veniebant omnia christi 
+      <lb ed="#B" n="14"/>merita. Tum quia dicit Bern. quod vna gutta 
+      <lb ed="#B" n="15"/>sanguinis christi fuit sufficiens praecium nostrae 
+      <lb ed="#B" n="16"/>redemptionis.
+</p>
+               <p xml:id="WuV37d-f32051-d1e289">
+¶ In oppositum vero arguitur 
+      <lb ed="#B" n="17"/>ex Glo. super illo verbo. Decebat auctorem sa 
+      <lb ed="#B" n="18"/>lutis eorum per passionem consummari. Dicit glo. 
+      <lb ed="#B" n="19"/>Nisi christus moreretur: homo non redime 
+      <lb ed="#B" n="20"/>retur.
+</p>
+               <p xml:id="WuV37d-f32051-d1e300">
+¶ In hac quaestione pariformiter 
+      <lb ed="#B" n="21"/>sunt tres 
+      articuli<lb ed="#B" n="22" break="no"/>Primus est terminorum declaratiuus 
+      <lb ed="#B" n="23"/>Quorum Secundus est quaestionis responsiuus 
+      <lb ed="#B" n="24"/>Tertius est terminorum motiuus  
+      <lb ed="#B" n="25"/>articulum 
+      <lb ed="#B" n="26"/>termini sunt 
+      <lb ed="#B" n="27"/>necessarium / passioet satis factio.
+</p>
+               <p xml:id="WuV37d-f32051-d1e318">
+¶ 
+      Pri<lb ed="#B" n="28" break="no"/>mus igitur terminus est necessarium. 
+      <lb ed="#B" n="29"/>De quo li. 1. dist. 6. Unde secundum sanctum 
+      Tho<lb ed="#B" n="30" break="no"/>q. 1. persentis dist. potest elici ad propositum 
+      <lb ed="#B" n="31"/>necessarium accipi tripliciter. Primo modo di 
+      <lb ed="#B" n="32"/>citur necessarium coactionis: et si amplietur 
+      no<lb ed="#B" n="33" break="no"/>mem coactionis se ampliat ad violentum: quando 
+      <lb ed="#B" n="34"/>id est purum naturale et inuoluntarium vbi ex 
+      <lb ed="#B" n="35"/>tat ratio libertatis: et hoc modo dicit apostolus 
+      <lb ed="#B" n="36"/>non ex tristicia aut necessitate. Secundo 
+      acci<lb ed="#B" n="37" break="no"/>pitur necessarium absolute: et dicitur necessitas 
+      <lb ed="#B" n="38"/>absoluta: et etiam dicitur necessitas 
+      immutabi<lb ed="#B" n="39" break="no"/>litatis. Unde sic capto necessario idem est 
+      <lb ed="#B" n="40"/>necessarium quod impossibile alitur se habere 
+      <lb ed="#B" n="41"/>Et inde dicitur necessarium quasi non cessans 
+      <lb ed="#B" n="42"/>esse: et haec necessitas est in deo respectu 
+      <lb ed="#B" n="43"/>sui quia est immutabilis: non respectu 
+      crea<lb ed="#B" n="44" break="no"/>ture: quia ad eam contingenter se habet. Ter 
+      <lb ed="#B" n="45"/>tio dicitur necessarium ex suppositione: et 
+      si<lb ed="#B" n="46" break="no"/>quidem sit ad sequens dicitur necessitas finis: 
+      <lb ed="#B" n="47"/>sicut illud est porphi. Cum sit necessarium 
+      <lb ed="#B" n="48"/>grisasori etc: vel ex suppositione ad 
+      praece<lb ed="#B" n="49" break="no"/>dens et dicitur necessitas consequentiae: vt si 
+      <!--588.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>curro moueor: et talem necessitatem quidam 
+      <lb ed="#B" n="51"/>vocant incommutabilitatis: et haec quaeratur in 
+      <lb ed="#B" n="52"/>titulo quaestionis.
+</p>
+               <p xml:id="WuV37d-f32051-d1e379">
+¶ Secundus terminus 
+      <lb ed="#B" n="53"/>est passio. Unde satis de ea dictum est in prae 
+      <lb ed="#B" n="54"/>cedenti distin. vnde solum ad praesens ponitur de 
+      <lb ed="#B" n="55"/>passione eius diffinitio: quam dat remigius 
+      <lb ed="#B" n="56"/>Passio inquit est motus animae ad 
+      suspi<lb ed="#B" n="57" break="no"/>tionem boni et mali. In qua diffinitione tria 
+      <lb ed="#B" n="58"/>tanguntur. Primo subiectum et genus 
+      passi<lb ed="#B" n="59" break="no"/>onis simul dum dicitur / passio est motus 
+      ani<lb ed="#B" n="60" break="no"/>me: motus enim est genus passionis: vel 
+      cir<lb ed="#B" n="61" break="no"/>cunscribit verius genus: anima vero est 
+      sub<lb ed="#B" n="62" break="no"/>iectum. Ex quo patet / quod loquendo hoc modo nul 
+      <lb ed="#B" n="63"/>la passio reperitur nisi in apprehendente: de 
+      <lb ed="#B" n="64"/>bet autem hic accipi anima vt sit idem quod spi 
+      <lb ed="#B" n="65"/>ritus: quia etiam daemones et angeli boni 
+      <lb ed="#B" n="66"/>habent passiones: sicut est illud 
+      prophetae<lb ed="#B" n="67" break="no"/>Iurauit deus per animam suam. Secundo 
+      <lb ed="#B" n="68"/>tangitur passio in respectu boni dum dicitur 
+      <lb ed="#B" n="69"/>ad suspitionem boni: et hoc tripliciter. Aut 
+      <lb ed="#B" n="70"/>ante adeptionem velut in termino a quo: et 
+      <lb ed="#B" n="71"/>dicitur amor. Aut prosequendo: et dicitur desi 
+      <lb ed="#B" n="72"/>derium. Aut in termino ad quem: et dicitur 
+      <lb ed="#B" n="73"/>delectatio. Tertio tangitur passio in respe 
+      <lb ed="#B" n="74"/>ctu mali dum dicitur / ad suspitionem mali: et 
+      <lb ed="#B" n="75"/>hoc tripliciter: vel vt in termino a quo: et 
+      <lb ed="#B" n="76"/>dicitur odium: vel in resilitione: et dicitur 
+      <lb ed="#B" n="77"/>abhominatio vel tertio in termino ad quem: 
+      <lb ed="#B" n="78"/>et dicitur tristicia.
+</p>
+               <p xml:id="WuV37d-f32051-d1e438">
+¶ Tertius terminus 
+      <lb ed="#B" n="79"/>est satiffactio. Unde satisfactio secundum 
+      be<lb ed="#B" n="80" break="no"/>atum Ansellmum: est redditio equiualentis 
+      <lb ed="#B" n="81"/>pro equiualenti alias indebiti: vbi 
+      brevi<lb ed="#B" n="82" break="no"/>ter tria tanguntur. Primo genus / dum 
+      di<lb ed="#B" n="83" break="no"/>cituri / redditio et per hoc differt a 
+      quacun<lb ed="#B" n="84" break="no"/>que datione. Secundo tangitur modus 
+      red<lb ed="#B" n="85" break="no"/>ditionis: scilicet tantum pro tanto. equiualens 
+      <lb ed="#B" n="86"/>quoppe dicitur quasi equeualens. Tertio 
+      tan<lb ed="#B" n="87" break="no"/>gitur cognitio redditi: vt scilicet aliunde non 
+      <lb ed="#B" n="88"/>debeatur: quia tunc satisfactio non esset. rema 
+      <lb ed="#B" n="89"/>neret enim adhuc debitum: et inde dicta est 
+      <lb ed="#B" n="90"/>satiffactio: quasi satis facio. 
+      <lb ed="#B" n="91"/>
+      arti<lb ed="#B" n="92" break="no"/>culum  
+      <lb ed="#B" n="93"/>sunt tres conclusiones. Prima est de 
+      necessi<lb ed="#B" n="94" break="no"/>tate reparationis humani generis. 
+      Secun<lb ed="#B" n="95" break="no"/>da quod pura creatura potuit acceptari ad 
+      <lb ed="#B" n="96"/>satisfactionem humani generis. Tertia quod 
+      <lb ed="#B" n="97"/>alius fuit modus huius satisfactionis 
+      pos<lb ed="#B" n="98" break="no"/>sibilis ad redimendum genus humanum 
+      <!--589.xml-->
+      <pb ed="#B" n="286-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>quam passione christi.
+</p>
+               <p xml:id="WuV37d-f32051-d1e493">
+¶ Prima est haec. 
+      <lb ed="#B" n="2"/>Sic sola concurrebat suppositionis in hu 
+      <lb ed="#B" n="3"/>mani reparatione generis necessitas: vi 
+      <lb ed="#B" n="4"/>nequaquam absoluta concurreret. Dicit prima 
+      <lb ed="#B" n="5"/>pars conclusionis / quod in reparatione 
+      huma<lb ed="#B" n="6" break="no"/>ni generis sola erat necessitas suppositio 
+      <lb ed="#B" n="7"/>nis: scilicet quod deus sic ordinauerat id redimi. 
+      <lb ed="#B" n="8"/>Probatur medio docto. subti. in praesenti di 
+      <lb ed="#B" n="9"/>stin. Si enim humana natura aliquam habuit 
+      <lb ed="#B" n="10"/>necessitatem vt repararetur: hoc solum fuit quia 
+      <lb ed="#B" n="11"/>erat praedestinata ad gratiam et gloriam: sed  
+      <lb ed="#B" n="12"/>istud est contingens: ergo contingenter et non 
+      <lb ed="#B" n="13"/>de necessitate est reparata. Maior patet: 
+      <lb ed="#B" n="14"/>non enim fuit reparata nisi propter gratiam et 
+      <lb ed="#B" n="15"/>gloriam. Minor probatur: quia praedestinatio est 
+      <lb ed="#B" n="16"/>actus diuine voluntatis. Dicit enim Augstinus 
+      <lb ed="#B" n="17"/>quod praedestinatio est propositum miserendi: propo 
+      <lb ed="#B" n="18"/>situm autem est voluntatis: nihil enim aliud est 
+      <lb ed="#B" n="19"/>propositum nisi firmata electio diuina autem 
+      <lb ed="#B" n="20"/>voluntas ad extra mere contingentur se 
+      ha<lb ed="#B" n="21" break="no"/>bet. Confirmatur: quia non teneremur vt videtur 
+      <lb ed="#B" n="22"/>ad tantarum gratiarumactiones deo sicut su 
+      <lb ed="#B" n="23"/>mus obligati: si necesse fuisset eam simplicoli 
+      <lb ed="#B" n="24"/>reparari: vnde sola fuit suppositionis 
+      necessi<lb ed="#B" n="25" break="no"/>tas: congruebat nempe vt qui alio temptante 
+      <lb ed="#B" n="26"/>peccauerat: alio leuante redimeretur: et ne 
+      <lb ed="#B" n="27"/>tota periret humani generis conditio mi 
+      <lb ed="#B" n="28"/>sericordiaque dei manifeste omnnderetur. Nec 
+      <lb ed="#B" n="29"/>sequitur: non sustinuit deus adam ne peccaret 
+      <lb ed="#B" n="30"/>ergo nec debet releuare. Magna quippe 
+      <lb ed="#B" n="31"/>dona deus ade dederat: quibus stare poterat 
+      <lb ed="#B" n="32"/>si voluisset: nec extat simile si nullus hominium 
+      <lb ed="#B" n="33"/>euadit temporalem mortem: quod nullus euadat eter 
+      <lb ed="#B" n="34"/>nam: nec frangitur diuina iusticia puniendo in 
+      <lb ed="#B" n="35"/>vno miserendo in alio. Hisecundia quippe et 
+      <lb ed="#B" n="36"/>veritas et iusticia obuiant sibi in cunctis ope 
+      <lb ed="#B" n="37"/>ribus dei. Ex quo patet secunda pars conclusionis 
+      <lb ed="#B" n="38"/>quod videlet non fuit absoluta necessitas: licet 
+      <lb ed="#B" n="39"/>beatus Anf. 1. ca. 2. Cur deus homo videtur hoc 
+      <lb ed="#B" n="40"/>asserere: qui et praedictum librum hac de causa 
+      fe<lb ed="#B" n="41" break="no"/>cisse videtur: hanc etiam conclusionem innuit do 
+      <lb ed="#B" n="42"/>ctor deuo. in. q. 1. et sanctus Tho. in eadem 
+      <lb ed="#B" n="43"/>quaestione: vnde dicit sic. Sicut transeunti mare 
+      <lb ed="#B" n="44"/>naui opus est: pariformiter si homo leuetur ad  
+      <lb ed="#B" n="45"/>visionem dei indiget redemptione.
+</p>
+               <p xml:id="WuV37d-f32051-d1e592">
+¶ Secunda 
+      <lb ed="#B" n="46"/>conclusio est / quod pura creatura potuit 
+      ac<lb ed="#B" n="47" break="no"/>ceptari ad satiffactionem humani generis: 
+      <lb ed="#B" n="48"/>et est haec. Licet de se non habeat vnde pura sa 
+      <lb ed="#B" n="49"/>tiffaciat creatura: a deo tamen potest acceptari. 
+      <!--589.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>Dicit prima pars conclusionis / quod creatura non 
+      <lb ed="#B" n="51"/>habet de se vnde possit pro delicto satisfacere 
+      <lb ed="#B" n="52"/>patet liquide: quia nullus potest satiffacere de pec 
+      <lb ed="#B" n="53"/>cato nisi dono gratiae quam ex nobis non 
+      habe<lb ed="#B" n="54" break="no"/>mus sed ex deo: alioquin gratia non esset gratia. 
+      <lb ed="#B" n="55"/>Unde bene dicit Paulus. Non est volentis  
+      <lb ed="#B" n="56"/>nec currentis sed dei miserentis. Confirmatur 
+      <lb ed="#B" n="57"/>quia nullus potest deo satisfacere: nisi de 
+      inimi<lb ed="#B" n="58" break="no"/>co fiat amicus: vel adminus non inimicus: 
+      <lb ed="#B" n="59"/>sed hoc nequit homo ex se. Nescit enim homo an 
+      <lb ed="#B" n="60"/>odio vel amore dignus sit. Et si obiiciatur: 
+      <lb ed="#B" n="61"/>quia vnus homo potuit per se totum genus humanum 
+      <lb ed="#B" n="62"/>inficere scilicet adam peccando: ergo a simili et 
+      <lb ed="#B" n="63"/>purus homo per seipsum potest reparare: cum fortius 
+      <lb ed="#B" n="64"/>sit bonum malo. Malum enim secundum Dyoni. ex 
+      <lb ed="#B" n="65"/>quarto diuinorum nominm: non agit nisi in virtute 
+      <lb ed="#B" n="66"/>boni. Dicendum / quod licet loquendo simpliciter for 
+      <lb ed="#B" n="67"/>tius sit bonum malo: tantum pensatis circunstan 
+      <lb ed="#B" n="68"/>tiis non est inconueniens: quin fortius sit facere 
+      <lb ed="#B" n="69"/>bonum quam facere malum. Secundum enim Aristo. 
+      <lb ed="#B" n="70"/>bonum est vno modo: malum autem multiphariae: 
+      <lb ed="#B" n="71"/>et difficilius quis tangit signum quam a signo defi 
+      <lb ed="#B" n="72"/>ciat. Et patet quod licet diabolus iniuste hominem 
+      <lb ed="#B" n="73"/>in carcere detineret: quia fraus et dolus secundum 
+      <lb ed="#B" n="74"/>iura nemini patrocinantur: iuste tamen homo deti 
+      <lb ed="#B" n="75"/>nebatur: nec hic. se eripere poterat: vnde et licet deus 
+      <lb ed="#B" n="76"/>plus penset vitam et mortem homnis innocentis 
+      <lb ed="#B" n="77"/>quam multorum peccatorum: tamen ex se non suffecisset ad 
+      <lb ed="#B" n="78"/>huiusmodi redemptionem: nisi specialis gratia concur 
+      <lb ed="#B" n="79"/>risset dei. Et hoc est quod dicit secunda pars conclu 
+      <lb ed="#B" n="80"/>sionis / quod pura creatura posset acceptari 
+      <lb ed="#B" n="81"/>ad huiusmodi satisfactionem humani generis. 
+      <lb ed="#B" n="82"/>Probatur ratione docto. subti. Sicut enim 
+      <lb ed="#B" n="83"/>se habet non debitor ad debitorem: sic in 
+      ca<lb ed="#B" n="84" break="no"/>su isto se habere videtur pura creatura sine 
+      <lb ed="#B" n="85"/>criminae ad existentem in peccato: ita autem 
+      <lb ed="#B" n="86"/>videmus quod non debitor potest satisfacere 
+      <lb ed="#B" n="87"/>pro debitore. ergo a simili charitate dei po 
+      <lb ed="#B" n="88"/>terit pura creatura acceptari a deo pro 
+      de<lb ed="#B" n="89" break="no"/>fectu totius humani generis. Detur enim 
+      <lb ed="#B" n="90"/>casus quod christus fuerit purus homo: et quod 
+      <lb ed="#B" n="91"/>sibi infuderit deus tantam gratiam creatam 
+      <lb ed="#B" n="92"/>qualem modo habet: sine vnione 
+      ipostati<lb ed="#B" n="93" break="no"/>ca: non videtur quin deus posset acceptare 
+      <lb ed="#B" n="94"/>opera eius pro humani generis 
+      redem<lb ed="#B" n="95" break="no"/>ptione: nec tamen ex hoc essemus tantum sibi 
+      <lb ed="#B" n="96"/>obligati quantum deo: verum est tamen quod 
+      si<lb ed="#B" n="97" break="no"/>bi deberemus magnam reuerentiam: sicuti 
+      <lb ed="#B" n="98"/>et modo debemus beate marie: totum tamen 
+      <!--590.xml-->
+      <pb ed="#B" n="287-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>foret ratione dei.
+</p>
+               <p xml:id="WuV37d-f32051-d1e722">
+¶ Ex quo patet defectus 
+      <lb ed="#B" n="2"/>sancti Thome qui quaestione. 2. diciti / quod 
+      pu<lb ed="#B" n="3" break="no"/>ra creatura non potest satisfacere nisi 
+      intel<lb ed="#B" n="4" break="no"/>ligat ex parte sui: sed loqui videtur simplici 
+      <lb ed="#B" n="5"/>ter. Ad idem patet defectus docto. deuo. 
+      <lb ed="#B" n="6"/>q. 3. quae diciti / quod nec quo ad iniuriam potest 
+      pu<lb ed="#B" n="7" break="no"/>ra creatura: nec quo ad damnum deo 
+      satis<lb ed="#B" n="8" break="no"/>facere. Et. q. 4. dicit / quod licet forsan posset 
+      <lb ed="#B" n="9"/>homo purus de peccato actuali satisfacere: 
+      <lb ed="#B" n="10"/>nunquam tamen omne originali. Patet tamen opu 
+      <lb ed="#B" n="11"/>positum ex conclusione: vnde homo sine 
+      pec<lb ed="#B" n="12" break="no"/>cato per donum gratiae sibi collatum: si deo 
+      <lb ed="#B" n="13"/>placuisset pro seipso potuisset satisfecisse 
+      <lb ed="#B" n="14"/>aut pro omnibus secundum quod deus acceptare 
+      po<lb ed="#B" n="15" break="no"/>terat: placuit tamen ex superabundanti et ni 
+      <lb ed="#B" n="16"/>mia inquit Paulus charitate mittere 
+      fi<lb ed="#B" n="17" break="no"/>lium suum in terris: vt hoc solueret praecium 
+      <lb ed="#B" n="18"/>deo patri: Unde et testatur doctor deuo. quod 
+      <lb ed="#B" n="19"/>si purus innocens ante christi passionem 
+      <lb ed="#B" n="20"/>mortuus fuisset: vtputa si christus fuisset 
+      <lb ed="#B" n="21"/>purus homo caelum introisset.
+</p>
+               <p xml:id="WuV37d-f32051-d1e768">
+¶ Tertia 
+      <lb ed="#B" n="22"/>catnclusio est / quod alius fuit modus possibi 
+      <lb ed="#B" n="23"/>lis deo ad redimendum genus humanum quam 
+      <lb ed="#B" n="24"/>passio christi: et est hic. Licet placatio non 
+      <lb ed="#B" n="25"/>stra iesu passione deo sit acceptissima. alio 
+      <lb ed="#B" n="26"/>tamen modo deo fuit possibilis. Dicit pri 
+      <lb ed="#B" n="27"/>ma pars conclusionis / quod passio iesu deo fuit 
+      <lb ed="#B" n="28"/>acceptissima ad nos sibi reconciliandum. 
+      <lb ed="#B" n="29"/>Probatur. Quid enim acceptius quam mortem 
+      <lb ed="#B" n="30"/>morte recompensare: suauitatem peccati adae: 
+      <lb ed="#B" n="31"/>iesu acerbitate: facilitatem in adam 
+      peccan<lb ed="#B" n="32" break="no"/>di: difficultatem iesu patiendi: superbiam ade 
+      <lb ed="#B" n="33"/>iesu abiectione: vidimus eum inquit et non 
+      <lb ed="#B" n="34"/>erat ei aspectus neque decor. Unde recte 
+      <lb ed="#B" n="35"/>dicit doctor deuo. q. 5. quod inter omnes mo 
+      <lb ed="#B" n="36"/>dos redimendi nos: iste fuit nobilissimus 
+      <lb ed="#B" n="37"/>fuit enim ad placandum deum acceptissimus: 
+      <lb ed="#B" n="38"/>dum innocens pro nobis nocentibus se 
+      <lb ed="#B" n="39"/>morti obtulit. Secundo fuit ad curandi 
+      <lb ed="#B" n="40"/>morbum congruentissimus: peccauit adam 
+      <lb ed="#B" n="41"/>superbiaigula / et inobedientia: passus est 
+      <lb ed="#B" n="42"/>iesus in oppositis virtutibus. Tertio fuit 
+      <lb ed="#B" n="43"/>efficacissimus ad attrahendum sibi genus 
+      <lb ed="#B" n="44"/>humanum: dum aspicit pro se filium dei 
+      mo<lb ed="#B" n="45" break="no"/>rientem. Unde eleganter in quadam prosula 
+      <lb ed="#B" n="46"/>philippus cancellarius parisien. hoc 
+      in<lb ed="#B" n="47" break="no"/>nuit dicens: in nomine iesu in cruce penden 
+      <lb ed="#B" n="48"/>tis. Homo vide quid pro te patior: ad te cla 
+      <lb ed="#B" n="49"/>mo qui pro te morior: vide poenas quibus affi¬ 
+      <!--590.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>cior: vide clauos quibus confodior: cum sit 
+      <lb ed="#B" n="51"/>dolor tantus exterior: interior tantum planctus 
+      <lb ed="#B" n="52"/>est grauior: tam ingratum dum te experior. Et 
+      <lb ed="#B" n="53"/>si dicatur quod vita pisci fuit melior morte eius 
+      <lb ed="#B" n="54"/>et ita vita poterat eque bene satisfacere 
+      si<lb ed="#B" n="55" break="no"/>cut morte: Dicendum quod licet loquendo sim 
+      <lb ed="#B" n="56"/>pliciter vita iesu fuerit melior morte eius: 
+      <lb ed="#B" n="57"/>tamen inquantum benignissime mortem accepit: pro 
+      <lb ed="#B" n="58"/>nobis acceptissima fuit deo patri: Addit 
+      <lb ed="#B" n="59"/>tamen vnum hic scotus quod scilicet christus est ex parte 
+      <lb ed="#B" n="60"/>mortuus pro iusticia: quia videns publica 
+      iu<lb ed="#B" n="61" break="no"/>daeorum crimina eos arguebat ex quo moti 
+      <lb ed="#B" n="62"/>iudicem et medicum qui eos curare venerat 
+      <lb ed="#B" n="63"/>eum interemerunt: veluti infirmi frenetici. 
+      <lb ed="#B" n="64"/>Sed dicebat secunda pars conclusionis / quod alius 
+      <lb ed="#B" n="65"/>modus nostre redemptionis fuit deo 
+      possibi<lb ed="#B" n="66" break="no"/>lis: patet: quia si no: esset potentia dei 
+      limita<lb ed="#B" n="67" break="no"/>ta: vnde Leo in quodam sermodoe de ramis 
+      <lb ed="#B" n="68"/>palmarum dicit / Omnipotentia filii dei quae 
+      <lb ed="#B" n="69"/>propter eandem essentiam est equilis patri potuis 
+      <lb ed="#B" n="70"/>set liberare genus humanum solo imperio vo 
+      <lb ed="#B" n="71"/>luntatis sue nisi diuinis operibus maxime 
+      <lb ed="#B" n="72"/>congruisset: vt nequitiae hostilis aduersitas 
+      <lb ed="#B" n="73"/>eo quo vicerat vinceretur. Hoc idem Augustinus 
+      <lb ed="#B" n="74"/>in de trini. et est in listra: hoc tertio 
+      expressi<lb ed="#B" n="75" break="no"/>us Greguns. in moralibus. Qui nos fecit exi 
+      <lb ed="#B" n="76"/>stere ex nihilo: reucare etiam sine morte 
+      <lb ed="#B" n="77"/>sua et passione potuit. Et in hoc ostenditur 
+      <lb ed="#B" n="78"/>defectus Ans. qui in lib. cur deus bomo 
+      <lb ed="#B" n="79"/>videtur innuere non esse alium modum 
+      possibi<lb ed="#B" n="80" break="no"/>lem nisi mortem et passionem christi. 
+      <lb ed="#B" n="81"/>
+      arti<lb ed="#B" n="82" break="no"/>culum 
+      <lb ed="#B" n="83"/>sunt tres difficultates.
+</p>
+               <p xml:id="WuV37d-f32051-d1e909">
+¶ Prima. An 
+      si<lb ed="#B" n="84" break="no"/>ne quacumquae punitione seu poena potuit 
+      hu<lb ed="#B" n="85" break="no"/>mani generis remitti delictum: Dicere 
+      vi<lb ed="#B" n="86" break="no"/>detur in. 4. dis. 15. doc. subti. quod sic: non quidem 
+      <lb ed="#B" n="87"/>a parte generis humani sed a parte dei. Dico 
+      <lb ed="#B" n="88"/>tamen vltra paenam quae est ipsummet peccatum: quia 
+      <lb ed="#B" n="89"/>scribit Augustinus quod omne peccatum peccanti poena 
+      <lb ed="#B" n="90"/>est.
+</p>
+               <p xml:id="WuV37d-f32051-d1e927">
+¶ Secunda difficultas. Utrum 
+      ange<lb ed="#B" n="91" break="no"/>lus potuisset nos redemisse? Dicendum / quod 
+      <lb ed="#B" n="92"/>sic de potentia dei absoluta licet sit mod 
+      <lb ed="#B" n="93"/>eminentior: vt priscous quae est deus et homo.
+</p>
+               <p xml:id="WuV37d-f32051-d1e936">
+¶ Ter 
+      <lb ed="#B" n="94"/>tia difficultas. Quomodo differunt traditus 
+      <lb ed="#B" n="95"/>est in mortem piscous a deo patre / a seipso / a iuda 
+      <lb ed="#B" n="96"/>Dicendum / quod intelligitur traditus a patre 
+      permissi<lb ed="#B" n="97" break="no"/>ue et acceptatiue: quia passionem vnigeniti 
+      fi<lb ed="#B" n="98" break="no"/>lii sui acceptauit a se: in modum obedientiae: 
+      <!--591.xml-->
+      <pb ed="#B" n="287-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>quia ad hoc venerat in mundum: a iuda 
+      tra<lb ed="#B" n="2" break="no"/>ditoriae. Et tantum de praesenti quaestione: quod videli 
+      <lb ed="#B" n="3"/>est necessarium loquendo per modum 
+      suppo<lb ed="#B" n="4" break="no"/>sitionis: et non necessarium loquendo 
+      absolu<lb ed="#B" n="5" break="no"/>te passione christi durissima hominem 
+      satis<lb ed="#B" n="6" break="no"/>factorie reparari. Tunc ad argumenta¬ 
+      </p>
+               <p xml:id="WuV37d-f32051-d1e970">
+                  <lb ed="#B" n="7"/>¶ Ad primum dico ad maiorem quod est vera cae 
+      <lb ed="#B" n="8"/>teris paribus non sunt autem paria: quia tota na 
+      <lb ed="#B" n="9"/>tura angelica non est infecta: sicut tota 
+      na<lb ed="#B" n="10" break="no"/>turam humana: ideo non sequitur quod si non esset 
+      <lb ed="#B" n="11"/>reparata angelica quod nec humana: alludit 
+      <lb ed="#B" n="12"/>huic responsioni: quia homo alio temptante 
+      pec<lb ed="#B" n="13" break="no"/>cauit: quod non in angelis: maxime tam calli 
+      <lb ed="#B" n="14"/>da suggestione: hoc dico propter aliquos qui 
+      <lb ed="#B" n="15"/>ponunt peccatum primi angeli quodammodo causam 
+      <lb ed="#B" n="16"/>pecti minorum angelorum.
+</p>
+               <p xml:id="WuV37d-f32051-d1e994">
+¶ Ad secundum et ter 
+      <lb ed="#B" n="17"/>tium simul vnica responsio. Concludunt enim 
+      <lb ed="#B" n="18"/>de potentia absoluta dei quae potuit vnum opus 
+      <lb ed="#B" n="19"/>xpiscpi acceptare ad huiusmodi satiffactionem: de 
+      <lb ed="#B" n="20"/>potentia tamen ordinata noluit nisi vnigeniti 
+      <lb ed="#B" n="21"/>proprii passione quamcumque accipre recompensa 
+      <lb ed="#B" n="22"/>tionem.
+</p>
+            </div>
+            <div xml:id="WuV37d-f32051-Dd1e1011" type="et-conclusiones">
+               <head xml:id="WuV37d-f32051-Hd1e1013">Conclusiones</head>
+               <p xml:id="WuV37d-f32051-d1e1016">
+¶ Ex praesenti autem distin. sicut 
+      <lb ed="#B" n="23"/>de praecedeti etc. Prima conclusio. Alitel 
+      <lb ed="#B" n="24"/>potuit deus redimere sed non sic congruit 
+      <lb ed="#B" n="25"/>licet asserere. Dicit conclusio / quod alius mo 
+      <lb ed="#B" n="26"/>dus redimendi nos fuit deo possibilis: sed 
+      <lb ed="#B" n="27"/>non ita congruus nobis. A principio dis. vsque 
+      <lb ed="#B" n="28"/>ibi. Si enim etc.
+</p>
+               <p xml:id="WuV37d-f32051-d1e1032">
+¶ Secunda conclusio. Deo 
+      in<lb ed="#B" n="29" break="no"/>iuriam malignus spiritus et homo etiam fecerunt 
+      <lb ed="#B" n="30"/>primitus. Dicit conclusio / quod diabolus et homo 
+      <lb ed="#B" n="31"/>iniuriam fecerunt deo. Et ponitur ab illo cap. 
+      <lb ed="#B" n="32"/>Si enim etc. vsque ibi. Christus ergo etc.
+</p>
+               <p xml:id="WuV37d-f32051-d1e1043">
+¶ 
+      Ter<lb ed="#B" n="33" break="no"/>tia conclusio. Pater charitate filium tradidit: sed 
+      <lb ed="#B" n="34"/>iudas vendidit ex malignitate. Dicit conclusio / 
+      <lb ed="#B" n="35"/>quod pater tradidit filium suum pro nobis per 
+      cha<lb ed="#B" n="36" break="no"/>ritatem: sed iudas per malignitatem. Ab illo 
+      <lb ed="#B" n="37"/>capitulo. Christus ergo etc. 
+</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

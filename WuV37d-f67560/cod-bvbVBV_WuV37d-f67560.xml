@@ -1,0 +1,744 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 12</title>
+            <author ref="#WilliamDeVaurouillon">William de Vaurouillon</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 12</title>
+               <date when="2021-06-19">June 19, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-bvbVBV">Basel 1510</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-06-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="363-v"/>
+            <cb ed="#B" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="WuV37d-f67560"><!-- l4d12 -->
+            <head xml:id="WuV37d-f67560-Hd1e108">Distinctio 12</head>
+            <div xml:id="WuV37d-f67560-Dd1e111" type="circa-textum">
+               <head xml:id="WuV37d-f67560-Hd1e113">Circa textum</head>
+               <p xml:id="WuV37d-f67560-d1e116">
+                  <lb ed="#B" n="15"/>Distinctio. 12. huius quarti 
+      do<lb ed="#B" n="16" break="no"/>cet de his quae accidut sacramento 
+      <lb ed="#B" n="17"/>eucharistiae. 
+      <lb ed="#B" n="18"/>B autem 
+      que<lb ed="#B" n="19" break="no"/>ritur dae accidentibus qua re 
+      <lb ed="#B" n="20"/>manet: id est de specie 
+      <lb ed="#B" n="21"/>bus: et sapore / et pon 
+      <lb ed="#B" n="22"/>dere etc. Hic signatur. 12. 
+      <lb ed="#B" n="23"/>distinctio huius quarti: quae ita continuai 
+      <lb ed="#B" n="24"/>ad praecedentes: Nam postquam magister in pri 
+      <lb ed="#B" n="25"/>cedenti distin. egit de ipsamet confectione: 
+      <lb ed="#B" n="26"/>Nunc in ista agit de quorundam 
+      consecuti<lb ed="#B" n="27" break="no"/>one: quae sunt tria. Hostiae fractio. Secun 
+      <lb ed="#B" n="28"/>do trium partium hostiae significatio. Tertio sa 
+      <lb ed="#B" n="29"/>cerdotis immolatio seu sacrificatio: iuxta quae 
+      <lb ed="#B" n="30"/>tria haec distin. in tres partes diuiditur. In prima 
+      <lb ed="#B" n="31"/>tangit clare quod hostia frangitur. In secunda pan 
+      <lb ed="#B" n="32"/>dit plane quid partibus ils innuitur. In tertia 
+      <lb ed="#B" n="33"/>notat sane quod sacrificium hostia dicitur. Prima 
+      <lb ed="#B" n="34"/>in principio. Secunda ibi: Quid autem partes il 
+      <lb ed="#B" n="35"/>lae significent etc. Tertia ibi: Post haec quaeritur 
+      <lb ed="#B" n="36"/>si quod gerit sacerdos etc. Haec est diuisio prae 
+      <lb ed="#B" n="37"/>sentis dist. Circa quam talis etc.
+    </p>
+            </div>
+            <div xml:id="WuV37d-f67560-Dd1e169">
+               <head xml:id="WuV37d-f67560-Hd1e171">Quaestio</head>
+               <p xml:id="WuV37d-f67560-d1e174">
+                  <lb ed="#B" n="38"/>Questio haec determinat quomodo in sa 
+      <lb ed="#B" n="39"/>cramento encharistie sit accides 
+      abs<lb ed="#B" n="40" break="no"/>que subiecto: quam Secondo pulchre de 
+      <lb ed="#B" n="41"/>ducit per sex quaestiones partiales in 
+      <lb ed="#B" n="42"/>persenti distinctione. 
+      <lb ed="#B" n="43"/>Nhoc sacrame 
+      <lb ed="#B" n="44"/>Na to in pascha in panibus acymeis 
+      <lb ed="#B" n="45"/>vel fermenti confecto: accidens si¬ 
+      <!--743.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="46"/>ne subiecto remanserit: Et arguitur quod non tri 
+      <lb ed="#B" n="47"/>pliciter.
+</p>
+               <p xml:id="WuV37d-f67560-d1e203">
+¶ Primo sic. Suba non potest esse in 
+      <lb ed="#B" n="48"/>almio vt accidens: ergo nec accidens per se vt suba. 
+      <lb ed="#B" n="49"/>Patet consequentia: quia ita est proprium accidentis 
+      <lb ed="#B" n="50"/>esse in alio / sicut subae esse per se. Antecedens pa 
+      <lb ed="#B" n="51"/>tet ex quid nomins. Dicitur enim suba: quia 
+      acciden<lb ed="#B" n="52" break="no"/>tibus substat: si autem aliud sibi substaret / 
+      <lb ed="#B" n="53"/>esset processus in infinitum: aut quod vltimate 
+      sub<lb ed="#B" n="54" break="no"/>staret / solum suba diceretur.
+</p>
+               <p xml:id="WuV37d-f67560-d1e221">
+¶ Secundo sic. Ac e 
+      <lb ed="#B" n="55"/>cidens essentialiter est posterius suba: igitur non 
+      <lb ed="#B" n="56"/>potest esse sine suba. Patet consequentia per 
+      di<lb ed="#B" n="57" break="no"/>ctum philosophi. 5. metaph. ca. de priori. Antecedens est 
+      <lb ed="#B" n="58"/>eiusdem. 7. metaph. dicentis / quod suba est 
+      pri<lb ed="#B" n="59" break="no"/>mum omnium entium cognitione / diffinitione / et 
+      <lb ed="#B" n="60"/>tempore.
+</p>
+               <p xml:id="WuV37d-f67560-d1e237">
+¶ Tertio argu. sic. Accidens diffinitur 
+      <lb ed="#B" n="61"/>per substantiam: igitur nequit esse sine suba. Pa 
+      <lb ed="#B" n="62"/>tet consequentia: quia diffinitum nequit esse sine 
+      <lb ed="#B" n="63"/>partibus diffinientibus. Antecedes probatur 
+      per<lb ed="#B" n="64" break="no"/>philosophum. 7. metaph. c. 3.
+</p>
+               <p xml:id="WuV37d-f67560-d1e249">
+¶ In oppositum hu 
+      <lb ed="#B" n="65"/>ius est magister in littera / et sanctorum auctoritates 
+      addu<lb ed="#B" n="66" break="no"/>ctae in praecedenti di.
+</p>
+               <p xml:id="WuV37d-f67560-d1e256">
+¶ In ista quaestione sunt tres ar. 
+      <lb ed="#B" n="67"/>Primus est terminorum declaratiuus 
+      <lb ed="#B" n="68"/>Quorum Secundus est quaestionis responsiuus. 
+      <lb ed="#B" n="69"/>Tertius est dubiorum motiuus  
+      <lb ed="#B" n="70"/>Quo ad primii articulum 
+      <lb ed="#B" n="71"/>termini sunt 
+      <lb ed="#B" n="72"/>Pascha / agymus / fermentum.
+</p>
+               <p xml:id="WuV37d-f67560-d1e272">
+¶ Prim 
+      <lb ed="#B" n="73"/>terminus est pascha. Pascha tripliciter de 
+      <lb ed="#B" n="74"/>riuatur. Primo ab hebraeo: secundo a graeco: 
+      ter<lb ed="#B" n="75" break="no"/>tio a latino / secundum descensum linguarum. Ab hae 
+      <lb ed="#B" n="76"/>breo dicitur a phase quod est transitus: quia tunc transi 
+      <lb ed="#B" n="77"/>erunt filii israel de aegypto / et christus de 
+      <lb ed="#B" n="78"/>mundo: et rursus de morte ad vitam: et 
+      po<lb ed="#B" n="79" break="no"/>test scribi fase per. f. vt scribit frater ioannes 
+      <lb ed="#B" n="80"/>ianuensis: aut per ph. vt voluit Papias: et 
+      <lb ed="#B" n="81"/>communis habet vsus: et tunc dicitur pascha / quasi 
+      <lb ed="#B" n="82"/>phasta aut fasca: quia vsus est hebraeorum 
+      ali<lb ed="#B" n="83" break="no"/>quando sonare ph. pro p. sola: vnde gens eadem est 
+      <lb ed="#B" n="84"/>quae dicitur philistini et palestini. Secundo 
+      <lb ed="#B" n="85"/>dicitur a greco paschin / quod est pati: licet pa 
+      <lb ed="#B" n="86"/>pias contradicat. Sed super Ioannem Aug. 
+      <lb ed="#B" n="87"/>maioris auctoritatis hoc asserit: quia in 
+      le<lb ed="#B" n="88" break="no"/>ge immolabatur agnus: et in tempore gratiae pro 
+      no<lb ed="#B" n="89" break="no"/>bis mortuus est christus quae agnus est sine 
+      <lb ed="#B" n="90"/>macula. Tertio dicitur a latino / a pasco pa 
+      <lb ed="#B" n="91"/>scis: quia tunc in lege agno paschali et pa 
+      <lb ed="#B" n="92"/>nibus agymis pascebatur populus / et nos 
+      <lb ed="#B" n="93"/>corpore domini. Est autem primae declinationis 
+      ir<lb ed="#B" n="94" break="no"/>regulariter: licet frater Aoannes ianuensis 
+      <!--744.xml-->
+      <pb ed="#B" n="364-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>contradicat: et est neutri generis / dicente ma 
+      <lb ed="#B" n="2"/>gistro Alexandro. Mamnaque neutrale / cum 
+      <lb ed="#B" n="3"/>pascha dicitur esse: et est tertiae declinationis 
+      <lb ed="#B" n="4"/>irregularitur. Unde quidam scriba dicit. Qui 
+      <lb ed="#B" n="5"/>dicit pascha post paschatis / errat ab 
+      ar<lb ed="#B" n="6" break="no"/>te. Nam pascha paschae pueri solent 
+      varia<lb ed="#B" n="7" break="no"/>re. Et solet capi pascha tribus ternariis:  
+      <lb ed="#B" n="8"/>quorum septem modi sunt in isto versu. Heb 
+      <lb ed="#B" n="9"/>domas / hora / dies / epulae / pecusi 
+      agyma<lb ed="#B" n="10" break="no"/>christus. Duo alii modi alibi capiuntur. 
+      <lb ed="#B" n="11"/>Primo igitur modo pascha dicitur tota paschae 
+      <lb ed="#B" n="12"/>legalis solennitas: quae septem diebus 
+      du<lb ed="#B" n="13" break="no"/>rabat. Unde in lege dicitur: Septem diebus 
+      <lb ed="#B" n="14"/>agyma comedetis. De quo modo capiendi 
+      <lb ed="#B" n="15"/>scribitur in actibus apistolorum. Dum de Herode 
+      <lb ed="#B" n="16"/>capiente et petro capto dicitur: Uolens post 
+      <lb ed="#B" n="17"/>pascha eum producere populo: et hoc nota 
+      <lb ed="#B" n="18"/>tur in versu / Ebdomas. Secundo dicitur pa 
+      <lb ed="#B" n="19"/>scha hora in qua immolabatur agnus legalis: de qua 
+      <lb ed="#B" n="20"/>modo scribitur in euansielis. Scitis quia post 
+      <lb ed="#B" n="21"/>biduum pascha fiet: sic habet versus: 
+      Ho<lb ed="#B" n="22" break="no"/>ra. Tertio dicitur pascha dies solennior 
+      <lb ed="#B" n="23"/>illius festiuitatis: de quo similiter dicitur: 
+      <lb ed="#B" n="24"/>a Dies primus erit vobis 
+      celeberrimus<lb ed="#B" n="25" break="no"/>Et alibi dicitur. Appropinquabat dies 
+      fe<lb ed="#B" n="26" break="no"/>stus agymorum qui dicitur pascha: sic habet 
+      <lb ed="#B" n="27"/>versus: Dies. Ecce primus ternarius. 
+      <lb ed="#B" n="28"/>Quarto dicitur pascha epulae quae comede 
+      <lb ed="#B" n="29"/>bantur in pascha. de quo modo capiendi pascha scri 
+      <lb ed="#B" n="30"/>pitur in libro Paralipom. Non fuit 
+      pha<lb ed="#B" n="31" break="no"/>se simile huic in israel a diebus 
+      Samue<lb ed="#B" n="32" break="no"/>lis prophetae. De quo dicitur. Nec enim factum 
+      <lb ed="#B" n="33"/>est tale phase a diebus iudicum qui 
+      iudica<lb ed="#B" n="34" break="no"/>uerunt israel. Nec est contradictio: quia Sa 
+      <lb ed="#B" n="35"/>muel fuit vltimus iudex: sic habet versus: 
+      <lb ed="#B" n="36"/>Epulae. Quinto dicitur pascha agnus qui 
+      <lb ed="#B" n="37"/>immolabatur. Unde in euangelis. Uenit 
+      di<lb ed="#B" n="38" break="no"/>es acymorum: in qua necesse erat occidi 
+      <lb ed="#B" n="39"/>pascha: sic habet versus / Pecus. Sexto 
+      <lb ed="#B" n="40"/>dicitur pascha panis agymus / qui come 
+      <lb ed="#B" n="41"/>debatur in illa solennitate. De quo 
+      dici<lb ed="#B" n="42" break="no"/>tur: Et ipsi non introierunt in praetorium / ne 
+      <lb ed="#B" n="43"/>contaminarentur / sed manducarent pascha: 
+      <lb ed="#B" n="44"/>sic habet versus / Agyma. En secundus ter 
+      <lb ed="#B" n="45"/>narius. Septimo modo dicitur pascha 
+      chri<lb ed="#B" n="46" break="no"/>stus. Unde apostolus dicit. Eten pascha nostrum 
+      <lb ed="#B" n="47"/>immolatus est christus: sic habet in fine 
+      ver<lb ed="#B" n="48" break="no"/>sus / Christus. Octauo dicitur pascha / dies 
+      <lb ed="#B" n="49"/>festus resurrectionis dominicae seu tempus: de 
+      <!--744.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>quo per modum diffinitionis loquens in quodam 
+      <lb ed="#B" n="51"/>sermone Augustinus dicit. Pascha christi frens 
+      <lb ed="#B" n="52"/>charissimi regnum caelorum est / salus mundi / 
+      oc<lb ed="#B" n="53" break="no"/>casus infernii gloria supernorum / vita 
+      creden<lb ed="#B" n="54" break="no"/>tium / resurrectio mortuorum / testionium 
+      mise<lb ed="#B" n="55" break="no"/>rationis diuine / praecium redemptionis 
+      humanae<lb ed="#B" n="56" break="no"/>contritio mortis abolitae. Nono dicitur pascha 
+      <lb ed="#B" n="57"/>quoeddam comne omnibus his: non curo pro praesenti aut vni 
+      <lb ed="#B" n="58"/>uoce / aut aequiuoce / seu analogice. Et 
+      notan<lb ed="#B" n="59" break="no"/>dum secundum veram scripturam / quod quando pascha ab he 
+      <lb ed="#B" n="60"/>braeo descendit: non debet habere. h. in secunda sys 
+      <lb ed="#B" n="61"/>laba: sed si habet / debet poni in prima sicut 
+      <lb ed="#B" n="62"/>phase / a quo descendit / vt dicatur phasca. 
+      <lb ed="#B" n="63"/>Si vero a greco veniat / non debet habere 
+      <lb ed="#B" n="64"/>h. in prima syllaba / sed in secunda / sicut paschin: 
+      <lb ed="#B" n="65"/>a quae venit vt scribatur pascha. Si autem 
+      egre<lb ed="#B" n="66" break="no"/>diatur a latino: nec in prima nec in secunda sylla 
+      <lb ed="#B" n="67"/>ba. b. collocetur / sed scribatur pasca. Ulterius 
+      <lb ed="#B" n="68"/>est notandum / quod pascha tribus modis nume 
+      <lb ed="#B" n="69"/>ratur. Distinguit enim Innocentius tertius primo 
+      <lb ed="#B" n="70"/>in libro de officio missae parte. 3. ca. 4. pa 
+      <lb ed="#B" n="71"/>scha in quinque modos: secundo iam dictus versus 
+      <lb ed="#B" n="72"/>in septem modos: et tertio modo nouem modi 
+      <lb ed="#B" n="73"/>reparti sunt.
+</p>
+               <p xml:id="WuV37d-f67560-d1e491">
+¶ Secundus est a3 yvmus: vnde dici 
+      <lb ed="#B" n="74"/>tur panis sine fermento panis agymus ab a 
+      <lb ed="#B" n="75"/>quod est sine / et cymos secundum huguicionem / vl 
+      <lb ed="#B" n="76"/>cyma secundum Papiam: quod est fermentum quasi sine 
+      <lb ed="#B" n="77"/>fermento id est peccato: ideo panis agymus innocen 
+      <lb ed="#B" n="78"/>tiam signat. Unde apostolus dicit: Expurgate in 
+      <lb ed="#B" n="79"/>vetus fermentum / vt sitis noua 
+      conspersio<lb ed="#B" n="80" break="no"/>sicut estis am vmi. Et hiusmoi panes 
+      come<lb ed="#B" n="81" break="no"/>debantur in diebus paschalibus praesagiantes 
+      in<lb ed="#B" n="82" break="no"/>nocentiam christi. Unde Petrus comestoris 
+      <lb ed="#B" n="83"/>in aurora dicit. Acyma mandantur septem 
+      co<lb ed="#B" n="84" break="no"/>medenda diebus.
+</p>
+               <p xml:id="WuV37d-f67560-d1e517">
+¶ Tertius terminus est 
+      <lb ed="#B" n="85"/>fermentum: quod leuare facit pastam ex sui cor 
+      <lb ed="#B" n="86"/>ruptioe: vnde et dictum est leuamentum: et dicitur 
+      <lb ed="#B" n="87"/>a ferueo es / quasi feruentum: et pro peccato po 
+      <lb ed="#B" n="88"/>nitur. Unde apostolus dicit. Non in fermento vete 
+      <lb ed="#B" n="89"/>ri / neque in fermento maliciae et nequitiae: sed in 
+      <lb ed="#B" n="90"/>agymis sinceritatis / contra maliciam: et verius 
+      <lb ed="#B" n="91"/>tatis / contra nequitiam. 
+      </p>
+               <p xml:id="WuV37d-f67560-d1e535">
+                  <lb ed="#B" n="92"/>¶ Quantum ad secundum articulum 
+      <lb ed="#B" n="93"/>sunt tres  
+      <lb ed="#B" n="94"/>conclusiones. Prima est de esse accidentium 
+      <lb ed="#B" n="95"/>sine subiecto. Secunda de actione eorum. 
+      <lb ed="#B" n="96"/>Tertia de transmutatione circa ipsa. 
+      </p>
+               <p xml:id="WuV37d-f67560-d1e549">
+                  <lb ed="#B" n="97"/>¶ Prima est ista. In sacramento a 
+      chri<lb ed="#B" n="98" break="no"/>sto in pascha instituto / aliquod accidens sine 
+      <!--745.xml-->
+      <pb ed="#B" n="364-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>subiecto censetur / sed non omne. Ista 
+      conclu<lb ed="#B" n="2" break="no"/>sio habet tres particulas. Prima diciti quod sa 
+      <lb ed="#B" n="3"/>cramentum eucharistiae fuit institutum die 
+      pa<lb ed="#B" n="4" break="no"/>schae id est die iouis sancta: quae erat luna. 14. in eo 
+      <lb ed="#B" n="5"/>necesse erat occidi pascha. Ex quo sequit 
+      <lb ed="#B" n="6"/>quod in panibus agymeis / non fermenti consecra 
+      <lb ed="#B" n="7"/>uit. Unde scriptum est. Uenit autem dies aci 
+      <lb ed="#B" n="8"/>morum: in quo necesse erat occidi pascha. Et 
+      <lb ed="#B" n="9"/>alibi. Uenit prima dies acymorum. Et iterum 
+      <lb ed="#B" n="10"/>Prima autem die agymorum. Et patet quia 
+      <lb ed="#B" n="11"/>sic praeceptum erat in lege / quod comederent pa 
+      <lb ed="#B" n="12"/>scha cum agymis: vt non inueniretur panis fer 
+      <lb ed="#B" n="13"/>mentatus in domibus eorum. Etiam magim 
+      com<lb ed="#B" n="14" break="no"/>gruit panis acymus sacramento quam 
+      fermen<lb ed="#B" n="15" break="no"/>ti: quia designat puritatem. Et si dicatur quod chr 
+      <lb ed="#B" n="16"/>stus dicit agymorum praeuenit: vt veritas 
+      figu<lb ed="#B" n="17" break="no"/>ram impleret. 14. luma quidem immolabatur agnus. It 
+      <lb ed="#B" n="18"/>14. luna mori debuit christus: et non fecit cae 
+      <lb ed="#B" n="19"/>nam die qua mortuus est: igitur luna. 13. caenan 
+      <lb ed="#B" n="20"/>fecit: et. 14. mortuus est. Ante autem lunam. 14. 
+      <lb ed="#B" n="21"/>erat panis fermentatus / non agymus in do 
+      <lb ed="#B" n="22"/>mibus: vnde concluditur in fermento consecras 
+      <lb ed="#B" n="23"/>se: quod et euangelis. videtur innuere. Ante dieit 
+      <lb ed="#B" n="24"/>paschae etc. Ex quibus concludunt graeci tres 
+      <lb ed="#B" n="25"/>conclusiones mirabiles. Prima est / quod chri 
+      <lb ed="#B" n="26"/>stus in fermento confecit. Secunda est / quod la 
+      <lb ed="#B" n="27"/>tini non conficiunt. Ex quibus duabus 
+      ter<lb ed="#B" n="28" break="no"/>tiam inferunt / quod ipsi soli conficiunt. Et ad 
+      tan<lb ed="#B" n="29" break="no"/>tam mentis insaniam per superbiam sunt prolapsi / vt 
+      <lb ed="#B" n="30"/>haec tria faterentur. Primum / quod tres primi 
+      <lb ed="#B" n="31"/>euangelistae in ista materia falsum dixerint: 
+      <lb ed="#B" n="32"/>quia dicunt contra eons: et Ioannes 
+      superueni<lb ed="#B" n="33" break="no"/>ens ipsos redarguit / secundum quod sequitur / quod tres 
+      <lb ed="#B" n="34"/>primi euangelistae sancto non sunt locuti 
+      <lb ed="#B" n="35"/>ipum: qui falsum non seminat. Ex quibus ter 
+      <lb ed="#B" n="36"/>tium sequitur / quod nouum testamentum non est inuin 
+      <lb ed="#B" n="37"/>cibilis auctoritatis. Ecce quomodo recte dicit 
+      <lb ed="#B" n="38"/>philosophus libro de caelo et mundo / quod error par 
+      <lb ed="#B" n="39"/>uus in principio / multus est in fine: sed 
+      ta<lb ed="#B" n="40" break="no"/>mem hoc non tenetur communiter. Sed quod. 14. 
+      <lb ed="#B" n="41"/>luna agnum comedit figuralem: et. 15. luna 
+      <lb ed="#B" n="42"/>ipse vt verus agnus extitit immolatus. Sic 
+      <lb ed="#B" n="43"/>nempe praecedit figura vt veritas sequature 
+      <lb ed="#B" n="44"/>Nec oportuit vt praeueniret comedere 
+      ag<lb ed="#B" n="45" break="no"/>num ante dicit lege assignatum. Et quod 
+      obii<lb ed="#B" n="46" break="no"/>citur de Ioanne. Ante dicit festum paschae 
+      <lb ed="#B" n="47"/>sciens Iesus etc. Et illud eiusdem: Non in 
+      <lb ed="#B" n="48"/>trauerunt in praetorium / vt non contaminarem 
+      <lb ed="#B" n="49"/>tur / sed comederent pascha. Dissoluit do¬ 
+      <!--745.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>ctor deuotus dist. 11. parte. 2. articulo. 2. 
+      <lb ed="#B" n="51"/>q. 1. Pascha inquit accipitur tripliciter. Uno 
+      <lb ed="#B" n="52"/>modo pascha cibus paschalis dicitur: vt ac 
+      v<lb ed="#B" n="53" break="no"/>ma quae per septem dies comedebatur a iudae 
+      <lb ed="#B" n="54"/>is. Secundo modo pascha dicitur agnus 
+      pa<lb ed="#B" n="55" break="no"/>schalis. Unde dicitur: In qua necesse erat 
+      <lb ed="#B" n="56"/>occidi pascha. Tertio modo dicitur paschac 
+      <lb ed="#B" n="57"/>agnus verus. Et primo modo accipitur in Io 
+      <lb ed="#B" n="58"/>anne. Sic etiam recurrendum est ad primum arti 
+      <lb ed="#B" n="59"/>culum de acceptatione nouenaria 
+      paschae<lb ed="#B" n="60" break="no"/>Frater tantum Rogerius bachonis / anglicus 
+      <lb ed="#B" n="61"/>natione / religione minor / ingenio mirabilis 
+      <lb ed="#B" n="62"/>et scientia capacissimus: in maiori compendio 
+      <lb ed="#B" n="63"/>ad Claementem papam quartum altissime 
+      dispu<lb ed="#B" n="64" break="no"/>tat: reuoluens tabiultas theophili greci: 
+      ger<lb ed="#B" n="65" break="no"/>laudi alemani / et abbatis Dionysy roma 
+      <lb ed="#B" n="66"/>ni. Ex quibus videtur (vt ostendit/ apparere 
+      <lb ed="#B" n="67"/>quod. 13. luna fecit caenam / et. 14. mortuus est. De 
+      <lb ed="#B" n="68"/>terminationem tamen huiusmodi materiae summo pon 
+      <lb ed="#B" n="69"/>tifici derelinquit. Notandum tamen video quid sint 
+      <lb ed="#B" n="70"/>clerici huius temporis: ad talem notat ibi du 
+      <lb ed="#B" n="71"/>os sui temporis fuisse / et sciuisse omne scibile 
+      <lb ed="#B" n="72"/>Quorum primus fuit Robertus grossi 
+      ca<lb ed="#B" n="73" break="no"/>pitis salberien sis praesul. Secundus frater 
+      <lb ed="#B" n="74"/>Adam de marisco / ordinis fratrum 
+      mino<lb ed="#B" n="75" break="no"/>rum. Credo quod tertius fuit ipse solum. Mo 
+      <lb ed="#B" n="76"/>derni de superbia erubescant: et se modi 
+      <lb ed="#B" n="77"/>cum sciant scire: dum cum prioribus comparantur. 
+      Finali<lb ed="#B" n="78" break="no"/>ter notemus cum bto Anselmo in libello de fer 
+      <lb ed="#B" n="79"/>mento et acymo / quod siue confectum sit de agymo 
+      <lb ed="#B" n="80"/>vel fermento / confectum est: sed peccatum in 
+      <lb ed="#B" n="81"/>hoc est / non conformari romanae ecclesiae: quae 
+      <lb ed="#B" n="82"/>mater est omnium fidelium. Sic enim tempare 
+      Leo<lb ed="#B" n="83" break="no"/>nis papae ad haeresim ebioniorum 
+      extinguen<lb ed="#B" n="84" break="no"/>dam: praeceptum est vt conficeretur in fermecto. 
+      <lb ed="#B" n="85"/>Dicebant enim cum euangelio deberi obser 
+      <lb ed="#B" n="86"/>uari legalia. Et dicuntur ab Ebione eorum 
+      <lb ed="#B" n="87"/>auctore. Sed cessante haeresi / ad agymum ec 
+      <lb ed="#B" n="88"/>clesia romana rediit: greca ex superbia 
+      no<lb ed="#B" n="89" break="no"/>luit. Secunda pars conclusionis est / quod aliquod 
+      <lb ed="#B" n="90"/>accidens est ibi sine subiecto / vt 
+      quanti<lb ed="#B" n="91" break="no"/>tas panis: nec illa quantitas afficit corp 
+      <lb ed="#B" n="92"/>christi / nec aerem. Et si dicatur: quomodo est 
+      possi<lb ed="#B" n="93" break="no"/>bile / exquo accidens non habet esse nisi 
+      sub<lb ed="#B" n="94" break="no"/>iecti: quod subiectum non sit / et accidens 
+      remane<lb ed="#B" n="95" break="no"/>at. Tho. respondet in praesenti distin. articulo 
+      <lb ed="#B" n="96"/>primo. q. 1. soluendo tertium argu. 
+      quaestiun<lb ed="#B" n="97" break="no"/>culae tertiae: quod in separatione deus dat sibi no 
+      <lb ed="#B" n="98"/>uum esse. Sed contra. Exquo enim erat ante 
+      <!--746.xml-->
+      <pb ed="#B" n="365-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>separationem extra causam suam vere habebat 
+      <lb ed="#B" n="2"/>efse: et non solum subiecti: sed in esse quod est 
+      pro<lb ed="#B" n="3" break="no"/>prium accidentis. Doctor solennis. dicit 
+      qua<lb ed="#B" n="4" break="no"/>libe. quarto. q. 36. quod accidenti vt possit per 
+      <lb ed="#B" n="5"/>se esse datur noua virtus quam prius non 
+      <lb ed="#B" n="6"/>habuit dum erat in subiecto: sed hoc nihil est 
+      <lb ed="#B" n="7"/>quia illa virtus non est diuina per 
+      essen<lb ed="#B" n="8" break="no"/>tiam certum est: oportet igitur dare vnum 
+      <lb ed="#B" n="9"/>trium: aut quod sit substantia: aut accidens: 
+      <lb ed="#B" n="10"/>aut neutrum. Non est substantia: quia tunc non 
+      <lb ed="#B" n="11"/>esset formaliter in accidente: nec est accidens 
+      <lb ed="#B" n="12"/>quia tunc oporteret etiam querere aliam virtutem 
+      <lb ed="#B" n="13"/>vt posset per se esse: nec tertium potest dici vt si 
+      <lb ed="#B" n="14"/>sit neutrum: quia omne quod est aut est substantia 
+      <lb ed="#B" n="15"/>aut acceiens. Ideo ad habendum istam partem 
+      <lb ed="#B" n="16"/>conclusionis secundam et tertiam pono tres 
+      con<lb ed="#B" n="17" break="no"/>clusiones. Prima est quod accidens sub ratione 
+      <lb ed="#B" n="18"/>accidentis non potest esse sine subiecto. Ista 
+      <lb ed="#B" n="19"/>patet ex quid nonis. debet tamen intelligi 
+      vni<lb ed="#B" n="20" break="no"/>formiter: vt si accidens habitudine habi 
+      <lb ed="#B" n="21"/>tudine habet subiectum: si actu actu. Secunda 
+      <lb ed="#B" n="22"/>conclusio est: quod deus potest facere quodcumque 
+      acci<lb ed="#B" n="23" break="no"/>dens absolutum sine subiecto: patet quia ex 
+      <lb ed="#B" n="24"/>quo est absolutum absoluitur: primo a termi 
+      <lb ed="#B" n="25"/>no quem non aspicit: et etiam a subiecto: quod non 
+      <lb ed="#B" n="26"/>includit essentialiter. Ex quo sequitur quod de 
+      <lb ed="#B" n="27"/>us potest facere colorem sine quantitate: et ille 
+      <lb ed="#B" n="28"/>color casu posito esset visibilis et 
+      inuisibi<lb ed="#B" n="29" break="no"/>lis: esset visibilis potentia remota: inuisi 
+      <lb ed="#B" n="30"/>bilis propinqua. Tertia conclusio quod non 
+      <lb ed="#B" n="31"/>potest fieri acceimens respectiuum sine 
+      subie<lb ed="#B" n="32" break="no"/>cto: quia respectus est habitudo inter duo 
+      <lb ed="#B" n="33"/>vnius vt termini: reliqui vt subiecti: et ita 
+      <lb ed="#B" n="34"/>sicut tollere terminum ad quem respectus est 
+      <lb ed="#B" n="35"/>tollere respectum: ita tollere subiectum cuius 
+      <lb ed="#B" n="36"/>est respectus est destruere respectum: non 
+      <lb ed="#B" n="37"/>quia accidens: sed quia respectus est respe 
+      <lb ed="#B" n="38"/>ctus. Ex secunda conclusione patet defectus 
+      <lb ed="#B" n="39"/>Egidii de roma theore. 36. 37. 36. et. 39. po 
+      <lb ed="#B" n="40"/>nentis solam quantitatem esse et posse esse in 
+      <lb ed="#B" n="41"/>eucharistia sine subiecto. Sed oppositum 
+      <lb ed="#B" n="42"/>patet ex predictis et licet quantitas sit propin 
+      <lb ed="#B" n="43"/>quior substantiae in vna hierarchia quam qualitas 
+      <lb ed="#B" n="44"/>non tamen est simpliciter perfectior: quia qualitas est. 
+      <lb ed="#B" n="45"/>propinquior substantiae in hierarchia nobiliori 
+      <lb ed="#B" n="46"/>sicut licet caelum in necessitate sit propinquius deo 
+      <lb ed="#B" n="47"/>quam homo: tamen in ratione vitae homo est propinquior deo quam 
+      <lb ed="#B" n="48"/>caelum: et ideo simpliciter melior: ita quod actuare est 
+      per<lb ed="#B" n="49" break="no"/>fectius quam recipere: et actuare magi competit 
+      <!--746.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>quilitati quam quantitati: ideo simpliciter loqui 
+      <lb ed="#B" n="51"/>do perfectior qualitas est quantitati: haec est 
+      <lb ed="#B" n="52"/>cathena aurea gonfos seu gonphos: quam 
+      <lb ed="#B" n="53"/>cancellarius parrhysien: in summa sua: 
+      va<lb ed="#B" n="54" break="no"/>dam in agrum vocat socraticam: quia amore 
+      <lb ed="#B" n="55"/>socratis iam defuncti fecit plato thimeum 
+      <lb ed="#B" n="56"/>suum: in quo de hac cathena primo fecit mem 
+      <lb ed="#B" n="57"/>tionem: quam vocant secundi platonicam ab 
+      <lb ed="#B" n="58"/>auctore: tertii thimeticam a collocutore: ibi 
+      <lb ed="#B" n="59"/>enim vt patet thimeus loquens inducitur. 
+      <lb ed="#B" n="60"/>Ex tertia conclusione patet defectus gan 
+      <lb ed="#B" n="61"/>fredi pictauien. dicentis in quarta parte 
+      <lb ed="#B" n="62"/>summae suae in materia de eucharistia: 
+      nul<lb ed="#B" n="63" break="no"/>lum accidens posse esse subiectum accidem 
+      <lb ed="#B" n="64"/>tis: patet manifeste oppositum: quia albedo est 
+      <lb ed="#B" n="65"/>similis: et eius similitudo immediate est fum 
+      <lb ed="#B" n="66"/>data in albedine: ita quod quantitas est alba 
+      <lb ed="#B" n="67"/>et albedo est immediate fundata in quanti 
+      <lb ed="#B" n="68"/>tate: nec deus potest facere motum sine 
+      mo<lb ed="#B" n="69" break="no"/>bili: nec patrem vt pater est: quin sit filius 
+      <lb ed="#B" n="70"/>vt filius: ita quod nedum nullum accens esse in alio 
+      <lb ed="#B" n="71"/>non est verum: immo etiam ad suum esse vnum 
+      <lb ed="#B" n="72"/>relatiuum aliud requirit.
+</p>
+               <p xml:id="WuV37d-f67560-d1e946">
+¶ Secunda 
+      <lb ed="#B" n="73"/>conclusio est de actione accidentium separatorum: et 
+      <lb ed="#B" n="74"/>est haec. Accidentia separata ad genationem sub 
+      <lb ed="#B" n="75"/>stantiae sic non agunt vt ad sensuationem et 
+      re<lb ed="#B" n="76" break="no"/>alem operationem operentur. Ista conclusio tres habet 
+      <lb ed="#B" n="77"/>particulas. Prima quod accisentia separata non 
+      <lb ed="#B" n="78"/>agunt ad productionem substantiae: et hoc patet 
+      <lb ed="#B" n="79"/>discurrendo quia non possunt esse causa tota 
+      <lb ed="#B" n="80"/>lis substantiae seu principalis: tunc enim essent 
+      <lb ed="#B" n="81"/>perfectiora substantia: quia causa equiuoca 
+      <lb ed="#B" n="82"/>totalis aut principalis est nobilior suo ef 
+      <lb ed="#B" n="83"/>fectu: nec potest esse causa partialis respectu 
+      <lb ed="#B" n="84"/>agentis primarii: ita quod sit pars eius: quia accens 
+      <lb ed="#B" n="85"/>non est pars hoc modo substantiae: nec causa in 
+      <lb ed="#B" n="86"/>strumentalis ita quod agat in virtute substantiae 
+      <lb ed="#B" n="87"/>quia nihil agit in virtute illius quod non est: 
+      <lb ed="#B" n="88"/>bene tamen potest esse dispositio ad introductionem 
+      <lb ed="#B" n="89"/>substantiae secundum modum loquendi in. 2. de anima. 
+      <lb ed="#B" n="90"/>apud ipsum philosophum: nec tamen tunc erit instru 
+      <lb ed="#B" n="91"/>mentum substantie: quia per casum positum sub 
+      <lb ed="#B" n="92"/>stantia non est. Ex quo patet defectus tho. in 
+      <lb ed="#B" n="93"/>praesenti dist. arti. 1. q. 1. in solutione 
+      principa<lb ed="#B" n="94" break="no"/>li secundae quaestiumculae dicentis: quod in 
+      actioni<lb ed="#B" n="95" break="no"/>bus naturalibus formae substantiales non 
+      <lb ed="#B" n="96"/>sunt proximum et immediatum principium actionum: 
+      <lb ed="#B" n="97"/>sed agunt mediantibus qualtatibus actiuis 
+      <lb ed="#B" n="98"/>et passiuis tanquam propriis instrumentis vt 
+      <!--747.xml-->
+      <pb ed="#B" n="365-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>dicitur. 2 de anima. quia color naturalis est quo anima agit: 
+      <lb ed="#B" n="2"/>et ideo qualitates non agunt virtute propria: sed etiam 
+      <lb ed="#B" n="3"/>virtute forme substantialis: ideo eorum operatio non 
+      <lb ed="#B" n="4"/>solum terminatur ad formam accidentalem: sed sub 
+      <lb ed="#B" n="5"/>stantialem: et propter hoc genatio est terminus altera 
+      <lb ed="#B" n="6"/>tionis: et ideo inquit tho. quod sicut accistentibus 
+      separa<lb ed="#B" n="7" break="no"/>tis remanet idem esse per potentiam seu virtutem 
+      <lb ed="#B" n="8"/>diuinam: ita remanet eadem virtus quae prius: et 
+      <lb ed="#B" n="9"/>idoeo inquit sicut antea: poterant immutare ad 
+      <lb ed="#B" n="10"/>formam substantialem: ita et nunc. Et si arguatur 
+      <lb ed="#B" n="11"/>contra eum quia nihil potest agere uvltra suam specie. Re 
+      <lb ed="#B" n="12"/>spondet ibidem soluendo secundum argumentum illi 
+      <lb ed="#B" n="13"/>us quaestiumculae: quod propria virtute nihil agit 
+      <lb ed="#B" n="14"/>ultra suam specim: sed virtute alterius cuius est 
+      in<lb ed="#B" n="15" break="no"/>strumentum potest agere ultra suam speciam: sicut 
+      <lb ed="#B" n="16"/>serra agit ad formam scani: sed hoc in nostro propo 
+      <lb ed="#B" n="17"/>sito nihil est: quia dum dicitur quod accidentia 
+      separa<lb ed="#B" n="18" break="no"/>ta agunt ad productionem substantiae in virtute 
+      <lb ed="#B" n="19"/>substantiae. Quaero quid est haec virtus: et in qua 
+      <lb ed="#B" n="20"/>fundatur: Si dicatur primo quod in substantia et 
+      <lb ed="#B" n="21"/>per casum substantia non est: igitur acciesmens 
+      separa<lb ed="#B" n="22" break="no"/>tum agit in virtute non entis. Si secundo 
+      dica<lb ed="#B" n="23" break="no"/>tur quod illa virtus est in accidente tunc non pote 
+      <lb ed="#B" n="24"/>rit esse principium principale prodiictiuum 
+      su<lb ed="#B" n="25" break="no"/>stantiae: cum omnis substantia sit nobilior quo 
+      <lb ed="#B" n="26"/>cumque accidente. Si tertio dicatur quod ista virtus 
+      <lb ed="#B" n="27"/>est habitudo accesentis separati ad substantiam: 
+      <lb ed="#B" n="28"/>hoc nihil est: quia exquo huiusmodi 
+      substan<lb ed="#B" n="29" break="no"/>tia per casum nihil est: non potest esse habitudo 
+      <lb ed="#B" n="30"/>realis accsentis separati ad ipsam: vnde patet 
+      <lb ed="#B" n="31"/>quod illud secundi de anima non est ad 
+      proposi<lb ed="#B" n="32" break="no"/>tum suum: quia calor non est principium ni 
+      <lb ed="#B" n="33"/>si alterationis praeuie ad generationem: nec 
+      <lb ed="#B" n="34"/>generatio est terminus alterationis intrin 
+      <lb ed="#B" n="35"/>ecus sed extrinsecus et alterius generis: et 
+      <lb ed="#B" n="36"/>habet terminum priorem secundum genus proprio 
+      <lb ed="#B" n="37"/>termino alterationis. Unde vltra sequitui 
+      <lb ed="#B" n="38"/>quod etiam accemens commuiunctum non est principium ge 
+      <lb ed="#B" n="39"/>nerationis substantiae sed alterationis 
+      prae<lb ed="#B" n="40" break="no"/>uiae. vt patet per exemplum philosophi iam adductum: 
+      <lb ed="#B" n="41"/>et oportet quod ipsemet dicat substantiam esse 
+      <lb ed="#B" n="42"/>immediatum principium alicuius accidentis: quia 
+      <lb ed="#B" n="43"/>potentiae animae secundum eum fluunt ab essentia animae et 
+      <lb ed="#B" n="44"/>sunt accidentia secundum eum. Iste fluxus arguit 
+      <lb ed="#B" n="45"/>in essentia animae causalitatem aliquam. Ex quo 
+      <lb ed="#B" n="46"/>infertur manifeste quod accens non potest esse 
+      prin<lb ed="#B" n="47" break="no"/>cipale principium productiuum substantiae. Secun 
+      <lb ed="#B" n="48"/>da pars patet: quia quantitas hostiae percipitur: et 
+      co<lb ed="#B" n="49" break="no"/>lor eius videtur. Tertia pars conclusionis etiam 
+      <!--747.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>quia operationem realem habent: distinguendo contra 
+      <lb ed="#B" n="51"/>vitalem: quia calor separatus posset calorem in li 
+      <lb ed="#B" n="52"/>gno producere in quo non potest esse operatio 
+      <lb ed="#B" n="53"/>vitalis maxime scisso.
+</p>
+               <p xml:id="WuV37d-f67560-d1e1131">
+¶ Tertia conclusio 
+      <lb ed="#B" n="54"/>est: et si aliqua corruptio accidentium in 
+      eu<lb ed="#B" n="55" break="no"/>charistia sit possibilis vnde substantia adue sin 
+      <lb ed="#B" n="56"/>niat: non tamen quaelibet eucharistiam 
+      remo<lb ed="#B" n="57" break="no"/>uet. Haec conclusio tres habet particulas. Prima 
+      <lb ed="#B" n="58"/>dicit quod aliqua corruptio accidentium in eu 
+      <lb ed="#B" n="59"/>charistia est possibilis: ista patet ad sensum alba 
+      <lb ed="#B" n="60"/>hostia potest fieri nigra aut rubea aut econter: 
+      <lb ed="#B" n="61"/>etiam haec accidentia possunt teri frangi / et di 
+      <lb ed="#B" n="62"/>geri: et apparet hoc ex quadam glo. Nutri 
+      <lb ed="#B" n="63"/>mentum autem conuertitur in substantiam rei nu 
+      <lb ed="#B" n="64"/>triende: sed quae causa est huius vt frangi 
+      te<lb ed="#B" n="65" break="no"/>ri et digeri possint accidentia: Tho. in praesenti 
+      <lb ed="#B" n="66"/>distinctione: arti. 2. in solutione principali 
+      <lb ed="#B" n="67"/>tertiae quaestiumculae dat causam: quia esse sub 
+      <lb ed="#B" n="68"/>sistens quod conuenit separatis dimensionibus 
+      <lb ed="#B" n="69"/>est eiusdem rationis et conforme illi esse quod 
+      <lb ed="#B" n="70"/>prius substantia habebat: ideo esse in quib 
+      <lb ed="#B" n="71"/>dimensiones existunt tollitur eisdem passibus 
+      <lb ed="#B" n="72"/>quibus tolleretur substantia manente: et ideo 
+      eo<lb ed="#B" n="73" break="no"/>dem modo corrumpuntur acciesmentia remanentia sicut 
+      <lb ed="#B" n="74"/>prius: manente autem substantia poterant 
+      corrum<lb ed="#B" n="75" break="no"/>pi et ratione sui et ratione corruptae substantiae in 
+      <lb ed="#B" n="76"/>ei conuenit ex parte qualitatum corrumpentium: 
+      <lb ed="#B" n="77"/>et ex parte quantitatis: quia vnaqueque res 
+      cer<lb ed="#B" n="78" break="no"/>ta quantitate est determinata: sic quando fit tanta 
+      <lb ed="#B" n="79"/>corruptio in qualitate quod non remaneret 
+      sub<lb ed="#B" n="80" break="no"/>stantia panis etiam corrumperetur eucharistia. 
+      <lb ed="#B" n="81"/>Ita quando diuiditur quantitas in tam paucas por 
+      <lb ed="#B" n="82"/>tiones quod non remaneret substantia panis si 
+      <lb ed="#B" n="83"/>esset: corrumperetur eucharistia. Sed istud non 
+      <lb ed="#B" n="84"/>videtur quia in accidentibus separatis non datur nouum 
+      <lb ed="#B" n="85"/>esse: vt dictum est in prima conclusione: ideo illa 
+      con<lb ed="#B" n="86" break="no"/>formitas ad substantiam non est nisi non in esse 
+      <lb ed="#B" n="87"/>actu: et illa negatio nequit esse causa 
+      resistem<lb ed="#B" n="88" break="no"/>tiae talis vt sic: vnde dicit doc. nositur: quod ratioest 
+      cor<lb ed="#B" n="89" break="no"/>ruptionis accisentium: passum et proportionatum et 
+      <lb ed="#B" n="90"/>statutum dei ad hoc est vt tam diu sit ibi 
+      eucha<lb ed="#B" n="91" break="no"/>ristia quamdiu sunt accidentia quae afficerent 
+      <lb ed="#B" n="92"/>substantiam panis als non: nec est 
+      quaeren<lb ed="#B" n="93" break="no"/>dum hic nouum miraculum sed antiquum. Et idem 
+      <lb ed="#B" n="94"/>est dicendum de quantitate quod non qualiter 
+      ra<lb ed="#B" n="95" break="no"/>refactione aut condensatione sit noua 
+      quanm<lb ed="#B" n="96" break="no"/>titas: vt voluit gaudefredus de fontibus 
+      qua<lb ed="#B" n="97" break="no"/>libe. 11. q. 3. contra quem multis mediis est 
+      ar<lb ed="#B" n="98" break="no"/>gutum in hoc quarto et in primo. dist. 17. de aug¬ 
+      <!--748.xml-->
+      <pb ed="#B" n="366-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>mento charitatis: vnde vt patet. Tertia pars 
+      con<lb ed="#B" n="2" break="no"/>clusionis: quod non quaelibet corruptio aut qualita 
+      <lb ed="#B" n="3"/>tis aut quantitatis arguit hic eucharistiam 
+      <lb ed="#B" n="4"/>non esse. Sed secunda pars conclusionis dicit quod in ta 
+      <lb ed="#B" n="5"/>li corruptione accesmentium aliquando corrruptio ao 
+      <lb ed="#B" n="6"/>cidit et redit substantia sicut patet ad sensum quod 
+      <lb ed="#B" n="7"/>hostia potest comburi et aliquando ex ea geniantur mu 
+      <lb ed="#B" n="8"/>sce volantes. Quaeritur igstrer causa. Innocentius 
+      <lb ed="#B" n="9"/>tertius de officio missae parte tertia. ca. de fra 
+      <lb ed="#B" n="10"/>ctione: primo se expedit: quia est summus potonti 
+      <lb ed="#B" n="11"/>fex et dicit: quod substantia panis redit: quia iam 
+      <lb ed="#B" n="12"/>non sunt species conuenientes pani conuerso: et 
+      <lb ed="#B" n="13"/>ex substantia panis genatur tale animal. Contra. 
+      <lb ed="#B" n="14"/>aut quando aliud geniatur ex substantia panis: tunc 
+      <lb ed="#B" n="15"/>primo panis est: et tunc est panis et non panis et 
+      <lb ed="#B" n="16"/>sine causa: aut ante: et tunc adhuc erant conue 
+      <lb ed="#B" n="17"/>nientia accidentia ad afficiendum substantiam 
+      pa<lb ed="#B" n="18" break="no"/>nis: igitur similis erat substantia panis et corpus 
+      <lb ed="#B" n="19"/>christi. Alitur dicit tho. in praesenti dist. arti. 2. 
+      <lb ed="#B" n="20"/>in solutione principali quarte quastiumculae: quod 
+      mate<lb ed="#B" n="21" break="no"/>ria redit: non quidem materia annihilata: quia est 
+      <lb ed="#B" n="22"/>impossibile: nec secundo panis materia con 
+      <lb ed="#B" n="23"/>uersa in materiam corporis christi: quia non 
+      pos<lb ed="#B" n="24" break="no"/>set reuerti nisi materia corporis christi con 
+      <lb ed="#B" n="25"/>uerteretur in materiam panis. igister tertio mod 
+      <lb ed="#B" n="26"/>deus nouam materiam creat. Contra istam opinio 
+      <lb ed="#B" n="27"/>nem: aut redit illa materia in instanti quo ge 
+      <lb ed="#B" n="28"/>neratur noua forma aut ante: si ante tunc si 
+      <lb ed="#B" n="29"/>mul sunt corpus christi et illa materia: quod 
+      <lb ed="#B" n="30"/>non approbant communis schola: si in istanti geniatio 
+      <lb ed="#B" n="31"/>nis redit: frustra est: quia agens naturale non 
+      <lb ed="#B" n="32"/>generat secundum eum nisi de materia quanta. Ide 
+      <lb ed="#B" n="33"/>aliter dicit tho. vbi. supra. Et egidius 
+      theoreu<lb ed="#B" n="34" break="no"/>mate. 44. et. 465. quod dimensiones separate ha 
+      <lb ed="#B" n="35"/>bent vim quantitatis interminate: quae est 
+      <lb ed="#B" n="36"/>in materia antequam formam recipiat. Et exi 
+      <lb ed="#B" n="37"/>his fit compositum ex materia et forma vel 
+      <lb ed="#B" n="38"/>quasi materia. Et addit doct. sollis. quaelibe 
+      <lb ed="#B" n="39"/>octauo. q. 36. quod si ex talibus dimensionibus 
+      <lb ed="#B" n="40"/>generetur vermis sine materia postea ex 
+      <lb ed="#B" n="41"/>partibus nutrientibus generabitur materia 
+      <lb ed="#B" n="42"/>Contra forma determinata ad vnum 
+      perfecti<lb ed="#B" n="43" break="no"/>bile aliud non potest perficere: sicut nec 
+      al<lb ed="#B" n="44" break="no"/>bedo angelum. forma autem 
+      substantia<lb ed="#B" n="45" break="no"/>lis determinata est ad perficiendum materian 
+      <lb ed="#B" n="46"/>igitur non potest perficere illam dimen sionem:. vt ex 
+      <lb ed="#B" n="47"/>his fiat vnum: vnde aliter dicit fratrum Richar. in 
+      <lb ed="#B" n="48"/>praesenti. dist. arti. 2. q. 2. in solutione principali: 
+      <lb ed="#B" n="49"/>quo istis actesentibus separatis connectitur per creatio 
+      <!--748.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>nem possibilitas: non solum transmutabilis 
+      <lb ed="#B" n="51"/>in formam. sed etiam in materiam: ita quod illan 
+      <lb ed="#B" n="52"/>possibilitas minus habet de esse quam 
+      mate<lb ed="#B" n="53" break="no"/>ria prima. Contra hoc: quia tunc esset aliqua 
+      <lb ed="#B" n="54"/>entitas inferior materia prima: quod est contra 
+      aug<lb ed="#B" n="55" break="no"/>13. confes. lib. His impugnatis opinionibus 
+      <lb ed="#B" n="56"/>ponit opinionem propriam doc. in vltima.eqtione praesentis 
+      <lb ed="#B" n="57"/>dist. quae est vt dictum est iam quod quando ille species non 
+      <lb ed="#B" n="58"/>sunt nate afficere substantiam panis aut 
+      vi<lb ed="#B" n="59" break="no"/>ni: si esset tunc a solo deo auctore fit ibi 
+      no<lb ed="#B" n="60" break="no"/>ua substantia: ita quod illae species habent 
+      pri<lb ed="#B" n="61" break="no"/>mum sui non esse: sed non habent vltimum 
+      <lb ed="#B" n="62"/>sui esse: nec potest induci composita illa sub 
+      <lb ed="#B" n="63"/>stantia ab agente creato 
+      <lb ed="#B" n="64"/>Quo ad tertium incipale sunt 
+      <lb ed="#B" n="65"/>xtres 
+      difficul<lb ed="#B" n="66" break="no"/>tates iuxta tres conclusiones etc.
+</p>
+               <p xml:id="WuV37d-f67560-d1e1385">
+¶ Pri 
+      <lb ed="#B" n="67"/>ma difficultas. vtrum christus cibauit se 
+      <lb ed="#B" n="68"/>corpore suo in cena? Dicit frater rich. dist. 1i. 
+      <lb ed="#B" n="69"/>arti. 4. q. 1. quod sic: allegans illum versum seu il 
+      <lb ed="#B" n="70"/>los versus. Rex sedet in cena: turba 
+      cin<lb ed="#B" n="71" break="no"/>ctus duodena. Se tenet in manibus se 
+      ci<lb ed="#B" n="72" break="no"/>bat ipse cibus.
+</p>
+               <p xml:id="WuV37d-f67560-d1e1401">
+¶ Secunda diffi. Si hu 
+      <lb ed="#B" n="73"/>iusmodi species habent vim nutritiuam? Dico quod 
+      <lb ed="#B" n="74"/>non secundum se: sed secundum quod redit substantia: vt dicit 
+      <lb ed="#B" n="75"/>doc. ex statuto dei.
+</p>
+               <p xml:id="WuV37d-f67560-d1e1410">
+¶ Tertia diffi. quid 
+      <lb ed="#B" n="76"/>signant ille tres partes hostiae: doc. deuo. rin 
+      <lb ed="#B" n="77"/>det duobus versibus praesenti dist. arti. 3. q. 3 
+      <lb ed="#B" n="78"/>Hostia diuiditur in partes: tincta beatos. 
+      <lb ed="#B" n="79"/>Plenae sicca notat viuos: peiuata sepultos 
+      <lb ed="#B" n="80"/>tamen recessit vsus custodiae: sed signatum reman 
+      <lb ed="#B" n="81"/>sit. Et sic patet ad quaestionem: quod ve 
+      sacramen<lb ed="#B" n="82" break="no"/>to in pascha in panibus amimeis non 
+      fermen<lb ed="#B" n="83" break="no"/>ti confecto accisens sine subiecto remansit. 
+      <lb ed="#B" n="84"/>Tunc ad argumenta.
+</p>
+               <p xml:id="WuV37d-f67560-d1e1433">
+¶ Ad primum dicendum quod 
+      <lb ed="#B" n="85"/>alio modo est per se substantia: quia positiue: alic 
+      <lb ed="#B" n="86"/>modo acciens in proposito: quia negatiue ideo non 
+      conclu<lb ed="#B" n="87" break="no"/>dit.
+</p>
+               <p xml:id="WuV37d-f67560-d1e1442">
+¶ Ad secundum dicendum quod posterius apti 
+      <lb ed="#B" n="88"/>tudinaliter sicut acceimens potest esse sine priori 
+      <lb ed="#B" n="89"/>actualiter: ideo in dicto philosophi oportet comparare 
+      <lb ed="#B" n="90"/>actum actui: et potentiam potentiae: alioquin non 
+      va<lb ed="#B" n="91" break="no"/>lebit illud dictum eius: quod posterius essetialiter ne 
+      <lb ed="#B" n="92"/>quit esse sine priori.
+</p>
+            </div>
+            <div xml:id="WuV37d-f67560-Dd1e1456" type="et-conclusiones">
+               <head xml:id="WuV37d-f67560-Hd1e1458">Conclusiones</head>
+               <p xml:id="WuV37d-f67560-d1e1461">
+¶ Ad tertium dicendum quod est 
+      <lb ed="#B" n="93"/>diffinitio per additamenta ideo etc.
+</p>
+               <p xml:id="WuV37d-f67560-d1e1466">
+¶ Ex ista 
+      <lb ed="#B" n="94"/>dist. sicut de praecedem. tres eliem etc. Pri / 
+      <lb ed="#B" n="95"/>ma conclusio. vere frangitur hoc sacaendum et diuiditur: i 
+      <lb ed="#B" n="96"/>nec est figmntum. Dicit conclusio quod vere fit fractio et 
+      <lb ed="#B" n="97"/>diuisio in isto sacramento. Et ponitur a principio 
+      di<lb ed="#B" n="98" break="no"/>vsque ad ca. illud. Quid autem partes ille etc. 
+      <!--749.xml-->
+      <pb ed="#B" n="366-v"/>
+                  <cb ed="#B" n="a"/>
+               </p>
+               <p xml:id="WuV37d-f67560-d1e1486">
+                  <lb ed="#B" n="1"/>¶ Secunda conclusio est. Papa sergius 
+      par<lb ed="#B" n="2" break="no"/>tes hostiae dat sincerius: et non dubie. Dicit 
+      <lb ed="#B" n="3"/>conclusio quod papa sergius dicit: quid signant 
+      <lb ed="#B" n="4"/>tres partes hostiae. Et ponitur ab illo loco. 
+      <lb ed="#B" n="5"/>Quid autem etc. vsque ad illud capitulum. 
+      Indi<lb ed="#B" n="6" break="no"/>gnus est etc. vel post hoc quaeritur etc.
+</p>
+               <p xml:id="WuV37d-f67560-d1e1502">
+¶ Ter 
+      <lb ed="#B" n="7"/>tia conclusio est: hoc sacrificium instituitur et 
+      in<lb ed="#B" n="8" break="no"/>dicitur ad magnum praemium. Dicit conclusio. quod 
+      <lb ed="#B" n="9"/>hoc sacrificium est ad augmentum boni et 
+      di<lb ed="#B" n="10" break="no"/>minutionem mali si digne fit. Et ponitur ab il 
+      <lb ed="#B" n="11"/>lo ca. Indignus etc. vsque ad finem dist. 
+</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

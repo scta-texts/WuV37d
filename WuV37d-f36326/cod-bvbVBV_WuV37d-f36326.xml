@@ -1,0 +1,641 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 26</title>
+            <author ref="#WilliamDeVaurouillon">William de Vaurouillon</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 26</title>
+               <date when="2021-06-19">June 19, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-bvbVBV">Basel 1510</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-06-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="294-v"/>
+            <cb ed="#B" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="WuV37d-f36326"><!-- l3d26 -->
+            <head xml:id="WuV37d-f36326-Hd1e108">Distinctio 26</head>
+            <div xml:id="WuV37d-f36326-Dd1e111" type="circa-textum">
+               <head xml:id="WuV37d-f36326-Hd1e113">Circa textum</head>
+               <p xml:id="WuV37d-f36326-d1e116">
+                  <lb ed="#B" n="23"/>Distinctio. 26. in qua magister recitat 
+      <lb ed="#B" n="24"/>secundam virtutem theologicam. scilicet spem / cum 
+      <lb ed="#B" n="25"/>ea concernentibus. 
+      <lb ed="#B" n="26"/>St autem spes 
+      <lb ed="#B" n="27"/>virtus qua spiritualia bo 
+      <lb ed="#B" n="28"/>na et aeterna sperantur etc. 
+      <lb ed="#B" n="29"/>Hic signatur 26. dist. huius 
+      <lb ed="#B" n="30"/>tertii: quae sic continuatur ad 
+      prae<lb ed="#B" n="31" break="no"/>cedentes: Nam postquam in praecedentibus distin. fidei 
+      <lb ed="#B" n="32"/>data est noticia: Nunc in hac dist. spei inquiritur 
+      <lb ed="#B" n="33"/>essentia. Et habet diuidi haec dis. in tres partes prin 
+      <lb ed="#B" n="34"/>cipales. In prima de spe signatur plana 
+      de<lb ed="#B" n="35" break="no"/>scriptio. In secunda fidei datur eius proportio. In 
+      <lb ed="#B" n="36"/>tertia spei notatur subiecti ratio. Prima in 
+      prin<lb ed="#B" n="37" break="no"/>cipio. Secunda ibi: Sicut fides / ita et spes. 
+      <lb ed="#B" n="38"/>Tertia ibi: Post haec superest inuestigare etc. 
+      </p>
+            </div>
+            <div xml:id="WuV37d-f36326-Dd1e154">
+               <head xml:id="WuV37d-f36326-Hd1e156">Quaestio</head>
+               <p xml:id="WuV37d-f36326-d1e159">
+                  <lb ed="#B" n="39"/>¶ Quaestio ista continet spei essentiam / 
+      <lb ed="#B" n="40"/>cum ipsius subiecto ac materia. Secundo 
+      <lb ed="#B" n="41"/>quo sit virtus theologica. 
+</p>
+               <p xml:id="WuV37d-f36326-d1e168">
+                  <lb ed="#B" n="42"/>Utrum spes mo 
+      <lb ed="#B" n="43"/>ralis virtus vel theologica censeatur: 
+      <lb ed="#B" n="44"/> Et arg. tribus mediis quod non sit 
+      ver<lb ed="#B" n="45" break="no"/>uis theologica: et per consequens quod erit moralis. 
+      </p>
+               <p xml:id="WuV37d-f36326-d1e179">
+  <!--605.xml-->
+                  <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="46"/>¶ Primo sic. Nulla virtus theologica de 
+      <lb ed="#B" n="47"/>terminat medietatem duarum maliciarum: sed  
+      <lb ed="#B" n="48"/>spes determinat tale medium: igitur etc. 
+      Ma<lb ed="#B" n="49" break="no"/>ior patet: quia vbi est talis determinatio 
+      me<lb ed="#B" n="50" break="no"/>dii: ibi potest esse excessus et defectus: tendendo 
+      <lb ed="#B" n="51"/>autem in deum non potest esse excessus: quia nullus potest 
+      <lb ed="#B" n="52"/>nimis deum diligere / aut nimis deo 
+      crede<lb ed="#B" n="53" break="no"/>re / vel nimis in deum sperare. Sed probatur mi 
+      <lb ed="#B" n="54"/>nor: ex eo quod spes determinat medium inter 
+      <lb ed="#B" n="55"/>praesumptionem: quae penitus vult saluari 
+      si<lb ed="#B" n="56" break="no"/>ne meritis: et desperationem quo penitus 
+      salu<lb ed="#B" n="57" break="no"/>tem fugit.
+</p>
+               <p xml:id="WuV37d-f36326-d1e212">
+¶ Secundo arguitur sic. Omnis habi  
+      <lb ed="#B" n="58"/>tus ex propriis cognoscitur actibus: sed actus 
+      <lb ed="#B" n="59"/>pei sunt actus virtutis moralis / non 
+      theo<lb ed="#B" n="60" break="no"/>logicae: igitur et spes erit virtus moralis / non 
+      <lb ed="#B" n="61"/>theologica. Maior patet. Sicuti 
+      nem<lb ed="#B" n="62" break="no"/>pe philosopho teste in. 2. de anima. Ex actibus 
+      po<lb ed="#B" n="63" break="no"/>tentia cognoscitur / ita et habitus. Unde philosophus  
+      <lb ed="#B" n="64"/>in. 4. ethicorum dicit. Qualis est 
+      vnusquis<lb ed="#B" n="65" break="no"/>quam: talia dicit / et operatur / et viuit. Sed 
+      mi<lb ed="#B" n="66" break="no"/>nor probatur. Actus enim spei est triplex / scilicet 
+      <lb ed="#B" n="67"/>expectare / confidere et sustinere. 
+      Expecta<lb ed="#B" n="68" break="no"/>re autem est longanimitatis / quae est species 
+      for<lb ed="#B" n="69" break="no"/>titudinis. Unde scriptum est: Laonganimes in 
+      <lb ed="#B" n="70"/>spe. Sustinere autem est patientiae. Unde Tul 
+      <lb ed="#B" n="71"/>lius in. 2. veteris rhetoricae dicit: quod patiem 
+      <lb ed="#B" n="72"/>tia est rerum excelsarum et arduarum bonestati 
+      <lb ed="#B" n="73"/>vtilitatisue causa voluntaria / et diuturna 
+      <lb ed="#B" n="74"/>perpessio. Confidere autem est actus forti 
+      <lb ed="#B" n="75"/>tudinis. Unde dicitur. In spe erit fortitudo 
+      <lb ed="#B" n="76"/>vestra.
+</p>
+               <p xml:id="WuV37d-f36326-d1e257">
+¶ Tertio arg. sic. Sicut se habet e 
+      <lb ed="#B" n="77"/>intellectus ad virtutem theologicam / ita affe 
+      <lb ed="#B" n="78"/>ctus: sed intellectus sufficienter vnica 
+      virtu<lb ed="#B" n="79" break="no"/>te theologica perficitur scilicet ipsa fide: ergo simi 
+      <lb ed="#B" n="80"/>liter et affectus vnica solum perficietur quae est 
+      <lb ed="#B" n="81"/>charitas: cum ergo non sint in anima aliae 
+      poten<lb ed="#B" n="82" break="no"/>tie capaces virtutis theologicae: sequitur. 
+      <lb ed="#B" n="83"/>Maior patet ex eo quod tam affectus quam intel 
+      <lb ed="#B" n="84"/>lectus per peccatum sunt deformati: et ita 
+      <lb ed="#B" n="85"/>eque his theologicis virtutibus indigent 
+      <lb ed="#B" n="86"/>reformari. Sed minor patet: quia sola fi 
+      <lb ed="#B" n="87"/>de in via quis sufficienter tendit per 
+      cogni<lb ed="#B" n="88" break="no"/>tionem in diuina.
+</p>
+               <p xml:id="WuV37d-f36326-d1e286">
+¶ In oppositum tamen 
+      ar<lb ed="#B" n="89" break="no"/>guitur auctoritate apostoli. Nunc autem manent 
+      <lb ed="#B" n="90"/>fides / spes / charitas / tria haec. Et loquitur 
+      <lb ed="#B" n="91"/>de virtutibus theologicis. Et Richardus de 
+      <lb ed="#B" n="92"/>sancto Uictore dicit. Fides dirigit: spes 
+      <lb ed="#B" n="93"/>erigit: charitas communiungit.
+</p>
+               <p xml:id="WuV37d-f36326-d1e299">
+¶ In ista quaestione sunt 
+      <lb ed="#B" n="94"/>tres articuli declarandi 
+      <!--606.xml-->
+      <pb ed="#B" n="295-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>Primus est terminorum decla 
+      <lb ed="#B" n="2"/>Quorum. ratiuus. 
+      <lb ed="#B" n="3"/>Secundus est quaestionis responsiuus. 
+      <lb ed="#B" n="4"/> Tertius est dubiorum motiuus. 
+      </p>
+               <p xml:id="WuV37d-f36326-d1e319">
+                  <lb ed="#B" n="5"/>¶ Quantum ad primum articu 
+      <lb ed="#B" n="6"/>lum ter 
+      <lb ed="#B" n="7"/>mini sunt. spes: virtus moralis: et virtus the 
+      <lb ed="#B" n="8"/>ologica
+</p>
+               <p xml:id="WuV37d-f36326-d1e330">
+¶ Primus igitur terminus est spes 
+      <lb ed="#B" n="9"/>vnde notandum quod spes accipitur tribus binariis  
+      <lb ed="#B" n="10"/>seu sex modis. Primo dicitur improprie 
+      <lb ed="#B" n="11"/>hum. scilicet est respectu mali: quia proprie spes 
+      <lb ed="#B" n="12"/>est de bono: sicut timor de malo: hoc modo 
+      <lb ed="#B" n="13"/>poeta loquitur: Hunc ego si potui tantum 
+      <lb ed="#B" n="14"/>sperare dolorem. Secundo capitur pro 
+      <lb ed="#B" n="15"/>quadam animae passione: quae dicitur spes: et 
+      <lb ed="#B" n="16"/>differt a gaudio: quia gaudium est respectu 
+      <lb ed="#B" n="17"/>praesentis boni: sed spes respectu futuri. Et 
+      <lb ed="#B" n="18"/>sic loquitur Boetius in primo de consola. 
+      me<lb ed="#B" n="19" break="no"/>tro vltimo. Tu quoque si vis lumen claro 
+      <lb ed="#B" n="20"/>cernere verum gaudia pelle: pelle timorem 
+      <lb ed="#B" n="21"/>speque fugato etc. Tertimo accipitur spes pro 
+      <lb ed="#B" n="22"/>statu viae qui est status spei: vnde sic intel 
+      <lb ed="#B" n="23"/>igitur illud Tribulatio patientiam operatur: 
+      <lb ed="#B" n="24"/>patientia probationem: probatio spem: 
+      <lb ed="#B" n="25"/>vnde glo. spem: id est certitudinem spei. 
+      <lb ed="#B" n="26"/>Quarto accipitur spes pro obiecto spei 
+      <lb ed="#B" n="27"/>sicut est illud. Expectantes beatam spem 
+      <lb ed="#B" n="28"/>et aduentum domini. Quinto capitur spes pro 
+      <lb ed="#B" n="29"/>actu spei: sicut est illud. Abraam genuit 
+      <lb ed="#B" n="30"/>isaac: isaac autem genuit iacob. glosa dicit id est 
+      <lb ed="#B" n="31"/>fides genuit spem: et spes charitatem: hoc 
+      <lb ed="#B" n="32"/>autem habet intelligi quo ad actum: nam habi 
+      <lb ed="#B" n="33"/>tus simul infunditur. Sexto accipitur spes 
+      <lb ed="#B" n="34"/>pro ipso spei habitu. Et sic accipiendo: hay 
+      <lb ed="#B" n="35"/>mo: spem sic diffinit. Spes est certa expe 
+      <lb ed="#B" n="36"/>ctatio future beatitudinis ex meritis et gra 
+      <lb ed="#B" n="37"/>tia proueniens. In qua diffinitione tria tam 
+      <lb ed="#B" n="38"/>guntur. Primo enim tangitur actus spei: dum 
+      <lb ed="#B" n="39"/>dicitur: Certa expectatio. vnde per 
+      vir<lb ed="#B" n="40" break="no"/>tutem spei Paulus dicebat. Certus sum 
+      <lb ed="#B" n="41"/>quod neque mors: nec vita: nec creatura aliquo 
+      <lb ed="#B" n="42"/>poterit nos separare a charitate christi. 
+      <lb ed="#B" n="43"/>Secundo tangitur obiectum spei: dum dicitur: 
+      <lb ed="#B" n="44"/>future beatitudinis. Unde magister in litte 
+      <lb ed="#B" n="45"/>ra: spem diffiniens dicit. Spes est qua spiritua 
+      <lb ed="#B" n="46"/>lia et aeterna bona sperantur. Tertio tangitur 
+      <lb ed="#B" n="47"/>motuum spei: dum dicitur: ex gratia et 
+      me<lb ed="#B" n="48" break="no"/>ritoproueniens: et hoc tripliciter. Primo 
+      <lb ed="#B" n="49"/>vsu radice et proposito: dum scilicet quis actu 
+      <!--606.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>meretur: et habet gratiam que est radix bo 
+      <lb ed="#B" n="51"/>ni operis: et proponit bene facere in 
+      po<lb ed="#B" n="52" break="no"/>sterum. Secundo radice et proposito: non 
+      <lb ed="#B" n="53"/>tamen vsu: sicuti est in eo cui de nouo 
+      in<lb ed="#B" n="54" break="no"/>funditur gratia autequam operetur. Tertio pro 
+      <lb ed="#B" n="55"/>posito non tamen vsu nec radice: sicut est in 
+      <lb ed="#B" n="56"/>peccatore: qui proponit se emendare. vnde 
+      <lb ed="#B" n="57"/>Aug. in li. de ciuitate dei: spem diffinit sic 
+      <lb ed="#B" n="58"/>Spes est virtus qua quis se ad illud quod credit 
+      <lb ed="#B" n="59"/>se peruenturum praesumit: vnde et dicitur spes qua 
+      <lb ed="#B" n="60"/>si sursum pes: erigit enim et parieti 
+      assimi<lb ed="#B" n="61" break="no"/>latur: sicut fides fundamento in edificio spi 
+      <lb ed="#B" n="62"/>rituali: et charitas tecto.
+</p>
+               <p xml:id="WuV37d-f36326-d1e454">
+¶ Secundus  
+      <lb ed="#B" n="63"/>terminus est virtus moralis: vnde virt 
+      <lb ed="#B" n="64"/>potest dici moralis tripliciter: secundum quod mos potest 
+      <lb ed="#B" n="65"/>intelligi: Aut pro mora aut pro ipso iure 
+      <lb ed="#B" n="66"/>dirigente et moderamen praecipiente. aut 
+      ter<lb ed="#B" n="67" break="no"/>tio pro habitu in ea quae sunt ad finem 
+      diri<lb ed="#B" n="68" break="no"/>gente. Primo modo capiendo morem a mora 
+      <lb ed="#B" n="69"/>quaelibet virtus potest dici moralis: ex qua 
+      mul<lb ed="#B" n="70" break="no"/>titudo actuum est elicita: hoc modo 
+      quip<lb ed="#B" n="71" break="no"/>pe et fides et spes possunt dici virtutes mo 
+      <lb ed="#B" n="72"/>rales. Secundo modo capiendo pro ipso 
+      <lb ed="#B" n="73"/>s. iure: sola legalis iusticia: aut eius locun 
+      <lb ed="#B" n="74"/>tenens videtur dici moralis virtus: quia 
+      <lb ed="#B" n="75"/>ea sola moderamen praecipit. Tertio mo 
+      <lb ed="#B" n="76"/>do distincte sunt virtutes philosophorum a theb 
+      <lb ed="#B" n="77"/>logicis: quia theologice sunt circa finem 
+      <lb ed="#B" n="78"/>sed morales sunt solum circa ea quae sunt 
+      <lb ed="#B" n="79"/>ad finem.
+</p>
+               <p xml:id="WuV37d-f36326-d1e494">
+¶ Tertius terminus est vis 
+      <lb ed="#B" n="80"/>tus theologica. vnde virtus 
+      theologi<lb ed="#B" n="81" break="no"/>ca solet accipi tripliciter. Primo modo dicitur 
+      <lb ed="#B" n="82"/>virtus theologica omnis virtus habens. 
+      <lb ed="#B" n="83"/>deum pro primo obiecto: hoc modo 
+      fi<lb ed="#B" n="84" break="no"/>des acquisita et spes acquisita dicuntur virtu 
+      <lb ed="#B" n="85"/>tes theologicae. Secundo dicitur virtus theo 
+      <lb ed="#B" n="86"/>logica habens deum pro primo obiecto et regu 
+      <lb ed="#B" n="87"/>la prima humanorum actirum: hoc modo 
+      <lb ed="#B" n="88"/>nec fides nec spes acquisite essent 
+      virtu<lb ed="#B" n="89" break="no"/>tes theologice: si per media ad finem pris 
+      <lb ed="#B" n="90"/>me inniterentur aut veritati aut bonitati 
+      <lb ed="#B" n="91"/>oportet enim hoc modo inniti: vt sit virtus  
+      <lb ed="#B" n="92"/>theologica pricipio sumpto immediate 
+      <lb ed="#B" n="93"/>ex prima veritate. Tertio dicitur virtus  
+      <lb ed="#B" n="94"/>theologica quae habet deum pro primo 
+      ob<lb ed="#B" n="95" break="no"/>iecto prima regula actuum suorum: et cum hoc 
+      <lb ed="#B" n="96"/>ao primo efficiente infunditur: hoc modo 
+      <lb ed="#B" n="97"/>sola fides et spes infuse non acquisite sunt 
+      <lb ed="#B" n="98"/>virtutes theologicae. 
+      <!--607.xml-->
+      <pb ed="#B" n="295-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>Quo ad secundum articulum sunt 
+      <lb ed="#B" n="2"/>tres 
+      conclu<lb ed="#B" n="3" break="no"/>siones. Prima est de spei essentia. Secun 
+      <lb ed="#B" n="4"/>da de spei subiecto atque materia. Tertia 
+      <lb ed="#B" n="5"/>quod spes virtus est non moralis sed theo 
+      <lb ed="#B" n="6"/>logica.
+</p>
+               <p xml:id="WuV37d-f36326-d1e557">
+¶ Prima est haec. Spes virt 
+      <lb ed="#B" n="7"/>gratuita: et si aliquando informis tamen 
+      <lb ed="#B" n="8"/>certa nominatur. Dicit prima pars 
+      con<lb ed="#B" n="9" break="no"/>clusionis: quod spes est virtus gratuita. Pa 
+      <lb ed="#B" n="10"/>tet: quia illud gratuitum debet dici quod  
+      <lb ed="#B" n="11"/>animam tutissimae collocat: huiusmodi est 
+      <lb ed="#B" n="12"/>ospes. Unde apostolus dicit. Fortissimum 
+      <lb ed="#B" n="13"/>habemus solacium per quod confugimus 
+      <lb ed="#B" n="14"/>ad propositam nobis speciequam sicut 
+      an<lb ed="#B" n="15" break="no"/>choram habemus animae tutam ac firmam 
+      <lb ed="#B" n="16"/>et incedententem vsque ad interiora 
+      vela<lb ed="#B" n="17" break="no"/>minis: vbi praecursor pro nobis introiuit 
+      <lb ed="#B" n="18"/>iesus etc. Confirmatur: quia maxime ele 
+      <lb ed="#B" n="19"/>i 
+      <lb ed="#B" n="20"/>poralibus bonis penitus aeternis inhiet. 
+      <lb ed="#B" n="21"/>Unde apostolus dicit. Spe salui facti 
+      <lb ed="#B" n="22"/>sumus: Spes autem quae videtur non est 
+      <lb ed="#B" n="23"/>spes. Nam quod videt quis quid sperat: 
+      <lb ed="#B" n="24"/>etc. nec tamen dicitur gratuita: quod 
+      semper<lb ed="#B" n="25" break="no"/>sit cum gratia gratum faciente: sed quia 
+      <lb ed="#B" n="26"/>acquiri per naturam non potest: sed a deo 
+      <lb ed="#B" n="27"/>infunditur. Noto tamen quod dicit doctor 
+      <lb ed="#B" n="28"/>subtilis in praesenti distinctione: quod nulla ap 
+      <lb ed="#B" n="29"/>paret conuincens necessitas probandi speci 
+      <lb ed="#B" n="30"/>infusam: dempta auctoritate apostoli: et 
+      <lb ed="#B" n="31"/>sanctorum aliorum. Uideretur enim 
+      suf<lb ed="#B" n="32" break="no"/>ficere spes acquisita: illa enim spe in eadem 
+      <lb ed="#B" n="33"/>tendit homo: ad quae tendit spe infusa. Cre 
+      <lb ed="#B" n="34"/>dendum est tamen quod elicitur perfectior 
+      <lb ed="#B" n="35"/>actus sperandi mediante spe infusa quam 
+      si<lb ed="#B" n="36" break="no"/>ne ea vel sola spe fieret acquisita. Et si 
+      obii<lb ed="#B" n="37" break="no"/>ciatur: quia gratuita virtus non repugnat 
+      <lb ed="#B" n="38"/>perfectioni meriti: spes autem videtur re 
+      <lb ed="#B" n="39"/>pugnare: quia expectat retributionem fu 
+      <lb ed="#B" n="40"/>turam: quod est contra charitatem: dicente 
+      <lb ed="#B" n="41"/>Bernardo. quod charitas praemium non 
+      in<lb ed="#B" n="42" break="no"/>tuetur. Dicendum quod illa auctoritas 
+      intel<lb ed="#B" n="43" break="no"/>ligitur de praemio creato non increa: o. Unde 
+      <lb ed="#B" n="44"/>Abrae. a domino deo dictum est. Ego 
+      mer<lb ed="#B" n="45" break="no"/>ces tua magna nimis: vnde et si spes in hoc 
+      <lb ed="#B" n="46"/>proprie differat a charitate: quia charitas 
+      <lb ed="#B" n="47"/>est in deum amore iusticiae seu amicitiae: spes 
+      <lb ed="#B" n="48"/>vero amore comodi: non tamen sequitur 
+      <!--607.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="49"/>hoc esse peccatum. Desidero enim me 
+      ha<lb ed="#B" n="50" break="no"/>bere per spem deum propter diuinam 
+      bo<lb ed="#B" n="51" break="no"/>nitatem: ita quod non pono me velut finemu 
+      <lb ed="#B" n="52"/>dei: sic enim esset vti fruendis: sed ei quem 
+      <lb ed="#B" n="53"/>diligo iungi: per specie desidero: sicuti agnes 
+      <lb ed="#B" n="54"/>dicebat. Ipci sum iuncta in caelis: quem in 
+      <lb ed="#B" n="55"/>terris posita tota intentione dilexi: vnde 
+      <lb ed="#B" n="56"/>patet difficultas spei. Licet enim sit facile 
+      <lb ed="#B" n="57"/>appetere bona aeterna: non tamen 
+      appe<lb ed="#B" n="58" break="no"/>tere vt oportet: vt scilicet per spem homo sic. 
+      <lb ed="#B" n="59"/>contemnat temporalia: vt totam in 
+      domi<lb ed="#B" n="60" break="no"/>no deo suam collocet fiduciam: iuxta quod 
+      <lb ed="#B" n="61"/>dicit propheta. Iacta cogitatum tuum in 
+      <lb ed="#B" n="62"/>domino: et ipse te enutriet: et patet non esse 
+      <lb ed="#B" n="63"/>magnum si timor non sit virtus sicut spes 
+      <lb ed="#B" n="64"/>quia non est tanta difficultas resilire a ma 
+      <lb ed="#B" n="65"/>lo respectu cuius est timor: sicut aggredi 
+      <lb ed="#B" n="66"/>maxima quorum respectu spes dicitur. vnde 
+      <lb ed="#B" n="67"/>nec memoria quae est praeteritorum propter 
+      <lb ed="#B" n="68"/>huiusmodi causam ponitur virtus sicut 
+      <lb ed="#B" n="69"/>spes quae est futurorum. Sed dicit 
+      secun<lb ed="#B" n="70" break="no"/>da pars conclusionis: quod spes aliquando 
+      <lb ed="#B" n="71"/>est informis. Probatur: quia sicut se 
+      ha<lb ed="#B" n="72" break="no"/>bet fides formata ad spem formatam: ita 
+      <lb ed="#B" n="73"/>fides informis ad spem informem: ergo 
+      si<lb ed="#B" n="74" break="no"/>cut cum fide formata spes formata 
+      repe<lb ed="#B" n="75" break="no"/>ritur: sic cum fide informi reperitur spes 
+      <lb ed="#B" n="76"/>informis. Et hoc est quod dicit Augustinus 
+      <lb ed="#B" n="77"/>in libro de vera innocentia. Cum caeterae 
+      <lb ed="#B" n="78"/>virtutes sint bonis et malis communes: 
+      di<lb ed="#B" n="79" break="no"/>lectio proprie bonorum est atque piorum. 
+      <lb ed="#B" n="80"/>Confirmatur: quia sicut timor consurgit 
+      <lb ed="#B" n="81"/>ex fide suppliciorum: sic spes ex fide 
+      prae<lb ed="#B" n="82" break="no"/>miorum. Cum igitur sit dandus timor in 
+      <lb ed="#B" n="83"/>formis: igitur et spes. Patet vltimo 
+      ma<lb ed="#B" n="84" break="no"/>nifeste de peccatoribus qui sperant per 
+      dei<lb ed="#B" n="85" break="no"/>misericordiam vitam emendare et 
+      salua<lb ed="#B" n="86" break="no"/>ri: et vnde hoc nisi spei virtute: igitur. Nec 
+      <lb ed="#B" n="87"/>obuiat quod spes est gratia ex merito 
+      proue<lb ed="#B" n="88" break="no"/>niens: sufficit enim quod sit in proposito: ita quod 
+      <lb ed="#B" n="89"/>intendat mereri: vnde licet spes 
+      semper<lb ed="#B" n="90" break="no"/>tendat in deum: tamen alio modo quam cha 
+      <lb ed="#B" n="91"/>ritas: quia charitas plenae: sed spes 
+      semi<lb ed="#B" n="92" break="no"/>plene. Sed inquit tertia pars 
+      conclusio<lb ed="#B" n="93" break="no"/>nis: quod spes nominat certitudinem. 
+      Pro<lb ed="#B" n="94" break="no"/>batur secundum philosophum primo ethicorum Uirtus  
+      <lb ed="#B" n="95"/>certior est omni arte. Cum igitur spes 
+      ne<lb ed="#B" n="96" break="no"/>dum sit virtus: sed virtutum anchora: te¬ 
+      <!--608.xml-->
+      <pb ed="#B" n="296-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>linquitur etc. Confirmatur: quia remouet 
+      <lb ed="#B" n="2"/>hesitationem in sperante et maximam dat 
+      <lb ed="#B" n="3"/>confidentiam quae sunt signa certitudinis 
+      <lb ed="#B" n="4"/>Notandum tamen quod ista certitudo est 
+      com<lb ed="#B" n="5" break="no"/>ditionalis non absoluta: hoc est dictu 
+      cer<lb ed="#B" n="6" break="no"/>tum est habenti spem: quod si in bono 
+      perse<lb ed="#B" n="7" break="no"/>uerauerit: vitam possidebit aeternam: vnde 
+      <lb ed="#B" n="8"/>non immerito vocatur certitudo ordinis 
+      <lb ed="#B" n="9"/>non euentus. Certus quippe est: quod bona 
+      <lb ed="#B" n="10"/>opera ordinant ad salutem: non autem cer 
+      <lb ed="#B" n="11"/>tus est quid sibi eueniet. vnde doctor 
+      de<lb ed="#B" n="12" break="no"/>uotus quaestione. 5. distin. articuli primi 
+      <lb ed="#B" n="13"/>dat tres differentias inter certitudinem 
+      <lb ed="#B" n="14"/>fidei: et cretitudinem spei. Prima est quia 
+      <lb ed="#B" n="15"/>certitudo fidei opponitur errori: 
+      Certi<lb ed="#B" n="16" break="no"/>tudo spei hesitationi: vnde per fidem quis 
+      <lb ed="#B" n="17"/>certus est tam de euentu quam omne ordine: 
+      per<lb ed="#B" n="18" break="no"/>specie autem solum est certitudo omne ordine 
+      <lb ed="#B" n="19"/>Secunda est quod certitudo fidei est circa 
+      con<lb ed="#B" n="20" break="no"/>plexum magis: vt quod deus est vnus trinus 
+      <lb ed="#B" n="21"/>vel dei filius incarnatus et sic de aliis. 
+      Cer<lb ed="#B" n="22" break="no"/>titudo spei magis circa incomplexum: spe 
+      <lb ed="#B" n="23"/>enim vita speratur aeterna. Tertia differem 
+      <lb ed="#B" n="24"/>tia est: quia certitudo fidei est in intellectu: 
+      <lb ed="#B" n="25"/>certitudo spei in affectu. Ex quo patet quod 
+      <lb ed="#B" n="26"/>certitudo spei non est quasi quoddam 
+      par<lb ed="#B" n="27" break="no"/>ticulare sumptum sub certitudine fidei: si 
+      <lb ed="#B" n="28"/>cut quidam dicunt: vt cognoscens omnem 
+      <lb ed="#B" n="29"/>mulam sterilem: cognoscat hanc sterilem 
+      <lb ed="#B" n="30"/>applicant ad propositum.
+</p>
+               <p xml:id="WuV37d-f36326-d1e830">
+¶ Secunda 
+      <lb ed="#B" n="31"/>conclusio est de spei subiecto et materia: 
+      <lb ed="#B" n="32"/>et est haec. Spes pro subiecto voluntatem: 
+      <lb ed="#B" n="33"/>pro obiecto bonitatem aspicit. Dicit 
+      se<lb ed="#B" n="34" break="no"/>cunda pars conclusionis: quod subiectum spei 
+      <lb ed="#B" n="35"/>est voluntas: probatur. illius potentiae est 
+      <lb ed="#B" n="36"/>sperare: cuius est timere: quia opposita 
+      <lb ed="#B" n="37"/>sunt eiusdem subiecti: sed timor est volun 
+      <lb ed="#B" n="38"/>tatis non intellectus. igitur etc. 
+      Confirma<lb ed="#B" n="39" break="no"/>tur: quia desperatio est voluntatis: reliqui 
+      <lb ed="#B" n="40"/>tur quod et fides: cuius est oppsitum. Et si 
+      obii<lb ed="#B" n="41" break="no"/>ciatur: quia imago recreationis respicit 
+      <lb ed="#B" n="42"/>imaginem creationis. Cum ergo 
+      cha<lb ed="#B" n="43" break="no"/>ritas sit in voluntate: fides in intellectu: 
+      <lb ed="#B" n="44"/>et non relinquatur nisi in memoria: relinquitur speci 
+      <lb ed="#B" n="45"/>esse in memoria. Dicendum quod imago recreatio 
+      <lb ed="#B" n="46"/>nis secundum veritatem aspicit immaginem creationis 
+      <lb ed="#B" n="47"/>non tamen oportet: quod in omnibus sit propor 
+      <lb ed="#B" n="48"/>tio: immo est dissimilitudo maxime in hoc 
+      <!--608.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="49"/>quia in creatione intellectus habuit locum 
+      <lb ed="#B" n="50"/>duorum scilicet memoriae et intelligentiae: 
+      Econ<lb ed="#B" n="51" break="no"/>tra in recreatione voluntas habet locum 
+      <lb ed="#B" n="52"/>duorum. scilicet spei et charitatis: et ratio est: quia 
+      <lb ed="#B" n="53"/>bona merita ex voluntate prodeunt: vne 
+      <lb ed="#B" n="54"/>illud vere impletur. Qui creauit te sine 
+      <lb ed="#B" n="55"/>te: non iustificabit te sine te. Ex quo patet 
+      <lb ed="#B" n="56"/>quod illud Bernardi super Can. Deus est 
+      <lb ed="#B" n="57"/>futurus rationi plenitudo lucis: volunta 
+      <lb ed="#B" n="58"/>ti multitudo pacis et memorie 
+      continua<lb ed="#B" n="59" break="no"/>tio aeternitatis: habet intelligi per 
+      redun<lb ed="#B" n="60" break="no"/>dantiam: inquantum tentio quae est dos 
+      <lb ed="#B" n="61"/>spei redundat in memoriam. Sed dicit 
+      se<lb ed="#B" n="62" break="no"/>cunda pars conclusionis: quod oppositum spei 
+      <lb ed="#B" n="63"/>est bonum: et sub ratione boni: patet ex 
+      dif<lb ed="#B" n="64" break="no"/>ferentia scientiarum ad virtutes: quia 
+      sci<lb ed="#B" n="65" break="no"/>entiae aspiciunt vnum: sed virtutes bonum. 
+      <lb ed="#B" n="66"/>Tum quia virtus theologica habet idem 
+      <lb ed="#B" n="67"/>pro fine et obiecto. Cum ergo ratio finis 
+      <lb ed="#B" n="68"/>sit bonum: sequitur. vnde merito sicut 
+      gau<lb ed="#B" n="69" break="no"/>dium de praesenti est de bono: ita spes de 
+      <lb ed="#B" n="70"/>futuro aspiciet bonum. vnde et hoc 
+      innu<lb ed="#B" n="71" break="no"/>it differentia fidei ad specie quam tangit Aug. 
+      <lb ed="#B" n="72"/>quia fides aspicit et bona et mala: sed spes 
+      <lb ed="#B" n="73"/>tantummodo bona. Ex quo patet: quod non opor 
+      <lb ed="#B" n="74"/>tet ponere obiectum spei bonum sub ratio 
+      <lb ed="#B" n="75"/>ne ardui: sicut ponit doctor deuotus. q. 4. 
+      <lb ed="#B" n="76"/>articuli secundi. Et doctor solennis. 5. quo 
+      <lb ed="#B" n="77"/>lib. quaestione decimaquinta. Patet 
+      op<lb ed="#B" n="78" break="no"/>positum ex conclusione: vnde idem est 
+      ob<lb ed="#B" n="79" break="no"/>iectum: et sub eadem ratione: tam spei quam 
+      <lb ed="#B" n="80"/>charitatis scilicet bonum inquantum bonum. 
+      <lb ed="#B" n="81"/>tamen alio modo tendit in bonum spes: 
+      <lb ed="#B" n="82"/>quia per modum desiderii et commodi: 
+      <lb ed="#B" n="83"/>alio modo charitas: quia per modum vnio 
+      <lb ed="#B" n="84"/>nis et amicitiae. Et hoc sufficit ad hoc quod sint 
+      <lb ed="#B" n="85"/>virtutes distincte.
+</p>
+               <p xml:id="WuV37d-f36326-d1e956">
+¶ Tertia conclusio 
+      <lb ed="#B" n="86"/>est. quod spes est virtus theologica non mo 
+      <lb ed="#B" n="87"/>ralis: et est haec. Hediatrix spes fidei et cha 
+      <lb ed="#B" n="88"/>ritatis: non moralis sed theologicalis virt 
+      <lb ed="#B" n="89"/>nominatur. Habet prima pars 
+      conclu<lb ed="#B" n="90" break="no"/>sionis: quod spes est media inter fidem et 
+      cha<lb ed="#B" n="91" break="no"/>ritatem: patet exemplo materiali. primo: 
+      <lb ed="#B" n="92"/>fundamentum. secundo paries. tertio tectum 
+      <lb ed="#B" n="93"/>In spiritualibus autem fundamentum est fides 
+      <lb ed="#B" n="94"/>spes paries: tectum charitas. Unde hoc 
+      insi<lb ed="#B" n="95" break="no"/>nuat ordo apostoli. Nunc inquit manent i 
+      <lb ed="#B" n="96"/>fides: spes: charitas. Ista tamen prioritas 
+      <lb ed="#B" n="97"/>debet intelligi de prioritate naturali: vel 
+      <!--609.xml-->
+      <pb ed="#B" n="296-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>quo ad actum: non temporis: quia heae tres 
+      <lb ed="#B" n="2"/>virtutes simul infunduntur. Et si obiicia 
+      <lb ed="#B" n="3"/>tur: quia tentio quae est dos correspon 
+      <lb ed="#B" n="4"/>dens fidei sequitur fruitionem: quae est dos 
+      <lb ed="#B" n="5"/>correspondens charitati: et ita videtur quod 
+      <lb ed="#B" n="6"/>spes sequitur charitatem. Dicendum quod 
+      <lb ed="#B" n="7"/>non est simile: quia dotes in patria 
+      qua<lb ed="#B" n="8" break="no"/>si simul: vel adminus aequalis erunt 
+      per<lb ed="#B" n="9" break="no"/>fectionis: nunc in via charitas perfectior 
+      <lb ed="#B" n="10"/>spe existit: cursus autem naturae: habet: vt im 
+      <lb ed="#B" n="11"/>perfectum perfectum praecedat. Sed dicit 
+      se<lb ed="#B" n="12" break="no"/>cunda pars conclusionis: quod spes est virtus 
+      <lb ed="#B" n="13"/>theologica: patet. quia illa virtus est 
+      ma<lb ed="#B" n="14" break="no"/>xime theologica quae maxime eleuat men 
+      <lb ed="#B" n="15"/>tem in contemplationem: huiusmodi est spes 
+      <lb ed="#B" n="16"/>Unde dicit apostolus: quod spes incedit 
+      vs<lb ed="#B" n="17" break="no"/>quam ad interiora velaminis. Confirmatur 
+      <lb ed="#B" n="18"/>quia aspicit pro obiecto finem cardinali 
+      <lb ed="#B" n="19"/>um virtutum scilicet deum. et hic est modus vir 
+      <lb ed="#B" n="20"/>tutum theologicalium. 
+      <lb ed="#B" n="21"/>Quantum ad tertium articulum 
+      <lb ed="#B" n="22"/>eunt tres 
+      <lb ed="#B" n="23"/>difficltates.
+</p>
+               <p xml:id="WuV37d-f36326-d1e1041">
+¶ Prima est: an sit vna spes 
+      <lb ed="#B" n="24"/>omnium sperandorum: sicut vna est fides omnium 
+      cre<lb ed="#B" n="25" break="no"/>dendorum? Dicendum quod sic. Et ratio est: quia sicut ea 
+      <lb ed="#B" n="26"/>quao credit fides solum credit propter primam verita 
+      <lb ed="#B" n="27"/>tem cui innititur: et sicut a prima veritate habet 
+      vni<lb ed="#B" n="28" break="no"/>tatem: ita spes ea cuncta quae sperat propter diui 
+      <lb ed="#B" n="29"/>nam sperat largitatem et bonitatem cui innititur 
+      <lb ed="#B" n="30"/>et ab ea sumit vnitatem: non a sperandis di 
+      <lb ed="#B" n="31"/>uersitatem.
+</p>
+               <p xml:id="WuV37d-f36326-d1e1061">
+¶ Secunda difficultas 
+      <lb ed="#B" n="32"/>vtrum in christo potuerit poni spes: sanct 
+      <lb ed="#B" n="33"/>thomas. q. 5. articulo. 2. dicit quod non: quia 
+      <lb ed="#B" n="34"/>spes est respectu tentionis diuine habende: 
+      <lb ed="#B" n="35"/>necdum habite: christus autem ab initio fu 
+      <lb ed="#B" n="36"/>it comprehensor. Magister nico. de lira 
+      <lb ed="#B" n="37"/>illum posatst. Conserua me domine quoniam speraui in te 
+      <lb ed="#B" n="38"/>exponens dicit: quomodo habuit spem non 
+      <lb ed="#B" n="39"/>quidem de tentione quae est dos: sed de 
+      re<lb ed="#B" n="40" break="no"/>surrectione sui corporis.
+</p>
+               <p xml:id="WuV37d-f36326-d1e1084">
+¶ Tertia difi 
+      <lb ed="#B" n="41"/>ficultas. quae est nobilior virtus: fides vel 
+      <lb ed="#B" n="42"/>spes? Dicendum quod spes. Tum quia 
+      no<lb ed="#B" n="43" break="no"/>biliori subiecto scilicet voluntati: tum quia 
+      pro<lb ed="#B" n="44" break="no"/>ximior meliori scilicet charitati. tum tertio quia 
+      <lb ed="#B" n="45"/>ratio obiecti nobilior scilicet bonitas. Ex quo 
+      <lb ed="#B" n="46"/>patet ad quaestionem: quod videlicet spes non 
+      <lb ed="#B" n="47"/>moralis virtus: sed theologica censetur 
+      <lb ed="#B" n="48"/>Tunc ad argnmenta.
+</p>
+               <p xml:id="WuV37d-f36326-d1e1104">
+¶ Ad primum 
+      di<lb ed="#B" n="49" break="no"/>cendum ad maiorem: quod mediatio est ra¬ 
+      <!--609.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>tione obiecti et circunstantiarum simul: 
+      si<lb ed="#B" n="51" break="no"/>cut patet in virtute morali: vt in temperan 
+      <lb ed="#B" n="52"/>tia: in qua debet accipi et medium 
+      ratio<lb ed="#B" n="53" break="no"/>ne obiecti: vt nec minus nec nimis come 
+      <lb ed="#B" n="54"/>detur: et ratione circunstantiarum: vt 
+      quan<lb ed="#B" n="55" break="no"/>do oportet: vt vbi oportet: et sic de aliis. 
+      <lb ed="#B" n="56"/>Et hoc modo loquendo non est mediatio 
+      <lb ed="#B" n="57"/>in virtute theologica: et habet maior 
+      ve<lb ed="#B" n="58" break="no"/>ritatem. Est autem alia mediatio non quidem 
+      <lb ed="#B" n="59"/>a parte obiecti: sed circunstantiarum solum 
+      <lb ed="#B" n="60"/>et hoc modo bene est mediatio in virtute 
+      <lb ed="#B" n="61"/>theologica: quamuis enim non possumus ni 
+      <lb ed="#B" n="62"/>mis deo credere: est tamen qui nimis 
+      ci<lb ed="#B" n="63" break="no"/>to credit: et dicitur leuis. Est et qui nunquam 
+      <lb ed="#B" n="64"/>credit nisi humana praeuia ratione: et 
+      dici<lb ed="#B" n="65" break="no"/>tur pertinax: In medio horum duorum 
+      vi<lb ed="#B" n="66" break="no"/>ciorum ambulat fides virtus. Sic 
+      dicen<lb ed="#B" n="67" break="no"/>dum de spe inter praesumptionem et despe 
+      <lb ed="#B" n="68"/>rationem: ideo argumentum non obuiat 
+      </p>
+               <p xml:id="WuV37d-f36326-d1e1154">
+                  <lb ed="#B" n="69"/>¶ Ad secundum dicendum: sicut dicit 
+      do<lb ed="#B" n="70" break="no"/>ctor deuotus: q. 3. articuli . est quod actum 
+      ali<lb ed="#B" n="71" break="no"/>quem alicuius esse virtutis potest intelligi 
+      <lb ed="#B" n="72"/>tripliciter: vel sicut elicientis: et hoc modo 
+      <lb ed="#B" n="73"/>pati terribilia seu sustinere est patientiae 
+      <lb ed="#B" n="74"/>et fortitudinis: vel secundo sicut dictantis  
+      <lb ed="#B" n="75"/>et hoc modo omnes actus virtutum sunt 
+      <lb ed="#B" n="76"/>fidei: vel tertio sicut adminiculantis: et sic 
+      <lb ed="#B" n="77"/>sunt spei: propter enim spem regni 
+      caelo<lb ed="#B" n="78" break="no"/>rum valde facile est expectare: aut 
+      confi<lb ed="#B" n="79" break="no"/>dere: aut sustinere. Ex quo patet: quod aliter 
+      <lb ed="#B" n="80"/>sunt huiusmodi actus spei: alio modo alia 
+      <lb ed="#B" n="81"/>rum virtutum: licet propriam 
+      expectatio<lb ed="#B" n="82" break="no"/>nem spes habeat.
+</p>
+               <p xml:id="WuV37d-f36326-d1e1187">
+¶ Ad tertium ad 
+      ma<lb ed="#B" n="83" break="no"/>iorem quod est falsa: et ratio est: quia 
+      intelle<lb ed="#B" n="84" break="no"/>ctus solum habet actum vnum de 
+      predica<lb ed="#B" n="85" break="no"/>mento qualitatis: memoria autem non 
+      ha<lb ed="#B" n="86" break="no"/>bet aliquem actum nisi de predicamento 
+      <lb ed="#B" n="87"/>actionis: ideo non oportet quod habeat 
+      du<lb ed="#B" n="88" break="no"/>as virtutes quae sint diuersorum actuum 
+      <lb ed="#B" n="89"/>principium: volunntas vero habet et 
+      affe<lb ed="#B" n="90" break="no"/>ctionem comodi: et hanc regulat spes et 
+      <lb ed="#B" n="91"/>affectionem iusticiae: et hanc regulat chari 
+      <lb ed="#B" n="92"/>tas: ideo non est consimile. Et tantum de praesenti 
+      <lb ed="#B" n="93"/>quaestione.
+</p>
+            </div>
+            <div xml:id="WuV37d-f36326-Dd1e1214" type="et-conclusiones">
+               <head xml:id="WuV37d-f36326-Hd1e1216">Conclusiones</head>
+               <p xml:id="WuV37d-f36326-d1e1219">
+¶ Ex praesenti autem 
+      distin<lb ed="#B" n="94" break="no"/>de mente magistri sicut de etc.
+</p>
+               <p xml:id="WuV37d-f36326-d1e1224">
+¶ Prima i 
+      <lb ed="#B" n="95"/>conclusio. praeviis meritis spes perficitur donis in 
+      <lb ed="#B" n="96"/>gratuitis ipsa innititur. Dicit conclusio quod spes 
+      <lb ed="#B" n="97"/>venit ex meritis et gratia: et ponitur a pricipio.  
+      <lb ed="#B" n="98"/>distinctionis. vsque ibi. Et sicut fides ita etc. 
+      <!--610.xml-->
+      <pb ed="#B" n="297-r"/>
+                  <cb ed="#B" n="a"/>
+               </p>
+               <p xml:id="WuV37d-f36326-d1e1242">
+                  <lb ed="#B" n="1"/>¶ Secunda conclusio de inuisibilibus fides 
+      <lb ed="#B" n="2"/>ponitur: et spes non: sed differentibus. Dicit 
+      <lb ed="#B" n="3"/>conclusio: quod tam fides quam spes sunt de 
+      inuisi<lb ed="#B" n="4" break="no"/>bilibus: tamen differenter. Et ponitur ab illo 
+      <lb ed="#B" n="5"/>capitulo. Et sicut fides etc. vsque ibi. Post haec 
+      <lb ed="#B" n="6"/>etc.
+</p>
+               <p xml:id="WuV37d-f36326-d1e1258">
+¶ Tertia conclusio. In caelo negantur fides 
+      <lb ed="#B" n="7"/>primitus et spes funditus: sed in limbo donam 
+      <lb ed="#B" n="8"/>tur. Dicit conclusio quod in beatis non est fides 
+      <lb ed="#B" n="9"/>aut spes. sed bene in limbo patrum. Et 
+      po<lb ed="#B" n="10" break="no"/>nitur ab illo ca. Post haec etc. vsque etc. 
+      <lb ed="#B" n="11"/>Distin. 27. in quae magister agit de tertia 
+      <lb ed="#B" n="12"/>virtute scilicet charitate qua diligim 
+      <lb ed="#B" n="13"/>deum quatum ad eius essentiam et 
+      dif<lb ed="#B" n="14" break="no"/>finitionem. 
+      <lb ed="#B" n="15"/>Demd autem chri 
+      <lb ed="#B" n="16"/>stus fidem et specienon 
+      ha<lb ed="#B" n="17" break="no"/>buerit: dilectionem tamen 
+      <lb ed="#B" n="18"/>habuit etc.
+</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

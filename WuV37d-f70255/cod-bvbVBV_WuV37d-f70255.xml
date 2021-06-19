@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 14-16</title>
+            <author ref="#WilliamDeVaurouillon">William de Vaurouillon</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 14-16</title>
+               <date when="2021-06-19">June 19, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-bvbVBV">Basel 1510</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-06-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="369-r"/>
+            <cb ed="#B" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="WuV37d-f70255"><!-- l4d14-16 -->
+            <head xml:id="WuV37d-f70255-Hd1e108">Distinctio 14-16</head>
+            <div xml:id="WuV37d-f70255-Dd1e111" type="circa-textum">
+               <head xml:id="WuV37d-f70255-Hd1e113">Circa textum</head>
+               <p xml:id="WuV37d-f70255-d1e116">
+      <!--754.xml-->
+                  <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>Distinctio decimaquarta huius 
+      <lb ed="#B" n="51"/>quarti docet de poenitentia in generali. 
+    </p>
+               <p xml:id="WuV37d-f70255-d1e127">
+                  <lb ed="#B" n="52"/>Ost hec de 
+      <lb ed="#B" n="53"/>qo poenitentia agendum est: 
+      <lb ed="#B" n="54"/>Poenitetia longe 
+      posi<lb ed="#B" n="55" break="no"/>tis a deo necessaria e. 
+      <lb ed="#B" n="56"/>Hic signatur. 14. distin. 
+      hu<lb ed="#B" n="57" break="no"/>ius quarti: quae ita continuatur ad praecedentes: 
+      <lb ed="#B" n="58"/>Nam postquam in. 7. dis. frons hominis est 
+      ve<lb ed="#B" n="59" break="no"/>nustata ex chrismali vnctione. Et in. 6. dis. 
+      <lb ed="#B" n="60"/>tum quinque sequentibus dis. panis est substam 
+      <lb ed="#B" n="61"/>tia transubstantiata sacra consecratione: Nunc 
+      <lb ed="#B" n="62"/>tertio in praesenti dist. cum sequentibus distin. 
+      <lb ed="#B" n="63"/>quae ad hanc pertinent materiam vigor mentis 
+      <lb ed="#B" n="64"/>reparatur gemitus assumptione. Et habet 
+      di<lb ed="#B" n="65" break="no"/>uidi praesens materia primaria diuisione in 
+      <lb ed="#B" n="66"/>tres partes principales. In prima ostendit 
+      quid<lb ed="#B" n="67" break="no"/>sit poenitentia quidditatiue. In secunda quo 
+      mi<lb ed="#B" n="68" break="no"/>nister agat potestatiue. In tertia quis sit 
+      <lb ed="#B" n="69"/>effectus eius susceptione. Prima in 
+      princi<lb ed="#B" n="70" break="no"/>pio. Secunda dis. 16. ibi. Hic quaeri solet etc. 
+      <lb ed="#B" n="71"/>Tertia dist. 20. ibi. Sciendum est etc. Pri 
+      <lb ed="#B" n="72"/>ma rursus particula in qua magister agit de 
+      pae<lb ed="#B" n="73" break="no"/>nitentia ostendendo quid sit quidditatiue: in 
+      <lb ed="#B" n="74"/>tres partes diuiditur: secundum quod ipsam manifestat 
+      <lb ed="#B" n="75"/>tripliciter. Ab interiori primo / secundo ab 
+      in<lb ed="#B" n="76" break="no"/>feriori perquirendo qualiter haec tria / contritio 
+      <lb ed="#B" n="77"/>catnfessio / et satis factio / sunt partes poenitentiae. 
+      <lb ed="#B" n="78"/>Tertio ab exteriori scilicet ostendendo quis est mi 
+      <lb ed="#B" n="79"/>nister in sacramento poenitentiae. In prima 
+      er<lb ed="#B" n="80" break="no"/>go manifestat quid poenitentia habet interius; 
+      <lb ed="#B" n="81"/>In secunda elucidat quid ei sit inferius. In ter 
+      <lb ed="#B" n="82"/>tia clarificat quis ministret ei exterius. Pri 
+      <lb ed="#B" n="83"/>ma in principio. Secunda dis. 16. ibi. In perfe 
+      <lb ed="#B" n="84"/>ctione autem etc. Tertia dis. 17. ibi. Hic 
+      ori<lb ed="#B" n="85" break="no"/>tur quaestio etc. Rursus prima particula in qua 
+      <lb ed="#B" n="86"/>magister manifestat quid poenitentia habet inte 
+      <lb ed="#B" n="87"/>rius: in tres partes diuiditur. In prima pandit 
+      <lb ed="#B" n="88"/>poenitentiam iterabilem. In secunda dicit poeniten 
+      <lb ed="#B" n="89"/>tiam non diuisibilem. In tertia concludit 
+      poeni<lb ed="#B" n="90" break="no"/>tentiam completam vtilem. Prima est in principio. 
+      <lb ed="#B" n="91"/>Secunda dis. 15. ibi. Et sicut praedictis etc. Ter 
+      <lb ed="#B" n="92"/>tia ibi in fine. 15. dist. Ex praemissis perspicua 
+      <lb ed="#B" n="93"/>fit noticia etc. Prima rursus particula quae 
+      <lb ed="#B" n="94"/>est praesens dis. in qua magister pandit 
+      poenitem<lb ed="#B" n="95" break="no"/>tiam iterabilem: in tres partes diuiditur. In 
+      pri<lb ed="#B" n="96" break="no"/>ma. ponitur poenitentiae notificatio. In secunda 
+      <!--755.xml-->
+      <pb ed="#B" n="369-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>additur exorti erroris occasio. In tertia 
+      se<lb ed="#B" n="2" break="no"/>quitur auctoritatum determinatio. Prima 
+      <lb ed="#B" n="3"/>in principio. Secunda ibi. His verbis etc. 
+      <lb ed="#B" n="4"/>Tertia ibi. His aliisque etc. Et quia secundum 
+      testi<lb ed="#B" n="5" break="no"/>monium aurelii aug. ad suum filium Deodatum 
+      <lb ed="#B" n="6"/>in libro de quantitate animae. Iurae equalitatem 
+      <lb ed="#B" n="7"/>inequalitati praeponimus. Et in tribus 
+      lo<lb ed="#B" n="8" break="no"/>cis in primis tribus libris sunt iuncte tres 
+      <lb ed="#B" n="9"/>distin. adinuicem et simul expedite sicut 
+      per<lb ed="#B" n="10" break="no"/>omnes libros. Tertia distin. in tres partes 
+      di<lb ed="#B" n="11" break="no"/>uisa est: quorum locorum seu cuius ternarii 
+      <lb ed="#B" n="12"/>triplicis Primus ternarius est. 14. 15. 10. 
+      <lb ed="#B" n="13"/>distinctiones. Secundus ternarius est. 23  
+      <lb ed="#B" n="14"/>24. et. 25. distin. Tertius ternarius est. 36 
+      <lb ed="#B" n="15"/>39 et. 40. distin. Ideo accedat nunc pari 
+      <lb ed="#B" n="16"/>formiter. 15. dist. in qua magister ostendit 
+      poeni<lb ed="#B" n="17" break="no"/>tentiam non esse diuisibilem ibi. 
+      <lb ed="#B" n="18"/>Et sicut praedictis 
+      au<lb ed="#B" n="19" break="no"/>ctoritatibus illorum error conuincitur etc. 
+      <lb ed="#B" n="20"/>Et ista distin. in tres partes diuiditur. In pri 
+      <lb ed="#B" n="21"/>ma remouet errorem dicentium quod poenitentia 
+      <lb ed="#B" n="22"/>ne vno peccato sine altero valet tunc 
+      quanm<lb ed="#B" n="23" break="no"/>do agitur. In secunda errorem dicentium / quod et si 
+      <lb ed="#B" n="24"/>tunc non valeat tamen valet quando de 
+      pec<lb ed="#B" n="25" break="no"/>cato altero conteritur. In tertia varias po 
+      <lb ed="#B" n="26"/>nit auctoritates quibus veritas inseritur 
+      at<lb ed="#B" n="27" break="no"/>quam construitur. Prima in principio. Secunda 
+      <lb ed="#B" n="28"/>ibi. Quibusdam tamen etc. Tertia ibi. 
+      Sa<lb ed="#B" n="29" break="no"/>tis arbitror etc. Tunc veniat et. 16. dist. 
+      <lb ed="#B" n="30"/>n perfectione autem 
+      <lb ed="#B" n="31"/>poenitentiae tria obseruanda sunt etc. 
+      <lb ed="#B" n="32"/>In qua magister elucidat quid sit 
+      poeniten<lb ed="#B" n="33" break="no"/>tia inferius: determinando qualiter / 
+      contri<lb ed="#B" n="34" break="no"/>tio / confessio / et satiffactio: haec tria se 
+      habe<lb ed="#B" n="35" break="no"/>ant ad poenitentiam: et diuiditur in tres partes. 
+      <lb ed="#B" n="36"/>In prima ostendit quid ad poenitendum 
+      vale<lb ed="#B" n="37" break="no"/>at contritio. In secunda qualiter addi debet 
+      <lb ed="#B" n="38"/>confessio. In tertia vera apponitur et 
+      satis<lb ed="#B" n="39" break="no"/>factio. Prima in principio. Secunda ibi. 
+      <lb ed="#B" n="40"/>Caueat ne ductus verecundia etc. Tertia 
+      <lb ed="#B" n="41"/>ibi. Caueant et ne prius. Haec est diuisio 
+      <lb ed="#B" n="42"/>harum trium distinctionum in generali. 
+      <lb ed="#B" n="43"/>Circa quas etc. 
+    </p>
+            </div>
+            <div xml:id="WuV37d-f70255-Dd1e328">
+               <head xml:id="WuV37d-f70255-Hd1e330">Quaestio</head>
+               <p xml:id="WuV37d-f70255-d1e333">
+                  <lb ed="#B" n="44"/>Ista quaestio declarat de 
+      sacra<lb ed="#B" n="45" break="no"/>mento poenitentiae restitutione et 
+      sa<lb ed="#B" n="46" break="no"/>tisfactione et complectuntur tres di¬ 
+      <!--755.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="47"/>uisiones in quibus Scotus ponit 
+      <lb ed="#B" n="48"/>decem quaestiones. 
+      <lb ed="#B" n="49"/>Utrum sacramen 
+      <lb ed="#B" n="50"/>tum poenitentiae: satisfactione et 
+      re<lb ed="#B" n="51" break="no"/>stitutione compleatur. Et 
+      argui<lb ed="#B" n="52" break="no"/>tur quod non triplici medio.
+</p>
+               <p xml:id="WuV37d-f70255-d1e359">
+¶ Primo sic ostem 
+      <lb ed="#B" n="53"/>dendo quod nullum est sacramentum poenitentiae. 
+      <lb ed="#B" n="54"/>Sacramentum poenitentiae non valet ad 
+      de<lb ed="#B" n="55" break="no"/>lendum peccatum mortale: igitur nec satisfacti 
+      <lb ed="#B" n="56"/>one nec restitutione completur. Patet 
+      con<lb ed="#B" n="57" break="no"/>sequentia: quia ideo dicunt satisfactionem iniun 
+      <lb ed="#B" n="58"/>gi aut restitutionem: vt per sacramentum 
+      pe<lb ed="#B" n="59" break="no"/>nitentiae peccatum mortale indulgeatur. 
+      An<lb ed="#B" n="60" break="no"/>tecedens patet: quia tunc oporteret 
+      poeni<lb ed="#B" n="61" break="no"/>tentiam esse equae magnum bonum: sicut pec 
+      <lb ed="#B" n="62"/>catum mortale est malum quod esse nequit: quia 
+      <lb ed="#B" n="63"/>poenitentia est bonum finitum: peccatum vero 
+      <lb ed="#B" n="64"/>mortale est malum infinitum: patet per Anf. 
+      <lb ed="#B" n="65"/>li. 1. Cur deus bomo ca. 21. et lib. 2. c. 13. 
+      <lb ed="#B" n="66"/>tantum malum est peccatum quantus est ille in 
+      <lb ed="#B" n="67"/>quem committitur: ille est infinitus: quia tibi so 
+      <lb ed="#B" n="68"/>u peccaui.
+</p>
+               <p xml:id="WuV37d-f70255-d1e396">
+¶ Secundo arguitur / homo 
+      of<lb ed="#B" n="69" break="no"/>fensus aliquado remittit sine emenda 
+      lau<lb ed="#B" n="70" break="no"/>dabiliter offensam offendenti: ergo et 
+      de<lb ed="#B" n="71" break="no"/>us debet dimittere sine satisfactione. 
+      An<lb ed="#B" n="72" break="no"/>tecedens patet: ad hoc enim est mititas in 
+      <lb ed="#B" n="73"/>terius qua non sentitur passio: et 
+      mansuetu<lb ed="#B" n="74" break="no"/>do exterius qua offendenti non infertur no 
+      <lb ed="#B" n="75"/>cumentum. Probatur consequentia: quia 
+      om<lb ed="#B" n="76" break="no"/>nis perfectio quae est in creatura sine 
+      im<lb ed="#B" n="77" break="no"/>perfectione est in deo formaliter: et per emi 
+      <lb ed="#B" n="78"/>nentiam: vt in primo lib. est ostensum.
+</p>
+               <p xml:id="WuV37d-f70255-d1e420">
+¶ Ter 
+      <lb ed="#B" n="79"/>tio arguitur sic. Exterius non perficit interius: 
+      <lb ed="#B" n="80"/>ergo satisfactio aut restitutio non complent 
+      <lb ed="#B" n="81"/>poenitentiam. Antecedens patet: quia quae extra 
+      <lb ed="#B" n="82"/>sunt videntur et corporalia sunt: quae autem 
+      <lb ed="#B" n="83"/>intra non videntur et spiritualia sunt: 
+      corpo<lb ed="#B" n="84" break="no"/>ralia autem non sunt forma spiritualium. 
+      Pa<lb ed="#B" n="85" break="no"/>tet consequentia: quia poenitentia est virtus inte 
+      <lb ed="#B" n="86"/>rior: satiffactio autem et restitutio fiunt 
+      exte<lb ed="#B" n="87" break="no"/>ius. Patet de partibus satisfactionis quae 
+      <lb ed="#B" n="88"/>sunt / elemosyna / ieiunium / et oratio 
+      maxi<lb ed="#B" n="89" break="no"/>me vocalis.
+</p>
+               <p xml:id="WuV37d-f70255-d1e447">
+¶ In oppositum: quod poenitentia 
+      <lb ed="#B" n="90"/>est necessaria et valet contra peccatum 
+      mor<lb ed="#B" n="91" break="no"/>tale. Si impius egerit poenitentiam. Sequitur: 
+      <lb ed="#B" n="92"/>omnium iniquitatum eius non recordabor. Tum 
+      <lb ed="#B" n="93"/>secundo: quia saluator dicit. Nisi poenitentiam 
+      <!--756.xml-->
+      <pb ed="#B" n="370-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>egeritis omnes simul peribitem. Tum tertio 
+      <lb ed="#B" n="2"/>quia satisfactio et restitutio complent prniam: 
+      <lb ed="#B" n="3"/>quia etiam exiguntur pro malo in punitione: dicitur 
+      <lb ed="#B" n="4"/>de babylione mystica. Quantum glorificauis 
+      <lb ed="#B" n="5"/>se et in delitiis fuit: tantum date illi tormentum. 
+      <lb ed="#B" n="6"/>Et dicitur. Iuxta numerum delicti erit et pla 
+      <lb ed="#B" n="7"/>garum modus.
+</p>
+               <p xml:id="WuV37d-f70255-d1e480">
+¶ In ista quaestione etc. 
+      <lb ed="#B" n="8"/>Primus est terminorum declaratiuus 
+      <lb ed="#B" n="9"/>Quorum. Secundus est quaestionis responsiuus 
+      <lb ed="#B" n="10"/>Tertius est dubiorum motiuus 
+      <lb ed="#B" n="11"/>Quo ad primum articu 
+      <lb ed="#B" n="12"/>lum 
+      ter<lb ed="#B" n="13" break="no"/>mini sunt / poenitentia / satisfactio / restitutio. 
+      </p>
+               <p xml:id="WuV37d-f70255-d1e496">
+                  <lb ed="#B" n="14"/>¶ Primus terminus est poenitentia: 
+      <lb ed="#B" n="15"/>quasi paenam tenens: aut poenae tenentia. Unde 
+      <lb ed="#B" n="16"/>notandum quod tripliciter dicitur poenitentia. Pai 
+      <lb ed="#B" n="17"/>nitentia infructuosa: sicut. 2. Macha. 9. 
+      <lb ed="#B" n="18"/>de anthiocho dicitur. Orabat scelestus do 
+      <lb ed="#B" n="19"/>minum a quo non erat poenitentiam consecutu 
+      <lb ed="#B" n="20"/>rus. Secundo de poeniten. iudae. de 
+      peni<lb ed="#B" n="21" break="no"/>distin. 3. et ponitur in littera. Nihil iudae 
+      pro<lb ed="#B" n="22" break="no"/>fuit egisse poenitentiam per quam scelus emon 
+      <lb ed="#B" n="23"/>dare non potuit. Tertio de poenitentia 
+      dan<lb ed="#B" n="24" break="no"/>natorum. Poenitentiam agentes et prae 
+      angu<lb ed="#B" n="25" break="no"/>stia spiritus gementes. Secundo dicitur 
+      pae<lb ed="#B" n="26" break="no"/>nitentia interior fructuosa: hoc modo di 
+      <lb ed="#B" n="27"/>cunt Ambro. et Augusti. quod poenitentia est 
+      <lb ed="#B" n="28"/>praeterita mala plangere: et plangenda 
+      vl<lb ed="#B" n="29" break="no"/>tra non admittere. Et haec sicut dicit frater 
+      <lb ed="#B" n="30"/>Rinchar praesentis distin. arti. 1. q. 1. dicitur tri 
+      <lb ed="#B" n="31"/>pliciter. Primo pro habitu poenitentiae. 
+      Se<lb ed="#B" n="32" break="no"/>cundo pro actu poenitendi. Tertio pro do 
+      <lb ed="#B" n="33"/>lore consequente. Tertio dicitur poenitentia 
+      sa<lb ed="#B" n="34" break="no"/>cramentum poenitentiae: et hoc modo 
+      capien<lb ed="#B" n="35" break="no"/>do diffinitur poenitentia a doctore subti. 14. 
+      <lb ed="#B" n="36"/>distin. q. 4. arti. 1. Poenitentia est absolutio 
+      <lb ed="#B" n="37"/>hominis poenitentis facta certis verbis cum 
+      <lb ed="#B" n="38"/>debita intentione prolatis a sacerdote 
+      iu<lb ed="#B" n="39" break="no"/>risditionem habente ex institutione diuina: 
+      <lb ed="#B" n="40"/>signans efficaciter absolutionem animae a 
+      <lb ed="#B" n="41"/>peccato: haec descriptio per triplex gen 
+      <lb ed="#B" n="42"/>causae ponitur. Primo ponitur genus causa 
+      <lb ed="#B" n="43"/>materialis dum dicitur: poenitentia est abso 
+      <lb ed="#B" n="44"/>lutio hominis poenitentis. Ex quo primo in 
+      <lb ed="#B" n="45"/>fertur quod qui peccatum non habet: ad hoc sa 
+      <lb ed="#B" n="46"/>cramentum non tenetur: poenitentia enim pro 
+      ob<lb ed="#B" n="47" break="no"/>iecto peccatum aspicit. Secundo infertur / quod 
+      <lb ed="#B" n="48"/>angelis non conuenit: quia dicitur hominis. 
+      <lb ed="#B" n="49"/>Tertio sequitur hoc sacramentum esse in vsum 
+      <!--756.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>non in esse quieto: vt eucharistiae 
+      sacramen<lb ed="#B" n="51" break="no"/>tum: quia dicitur absolutio. Sed quaero quae 
+      <lb ed="#B" n="52"/>absolutio aut passio primo: aut actio secundo 
+      <lb ed="#B" n="53"/>aut tertio aliquid ab eis egrediens: non est prius 
+      <lb ed="#B" n="54"/>mo sacramentum poenitentiae absolutio passio 
+      <lb ed="#B" n="55"/>quia tunc nihil esset ibi sensibile: absoluitur 
+      <lb ed="#B" n="56"/>enim a domino interius: in sacramento autem sem 
+      <lb ed="#B" n="57"/>per debet esse aliquid sensibile: nec 
+      absolu<lb ed="#B" n="58" break="no"/>timo actio: quia ista est in agente sicut quaecumque 
+      <lb ed="#B" n="59"/>actio sacramentum autem poenitentiae in 
+      poenitem<lb ed="#B" n="60" break="no"/>te suscipitur: quae ergo absolutio est 
+      sacramen<lb ed="#B" n="61" break="no"/>tum poenitentiae est absolutio: id est 
+      quedan<lb ed="#B" n="62" break="no"/>sententia diffinitiua reum absoluens: qua 
+      pe<lb ed="#B" n="63" break="no"/>nitens denominatione extrinseca absolutus  
+      <lb ed="#B" n="64"/>dicitur: et intus a deo absoluitur: non data 
+      im<lb ed="#B" n="65" break="no"/>mediate a iudice principali: sed a suo 
+      com<lb ed="#B" n="66" break="no"/>missario. Ideo secundo ponitur genus 
+      cau<lb ed="#B" n="67" break="no"/>lae efficientis dum dicitur: Facta certis 
+      ver<lb ed="#B" n="68" break="no"/>bis etc. Primo dicit / quod haec sententia fiat 
+      <lb ed="#B" n="69"/>certis verbis: sed quae sunt illa verba: 
+      di<lb ed="#B" n="70" break="no"/>co quod haec sunt apta. Ego te absoluo: quae 
+      <lb ed="#B" n="71"/>praemittuntur aut sequuntur varios imitantur 
+      <lb ed="#B" n="72"/>ecclesiarum ritus: vtile tamen est addere et ra 
+      <lb ed="#B" n="73"/>tioni consonum vt addatur: In nomine patris 
+      <lb ed="#B" n="74"/>et filii et spiritus sancti amen. vt se ostendat sa 
+      <lb ed="#B" n="75"/>cerdos agere non vt iudex principalis: sed 
+      <lb ed="#B" n="76"/>velut commissarius: nec ita sunt certa 
+      ver<lb ed="#B" n="77" break="no"/>ba ex toto sicut in aliis multis 
+      sacramen<lb ed="#B" n="78" break="no"/>tis. Additur cum debita intentione prolatis de 
+      <lb ed="#B" n="79"/>qua in praecedentibus sacramentis habitus  
+      <lb ed="#B" n="80"/>est sermo a sacerdote. Ex quo infertur quod con 
+      <lb ed="#B" n="81"/>fessio facta laico non sacerdoti 
+      sacramenta<lb ed="#B" n="82" break="no"/>lis non est: et aliquando obest et non proficit 
+      iu<lb ed="#B" n="83" break="no"/>risditionem habenti. Ex quo infertur quod alia 
+      <lb ed="#B" n="84"/>potestas est posse conficere alia posse 
+      audi<lb ed="#B" n="85" break="no"/>re confessiones. Tertio tangitur genus 
+      cau<lb ed="#B" n="86" break="no"/>sae finalis dum concluditur: ex institutione 
+      di<lb ed="#B" n="87" break="no"/>uina signans efficaciter absolutionem animae a 
+      <lb ed="#B" n="88"/>peccato. Quis enim potest peccata dimittere 
+      <lb ed="#B" n="89"/>nisi deus: quis igitur potest efficaciter signare 
+      <lb ed="#B" n="90"/>nisi deus? Sed tunc est dubium: quia dicit effi in 
+      <lb ed="#B" n="91"/>caciter. Utrum sacramento poenitentiae culpa 
+      <lb ed="#B" n="92"/>deleatur: dicit magister sententiarum di. 16. ca. 6. quod 
+      <lb ed="#B" n="93"/>non: sed quod solum sacerdos onndit esse 
+      absolu<lb ed="#B" n="94" break="no"/>tum a deo ministrando sacraendum sicut sacerdos 
+      <lb ed="#B" n="95"/>legalis leprosum: tunc ei sacerdos dimitteret 
+      <lb ed="#B" n="96"/>peccatum: quod est contra hiero. super illud. Tibi dabo  
+      <lb ed="#B" n="97"/>claues re. cae. Hunc inquit locum quadam non 
+      intelli<lb ed="#B" n="98" break="no"/>gentes aliquid sumunt de supercilio phariseorum 
+      <!--757.xml-->
+      <pb ed="#B" n="370-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>vt damnare innoxios vel soluere putant 
+      <lb ed="#B" n="2"/>noxios cum apud deum non sententia 
+      sacerdo<lb ed="#B" n="3" break="no"/>tum sed reorum vita quaeratur: et huius 
+      probatio<lb ed="#B" n="4" break="no"/>nem innuit subdens in leuitico se ostendere sa 
+      <lb ed="#B" n="5"/>cerdotibus iubentur leprosi: quos illi non fa 
+      <lb ed="#B" n="6"/>ciunt leprosos vel mundos: sed discernunt 
+      <lb ed="#B" n="7"/>qui mundi aut immundi sunt: ita hic: sed sic sen 
+      <lb ed="#B" n="8"/>tire est nimis artare noue legis sacraendum. Unde 
+      <lb ed="#B" n="9"/>dicendum quod multotiens aliquis venit ad sacraentum 
+      <lb ed="#B" n="10"/>poenitentiae suscipiendum: et non habet sufficien 
+      <lb ed="#B" n="11"/>tem attritionem: vt de congruo gratiam suscipi 
+      <lb ed="#B" n="12"/>at. Dico quod si talis veniant non habens obicen 
+      <lb ed="#B" n="13"/>ad gratia et intendat saciaendum poenitentiae susci 
+      <lb ed="#B" n="14"/>pere et capiat: supplet deus attritionis im 
+      <lb ed="#B" n="15"/>perfectum et confertur ei charitas: vnde patet quantum 
+      <lb ed="#B" n="16"/>bonum est hoc frequentare sacraendum quod 
+      experi<lb ed="#B" n="17" break="no"/>untur deuoti. Ultra notandum / quod triplex est. 
+      <lb ed="#B" n="18"/>poenitentia. Prima secreta de qua loquimur 
+      <lb ed="#B" n="19"/>Secunda publica quae peccatoribus aliquando impo 
+      <lb ed="#B" n="20"/>nitur. Tertia solenis quae fit in capite ieiunii. 
+      </p>
+               <p xml:id="WuV37d-f70255-d1e737">
+                  <lb ed="#B" n="21"/>¶ Secundus terminus est satis factio. 
+      <lb ed="#B" n="22"/>Unde Aug. satisfactionem diffiniens: et habei 
+      <lb ed="#B" n="23"/>in listera / dicit. Satisfacere est peccatorum cau 
+      <lb ed="#B" n="24"/>sas excidere: et earum suggestionibus aditis 
+      <lb ed="#B" n="25"/>non indulgere. In qua diffinitione tria in 
+      <lb ed="#B" n="26"/>virtute designantur. Primum est quod satisfactio 
+      <lb ed="#B" n="27"/>non fit nisi pro peccato. Ex quo infertur quod ange 
+      <lb ed="#B" n="28"/>li qui deo seruiunt deo non satisfaciunt: quia 
+      <lb ed="#B" n="29"/>nunquam peccauerunt. Ex eadem radice sequitur 
+      <lb ed="#B" n="30"/>quod animae et beati in caelo deo iubilando laudem 
+      <lb ed="#B" n="31"/>deo non satisfaciunt: quia pro eorum peccatis 
+      satis<lb ed="#B" n="32" break="no"/>factum est mediante merito christi: aut hic 
+      <lb ed="#B" n="33"/>in via: aut in purgatorio. Ex quo sequitur 
+      <lb ed="#B" n="34"/>tertio / quod non est idem satisfactio et restitutio 
+      <lb ed="#B" n="35"/>quia restitutio non semper fit pro peccato: vt cum quis 
+      <lb ed="#B" n="36"/>gladium restituit quem in custodiam accepit: 
+      <lb ed="#B" n="37"/>Secundum est vt causae excidantur peccatorum. 
+      <lb ed="#B" n="38"/>Et tertium quod de caetero eis aditum non 
+      praebe<lb ed="#B" n="39" break="no"/>at: qui alias deum placare cupit non placat 
+      <lb ed="#B" n="40"/>sed irritat. Ex quo infertur vlterius: quod qui co 
+      <lb ed="#B" n="41"/>gitur non satiffacit verius debet dici satis 
+      pas<lb ed="#B" n="42" break="no"/>sio quam satiffactio: ideo in descriptione verba 
+      <lb ed="#B" n="43"/>ponuntur quae agere signant et non pati 
+      exci<lb ed="#B" n="44" break="no"/>dere et admittere. Ex quo secundo infertur: quod 
+      <lb ed="#B" n="45"/>aliquando magno feruore charitatis totum 
+      di<lb ed="#B" n="46" break="no"/>mittitur peccatum: quia summa satisfactio 
+      offen<lb ed="#B" n="47" break="no"/>dentis est amor intimus offensi. Ex quo 
+      <lb ed="#B" n="48"/>tertio infertur: quod non opertet secundum numerum 
+      pec<lb ed="#B" n="49" break="no"/>catorum de necessitate esse satisfactiuum nume 
+      <!--757.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>rum: immo vnus amor dei multum intensus 
+      <lb ed="#B" n="51"/>multa sufficit delere crimina deo 
+      acceptan<lb ed="#B" n="52" break="no"/>te: vnde patet satisfactionem exteriorem non semper 
+      <lb ed="#B" n="53"/>requiri ad peccati deletionem. Est autem 
+      sa<lb ed="#B" n="54" break="no"/>tisfactio exterior: vt dicit doc. subti. 15. di 
+      <lb ed="#B" n="55"/>stin. q. 1. arti. 2. Operatio exterior 
+      laborio<lb ed="#B" n="56" break="no"/>sa vel penalis voluntarie assumpta ad pu 
+      <lb ed="#B" n="57"/>niendum peccatum a se commissum: et ad placan 
+      <lb ed="#B" n="58"/>dum diuinam offensam: et tunc de congruo 
+      <lb ed="#B" n="59"/>distinctis peccatis diuersae poenae respondent: vt 
+      <lb ed="#B" n="60"/>superbiae orainio / auaritiae elemosyna / luxuriae 
+      <lb ed="#B" n="61"/>aut gulae ieiunium. De satisfactione etiam di 
+      <lb ed="#B" n="62"/>ctum est in lib. 3. dis. 20. termino. 3. et in. 2. 
+      <lb ed="#B" n="63"/>arti. ibidem.
+</p>
+               <p xml:id="WuV37d-f70255-d1e837">
+¶ Tertius terminus est 
+      re<lb ed="#B" n="64" break="no"/>stitutio et est rem statuere in statum 
+      praesti<lb ed="#B" n="65" break="no"/>num: vnde accipitur tripliciter. Primo vt condi 
+      <lb ed="#B" n="66"/>uisa contra satisfactionem: quia satisfactio a 
+      sa<lb ed="#B" n="67" break="no"/>cerdote iniungitur: non sper restitutio. Secundo 
+      <lb ed="#B" n="68"/>vt est idem quod satisfactio. Tertio vt genus ad  
+      <lb ed="#B" n="69"/>ambas species. Et tantum de primo articulo. 
+      </p>
+               <p xml:id="WuV37d-f70255-d1e853">
+                  <lb ed="#B" n="70"/>¶ Quatum ad secundum 
+      arti<lb ed="#B" n="71" break="no"/>culum i 
+      <lb ed="#B" n="72"/>sunt tres conclusiones. Prima est de 
+      poeni<lb ed="#B" n="73" break="no"/>tentia. Secunda de satisfactione. Tertia de 
+      <lb ed="#B" n="74"/>restitutione.
+</p>
+               <p xml:id="WuV37d-f70255-d1e867">
+¶ Prima est haec. Sic ad  
+      <lb ed="#B" n="75"/>peccatum remouendum mortale poenitentia 
+      requi<lb ed="#B" n="76" break="no"/>ritur vt virtus moralis existat. Ista 
+      conclu<lb ed="#B" n="77" break="no"/>sio tres habet particulas. Prima diciti / quod 
+      pe<lb ed="#B" n="78" break="no"/>nitentia requiritur ad remouendum peccatum mor 
+      <lb ed="#B" n="79"/>tale. Clamat enim prisous. Poenitentiam agite 
+      ap<lb ed="#B" n="80" break="no"/>propinquibit enim regnum caelorum: vnde Hiero. 
+      <lb ed="#B" n="81"/>in epostola ad demetriadem verginem: Secunda 
+      tabu<lb ed="#B" n="82" break="no"/>la post naufragium vocatur nauis: equidem 
+      ba<lb ed="#B" n="83" break="no"/>ptismus est haec tabula: sed quid delet 
+      poeni<lb ed="#B" n="84" break="no"/>tentia: cum post peccatum nil remaneat caessante 
+      <lb ed="#B" n="85"/>peccatore ab actu peccati intus et extra. Est 
+      <lb ed="#B" n="86"/>dicendum iusticia in habitu est et in actu. 
+      Iu<lb ed="#B" n="87" break="no"/>sticia quidem in habitu quae dicitur charitas qua 
+      <lb ed="#B" n="88"/>iustificati dicuntur apud deum qui iusti sunt: 
+      <lb ed="#B" n="89"/>sic vno mortali peccato tollitur vt secundum nil 
+      tol<lb ed="#B" n="90" break="no"/>lat de ea aut intensiue aut extensiue: non intem 
+      <lb ed="#B" n="91"/>siue: quia cum mortali peccato in quocumque gradu 
+      <lb ed="#B" n="92"/>non stat charitas: non extensiue: quia charitas 
+      <lb ed="#B" n="93"/>non est multi habitus sed vnicus. Iusticia 
+      <lb ed="#B" n="94"/>in actu sic manet vt actus sic transit vt actus: 
+      <lb ed="#B" n="95"/>sic in iusticia cuius subiectum et si sit anima: vt 
+      <lb ed="#B" n="96"/>actus est immediatum non tamen rectitudinis 
+      fun<lb ed="#B" n="97" break="no"/>date in actu: sed actus nisi dicatur mediatum. 
+      <lb ed="#B" n="98"/>Quid ergo poenitentia remouet adueniens 
+      <!--758.xml-->
+      <pb ed="#B" n="371-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>Dicit magister in hoc quarto. dis. 16. ca. vlti. quem 
+      <lb ed="#B" n="2"/>Tho. in hoc quarto imitatur hac dis. q. 2. 
+      ar<lb ed="#B" n="3" break="no"/>ti. 1. in solutione principali secunde quastiumculae: quod 
+      <lb ed="#B" n="4"/>in anima qua peccauit remanet quidem reatus qua 
+      <lb ed="#B" n="5"/>est quadam obligatio et quodam relatio ad paenam 
+      <lb ed="#B" n="6"/>debitam illi culpae: et est quadam relatio non fun 
+      <lb ed="#B" n="7"/>data super actum culpae: sed super essentiam animae 
+      <lb ed="#B" n="8"/>praeuia tamen culpa actuali. Sed contra hoc 
+      ar<lb ed="#B" n="9" break="no"/>guitur: quia ista obligatio non est respectus intrin 
+      <lb ed="#B" n="10"/>lecus adueniens cum non oriatur ex natura extre 
+      <lb ed="#B" n="11"/>morum: nec intrinsecus: quia iam causam aliunde 
+      <lb ed="#B" n="12"/>non habet nisi extrema: peccatum enim iam non est 
+      <lb ed="#B" n="13"/>sed fuit: nec ad deum fugiatur: quia talis 
+      obliga<lb ed="#B" n="14" break="no"/>tionis nequit deus immediata esse causa vt illo 
+      <lb ed="#B" n="15"/>dicatur anima peccatrix: Respondet magister di. 16. c. 
+      <lb ed="#B" n="16"/>vlti. Quemadmodum qui tangit morticinum post 
+      <lb ed="#B" n="17"/>tactum remanet manus immunda: dato quod tact 
+      <lb ed="#B" n="18"/>non maneat: sic et modo. Sed contra vt prius 
+      <lb ed="#B" n="19"/>macula ista dissimilitudo aut elongatio 
+      <lb ed="#B" n="20"/>nequit esse priuatio gratiae quam primum mortale 
+      <lb ed="#B" n="21"/>peccatum ex toto aufert nec carentia 
+      rectitudi<lb ed="#B" n="22" break="no"/>nis in actu: quia illa non remanet nisi actu 
+      prae<lb ed="#B" n="23" break="no"/>sente qui cito transit: vnde non est imaginandum 
+      <lb ed="#B" n="24"/>in peccatore remanere post peccatum mortale ali 
+      <lb ed="#B" n="25"/>quod reale relatiuum aut absolutum quo dicatur 
+      <lb ed="#B" n="26"/>peccator: si enim per actus contrarios potest remoueri 
+      <lb ed="#B" n="27"/>sicut videmus in habituatem hominibus sed hoc 
+      <lb ed="#B" n="28"/>numquam desinit quantumcumque innitatur homo ad oppo 
+      <lb ed="#B" n="29"/>situm nisi per psiam solum: igitur est relatio ratio 
+      <lb ed="#B" n="30"/>nis secundum quod diuina voluntas ordinat et intel 
+      <lb ed="#B" n="31"/>iectus diuinus hunc praeuidet ordinem: vt nisi hic 
+      <lb ed="#B" n="32"/>soluat hanc paenam semper sit ordinatus ad 
+      pae<lb ed="#B" n="33" break="no"/>nam: vnde Aug. super illud. Beati quorum remisse 
+      <lb ed="#B" n="34"/>sunt iniquitates. Uidere inquit dei est peccata ad 
+      <lb ed="#B" n="35"/>paenam imputare: auertere autem faciem a pec 
+      <lb ed="#B" n="36"/>catis hoc est ei ad paenam non reseruare: ita 
+      <lb ed="#B" n="37"/>dicit peccata ab eo tecta: non vt deus non 
+      vide<lb ed="#B" n="38" break="no"/>at: sed vt nolit aimaduertere id est punire: sic 
+      <lb ed="#B" n="39"/>in bono videtur qui ex meritis ad gloriam or 
+      <lb ed="#B" n="40"/>dinatur in eo solum est respectus rationis secundum quod 
+      <lb ed="#B" n="41"/>deus eum ordinat ad praemium meritis tramseum 
+      <lb ed="#B" n="42"/>tibus. Ex quo infertur quod post actum peccati 
+      <lb ed="#B" n="43"/>macula offensa et reatus solum est respectus ratio 
+      <lb ed="#B" n="44"/>nis: sed vt disconueniens animae macula potest 
+      di<lb ed="#B" n="45" break="no"/>ci: sicut per oppositum pulchritudo: vt autem 
+      <lb ed="#B" n="46"/>est obligatio ad paenam reatus: vt autem diui 
+      <lb ed="#B" n="47"/>nam aspicit voluntatem offensa: non quia deus 
+      du<lb ed="#B" n="48" break="no"/>catur passione: sed quia vult vindicare: hoc modo 
+      <lb ed="#B" n="49"/>praedestinati dum ruunt puniunt in seipis vnde 
+      <!--758.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>diuina voluntas placetur: vt patet de dauid et 
+      <lb ed="#B" n="51"/>similibus: aut aliquid agunt vnde contentatur deus: et 
+      <lb ed="#B" n="52"/>si non sit poena formaliter extat tamen equiualens 
+      <lb ed="#B" n="53"/>tamen regulariter per paenam tollitur: aut si non 
+      tol<lb ed="#B" n="54" break="no"/>litur ordinatur. Et hoc dicit Boe. li. 4. de com 
+      <lb ed="#B" n="55"/>so. prosa. 4. et sunt verba philosophie. Feliciores 
+      <lb ed="#B" n="56"/>inquit improbos supplicia luentes quam si eos 
+      <lb ed="#B" n="57"/>nulla iusticiae poena coerceat. Hoc modo me 
+      <lb ed="#B" n="58"/>lius est culpam esse cum paena: quam culpam sine 
+      <lb ed="#B" n="59"/>paena: quia poena quoddam bonum est. Sed potest 
+      <lb ed="#B" n="60"/>ne deus remittere clpam et non punire eam? Di 
+      <lb ed="#B" n="61"/>co quod sic de potentia sua absoluta: sed qua 
+      pae<lb ed="#B" n="62" break="no"/>na remittitur peccatum: qua non: Dico quod poena 
+      <lb ed="#B" n="63"/>voluntaria: haec enim deum placat: non inuolun 
+      <lb ed="#B" n="64"/>taria: sicut patet in damnatis. Sed tunc est hon 
+      <lb ed="#B" n="65"/>dubium quomodo est poena si est volunta ria: et quomodo 
+      <lb ed="#B" n="66"/>voluntaria si est poena? Doctor noster. 1. q. 14. 
+      <lb ed="#B" n="67"/>dis. arti. 3. q. 1. reducit vnum quaternarium suum 
+      <lb ed="#B" n="68"/>ad vnum ternarium: vt ondat fratri francisco 
+      <lb ed="#B" n="69"/>de maronis in spiritu: quod melius est habere bo 
+      <lb ed="#B" n="70"/>num ternarium quam malum quaternarium. 
+      Uolunta<lb ed="#B" n="71" break="no"/>rium inquit dicitur tripliciter. Uno modo id dicitur vo 
+      <lb ed="#B" n="72"/>luntarium quod patientur sustinetur. Secundo dicitur 
+      <lb ed="#B" n="73"/>voluntarium quod gratanter acceptatur: iuxim hos 
+      <lb ed="#B" n="74"/>buos modos dum peccator paenam non 
+      mur<lb ed="#B" n="75" break="no"/>murans contra deum patitur prniam agit: tamen in 
+      <lb ed="#B" n="76"/>gradum infimo. Secundo dum non solum non 
+      mur<lb ed="#B" n="77" break="no"/>murat sed gratanter accipit ad culmen 
+      pe<lb ed="#B" n="78" break="no"/>nitentiae altius volat. Tertio dicitur 
+      volunta<lb ed="#B" n="79" break="no"/>rium quod est effectus voluntatis intentus aut non 
+      <lb ed="#B" n="80"/>intentus: dum quas detestatur se peccatum fecisse: sed 
+      <lb ed="#B" n="81"/>paenam non cogitat. Primus habet alas 
+      stru<lb ed="#B" n="82" break="no"/>tionis aut perdicis: parum volat: tamen volat et 
+      <lb ed="#B" n="83"/>ufficit. Secundus alas ornicis quae auis extat 
+      <lb ed="#B" n="84"/>pulchra et ornata et fasianus dicitur 
+      gratan<lb ed="#B" n="85" break="no"/>ter accipere deum multum letificat. Tertius  
+      <lb ed="#B" n="86"/>alas aquilae vt suspendatur in aere et pisces 
+      vi<lb ed="#B" n="87" break="no"/>deat in aqua natantes id est peccatores in profundo 
+      <lb ed="#B" n="88"/>mundi huius. Narrat enim albertus magnus 
+      <lb ed="#B" n="89"/>in lib. animalium dum naturam aquilarum perscrutatur 
+      <lb ed="#B" n="90"/>quoddam esse genus aquilae huiusmodi: vt ex cacumi 
+      <lb ed="#B" n="91"/>ne aeris videat pisces natantes et subito 
+      <lb ed="#B" n="92"/>in aquis se praecipitet et natet cum vno pede an 
+      <lb ed="#B" n="93"/>leris quem habet: cum reliqui praedam capit. Sic 
+      <lb ed="#B" n="94"/>hic peccatum detestatur sed tristiciam vt obiectum 
+      <lb ed="#B" n="95"/>non cogitat: vnde vt perficiatur oportet vt poenan 
+      <lb ed="#B" n="96"/>aspiciat et cupiat in se vindicare quod fecit: 
+      <lb ed="#B" n="97"/>hic iam non in ethere volat: sed in caelis est ma 
+      <lb ed="#B" n="98"/>nerium eius: hic est verus herodius: de quo 
+      <!--759.xml-->
+      <pb ed="#B" n="371-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>scribit pates. Herodii domus dux est eorum: 
+      <lb ed="#B" n="2"/>sed forsan quis ergo est quaternarius et lau 
+      <lb ed="#B" n="3"/>datur franciscus quae in quaternario operatur: cui 
+      in<lb ed="#B" n="4" break="no"/>quam. Si voluntarium aspicis non in quaterna 
+      <lb ed="#B" n="5"/>rio sed ternario ambulamus. Si gradus 
+      <lb ed="#B" n="6"/>aspicimus ascenditur ad perfectius vt herodi 
+      <lb ed="#B" n="7"/>et aquilae: testante alberto magno vbi sup. 
+      <lb ed="#B" n="8"/>Haerodius genus aquilarum est maximum: 
+      <lb ed="#B" n="9"/>sic stat ternarius sed gradibus fit ascensus: 
+      <lb ed="#B" n="10"/>vnde patet ad obiectum quod maxime in tertia 
+      ter<lb ed="#B" n="11" break="no"/>narii specie pena est voluntaria ex affectu 
+      <lb ed="#B" n="12"/>iusticiae: et si sit inuoluntaria ex affectione 
+      co<lb ed="#B" n="13" break="no"/>modi.
+</p>
+               <p xml:id="WuV37d-f70255-d1e1179">
+¶ Secunda pars conclusionis diciti / quod 
+      <lb ed="#B" n="14"/>poenitentia est virtus: ista patet ex his auibus: 
+      <lb ed="#B" n="15"/>nec multum opertet immorari: virtus enim vt nos 
+      <lb ed="#B" n="16"/>docuit philosophus in. 2. ethicorum est habitus in me 
+      <lb ed="#B" n="17"/>dietate existens: prout vtique sapiens determi 
+      <lb ed="#B" n="18"/>nabit. Quis sapiens id est prudens melius 
+      de<lb ed="#B" n="19" break="no"/>terminaret quam patienter sufferre quod deus in 
+      <lb ed="#B" n="20"/>tulit: quam gratanter sustinere quod deus vult: 
+      <lb ed="#B" n="21"/>quam peccatum detestari: quam velle in se vindica 
+      <lb ed="#B" n="22"/>re quod se male egisse cognoscit: vnde recte di 
+      <lb ed="#B" n="23"/>cit glosa super illud. Poenitentiam agite. prima 
+      <lb ed="#B" n="24"/>virtus est per poenitentiam perimere veterem 
+      ho<lb ed="#B" n="25" break="no"/>minem.
+</p>
+               <p xml:id="WuV37d-f70255-d1e1208">
+¶ Dicit tertia pars conclusionis / quod est 
+      <lb ed="#B" n="26"/>virtus moralis. Probatur. Tum primo: quia 
+      <lb ed="#B" n="27"/>non est theologica: quia non habet deum imme 
+      <lb ed="#B" n="28"/>diate pro obiecto. Tum secundo quia est iusticia 
+      <lb ed="#B" n="29"/>Unde super illud. Sacrificate sacrificium iusti 
+      <lb ed="#B" n="30"/>cie: quid enim iustius quam vt suis quisque peccatis po 
+      <lb ed="#B" n="31"/>tius quam alienis irascatur: seque puniens per pe 
+      <lb ed="#B" n="32"/>nitentiam et satis factionem deo offerat. Tum 
+      <lb ed="#B" n="33"/>tertio Isid. Tunc iudicium homo de se su 
+      <lb ed="#B" n="34"/>mit quando per dignam poenitentiam sua praua 
+      fa<lb ed="#B" n="35" break="no"/>cta damnat.
+</p>
+               <p xml:id="WuV37d-f70255-d1e1232">
+¶ Secunda conclusio est 
+      <lb ed="#B" n="36"/>de satisfactione: et est haec. Satisfactio 
+      in<lb ed="#B" n="37" break="no"/>terior sic debet esse meritoria vt exterio 
+      <lb ed="#B" n="38"/>non de necessitate sed congrue in charitate 
+      <lb ed="#B" n="39"/>impleatur. Ista conclusio tres habet 
+      parti<lb ed="#B" n="40" break="no"/>culas.
+</p>
+               <p xml:id="WuV37d-f70255-d1e1245">
+¶ Prima diciti / quod satisfactio 
+      inte<lb ed="#B" n="41" break="no"/>rior est meritoria: sicut enim formale 
+      pec<lb ed="#B" n="42" break="no"/>cati est in voluntate: sic formale meriti. Sa 
+      <lb ed="#B" n="43"/>tisfactio autem interior aut est fundata in 
+      <lb ed="#B" n="44"/>velle: aut est ipsa volitio doctore diffinien 
+      <lb ed="#B" n="45"/>te satisfactionem. q. 1. 15. dis. hoc tenente in 
+      <lb ed="#B" n="46"/>primo arti. Satistactio inquit est redditio 
+      <lb ed="#B" n="47"/>voluntaria / equiualentis: als indebiti. Ex 
+      <lb ed="#B" n="48"/>quo infertur quod in intentione est principale iu 
+      <lb ed="#B" n="49"/>dicium. Secundo infertur quod meritoriae potest quis 
+      <!--759.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>magis mereri comedendo quam alius abstinen 
+      <lb ed="#B" n="51"/>do: exemplum patet in xpisco et iohanne baptista 
+      <lb ed="#B" n="52"/>Tertio infertur quod paucum iudicium de alio 
+      <lb ed="#B" n="53"/>est melius nisi ei pertineat.
+</p>
+               <p xml:id="WuV37d-f70255-d1e1280">
+¶ Secunda pars con 
+      <lb ed="#B" n="54"/>clusionis dicit / quod de necessitate non tenetur) 
+      <lb ed="#B" n="55"/>quis exteriorem satisfactionem in charitate im 
+      <lb ed="#B" n="56"/>plere: hoc enim dicere quod tenetur est quodam 
+      <lb ed="#B" n="57"/>modo peccatores inducere in lapsum: aut oc 
+      <lb ed="#B" n="58"/>casionem desperandi dum nesciunt si aut 
+      im<lb ed="#B" n="59" break="no"/>pleuerunt iniunctum aut non. Ex quo patet / quod 
+      <lb ed="#B" n="60"/>minus sobria et minus secura est in ista ma 
+      <lb ed="#B" n="61"/>teria opinio Thome. 15. dist. huius quarti 
+      <lb ed="#B" n="62"/>arti. 1. q. 3. in solutione principali secunde quasti 
+      <lb ed="#B" n="63"/>uncule. Et secundo fratris Richardi de 
+      me<lb ed="#B" n="64" break="no"/>dia villa eadem dist. arti. 1. q. 1. in solutione 
+      <lb ed="#B" n="65"/>principali. Et tertio docto. sollem. quolib. 5. 
+      <lb ed="#B" n="66"/>q. 16. dicentium: quod poenitentia exterior debet 
+      <lb ed="#B" n="67"/>siue satisfactio impleri in charitate: patet 
+      <lb ed="#B" n="68"/>oppositum. Dico tamen quod qui semel 
+      poeni<lb ed="#B" n="69" break="no"/>tet vere et recipit satisfactionem condignam si 
+      <lb ed="#B" n="70"/>bi impositam ab ecclesia claue non errante: 
+      quan<lb ed="#B" n="71" break="no"/>tumcunque recidiuet non tenebitur nisi ad illan 
+      <lb ed="#B" n="72"/>vnicam satisfactionem adimplendam: et si 
+      im<lb ed="#B" n="73" break="no"/>pleat illam in charitate melius est quia non tantum 
+      <lb ed="#B" n="74"/>soluit paenam: sed meretur. Ideo tertia pars con 
+      <lb ed="#B" n="75"/>clusionis dicit / quod congruentius est quod in cha 
+      <lb ed="#B" n="76"/>ritate impleatur.
+</p>
+               <p xml:id="WuV37d-f70255-d1e1333">
+¶ Tertia conclusio est/ 
+      <lb ed="#B" n="77"/>de restitutione et est brevis pro praesenti. In 
+      <lb ed="#B" n="78"/>fortune bonis naturae et fame quis ad 
+      resti<lb ed="#B" n="79" break="no"/>tutionem obligatur. Ista conclusio tres habet 
+      <lb ed="#B" n="80"/>partes. Prima probatur de bonis 
+      fortu<lb ed="#B" n="81" break="no"/>ne. Tum primo auctoritate augu. in epostola 
+      <lb ed="#B" n="82"/>ad macedonium: et ponitur in listra: quamdiu res 
+      <lb ed="#B" n="83"/>propter quam peccatum est: non redditur sed reddi 
+      <lb ed="#B" n="84"/>potest: non agitur poenitentia: sed fingitur. Tum se 
+      <lb ed="#B" n="85"/>cundo. 14. q. 6. c. Si res. Tum tertio. Qui  
+      <lb ed="#B" n="86"/>furatus fuerit hominem et vendiderit eum: conui 
+      <lb ed="#B" n="87"/>ctus noxe morte moriatur: sed non oportet 
+      <lb ed="#B" n="88"/>in hoc aspicere punctum indiuisibilem sicut 
+      <lb ed="#B" n="89"/>nec in contractibus sicut dicit fratrum 
+      Richar<lb ed="#B" n="90" break="no"/>dus lib. 3. dist. 33. arti. 3. q. 4. Et doc. sollis 
+      <lb ed="#B" n="91"/>quols. 6. q. 22. immo considerare oportet 
+      la<lb ed="#B" n="92" break="no"/>titudinem secundum iudicium boni viri: vnde verum est. 
+      <lb ed="#B" n="93"/>quod in mutui datione in quo committitur 
+      vsu<lb ed="#B" n="94" break="no"/>ra: oportet seruare equilitatem simpliciter in 
+      nu<lb ed="#B" n="95" break="no"/>mero vel pondere nisi in certis gradibus. 
+      <lb ed="#B" n="96"/>Frater richar. 15. dis. quarti huius: arti. 5. q. 5 
+      <lb ed="#B" n="97"/>modicum ante solutionem argu. principalium 
+      <lb ed="#B" n="98"/>assignat rationem: quia vsus pecuniae est eius com¬ 
+      <!--760.xml-->
+      <pb ed="#B" n="372-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>sumptio: ergo concedens eam mutuo con 
+      <lb ed="#B" n="2"/>sumit eam. Contra obiicitur per illud omne verbo 
+      <lb ed="#B" n="3"/>rum significatione. Exiit qui seminat. Et est 
+      <lb ed="#B" n="4"/>modo in. 6. li. quarundam rerum vsus perpetuo 
+      se<lb ed="#B" n="5" break="no"/>paratur a dominio Sed pone aliquis habet 
+      <lb ed="#B" n="6"/>alienum: sed nescit cuius propriae est: aut redde 
+      <lb ed="#B" n="7"/>re non potest sine sumptibus etc. id quod debes 
+      <lb ed="#B" n="8"/>cui reddet? Dicit doctor pauperibus. Sed 
+      <lb ed="#B" n="9"/>per manus cuius? Dicit tho. 15. di. q. 5. ar. 1. so 
+      <lb ed="#B" n="10"/>uendo tertium argumentum: quarte quastiuncule: si 
+      <lb ed="#B" n="11"/>cut de ipso innuit frater hugo de nouo ca 
+      <lb ed="#B" n="12"/>stro. 16. dis. q. 5. arti. 2. q. 3. in solutio. primi 
+      <lb ed="#B" n="13"/>casus: per manus confessoris sui: vel alicuiu 
+      <lb ed="#B" n="14"/>fidelis: doctor dicit per seipsum cum consilio bo 
+      <lb ed="#B" n="15"/>ni viri.
+</p>
+               <p xml:id="WuV37d-f70255-d1e1422">
+¶ Secunda pars est de bonis 
+      natu<lb ed="#B" n="16" break="no"/>re: patet. 6. q. 1. Ex merito. Deteriores sunt 
+      <lb ed="#B" n="17"/>qui vitam moresque bonorum corrumpunt: quam habu 
+      <lb ed="#B" n="18"/>qui substantias aliorum praediaque diripiunt: si er 
+      <lb ed="#B" n="19"/>go hi tenentur et illi. Sed nunquid potest quis oc 
+      <lb ed="#B" n="20"/>cidi pro furto simpliciter aliud non intendens a iu 
+      <lb ed="#B" n="21"/>dice: vt non teneatur iudex ad interesse defum 
+      <lb ed="#B" n="22"/>cti? Dicit hic doc. quod non. Cui obuiat 
+      fra<lb ed="#B" n="23" break="no"/>ter Iohes: de rodithon. Non enim est verius 
+      <lb ed="#B" n="24"/>simile totam humanam policiam in isto errare 
+      <lb ed="#B" n="25"/>Et dum dicit Ioh. sed subti. quod non habetur 
+      <lb ed="#B" n="26"/>in biblia? Dicit iob. de rodintho ex aduer 
+      <lb ed="#B" n="27"/>so quod habetur Iosue. 7. de achar. Cui secundo 
+      <lb ed="#B" n="28"/>iohanni assentio et primum iohannem in hoc par 
+      <lb ed="#B" n="29"/>su secundo dimitto: primus est in. 2. dis. 17. ter 
+      <lb ed="#B" n="30"/>tius patebit infra.
+</p>
+               <p xml:id="WuV37d-f70255-d1e1457">
+¶ Tertia pars conclusionis 
+      <lb ed="#B" n="31"/>est de bonis fame: patet per Aug. ad mace 
+      <lb ed="#B" n="32"/>donium epostola secunda et ponitur. 14. q. 6. ca. i. 
+      <lb ed="#B" n="33"/>Non dimittitur peccatum: nisi restituatur 
+      ab<lb ed="#B" n="34" break="no"/>latum: si restitui potest. 
+      <lb ed="#B" n="35"/>Quantum ad tertium 
+      arti<lb ed="#B" n="36" break="no"/>culum 
+      <lb ed="#B" n="37"/>sunt tres difficultates.
+</p>
+               <p xml:id="WuV37d-f70255-d1e1475">
+¶ Si 
+      poeniten<lb ed="#B" n="38" break="no"/>tia sit virtus generalis? Dicit doctor 
+      <lb ed="#B" n="39"/>deuo. di. 14. arti. 1. q. 2. quod est specialis: quia 
+      <lb ed="#B" n="40"/>aspicit obiectum sub ratione propria.
+</p>
+               <p xml:id="WuV37d-f70255-d1e1484">
+¶ Se 
+      <lb ed="#B" n="41"/>cuda difficultas. Utrum satisfactio ex 
+      <lb ed="#B" n="42"/>terior aliquid addat ad meritum satisfactioni 
+      <lb ed="#B" n="43"/>interiori. Dicendum sic: inde enim veniunt au 
+      <lb ed="#B" n="44"/>reole in actibus exterioribus.
+</p>
+               <p xml:id="WuV37d-f70255-d1e1495">
+¶ Tertia 
+      <lb ed="#B" n="45"/>difficultas. Utrum quas equiliter obligetur 
+      <lb ed="#B" n="46"/>ad restitutionem bonorum fortune: nature et 
+      <lb ed="#B" n="47"/>fame. Dico secundum pondus bonorum 
+      obliga<lb ed="#B" n="48" break="no"/>tio est amplior. Ex quo patet ad 
+      quaestio<lb ed="#B" n="49" break="no"/>nem: quod videlicet sacramentum poenitentiae: sa¬ 
+      <!--760.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>tisfactione: et restitutione impletur. Tun 
+      <lb ed="#B" n="51"/>ad argumenta.
+</p>
+               <p xml:id="WuV37d-f70255-d1e1518">
+¶ Ad primum dico / quod pec 
+      <lb ed="#B" n="52"/>catum mortale non est formaliter infinitum: 
+      <lb ed="#B" n="53"/>sed obiectiue: ita actus meritorius.
+</p>
+               <p xml:id="WuV37d-f70255-d1e1525">
+¶ Ad  
+      <lb ed="#B" n="54"/>secundum dicendum quod non est simile: quia volun 
+      <lb ed="#B" n="55"/>tas hominis aliquando iniusta est: aliquando indiscre 
+      <lb ed="#B" n="56"/>ta: aliquando mutabilis: voluntas dei econtra 
+      <lb ed="#B" n="57"/>se habet vt patet.
+</p>
+               <p xml:id="WuV37d-f70255-d1e1536">
+¶ Ad tertium patet quod non 
+      <lb ed="#B" n="58"/>valet: non enim loquimur informatiue sed 
+      com<lb ed="#B" n="59" break="no"/>pletiue.
+</p>
+            </div>
+            <div xml:id="WuV37d-f70255-Dd1e1544" type="et-conclusiones">
+               <head xml:id="WuV37d-f70255-Hd1e1546">Conclusiones</head>
+               <p xml:id="WuV37d-f70255-d1e1549">
+¶ Ex istis tribus di. tres elicitur 
+      <lb ed="#B" n="60"/>tur conclusiones de mente magistri. De. 1q 
+      <lb ed="#B" n="61"/>dis. haec elicitur conclusio. Est iterabilis poen 
+      <lb ed="#B" n="62"/>tentia et perutilis est in venia. Dicit conclu 
+      <lb ed="#B" n="63"/>sio quod ad veniam sacraendum poenitentiae est 
+      iterabi<lb ed="#B" n="64" break="no"/>le. Et ponitur per totam. 14. distin.
+</p>
+               <p xml:id="WuV37d-f70255-d1e1562">
+¶ 
+      Se<lb ed="#B" n="65" break="no"/>cunda conclusio est. 15. distin. et est haec. 
+      <lb ed="#B" n="66"/>Non diuiditur poenitentia: sed perficitui 
+      <lb ed="#B" n="67"/>acrimonia: id est satisfactione. Dicit 
+      con<lb ed="#B" n="68" break="no"/>clusio / quod confessio non debet dimidiari: et 
+      <lb ed="#B" n="69"/>perficitur satiffactione. Et ponitur per 
+      to<lb ed="#B" n="70" break="no"/>tam. 15. distin.
+</p>
+               <p xml:id="WuV37d-f70255-d1e1578">
+¶ Tertia conclusio est. 16. 
+      <lb ed="#B" n="71"/>distin. et est haec. Pars poenitentie: satisfa 
+      <lb ed="#B" n="72"/>ctio et confessio contritio pie. Dicit 
+      con<lb ed="#B" n="73" break="no"/>clusio quod haec tria i contritio / confessio / 
+      sa<lb ed="#B" n="74" break="no"/>tisfactio sunt partes poenitentiae. Et poni 
+      <lb ed="#B" n="75"/>tur per totam. 16. distinctionem.
+</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

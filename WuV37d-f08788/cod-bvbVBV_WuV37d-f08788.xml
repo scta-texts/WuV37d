@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Collatio</title>
+            <author ref="#WilliamDeVaurouillon">William de Vaurouillon</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Collatio</title>
+               <date when="2021-06-19">June 19, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-bvbVBV">Basel 1510</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-06-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="236-v"/>
+            <cb ed="#B" n=""/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="WuV37d-f08788"><!-- l3collatio -->
+            <head xml:id="WuV37d-f08788-Hd1e108">Collatio</head>
+            <p xml:id="WuV37d-f08788-d1e111">
+      <!--489.xml-->
+               <pb ed="#B" n="236-v"/>
+               <cb ed="#B" n=""/>
+               <lb ed="#B" n="1"/>poLgNo Qypantxsea 
+      <lb ed="#B" n="2"/>cNosxyprol ocys 
+      tN<lb ed="#B" n="3" break="no"/>vim gxxNavx Lqharvq. 
+      <lb ed="#B" n="4"/>Apscmmi ptyrpor vnum tRocrxooyper ve 
+      <lb ed="#B" n="5"/>dogmatum viri doctissimi optimique patres perenibus concelehrandi 
+      <lb ed="#B" n="6"/>laudibus / ordine septimus veluti rutli post terga metentium spicas 
+      <lb ed="#B" n="7"/>recolligens / magisterorum meorum sequens vestigia veri boni: cuius 
+      sup<lb ed="#B" n="8" break="no"/>ma trinitas trino / non triplici in creatura digito varie pingitur: 
+      ni<lb ed="#B" n="9" break="no"/>gus aucilio actum hiunc arripiens tripharie codiuido harino enim pos 
+      <lb ed="#B" n="10"/>se iuxcta suminarum tertius profert laudabilis. Secundo titulus mihi dubius 
+      <lb ed="#B" n="11"/>adiungetur disputabilus. Fertio gratia hinc hiumilius referetur possibilio. 
+      <lb ed="#B" n="12"/>Quo igitur ad primum reuerendi patres oe deni: in quo suinar tertius 
+      pro<lb ed="#B" n="13" break="no"/>fertur laudabitur: non immerito: qua iam pluries in hac alma vniuersitate alihique per me insonu 
+      <lb ed="#B" n="14"/>it: in luditli vidua sactissima exaratum estimo capiendum thiema veritatis scilicet gyrantes val 
+      <lb ed="#B" n="15"/>lem venerunt ad portam ciuitatis: in quo ut melius modicillus sermo insonuit: ad nostri Petri 
+      <lb ed="#B" n="16"/>parrhiy seorum praesuls libae commendandum egregitur partes iuxta libri quattuor one quattuor pande 
+      <lb ed="#B" n="17"/>debantur / Ee nuerabilitas abitu perfectiori. In prima enim pandebatur vigens intur artes clau 
+      <lb ed="#B" n="18"/>dens libramineii id est suinarum. Secundo melliflua amenitas in situ siumiliori locata pro 
+      certami<lb ed="#B" n="19" break="no"/>ne / i. 2. Fertio latitudins entitas nos vbo dulciori soporans dulci carmine/ i. 3. Quarto 
+      <lb ed="#B" n="20"/>amantissima unitas aditu patentiori reficiens solamine / i. 4. Primum probat rotunditatis 
+      cir<lb ed="#B" n="21" break="no"/>culus copiosior potentiot signatus infinitate: praemittitur gyrantes. Secudum probat loci amenus 
+      <lb ed="#B" n="22"/>nidulus venustior / ornatiori grandi plenus claritate: subiungit thema vallem. Nertium probat 
+      <lb ed="#B" n="23"/>charitatiuus nodulus / ardentior / feruentior emissus diuintate: dicit tahena venerunt. Quartum 
+      <lb ed="#B" n="24"/>probat fionestatis titulus apartior / famosior / insignitus maiestate: concluditur ad portanciuita 
+      <lb ed="#B" n="25"/>tis. Haproptur sanctam pleni equitate sequemur vritatus iam vias: nam securitate grrantes vallemve 
+      <lb ed="#B" n="26"/>nerunt ad portam ciuitatis / propter primum: lum sper indeficiens nostris effertur mentibus in supposito 
+      <lb ed="#B" n="27"/>triplicii i id est suinarum. Proptur secundum creatura incipiens seinatur in entibus cultura multiplicisi. 2. 
+      <lb ed="#B" n="28"/>proptur tertium imago dei prodiens mittitur indigentibus malo soluens septemplicisi. 3. Proptus quat 
+      <lb ed="#B" n="29"/>tum viator bonus gestiens se iungit contemplantibus / sanatus cura medici/i. 4. suiarum.
+</p>
+            <p xml:id="WuV37d-f08788-d1e183">
+¶ hu 
+      <lb ed="#B" n="30"/>obus primariis inquantum patur misericordiarem condonauit eexxpeditis: quarto suo in loco ipso 
+      <lb ed="#B" n="31"/>deo propicio coadiuuante reserando. He tertio impresentiarum aliquid exeprimet stilus paupe 
+      <lb ed="#B" n="32"/>rior: in quo ut modo dicebatur: ostenditur latitudinis entitas neem. quid probat charitatis nodulus 
+      <lb ed="#B" n="33"/>dec. cum dicitur / venerunt: propter quids imago dei prodiens etc. Naec quppe est imago o patres 
+      <lb ed="#B" n="34"/>fulgentissimi / dei patris: in qua relucet multiformis sapinia dei / diuinus radius Ee character pro 
+      <lb ed="#B" n="35"/>nobis missa in mundum ardentissima charitate / coelsm non relinquens / e ad terrena descen 
+      <lb ed="#B" n="36"/>dens / glesia / maiestas hatorem / Ec refugium facta miserorem. Sic diuinus Paulus loquitur: Aruatubi 
+      <lb ed="#B" n="37"/>venit plenitudo temporis: misitdeus filium suum in terris / natum de muliere / factum sub iege: ut eos 
+      <lb ed="#B" n="38"/>quae sub lege erant redimeret. Nanc siquidem immaginem subtili pictura depinxit ille Alanus / 
+      <lb ed="#B" n="39"/>mente in sublime eleuacus / in qunto sui anticlaudiani / sua praeccepta recolligens meliora / sic 
+      <lb ed="#B" n="40"/>inquiens artis ex nomine. Ars quo sola fide gaudet subnixa: nec arte Pititur fiumana fugiens 
+      <lb ed="#B" n="41"/>rationis asillum: (Fratius arrisit animam cum coelicus ignis: ln superis retinet adhiucsplendorque se 
+      <lb ed="#B" n="42"/>xenus. illa docet coeleste seui: vitare caducui. iuere lege poli: sursum suspendere mentem. 
+      <lb ed="#B" n="43"/>hastidiare solum: sursumconscendere mente. Corporis insultus froenare: repellere lurus Carnis: 
+      <lb ed="#B" n="44"/>Ee illicitos rationi subdere motus. hiac ille. O supereminens unigeniti aduentus: o 
+      sacratissi<lb ed="#B" n="45" break="no"/>ma duare naturarum hiypostatica unio: o inesu sapiniae one scientiae dei thiesaurus incomprabisde 
+      <lb ed="#B" n="46"/>te / per te / ad te pateres nmatri locuti sunt: ad quorum validos clamores eecitatus / mundum ingre 
+      <lb ed="#B" n="47"/>diens ad nos venisti: venit patres iustus ad iniustos: ut de pccatoribus faceret iustos: liuilis 
+      <!--490.xml-->
+      <pb ed="#B" n="237-r"/>
+               <cb ed="#B" n=""/>
+               <lb ed="#B" n="1"/>venit ad superbos / ut de superbis faceret humiles: ut qulibet suo in desiderio sanctificari 
+      con<lb ed="#B" n="2" break="no"/>sopitus. De isto aduentu diuini fulgoris illud dapinae sepe proferat: quam hhilonem 
+      scri<lb ed="#B" n="3" break="no"/>prsisse referunt. Optaui de datus est mini sensus: inuocaui / oc venit in me spiritus sapiniae: oc 
+      prae<lb ed="#B" n="4" break="no"/>posui illam regnis oc sedibus Oe diuitias uibil esse dirxi in comparatione illius. Et sequitur: vene 
+      <lb ed="#B" n="5"/>runt autem mihi omnia bona paritur cum illa: one innumerabilsus hionestas per manus illius. Et infertur. 
+      <lb ed="#B" n="6"/>Quam sine fictione didici: ce sine inuidia communico: Ec honestatem illius non abscondo. Et si 
+      <lb ed="#B" n="7"/>doctori cuilibet hiaec competere noscatur / tibi hetre parrhyseorum antistes paramplius: cuius 
+      <lb ed="#B" n="8"/>labor dulcedo terrase usque paragrauit circunitum. A te defuit fictio / ne falsum promeres 
+      re<lb ed="#B" n="9" break="no"/>secata inuidia: ut nobis unu paderes e clamares: Renite ascendamus ad montem denti 
+      <lb ed="#B" n="10"/>e ad domum dei iacob: 6e ambulabimus in semitis eius: quia de sion excihit le / Ec verbum 
+      <lb ed="#B" n="11"/>dni de hierlisum. Nonestatem quam mente concaeperas / celandam non censuisti: sed stilo mirabili 
+      <lb ed="#B" n="12"/>diuina imaginis vbi parrimarii lucis intimae aeterni speculi transfretatus in apicem: ut 
+      aq<lb ed="#B" n="13" break="no"/>la altiuola solem mundum decorantem contuitus / iesu nostri declarares insignia: in mundum aduem 
+      <lb ed="#B" n="14"/>tum sui temporis progressum superhiumanum / mortem praeciosisssmam ad inferos descensum benigniorem: 
+      <lb ed="#B" n="15"/>caeteraque mysteria profudius aperuisti veritatis / fundamentis innirus perpetuis: quaos alius 
+      tam<lb ed="#B" n="16" break="no"/>peruo libro recollegit tantum apicem maiestatis: venite oe videte quae in hioc posuit prodigia 
+      <lb ed="#B" n="17"/>altissimus super terram. Recte quippe prodigium tam paruo libro tam magna / immo maiora sed  
+      <lb ed="#B" n="18"/>maxcima contineri. A prima quidem dist. usque ad quartam inclusiue: ostenditur unigeniti del 
+      <lb ed="#B" n="19"/>congruentia ad incarnationem / c naturae assumptae conditio. A quarta rursus exciusiue 
+      us<lb ed="#B" n="20" break="no"/>que ad nonam exclusiue: venatur / an natura naturam assumpsit vel persona: Qo an debeat filius 
+      <lb ed="#B" n="21"/>dei mere nominari. A nona usque ad. 13. eclusiue / agitur de iesu adoratione / praedestinatione / 
+      <lb ed="#B" n="22"/>doe indiuidui quidus est ipse conditione. Rursus a. 13. inclusiue / usque ad. 23. exclusiue: agitur 
+      <lb ed="#B" n="23"/>de sanctissimis iesu charismatibus: merito / passione / morte c resurrectione. Et finalitur 
+      <lb ed="#B" n="24"/>a. 23. inclusiue usque ad finem libri. He his agitur ternario virtutum: fide / spe oe charitate: 
+      <lb ed="#B" n="25"/>quo in lege dei proficimus: in quo tertius noster completur. Quid hoc opere mirabilius: ut quidus qua 
+      <lb ed="#B" n="26"/>si ineffabile diuinus Hion. epostola tertia ad gaiu profeslus est tam profunde noster magister suo in 
+      <lb ed="#B" n="27"/>tertio loqueretur. Nnde sic inquit Hiony. Et hoc enim iesu absconditum est: 6e nullo sermodone / nul 
+      <lb ed="#B" n="28"/>la mente: quod secundum ipsum e illud eductum msterium: sed e dictum ineffabile manet 
+      intel<lb ed="#B" n="29" break="no"/>lectum oe ignotum. Et loam. scoti translatio sic obtinet: oc hoc in iesu occultatur: vbi commen 
+      <lb ed="#B" n="30"/>tum loquitur incarnatio. Et sequitur in terctu: Et nullo verbo neque intellecttu secundum ipsum inue 
+      <lb ed="#B" n="31"/>stigat. Sed de dictum ineffabile manet oe intellentum incognitum: venite igitur o magistri 
+      sub<lb ed="#B" n="32" break="no"/>leuandi per secula praeconiis: venite o excultemus dno: excultemus e tanto potenstifici: qui 
+      profun<lb ed="#B" n="33" break="no"/>da fluuiore scrutatus e: Ec abdita produrcit in lucem. Qui mentes nostras ad quietemocat i/ 
+      <lb ed="#B" n="34"/>vt cum eo reficiamur quem deus intantum refecit. 5enite inquit ad me omnes qui laboratio oo 
+      <lb ed="#B" n="35"/>onerati estis: c ego reficiam vos. uper eum quippe venit lumen tuum deus: e gloria tua 
+      <lb ed="#B" n="36"/>super eo oriri probatur: lesu nostri tanta prorumpente in verba: qui de verbo ineffabili 
+      men<lb ed="#B" n="37" break="no"/>ti hiumana inscrutabili verba edidit mirifica: fans de verbo a quo reficimur: per quodus 
+      <lb ed="#B" n="38"/>condimur: Ec ad quod tendimus: quod de seipso dicit: htiui a patre one veni in 
+      mun<lb ed="#B" n="39" break="no"/>dum. Hciuit quippe locum non mutando / sed apparendo visibilis: venit in mundum carnem 
+      as<lb ed="#B" n="40" break="no"/>sumens mortalem / ut nos immortales redderet: ut securi eum sequeremur: qui reliquit mun 
+      <lb ed="#B" n="41"/>dum c iuit ad patrem. Quod verbum multis extulit noster magister laudum insigniis. 
+      <lb ed="#B" n="42"/>Nihi petre pro tanto labore gloria perennis condonetur: ut contemplari valeas polom in 
+      <lb ed="#B" n="43"/>sedibus illud verbum / illum mundum arclietyptum qui mundum reliquit: ut patrem adiret 
+      il<lb ed="#B" n="44" break="no"/>lum iesum hiumilem: sed ecelsum dico / fiunc dei vnigenitum vltimis in temporibus pro nobis car 
+      <lb ed="#B" n="45"/>nem indutum: de quo tanta locutus es: Ee nos illuc veniamus tecum. Amen.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

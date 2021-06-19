@@ -1,0 +1,596 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 30</title>
+            <author ref="#WilliamDeVaurouillon">William de Vaurouillon</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 30</title>
+               <date when="2021-06-19">June 19, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-bvbVBV">Basel 1510</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-06-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="71-r"/>
+            <cb ed="#B" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="WuV37d-e33386"><!-- l1d30 -->
+            <head xml:id="WuV37d-e33386-Hd1e108">Distinctio 30</head>
+            <div xml:id="WuV37d-e33386-Dd1e111" type="circa-textum">
+               <head xml:id="WuV37d-e33386-Hd1e113">Circa textum</head>
+               <p xml:id="WuV37d-e33386-d1e116">
+                  <lb ed="#B" n="36"/>Distinctio. 30. docet de temporali 
+      <lb ed="#B" n="37"/>conuenientia et propria dei inter qua 
+      <lb ed="#B" n="38"/>quedam relatiuis quaedam pluribus 
+      <lb ed="#B" n="39"/>personis coueniunt.
+    </p>
+               <p xml:id="WuV37d-e33386-d1e127">
+                  <lb ed="#B" n="40"/>CUnt autem quo. 
+      <lb ed="#B" n="41"/>dam quae ex tempore 
+      di<lb ed="#B" n="42" break="no"/>cuntur de deo eique 
+      tem<lb ed="#B" n="43" break="no"/>poraliter conueniut si 
+      <lb ed="#B" n="44"/>ne sui mutatione etc. 
+      <lb ed="#B" n="45"/>Hic signatur distinctio. 30. huius primi. 
+      <lb ed="#B" n="46"/>in qua postquam egit magister de his quae deo 
+      <lb ed="#B" n="47"/>conueniunt aeternaliter: hic agit de his quae 
+      <lb ed="#B" n="48"/>deo competunt temporaliter. Et diuiditur in tres 
+      <!--158.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="49"/>partes. In prima ostenditur qualiter rela 
+      <lb ed="#B" n="50"/>tio ex tempore de deo dicitur. In secunda 
+      ap<lb ed="#B" n="51" break="no"/>propriatio personarum clare exprimitur. In 
+      <lb ed="#B" n="52"/>tertia ingens dubitatio ex predictis luci 
+      <lb ed="#B" n="53"/>de oritur. Prima in praesenti distinctione. 
+      <lb ed="#B" n="54"/>Secunda distinctione. 31. ibi. Praeterea con 
+      <lb ed="#B" n="55"/>siderari oportet cum tres personae. 3. dist. 
+      <lb ed="#B" n="56"/>32. Hic oritur questio ex predictis 
+      dedu<lb ed="#B" n="57" break="no"/>cta etc. Prima iterum pars quae est praesens 
+      <lb ed="#B" n="58"/>distinctio. In qua ostenditur qualiter rela 
+      <lb ed="#B" n="59"/>tio de deo ex tempore dicitur: diuiditur in tres 
+      <lb ed="#B" n="60"/>partes. In prima ostendit quod deitati con 
+      <lb ed="#B" n="61"/>gruit relatio temporalis. In secunda quod in esse 
+      <lb ed="#B" n="62"/>non debuit entitas accidentalis. In tertia 
+      <lb ed="#B" n="63"/>in quo se dare potuit spiritus interminalis. 
+      <lb ed="#B" n="64"/>prima in principio. secunda incipit ibi: quomod 
+      <lb ed="#B" n="65"/>igitur obtinebimus: vel secundum accidens etc: 
+      ter<lb ed="#B" n="66" break="no"/>tia ibi: hic potest solui quaestio. Et haec est 
+      di<lb ed="#B" n="67" break="no"/>uisio totius distinctionis praesentis.
+    </p>
+            </div>
+            <div xml:id="WuV37d-e33386-Dd1e196">
+               <head xml:id="WuV37d-e33386-Hd1e198">Quaestio</head>
+               <p xml:id="WuV37d-e33386-d1e201">
+                  <lb ed="#B" n="68"/>Questio ista determinat 
+      declara<lb ed="#B" n="69" break="no"/>tione reali dei ad creaturam pariter 
+      <lb ed="#B" n="70"/>et ex tepore quae a scoto habetur in 
+      <lb ed="#B" n="71"/>duabus questionibus li id i. dist. 36. 
+      <lb ed="#B" n="72"/>q. 1. et. 2. In qua questione et vil. no 
+      <lb ed="#B" n="73"/>tat tres doctores. henricum: 
+      varro<lb ed="#B" n="74" break="no"/>ne et franciscum. 
+      <lb ed="#B" n="75"/>Arca quam talis 
+      <lb ed="#B" n="76"/>etc. Utrum deus ex tempore ex par 
+      <lb ed="#B" n="77"/>te sui relatione reali ad creata re 
+      <lb ed="#B" n="78"/>feratur. Et arguitur quod sic triplici medio. 
+      <lb ed="#B" n="79"/>Primo sic. Extrema ab aeterno sunt 
+      rea<lb ed="#B" n="80" break="no"/>lia. igitur relatio realis consequenta patet: quia secundum 
+      <lb ed="#B" n="81"/>extremorum naturam relatio numcupatur: sed  
+      <lb ed="#B" n="82"/>probatur antecedens deus enim est aeternus: caeterum 
+      quid<lb ed="#B" n="83" break="no"/>ditates rerum sunt aeterne cum de eis sit scientia: 
+      <lb ed="#B" n="84"/>et scientia secundum philosophum in primo posteriorum sit 
+      <lb ed="#B" n="85"/>de impossibilibus aliter se habere: et ita 
+      in<lb ed="#B" n="86" break="no"/>ter ea cum non sit idem nascetur distinctio rea 
+      <lb ed="#B" n="87"/>lis: et per consequens relatio et cum quod semel in deo 
+      <lb ed="#B" n="88"/>est semper maneat: sequitur quod illa etiam in 
+      tem<lb ed="#B" n="89" break="no"/>pore ad creata referat. Secundo arguitur 
+      <lb ed="#B" n="90"/>sic: deus ad res refertur relatione rationis: ergo 
+      <lb ed="#B" n="91"/>et relatione reali. probatur assumptum: quia de 
+      <lb ed="#B" n="92"/>prescit res futuras: et ita habet scientiam 
+      <lb ed="#B" n="93"/>terminatam ad esse cognitum rerum: et talis dicitur re 
+      <lb ed="#B" n="94"/>spectus rationis. sed probatur consequenta: quia mensura 
+      <lb ed="#B" n="95"/>ri debent ea quae sunt in aliquo iuxta eius no 
+      <lb ed="#B" n="96"/>bilitatem. vnde sensitiua nobilior est in homine 
+      <!--159.xml-->
+      <pb ed="#B" n="71-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>quam in bruto: cum igitur deus supremum attin 
+      <lb ed="#B" n="2"/>gat realitatis gradum: relationes in eo ad 
+      <lb ed="#B" n="3"/>creata erunt maxime reales. Tertio argut 
+      <lb ed="#B" n="4"/>tur sic. Omnis relatio extat realis nisi pro 
+      <lb ed="#B" n="5"/>ducatur aut actu intellectus diuini: aut crea 
+      <lb ed="#B" n="6"/>ti. Sed in deo ad creaturas est relatio non 
+      <lb ed="#B" n="7"/>producta actu intellectus diuini nec creati 
+      <lb ed="#B" n="8"/>igitur est realis. maior patet quia relatio rationis 
+      <lb ed="#B" n="9"/>ab intellectu nominatur. sed minor probatur: 
+      <lb ed="#B" n="10"/>in contingentibus enim prior est voluntatis di 
+      <lb ed="#B" n="11"/>uine determinatio quam eam diuinus 
+      intel<lb ed="#B" n="12" break="no"/>ligat intellectus in illo priori diuina 
+      vo<lb ed="#B" n="13" break="no"/>luntas refertur ad esse volitum. igitur realiter. 
+      <lb ed="#B" n="14"/>In oppositum arguitur auctoritate magistri 
+      <lb ed="#B" n="15"/>in principio littere: vbi dicit: quod deus dici 
+      <lb ed="#B" n="16"/>tur ad creaturas ex tempore non relatione 
+      <lb ed="#B" n="17"/>quae sit in deo sed in creaturis. Si igitur 
+      nul<lb ed="#B" n="18" break="no"/>lam ad creata habet relationem. igitur nec 
+      rea<lb ed="#B" n="19" break="no"/>lem cum negato superiori negetur inferius. 
+      </p>
+               <p xml:id="WuV37d-e33386-d1e314">
+                  <lb ed="#B" n="20"/>¶ In ista questione ad alias 
+      conformi<lb ed="#B" n="21" break="no"/>ter sunt tres articuli. 
+      <lb ed="#B" n="22"/>Primus est terminorum declaratiuus 
+      <lb ed="#B" n="23"/>Quorum Secundus est quaestionis responsiuus. 
+      <lb ed="#B" n="24"/>Tertius est dubiorum motiuus. 
+      </p>
+               <p xml:id="WuV37d-e33386-d1e327">
+                  <lb ed="#B" n="25"/>¶ Quantum ad primum 
+      arti<lb ed="#B" n="26" break="no"/>culum 
+      <lb ed="#B" n="27"/>termini sunt Relatio: realis: et tempus. Quo 
+      <lb ed="#B" n="28"/>ad relationem noto quod primus qui relationem 
+      <lb ed="#B" n="29"/>a parte rei posuit fuit Plato: vt refert al 
+      <lb ed="#B" n="30"/>pertus magnus super praedicamento ad aliquid 
+      <lb ed="#B" n="31"/>vnde eam ad aliquid nominauit: et dicebat: quod ad  
+      <lb ed="#B" n="32"/>aliquid sunt quaecumque hoc ipsum quod sunt alio 
+      <lb ed="#B" n="33"/>rum dicuntur vel quomodolibet aliter ad aliud. Cae 
+      <lb ed="#B" n="34"/>teri autem praecedentes: vt 3eno et socrates  
+      <lb ed="#B" n="35"/>eam ponebant non esse: deinde ab Aristo. est. 
+      <lb ed="#B" n="36"/>relatio nominata: a nostris postmodum hi 
+      <lb ed="#B" n="37"/>tudo: vnde relatio potest considerari tri 
+      <lb ed="#B" n="38"/>pliciter: vno modo a parte fundamenti: 
+      <lb ed="#B" n="39"/>et sic habet in esse sicut alia accidentia. Se 
+      <lb ed="#B" n="40"/>cundo in suo esse quidditatiuo: et sic etiam 
+      <lb ed="#B" n="41"/>genus et differentias: sicut praedicamenta 
+      cae<lb ed="#B" n="42" break="no"/>tera et sic dicit ad. Tertio consideratur 
+      re<lb ed="#B" n="43" break="no"/>spectiue ad suum terminum: et sic dicit aliud: 
+      <lb ed="#B" n="44"/>et haec tanguntur in communi relationis 
+      dif<lb ed="#B" n="45" break="no"/>finitione quando dicitur relatio est ad 
+      ali<lb ed="#B" n="46" break="no"/>ud primum in primo: secundum in secundo: et 
+      <lb ed="#B" n="47"/>tertium in tertio. 
+</p>
+               <p xml:id="WuV37d-e33386-d1e379">
+¶ Noto vlterius quo 
+      <lb ed="#B" n="48"/>ad terminum istum quod sunt tria ad inuicem 
+      <lb ed="#B" n="49"/>abstrahentia. scilicet relatio: respectus: et ha¬ 
+      <!--159.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>bitudo. Omnis enim relatio est respectus 
+      <lb ed="#B" n="51"/>non econtra. Relatio enim apud Aristotelem 
+      <lb ed="#B" n="52"/>est vnum praedicamtum de decem. Respectus autem 
+      <lb ed="#B" n="53"/>est quoddam commune tam ad relationem qua 
+      <lb ed="#B" n="54"/>est predicamentum quam ad sex principia. vnde do 
+      <lb ed="#B" n="55"/>ctor subtilis. 3. li. dist. 1. diuidit respectum. 
+      <lb ed="#B" n="56"/>In respectum intrinsecus aduenientem quem 
+      <lb ed="#B" n="57"/>vocat relationem: et extrinsecus aduenien 
+      <lb ed="#B" n="58"/>tem quem vocat sex principia. Omnis iterum 
+      <lb ed="#B" n="59"/>respectus est habitudo non econtra: vnde 
+      <lb ed="#B" n="60"/>ponimus habitudinem diffiniti ad 
+      diffini<lb ed="#B" n="61" break="no"/>tionem: non tamen proprie respectum. 
+      <lb ed="#B" n="62"/>Magister franciscus de maronis sui 
+      com<lb ed="#B" n="63" break="no"/>flatus. dist. 29. addit quartum scilicet 
+      relati<lb ed="#B" n="64" break="no"/>uum et dicit. quod relatio abstrahit a relatiuo: 
+      <lb ed="#B" n="65"/>sicut causa formalis ab eo cuius extat 
+      cau<lb ed="#B" n="66" break="no"/>sa: vt album ab albedine. sed salua sua reue 
+      <lb ed="#B" n="67"/>rentia quartum apponit frustra: aut 
+      appo<lb ed="#B" n="68" break="no"/>nere debet et quintum. Relatio enim secundum 
+      <lb ed="#B" n="69"/>doctorem. dist. 5. q. 1. habet triplicem ab 
+      <lb ed="#B" n="70"/>stractionis modum: scilicet a fundamento: a 
+      <lb ed="#B" n="71"/>subiecto: et in proprio genere. Si igitur 
+      <lb ed="#B" n="72"/>vult loqui de abstractione tam in genere 
+      <lb ed="#B" n="73"/>proprio: tam extra genus debuit non 
+      so<lb ed="#B" n="74" break="no"/>lum abstrahere a subiecto sed a fundamen 
+      <lb ed="#B" n="75"/>to vt primo diceretur relatiuum. secundo 
+      re<lb ed="#B" n="76" break="no"/>latiuitas: tertio relatio: quarto respectus: 
+      <lb ed="#B" n="77"/>quinto habitudo. Si autem voluit artificio 
+      <lb ed="#B" n="78"/>se procedere et abstrahere in genere 
+      pro<lb ed="#B" n="79" break="no"/>prio debuit tacere de relatiuo et incipere 
+      <lb ed="#B" n="80"/>in relatione: et tribus scilicet relatione 
+      respe<lb ed="#B" n="81" break="no"/>ctu et habitudine esse contentus.
+</p>
+               <p xml:id="WuV37d-e33386-d1e461">
+¶ 
+      Se<lb ed="#B" n="82" break="no"/>cundus terminus est relatio realis in 
+      <lb ed="#B" n="83"/>Unde noto ex locis variis doctoris 
+      sub<lb ed="#B" n="84" break="no"/>tilis quod ad relationem realem tria 
+      requi<lb ed="#B" n="85" break="no"/>runtur. Primo quod extrema sint in actu: et 
+      <lb ed="#B" n="86"/>ideo si caperemus duas quidditates 
+      se<lb ed="#B" n="87" break="no"/>paratas ab esse existentie: licet haberent 
+      <lb ed="#B" n="88"/>esse essentie: qua carent esse existentie: non 
+      <lb ed="#B" n="89"/>haberent inter se distinctionem realem. 
+      <lb ed="#B" n="90"/>Secundo requiritur quod existentia sint 
+      di<lb ed="#B" n="91" break="no"/>stincta: et ideo secundum Aristo. 5. metha. eius 
+      <lb ed="#B" n="92"/>dem ad se non est relatio realis. Tertio 
+      <lb ed="#B" n="93"/>quod nata sit esse inter talia extrema: et ideo 
+      <lb ed="#B" n="94"/>dei ad creaturam nulla extat relatio 
+      rea<lb ed="#B" n="95" break="no"/>lis: quia deus non est natus sic referri ad  
+      <lb ed="#B" n="96"/>creaturam. Et si quaeratur: Quomodo scietur 
+      <lb ed="#B" n="97"/>quando talis inter talia nascetur extrema: 
+      <lb ed="#B" n="98"/>Dico quod quando talia sunt in potentiaad  
+      <!--160.xml-->
+      <pb ed="#B" n="72-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>aliquid tertium: sicut omnia creata ad 
+      con<lb ed="#B" n="2" break="no"/>plementum vniuersi: non sic deus: immo 
+      <lb ed="#B" n="3"/>stat super vniuersum.
+</p>
+               <p xml:id="WuV37d-e33386-d1e513">
+¶ Tertius 
+      ter<lb ed="#B" n="4" break="no"/>minus est tempus: vnde tempus dici 
+      <lb ed="#B" n="5"/>tur tripliciter: vno modo vt continet om 
+      <lb ed="#B" n="6"/>nem mensuram durationis sub aeternitate 
+      <lb ed="#B" n="7"/>tam aeuum. scilicet quam tempus proprie dictum: et sic 
+      <lb ed="#B" n="8"/>dixit quedam glosa super illud. In 
+      prin<lb ed="#B" n="9" break="no"/>cipio creauit deus caelum et terram. In prin 
+      <lb ed="#B" n="10"/>cipio id est nunc temporis. Certum est autem secundum 
+      <lb ed="#B" n="11"/>Augu. primo libro contra manichebs: quod 
+      <lb ed="#B" n="12"/>prius natura conditum est caelum quam angeli. 
+      <lb ed="#B" n="13"/>Secundo dicitur tempus vt est 
+      mensura<lb ed="#B" n="14" break="no"/>tam motus primi mobilis: quam cuiuslibet 
+      <lb ed="#B" n="15"/>mutationis: et sic accipitur ab Augu. 
+      su<lb ed="#B" n="16" break="no"/>per Sen. ad litteram vbi dicit quod deus 
+      mo<lb ed="#B" n="17" break="no"/>uet corpora per tempus et locum: spiritus 
+      <lb ed="#B" n="18"/>vero per tempus solum: certum est autem 
+      <lb ed="#B" n="19"/>quod volitiones angelice non mensurantur 
+      <lb ed="#B" n="20"/>motu primi mobilis: sed tertio dicit 
+      tem<lb ed="#B" n="21" break="no"/>pus vt est numerus motus secundum prius et 
+      <lb ed="#B" n="22"/>posterius: et sic est mensura primi mobilis 
+      <lb ed="#B" n="23"/>secundum philosophum. 4. philosophicorum. et est secundum magi 
+      <lb ed="#B" n="24"/>strum. Nicolaum boneti quidam respectus 
+      <lb ed="#B" n="25"/>fundatus in motu primi mobilis: et 
+      termi<lb ed="#B" n="26" break="no"/>natus ad aeternitatem primi motoris: ita 
+      <lb ed="#B" n="27"/>quod secundum eum tempus formaliter est quidam 
+      <lb ed="#B" n="28"/>respectus: sed materialiter quantitas. Et 
+      <lb ed="#B" n="29"/>tantum de primo articulo. 
+      <lb ed="#B" n="30"/>QAuantum ad secundum 
+      arti<lb ed="#B" n="31" break="no"/>culum 
+      <lb ed="#B" n="32"/>sunt tres conclusiones.
+</p>
+               <p xml:id="WuV37d-e33386-d1e578">
+¶ Prima de 
+      re<lb ed="#B" n="33" break="no"/>latione rationis: secunda de relatione re 
+      <lb ed="#B" n="34"/>ali: tertia de denominatione dei per rela 
+      <lb ed="#B" n="35"/>tiones in creaturis fundatas. Prima est 
+      <lb ed="#B" n="36"/>propter nouum respectum rationis in deo 
+      <lb ed="#B" n="37"/>creature ad eum non terminantur probatur 
+      <lb ed="#B" n="38"/>conclusio: nam si propter respectum aliquem 
+      <lb ed="#B" n="39"/>rationis nouum: creature terminarentur in 
+      <lb ed="#B" n="40"/>deum: aut ille esset factus ab intellectu crea 
+      <lb ed="#B" n="41"/>to: aut increato sed nec sic nec sic. igitur 
+      <lb ed="#B" n="42"/>declaratur minor. Primo quod non per 
+      re<lb ed="#B" n="43" break="no"/>spectum creatum ab intellectu creato: nam 
+      <lb ed="#B" n="44"/>si hoc: sequeretur quod destructo intellectu 
+      <lb ed="#B" n="45"/>creato: caetere res non terminarentur in 
+      de<lb ed="#B" n="46" break="no"/>um quod est manifeste falsum. Sed de diui 
+      <lb ed="#B" n="47"/>no patet: nam si modo produceret diuinus 
+      <lb ed="#B" n="48"/>intellectus aliquod esse cognitum seu ens 
+      <lb ed="#B" n="49"/>rationis: cum illud ens rationis de nouo 
+      <!--160.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>esset in eo: quia eius cognitio ad extra non 
+      <lb ed="#B" n="51"/>terminatur: sequeretur mutationem esse in 
+      <lb ed="#B" n="52"/>eo. Confirmatur: quia duto per 
+      impossi<lb ed="#B" n="53" break="no"/>bile quod ens primum non intelligeret: adhuc 
+      <lb ed="#B" n="54"/>res terminarentur in eum. vnde dico quod res 
+      <lb ed="#B" n="55"/>referuntur in deum non ratione alicuius 
+      <lb ed="#B" n="56"/>noui respectus: sed sub ratione absoluta 
+      <lb ed="#B" n="57"/>modus enim relatiuorum quo creatura ad  
+      <lb ed="#B" n="58"/>deum refertur est de tertio modo relatiuorum: vt di 
+      <lb ed="#B" n="59"/>ctum est dist. 3. in de vestigio et iste differt 
+      <lb ed="#B" n="60"/>a duobus primis: quia in duobus primis est 
+      <lb ed="#B" n="61"/>conuertibilitas: in isto non sicut scientia re 
+      <lb ed="#B" n="62"/>latione reali ad scibile refertur: non econtra 
+      <lb ed="#B" n="63"/>sed scibile illam terminat relationem sub 
+      ratio<lb ed="#B" n="64" break="no"/>ne absoluti si sit absolutum: sic deus sub ratio 
+      <lb ed="#B" n="65"/>ne absoluti quamcumque terminat creature re 
+      <lb ed="#B" n="66"/>lationem: et est consimile in. 9. metha. potentia 
+      <lb ed="#B" n="67"/>enim diffinitur per actum non inquantum actus 
+      refer<lb ed="#B" n="68" break="no"/>tur ad potentiam: quia tunc etiam diffiniretur per 
+      po<lb ed="#B" n="69" break="no"/>tentiam: et esset circulus: sed potentia quae est 
+      rela<lb ed="#B" n="70" break="no"/>tio terminatur ad actum sub ratione 
+      absolu<lb ed="#B" n="71" break="no"/>ta: sic in proposito: verum est tamen quod istam ratio 
+      <lb ed="#B" n="72"/>nem absolutam scilicet diuinam essentiam concomitan 
+      <lb ed="#B" n="73"/>tur rationis respectus: sed isti non sunt noui sed 
+      <lb ed="#B" n="74"/>aeterni in mente diuina: et terminantur ad esse 
+      <lb ed="#B" n="75"/>rerum cognitum. Et isti possunt distingui in 
+      <lb ed="#B" n="76"/>triplici modo secundum quod mens diuina potest crea 
+      <lb ed="#B" n="77"/>pilia tripliciter apprehendere. primo mo 
+      <lb ed="#B" n="78"/>vt sunt creabilia. secundo vt creantur. tertio 
+      <lb ed="#B" n="79"/>vt creata sunt. Primus respectus rationis est 
+      <lb ed="#B" n="80"/>ab aeterno in deo: et pro aeterno: quia ab 
+      aeter<lb ed="#B" n="81" break="no"/>no respondet in intellectu diuino res crea 
+      <lb ed="#B" n="82"/>bilis in esse ideali. Secundus et tertius  
+      <lb ed="#B" n="83"/>sunt in deo ab aeterno: sed non pro aeterno: quia 
+      <lb ed="#B" n="84"/>repugnat creature quod sit aeterna: et extat ex 
+      <lb ed="#B" n="85"/>emplum: ab aeterno primo signo naturae intel 
+      <lb ed="#B" n="86"/>lexit deus antichristum creabilem. in secundo 
+      si<lb ed="#B" n="87" break="no"/>gno creari licet non pro aeterno: in tertio iam 
+      crea<lb ed="#B" n="88" break="no"/>tum et pro primo dicitur deus creatiuus: sicut creatura 
+      <lb ed="#B" n="89"/>creabilis: pro secundo dicitur creans: pro tertio 
+      <lb ed="#B" n="90"/>creator: et differunt isti respectus sicut esse 
+      co<lb ed="#B" n="91" break="no"/>gnitum. Ex quo infero: quod doct. solennis scri 
+      <lb ed="#B" n="92"/>pti sui hac distinctione deuiauit: dicendo 
+      <lb ed="#B" n="93"/>eundem esse respectum formaliter in deo 
+      in<lb ed="#B" n="94" break="no"/>quantum est creatiuus creans actu: et priusquam 
+      <lb ed="#B" n="95"/>creauit: patet ex probatione dictorum oppositum. 
+      <lb ed="#B" n="96"/>Et corroboratur: quia eidem relationi eadem 
+      <lb ed="#B" n="97"/>correlatia sper respondet relatio: cum igitur 
+      creabi<lb ed="#B" n="98" break="no"/>litas sit corrlum creatiuitatis si creatiuitas  
+      <!--161.xml-->
+      <pb ed="#B" n="72-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>sit eadem relatio cum illa qua dicitur creans: et 
+      <lb ed="#B" n="2"/>creabilitas cum creatione passiua: et per con 
+      <lb ed="#B" n="3"/>sequens sicut res ab aeterno sunt creabiles 
+      <lb ed="#B" n="4"/>ita et create: quod est manifeste falsum. Et si 
+      <lb ed="#B" n="5"/>quaeratur ex quo habebat ab aeterno deus 
+      <lb ed="#B" n="6"/>respectum quo intelligebat creatas res: 
+      li<lb ed="#B" n="7" break="no"/>cet non pro aeterno quare non dicebatur 
+      <lb ed="#B" n="8"/>ab aeterno creator. Dico quod ad hoc quod dica 
+      <lb ed="#B" n="9"/>tur creans seu creator: non solum exigitur ille 
+      <lb ed="#B" n="10"/>rationis respectus: sed oportet quod terminet 
+      re<lb ed="#B" n="11" break="no"/>lationem craturae create: et hoc non fit nisi ex 
+      <lb ed="#B" n="12"/>tempore: ideo non dicitur creator nisi ex tempore. Et si di 
+      <lb ed="#B" n="13"/>catur: si modo deus terminat illum respectum 
+      <lb ed="#B" n="14"/>creature et prius non terminabat: igitur 
+      mu<lb ed="#B" n="15" break="no"/>tatur. Dico quod non est ex parte dei mutatio sed 
+      <lb ed="#B" n="16"/>ex parte creature. Sicut si modo diligam deum 
+      <lb ed="#B" n="17"/>et prius non diligebam: tota mutatio in vo 
+      <lb ed="#B" n="18"/>luntate mea est: non in deo: sic in 
+      proposi<lb ed="#B" n="19" break="no"/>to. Sed forsan diceret aliquis: adminus 
+      <lb ed="#B" n="20"/>videtur quod producatur deus in esse derelicto 
+      <lb ed="#B" n="21"/>quo est quadam praxis rationis. Dico quod siue sic si 
+      <lb ed="#B" n="22"/>ue non: tamen non terminat: nec fruitionem nec es 
+      <lb ed="#B" n="23"/>se creature sub tali respectu: sed sub ratione 
+      <lb ed="#B" n="24"/>absoluta.
+</p>
+               <p xml:id="WuV37d-e33386-d1e786">
+¶ Secunda conclusio. relatione 
+      <lb ed="#B" n="25"/>reali nulli funditus creature refertur ens pra 
+      <lb ed="#B" n="26"/>marium. probatur conclusio: supposito ex aug. quo. 
+      <lb ed="#B" n="27"/>quicquid est in deo sit deus. Arguo ratione do 
+      <lb ed="#B" n="28"/>cto. subtilis tacta in. 6. dist. q. vlti. arti. 3. 
+      <lb ed="#B" n="29"/>nullum ens summme necessarium quacunqui 
+      <lb ed="#B" n="30"/>facta mutatione circa aliud potest desins 
+      <lb ed="#B" n="31"/>re esse: sed deus est summae necessarius. 
+      igi<lb ed="#B" n="32" break="no"/>tur quacumque facta mutatione circa aliud 
+      <lb ed="#B" n="33"/>non desinet esse: sed si haberet relationem 
+      <lb ed="#B" n="34"/>realem ad creaturam: desinente creatura 
+      desi<lb ed="#B" n="35" break="no"/>neret esse relatio cum dependeat inesse a ter 
+      <lb ed="#B" n="36"/>mino sicut a fundamento: et desinente rela 
+      <lb ed="#B" n="37"/>tione desineret esse deus. igitur nequit 
+      refer<lb ed="#B" n="38" break="no"/>ri relatione reali ad creaturam. Idem probatur 
+      <lb ed="#B" n="39"/>secundo per simplicitatem: quia summe simplex 
+      <lb ed="#B" n="40"/>debet esse absolutum maxime et incompositum 
+      <lb ed="#B" n="41"/>Idem tertio probatur per infinitatem: quia ens 
+      omni<lb ed="#B" n="42" break="no"/>modam includens perfectionem non debet 
+      ha<lb ed="#B" n="43" break="no"/>bere tantam connexionem cum entibus imperfe 
+      <lb ed="#B" n="44"/>ctis quod per relationem ad eadem referatur. 
+      <lb ed="#B" n="45"/>Et si concludant iste rationes quae a 
+      docto<lb ed="#B" n="46" break="no"/>re nostro capiuntur: patet: quod sine causa eas 
+      <lb ed="#B" n="47"/>infirmat. Franc. de maro. Dicit enim quod prae 
+      <lb ed="#B" n="48"/>de summe necessario non concludit: et istam 
+      <lb ed="#B" n="49"/>tangit sub ratione aeternitatis: quia inquit non est 
+      <!--161.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>probatum inconueniens: quod relatio in deo de 
+      <lb ed="#B" n="51"/>nouo adueniat. Hic dico quod si non sit 
+      no<lb ed="#B" n="52" break="no"/>tum inconueniens de relatione rationis: est tamen 
+      <lb ed="#B" n="53"/>notum de relatione reali: de qua in loco prae 
+      <lb ed="#B" n="54"/>dicto loquitur intantum quod nullus sapientum 
+      <lb ed="#B" n="55"/>philosorum hoc posuit quinimmo negauit. Di 
+      <lb ed="#B" n="56"/>cit secundo quod secunda non concludit de simpli 
+      <lb ed="#B" n="57"/>citate: quia relatio talis si deo adueniret non 
+      <lb ed="#B" n="58"/>componeret. cum deus sit summus actus: et ita 
+      <lb ed="#B" n="59"/>non in potentia. Minor de ista ratione: 
+      <lb ed="#B" n="60"/>esse enim relationis ex primo articulo est quod sit 
+      <lb ed="#B" n="61"/>in: et ita si adueniret suppositali deo esset 
+      <lb ed="#B" n="62"/>in deo: et licet ex parte dei non esset 
+      composi<lb ed="#B" n="63" break="no"/>tio tamen ex parte relationis: nisi forsam 
+      assiste<lb ed="#B" n="64" break="no"/>ret: sicut dicebat Gilbertus porretani de 
+      <lb ed="#B" n="65"/>relationibus originis vel caperetur inesse 
+      sup<lb ed="#B" n="66" break="no"/>positali: sed non loquimur de miraculis 
+      <lb ed="#B" n="67"/>dei. Dicit tertio de infinitate quod est magis 
+      <lb ed="#B" n="68"/>ad oppositum: quia si non habet 
+      connexio<lb ed="#B" n="69" break="no"/>nem cum vniuerso. igitur est sequestratus et di 
+      <lb ed="#B" n="70"/>stinctus ab vniuerso: et sequestratio et 
+      distin<lb ed="#B" n="71" break="no"/>tio domint relationem. Dico cum sua reuerentia 
+      <lb ed="#B" n="72"/>immo dictum suum est contra ipsum: ipse enim dicit in 
+      <lb ed="#B" n="73"/>eodem articulo: quod vna condictionum 
+      requisi<lb ed="#B" n="74" break="no"/>tarum ad relationem realem est vt non repugnet 
+      <lb ed="#B" n="75"/>vni hitudo ad alterum. Si igitur repugnat 
+      <lb ed="#B" n="76"/>deo habere connexionem cum vniuerso: et per 
+      <lb ed="#B" n="77"/>consequens referri: patet quod non est ad oppositum: et quod 
+      ar<lb ed="#B" n="78" break="no"/>guit de distinctione et sequestratione. Di 
+      <lb ed="#B" n="79"/>co quod hoc ita est contra ipsum sicut contra me: quia 
+      <lb ed="#B" n="80"/>non ponit relationem realem in deo ad creatu 
+      <lb ed="#B" n="81"/>ram: tamen dico quod talis distinctio et sequestratio 
+      <lb ed="#B" n="82"/>secundum esse realesunt in creatura: et terminantur 
+      <lb ed="#B" n="83"/>in deum: et sic deus dicitur distinctus sicut in 
+      <lb ed="#B" n="84"/>relationibus rationis a cognitione 
+      plato<lb ed="#B" n="85" break="no"/>nis qua cognouit deum: dicitur deus cognitus  
+      </p>
+               <p xml:id="WuV37d-e33386-d1e925">
+                  <lb ed="#B" n="86"/>¶ Tertia conclusio. praecise creatorum 
+      rela<lb ed="#B" n="87" break="no"/>tionibus deus summus non refertur probatur conm 
+      <lb ed="#B" n="88"/>clusio: quia forma denominat id in quo est: s 
+      <lb ed="#B" n="89"/>sed relatio creaturae est in creatura non in 
+      <lb ed="#B" n="90"/>deo: igitur refert creaturam et non deum. Con 
+      <lb ed="#B" n="91"/>firmatur: quia videtur innonueniens ponere fun 
+      <lb ed="#B" n="92"/>damentum relationis: vtputa potentiam cream 
+      <lb ed="#B" n="93"/>di in deo: cum tamen in illo fundamento non 
+      <lb ed="#B" n="94"/>possit fundari relatio.
+</p>
+               <p xml:id="WuV37d-e33386-d1e947">
+¶ Ex quo infero quod s 
+      <lb ed="#B" n="95"/>doctor venerabilis varro non bene dicit pic 
+      <lb ed="#B" n="96"/>dicendo quod creatio actio: qua dicitur deus in 
+      <lb ed="#B" n="97"/>creator est iu creatura non in deo: et 
+      confir<lb ed="#B" n="98" break="no"/>mat per illud. 3. philosophicorum: actio est in passo¬ 
+      <!--162.xml-->
+      <pb ed="#B" n="73-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>patet ex conclusione quod non. Et satis 
+      vide<lb ed="#B" n="2" break="no"/>tur extraneum dicere / quod creatio actio sit 
+      <lb ed="#B" n="3"/>in creatura. Et quod dicit de tertio physi 
+      <lb ed="#B" n="4"/>corum: intelligitur terminatiue: id est actio 
+      <lb ed="#B" n="5"/>agentis terminatur in patiens. Et tantum 
+      <lb ed="#B" n="6"/>de secundo articulo. 
+      <lb ed="#B" n="7"/>Quantum ad tertium 
+      arti<lb ed="#B" n="8" break="no"/>culum 
+      <lb ed="#B" n="9"/>sunt tres difficultates.
+</p>
+               <p xml:id="WuV37d-e33386-d1e985">
+¶ Prima est. 
+      <lb ed="#B" n="10"/>Utrum eodem modo res creatae in primo en 
+      <lb ed="#B" n="11"/>te terminantur? Dico quod non. Unde secundum 
+      bea<lb ed="#B" n="12" break="no"/>tum diony. quo ad praesens sunt tres rerum dif 
+      <lb ed="#B" n="13"/>ferentiae: esse / viuere et intelligere. Esse ter 
+      <lb ed="#B" n="14"/>minatur in deum per durationem: viuere per 
+      <lb ed="#B" n="15"/>operationem simplicem: sed iutelligere 
+      per<lb ed="#B" n="16" break="no"/>fruitionem: secundum quod perfectam cognitionemu 
+      <lb ed="#B" n="17"/>dilectio sequitur: dicente Augstin. Uerbu m 
+      <lb ed="#B" n="18"/>est cum amore noticia.
+</p>
+               <p xml:id="WuV37d-e33386-d1e1007">
+¶ Secunda 
+      dif<lb ed="#B" n="19" break="no"/>ficultas est. Utrum deus possit assume 
+      <lb ed="#B" n="20"/>re vnam relationem realem in identitate 
+      sup<lb ed="#B" n="21" break="no"/>positi: mediante qua ad creaturas 
+      refer<lb ed="#B" n="22" break="no"/>retur. Hic dico tria. Primum est: quod non pos 
+      <lb ed="#B" n="23"/>set talem relationem realem in identitate 
+      sup<lb ed="#B" n="24" break="no"/>positi assumere: quia repugnat relationi. 
+      <lb ed="#B" n="25"/>Esse enim suppositi est substantiarum. 
+      Se<lb ed="#B" n="26" break="no"/>cundo dico quod posset in identitate 
+      indiui<lb ed="#B" n="27" break="no"/>dui: quia sicut potest sustentare accidens ab 
+      <lb ed="#B" n="28"/>solutum: sicut patet in sacramento altaris:  
+      <lb ed="#B" n="29"/>sic posset respectiuum: cum habeat esse in 
+      <lb ed="#B" n="30"/>cum eis. Tertio dico: quod casu dato adhuc 
+      <lb ed="#B" n="31"/>deus illa relatione non referretur realiter. 
+      <lb ed="#B" n="32"/>Cuius ratio est: quia in communicatione idio 
+      <lb ed="#B" n="33"/>matum exigitur / quod illud quod communicatur primo 
+      com<lb ed="#B" n="34" break="no"/>municanti conueniat: sicut quia homo deo vni 
+      <lb ed="#B" n="35"/>tus dicitur mortuus: ideo deus dicitur mor 
+      <lb ed="#B" n="36"/>tuus. Relatio vero non refertur: quia esset 
+      proces<lb ed="#B" n="37" break="no"/>sus in infinitum: ideo non posset dici deus ea 
+      <lb ed="#B" n="38"/>referri.
+</p>
+               <p xml:id="WuV37d-e33386-d1e1053">
+¶ Tertia difficultas. Utrum 
+      <lb ed="#B" n="39"/>dum dicitur: Deus est cognitus aut dilectus 
+      <lb ed="#B" n="40"/>a nobis: per esse cognitum aut dilectum 
+      refera<lb ed="#B" n="41" break="no"/>tur? Dico hic / quod loquendo proprie est solum 
+      <lb ed="#B" n="42"/>denominatio extrinseca: nec aliquid in deo 
+      <lb ed="#B" n="43"/>ponitur: cum aut cognosco / aut diligo: sed  
+      <lb ed="#B" n="44"/>totum in mente. scilicet tam dicere quam dici: quae 
+      <lb ed="#B" n="45"/>sunt due praxes intentionales. Et sic patet 
+      <lb ed="#B" n="46"/>ad quaestionem / quod videlicet nulla ex parte 
+      <lb ed="#B" n="47"/>sui reali relatione: ex tempore deus ad creatu 
+      <lb ed="#B" n="48"/>ras referatur. Et tunc ad argumenta.
+</p>
+               <p xml:id="WuV37d-e33386-d1e1077">
+¶ Ac 
+      <lb ed="#B" n="49"/>primum: nego antecedens: et dico tria. Primo 
+      <!--162.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>quod esse quidditatiuum non est esse reale quod 
+      <lb ed="#B" n="51"/>requiritur ad relationem realem. Requiritur enim 
+      <lb ed="#B" n="52"/>esse existentiae. Secundo dico quod non termi 
+      <lb ed="#B" n="53"/>natur cognitio dei in tales quidditates / 
+      <lb ed="#B" n="54"/>nisi mediate / sed tantum in esse cognito seu ide 
+      <lb ed="#B" n="55"/>ali. Tertio dico / quod nihil quidditatiuum 
+      <lb ed="#B" n="56"/>secundum mentem doctoris est ab aeterno / nisi 
+      de<lb ed="#B" n="57" break="no"/>us: de quo. 36. disiu. Et cum dicitur: scientia e s t 
+      <lb ed="#B" n="58"/>necessariorum. Dico quod necessaria sunt in 
+      <lb ed="#B" n="59"/>esse cognito seu ideali non alibi.
+</p>
+               <p xml:id="WuV37d-e33386-d1e1108">
+¶ Ad se 
+      <lb ed="#B" n="60"/>cundum dico: primo ad antecedens: quod non re 
+      <lb ed="#B" n="61"/>fertur deus relatione rationis ad res scitas: 
+      <lb ed="#B" n="62"/>quia cognitio dei producit in esse cognito 
+      <lb ed="#B" n="63"/>res: et ita terminantur ibi: de quo. 35. dist. 
+      <lb ed="#B" n="64"/>Dico etiam ad consequentiam / quod non 
+      va<lb ed="#B" n="65" break="no"/>let. Uerum est enim quod in his quae dicunt 
+      per<lb ed="#B" n="66" break="no"/>fectionem secundum nobilitatem subiecti: 
+      nobilio<lb ed="#B" n="67" break="no"/>ra sunt et perfectiora: sed praedicamentum 
+      rela<lb ed="#B" n="68" break="no"/>tionis nullam dicit perfectionem: ideo non 
+      <lb ed="#B" n="69"/>est simile.
+</p>
+               <p xml:id="WuV37d-e33386-d1e1132">
+¶ Ad tertium dico: quod omnis potem 
+      <lb ed="#B" n="70"/>tia supra se conuersiua potest causare relati: 
+      <lb ed="#B" n="71"/>onem rationis: nisi caperetur stricte relatio rati 
+      <lb ed="#B" n="72"/>onis: quod hic non oportet: huiusmodi autem est vo 
+      <lb ed="#B" n="73"/>luntas: quia diligit se et amat se. Et haec de 
+      quod<lb ed="#B" n="74" break="no"/>ne.
+</p>
+            </div>
+            <div xml:id="WuV37d-e33386-Dd1e1146" type="et-conclusiones">
+               <head xml:id="WuV37d-e33386-Hd1e1148">Conclusiones</head>
+               <p xml:id="WuV37d-e33386-d1e1151">
+¶ Ex ista vero distinctionc sicut de 
+      <lb ed="#B" n="75"/>praecedentibus de mente magistri tres capiuntur conclu 
+      <lb ed="#B" n="76"/>siones. Prima conclusio est. Ex tempore dicitur de 
+      <lb ed="#B" n="77"/>us refugium: et ita sentitur esse similium. Dicit 
+      <lb ed="#B" n="78"/>conclusio / quod talia nomina: deus / refugium / 
+      crea<lb ed="#B" n="79" break="no"/>tor etc. dicuntur de deo ex tempore: et deducitur a 
+      <lb ed="#B" n="80"/>a principio dist. vsque ad ca. illud: Quomodo er 
+      <lb ed="#B" n="81"/>go obtinebimus.
+</p>
+               <p xml:id="WuV37d-e33386-d1e1169">
+¶ Secunda conclusio. 
+      <lb ed="#B" n="82"/>Unum esse dei nullo accidente formatur / nec 
+      <lb ed="#B" n="83"/>ei subiicitur ante Dicit conclusio / quod nullum 
+      ac<lb ed="#B" n="84" break="no"/>cidens est in deo. Et deducitur ab illo capi 
+      <lb ed="#B" n="85"/>tulo: Quomodo ergo obtinebimus: 
+      vs<lb ed="#B" n="86" break="no"/>que ad illud ca. Hic potest solui quaestio su 
+      <lb ed="#B" n="87"/>perius etc.
+</p>
+               <p xml:id="WuV37d-e33386-d1e1185">
+¶ Tertia conclusio. Spiritus 
+      san<lb ed="#B" n="88" break="no"/>ctus qui est donabilis: ad dantes penitus 
+      <lb ed="#B" n="89"/>est referibilis. Dicit conclusio quod spiritus 
+      san<lb ed="#B" n="90" break="no"/>ctus qui dicitur donum: refertur ad patrem et 
+      fi<lb ed="#B" n="91" break="no"/>lium qui ipsum dant. Et deducitur ab illo 
+      <lb ed="#B" n="92"/>ca. Hic potest solui quaestio etc. vsque ad 
+      fi<lb ed="#B" n="93" break="no"/>nem distinctionis. 
+</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

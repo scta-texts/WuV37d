@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Prologus</title>
+            <author ref="#WilliamDeVaurouillon">William de Vaurouillon</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Prologus</title>
+               <date when="2021-06-19">June 19, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-bvbVBV">Basel 1510</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-06-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="6-r"/>
+            <cb ed="#B" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="WuV37d-de2045"><!-- d1prol -->
+            <head xml:id="WuV37d-de2045-Hd1e108">Prologus</head>
+            <div xml:id="WuV37d-de2045-Dd1e111" type="circa-textum">
+               <head xml:id="WuV37d-de2045-Hd1e113">Circa textum</head>
+               <p xml:id="WuV37d-de2045-d1e116">
+                  <lb ed="#B" n="53"/>¶ Cupientes ali 
+      <lb ed="#B" n="54"/>quid de penuria ac te 
+      <lb ed="#B" n="55"/>nuitate nostra / cum 
+      <lb ed="#B" n="56"/>paupercula ad 
+      gamo<lb ed="#B" n="57" break="no"/>philacium domini mittere: 
+      <lb ed="#B" n="58"/>ardua scandere: opus vltra vires 
+      <lb ed="#B" n="59"/>nostras aggredi praesumpsimus etc. Hic 
+      <lb ed="#B" n="60"/>textus incipit sententiarum magistri 
+      Pe<lb ed="#B" n="61" break="no"/>tri lombardi parrhyseorum antistitis. Et di 
+      <lb ed="#B" n="62"/>uiditur principaliter in tres partes. 
+      Pri<lb ed="#B" n="63" break="no"/>mo enim praemittit intentionis suae indiciumi 
+      <lb ed="#B" n="64"/>scilicet proaemium. Secundo subiungit 
+      variatio<lb ed="#B" n="65" break="no"/>nis compendium: id est tractatum. Tertio 
+      <lb ed="#B" n="66"/>concludit affectionis solatium. scilicet epilogum. 
+      <lb ed="#B" n="67"/>Secunda incipit in prima distinctione. scilicet 
+      ve<lb ed="#B" n="68" break="no"/>teris ac nouae legis continentiam etc. Tertia 
+      <lb ed="#B" n="69"/>ibi: Haec in pedibus sedentis.
+</p>
+               <p xml:id="WuV37d-de2045-d1e155">
+¶ Rursus 
+      pri<lb ed="#B" n="70" break="no"/>ma pars in qua praemittit suae intentionis 
+      indi<lb ed="#B" n="71" break="no"/>cium: in tres partes diuiditur. In quarum prima 
+      <lb ed="#B" n="72"/>praemittit causas motiuas operis praesentis. In 
+      <lb ed="#B" n="73"/>secunda subiungit mentes detractiuas cetus 
+      in<lb ed="#B" n="74" break="no"/>uidentis. In tertia concludit doctrinas 
+      al<lb ed="#B" n="75" break="no"/>lectiuas veri resultantis. Secunda incipit ibi: 
+      <lb ed="#B" n="76"/>Quamuis non ambigamus etc. Tertia ibi: 
+      <lb ed="#B" n="77"/>In quo maiorum exempla etc.
+</p>
+               <p xml:id="WuV37d-de2045-d1e175">
+¶ Rursus prima 
+      <lb ed="#B" n="78"/>pars in qua praemittit causas motiuas ope 
+      <lb ed="#B" n="79"/>ris praesentis: in tres partes diuiditur: secundum quod 
+      <lb ed="#B" n="80"/>tres fuerunt causae motiuae: videlicet: Eter 
+      <lb ed="#B" n="81"/>ne felicitatis optatio: catholicae veritatis  
+      <lb ed="#B" n="82"/>defensio: fraternae societatis petitio. 
+      Prae<lb ed="#B" n="83" break="no"/>mittit ergo in prima parte primam causam 
+      mo<lb ed="#B" n="84" break="no"/>tiuam fuisse diuinae mercedis praestolationem. 
+      <lb ed="#B" n="85"/>Subiungit in secunda parte secundam causam 
+      moti<lb ed="#B" n="86" break="no"/>uam fuisse infecti erroris confutationem. 
+      Con<lb ed="#B" n="87" break="no"/>cludit in tertia parte tertiam causam 
+      moti<lb ed="#B" n="88" break="no"/>uam fuisse discipulorum charitatiuam 
+      dilectio<lb ed="#B" n="89" break="no"/>nem. Secunda pars incipit ibi: Quo inardescentes. 
+      <lb ed="#B" n="90"/>Tertia incipit ibi: Non valentes 
+      studioso<lb ed="#B" n="91" break="no"/>rum fratrum etc.
+</p>
+               <p xml:id="WuV37d-de2045-d1e208">
+¶ Rursus secunda pars principalis 
+      <lb ed="#B" n="92"/>huius proaemii in qua magister subiungit mentes 
+      <lb ed="#B" n="93"/>detractiuas cetus inuidentis: in tres partes 
+      di<lb ed="#B" n="94" break="no"/>uiditur / secundum tria detrahentium genera: quidam 
+      <lb ed="#B" n="95"/>enim detrahunt ex habitu falsae opinionis: 
+      <lb ed="#B" n="96"/>quidam ex actu prauae intentionis: quidam 
+      <!--29.xml-->
+      <pb ed="#B" n="6-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>ex fastu propriae ostensionis. Praemittit igi 
+      <lb ed="#B" n="2"/>tur primam detractionis radicem fuisse 
+      <lb ed="#B" n="3"/>aspectum obumbratum falsitatis caligine. 
+      <lb ed="#B" n="4"/>Subiungit secundam detractionis radicem 
+      <lb ed="#B" n="5"/>fuisse affectum deturpatum prauitatis 
+      rubi<lb ed="#B" n="6" break="no"/>gine. Et concludit tertiam detractionis radicem 
+      <lb ed="#B" n="7"/>fuisse effectum picturatum vanitatus immagine. 
+      <lb ed="#B" n="8"/>Secunda pars incipit ibi: Quam deus 
+      hu<lb ed="#B" n="9" break="no"/>ius seculi. Tertia ibi: habent rationemus 
+      <lb ed="#B" n="10"/>sapientiae in superficie.
+</p>
+               <p xml:id="WuV37d-de2045-d1e250">
+¶ Rursus tertia 
+      <lb ed="#B" n="11"/>pars principalis huius proaemii: in qua 
+      <lb ed="#B" n="12"/>magister concludit doctrinas allectiuas 
+      <lb ed="#B" n="13"/>veri refulgentis. Et in tres diuiditur 
+      par<lb ed="#B" n="14" break="no"/>tes: secundum quod triplex doctrina alliciens 
+      repe<lb ed="#B" n="15" break="no"/>ritur: videlicet / doctrina rectitudinis / 
+      do<lb ed="#B" n="16" break="no"/>ctrina gratitudinis / doctrina 
+      plenitudi<lb ed="#B" n="17" break="no"/>nis. Praemittit igitur doctrinam aequitatis  
+      <lb ed="#B" n="18"/>excludentis veritatis contraria. 
+      Subiun<lb ed="#B" n="19" break="no"/>git doctrinam brevitatis / includentem 
+      pa<lb ed="#B" n="20" break="no"/>trum consilia. Concludit doctrinam 
+      humi<lb ed="#B" n="21" break="no"/>litatis continentem exempla vtilia. 
+      Secun<lb ed="#B" n="22" break="no"/>da pars incipit ibi: Non igitur debet hio 
+      <lb ed="#B" n="23"/>labor etc. Tertia ibi: In hoc autem tractatur 
+      <lb ed="#B" n="24"/>etc. Et haec est diuisio totius praesentis 
+      prolo<lb ed="#B" n="25" break="no"/>gi in generali. Circa quem prologum in specia 
+      <lb ed="#B" n="26"/>li quaeritur de subiecto theologiae. Et est quae 
+      <lb ed="#B" n="27"/>stionis titulus talis. 
+      </p>
+            </div>
+            <div xml:id="WuV37d-de2045-Dd1e290"><!-- l1prolq1 -->
+               <head xml:id="WuV37d-de2045-Hd1e293">Quaestio</head>
+               <head xml:id="WuV37d-de2045-Hd1e296" type="question-title">Utrum theologia habeat deum pro subiecto primo</head>
+               <div xml:id="WuV37d-de2045-Dd1e299">
+                  <p xml:id="WuV37d-de2045-d1e301">
+                     <lb ed="#B" n="28"/>¶ Quaestio de subiecto: in qua 
+      con<lb ed="#B" n="29" break="no"/>cludit cum Scoto in prologo. q. 3. de 
+      <lb ed="#B" n="30"/>uiando ab hugone linconiensi et 
+      <lb ed="#B" n="31"/>sancto Bonauetura ibide. 
+      <lb ed="#B" n="32"/>Utrum 
+      theolo<lb ed="#B" n="33" break="no"/>gia habeat deum pro subiecto 
+      pri<lb ed="#B" n="34"/> morEt arguitur quod non: auctorita 
+      <lb ed="#B" n="35"/>le venerabilis Eustracii: quia secundum eum ibi 
+      <lb ed="#B" n="36"/>moralis est de homine quo ad animam: sed  
+      <lb ed="#B" n="37"/>medicinalis quo ad corpus. Ex hoc acci 
+      <lb ed="#B" n="38"/>itur haec propositio. Omnis prractica scientia 
+      <lb ed="#B" n="39"/>habet pro subiecto primo id cui acquiritur 
+      fi<lb ed="#B" n="40" break="no"/>nis illius scientiae / et non ipsum finem. Sed finis 
+      <lb ed="#B" n="41"/>huius scientiae acquiritur homini / et non deo: 
+      <lb ed="#B" n="42"/>igitur homo est subiectum theologiae / et non deus: 
+      </p>
+                  <p xml:id="WuV37d-de2045-d1e336">
+                     <lb ed="#B" n="43"/>¶ Secundo sic. Quia secundum Boecium lib. de 
+      <lb ed="#B" n="44"/>trini. Forma simplex subiectum esse non potest: 
+      <lb ed="#B" n="45"/>sed deus est forma seu actus simplicissimus. 
+      <lb ed="#B" n="46"/>igitur nequit esse subiectum huius scientiae.
+</p>
+                  <p xml:id="WuV37d-de2045-d1e347">
+¶ Ter 
+      <lb ed="#B" n="47"/>tio sic. Subiectum debet complecti omnia quae 
+      <!--29.xml-->
+      <cb ed="#B" n="b"/>
+                     <lb ed="#B" n="48"/>tractantur in illa scientia: sed non est ita hic de 
+      <lb ed="#B" n="49"/>deo: igitur etc. Minor probatur de guerris 
+      re<lb ed="#B" n="50" break="no"/>gnorum / aut machabeorum / aut de Dauid: 
+      <lb ed="#B" n="51"/>quomodo habuit decem concubinis / et sic de simi 
+      <lb ed="#B" n="52"/>libus: quid pertinent ad diuinitatem inquantum diuini 
+      <lb ed="#B" n="53"/>tas / seu inquantum subiectum est: videtur quod nihil. 
+      </p>
+                  <p xml:id="WuV37d-de2045-d1e369">
+                     <lb ed="#B" n="54"/>¶ Contra seu in oppositum arguo 
+      autortori<lb ed="#B" n="55" break="no"/>tate Augstin. 6. de ciui. dei. Theologia est ser  
+      <lb ed="#B" n="56"/>mo vel ratio de deo. Et probatur ratione sic. 
+      <lb ed="#B" n="57"/>Illud est subiectum in aliqua scientia: de quo et 
+      <lb ed="#B" n="58"/>de cuius proprietatibus est scientia tota: sed de 
+      <lb ed="#B" n="59"/>deo et eius operibus: vtpote creatione et 
+      re<lb ed="#B" n="60" break="no"/>paratione est tota theologia: igitur deus est 
+      <lb ed="#B" n="61"/>subiectum.
+</p>
+                  <p xml:id="WuV37d-de2045-d1e389">
+¶ In ista quaestione et in sequentibus / 
+      <lb ed="#B" n="62"/>diuino fauente auxilio: qui deus vnus extat 
+      <lb ed="#B" n="63"/>et trinus: tres erunt articuli declarandi 
+  <lb ed="#B" n="64"/>Quorum Primus est terminorum declaratiuus 
+  <lb ed="#B" n="65"/>Secundus est quaestionis responsiuus. 
+<lb ed="#B" n="66"/>Tertius est dubiorum motiuus. 
+      <lb ed="#B" n="67"/>Quo ad primum primo viden 
+      <lb ed="#B" n="68"/>dum est de isto 
+      <lb ed="#B" n="69"/>termino theologia.
+</p>
+               </div>
+               <div xml:id="WuV37d-de2045-Dd1e410">
+                  <head xml:id="WuV37d-de2045-Hd1e412">Articulus 1</head>
+                  <p xml:id="WuV37d-de2045-d1e415">
+¶ Theologia secundum 
+      <lb ed="#B" n="70"/>grammaticos: dicitur a talibus quod est deus 
+      <lb ed="#B" n="71"/>et logos sermo / vel ratio quasi sermo de 
+      <lb ed="#B" n="72"/>deo vel ratio. Theologia capitur 
+      triplici<lb ed="#B" n="73" break="no"/>ter scilicet communiter / proprie et propriissime. Con 
+      <lb ed="#B" n="74"/>muniter dicitur theologia quidam habitus  
+      <lb ed="#B" n="75"/>de deo: siue sit proprius / siue non: et isto modo 
+      <lb ed="#B" n="76"/>vocat in primo et sexto metaphy. suae 
+      phi<lb ed="#B" n="77" break="no"/>losophus metaphysicam theologiam. Pro 
+      <lb ed="#B" n="78"/>prie theologia est quo principaliter de deo 
+      <lb ed="#B" n="79"/>osiderat: et ista secundum doctorem subtilem de 
+      sub<lb ed="#B" n="80" break="no"/>iecto theologiae / articulo id . dicitur vel theo 
+      <lb ed="#B" n="81"/>logia in se / vel theologia in nobis. 
+      The<lb ed="#B" n="82" break="no"/>ologia in se est talis cognitio qualem natum 
+      <lb ed="#B" n="83"/>est facere obiectum theologicum in intelle 
+      <lb ed="#B" n="84"/>ctu sibi proportionato. Theologia vero in 
+      <lb ed="#B" n="85"/>nobis est talis cognitio / qualis nata est 
+      <lb ed="#B" n="86"/>recipi in intellectu nostro de obiecto theo 
+      <lb ed="#B" n="87"/>logico. Exemplum. Si aliquis non possit 
+      <lb ed="#B" n="88"/>intelligere geometricalia: posset tamen alicui 
+      <lb ed="#B" n="89"/>credere de geometricalibus: geometria 
+      <lb ed="#B" n="90"/>esset sibi fides / non scientia: esset tamen in se 
+      <lb ed="#B" n="91"/>geometria scientia: quia obiectum geometriae 
+      <lb ed="#B" n="92"/>natum est facere de se scientiam in intellectu 
+      si<lb ed="#B" n="93" break="no"/>bi proportionato sic de theologia in nobis 
+      <lb ed="#B" n="94"/>Unde theologia in nobis secundum mentem 
+      fra<lb ed="#B" n="95" break="no"/>tris Alexandri de ales: est quidam 
+      men<lb ed="#B" n="96" break="no"/>tis habitus de deo loquens / per deum nobis 
+      <!--30.xml-->
+      <pb ed="#B" n="7-r"/>
+                     <cb ed="#B" n="a"/>
+                     <lb ed="#B" n="1"/>transmissus: et in deum terminatus: vnde 
+      di<lb ed="#B" n="2" break="no"/>cit prima parte de doctrina theologiae. q. 
+      <lb ed="#B" n="3"/>iii. Theologia est scientia de substantia di 
+      <lb ed="#B" n="4"/>uina cognoscenda per christum in opere 
+      <lb ed="#B" n="5"/>reparationis. Propriissime vero et tertio 
+      <lb ed="#B" n="6"/>dicitur theologia illa noticia quae est in mente 
+      <lb ed="#B" n="7"/>diuina de diuintate vt obiecto: et isto modo 
+      <lb ed="#B" n="8"/>solus deus dicitur theologus: et nos 
+      theo<lb ed="#B" n="9" break="no"/>logiae discipuli: vt loquitur Aug. in libro 
+      <lb ed="#B" n="10"/>de doctrina christiana. Ulterius noto: quod 
+      <lb ed="#B" n="11"/>secundum commentatorem super Dyonysium eccle 
+      <lb ed="#B" n="12"/>siasticae hierarchiae: differentia est inter theo 
+      <lb ed="#B" n="13"/>logiam et theurgiam. Theologia enim artatur 
+      <lb ed="#B" n="14"/>ad antiquum testamentum / theurgia ad nouum. 
+      <lb ed="#B" n="15"/>Ita quod theologia dicitur noticia antiqui 
+      te<lb ed="#B" n="16" break="no"/>stamenti / theurgia noui: vbi christus perfe 
+      <lb ed="#B" n="17"/>ctius docuit operari. Theurgia enim idem est 
+      <lb ed="#B" n="18"/>quod scientia bene operandi de deo. Et hoc 
+      <lb ed="#B" n="19"/>de isto termino theologia. Sequitur subie 
+      <lb ed="#B" n="20"/>ctum.
+</p>
+                  <p xml:id="WuV37d-de2045-d1e526">
+¶ Subiectum triplex e. scilicet siectum 
+      pri<lb ed="#B" n="21" break="no"/>dicationis / subiectum mutationis / subm 
+      consi<lb ed="#B" n="22" break="no"/>derationis. Primum logicum: secundum physicum: 
+      <lb ed="#B" n="23"/>tertium scientificum. Solet quarto modo di 
+      <lb ed="#B" n="24"/>ci subiectum idem quod positiuum: quomodo accipit 
+      <lb ed="#B" n="25"/>Aristo. in. 5. physicorum: quando diuidit tripli 
+      <lb ed="#B" n="26"/>citer motum. Aut a subiecto in subiectum / 
+      <lb ed="#B" n="27"/>vt motus localis: aut a non subiecto in 
+      sub<lb ed="#B" n="28" break="no"/>iectum / vt generatio: aut a subiecto in non 
+      <lb ed="#B" n="29"/>subiectum / vt corruptio: ibi subiectum idem est 
+      <lb ed="#B" n="30"/>quod positiuum: et hoc de subiecto. Sequitur 
+      <lb ed="#B" n="31"/>pmum.
+</p>
+                  <p xml:id="WuV37d-de2045-d1e552">
+¶ Primum dicitur tripliciter. Uno 
+      <lb ed="#B" n="32"/>modo per negationem ad prius: et tunc primum 
+      <lb ed="#B" n="33"/>idem est quod immediatum id est ante quod nihil: et hoc 
+      <lb ed="#B" n="34"/>modo dicit philosophus in primo posteriorum: primum 
+      <lb ed="#B" n="35"/>et immediatum idem sunt. Secundo modo di 
+      <lb ed="#B" n="36"/>citur primum per relationem ad posterius: vt scilice 
+      <lb ed="#B" n="37"/>est causa sequentium: hoc modo loquitur 
+      por<lb ed="#B" n="38" break="no"/>phyrius in suis isagogis. c. de specia: de. x. prae 
+      <lb ed="#B" n="39"/>dicamentis: quod sunt decem rerum prima pricipia. 
+      <lb ed="#B" n="40"/>Tertio modo dicitur primum / idem quod adequatum 
+      <lb ed="#B" n="41"/>et philosophus vocat in illo primo posteriorum: 
+      <lb ed="#B" n="42"/>idem quod secundum se ipsum: sicut homo dicitur 
+      sub<lb ed="#B" n="43" break="no"/>iectum primum id . adaequatum risibilitatis: hoc 
+      <lb ed="#B" n="44"/>tertio dicitur in proposito. Subieccum igitur pri 
+      <lb ed="#B" n="45"/>mum alicuius scientiae dicitur circa quod versatur to 
+      <lb ed="#B" n="46"/>ta scientia seu considerati:o et quod continet omnes 
+      <lb ed="#B" n="47"/>veritates totius habitus. Et hoc de primo arti. 
+      <lb ed="#B" n="48"/> Quo ad secundum arti. poeitur conclum 
+      <lb ed="#B" n="49"/>sio quod deus est subm 
+      <!--30.xml-->
+      <cb ed="#B" n="b"/>
+                     <lb ed="#B" n="50"/>primum totius theologiae: seu in se / seu in nobis. 
+      <lb ed="#B" n="51"/>Probatur haec conclusio triplici medio. 
+      Pri<lb ed="#B" n="52" break="no"/>mo sic. Subiectum primum continet omnes verita 
+      <lb ed="#B" n="53"/>tes illius habitus cuius est obiectum primum: sed 
+      ni<lb ed="#B" n="54" break="no"/>hil continet omnes veritates theologicas ni 
+      <lb ed="#B" n="55"/>si deus: igitur etc. Probatio mi. Nihil aliud 
+      <lb ed="#B" n="56"/>continet eas vt causa: siue vt id ad quod 
+      <lb ed="#B" n="57"/>habeant attributionem nisi deus: quia deus 
+      <lb ed="#B" n="58"/>nulli alii attribuitur: nec aliud continet eas 
+      <lb ed="#B" n="59"/>vt effectus: demonstratione quia: nam nullus efise 
+      <lb ed="#B" n="60"/>ctus demonstrat deum esse trinum: quod est po 
+      <lb ed="#B" n="61"/>tis sima veritas theologica / et consimilia. Se 
+      <lb ed="#B" n="62"/>cundo sic. Theologia est de his quae soli 
+      in<lb ed="#B" n="63" break="no"/>tellectui diuino sunt naturaliter nota: ergo est 
+      <lb ed="#B" n="64"/>de obiecto soli deo naturalitur noto. Sed 
+      <lb ed="#B" n="65"/>deus solum est sibi naturaliter notus: ergo etc. 
+      <lb ed="#B" n="66"/>Probatio primae propositionis. Si ista 
+      sci<lb ed="#B" n="67" break="no"/>entia est de aliquibus alicui alii intellectui 
+      <lb ed="#B" n="68"/>naturaliter notis: igitur praeter ista sunt alia 
+      <lb ed="#B" n="69"/>cognoscibilia soli intellectui diuino natu 
+      <lb ed="#B" n="70"/>raliter nota: quia infinitus: et ideo plurium 
+      co<lb ed="#B" n="71" break="no"/>gnitiuus quam intellectus finitus: igitur est ad 
+      <lb ed="#B" n="72"/>huc aliqua scientia superior quam illa quae est de 
+      <lb ed="#B" n="73"/>naturaliter notis intellectui creato. Ter 
+      <lb ed="#B" n="74"/>tio sic. In nulla scientia traditur ita 
+      distin<lb ed="#B" n="75" break="no"/>cta cognitio de aliquo alio: quod non est eius 
+      <lb ed="#B" n="76"/>subiectum primum / sicut de primo subiecto. 
+      <lb ed="#B" n="77"/>Tunc enim non esset ratio: quaere illud esset subie 
+      <lb ed="#B" n="78"/>ctum primum / non aliud: igitur si deus non sit 
+      <lb ed="#B" n="79"/>hic subiectum: non traditur ita distincta cogni 
+      <lb ed="#B" n="80"/>tio de eo: sicut fieret in alia scientia / in qua 
+      <lb ed="#B" n="81"/>esset subiectum: potest autem esse subiectum: 
+      igi<lb ed="#B" n="82" break="no"/>tur illa esset prior ista. Noto tamen quod quamuis. 
+      <lb ed="#B" n="83"/>conceptus infiniti secundum docto. subti. sit 
+      per<lb ed="#B" n="84" break="no"/>fectissimus conceptus ad quem possumus per 
+      <lb ed="#B" n="85"/>euidentiam attingere: de quo in sequentibus: 
+      <lb ed="#B" n="86"/>et ita illo modo sit obiectum theologiae 
+      nostrae<lb ed="#B" n="87" break="no"/>Tnde capiendo obiectum primum pro illo quod 
+      <lb ed="#B" n="88"/>causat veritatem in intellectu: siue sit eui 
+      <lb ed="#B" n="89"/>dens siue non: deus est obiectum primum / tam 
+      <lb ed="#B" n="90"/>theologiae in se quam in nobis. Ex hoc ego in 
+      <lb ed="#B" n="91"/>fero: quod christus inquantum christus non est 
+      obie<lb ed="#B" n="92" break="no"/>ctum theologiae: sicut posuit quidam qui di 
+      <lb ed="#B" n="93"/>ctus est hugo: patet. Confirmatur: quia tunc 
+      <lb ed="#B" n="94"/>iste non essent theologicae veritates 
+      necessa<lb ed="#B" n="95" break="no"/>riae: pater generat: spiritus sanctus procedit: nec etiam 
+      <lb ed="#B" n="96"/>contingentes: pater creat: spiritus sanctus 
+      mis<lb ed="#B" n="97" break="no"/>sus est visibilitur et inuisibiliter: consequente patent: quia 
+      <lb ed="#B" n="98"/>ad nullam scientiam partinet per se aliqua veritas 
+      <!--31.xml-->
+      <pb ed="#B" n="7-v"/>
+                     <cb ed="#B" n="a"/>
+                     <lb ed="#B" n="1"/>nisi sit de subiecto eius primo / vel parte essen 
+      <lb ed="#B" n="2"/>tiali / vel integrali / vel subiectina / vel alio 
+      <lb ed="#B" n="3"/>essentialiter attributo subiecto primo. Sed 
+      <lb ed="#B" n="4"/>patet quod nec pater nec spiritussanctus est pars 
+      <lb ed="#B" n="5"/>christi: nec essentialis / nec integralis / nec subie 
+      <lb ed="#B" n="6"/>ctiua: nec attribuitur ad christum: quia cum chri 
+      <lb ed="#B" n="7"/>stus duas dicat naturas / inquantum est subiectum 
+      <lb ed="#B" n="8"/>theologiae: secundum hoc ponentes naturam scilicet 
+      cre<lb ed="#B" n="9" break="no"/>atam et increatam: sequitur quod pater esset poste) 
+      <lb ed="#B" n="10"/>rior natura creata et spiritus sanctus: quia omnis 
+      <lb ed="#B" n="11"/>attributio est ad prius essentialiter.
+</p>
+                  <p xml:id="WuV37d-de2045-d1e734">
+¶ Secundo 
+      <lb ed="#B" n="12"/>nfero / quod christus non est hic subiectum 
+      conside<lb ed="#B" n="13" break="no"/>ratus sub triplici vnitate. Quarum prin: a est ad 
+      <lb ed="#B" n="14"/>patrem et spiritumsanctum. Secunda ad naturam assum 
+      <lb ed="#B" n="15"/>ptesta. Tertia christi capitis ad membra: pa 
+      <lb ed="#B" n="16"/>tet ex dictis: secundum quod ponit Robertus 
+      linco<lb ed="#B" n="17" break="no"/>niensis. Confirmatur ratio: quia omnis respectus 
+      <lb ed="#B" n="18"/>dei ad extra est contingens: et ita vnitas diui 
+      <lb ed="#B" n="19"/>ni verbi / tam cum natura assumpta quam cum mem 
+      <lb ed="#B" n="20"/>pris / est contingens: multae vero sunt veritates in 
+      <lb ed="#B" n="21"/>theologia necessariae: vt quod deus est trinus et 
+      <lb ed="#B" n="22"/>vnus etc. Nulla veritas vero necessaria in 
+      <lb ed="#B" n="23"/>st per contingentem: igitur non potest stare positio 
+      <lb ed="#B" n="24"/>ista.
+</p>
+                  <p xml:id="WuV37d-de2045-d1e766">
+¶ Tertia positio fuit Alberti 
+      ma<lb ed="#B" n="25" break="no"/>gni: quod reuelabile est subiectum in theologia: 
+      <lb ed="#B" n="26"/>quia in hoc distinguitur theologia ab huma 
+      <lb ed="#B" n="27"/>nis scientiis: quia hae inuentione et exercitio 
+      ha<lb ed="#B" n="28" break="no"/>bentur: haec vero vnctione et reuelationibus. 
+      </p>
+                  <p xml:id="WuV37d-de2045-d1e777">
+                     <lb ed="#B" n="29"/>¶ Sed contra istam opinionem arguitur sic. 
+      <lb ed="#B" n="30"/>Ocientia omnis realis debet habere obiecti 
+      <lb ed="#B" n="31"/>reale et sub ratione reali. Licet enim 
+      logi<lb ed="#B" n="32" break="no"/>ca quodammodo habeat subiectum reale: 
+      <lb ed="#B" n="33"/>quia est de intentionibus primis: tamen quia 
+      <lb ed="#B" n="34"/>non sub ratione reali: quia tractat de 
+      secun<lb ed="#B" n="35" break="no"/>dis intentionibus primis adiunctis: ideo non 
+      <lb ed="#B" n="36"/>est realis. Reuelabile vero dicit solum quem 
+      <lb ed="#B" n="37"/>dam respectum rationis. Quid enim dicit 
+      re<lb ed="#B" n="38" break="no"/>uelabile super deum: dum dico / deus reus 
+      <lb ed="#B" n="39"/>labitur: vtique solum rationis respectum. Si 
+      <lb ed="#B" n="40"/>igitur esset subiectum theologiaer: theologia 
+      <lb ed="#B" n="41"/>esset scientia rationis / non realis: quod est 
+      <lb ed="#B" n="42"/>manifeste falsum. Relinquitur igitur quod deus eut 
+      <lb ed="#B" n="43"/>subiectum theologiae. 
+</p>
+                  <p xml:id="WuV37d-de2045-d1e812">
+¶ Nota tamen ad eui 
+      <lb ed="#B" n="44"/>dentiam iam dictorum: quod sicut homo potest 
+      in<lb ed="#B" n="45" break="no"/>telligi: aut inquantum animalrationale / aui 
+      <lb ed="#B" n="46"/>inquantum substantia / aut inquantum risibilis / aut 
+      <lb ed="#B" n="47"/>nquantum nobilissimus animalium. In primo 
+      cog<lb ed="#B" n="48" break="no"/>noscitur perfecte: quia in ratione diffinitiua. In se 
+      <lb ed="#B" n="49"/>cundo in communi et confuse: quia in conceptu su¬ 
+      <!--31.xml-->
+      <cb ed="#B" n="b"/>
+                     <lb ed="#B" n="50"/>periori. In tertio in posteriori: quia pas 
+      <lb ed="#B" n="51"/>sio posterior est suo subiecto. In quarto 
+      <lb ed="#B" n="52"/>adhuc minus proprie: quia in quodam 
+      re<lb ed="#B" n="53" break="no"/>spectu ad extra: sic pariformiter potest deus 
+      <lb ed="#B" n="54"/>quadrupliciter intelligi. Primo in quodan 
+      <lb ed="#B" n="55"/>respectu ad extra: sicut sub ratione glorifica 
+      <lb ed="#B" n="56"/>toris vel gubernatoris seu reparatorem 
+      mum<lb ed="#B" n="57" break="no"/>di: et isto modo ponit Egidius romanus subie 
+      <lb ed="#B" n="58"/>ctum. Secundo potest considerari sub quadam pas 
+      <lb ed="#B" n="59"/>sione vt inquantum iustus / verus / pius etc. et sic 
+      <lb ed="#B" n="60"/>posuit varro deum inquantum bonus / subie 
+      <lb ed="#B" n="61"/>ctum huius scientiae: Uel tertio potest considerari 
+      <lb ed="#B" n="62"/>inquantum ens vel aliud commune: et sic 
+      posu<lb ed="#B" n="63" break="no"/>it Auicenna ens subiectum in 
+      metaphysi<lb ed="#B" n="64" break="no"/>ca: quae est sua theologia. Potest quarte 
+      <lb ed="#B" n="65"/>considerari inquantum deus: et hic est 
+      perfe<lb ed="#B" n="66" break="no"/>ctus conceptus: et sub ratione hac ponitur a 
+      <lb ed="#B" n="67"/>doctore subtili subiectum theologiae. No 
+      <lb ed="#B" n="68"/>tandum tamen quod dicit sanctus Bonauentu 
+      <lb ed="#B" n="69"/>ra: quod alicuius scientiae potest triplex 
+      assi<lb ed="#B" n="70" break="no"/>gnari subiectum. scilicet radicale / integrale / 
+      vni<lb ed="#B" n="71" break="no"/>uersale. Exemplum. In grammatica subiectum 
+      <lb ed="#B" n="72"/>radicale est littera. Unde apnd Priscianum in 
+      <lb ed="#B" n="73"/>maiori volumine vocatur elementum: quia est 
+      <lb ed="#B" n="74"/>minima pars orationis. Subiectum integrale est 
+      <lb ed="#B" n="75"/>oratio congrua et perfecta. Subiectum vele est 
+      <lb ed="#B" n="76"/>vox articulata litterata / ordinabilis ad 
+      si<lb ed="#B" n="77" break="no"/>gnificandum. Sic in theologia subiectum ad 
+      <lb ed="#B" n="78"/>quod omnia reducuntur sicut ad subiectum radica 
+      <lb ed="#B" n="79"/>le / est deus. Subiectum vero ad quod omnia redu 
+      <lb ed="#B" n="80"/>cuntur sicut ad totum integrale / est christus: 
+      ca<lb ed="#B" n="81" break="no"/>piendo totum large: complectitur enim creatum et 
+      <lb ed="#B" n="82"/>increatum: de quibus sunt duo primi libri. 
+      <lb ed="#B" n="83"/>Caput et membra: de quibus sunt duo 
+      se<lb ed="#B" n="84" break="no"/>quentes. Subiectum vero ad quod omnia 
+      re<lb ed="#B" n="85" break="no"/>ducuntur sicut ad subiectum vniuersale: 
+      cir<lb ed="#B" n="86" break="no"/>cumloquendo per plura nomina: est res vel signa: 
+      <lb ed="#B" n="87"/>per vnum vero credibile aut reuelabile. Et sic 
+      <lb ed="#B" n="88"/>ad secundum patet articulum. 
+      <lb ed="#B" n="89"/>Quo ad tertium articu 
+      <lb ed="#B" n="90"/>lum mo 
+      <lb ed="#B" n="91"/>uentur tres paruae difficultates. Prima  
+      <lb ed="#B" n="92"/>de subiecto theologiae contingentium: quia 
+      <lb ed="#B" n="93"/>cum theologia sit scientia: et scientia sit 
+      ne<lb ed="#B" n="94" break="no"/>cessariorum: videtur quod ad nullum subiectum 
+      <lb ed="#B" n="95"/>reducerentur contingentia in theologia. 
+      Re<lb ed="#B" n="96" break="no"/>spondet doctor subtilis: quod theologia ve 
+      <lb ed="#B" n="97"/>rius dicitur sapientia quam scientia. Unde 
+      capi<lb ed="#B" n="98" break="no"/>endo scientiam eo modo quo capit eam philosophus 
+      <!--32.xml-->
+      <pb ed="#B" n="8-r"/>
+                     <cb ed="#B" n="a"/>
+                     <lb ed="#B" n="1"/>in. 1. posteriorum. Tunc vnumquodque scire 
+      arbi<lb ed="#B" n="2" break="no"/>tramur etc. Sic non est scientia 
+      theologia<lb ed="#B" n="3" break="no"/>quia non omnia considerata in theologia sunt 
+      <lb ed="#B" n="4"/>necessaria. Capiendo vero scientiam pro habi 
+      <lb ed="#B" n="5"/>tu certitudinis: sicut est illud apostoli: Scio 
+      <lb ed="#B" n="6"/>cui credidi / et certus sum etc. Sic 
+      theolo<lb ed="#B" n="7" break="no"/>gia est scientia: quia est certissimus 
+      habi<lb ed="#B" n="8" break="no"/>tus.
+</p>
+                  <p xml:id="WuV37d-de2045-d1e962">
+¶ Secunda difficultas est. Si omnia 
+      <lb ed="#B" n="9"/>creata possint esse sub consideratione theo 
+      <lb ed="#B" n="10"/>logiae? Dico quod creata possunt considerari 
+      <lb ed="#B" n="11"/>dupliciter. Uno modo absolute: sicut 
+      ho<lb ed="#B" n="12" break="no"/>mo inquantum homo etc. et sic non 
+      perti<lb ed="#B" n="13" break="no"/>net ad theologiam / sed ad proprias 
+      scienti<lb ed="#B" n="14" break="no"/>as. Secundo possunt considerari inquantum 
+      <lb ed="#B" n="15"/>in deum referuntur aut in ratione vestigii. 
+      <lb ed="#B" n="16"/>imaginis creationis / vel alio respectu: et 
+      <lb ed="#B" n="17"/>sic pertinent ad theologiam: vnde non ita 
+      per<lb ed="#B" n="18" break="no"/>fecte cognoscit triangulum qui cognoscit 
+      <lb ed="#B" n="19"/>eum secundum quod describitur ab Cuclide: sicut qui 
+      <lb ed="#B" n="20"/>cognoscit illum secundum quod repraesentat aliqua 
+      <lb ed="#B" n="21"/>liter diuinam trinitatem. Sicut de beato pa 
+      <lb ed="#B" n="22"/>l tre nostro Francisco dicitur. Quicquid in 
+      <lb ed="#B" n="23"/>rebus reperit delectamenti / regerit in glo 
+      <lb ed="#B" n="24"/>riam factoris.
+</p>
+                  <p xml:id="WuV37d-de2045-d1e999">
+¶ Tertia difficultas. Si 
+      </p>
+                  <p xml:id="WuV37d-de2045-d1e1002">
+                     <lb ed="#B" n="25"/>¶ solum obiecium theologicum in deo mo 
+      <lb ed="#B" n="26"/>uet intentionem eius ad omne scibile / aut 
+      <lb ed="#B" n="27"/>quasi mouet? Dico quod sic. Et quod omnis sci 
+      <lb ed="#B" n="28"/>entia est sibi theologia. Non sic in beatis  
+      <lb ed="#B" n="29"/>spiritibus / nec in nobis: quia habemus 
+      in<lb ed="#B" n="30" break="no"/>tellectum mobilem a quidditatibus 
+      caete<lb ed="#B" n="31" break="no"/>ris. Ad argumenta vero in pede quaestionis 
+      <lb ed="#B" n="32"/>facta.
+</p>
+                  <p xml:id="WuV37d-de2045-d1e1023">
+¶ Ad primum. Quando arguitur ex 
+      <lb ed="#B" n="33"/>Custracio etc. Dico quod non est simile: ideo 
+      <lb ed="#B" n="34"/>ponitur subiectum medicinae / homo: quo ad 
+      <lb ed="#B" n="35"/>corpus: quia continet virtualiter omnes ve 
+      <lb ed="#B" n="36"/>ritates illius scientiae: nam corpus huma 
+      <lb ed="#B" n="37"/>num continet virtualiter rationem naturalis  
+      <lb ed="#B" n="38"/>sanitatis. Ideo enim sanitas hominis talis 
+      <lb ed="#B" n="39"/>est: quia corpus hominis est sic 
+      complexiona<lb ed="#B" n="40" break="no"/>tum. Similiter anima hominis continet natura 
+      <lb ed="#B" n="41"/>liter rationem felicitatis naturalis: vt di 
+      <lb ed="#B" n="42"/>cit philosophus d 1 ethicorum: vbi ex ratione anime 
+      <lb ed="#B" n="43"/>concluditur ratio felicitatis naturalis: non 
+      <lb ed="#B" n="44"/>sic homo continet finem huius scientie: quia 
+      <lb ed="#B" n="45"/>felicitas supernaturalis vel obiectum eius non 
+      <lb ed="#B" n="46"/>includitur in ratione hominis: et ideo non po 
+      <lb ed="#B" n="47"/>test homo esse primum subiectum huius sci 
+      <lb ed="#B" n="48"/>entiae.
+</p>
+                  <p xml:id="WuV37d-de2045-d1e1060">
+¶ Ad secundum quando dicitur: for 
+      <lb ed="#B" n="49"/>ma simplex etc. Dico quod intelligit de sub¬ 
+      <!--32.xml-->
+      <cb ed="#B" n="b"/>
+                     <lb ed="#B" n="50"/>iecto accidentis / non considerationis.
+</p>
+                  <p xml:id="WuV37d-de2045-d1e1071">
+¶ Ad  
+      <lb ed="#B" n="51"/>tertium dico: quod immo: ad minus ostenden 
+      <lb ed="#B" n="52"/>do quomodo sapienter / iuste et potenter suum 
+      <lb ed="#B" n="53"/>mundum disposuit: et humanum genus 
+      gu<lb ed="#B" n="54" break="no"/>bernauit / et consimilia.
+</p>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

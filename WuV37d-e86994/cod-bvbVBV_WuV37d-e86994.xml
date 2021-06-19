@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 22</title>
+            <author ref="#WilliamDeVaurouillon">William de Vaurouillon</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 22</title>
+               <date when="2021-06-19">June 19, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-bvbVBV">Basel 1510</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-06-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="187-v"/>
+            <cb ed="#B" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="WuV37d-e86994"><!-- l2d22 -->
+            <head xml:id="WuV37d-e86994-Hd1e108">Distinctio 22</head>
+            <div xml:id="WuV37d-e86994-Dd1e111" type="circa-textum">
+               <head xml:id="WuV37d-e86994-Hd1e113">Circa textum</head>
+               <p xml:id="WuV37d-e86994-d1e116">
+                  <lb ed="#B" n="16"/>Distinctio. 22. in qua magister agit de 
+      <lb ed="#B" n="17"/>hominis lapsu quantum ad hominis 
+      as<lb ed="#B" n="18" break="no"/>sensum et transgressionem 
+      <lb ed="#B" n="19"/>Avidetur di 
+      <lb ed="#B" n="20"/>ligenter inuestigandum es 
+      <lb ed="#B" n="21"/>se quae fuerit origo et 
+      ra<lb ed="#B" n="22" break="no"/>dix illius peccati etc. 
+      <lb ed="#B" n="23"/>Hic signat. 22. dist. huius 
+      <lb ed="#B" n="24"/>secundi quae sic continuatur ad praecedentem: Nam 
+      post<lb ed="#B" n="25" break="no"/>quam in praecedenti dist. omnnsa est daemonis 
+      tenta<lb ed="#B" n="26" break="no"/>tio. nunc in ista hominis ad peccatum ponitur conde 
+      <lb ed="#B" n="27"/>scensio. Et diuiditur in tres partes principales. 
+      <lb ed="#B" n="28"/>In prima sermo connectitur quo ad materiam. In 
+      <lb ed="#B" n="29"/>secunda an adam quaeritur fec superbiam. In tertia 
+      <lb ed="#B" n="30"/>quaerit an crimen sequitur ignorantiam. prima in prin 
+      <lb ed="#B" n="31"/>cipio. secunda ibi. Quidam putant quandam ela 
+      <lb ed="#B" n="32"/>tionem etc. tertia ibi. His autem opponi solet 
+      <lb ed="#B" n="33"/>etc. Rursus parte prima remanente indiuisa 
+      <lb ed="#B" n="34"/>secunda particula in qua quaeritur an adam pecca 
+      <lb ed="#B" n="35"/>uerit per superbiam: in tres partes diuiditur: In 
+      pri<lb ed="#B" n="36" break="no"/>ma malicia ade seua ponitur genalitur. In 
+      se<lb ed="#B" n="37" break="no"/>cunda de hoc peccato: et eua tractat spanlitur. In 
+      <lb ed="#B" n="38"/>tertia quaerit: quis horum per haec obscena pl 
+      <lb ed="#B" n="39"/>deliquit et grauiter. prima in principio. se 
+      <lb ed="#B" n="40"/>cunda ibi. Et talis quidem elatio in mentem 
+      <lb ed="#B" n="41"/>mulieris etc. tertia ibi. Ex quo manifeste) 
+      <lb ed="#B" n="42"/>aimaduerti potest etc. Et tunc sequitur illa vltima 
+      <lb ed="#B" n="43"/>pars. His autem opponi solet etc in qua quaeritur: 
+      <lb ed="#B" n="44"/>an peccatum hic fuerit ignorantia. In tres par 
+      <lb ed="#B" n="45"/>titur partes principales. In prima quaerit an 
+      <lb ed="#B" n="46"/>ignorantia illud malum praecesserit. In secunda 
+      <lb ed="#B" n="47"/>vum talis malitia primo in his processerit. In 
+      <!--391.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="48"/>tertia an deliquit mentis industria priusquam 
+      ex<lb ed="#B" n="49" break="no"/>tra fecerit. prima in principio. Secunda ibi 
+      <lb ed="#B" n="50"/>Solet etiam quaeri cum sine vitio etc. tertia ibi. 
+      <lb ed="#B" n="51"/>Si vero quaeritur. vtrum voluntas etc. Et 
+      <lb ed="#B" n="52"/>haec est diuisio praesentis etc. 
+      </p>
+            </div>
+            <div xml:id="WuV37d-e86994-Dd1e204">
+               <head xml:id="WuV37d-e86994-Hd1e206">Quaestio</head>
+               <p xml:id="WuV37d-e86994-d1e209">
+                  <lb ed="#B" n="53"/>¶ Quaestio ista tractat de peccato 
+      <lb ed="#B" n="54"/>primorum parentum quantum ad graui 
+      <lb ed="#B" n="55"/>tatis et ignorantiae comparatione. Et 
+      <lb ed="#B" n="56"/>habetur a sco. in isto loco questioe 
+      <lb ed="#B" n="57"/>praecipue. 2. 
+      <lb ed="#B" n="58"/>Utrum nostrorum 
+      <lb ed="#B" n="59"/>parentum cupiditas ex nescientia 
+      <lb ed="#B" n="60"/>vel ignorantia processerit. Et ar 
+      <lb ed="#B" n="61"/>guitur ad partem falsam tribus mediis.
+</p>
+               <p xml:id="WuV37d-e86994-d1e231">
+¶ 
+      Pri<lb ed="#B" n="62" break="no"/>mo arguitur quod eorum peccatum non fuit cupiditas 
+      <lb ed="#B" n="63"/>Impossibile fuit deordinari hominem in po 
+      <lb ed="#B" n="64"/>tentia inferiori: nisi prius esset deordinatus in 
+      <lb ed="#B" n="65"/>potentia superiori. Sed peccatum cupiditatis est 
+      <lb ed="#B" n="66"/>in portione inferiori. ergo oportet quod primo 
+      <lb ed="#B" n="67"/>peccauerit aliquo peccato stante in portione 
+      su<lb ed="#B" n="68" break="no"/>periori. maior patet ex dicto communi doctorum: 
+      <lb ed="#B" n="69"/>stante enim recta ratione in his quae ad deum 
+      <lb ed="#B" n="70"/>stabant cuncta recte in his quae ad rectam ratione: 
+      <lb ed="#B" n="71"/>inferiorem. minor probatur: quia cupiditas est re 
+      <lb ed="#B" n="72"/>spectu temporalium: sicut et auaricia: ista autem tempora 
+      <lb ed="#B" n="73"/>lia sunt portionis inferioris.
+</p>
+               <p xml:id="WuV37d-e86994-d1e260">
+¶ Secundo  
+      <lb ed="#B" n="74"/>arguitur: quod peccatum eorum fuit ex ignorantia. 
+      <lb ed="#B" n="75"/>Omne peccatum aut est ex ignorantia: aut ex 
+      <lb ed="#B" n="76"/>malicia: aut ex ex infirmitate. Sed eorum 
+      <lb ed="#B" n="77"/>peccatum nec fuit ex infirmitate: nec ex ma 
+      <lb ed="#B" n="78"/>licia: ergo fuit ex ignorantia. maior patet 
+      <lb ed="#B" n="79"/>ex philosopho. 5. ethicorum. Sed minor declaratur: non 
+      <lb ed="#B" n="80"/>enim primo fuit ex infirmitate cum naturam 
+      <lb ed="#B" n="81"/>haberent sanam. Non secundo ex malitia quia ta 
+      <lb ed="#B" n="82"/>le ex electione est quo praesupponit consilium: et ita 
+      <lb ed="#B" n="83"/>prius fuisset defectus in consilio et cum defectus 
+      <lb ed="#B" n="84"/>sit paena: poena fuisset ante culpam. relinquitur 
+      <lb ed="#B" n="85"/>igitur quod fuerit ex ignorantia.
+</p>
+               <p xml:id="WuV37d-e86994-d1e289">
+¶ Tertio ar / U 
+      <lb ed="#B" n="86"/>guitur quod in eorum statu nulla fuit 
+      nescien<lb ed="#B" n="87" break="no"/>tia. Si enim habuissent nescientiam aliquam 
+      <lb ed="#B" n="88"/>aut illam voluissent: aut nolu: ssent: sed nec 
+      <lb ed="#B" n="89"/>sic nec sic. igitur: maior patet ex sufficienti di 
+      <lb ed="#B" n="90"/>uisione. Sed minor probatur. primo quod non 
+      <lb ed="#B" n="91"/>voluissent: quia nescientia est pura 
+      nega<lb ed="#B" n="92" break="no"/>tio et ita non habet rationem boni: et ita 
+      <lb ed="#B" n="93"/>nec volibilis: cum omne volitum sub ratio 
+      <lb ed="#B" n="94"/>ne boni sit volitum: ex eo quod bonum est obie 
+      <!--392.xml-->
+      <pb ed="#B" n="188-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>ctum voluntatis: nec potest dici quod 
+      noluis<lb ed="#B" n="2" break="no"/>sent: quia tunc remouere non potuissent: 
+      <lb ed="#B" n="3"/>quin doluissent: et cum dolor sit paena: 
+      pae<lb ed="#B" n="4" break="no"/>na in eis fuisset propter demeritum quod non 
+      <lb ed="#B" n="5"/>videtur.
+</p>
+               <p xml:id="WuV37d-e86994-d1e329">
+¶ In oppositum primi est 
+      magi<lb ed="#B" n="6" break="no"/>ster distinctione praecedenti di. quod his 
+      tri<lb ed="#B" n="7" break="no"/>bus peccatis: auaritia: gula: superbia: 
+      tem<lb ed="#B" n="8" break="no"/>tati sunt: et sunt etiam superati. In 
+      opposi<lb ed="#B" n="9" break="no"/>tum secundi. Uir non est seductus sed 
+      muli<lb ed="#B" n="10" break="no"/>er. In oppositum tertii arguitur 
+      auctori<lb ed="#B" n="11" break="no"/>tate Aug. 11i. super Sen. ad litteram dicentis. 
+      <lb ed="#B" n="12"/>quod adam credidit peccatum suum veniale 
+      fo<lb ed="#B" n="13" break="no"/>re: et per consequens habuit nescientiam: a for 
+      <lb ed="#B" n="14"/>tiori mulier¬ 
+      </p>
+               <p xml:id="WuV37d-e86994-d1e351">
+                  <lb ed="#B" n="15"/>¶ In ista quaestione sunt tres articuli. 
+      <lb ed="#B" n="16"/>Primus est terminorum declaratiuus 
+      <lb ed="#B" n="17"/>Quorum Secundus est quaestionis responsiuus 
+      </p>
+               <p xml:id="WuV37d-e86994-d1e360">
+                  <lb ed="#B" n="18"/>¶ Tertius est dubiorum motiuus; 
+      <lb ed="#B" n="19"/>Quo ad primii articulum 
+      <lb ed="#B" n="20"/>termini sunt 
+      <lb ed="#B" n="21"/>cupiditas: nescientia: et ignorantia.
+</p>
+               <p xml:id="WuV37d-e86994-d1e371">
+¶ 
+      Pri<lb ed="#B" n="22" break="no"/>mus igitur terminus est cupiditas 
+      <lb ed="#B" n="23"/>Unde cupiditas solet accipi tripliciter: vt 
+      <lb ed="#B" n="24"/>notat Tho. in scripto huius distin. arti. 1. 
+      <lb ed="#B" n="25"/>q. 1. in solutione septimi argumenti. Pri 
+      <lb ed="#B" n="26"/>mo modo dicitur cupiditas appetitus 
+      inor<lb ed="#B" n="27" break="no"/>dinatus habendi bona ad vsum praesentis 
+      <lb ed="#B" n="28"/>vitae seruientia: et hoc modo dicitur proprie 
+      auari<lb ed="#B" n="29" break="no"/>tia quae est vnum de septem peccatis capitalibus 
+      <lb ed="#B" n="30"/>Secundo dicitur cupiditas inordinatus mo 
+      <lb ed="#B" n="31"/>tus appetitus ad habendum aliquid: seu 
+      sci<lb ed="#B" n="32" break="no"/>entiam: seu aliam possessionem: et hoc modo 
+      <lb ed="#B" n="33"/>quasi circuit omne peccatum mortale: et sic di 
+      <lb ed="#B" n="34"/>citur peccatum primorum parentum 
+      cupidi<lb ed="#B" n="35" break="no"/>tas: seu auaricia: licet differenter: vt pate 
+      <lb ed="#B" n="36"/>bit sequenti articulo. Istos duos modos 
+      <lb ed="#B" n="37"/>accipiendi cupiditatem tangit aurelius 
+      <lb ed="#B" n="38"/>Aug. super Sen. Tertio modo dicitur 
+      cu<lb ed="#B" n="39" break="no"/>piditas quedam intellectualis nature 
+      pro<lb ed="#B" n="40" break="no"/>nitas ad aliquod inordinatum: et hoc 
+      mo<lb ed="#B" n="41" break="no"/>do dicit Paulus. Radix omnium malorum 
+      <lb ed="#B" n="42"/>estcupiditas: nec tamen hoc modo est peccatum 
+      <lb ed="#B" n="43"/>sed solum vitium seu defectus nature. 
+      </p>
+               <p xml:id="WuV37d-e86994-d1e421">
+                  <lb ed="#B" n="44"/>¶ Secundus terminus est 
+      ignoran<lb ed="#B" n="45" break="no"/>tia. Et tertius est nescietia: vt simils expedi 
+      <lb ed="#B" n="46"/>antur. Noto quod ista tria differunt: nescientia: 
+      <lb ed="#B" n="47"/>ignorantia et error. secundum haec tria negatio 
+      <lb ed="#B" n="48"/>simplex: negatio privationis: et negatio 
+      dis<lb ed="#B" n="49" break="no"/>positionis: nescientia enim solummodo negat sci¬ 
+      <!--392.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>entiam. vnde est in beatis: beati nempe multa 
+      ne<lb ed="#B" n="51" break="no"/>sciunt: de quibus eis quitidie aut quando vult deus 
+      <lb ed="#B" n="52"/>fiunt reuelationes. Ignorantia autem 
+      loquen<lb ed="#B" n="53" break="no"/>do absolute de ea: ponit illam negationem 
+      <lb ed="#B" n="54"/>et cum hoc addit debitum sciendi: ideo dicitur 
+      <lb ed="#B" n="55"/>scilicet negatio priuationis. Error vltra illam 
+      <lb ed="#B" n="56"/>negationem simplicem et debitum sciendi: 
+      ad<lb ed="#B" n="57" break="no"/>dit voluntatis affectationem: aut admin 
+      <lb ed="#B" n="58"/>maliciam: Unde noto rursus: quod ignorantia 
+      di<lb ed="#B" n="59" break="no"/>citur tripliciter. Prima est eorum qui sunt in 
+      <lb ed="#B" n="60"/>via dei: et recedunt eorum mala voluntate: cu 
+      <lb ed="#B" n="61"/>pientes viam dei ignorare: et haec 
+      ignoran<lb ed="#B" n="62" break="no"/>tia dicitur ignorantia erronea. Secundo  
+      <lb ed="#B" n="63"/>dicitur ignorantia eorum qui sunt in via 
+      <lb ed="#B" n="64"/>dei: valentes ad viam ambulare 
+      verita<lb ed="#B" n="65" break="no"/>tis: sed eligunt in tenebris ambulare: et 
+      <lb ed="#B" n="66"/>haec nominatur ignorantia affectata: de qua 
+      <lb ed="#B" n="67"/>bus dicitur. Noluit intelligere: vt bene 
+      <lb ed="#B" n="68"/>ageret. Tertio dicitur ignorantia eorum 
+      <lb ed="#B" n="69"/>qui ex quadam pigricia seu accidia viam 
+      <lb ed="#B" n="70"/>dei nolunt addiscere: et haec dicitur 
+      igno<lb ed="#B" n="71" break="no"/>rantia crassa et supina. Noto tertio: quod ali 
+      <lb ed="#B" n="72"/>quod peccatum est ex ignorantia: sicut cum 
+      <lb ed="#B" n="73"/>ebrius interficit aliquem: de quo dicit philosophus 
+      <lb ed="#B" n="74"/>3. ethicorum. quod duplices meretur 
+      increpa<lb ed="#B" n="75" break="no"/>tiones. Secundo aliquod peccatum est cum 
+      igno<lb ed="#B" n="76" break="no"/>rantia: sicut dum aliquis peccando 
+      omit<lb ed="#B" n="77" break="no"/>tit aliquam circumstantiam nesciens: sicut 
+      lo<lb ed="#B" n="78" break="no"/>quitur in eodem philosophus. Omnis malus 
+      igno<lb ed="#B" n="79" break="no"/>rans. Tertio aliquod peccatum sequitur aliqua 
+      <lb ed="#B" n="80"/>ignorantia: dum ex animi peruersitate in 
+      <lb ed="#B" n="81"/>tellectus obnubilatur: sicuti dicit. 
+      Sap<lb ed="#B" n="82" break="no"/>Excecauit eos malicia eorum. 
+      <lb ed="#B" n="83"/>Quantum ad secundum 
+      arti<lb ed="#B" n="84" break="no"/>culum 
+      <lb ed="#B" n="85"/>sunt tres conclusiones. prima est de peccato ade 
+      <lb ed="#B" n="86"/>secunda de peccato euae. tertia de ignorantia 
+      <lb ed="#B" n="87"/>ad eorum peccata comparata.
+</p>
+               <p xml:id="WuV37d-e86994-d1e523">
+¶ Prima est 
+      <lb ed="#B" n="88"/>haec. Sic superbia elatus et cupiditate 
+      pri<lb ed="#B" n="89" break="no"/>mus parens inflatus est: vt dei non appe 
+      <lb ed="#B" n="90"/>teret directe aequalitatem. Prima pars 
+      <lb ed="#B" n="91"/>dicit quod primus parens peccauit peccato 
+      <lb ed="#B" n="92"/>superbiae. probatur. omne peccatum inobe 
+      <lb ed="#B" n="93"/>dientiae smpecies est superbiae: Sed primus 
+      <lb ed="#B" n="94"/>parens fuit inobediens deo. igitur. Et 
+      <lb ed="#B" n="95"/>hoc dicit apostolus. quod propter inobediem e 
+      <lb ed="#B" n="96"/>tiam vnius hominis mors intrauit in or 
+      <lb ed="#B" n="97"/>bem terrarum. Et augustinus in libro de 
+      <lb ed="#B" n="98"/>vera religione: Adam inquit propter trans 
+      <!--393.xml-->
+      <pb ed="#B" n="188-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>gressionem de paradiso est eiectus. Unde vt 
+      <lb ed="#B" n="2"/>docet doctor deuotus huius dist. arti. 1. 
+      <lb ed="#B" n="3"/>q. 2. peccatum ade ex hoc ternario perfectum 
+      <lb ed="#B" n="4"/>est. Primo si cogitauit magni ponderis 
+      <lb ed="#B" n="5"/>apud deum: et intam vt propter 
+      comestio<lb ed="#B" n="6" break="no"/>nem ligni non incurreret grauitatem 
+      alicu<lb ed="#B" n="7" break="no"/>ius supplicii: vnde suspicatus est pecactum 
+      <lb ed="#B" n="8"/>suum fore veniale. Unde Augustinus super Ben. 
+      <lb ed="#B" n="9"/>dicit: et est in littera. Non est putandum quod homo 
+      <lb ed="#B" n="10"/>a primo statu deiiceretur nisi praecessisset in 
+      <lb ed="#B" n="11"/>eo quedam elatio deprimenda. Secundo 
+      <lb ed="#B" n="12"/>appetiit scire quid sibi eueniret si 
+      come<lb ed="#B" n="13" break="no"/>deret de ligno scientiae boni et mali: non quod 
+      <lb ed="#B" n="14"/>suspicaretur quod esset sicut deus: quia non est 
+      <lb ed="#B" n="15"/>vir seductus: et ista dicitur cupiditas seu 
+      <lb ed="#B" n="16"/>auaricia: de qua loquitur secunda pars con 
+      <lb ed="#B" n="17"/>clusionis. Unde inquit Aug. Uoluit adam 
+      <lb ed="#B" n="18"/>lignum vetitum experiri cum non videret euam 
+      <lb ed="#B" n="19"/>mortuam. Tertio noluit suos contristari 
+      de<lb ed="#B" n="20" break="no"/>litias scilicet vxorem suspicans quod moreretur ni 
+      <lb ed="#B" n="21"/>si ei vt inquit Aug. in facto hoc condescen 
+      <lb ed="#B" n="22"/>underet. Sed tunc quaeritur: quod primum fuit 
+      <lb ed="#B" n="23"/>ade peccatum: doc. subti. videtur dicere. q. 
+      <lb ed="#B" n="24"/>1. huius dist. quod dilectio immoderata 
+      mu<lb ed="#B" n="25" break="no"/>lieris: vnde dicit quod cum sint tria: nolle: velle: 
+      <lb ed="#B" n="26"/>amicitiae: et velle commodi. Dicit quod primum 
+      <lb ed="#B" n="27"/>peccatum suum non fuit nolle: quia omne 
+      nos<lb ed="#B" n="28" break="no"/>le praesupponit aliquod velle: nec secundo fu 
+      <lb ed="#B" n="29"/>it velle amicitie: quia licet angelus pecca 
+      <lb ed="#B" n="30"/>uerit primo amore amicitiae: non est sic de 
+      <lb ed="#B" n="31"/>homine: quia angelus intelligit semper se 
+      pri<lb ed="#B" n="32" break="no"/>mo non sic homo: qui natus est seipsum in 
+      <lb ed="#B" n="33"/>telligere per alia: ideo non peccauit primo 
+      amo<lb ed="#B" n="34" break="no"/>re sui: exquo relinquitur quod peccanit primo 
+      <lb ed="#B" n="35"/>amore commodi proprie scilicet vxoris nimis inor 
+      <lb ed="#B" n="36"/>dinate eam diligens: ex quo patet quod longe 
+      <lb ed="#B" n="37"/>peccatum hominis fuit inferius peccato diaboli. Et 
+      <lb ed="#B" n="38"/>si dicatur: quod modo ista dilectio mulieris 
+      <lb ed="#B" n="39"/>est vltimo a doctore deuoto nominata: et ita 
+      <lb ed="#B" n="40"/>videtur: quod prius peccauit aliis peccatis: 
+      <lb ed="#B" n="41"/>scilicet amore sui: seu illa elatione. secundo 
+      cu<lb ed="#B" n="42" break="no"/>piditate experiendi illud lignum vetitum. 
+      <lb ed="#B" n="43"/>Respondendum quod doctor deuotus non in 
+      <lb ed="#B" n="44"/>tendebat in illa enumeratione ponere or 
+      <lb ed="#B" n="45"/>dinem: sed solum numerum peccatorum 
+      prece<lb ed="#B" n="46" break="no"/>dentium comestionem illius ligni in adam. 
+      <lb ed="#B" n="47"/>Sed detur casus: quod peccasset solum si in 
+      il<lb ed="#B" n="48" break="no"/>la nimia mulieris dilectione fuisset ne de 
+      <lb ed="#B" n="49"/>paradiso eiectus: probabiliter dicitur quod non: quia de 
+      <!--393.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>illa praeceptum singulare seu speciale non 
+      ha<lb ed="#B" n="51" break="no"/>buit. cum enim tria solum fuerint data praecepta 
+      <lb ed="#B" n="52"/>vnum quo ad corpus: de omni ligno quod est in 
+      <lb ed="#B" n="53"/>paradiso comede. secundum quo ad animam de li 
+      <lb ed="#B" n="54"/>gno autem scientiae boni et mali ne comedas: 
+      <lb ed="#B" n="55"/>tertium de multiplicatione speciei. Crescite 
+      <lb ed="#B" n="56"/>et multiplicamini. Sed quod fuit maius peccatum 
+      <lb ed="#B" n="57"/>ade? Dicendum quod inobedientia: dum de 
+      <lb ed="#B" n="58"/>ligno scientiae boni et mali gustauit: tunc nen 
+      <lb ed="#B" n="59"/>pe malicia eius completa fuit: ita quod minus 
+      <lb ed="#B" n="60"/>peccatum fuit ille amor inordinatus mulie 
+      <lb ed="#B" n="61"/>ris: post illa cupiditas: post illa superbia 
+      <lb ed="#B" n="62"/>vltimo illa inobedientia pomum gustando 
+      <lb ed="#B" n="63"/>vetitum. Ex quo infertur primum hominem 
+      <lb ed="#B" n="64"/>genibus multis deliquisse peccatorum.
+</p>
+               <p xml:id="WuV37d-e86994-d1e700">
+¶ 
+      Ter<lb ed="#B" n="65" break="no"/>tia pars conclusionis dicit: quod non appetiit 
+      <lb ed="#B" n="66"/>directe aequalitatem dei. probatur adam mi 
+      <lb ed="#B" n="67"/>norem habuit ad deum similitudinem quam luci 
+      <lb ed="#B" n="68"/>fer: igitur si appetisset aequalitatem dei 
+      vide<lb ed="#B" n="69" break="no"/>tur quod grauius peccasset quam lucifer. Et licet 
+      <lb ed="#B" n="70"/>ratio non concludat: tamen persuasiua est 
+      <lb ed="#B" n="71"/>Unde Aug. super Sen. Non arbitror virum 
+      <lb ed="#B" n="72"/>spirituali mente preditum credere: quod 
+      dia<lb ed="#B" n="73" break="no"/>bolus promittebat. Et si obiiciatur: quod su 
+      <lb ed="#B" n="74"/>per illud pateo. Quae non rapui tunc 
+      exsolue<lb ed="#B" n="75" break="no"/>bam. Dicit glo. quod adam et eua voluerunt ra 
+      <lb ed="#B" n="76"/>pere diuinitatem: et perdiderunt felicitatems 
+      <lb ed="#B" n="77"/>Et greg. dicit. Posse accipere diuinitatem 
+      <lb ed="#B" n="78"/>adam credidit: et immortalitatis gloriam 
+      <lb ed="#B" n="79"/>amisit. Ad has et consimiles auctoritates do 
+      <lb ed="#B" n="80"/>cet doc. deuo. soluere. q. 2. arti. 1. 
+      triplici<lb ed="#B" n="81" break="no"/>ter. Primo vt capitur rapere diuinitatem 
+      con<lb ed="#B" n="82" break="no"/>mumiter quomodo omne peccans mortalitur: vult 
+      es<lb ed="#B" n="83" break="no"/>se aequalis deo: immo maior secundum ansel: 
+      <lb ed="#B" n="84"/>quia vult contra dei mandatum: et ideo dixi directe in 
+      <lb ed="#B" n="85"/>conclusione. Secundo vt intelligatur per adam 
+      <lb ed="#B" n="86"/>mulier: quia de adam sumpta est: tertio quia non 
+      <lb ed="#B" n="87"/>correxit vxorem suam: ideo peccatum eius quadammodo 
+      <lb ed="#B" n="88"/>vergit in caput eius: sicut peccatum subditi in 
+      <lb ed="#B" n="89"/>praelatum dum non facit debitum suum. Et patet quod 
+      <lb ed="#B" n="90"/>defecit sanctus tho. qui. 2. q. primi articuli 
+      <lb ed="#B" n="91"/>voluit quod tam lucifer quam homo appetierunt 
+      <lb ed="#B" n="92"/>esse sicut deus quantum ad aliquem modum: et 
+      <lb ed="#B" n="93"/>hoc verum dicit: sed quod sequitur falsum est. 
+      <lb ed="#B" n="94"/>Inquit enim quod homo voluit: quod per natu 
+      <lb ed="#B" n="95"/>ram propriam et per ligni vitae edulium 
+      du<lb ed="#B" n="96" break="no"/>ctu proprie rationis quam sciebat se 
+      ha<lb ed="#B" n="97" break="no"/>bere a deo decaetero cuncta animalia quibus 
+      prae<lb ed="#B" n="98" break="no"/>erat regeret: nllo decaetero alio sibi dato. 
+      <!--394.xml-->
+      <pb ed="#B" n="189-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>Oppositum patet ex conclusione: vnde secundum 
+      <lb ed="#B" n="2"/>hoc vere fuisset seductus talem quaerens dei 
+      <lb ed="#B" n="3"/>equalitatem qui seipso non per aliud scit re 
+      <lb ed="#B" n="4"/>gere vniuersa: caeterae autem intellectualis 
+      <lb ed="#B" n="5"/>naturae per dona superaddita.
+</p>
+               <p xml:id="WuV37d-e86994-d1e794">
+¶ 
+      Secun<lb ed="#B" n="6" break="no"/>da coclusio est de peccato Eue: et est haec: 
+      di<lb ed="#B" n="7" break="no"/>uinitatis appetitu mulier inflata grauius 
+      <lb ed="#B" n="8"/>peccauit homine. Dicit prima pars conclusio 
+      <lb ed="#B" n="9"/>nis: quod mulier appetiit diuinitatem. probatur 
+      <lb ed="#B" n="10"/>mulier appetiit esum pomi: sed hoc non fu 
+      <lb ed="#B" n="11"/>it propter famen: aut sitim cum nullum pateretur. 
+      <lb ed="#B" n="12"/>igitur propter aliquod aliud motiuum. Sed  
+      <lb ed="#B" n="13"/>nullum videtur aliud: nisi id quod innuebat 
+      sa<lb ed="#B" n="14" break="no"/>thanas. Eritis sicut dii: scientes bonum et 
+      <lb ed="#B" n="15"/>malum. igitur. Et hoc dicit sap. Initium peccati su 
+      <lb ed="#B" n="16"/>perbia: scilicet huius mulieris: quia scribitur 
+      <lb ed="#B" n="17"/>xxv. eiusdem. a muliere initium peccati. Et si 
+      <lb ed="#B" n="18"/>obiiciatur: quia scribitur. Uidens mulier 
+      li<lb ed="#B" n="19" break="no"/>gnum: quod erat pulcherrimum visu: et ad vescen 
+      <lb ed="#B" n="20"/>dum suaue etc. et ita peccauit gula: non illo 
+      <lb ed="#B" n="21"/>appetitu deitatis. Respondendum: quod diabo 
+      <lb ed="#B" n="22"/>lus in illo verbo: Eritis sicut dii etc. 
+      pro<lb ed="#B" n="23" break="no"/>mittebat tria: secundum tres felicitatis conditi 
+      <lb ed="#B" n="24"/>ones. Est enim primo felicitas guliosa: et hoc 
+      tan<lb ed="#B" n="25" break="no"/>git dum dicit: eritis sicut dii: in hoc enim 
+      indu<lb ed="#B" n="26" break="no"/>cebat mulierem ad appetendum equalitatem 
+      <lb ed="#B" n="27"/>dei. Secundo est copiosa: ideo dicit scientes bonum et 
+      <lb ed="#B" n="28"/>malum: et inducebat ad cupiditatem: capiendo 
+      <lb ed="#B" n="29"/>tupiditatem vt dictum est in primo arti. Tertio 
+      <lb ed="#B" n="30"/>dum vidit mulier lignum pulchrum: visu 
+      indu<lb ed="#B" n="31" break="no"/>cta est ad gulam: sicut felicitas est: tertio 
+      <lb ed="#B" n="32"/>deliciosa: et ita nihil prohibet eam pluribus 
+      <lb ed="#B" n="33"/>peccasse generibus peccatorum. Sed 
+      pec<lb ed="#B" n="34" break="no"/>cauit ne peccato infidelitatis: quia respondit 
+      <lb ed="#B" n="35"/>daemoni: ne forte moriamur. Respondendum 
+      <lb ed="#B" n="36"/>quod non. Non enim dubitauit quin dei dictum 
+      <lb ed="#B" n="37"/>foret verum. Sed dubitabat quomodo intellige 
+      <lb ed="#B" n="38"/>retur aut de morte corporali aut alas. 
+      <lb ed="#B" n="39"/>Sed dicit alia pars conclusionis: quod peccatum Cue 
+      <lb ed="#B" n="40"/>fuit grauius peccato ade probatur: secundum maius 
+      <lb ed="#B" n="41"/>motiuum: debet peccatum maius censeri: sed ma 
+      <lb ed="#B" n="42"/>ius fuit ad quod mouebatur mulier quam vir: quia 
+      <lb ed="#B" n="43"/>ad aequalitatem dei. igitur. Confirmatur: quia 
+      <lb ed="#B" n="44"/>maior poena datur maiori delicto: mulier 
+      <lb ed="#B" n="45"/>autem plus est punita quam vir: vt patet. Et pa 
+      <lb ed="#B" n="46"/>tet tertio: quia mulier fuit occasio 
+      pecca<lb ed="#B" n="47" break="no"/>ti viri. igitur. Et si obiiciatur: quia vir erat 
+      per<lb ed="#B" n="48" break="no"/>fectior: et ita a maiori cecidit statu: tum quia 
+      <lb ed="#B" n="49"/>peccatum eius magis nocuit. Dicendum quod loquem¬ 
+      <!--394.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>do simpliciter peccatum euae fuit maius peccato 
+      <lb ed="#B" n="51"/>ade: et si fuissent in inferno magis fuisset eua 
+      <lb ed="#B" n="52"/>cruciata quam adam: quia ex maiori peccauit 
+      <lb ed="#B" n="53"/>libidie: nihilominus quo ad aliquas differias 
+      <lb ed="#B" n="54"/>nihil differt dicere: quia peccatum ade fuit maius 
+      <lb ed="#B" n="55"/>Et si quaeratur: an si sola mulier peccasset fu 
+      <lb ed="#B" n="56"/>isset transfusio originalis ad posterius. 
+      Di<lb ed="#B" n="57" break="no"/>cendum quod non: vnde credendum: quod dominus ade vnam 
+      <lb ed="#B" n="58"/>aliam dedisset vxorem propter multiplicatio 
+      <lb ed="#B" n="59"/>nem humani generem.
+</p>
+               <p xml:id="WuV37d-e86994-d1e918">
+¶ Tertia conclusio est 
+      <lb ed="#B" n="60"/>de ignorantia comparata ad peccata primorum 
+      <lb ed="#B" n="61"/>parentum: et est haec. Sic nescientia eorum prae 
+      <lb ed="#B" n="62"/>cessit peccatum: vt ignorantia non peccaret. 
+      <lb ed="#B" n="63"/>Dicit prima pars: quod antequam peccarent 
+      <lb ed="#B" n="64"/>pabuerunt aliquam nescientiam: probatur: omnis 
+      <lb ed="#B" n="65"/>credens mortale esse veniale: habet aliquam 
+      <lb ed="#B" n="66"/>nescientiam: sed hoc credidit adam. igitur. 
+      <lb ed="#B" n="67"/>Et patet de eua: serpens inquit decepit me 
+      <lb ed="#B" n="68"/>vnde non est verisimile: quod si sciuissent tantam 
+      <lb ed="#B" n="69"/>paenam consecutam fuisse peccatum eorum: quod 
+      peccas<lb ed="#B" n="70" break="no"/>sent. Sed quaeritur quae fuit ista nescientia: 
+      <lb ed="#B" n="71"/>an iuris: an facti: an vincibilis vel inuinci 
+      <lb ed="#B" n="72"/>bilis: et vnde habuit ortum:
+</p>
+               <p xml:id="WuV37d-e86994-d1e949">
+¶ Dicendum 
+      <lb ed="#B" n="73"/>ad primum: quod non fuit iuris quo ad 
+      princi<lb ed="#B" n="74" break="no"/>pale: sciebant enim praeceptum domini emanasse:  
+      <lb ed="#B" n="75"/>fuit tamen quo ad circumstantiam: dum 
+      nescie<lb ed="#B" n="76" break="no"/>pant tantam paenam consequi. Non erat autem 
+      <lb ed="#B" n="77"/>alia nescientia in facto: sciebant enim quod 
+      domini<lb ed="#B" n="78" break="no"/>cum frangebant praeceptum.
+</p>
+               <p xml:id="WuV37d-e86994-d1e965">
+¶ Ad secundum 
+      <lb ed="#B" n="79"/>dicendum: quod fuit vincibilis. vnde si 
+      voluis<lb ed="#B" n="80" break="no"/>sent potuissent conferre adinuicem dominicum 
+      <lb ed="#B" n="81"/>praeceptum: et deus non subtraxisset manum 
+      <lb ed="#B" n="82"/>suam: et ita inuenissent: quod quanto praeceptum 
+      <lb ed="#B" n="83"/>est facilius ad custodiendum: quod si frangatur 
+      <lb ed="#B" n="84"/>punitio debet esse maior: de statu eorum et 
+      <lb ed="#B" n="85"/>etiam aliis cogitassent.
+</p>
+               <p xml:id="WuV37d-e86994-d1e983">
+¶ Ad tertium autem 
+      <lb ed="#B" n="86"/>vnde habeat ortum ista nescientia in nobis 
+      <lb ed="#B" n="87"/>Dicendum quod quia sumus creature nequimus 
+      <lb ed="#B" n="88"/>omnia scire immo est in angelis: nec est eis 
+      pae<lb ed="#B" n="89" break="no"/>na. Et si dicatur: quia tunc non habuissent 
+      sta<lb ed="#B" n="90" break="no"/>tum perfectum. Dicendum quod habuerunt sta 
+      <lb ed="#B" n="91"/>tum perfectum secundum exigentiam conditionis. 
+      <lb ed="#B" n="92"/>non autem simpliciter: si enim stetissent: longe 
+      <lb ed="#B" n="93"/>maiorem habuissent. Secunda pars dicit quod 
+      <lb ed="#B" n="94"/>non peccauerunt per ignorantiam. probatur: quia 
+      <lb ed="#B" n="95"/>gnorantia est poena. Unde inquit Augustinus in 
+      <lb ed="#B" n="96"/>enchiridion: quod inflicta est nobis 
+      ignoran<lb ed="#B" n="97" break="no"/>tia rerum agendarum: et concupiscentia noxiarum. 
+      <lb ed="#B" n="98"/>Et heda dicit: infirmitatem ignorantiam: 
+      <!--395.xml-->
+      <pb ed="#B" n="189-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>concupiscentiam et maliciam propter peccatum 
+      <lb ed="#B" n="2"/>fuisse nobis inflictam: sed poena non 
+      preces<lb ed="#B" n="3" break="no"/>sit peccatum. igitur. vnde potest bene con 
+      <lb ed="#B" n="4"/>cedi: quod peccauerunt ignorantes inquantum 
+      <lb ed="#B" n="5"/>peccatum concomitatur quaedam ignorantia: sicut 
+      di<lb ed="#B" n="6" break="no"/>cit pitatur. Omnis malus ignorans: non tamen 
+      <lb ed="#B" n="7"/>ex ignorantia: vt ignorantia esset quasi 
+      cau<lb ed="#B" n="8" break="no"/>sa peccati eorum. Sed est ne de se 
+      ignoran<lb ed="#B" n="9" break="no"/>tia peccatum sequestrato actu voluntatis Tho. 
+      <lb ed="#B" n="10"/>videtur dicere quod sic: verius tamen videtur dicen 
+      <lb ed="#B" n="11"/>dum quod non: quia omne peccatum formaliter est in vo 
+      <lb ed="#B" n="12"/>luntate vel ratione portione inferioris vel supe 
+      <lb ed="#B" n="13"/>rioris. Unde inquit Aug. quod omne peccatum adeo 
+      <lb ed="#B" n="14"/>est voluntarium: quod si non est voluntarium: non est 
+      <lb ed="#B" n="15"/>peccatum. Et confirmatur: quia iusticia solum est in vo 
+      <lb ed="#B" n="16"/>luntate: ergo a simili et iniusticia cum idem sit 
+      <lb ed="#B" n="17"/>subiectum oppositorum: vnde et ignorantia inquan 
+      <lb ed="#B" n="18"/>tum sic solet excusare peccatum: aut ex toto 
+      <lb ed="#B" n="19"/>aut ex parte: si inuincibilis ex toto: si 
+      vin<lb ed="#B" n="20" break="no"/>cibilis secundum quantitatem diligentiae 
+      adhi<lb ed="#B" n="21" break="no"/>bite ad sciendum: vnde et si dicatur aliquo 
+      <lb ed="#B" n="22"/>tiens aggrauare non est ratione sui sed 
+      con<lb ed="#B" n="23" break="no"/>temptus annexi aut periculi: sicut est 
+      il<lb ed="#B" n="24" break="no"/>lud. Ignorans ignorabitur. Ubi dicit Am 
+      <lb ed="#B" n="25"/>bro. quod quis grauissime peccat cum igno 
+      <lb ed="#B" n="26"/>rat: debet intelligi grauissime: id est 
+      peri<lb ed="#B" n="27" break="no"/>culosissime: quia nescit infirmitatem suam: et ita 
+      <lb ed="#B" n="28"/>non adhibet remedium: sicut patet in paralitico 
+      <lb ed="#B" n="29"/>non sentiente morbum paralisis. Et si dicatur quod 
+      <lb ed="#B" n="30"/>ebrius duplices meretur increpationes: et 
+      <lb ed="#B" n="31"/>ita videtur quod augmentet plus peccatum quam mi 
+      <lb ed="#B" n="32"/>nuat. Respondendum quod in ebrio faciente 
+      <lb ed="#B" n="33"/>malum sunt duo: ipsa ebrietas quam concomi 
+      <lb ed="#B" n="34"/>tatur ignorantia quam sibi fecit. Secundo  
+      <lb ed="#B" n="35"/>ipsa malicia quam ex ignorantia in illa ebrie 
+      <lb ed="#B" n="36"/>tate perpetrauit et quodlibet horum tam scilice 
+      <lb ed="#B" n="37"/>ipsa ebrietas quam ipsum malum opus in ebri 
+      <lb ed="#B" n="38"/>etate operatum paenam exigit: ideo duplices 
+      <lb ed="#B" n="39"/>requirit increpationes: id est duas poenas: 
+      <lb ed="#B" n="40"/>non tamen oportet: quod sint ita magne si 
+      <lb ed="#B" n="41"/>cut si peccatum fuisset factum in sano cerebro: 
+      <lb ed="#B" n="42"/>patet exemplo: longe amplius peccasset 
+      <lb ed="#B" n="43"/>Loth si non ebrius suas filias 
+      cognouis<lb ed="#B" n="44" break="no"/>fet quam ebrius: et maior ei increpatio seu 
+      pe<lb ed="#B" n="45" break="no"/>na imposita fuisset. 
+      <lb ed="#B" n="46"/>Quantum ad tertium 
+      articu<lb ed="#B" n="47" break="no"/>lum sunt 
+      <lb ed="#B" n="48"/>tres etc:
+</p>
+               <p xml:id="WuV37d-e86994-d1e1125">
+¶ Prima difficultas. Cuius 
+      <lb ed="#B" n="49"/>generis fuit illa arbor scientiae boni et ma¬ 
+      <!--395.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>li: videtur respondere Aug. in iponosticon: 
+      <lb ed="#B" n="51"/>quod fuerit ficus: vnde et de illa arbore 
+      fece<lb ed="#B" n="52" break="no"/>runt sibi perisomata: et hoc innuit dictum 
+      <lb ed="#B" n="53"/>christi ad nathanael. Uidi inquit te sub fi 
+      <lb ed="#B" n="54"/>cu. glo id est in potentia generatiua. 
+</p>
+               <p xml:id="WuV37d-e86994-d1e1145">
+¶ Nota 
+      <lb ed="#B" n="55"/>christus vidit nathanael sub ficu id est poten 
+      <lb ed="#B" n="56"/>tia generatiua quae fuit in adam: quando adam sub 
+      <lb ed="#B" n="57"/>ficu vel arbore scientiae boni et mali vidit 
+      <lb ed="#B" n="58"/>tunc omnes vidit descensuros ab adam per potentiam 
+      <lb ed="#B" n="59"/>generatiuam.
+</p>
+               <p xml:id="WuV37d-e86994-d1e1158">
+¶ Secunda difficltas. quod 
+      <lb ed="#B" n="60"/>fuit primum euae peccatum: potest dici probabiliter: et 
+      <lb ed="#B" n="61"/>quod appetitus comedendi de ligno scientiae bo /¬/ 
+      <lb ed="#B" n="62"/>ni et mali: quod ei apparuerat pulchrum visu: 
+      <lb ed="#B" n="63"/>vt a minori peccato suo sicuti adam ad maius 
+      la<lb ed="#B" n="64" break="no"/>beretur: minus quippe fuit ille appetitus quam 
+      <lb ed="#B" n="65"/>cupiditas scientie boni et mali. minus hoc qua 
+      <lb ed="#B" n="66"/>appetitus aequilitatis dei.
+</p>
+               <p xml:id="WuV37d-e86994-d1e1176">
+¶ Tertia diff 
+      <lb ed="#B" n="67"/>cultas. an illa nescientia excusaret peccatum: et 
+      <lb ed="#B" n="68"/>dicendum quod sic: sicuti dictum est de ignorantia in 
+      <lb ed="#B" n="69"/>suo modo. Et ex hoc patet ad questionem: quod vicem 
+      <lb ed="#B" n="70"/>nostrorum primorum parentum cupiditas ex 
+      nesci<lb ed="#B" n="71" break="no"/>entia processit.
+</p>
+               <p xml:id="WuV37d-e86994-d1e1189">
+¶ Ad primum argumentum. A 
+      <lb ed="#B" n="72"/>neganda est minor: et dum probatur: quia cupiditas 
+      <lb ed="#B" n="73"/>est respectu temporalium. Dicendum quod in quolibet 
+      <lb ed="#B" n="74"/>peccato mortali sunt duo et auersio: per quod 
+      de<lb ed="#B" n="75" break="no"/>ordinatur peccans respectu dei: et conuersio per 
+      <lb ed="#B" n="76"/>quod ordinatur respectu creati: ideo non concludit 
+      <lb ed="#B" n="77"/>argumtum.
+</p>
+               <p xml:id="WuV37d-e86994-d1e1205">
+¶ Ad secundum dicendum: quod illa 
+      di<lb ed="#B" n="78" break="no"/>uisio solum habet locum in statu naturae lapse 
+      <lb ed="#B" n="79"/>non institute: vnde siquidem fuit peccatum eorum cum 
+      <lb ed="#B" n="80"/>aliquali nescientia non tamen ex ignorantia vt 
+      <lb ed="#B" n="81"/>patuit.
+</p>
+               <p xml:id="WuV37d-e86994-d1e1217">
+¶ Ad tertium respondendum: quod nec lo et 
+      <lb ed="#B" n="82"/>quendo proprie respectu illius nescientie habuis 
+      <lb ed="#B" n="83"/>sent nolle aut velle: sicut innuunt 
+      argumen<lb ed="#B" n="84" break="no"/>ta: habuissent tamen non velle qui est actus oppo 
+      <lb ed="#B" n="85"/>situs contradictorie velle: sicut nolle contrarie: 
+      <lb ed="#B" n="86"/>nec inducit paenam: solum enim suspensionem: seu 
+      <lb ed="#B" n="87"/>non elicionem actus nominat.
+</p>
+            </div>
+            <div xml:id="WuV37d-e86994-Dd1e1234" type="et-conclusiones">
+               <head xml:id="WuV37d-e86994-Hd1e1236">Conclusiones</head>
+               <p xml:id="WuV37d-e86994-d1e1239">
+¶ Ex praesenti autem 
+      <lb ed="#B" n="88"/>dist. etc. Prima conclusio: adam non dicitur vt lc 
+      <lb ed="#B" n="89"/>eua elatus: sed neque seductus a nobis poni sin 
+      <lb ed="#B" n="90"/>tur. Dicit conclusio quod non peccauit per 
+      elatio<lb ed="#B" n="91" break="no"/>nem appetendo diuinitatem adam sicut eua: nec 
+      <lb ed="#B" n="92"/>fuit seductus sicut ipsa: et incipit a principio 
+      <lb ed="#B" n="93"/>dist. vsque ibi. Ex quo manifeste etc.
+</p>
+               <p xml:id="WuV37d-e86994-d1e1255">
+¶ 
+      Secun<lb ed="#B" n="94" break="no"/>da conclusio: peccatum grauius eue recensetur atque 
+      <lb ed="#B" n="95"/>turpius quam ade fatetur. Dicit conclusio: quod peccatum 
+      <lb ed="#B" n="96"/>eue fuit grauius quam peccatum ade: et incipit ibi: 
+      <lb ed="#B" n="97"/>Ex quo manifeste. vsque ibi. His autem opponi 
+      <lb ed="#B" n="98"/>etc.
+</p>
+               <p xml:id="WuV37d-e86994-d1e1268">
+¶ Tertia conclusio: haec ignorantia non ex¬ 
+      <!--396.xml-->
+      <pb ed="#B" n="190-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>cusat taliter euam mortaliter quin peccet 
+      <lb ed="#B" n="2"/>couscia. Dicit conclusio quod illa seductio 
+      <lb ed="#B" n="3"/>facta eue a serpente non sic excusat eam quin 
+      <lb ed="#B" n="4"/>peccauerit mortaliter gustando. Et icipit 
+      <lb ed="#B" n="5"/>ibi: His autem opponitur etc. vsque ad finem dist. 
+</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

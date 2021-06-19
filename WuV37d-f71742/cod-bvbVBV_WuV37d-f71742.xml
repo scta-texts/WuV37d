@@ -1,0 +1,745 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 17</title>
+            <author ref="#WilliamDeVaurouillon">William de Vaurouillon</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 17</title>
+               <date when="2021-06-19">June 19, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-bvbVBV">Basel 1510</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-06-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="372-r"/>
+            <cb ed="#B" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="WuV37d-f71742"><!-- l4d17 -->
+            <head xml:id="WuV37d-f71742-Hd1e108">Distinctio 17</head>
+            <div xml:id="WuV37d-f71742-Dd1e111" type="circa-textum">
+               <head xml:id="WuV37d-f71742-Hd1e113">Circa textum</head>
+               <p xml:id="WuV37d-f71742-d1e116">
+                  <lb ed="#B" n="76"/>Distinctio decimaseptima huius 
+      <lb ed="#B" n="77"/>quarti docens de cofessione 
+      sacra<lb ed="#B" n="78" break="no"/>mentali ex parte confitetis.
+    </p>
+               <p xml:id="WuV37d-f71742-d1e125">
+                  <lb ed="#B" n="79"/>Ic oritur quoe 
+      <lb ed="#B" n="80"/>stio multiplex. Primo 
+      <lb ed="#B" n="81"/>enim quaeritur vtrum 
+      <lb ed="#B" n="82"/>absque satisfactione et 
+      <lb ed="#B" n="83"/> oris cofessione per so 
+      <lb ed="#B" n="84"/>lam cordis contritione peccatum ali 
+      <lb ed="#B" n="85"/>cui dimittatur. Hic signatur. 17. distin. 
+      <lb ed="#B" n="86"/>huius quarti: quae ita habet continuari ad 
+      <lb ed="#B" n="87"/>praecedentes: Nam postquam magister distin. 
+      <lb ed="#B" n="88"/>14. et. 15. manifestauit quid poenitentia 
+      ha<lb ed="#B" n="89" break="no"/>bet interius: et secundo elucidauit quid ei 
+      <lb ed="#B" n="90"/>sit exterius in distin. 16. Nunc in hac prae 
+      <lb ed="#B" n="91"/>senti distincti. clarificat quis ministret ei 
+      <lb ed="#B" n="92"/>exterius. Et habet diuidi praesens dis. in tres 
+      <lb ed="#B" n="93"/>partes principales secundum tres conclusiones. In pria 
+      <lb ed="#B" n="94"/>quaerit vtrum confessio sit necessaria 
+      pecca<lb ed="#B" n="95" break="no"/>tori ad iustificationem. In secunda / an confi 
+      <!--761.xml-->
+      <pb ed="#B" n="372-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>teri corde sufficiat: vel sit necesse per prola 
+      <lb ed="#B" n="2"/>tionem. In tertia / cui est necesse confiteri vel 
+      <lb ed="#B" n="3"/>suam facere confessionem. Prima in principio 
+      <lb ed="#B" n="4"/>Secunda ibi. Iam secundum quaestionis articu 
+      <lb ed="#B" n="5"/>lum inspiciamus etc. Tertia ibi. Nunc priusquam 
+      <lb ed="#B" n="6"/>praemissis auctoritatibus etc. 
+    </p>
+            </div>
+            <div xml:id="WuV37d-f71742-Dd1e185">
+               <head xml:id="WuV37d-f71742-Hd1e187">Quaestio</head>
+               <p xml:id="WuV37d-f71742-d1e190">
+                  <lb ed="#B" n="7"/>Questio haec declarat cui sit 
+      confi<lb ed="#B" n="8" break="no"/>tendum et quis debeat cofiteri: et habetur) 
+      <lb ed="#B" n="9"/>a Sco. lib. 4. dis. 17. q. vnica. 
+      <lb ed="#B" n="10"/>Utrum annos 
+      di<lb ed="#B" n="11" break="no"/>scretionis habenti ad iustifica 
+      <lb ed="#B" n="12"/>tionem habendam necesse sit confi 
+      <lb ed="#B" n="13"/>teri omnia peccata sua proprio sacerdoti: Et 
+      <lb ed="#B" n="14"/>arguitur quod non tripliciter.
+</p>
+               <p xml:id="WuV37d-f71742-d1e210">
+¶ Primo sic. 
+      <lb ed="#B" n="15"/>Confessio non est contenta in aliquo 
+      praece<lb ed="#B" n="16" break="no"/>pto decalogi: ergo non est necessaria ad sa 
+      <lb ed="#B" n="17"/>lutem simpliciter. Antecedens patet: quia 
+      <lb ed="#B" n="18"/>enim decalogus erat de lege nature 
+      admi<lb ed="#B" n="19" break="no"/>nus obligabantur in lege mosayca ad 
+      cu<lb ed="#B" n="20" break="no"/>stodiendum decalogum: non autem erant 
+      obli<lb ed="#B" n="21" break="no"/>gati ad faciendum confessionem sacramentalem. 
+      <lb ed="#B" n="22"/>Patet consequentia: quia decalogus sufficie. 
+      <lb ed="#B" n="23"/>bat ad vitam aeternam. Tum primo. Si vis 
+      <lb ed="#B" n="24"/>ad vitam ingredi serua mandata. Tum se 
+      <lb ed="#B" n="25"/>cundo. Praecepta nosti. Tum tertio. Hoc 
+      <lb ed="#B" n="26"/>fac et viues.
+</p>
+               <p xml:id="WuV37d-f71742-d1e239">
+¶ Secundo arguitur sic: Nul 
+      <lb ed="#B" n="27"/>lus obligatur ad impossibile: igitur non om 
+      <lb ed="#B" n="28"/>nis habens discretionis annos tenetur etc. 
+      <lb ed="#B" n="29"/>Patet antecedens. Unde Hiero. in 
+      epi<lb ed="#B" n="30" break="no"/>stola de explanatione fidei catholice ad  
+      <lb ed="#B" n="31"/>damasum papam. Qui dicit / deum praecepisse 
+      <lb ed="#B" n="32"/>impossibile anathema sit. Patet consequem 
+      <lb ed="#B" n="33"/>tia: quia mutus non potest loqui.
+</p>
+               <p xml:id="WuV37d-f71742-d1e257">
+¶ 
+      Ter<lb ed="#B" n="34" break="no"/>tio arguitur sic. Nullus tenetur mentiri: 
+      er<lb ed="#B" n="35" break="no"/>go non omnis habens discretionis annos 
+      te<lb ed="#B" n="36" break="no"/>netur etc. Patet consequentia: quia deo 
+      pro<lb ed="#B" n="37" break="no"/>pitio sunt multi qui non peccant 
+      mortali<lb ed="#B" n="38" break="no"/>ter per totum annum: mentirentur autem si di 
+      <lb ed="#B" n="39"/>cerent se peccasse mortaliter. Antecedens 
+      <lb ed="#B" n="40"/>patet: quinimo tenetur non mentiri saltems 
+      <lb ed="#B" n="41"/>pernitiosae. Oppositum Ambro. in lib. 
+      <lb ed="#B" n="42"/>de paradiso: Non potest quisquam iustificari a 
+      <lb ed="#B" n="43"/>peccato nisi ante peccatum fuerit confessus. 
+      <lb ed="#B" n="44"/>Secundo Aug. Nemo dicat sibi occulte: 
+      <lb ed="#B" n="45"/>ago poenitentiam nouit deus quia in corde 
+      <lb ed="#B" n="46"/>ago: et sequitur: ergo sine causa dictum est: 
+      <!--761.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="47"/>quae solueritis in terra: soluta erunt in 
+      cae<lb ed="#B" n="48" break="no"/>lo: ergo sine causa claues date sunt 
+      fru<lb ed="#B" n="49" break="no"/>stramus verbum christi. Tertio idem super 
+      <lb ed="#B" n="50"/>illum locum pates. Non absorbeat me profun 
+      <lb ed="#B" n="51"/>dum: puteus est profunditas iniquitatis:  
+      <lb ed="#B" n="52"/>in quem si cecideris non claudet super teos 
+      <lb ed="#B" n="53"/>suum si tu non claudis os tuum.
+</p>
+               <p xml:id="WuV37d-f71742-d1e308">
+¶ In ista 
+      <lb ed="#B" n="54"/>quaestione tres sunt etc. 
+      <lb ed="#B" n="55"/>Primus est terminorum 
+      decla<lb ed="#B" n="56" break="no"/>Quorumratiuus  
+      <lb ed="#B" n="57"/>Secundus est quaestionis responsiuus 
+      <lb ed="#B" n="58"/>Tertius est terminorum motiuus 
+      <lb ed="#B" n="59"/>Quo ad primum articulum 
+      <lb ed="#B" n="60"/>cermini sunt 
+      <lb ed="#B" n="61"/>iustificatio / anni discretionis / proprius 
+      sa<lb ed="#B" n="62" break="no"/>cerdos.
+</p>
+               <p xml:id="WuV37d-f71742-d1e330">
+¶ Primus terminus est iu 
+      <lb ed="#B" n="63"/>stificatio quauis de iusticia dictum sit lib. 
+      <lb ed="#B" n="64"/>2. distin. 20. in secundo termino: et amplius 
+      <lb ed="#B" n="65"/>lib. 3. dist. 33. termino primo. Tamen de prae 
+      <lb ed="#B" n="66"/>senti est notandum / quod iustificatio est quedam 
+      <lb ed="#B" n="67"/>dispositio in iustificato: quae fit a 
+      iustifican<lb ed="#B" n="68" break="no"/>te effectiue: sed a iusticia quae in proposito 
+      <lb ed="#B" n="69"/>vocatur charitas formaliter. Ex quo sequi 
+      <lb ed="#B" n="70"/>tur quod sunt tres iustificationes. Primo 
+      iu<lb ed="#B" n="71" break="no"/>stificatio iustificantis effectiue: et est deus 
+      <lb ed="#B" n="72"/>secundum connotatum et nominat actionem apud pro 
+      <lb ed="#B" n="73"/>ductionem formaliter. Secundo iustificatio 
+      <lb ed="#B" n="74"/>formalis: et dicitur a turonemsi fratre 
+      Nico<lb ed="#B" n="75" break="no"/>lao boneti in suis praedicamentis: in praedicamen 
+      <lb ed="#B" n="76"/>to qualitatis actus forme: nec differt vt 
+      <lb ed="#B" n="77"/>quidam dicunt a forma realiter. Sed contrat 
+      <lb ed="#B" n="78"/>quia potest esse separata iusticia creata 
+      po<lb ed="#B" n="79" break="no"/>tentia diuina absoluta a quocumque iusto: et 
+      <lb ed="#B" n="80"/>tunc non iustificabit: erit ergo sine actu for 
+      <lb ed="#B" n="81"/>mali: ergo non sunt idem realiter. Sic enim 
+      <lb ed="#B" n="82"/>arguit philosophus. in. 7. thopitur. de 
+      eo<lb ed="#B" n="83" break="no"/>dem et diuerso. Tertio iustificatio quae est 
+      <lb ed="#B" n="84"/>passio: iuxta philosophi dictum in. 3. de 
+      ani<lb ed="#B" n="85" break="no"/>ma. Intelligere est quoddam pati: sicut enim 
+      <lb ed="#B" n="86"/>intelligimus non inquantum producimus 
+      in<lb ed="#B" n="87" break="no"/>tellectionem: sed inquantum suscipimus: sic 
+      <lb ed="#B" n="88"/>iustificamur inquantum iusticia informa. 
+      <lb ed="#B" n="89"/>mur. Et notandum quod huiusmodi 
+      iustifica<lb ed="#B" n="90" break="no"/>tio dicitur tripliciter. Primo modo ad 
+      iu<lb ed="#B" n="91" break="no"/>sticiam praeparatio. Secundo iusticiae: id est 
+      <lb ed="#B" n="92"/>charitatis infusio. Tertio in iusticia exer 
+      <lb ed="#B" n="93"/>citatio. In primo attritio. In secundo 
+      con<lb ed="#B" n="94" break="no"/>tritio. In tertio prosecutio.
+</p>
+               <p xml:id="WuV37d-f71742-d1e402">
+¶ Secundus 
+      <lb ed="#B" n="95"/>terminus est anni discretionis. Slo. 
+      <!--762.xml-->
+      <pb ed="#B" n="373-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>extra de poenitem. et remissio. Omnis 
+      vtri<lb ed="#B" n="2" break="no"/>usque sexus: dicit super illo verbo: annos 
+      di<lb ed="#B" n="3" break="no"/>scretionis: id est cum est doli capax: quod 
+      citi<lb ed="#B" n="4" break="no"/>us fit in vno quam in alio vt videmus. Et hoc 
+      <lb ed="#B" n="5"/>notat frater Richar. in praesenti distin. arti 
+      <lb ed="#B" n="6"/>cu. 2. q. 4. soluendo sextum argumentum. 
+      </p>
+               <p xml:id="WuV37d-f71742-d1e426">
+                  <lb ed="#B" n="7"/>¶ Tertius terminus est pro prius sa 
+      <lb ed="#B" n="8"/>cerdos. Unde notandum quod proprius 
+      sacer<lb ed="#B" n="9" break="no"/>dos dicitur tripliciter: vt notat doctor 
+      de<lb ed="#B" n="10" break="no"/>uotus in tertia parte praesentis distin. artitc. i. 
+      <lb ed="#B" n="11"/>q. 2. communissime: communiter: et proprie. 
+      <lb ed="#B" n="12"/>Communissime dicitur proprius sacerdos qui 
+      <lb ed="#B" n="13"/>potest confitentem absoluere: siue per 
+      pro<lb ed="#B" n="14" break="no"/>priam auctoritatem: siue per commissionem vel 
+      <lb ed="#B" n="15"/>demandationem: vt sunt illi qui priuilegium 
+      <lb ed="#B" n="16"/>habent praedicandi: et dum praedicant audire 
+      com<lb ed="#B" n="17" break="no"/>fessiones. Communiter vero dicitur proprius 
+      <lb ed="#B" n="18"/>sacerdos omnis ille qui ex propria 
+      autctori<lb ed="#B" n="19" break="no"/>tate et officio tanquam praelatus ordinarius po 
+      <lb ed="#B" n="20"/>test absoluere: vt episcopus. Proprie vero 
+      pro<lb ed="#B" n="21" break="no"/>prius sacerdos dicitur qui administrat 
+      sa<lb ed="#B" n="22" break="no"/>cramenta: et cui commissa est specialis cura: 
+      <lb ed="#B" n="23"/>et iste est sacerdos parrochialis: vnde 
+      in<lb ed="#B" n="24" break="no"/>fra dicit. quod confessi priuilegiatis debent 
+      in<lb ed="#B" n="25" break="no"/>duci vt confiteantur semel in anno suo 
+      pro<lb ed="#B" n="26" break="no"/>prio curato: et credit quod tenentur quando 
+      cu<lb ed="#B" n="27" break="no"/>rati sunt boni et idonei: et ab eis exigitur 
+      com<lb ed="#B" n="28" break="no"/>fessio: quia huiusmodi priuilegium datum 
+      <lb ed="#B" n="29"/>est in fauorem populi: et priuilegiatus non ha 
+      <lb ed="#B" n="30"/>bet commissionem nisi in casu: scilicet quando 
+      sa<lb ed="#B" n="31" break="no"/>cerdos non est idoneus: aut alia legittima 
+      <lb ed="#B" n="32"/>causa. Si enim inquit haberent priuilegiati 
+      <lb ed="#B" n="33"/>commissionem plenariam: idem esset iudicium 
+      <lb ed="#B" n="34"/>sicut omnelordinario sicut patet de 
+      poeniten<lb ed="#B" n="35" break="no"/>tiariis domini pape. Ad hanc sententiam addu 
+      <lb ed="#B" n="36"/>cunt moderni bullam martini quarti: 
+      mis<lb ed="#B" n="37" break="no"/>sam generali et prouincialibus ordinis fra 
+      <lb ed="#B" n="38"/>trum minorum: quae incipit. Ad fructus 
+      vbe<lb ed="#B" n="39" break="no"/>res: sicut pridie vidi parisius: et eis 
+      vide<lb ed="#B" n="40" break="no"/>tur achilles: quia dicitur in fine: volumus 
+      <lb ed="#B" n="41"/>autem quod hi qui fratribus confitebuntur eisdem 
+      <lb ed="#B" n="42"/>suis parrochialibus presbyteris 
+      confite<lb ed="#B" n="43" break="no"/>ri saltem semel in anno: prout generale con 
+      <lb ed="#B" n="44"/>cilium statuit: nihilominus teneantur quod quod 
+      <lb ed="#B" n="45"/>iidem fratres eos ad hoc diligenter et 
+      effi<lb ed="#B" n="46" break="no"/>caciter secundum datam a domino eis gratiam 
+      ex<lb ed="#B" n="47" break="no"/>hortentur. Ex quo tria inferunt. Primum quod 
+      <lb ed="#B" n="48"/>statutum generale per proprium sacerdotem 
+      cu<lb ed="#B" n="49" break="no"/>ratum solum intelligit. Secundum quod parrochia¬ 
+      <!--762.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>ni ad hoc tenentur facere. Tertium quod 
+      fra<lb ed="#B" n="51" break="no"/>tres ad hoc debent eos inducere. Credo 
+      <lb ed="#B" n="52"/>tamen dicendum id quod dicitur communiter distin 
+      <lb ed="#B" n="53"/>gue tempora et concordabis scripturas: dico 
+      <lb ed="#B" n="54"/>igitur cum supportatione sententiae melioris:  
+      <lb ed="#B" n="55"/>quod dominus Bonauentura fuit ante vienense 
+      con<lb ed="#B" n="56" break="no"/>cilium in quo sunt edite clementine: quae septi 
+      <lb ed="#B" n="57"/>mus liber numcupantur: quas iohannes pub 
+      <lb ed="#B" n="58"/>licauit. Sic et papa martinus qui illam 
+      bul<lb ed="#B" n="59" break="no"/>lam edidit: et tempore illo priuilegiati 
+      po<lb ed="#B" n="60" break="no"/>testatem solum habebant: de qua loquuntur 
+      <lb ed="#B" n="61"/>papa martinus et doctor deuo. Sed 
+      post<lb ed="#B" n="62" break="no"/>modum discidio consurgente inter curatos et 
+      <lb ed="#B" n="63"/>priuilegiatos satore id malorum operante: 
+      <lb ed="#B" n="64"/>vt patet in decretali: dudum: et in decretali 
+      <lb ed="#B" n="65"/>Inter cunctas: quam edidit benedictus. Et 
+      <lb ed="#B" n="66"/>tertio in decretali. Super cathedram 
+      pa<lb ed="#B" n="67" break="no"/>pa approbante concilio ad sedandam discor 
+      <lb ed="#B" n="68"/>diam fratrum ampliauit potentiam: si 
+      proce<lb ed="#B" n="69" break="no"/>datur vt notatur: et illud concilium vienense 
+      tan<lb ed="#B" n="70" break="no"/>te fuit auctoritatis sicut lateran. 
+      concilium<lb ed="#B" n="71" break="no"/>in quo fuit illa decretalis edita. Omnis 
+      <lb ed="#B" n="72"/>vtriusque sexus. Et vniuersalitur iura 
+      sequen<lb ed="#B" n="73" break="no"/>tia praecedentia declarant: vnde patet solutio 
+      <lb ed="#B" n="74"/>ad illa quae inducuntur. Et dum dicitur / quod 
+      con<lb ed="#B" n="75" break="no"/>cilium generale lateranum per proprium 
+      sa<lb ed="#B" n="76" break="no"/>cerdotem solum intelligat curatum: quia dicitur 
+      <lb ed="#B" n="77"/>suis parrochialibus praesub vteris / non sequitur: 
+      <lb ed="#B" n="78"/>quia etiam aliquando episcopus in iure vocatur 
+      perochia<lb ed="#B" n="79" break="no"/>lis sacerdos: vnde est fallatia consequentis: ani 
+      <lb ed="#B" n="80"/>mal est ergo homo est parrochiali praesbvtero: 
+      <lb ed="#B" n="81"/>ergo curato. Assumptum patet ex iure: vnde 
+      <lb ed="#B" n="82"/>episcopatus quandoque parrochia et episcopus praesbvter 
+      <lb ed="#B" n="83"/>parrochialis appellatur: extra de perochiis 
+      <lb ed="#B" n="84"/>et alienis perochianis: nullus: et nona. q. 2. 
+      <lb ed="#B" n="85"/>nullus: et. c. nullus primas: et. c. vlti. Et fra 
+      <lb ed="#B" n="86"/>ter Richar. de media villa in praesenti dist. 
+      <lb ed="#B" n="87"/>arti. 3. q. 2. qui fuit amplissimus iurista alia 
+      <lb ed="#B" n="88"/>omissa opinione primam rationabilem dicit: dicant 
+      <lb ed="#B" n="89"/>hi curati episcopius quod ipsis confessi. de necessitate 
+      <lb ed="#B" n="90"/>confiteri eisdem semel in anno tenentur: si enim 
+      <lb ed="#B" n="91"/>curatum martinus intellexit proprium 
+      sacerdo<lb ed="#B" n="92" break="no"/>tem: non auderent nec deberent: si igitur ipsi 
+      com<lb ed="#B" n="93" break="no"/>mittere possunt: loco sui quod non negant sed  
+      <lb ed="#B" n="94"/>gloriantur plurimum cur non possit 
+      committe<lb ed="#B" n="95" break="no"/>re etiam ecclesia sanctam dei: aut ipse episcophus quod iam 
+      <lb ed="#B" n="96"/>fecit: vt patet in decretali: super cathedram: 
+      mo<lb ed="#B" n="97" break="no"/>do inibi obseruato: parabola haec est non 
+      <lb ed="#B" n="98"/>socratis iunioris: sed praesumptuosi hominis: 
+      <!--763.xml-->
+      <pb ed="#B" n="373-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>sic in praesubvteris seculi adimpleat deus vt 
+      <lb ed="#B" n="2"/>non cogitetur nisi bonum ouis et non lana et 
+      <lb ed="#B" n="3"/>erit pax in diebus nostris. 
+      </p>
+               <p xml:id="WuV37d-f71742-d1e645">
+                  <lb ed="#B" n="4"/>¶ Quantum ad secundum arti 
+      <lb ed="#B" n="5"/>culum 
+      <lb ed="#B" n="6"/>sunt tres conclusiones. Prima est de 
+      con<lb ed="#B" n="7" break="no"/>fessionis institutione. Secunda de 
+      confessio<lb ed="#B" n="8" break="no"/>nis inclusione. Tertia de confessionis per 
+      <lb ed="#B" n="9"/>ecclesiam explicatione.
+</p>
+               <p xml:id="WuV37d-f71742-d1e661">
+¶ Prima est haec. 
+      <lb ed="#B" n="10"/>Nec lege moysi aut naturae est a piscopo con 
+      <lb ed="#B" n="11"/>fessio instituta: sed gratiae. Ista conclusio 
+      <lb ed="#B" n="12"/>tres habet partes. Prima pars diciti / quod con 
+      <lb ed="#B" n="13"/>fessio sacramentalis non fuit instituta in 
+      le<lb ed="#B" n="14" break="no"/>ge naturae. Probatur: tunc in statu innocen 
+      <lb ed="#B" n="15"/>tiae fuisset haec obligatio: illud enim verum pra 
+      <lb ed="#B" n="16"/>cticum quod est de lege nature loquendo propriae 
+      <lb ed="#B" n="17"/>aut est notum ex terminis aut manifestum 
+      se<lb ed="#B" n="18" break="no"/>qui ex talibus principiis: cuiusmodi sunt 
+      se<lb ed="#B" n="19" break="no"/>quentes de necessitate conclusiones: licem quandoque 
+      <lb ed="#B" n="20"/>lex nature extendatur ad ea quae sunt conso 
+      <lb ed="#B" n="21"/>na tali dictamini: intantum quod statim notum 
+      <lb ed="#B" n="22"/>est omnibus illud conuenire illi legi. Ex quo 
+      <lb ed="#B" n="23"/>infertur defectus gratiani de iure naturae 
+      lo<lb ed="#B" n="24" break="no"/>quentis in principio decretorum. Humanum ge 
+      <lb ed="#B" n="25"/>nus volendo quod illa quae sunt in lege et 
+      euange<lb ed="#B" n="26" break="no"/>lio sunt de lege nature: nec valet 
+      quorun<lb ed="#B" n="27" break="no"/>dam excusatio dicentium quod loqui nititur par 
+      <lb ed="#B" n="28"/>ticulariter: patet quod non est ad intentionem 
+      <lb ed="#B" n="29"/>eius: immo apud eum illa singularis 
+      videli<lb ed="#B" n="30" break="no"/>cet vniuersalem: quia nec omnia ibi contenta sunt 
+      <lb ed="#B" n="31"/>nota ex terminis nec ex talibus secundo se 
+      <lb ed="#B" n="32"/>quuntur necessario: nec tertio vera 
+      euiden<lb ed="#B" n="33" break="no"/>ter consona talibus principiis nec 
+      conclusio<lb ed="#B" n="34" break="no"/>nibus: vnde oportet si saluamus eum dicere 
+      <lb ed="#B" n="35"/>quod extendebat nomen iuris naturalis ad 
+      <lb ed="#B" n="36"/>ius positum ab auctore nature: contra ius 
+      <lb ed="#B" n="37"/>positiuum aliunde positum quam a conditore. Et 
+      <lb ed="#B" n="38"/>si quis obiiciat per glo. Adam vbi es: vox est 
+      <lb ed="#B" n="39"/>inquit increpantis et confessionem inquirentis  
+      <lb ed="#B" n="40"/>Et de aaron et filiis eius legitur: quod debuerunt 
+      <lb ed="#B" n="41"/>confiteri peccata filiorum israel. Dicendum quod adan 
+      <lb ed="#B" n="42"/>peccatum proprium recognoscere deo debuit 
+      <lb ed="#B" n="43"/>a quo abscondere no potuit: sed hoc deo 
+      <lb ed="#B" n="44"/>non fecit: sed seipsum excusauit in mulierem 
+      <lb ed="#B" n="45"/>retorquendo: non tamen concludit quod facienda 
+      <lb ed="#B" n="46"/>esset homini confessio. Ad secundum dicitur quod in 
+      <lb ed="#B" n="47"/>tota lege ista sacramentalis confessio non fie 
+      <lb ed="#B" n="48"/>bat sed in generali quodam publice dicebatur 
+      <lb ed="#B" n="49"/>peccauimus iniuste egimus: et huiusmodi publi 
+      <!--763.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>ca confessio dispositio erat ad petendum mi 
+      <lb ed="#B" n="51"/>sericordiam dei. Ex quo infertur corrolarie quod 
+      <lb ed="#B" n="52"/>auctoritates loquentes in antiqua 
+      testamen<lb ed="#B" n="53" break="no"/>to de confessione sunt vocales non reales: 
+      <lb ed="#B" n="54"/>vt confessio publica danielis aut alterius. 
+      <lb ed="#B" n="55"/>Et dato quod sit notum per naturam vt conforme 
+      <lb ed="#B" n="56"/>rationi esse iudicem malorum et retributorem 
+      bo<lb ed="#B" n="57" break="no"/>norum non tamen quod in tali modo accusare se 
+      de<lb ed="#B" n="58" break="no"/>bet delinquens maxime cum ille iudex per se 
+      <lb ed="#B" n="59"/>cuncta cognoscat: et quilibet possit in se 
+      vin<lb ed="#B" n="60" break="no"/>dicare quod deliquit in se: nec rationem habet 
+      <lb ed="#B" n="61"/>sufficientem in se: vnde sic recurrat ad alium vt 
+      <lb ed="#B" n="62"/>iudicem: cuilibet enim commisit deus vt sit mi 
+      <lb ed="#B" n="63"/>nister eius in vindicando culpam quam 
+      commi<lb ed="#B" n="64" break="no"/>sit. Et sic patet prima pars conclusionis quod non est 
+      <lb ed="#B" n="65"/>confessio de lege nature: et secunda quod nec de le 
+      <lb ed="#B" n="66"/>ge mosaica. Sed tertia pars diciti / quod a piscopo 
+      <lb ed="#B" n="67"/>est instituta confessio in lege gratie. Quomodo enim 
+      <lb ed="#B" n="68"/>tam arduum praeceptum ecclesia tradidisset: 
+      ni<lb ed="#B" n="69" break="no"/>si in diuino iurae fundamentum habuisset: vnde 
+      <lb ed="#B" n="70"/>et antequam quicquam ecclesia statuerit sancti 
+      di<lb ed="#B" n="71" break="no"/>xerunt confessionem obligare. Si enim illud ca 
+      <lb ed="#B" n="72"/>pitulum allegatur: extra de poeni. et remis. patet 
+      <lb ed="#B" n="73"/>quod illud capitulum est innocentii tertii in concilio 
+      <lb ed="#B" n="74"/>lateranensi. Ante autem illud tempus per mul 
+      <lb ed="#B" n="75"/>tos annos erat Aug. plusquam per. lxxx. qui 
+      <lb ed="#B" n="76"/>praedicat confessionem valde necessariam: sicut 
+      <lb ed="#B" n="77"/>in lib. suo de vera et falsa poenitentia appa 
+      <lb ed="#B" n="78"/>ret: nec facile inuenit canonista consilium 
+      <lb ed="#B" n="79"/>aut praeceptum ecclesie: quo fuerit istituta con 
+      <lb ed="#B" n="80"/>fessio: vt modo de ea loquimur: hanc tamen opini 
+      <lb ed="#B" n="81"/>nionem tenet bartholomeus brixien. super de 
+      <lb ed="#B" n="82"/>ponia dis. 5. in principio: vbi multis 
+      impro<lb ed="#B" n="83" break="no"/>batis opinionibus suam subdit ipsam fuisse 
+      <lb ed="#B" n="84"/>institutam a quodam concilio ecclesiae potiusquam 
+      <lb ed="#B" n="85"/>noui aut veteris testamenti istitutione. Sed 
+      <lb ed="#B" n="86"/>cum reuerentia turpe loquitur: allegat quia ita 
+      <lb ed="#B" n="87"/>est: sed vbi de hoc non ostendit quasi 
+      theolo<lb ed="#B" n="88" break="no"/>gus diceret hoc esse: sed non probans: etiam 
+      <lb ed="#B" n="89"/>si haec opinio esset vera papa non teneretur 
+      <lb ed="#B" n="90"/>confiteri: dato quod esset super concilium genera 
+      <lb ed="#B" n="91"/>le: hanc abissum non introeo pro praesenti. Et 
+      <lb ed="#B" n="92"/>si dicatur vt dicit brixien. quod non ex biblia sed  
+      <lb ed="#B" n="93"/>aliunde confessio ortum habet greci inquit non 
+      confi<lb ed="#B" n="94" break="no"/>tentur. Argumentum est de facto non de iure 
+      <lb ed="#B" n="95"/>multas laudabiles consuetudines 
+      omise<lb ed="#B" n="96" break="no"/>runt a recessu sedis apostolice: aut forsan non 
+      <lb ed="#B" n="97"/>ita est: mandatum enim aliunde fuisset 
+      litte<lb ed="#B" n="98" break="no"/>tis sicut de suis aliis abusionibus de qui¬ 
+      <!--764.xml-->
+      <pb ed="#B" n="374-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>bus non tacent latini vnde melius est nos vi 
+      <lb ed="#B" n="2"/>dere altius: vnde est instituta. An a xpiscopo 
+      im<lb ed="#B" n="3" break="no"/>mediate: de quo dicit euangelium. Aut se 
+      <lb ed="#B" n="4"/>cundo in apostolica doctrina. Aut tertio dato 
+      <lb ed="#B" n="5"/>praecepto vocaliter apostolis et vocaliter ab eis 
+      <lb ed="#B" n="6"/>promulgato. Primum magis est tenendum si 
+      <lb ed="#B" n="7"/>solidum habeatur fundamentum: non illud. Tibi 
+      <lb ed="#B" n="8"/>dabo claues: solum est promissio de datione 
+      <lb ed="#B" n="9"/>e futura: vnde si quid valeat illud est. Accipi 
+      <lb ed="#B" n="10"/>te spiritum sanctum quorum remiseritis 
+      pecca<lb ed="#B" n="11" break="no"/>ta remittuntur eis et quorum retinueritis re 
+      <lb ed="#B" n="12"/>tenta sunt. Arguitur enim sic. Data est potestas 
+      <lb ed="#B" n="13"/>apostolis et in eis praesuvteris remittendi 
+      pec<lb ed="#B" n="14" break="no"/>cata ministerialiter: sed arbitrari in 
+      cau<lb ed="#B" n="15" break="no"/>sa ignota nequeunt: ergo est causa manife 
+      <lb ed="#B" n="16"/>standa: quae manifestatio confessio est: ergo 
+      <lb ed="#B" n="17"/>ex hoc peccatores obligantur ad 
+      manifestan<lb ed="#B" n="18" break="no"/>dum vulnera peccatorum. Sed forsan quis 
+      <lb ed="#B" n="19"/>dicet: verum est: institutum est sacramentum 
+      con<lb ed="#B" n="20" break="no"/>fessionis a cpiscopo: si quis velit accipere: sicut 
+      ex<lb ed="#B" n="21" break="no"/>trema vnctio: nullum tamen eorum est simpli 
+      <lb ed="#B" n="22"/>citer necessarium ad salutem. Et dum dicitur sunt 
+      <lb ed="#B" n="23"/>arbitri: verum est si quis vult se submittere: 
+      <lb ed="#B" n="24"/>vt patet ex commissione: dicit enim christus 
+      af<lb ed="#B" n="25" break="no"/>firmatiue: quorum retinueritis peccata retenta 
+      <lb ed="#B" n="26"/>erunt: sed negatiuam non protulit: quorum non 
+      re<lb ed="#B" n="27" break="no"/>tinueritis peccata etc. In quo notatur quod in con 
+      <lb ed="#B" n="28"/>missione non est praecisio. Sed arguitur contra: 
+      <lb ed="#B" n="29"/>nulli committitur potestas iudiciaria: nisi alicui 
+      <lb ed="#B" n="30"/>imponatur necessitas committendi se sibi: sed 
+      <lb ed="#B" n="31"/>apostolis commissa est auctoritas iudiciaria: igi 
+      <lb ed="#B" n="32"/>tur pplitolis necessitas committendi se sibi. Et 
+      <lb ed="#B" n="33"/>patet assumptum: quia nullus est iudex alicu 
+      <lb ed="#B" n="34"/>ius in cuius potestate est iudicari ab illo vel 
+      <lb ed="#B" n="35"/>non iudicari. Dicendum quod apostoli habuerunt po 
+      <lb ed="#B" n="36"/>testatem arbitrariam si aliquis se eis 
+      committe<lb ed="#B" n="37" break="no"/>ret alias non: quod non habet vnus alius sci 
+      <lb ed="#B" n="38"/>ens ius sed commissione carens. Sed 
+      ali<lb ed="#B" n="39" break="no"/>ter arguitur. Omnis perdens primam gratiam: 
+      <lb ed="#B" n="40"/>tenetur illam quantum in se est reparare virtute 
+      <lb ed="#B" n="41"/>illius praecepti. Diliges dominum deum tuum ex 
+      <lb ed="#B" n="42"/>toto corde tuo etc. et virtute illius praecepti 
+      <lb ed="#B" n="43"/>Diliges teipsum peccator amisit primam 
+      <lb ed="#B" n="44"/>gratiam et potest illam recuperare per istud 
+      <lb ed="#B" n="45"/>sacraendum ab isto arbitro datum: quia istud est 
+      in<lb ed="#B" n="46" break="no"/>stitutum vt remedium efficax ad 
+      recuperan<lb ed="#B" n="47" break="no"/>dam primam gratiam: ex illo verbo. 
+      Quorum<lb ed="#B" n="48" break="no"/>remiseritis: igitur etc. et sic concludetur 
+      neces<lb ed="#B" n="49" break="no"/>sitas confessionis ex tribus. ex illo. Quo¬ 
+      <!--764.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>rum remiseritis etc. Secundo ex illo. Dili 
+      <lb ed="#B" n="51"/>ges dominum deum tuum etc. Tertio ex illo. Dili 
+      <lb ed="#B" n="52"/>ges teipsum. Sed diceret quis: verum quod 
+      per<lb ed="#B" n="53" break="no"/>dens primam gratiam tenetur ad recuperandam 
+      <lb ed="#B" n="54"/>eam per hanc viam vel aliam: sed sunt alie 
+      <lb ed="#B" n="55"/>vie possibiles. Si contrarium diceretur. 
+      <lb ed="#B" n="56"/>Nulla via est ita facilis vt ista: nulla equae 
+      <lb ed="#B" n="57"/>certa vt ista: vt non solum non oporteat attri 
+      <lb ed="#B" n="58"/>tionem habere: sed impedimentum non pone 
+      <lb ed="#B" n="59"/>re: magis autem certus est quis quod impedimen 
+      <lb ed="#B" n="60"/>tum non ponit quam quod attritionem habeat 
+      ma<lb ed="#B" n="61" break="no"/>xime sufficientem: et tunc sicut homo tenetur) 
+      <lb ed="#B" n="62"/>eligere viam magis facilem ad salutem et 
+      vi<lb ed="#B" n="63" break="no"/>am securiorem: alioquin seipsum exponeret 
+      <lb ed="#B" n="64"/>periculo et diceretur contemptor ista est 
+      hu<lb ed="#B" n="65" break="no"/>iusmodi: est enim facilima: est etiam 
+      certissi<lb ed="#B" n="66" break="no"/>ma: igitur ex verbo christi in Ioh. 20. secundo 
+      <lb ed="#B" n="67"/>dilectione dei: et tertio sui ipsius ad hoc 
+      <lb ed="#B" n="68"/>tenetur. Si ista ratio concludat bene quidem 
+      <lb ed="#B" n="69"/>hic tamen habemus quod est remedium vtilissimum 
+      <lb ed="#B" n="70"/>communitati et certissimum: sicut dato quod in 
+      <lb ed="#B" n="71"/>baptismo flamins multi bapticati sint ho 
+      <lb ed="#B" n="72"/>mines: tamen baptismus fluminis datus fuit con 
+      <lb ed="#B" n="73"/>munitati vt vtilis. Et si contendas ista verba 
+      <lb ed="#B" n="74"/>non ostendere confessionem tunc fuisse institutam: 
+      <lb ed="#B" n="75"/>nunquid secundum dicetur quod scilicet id praeceptum habeatur 
+      <lb ed="#B" n="76"/>ex verbis alicuius apostoli: frater Alexander de 
+      <lb ed="#B" n="77"/>halis. id velle videtur in quarta parte summe tracta 
+      <lb ed="#B" n="78"/>tu de confessione ex illo verbo. Confitemi 
+      <lb ed="#B" n="79"/>ni alterutrum peccata vestra. Sed vnde hoc 
+      <lb ed="#B" n="80"/>habuit beatus Iacobus cum solum esset hie 
+      <lb ed="#B" n="81"/>rosolymis episcopus: vt in tam magno totam 
+      <lb ed="#B" n="82"/>obligaret ecclesiam dei: nec hierosolymita 
+      <lb ed="#B" n="83"/>na erat tunc principalis ecclesia: nec roma 
+      <lb ed="#B" n="84"/>ni dicunt tunc suspensam potestatem petri: 
+      <lb ed="#B" n="85"/>nec potest dici quod praeceptum domini publicauit 
+      <lb ed="#B" n="86"/>ex modo enim loquendi debebat ostendi: quod 
+      <lb ed="#B" n="87"/>non patet: sicut patet per illud apostoli: quando 
+      <lb ed="#B" n="88"/>voluit publicare praeceptum domini: dicit: 
+      prae<lb ed="#B" n="89" break="no"/>cipio non ego sed dominus: quando autem vult ta 
+      <lb ed="#B" n="90"/>cere propriam persuasionem dicit: ego non sed 
+      do<lb ed="#B" n="91" break="no"/>minus: alioquin non esset manifestum 
+      eccle<lb ed="#B" n="92" break="no"/>siae illum praeconem esse vel non: quorum neutrum 
+      <lb ed="#B" n="93"/>patet in verbis iacobi: dicit enim. Confite 
+      <lb ed="#B" n="94"/>mini alterutrum: non inquit sacerdoti: et 
+      ora<lb ed="#B" n="95" break="no"/>te pro inuicem: vbi nullus diceret eum 
+      insti<lb ed="#B" n="96" break="no"/>tuisse sacramenmum: vnde concluditur ex illis verbis 
+      <lb ed="#B" n="97"/>nos instruxisse ad humilitatem quia 
+      confitemi<lb ed="#B" n="98" break="no"/>ni alterutrum peccata vestra: dicendo: vos 
+      <!--765.xml-->
+      <pb ed="#B" n="374-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>peccatores: et ad fraternam charitatem: et orate 
+      <lb ed="#B" n="2"/>pro inuicem: si non tenetur primum nec secundum 
+      te<lb ed="#B" n="3" break="no"/>neatur. Tertium quod oretenus hoc imperauit 
+      <lb ed="#B" n="4"/>apostolis: et apostoli oretenus narrauerunt 
+      eccle<lb ed="#B" n="5" break="no"/>siae. Sic enim dicitur. Multa quidem et alia 
+      si<lb ed="#B" n="6" break="no"/>gna fecit iesus: quae non sunt scripta in libro 
+      <lb ed="#B" n="7"/>hoc. Et extra de cele. mis. ca. cum marthe. 
+      </p>
+               <p xml:id="WuV37d-f71742-d1e1106">
+                  <lb ed="#B" n="8"/>¶ Secunda conclusio est / de confessionis 
+      <lb ed="#B" n="9"/>inclusione: et est haec. Confessio sic cadit 
+      sub<lb ed="#B" n="10" break="no"/>praecepto vt confitens et cui et qualiter videa 
+      <lb ed="#B" n="11"/>tur. Ista conclusio habet tres particulas. 
+      <lb ed="#B" n="12"/>Prima est quod in confessione oportet 
+      aspi<lb ed="#B" n="13" break="no"/>cere quis est confitens: dicit decretalis: 
+      ha<lb ed="#B" n="14" break="no"/>bens annos discretionis. Quis est ille: quae 
+      <lb ed="#B" n="15"/>scit discernere inter bonum et malum contra 
+      <lb ed="#B" n="16"/>legem dei: et non solum in malis ad quae 
+      natu<lb ed="#B" n="17" break="no"/>ra est prona: sed secundo in bonis vt beata 
+      <lb ed="#B" n="18"/>agnes cuius infantia computabatur in 
+      an<lb ed="#B" n="19" break="no"/>nis: sed erat senectus mentis immensa. Et 
+      <lb ed="#B" n="20"/>tertio interrogatus ordinate percipit quid 
+      <lb ed="#B" n="21"/>contra legem dei et quid non: sed si confitetur) 
+      <lb ed="#B" n="22"/>quid quaeritur peccatum mortale non veniale 
+      <lb ed="#B" n="23"/>de necessario: et hoc faciat diligenti inuesti 
+      <lb ed="#B" n="24"/>gatione quanta de aliquo arduo nec 
+      diui<lb ed="#B" n="25" break="no"/>dat: vt vnum dicat vni: reliquum alteri: totum 
+      <lb ed="#B" n="26"/>vni ne sit hypocrita. Et non solum peccatum 
+      <lb ed="#B" n="27"/>in se: sed circunmstantias criminis iuxta quod 
+      <lb ed="#B" n="28"/>inquit Aug. Considera qualitatem criminis: 
+      <lb ed="#B" n="29"/>in loco / in tempore / in perseuerantia / in 
+      varie<lb ed="#B" n="30" break="no"/>tate persone etc: et maxime aggrauantes aut 
+      <lb ed="#B" n="31"/>transferentes in aliam speciem peccati. 
+      Secun<lb ed="#B" n="32" break="no"/>da particula est: cui consitebitur: sacerdoti 
+      ha<lb ed="#B" n="33" break="no"/>benti autortoritatem. Tertia particula. Quali 
+      <lb ed="#B" n="34"/>ter quo ad tempus: in periculo mortis vt 
+      <lb ed="#B" n="35"/>praeparet se ad misericordiam dum mare 
+      ascen<lb ed="#B" n="36" break="no"/>dit periculosum: dum bellum vult intrare: 
+      <lb ed="#B" n="37"/>dum praeparat se ad eucharistiam: et reliqua simi 
+      <lb ed="#B" n="38"/>lia etiam qualiter quo ad se humuliter venien 
+      <lb ed="#B" n="39"/>do. Secundo proponendo emendam. Tertio se 
+      <lb ed="#B" n="40"/>subiiciendo aecclesiae: non quod sit de necessitate 
+      <lb ed="#B" n="41"/>obligatus ad capiendam poenitentiam sibi 
+      in<lb ed="#B" n="42" break="no"/>iunctam a sacerdote: sed patienter sufferendi 
+      <lb ed="#B" n="43"/>paenam sibi infligendam a deo: hic aut in pur 
+      <lb ed="#B" n="44"/>gatorio.
+</p>
+               <p xml:id="WuV37d-f71742-d1e1189">
+¶ Tertia conclusio est / de 
+      com<lb ed="#B" n="45" break="no"/>fessionis per ecclesiam explicatione: et est haec. 
+      <lb ed="#B" n="46"/>Quis: cui: quando confessio impleatur ecclesia 
+      ex<lb ed="#B" n="47" break="no"/>plicat: quae habet tres particulas.
+</p>
+               <p xml:id="WuV37d-f71742-d1e1198">
+¶ Prima 
+      <lb ed="#B" n="48"/>quis: incipit decretalis. Omnis vtriusque sexus 
+      <lb ed="#B" n="49"/>cum inquit ad annos discretionis: hic inquit fra¬ 
+      <!--765.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>ter robertus holcot ordinis praedicatorum in 
+      <lb ed="#B" n="51"/>quarto suo: pro ioco est non debet capi: omnis 
+      vtri<lb ed="#B" n="52" break="no"/>usque sexus pro hermofroditis qui vtrumque se 
+      <lb ed="#B" n="53"/>xum habent: sed intelligi habet et distribui 
+      <lb ed="#B" n="54"/>pro viro et muliere ad annos discretionis 
+      <lb ed="#B" n="55"/>adultum signat modo praexposito. Sed quae 
+      te<lb ed="#B" n="56" break="no"/>netur confiteri referendo ad eandem partem conclusio 
+      <lb ed="#B" n="57"/>nis propter consimile principium: dicit hic 
+      fra<lb ed="#B" n="58" break="no"/>ter Richar. arti. 2. q. 4. in solutione ad pri 
+      <lb ed="#B" n="59"/>mum argumentum / quod peccata mortalia si habet 
+      <lb ed="#B" n="60"/>et non venialia: si non habet mortalia tenetur 
+      <lb ed="#B" n="61"/>confiteri venialia: propter praeceptum aecclesie. Tam 
+      <lb ed="#B" n="62"/>durum: tam grossum est hoc quod dicitur quod hoc 
+      <lb ed="#B" n="63"/>non intelligit doc. subti. quia arguit cum dicitur in 
+      <lb ed="#B" n="64"/>illo decreto. Omnis vtriusque sexus etc. omnia 
+      <lb ed="#B" n="65"/>pctam: aut fit distributio pro peccatis venialibus 
+      <lb ed="#B" n="66"/>et mortalibus simul: et sic habens mortalia 
+      <lb ed="#B" n="67"/>tenetur confiteri venialia: si non fit distributio 
+      <lb ed="#B" n="68"/>pro venialibus non tenetur ea confiteri: dato quod 
+      <lb ed="#B" n="69"/>non habeat mortalia: vnde concludit doctor 
+      <lb ed="#B" n="70"/>subti. quod nullus ex statuto aecclesie tenetur 
+      com<lb ed="#B" n="71" break="no"/>fiteri venialia.
+</p>
+               <p xml:id="WuV37d-f71742-d1e1257">
+¶ Secunda pars est cui ecclesia 
+      <lb ed="#B" n="72"/>specificauit: proprio sacerdoti: quod in primiti 
+      <lb ed="#B" n="73"/>ua ecclesia fieri non potuit ex discursu 
+      apostoli<lb ed="#B" n="74" break="no"/>co ad diuersas prouincias. Et debet accipi 
+      <lb ed="#B" n="75"/>proprius vt non diuiditur aut distinguitur contra 
+      <lb ed="#B" n="76"/>communem: sic enim quilibet suum proprium haberet 
+      <lb ed="#B" n="77"/>catnfessorem in gona vt dicatur: immo multotiens 
+      <lb ed="#B" n="78"/>contingit vnum subiici duobus equae primo: vt 
+      <lb ed="#B" n="79"/>patet in ciuitate aurelianen. in sancto paulo: 
+      <lb ed="#B" n="80"/>n cuius ecclesia sunt duo curati eque primi. 
+      <lb ed="#B" n="81"/>Sed debet capi vt diuiditur proprius contra 
+      <lb ed="#B" n="82"/>alienum: et tunc applicetur distinctio bonauentu 
+      <lb ed="#B" n="83"/>re de qua in 1. arti.
+</p>
+               <p xml:id="WuV37d-f71742-d1e1286">
+¶ Tertia pars conclusio 
+      <lb ed="#B" n="84"/>nis est de quando specificat pascha: non dicit 
+      pa<lb ed="#B" n="85" break="no"/>sche: sic patet in decretali: vnde si quis motus 
+      ob<lb ed="#B" n="86" break="no"/>reuerentiam xpiscoi: quae caenam fecit die iouis: et 
+      cor<lb ed="#B" n="87" break="no"/>pus suum sibi dedit et apostolis: conficeretur: et cor 
+      <lb ed="#B" n="88"/>bus suum domini: scilicet susciperet: non crederem 
+      ob<lb ed="#B" n="89" break="no"/>ligari ad sumendum die pasche ex virtute 
+      <lb ed="#B" n="90"/>decretalis. pascha enim hic tempus non 
+      di<lb ed="#B" n="91" break="no"/>emm significat. Sed quaeritur si quis 
+      pec<lb ed="#B" n="92" break="no"/>cat mortaliter vtrum teneatur simpliciter 
+      <lb ed="#B" n="93"/>confiteri habita oportunitate sacerdotis 
+      <lb ed="#B" n="94"/>et non expectare pascha. Frater 
+      Alexan<lb ed="#B" n="95" break="no"/>der de hales de quando confessionis dicit 
+      <lb ed="#B" n="96"/>quod sic. Frater Richardus. hic arti. 3. q. 6. 
+      <lb ed="#B" n="97"/>dicit quod non: nisi proposito confitendi in 
+      pa<lb ed="#B" n="98" break="no"/>scha. Doctor subtilis hic tria notatione 
+      <!--766.xml-->
+      <pb ed="#B" n="375-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>dignissima dicit. Primum quod ante editam de 
+      <lb ed="#B" n="2"/>cretalem nullus obligabatur ad confessionem 
+      ni<lb ed="#B" n="3" break="no"/>si ad tempus indeterminatum ante mortem. 
+      <lb ed="#B" n="4"/>Secundum post editam decretalem solum ad 
+      se<lb ed="#B" n="5" break="no"/>mel in anno. Tertium quod nunquam debet habere 
+      <lb ed="#B" n="6"/>noluntatem: sed semper voluntatem confitendi. 
+      <lb ed="#B" n="7"/>Quantum ad tertium 
+      arti<lb ed="#B" n="8" break="no"/>culum 
+      <lb ed="#B" n="9"/>sunt tres difficultates.
+</p>
+               <p xml:id="WuV37d-f71742-d1e1347">
+¶ Prima 
+      diffi<lb ed="#B" n="10" break="no"/>cultas. Quando confessio fuit instituta a 
+      <lb ed="#B" n="11"/>xpo. Dicendum die resurrectionis de sero: 
+      <lb ed="#B" n="12"/>sicut legitur. Quorum remiseritis peccata etc. 
+      te<lb ed="#B" n="13" break="no"/>nendo primam scilicet viam iuris diuini: de qua pa 
+      <lb ed="#B" n="14"/>tuit in 1. conclusione artic. 2. et praesente petro: 
+      <lb ed="#B" n="15"/>ideo mirum non est id quod dicit Amb. de 
+      pe<lb ed="#B" n="16" break="no"/>tro. Lachrymas lego: satisfactionem non le 
+      <lb ed="#B" n="17"/>go: quia adhuc instituta non erat.
+</p>
+               <p xml:id="WuV37d-f71742-d1e1368">
+¶ Secunda 
+      <lb ed="#B" n="18"/>difficultas. Si laico est facienda confessio 
+      <lb ed="#B" n="19"/>Dico quod non sacramentalis: sed aliquando ex hu 
+      <lb ed="#B" n="20"/>militate vt dicit iacobus.
+</p>
+               <p xml:id="WuV37d-f71742-d1e1377">
+¶ Tertia diffi 
+      <lb ed="#B" n="21"/>cultas. Si confessio est facienda per interpre 
+      <lb ed="#B" n="22"/>tem. Tho. in praesenti dis. arti. 4. q. 3. 
+      soluen<lb ed="#B" n="23" break="no"/>do secundum argumentum quaestiuncule tertie 
+      di<lb ed="#B" n="24" break="no"/>cit quod sic. Frater Ioham. non est contentus sic 
+      <lb ed="#B" n="25"/>enim malignari possent confessor et interpres 
+      <lb ed="#B" n="26"/>contra confitentem: et iste forus est 
+      secutissi<lb ed="#B" n="27" break="no"/>mus. Thomas cantuarien. etiam scripsit 
+      <lb ed="#B" n="28"/>alexandro tertio quod fecerat veniam petens: 
+      <lb ed="#B" n="29"/>ambo thome sancti: vnus dicens: reliquus 
+      <lb ed="#B" n="30"/>faciens: tutius est tamen vtrumque negare et 
+      <lb ed="#B" n="31"/>confessione vti vt ea vtendum est. Ex quo 
+      pa<lb ed="#B" n="32" break="no"/>tet ad quaestionem: quod habenti annos 
+      discretio<lb ed="#B" n="33" break="no"/>nis ad habendam iustificationem necesse est 
+      <lb ed="#B" n="34"/>saltem in proposito habere voluntatem omnia 
+      <lb ed="#B" n="35"/>peccata mortalia proprio sacerdoti 
+      confite<lb ed="#B" n="36" break="no"/>ri. Tunc ad argumenta.
+</p>
+               <p xml:id="WuV37d-f71742-d1e1414">
+¶ Ad primum dicen 
+      <lb ed="#B" n="37"/>dum / quod confessio habet reduci ad primum 
+      praece<lb ed="#B" n="38" break="no"/>ptum: scilicet ad bonorem dei: non tamen est de lege 
+      <lb ed="#B" n="39"/>naturae: sicut honor dei: quia non est nota ex 
+      <lb ed="#B" n="40"/>teris.
+</p>
+               <p xml:id="WuV37d-f71742-d1e1425">
+¶ Ad secundum dicitur: dato quod mutus 
+      <lb ed="#B" n="41"/>on loquatur: habet tamen signa.
+</p>
+               <p xml:id="WuV37d-f71742-d1e1430">
+¶ Ad tertium 
+      di<lb ed="#B" n="42" break="no"/>cendum / quod qui peccatum mortale non habet non 
+      <lb ed="#B" n="43"/>tenetur ad confessionem faciendam: sed per scriptum 
+      <lb ed="#B" n="44"/>videtur ne esse facienda confessio dico quod non: 
+      <lb ed="#B" n="45"/>licet Tho. dicat oppositum vbi. supra. et alius 
+      <lb ed="#B" n="46"/>Tho. licet non dixerit: fecit tamen.
+</p>
+            </div>
+            <div xml:id="WuV37d-f71742-Dd1e1444" type="et-conclusiones">
+               <head xml:id="WuV37d-f71742-Hd1e1446">Conclusiones</head>
+               <p xml:id="WuV37d-f71742-d1e1449">
+¶ Ex 
+      <lb ed="#B" n="47"/>ista distin. sicut de praecedentibus sequuntur 
+      <lb ed="#B" n="48"/>tres conclusiones de mente magistri.
+</p>
+               <p xml:id="WuV37d-f71742-d1e1456">
+¶ Pri 
+      <lb ed="#B" n="49"/>ma conclusio est. Sola contritio sepius suffi¬ 
+      <!--766.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>cit vt sit remissio mali quod efficit. Dicit com 
+      <lb ed="#B" n="51"/>clusio / quod aliquando remittitur peccatum 
+      per<lb ed="#B" n="52" break="no"/>solam contritionem. Et ponitur a principio praesen 
+      <lb ed="#B" n="53"/>tis dis. vsque ad illud ca. Iam secundum 
+      quaestio<lb ed="#B" n="54" break="no"/>nis articulum etc.
+</p>
+               <p xml:id="WuV37d-f71742-d1e1476">
+¶ Secunda conclusio. Pro 
+      <lb ed="#B" n="55"/>tuo scelere dic deo gemitus et nolo fundi 
+      <lb ed="#B" n="56"/>tus viro abscondere. Dicit conclusio / quod 
+      con<lb ed="#B" n="57" break="no"/>fessio est facienda deo et homini. Et ponitur 
+      <lb ed="#B" n="58"/>ab illo ca. Iam secundum etc. vsque ad illud c. 
+      <lb ed="#B" n="59"/>Nunc prius quam praemissis etc.
+</p>
+               <p xml:id="WuV37d-f71742-d1e1489">
+¶ Tertia 
+      con<lb ed="#B" n="60" break="no"/>clusio. Sacerdotibus fit confessio sic opinio 
+      <lb ed="#B" n="61"/>inest pluribus. Dicit conclusio / quod sacerdo 
+      <lb ed="#B" n="62"/>tibus facienda est confessio: vt communis opinio 
+      <lb ed="#B" n="63"/>dicit. Et ponitur ab illo capitulo. Nunc etc. 
+      <lb ed="#B" n="64"/>vsque ad finem distinctionis. 
+</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

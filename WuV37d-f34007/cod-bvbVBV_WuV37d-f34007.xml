@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 22</title>
+            <author ref="#WilliamDeVaurouillon">William de Vaurouillon</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 22</title>
+               <date when="2021-06-19">June 19, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-bvbVBV">Basel 1510</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-06-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="289-v"/>
+            <cb ed="#B" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="WuV37d-f34007"><!-- l3d22 -->
+            <head xml:id="WuV37d-f34007-Hd1e108">Distinctio 22</head>
+            <div xml:id="WuV37d-f34007-Dd1e111" type="circa-textum">
+               <head xml:id="WuV37d-f34007-Hd1e113">Circa textum</head>
+               <p xml:id="WuV37d-f34007-d1e116">
+                  <lb ed="#B" n="52"/>Distinctio. 22. in qua magister agit 
+      <lb ed="#B" n="53"/>de statum christi in morte quantum ad 
+      <lb ed="#B" n="54"/>tempus sequens horam mortis. 
+    </p>
+               <p xml:id="WuV37d-f34007-d1e125">
+                  <lb ed="#B" n="55"/>Ac queritur 
+      <lb ed="#B" n="56"/>vtrum in illo triduo mor 
+      <lb ed="#B" n="57"/>tis piscopus fuerit homo: 
+      <lb ed="#B" n="58"/>qu Hic signatur. 22. dist. huius 
+      <lb ed="#B" n="59"/>S terti quae sic continuatur ad praece 
+      <lb ed="#B" n="60"/>dentem: Nam postquam in praecedenti dis. ostensum 
+      <lb ed="#B" n="61"/>est qualiter in iesu morte carnis ab anima facta 
+      <lb ed="#B" n="62"/>est separatio: Nunc in praesenti dis. mortem iesu 
+      <lb ed="#B" n="63"/>sequentium fit indagatio. Et habet diuidi prae 
+      <lb ed="#B" n="64"/>sens dis. in tres partes principales. In prima 
+      <lb ed="#B" n="65"/>in triduo iesu affirmatur infuisse vera 
+      humani<lb ed="#B" n="66" break="no"/>tas. In secunda in illo eodem inuestigatur vbi 
+      fu<lb ed="#B" n="67" break="no"/>it eius localitas. In tertia quaeritur: an de caelo 
+      <lb ed="#B" n="68"/>homo concedatur quod descenderit vel non sit veritas. 
+      <lb ed="#B" n="69"/>Prima in principio. Secunda ibi. Hic quaeritur si 
+      <lb ed="#B" n="70"/>prinos in morte etc. Tertia ibi. Solet etiam quaeri 
+      <lb ed="#B" n="71"/>si cog. etc. Duabus primis partibus indiuisis 
+      <lb ed="#B" n="72"/>manentibus. Rursus particula tertia in quae quaeritur 
+      <lb ed="#B" n="73"/>an concedatur quod homo de caelo descendit etc. in 
+      <lb ed="#B" n="74"/>tres partes diuiditur. In prima proponitur quaestio. 
+      <lb ed="#B" n="75"/>In secunda adiungitur solutio. In tertia anne 
+      <lb ed="#B" n="76"/>ctitur conclusio. Prima in principio. Secunda ibi. Ad  
+      <lb ed="#B" n="77"/>quod dicimus si ad etc. Tertia ibi. De 
+      corri<lb ed="#B" n="78" break="no"/>gia calciamenti etc. Haec est diuisio praesentis di. 
+      </p>
+            </div>
+            <div xml:id="WuV37d-f34007-Dd1e181">
+               <head xml:id="WuV37d-f34007-Hd1e183">Quaestio</head>
+               <p xml:id="WuV37d-f34007-d1e186">
+                  <lb ed="#B" n="79"/>In ista quaestione proponitur nobis 
+      <lb ed="#B" n="80"/>primo xiscum in triduo no fuisse 
+      ho<lb ed="#B" n="81" break="no"/>minem quia vere mortuus: secundo resurre 
+      <lb ed="#B" n="82"/>ctionem ac descesione ad infernum: 
+      <lb ed="#B" n="83"/>tertio collocatione ad patris 
+      dex<lb ed="#B" n="84" break="no"/>teram Sco. ibidem. 
+      <lb ed="#B" n="85"/>Utrum christus non 
+      <lb ed="#B" n="86"/>existens homo in triduo et resurgens 
+      <lb ed="#B" n="87"/>ab inferis ad patris dexteram se 
+      <lb ed="#B" n="88"/>deat: Et arguitur ad partem falsam tribus 
+      me<lb ed="#B" n="89" break="no"/>diis.
+</p>
+               <p xml:id="WuV37d-f34007-d1e212">
+¶ Primo arguitur / quod piscopus fuerit homo in 
+      <lb ed="#B" n="90"/>triduo: pisous fuit piscous in triduo: igitur cpisous 
+      fu<lb ed="#B" n="91" break="no"/>it homo in triduo. Antecedens probatur: quia idem praedi 
+      <lb ed="#B" n="92"/>catur de seipso. Testis est autem Boeti. Nul 
+      <lb ed="#B" n="93"/>lam veriorem esse praedicationem ea in qua idem 
+      praedi<lb ed="#B" n="94" break="no"/>catur de seipso. Sed probatur consequenta: quia ex oppo¬ 
+      <!--596.xml-->
+      <pb ed="#B" n="290-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>sito consequentis sequitur oppositum anteceden 
+      <lb ed="#B" n="2"/>tis: sequitur enim non fuit homo in triduo: ergo non 
+      <lb ed="#B" n="3"/>fuit christus in triduo. Tum quia arguitur ab 
+      <lb ed="#B" n="4"/>inferiori ad superius: antecedens enim est inferi 
+      <lb ed="#B" n="5"/>ad consequens sicut esse sortem ad esse hominem 
+      </p>
+               <p xml:id="WuV37d-f34007-d1e243">
+                  <lb ed="#B" n="6"/>¶ Secundo arguitur / quod xpiscopus non resurrexerit 
+      <lb ed="#B" n="7"/>ab inferis. Si christus resurrexit ab inferis: 
+      <lb ed="#B" n="8"/>aut hoc fuit ratione corporis: aut ratione animae: sed  
+      <lb ed="#B" n="9"/>neutrum est dicendum: igitur. Maior patet ex 
+      di<lb ed="#B" n="10" break="no"/>uisione sufficienti: quia non est dubium quod 
+      diuini<lb ed="#B" n="11" break="no"/>tas resurgere non potuit. Sed probatur 
+      mi<lb ed="#B" n="12" break="no"/>nor. Primo non ratione corporis: quia corpus in illo 
+      <lb ed="#B" n="13"/>triduo in sepulcbro iacuit. Nec secundo ratione 
+      <lb ed="#B" n="14"/>animae. Teste enim Augustinus ad dardanum: et etiam 
+      <lb ed="#B" n="15"/> 
+                  <lb ed="#B" n="16"/>ni in bono in scriptura inuenitur: et ita argui 
+      <lb ed="#B" n="17"/>potuit aliquod malum in anima xpisci si in infernum 
+      <lb ed="#B" n="18"/>descendisset: et postmodum resurrexisset. 
+      </p>
+               <p xml:id="WuV37d-f34007-d1e274">
+                  <lb ed="#B" n="19"/>¶ Tertio arguitur / quod non sedeat cpiscous ad de 
+      <lb ed="#B" n="20"/>xteram patris. In ea parte patris christus secundum vtram 
+      <lb ed="#B" n="21"/>que naturam collocatur in qua sunt potiora bona 
+      <lb ed="#B" n="22"/>dei: sed in sinistra sunt potiora dona dei 
+      <lb ed="#B" n="23"/>patris quam in eius dextera: ergo verius debel 
+      <lb ed="#B" n="24"/>dici christus sedere ad sinistram patris quam ad 
+      <lb ed="#B" n="25"/>eius dexteram. Maior patet. Tum quia ratione 
+      <lb ed="#B" n="26"/>diuinitatis equilis est christus patri. Tum quia 
+      <lb ed="#B" n="27"/>ratione humanitatis assumpte super omnem extat 
+      <lb ed="#B" n="28"/>creaturam. Unde. Excelsior caelis factus ascei 
+      <lb ed="#B" n="29"/>dit in altum Blo. loco et dignitate. Minor 
+      <lb ed="#B" n="30"/>vero probatur. In dextera eius longitudo 
+      die<lb ed="#B" n="31" break="no"/>rum: et in sinistra illius diuitiae et glia.
+</p>
+               <p xml:id="WuV37d-f34007-d1e306">
+¶ In 
+      <lb ed="#B" n="32"/>oppositum primi arguitur: auctoritate magitrorum 
+      nostro<lb ed="#B" n="33" break="no"/>rum ponentium christum non fuisse hominem in tri 
+      <lb ed="#B" n="34"/>duo. In oppositum secundi arguitur ex illo verbo. 
+      <lb ed="#B" n="35"/>Quem deus inquit suscitauit solutis 
+      dolori<lb ed="#B" n="36" break="no"/>bus inferni. In oppositum tertii arguitur ex 
+      <lb ed="#B" n="37"/>articulo fidei. Sedet inquit ad dexteram dei 
+      <lb ed="#B" n="38"/>patris omnipotentis. In ista quaestione etc. 
+      <lb ed="#B" n="39"/>Primus est terminorum declaratiuus 
+      <lb ed="#B" n="40"/>Quorum Secundus est quaestionis responsiuus 
+      </p>
+               <p xml:id="WuV37d-f34007-d1e328">
+                  <lb ed="#B" n="41"/>¶ Tertius est dubiorum motiuus  
+      <lb ed="#B" n="42"/>Quo ad primum articu 
+      <lb ed="#B" n="43"/>lum 
+      ter<lb ed="#B" n="44" break="no"/>mini sunt / triduum / resurrectio / et sedere ad 
+      <lb ed="#B" n="45"/>patris dexteram.
+</p>
+               <p xml:id="WuV37d-f34007-d1e341">
+¶ Primus igitur ter 
+      <lb ed="#B" n="46"/> 
+                  <lb ed="#B" n="47"/>est tres: et dies: quasi tres dies: vnde in 
+      propo<lb ed="#B" n="48" break="no"/>sito triduum dicitur tripliciter. Primo dicit 
+      <lb ed="#B" n="49"/>triduum id tempus in quo matutinali officio 
+      <!--596.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>threni cantantur hieremiae: hoc modo 
+      di<lb ed="#B" n="51" break="no"/>es iouis veneris et sabbati: ante dicit resui 
+      <lb ed="#B" n="52"/>rectionis dicuntur triduum: et hoc modo 
+      ca<lb ed="#B" n="53" break="no"/>piendo christus bene fuit homo in triduo: 
+      <lb ed="#B" n="54"/>quia die iouis et veneris vsque in horam 
+      no<lb ed="#B" n="55" break="no"/>nam. Secundo dicitur triduum illi dies 
+      artifi<lb ed="#B" n="56" break="no"/>ciales: in quibus anima christi a corpore seiun 
+      <lb ed="#B" n="57"/>cta est: et hoc modo totus dies veneris: 
+      <lb ed="#B" n="58"/>sabbati: et dies dominica: dicuntur triduum: hoc 
+      <lb ed="#B" n="59"/>etiam modo in triduo christus fuit homo: quia 
+      <lb ed="#B" n="60"/>die veneris vsque in horam nonam: et die 
+      domini<lb ed="#B" n="61" break="no"/>ca ab hora resurrectionis et deinceps. 
+      <lb ed="#B" n="62"/>Tertio dicitur triduum per sinecdochen: id 
+      <lb ed="#B" n="63"/>solum scilicet tempus in quo a corpore christi 
+      ani<lb ed="#B" n="64" break="no"/>ma seiuncta est: hoc modo hoc triduum di 
+      <lb ed="#B" n="65"/>citur dies veneris ratione vltimae suae par 
+      <lb ed="#B" n="66"/>tis: dies sabbati integer: et dies dominica 
+      ra<lb ed="#B" n="67" break="no"/>tione sui initii: et hoc modo christus non fuit 
+      <lb ed="#B" n="68"/>homo in triduo.
+</p>
+               <p xml:id="WuV37d-f34007-d1e398">
+¶ Secundus 
+      termi<lb ed="#B" n="69" break="no"/>nus est resurrectio quasi iterata surre 
+      <lb ed="#B" n="70"/>ctio. Unde resurrectio de qua ad praesens lo 
+      <lb ed="#B" n="71"/>quimur: hoc modo potest diffiniri. 
+      Resurre<lb ed="#B" n="72" break="no"/>ctio est corporis facti incorruptibilis ad 
+      ani<lb ed="#B" n="73" break="no"/>mam iterata vnio: vbi tria tanguntur. 
+      Pri<lb ed="#B" n="74" break="no"/>mo subiectum resurrectionis: dum dicitur cor 
+      <lb ed="#B" n="75"/>poris facti incorruptibilis. Primo enim quod 
+      <lb ed="#B" n="76"/>est animale et quod corruptibile quam quod spirituale et 
+      <lb ed="#B" n="77"/>incorruptibile: resurgemus autem ex corrupti 
+      <lb ed="#B" n="78"/>bili ad incorruptibile. Secundo tangitur resur 
+      <lb ed="#B" n="79"/>rectionis terminus dum dicitur: ad animam. Si 
+      <lb ed="#B" n="80"/>nempe corpus incorruptibile efficeretur et 
+      <lb ed="#B" n="81"/>ei anima non vniretur: non diceretur resurrectio. 
+      <lb ed="#B" n="82"/>Ideo tertio dicitur / iterata vnio et patet quod si 
+      <lb ed="#B" n="83"/>primo vnum corpus incorruptibile anima 
+      infor<lb ed="#B" n="84" break="no"/>maretur non esset resurrectio: quia non esset 
+      ite<lb ed="#B" n="85" break="no"/>rata vnio. I0h. dam. diffiniens resurrectio 
+      <lb ed="#B" n="86"/>nem dicit. Resurrectio est eius quod cecidit: et est 
+      <lb ed="#B" n="87"/>dissolutum secunda surrectio.
+</p>
+               <p xml:id="WuV37d-f34007-d1e442">
+¶ Tertius 
+      te<lb ed="#B" n="88" break="no"/>minus est sedere ad dexteram patris 
+      <lb ed="#B" n="89"/>Ubi notandum primo / quod ista tria differunt: et 
+      <lb ed="#B" n="90"/>a dextris patris / astare a dextris patris: 
+      <lb ed="#B" n="91"/>et sedere ad dexteram patris. Esse nempe  
+      <lb ed="#B" n="92"/>dextris omnibus competit beatis. Sic enim 
+      di<lb ed="#B" n="93" break="no"/>cit. Ques autem quidem ponet a dextris: 
+      <lb ed="#B" n="94"/>edos autem a sinistris. Astare autem a dex 
+      <lb ed="#B" n="95"/>tris proprium est beate marie inquantum 
+      <lb ed="#B" n="96"/>bona filii in ipsam speciali dignatione 
+      ef<lb ed="#B" n="97" break="no"/>fluunt. Astitit inquit dauid regina a 
+      dex<lb ed="#B" n="98" break="no"/>tris. Sedere autem ad patris dexteram es¬ 
+      <!--597.xml-->
+      <pb ed="#B" n="290-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>proprium christi: quia id est esse in potioribus 
+      <lb ed="#B" n="2"/>bonis dei quod solum ei conuenit. Unde vltra no 
+      <lb ed="#B" n="3"/>tandum quod pisophus dicitur esse in sinu dei patris 
+      ra<lb ed="#B" n="4" break="no"/>tione suae aeterne generationis. Dicitur secundo 
+      <lb ed="#B" n="5"/>sedere ad dexteram patris ratione bonorum quae 
+      <lb ed="#B" n="6"/>primus participat. Dicitur vero dextera patris 
+      <lb ed="#B" n="7"/>quia pater eo cuncta operatur. Omnia enim per ipsum 
+      <lb ed="#B" n="8"/>facta sunt. Ex quo patet tertio quod ista dexte 
+      <lb ed="#B" n="9"/>ra patris intelligenda est spiritualiter: non 
+      <lb ed="#B" n="10"/>admodum humani sensus. 
+      <lb ed="#B" n="11"/>
+      arti<lb ed="#B" n="12" break="no"/>culum 
+      <lb ed="#B" n="13"/>unt tres conclusiones. Prima est quod cpiscopus non fuit 
+      <lb ed="#B" n="14"/>homo in triduo. Secunda de resurrectione xpiscoi. Ter 
+      <lb ed="#B" n="15"/>tia de eius sessione ad dexteram patris.
+</p>
+               <p xml:id="WuV37d-f34007-d1e507">
+¶ Pri 
+      <lb ed="#B" n="16"/>na igitur est haec. Christus nec in triduo 
+      fu<lb ed="#B" n="17" break="no"/>t homo: nec vt homo vbique esse notatur. Prima pars 
+      <lb ed="#B" n="18"/>conclusionis dicit / quod pisopus non fuit homo in 
+      tri<lb ed="#B" n="19" break="no"/>duo. Probatur piscous in triduo fuit homo 
+      mor<lb ed="#B" n="20" break="no"/>tuus: ergo non fuit homo. Patet consequem 
+      <lb ed="#B" n="21"/>tia: quia esse mortuum diminuit de ratione hominis. 
+      <lb ed="#B" n="22"/>Confirmatur: quia corrupto superiori corrumpitur 
+      <lb ed="#B" n="23"/>inferius: sicut corrupto animali corrumpitur ho 
+      <lb ed="#B" n="24"/>mo: viuum autem extat superius homi: sed priscous 
+      <lb ed="#B" n="25"/>secundum humanitatem non viuebat in triduo: igi 
+      <lb ed="#B" n="26"/>tur nec erat homo. Patet tertio: xpriscus enim in 
+      <lb ed="#B" n="27"/>triduo secundum humanitatem nec videbat nec 
+      au<lb ed="#B" n="28" break="no"/>diebat etc. et ita si fuit homo erat homo caecus et 
+      <lb ed="#B" n="29"/>mutus: quod non est dicendum de xpiscopo. Ex quo 
+      <lb ed="#B" n="30"/>patet defectus hugo. de sancto victo. qui li. i. 
+      <lb ed="#B" n="31"/>de sacramentis parte prima ca. penul. ponit 
+      <lb ed="#B" n="32"/>christum in triduo fuisse hominem cuius causa 
+      <lb ed="#B" n="33"/>apud eum est: quia anima est totus homo: vnde corpus 
+      <lb ed="#B" n="34"/>non est nisi instrumentum animae: diuinum autem verbum 
+      <lb ed="#B" n="35"/>habuit in triduo animam secum vnitam: licet tamen 
+      <lb ed="#B" n="36"/>non corpori. Patet tamen oppositum: homo enim ex cor 
+      <lb ed="#B" n="37"/>pore et anima veluti suis partibus componitur: vt 
+      <lb ed="#B" n="38"/>nec anima sit homo: nec corpus homo: sed partes sint 
+      <lb ed="#B" n="39"/>hominis: vnde Augustinus 13. de ciui. dei ca. vlter. Hoc 
+      <lb ed="#B" n="40"/>scilicet verum est quod non totus homo: sed pars melior 
+      <lb ed="#B" n="41"/>hominis anima est: nec totus homo corpus: sed 
+      infe<lb ed="#B" n="42" break="no"/>rior hominis pars est. Ex quo pariformiter 
+      in<lb ed="#B" n="43" break="no"/>fertur defectus magistri sententiarum: qui in praesenti 
+      <lb ed="#B" n="44"/>etiam dis. ponit cpriscum fuisse hominem in triduo 
+      <lb ed="#B" n="45"/>tamen aliunde est motus quam hugo: quia scilicet diuinum 
+      <lb ed="#B" n="46"/>verbum habuit secum vnitam animam: habuit et 
+      <lb ed="#B" n="47"/>corpus secum vnitum: et illa duo sunt idem quod 
+      <lb ed="#B" n="48"/>homo. Sed sua salua reuerentia vnio hic non 
+      <lb ed="#B" n="49"/>sufficit: scilicet ad tertium: nisi inter se vniantur: 
+      <!--597.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>vnde in eadem Aug. auctoritate infertur: sed cum est. 
+      <lb ed="#B" n="51"/>vtrumque communiunctum: scilicet corpus et anima: hominis 
+      no<lb ed="#B" n="52" break="no"/>mem habet. Nec extat verum quod dicitur quod cor 
+      <lb ed="#B" n="53"/>pus et anima solum sunt homo: patet enim apud 
+      <lb ed="#B" n="54"/>doc. subti. in praesenti dis. et amplius in secunda 
+      <lb ed="#B" n="55"/>huius tertii: tertiam esse entitatem distinctam a 
+      <lb ed="#B" n="56"/>partibus. Ex quo sane concluditur / quod hoc in  
+      <lb ed="#B" n="57"/>passu non sine causa a reuerendis nostris 
+      ma<lb ed="#B" n="58" break="no"/>gistris: magister sententiarum communiter non tenetur. Et 
+      <lb ed="#B" n="59"/>extat secundus locus in quo in hoc tertio 
+      dimit<lb ed="#B" n="60" break="no"/>titur. Primus enim est in. 5. dis. vbi 
+      ponitani<lb ed="#B" n="61" break="no"/>mam esse personam. Et si obiiciatur: quia pisopus numquam 
+      <lb ed="#B" n="62"/>desiit esse sacerdos: est autem sacerdos secundum 
+      <lb ed="#B" n="63"/>humanam naturam. Scriptum est enim. Tu es 
+      <lb ed="#B" n="64"/>sacerdos in eternum secundum ordinem melchise 
+      <lb ed="#B" n="65"/>dech. Christus sempiternum habet 
+      sacer<lb ed="#B" n="66" break="no"/>dotium. Dicitur quod istud sacerdotium aeternum di 
+      <lb ed="#B" n="67"/>citur: quia sibi aliud non succedit: non quod semper 
+      <lb ed="#B" n="68"/>fuerit christus inquantum homo sacerdos. Ex 
+      <lb ed="#B" n="69"/>quo patet: quod: quando dicitur: christus descendit ad in 
+      <lb ed="#B" n="70"/>ferna: cpisous iacuit in sepulcbro: et consumata 
+      <lb ed="#B" n="71"/>ratione partis intelligitur sermo non totius. Sed 
+      <lb ed="#B" n="72"/>dicit secunda pars conclusionis: quod christus vt homo 
+      <lb ed="#B" n="73"/>non fuit vbique: patet: quia alioquin vt homo 
+      <lb ed="#B" n="74"/>moueri non potuisset. Nec valet quod huma 
+      <lb ed="#B" n="75"/>nitas in christo vnitur verbo diuino infinito 
+      <lb ed="#B" n="76"/>non enim oportet pro tanto quod si diuinum verbum 
+      <lb ed="#B" n="77"/>sit vbique: quod et humanitas: sicut licet sim cum 
+      <lb ed="#B" n="78"/>deo: non tamen sequitur: quod si deus sit rome: quod et 
+      <lb ed="#B" n="79"/>ego. Unde notat doctor deuo. q. 2. quod 
+      chri<lb ed="#B" n="80" break="no"/>stus dicitur in loco tripliciter. Personaliter: et 
+      <lb ed="#B" n="81"/>sic est vbique. Sacramentalitur: et sic est in mul 
+      <lb ed="#B" n="82"/>tis locis. Localiter: et sic est in caelo empi 
+      <lb ed="#B" n="83"/>reo ratione hummanitatis assumpte.
+</p>
+               <p xml:id="WuV37d-f34007-d1e662">
+¶ 
+      Se<lb ed="#B" n="84" break="no"/>cunda conclusio est / de resurrectione piscopi: et 
+      <lb ed="#B" n="85"/>est haec. Sic triduo in sepulcbro corpus xpiscopi 
+      <lb ed="#B" n="86"/>acuit: vt anima descendens ad inferos corpus  
+      <lb ed="#B" n="87"/>die reaccipiet tertia. Dicit prima pars 
+      conclu<lb ed="#B" n="88" break="no"/>sionis / quod corpus christi fuit in sepulcbro 
+      tri<lb ed="#B" n="89" break="no"/>bus diebus: patet ex figura Ione. Sicut 
+      <lb ed="#B" n="90"/>enim fuit ionas tribus diebus et tribus 
+      nocti<lb ed="#B" n="91" break="no"/>bus in ventre ceti: sic filius hominis in 
+      cor<lb ed="#B" n="92" break="no"/>de terrae. Et si obiiciatur ex illo. Dormiuit 
+      <lb ed="#B" n="93"/>samson: qui est figura christi: vsque ad 
+      me<lb ed="#B" n="94" break="no"/>dietatem noctis: et tulit portas. Cum ergo 
+      <lb ed="#B" n="95"/>media nocte surrexerit relinquitur: quod non fu 
+      <lb ed="#B" n="96"/>it tribus diebus. Et dicendum quod licet 
+      me<lb ed="#B" n="97" break="no"/>dia nocte surrexerit: tamen iam incipiebat 
+      di<lb ed="#B" n="98" break="no"/>es dominica: et hoc sufficit vt per partem totum 
+      <!--598.xml-->
+      <pb ed="#B" n="291-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>intelligamus. Ule dicendum quod surrexit inter 
+      <lb ed="#B" n="2"/>auroram et noctem mediam. Et quia medium am 
+      <lb ed="#B" n="3"/>borum in naturalibus sentit naturam extremorum 
+      <lb ed="#B" n="4"/>hinc est quod aliquando dicitur surrexisse in aurora: ali 
+      <lb ed="#B" n="5"/>quando in noctis medio: vt sic a sua sepultura 
+      <lb ed="#B" n="6"/>vsque ad suam resurrectionem. 36. horarum decur 
+      <lb ed="#B" n="7"/>reret spacium: quae est numerus perfectus: sex quippe 
+      <lb ed="#B" n="8"/>sexies faciunt. 36. Est autem sex apud arithme 
+      <lb ed="#B" n="9"/>ticum numerus valde completus: et in hoc numero 
+      <lb ed="#B" n="10"/>sunt duae noctes et dies vna: et seruatur propor 
+      <lb ed="#B" n="11"/>tio simpli ad duplum / secundum Aug. sua enim sim 
+      <lb ed="#B" n="12"/>pla nocte duplicem in nobis noctem interemit: 
+      <lb ed="#B" n="13"/>nocte. scilicet culpae et poenae: vnde non immerito tpimpus 
+      <lb ed="#B" n="14"/>aliorum in sua resurrectione praeuenit christus: vt 
+      <lb ed="#B" n="15"/>primogenitus diceretur mortuorum et de resurre 
+      <lb ed="#B" n="16"/>ctione nostra non dubitaremus sua morte iam 
+      con<lb ed="#B" n="17" break="no"/>perta. Ex quo patet tertia pars conclusionis / quod scilicet 
+      <lb ed="#B" n="18"/>christus resurrexit tertia die. Sed dicit secunda 
+      <lb ed="#B" n="19"/>pars conclusionis / quod christus descendit ad inferos 
+      <lb ed="#B" n="20"/>in illo triduo. Unde Dam. Descendit ad infer 
+      <lb ed="#B" n="21"/>na anima deificata: vt quemadmodum his quae in 
+      <lb ed="#B" n="22"/>terra sunt: ita et his qui in inferno sunt et in 
+      tene<lb ed="#B" n="23" break="no"/>pris et in vmbra mortis sedent superluceat: vnde 
+      <lb ed="#B" n="24"/>habet fidei articulus: Descendit ad inferna. 
+      </p>
+               <p xml:id="WuV37d-f34007-d1e756">
+                  <lb ed="#B" n="25"/>¶ Sed ad quem locum illa descendit anima san 
+      <lb ed="#B" n="26"/>st ctissima? Dicendum primo quod non descendit ad  
+      <lb ed="#B" n="27"/>infernum damnatorum: quia nullum ex eis 
+      rede<lb ed="#B" n="28" break="no"/>mit. Ex quo patet quod illa glo. super illud: 
+      Tu<lb ed="#B" n="29" break="no"/>quom in sanguine testamenti tui eduxisti 
+      vin<lb ed="#B" n="30" break="no"/>ctos de lacu: habens sic: eos qui tenebantur 
+      <lb ed="#B" n="31"/>vincti carceribus vbi eos nulla misecundia re 
+      <lb ed="#B" n="32"/>frigerabat: quam diues ille petebat. Tu 
+      li<lb ed="#B" n="33" break="no"/>berasti: est satis impropria: et debet expo 
+      <lb ed="#B" n="34"/>ni. Tu liberastim scilicet eos qui erant in inferno 
+      <lb ed="#B" n="35"/>cum talibus / non tamen ita condemnati. Ultra 
+      di<lb ed="#B" n="36" break="no"/>cendnm / quod non descendit ad limbum puerorum 
+      <lb ed="#B" n="37"/>quia non sunt membra christi. Tertio 
+      dicendum<lb ed="#B" n="38" break="no"/>pror descendit ad limbum patrum qui eum expecta 
+      <lb ed="#B" n="39"/>sant. Sed quid de loco purgatorii: San 
+      <lb ed="#B" n="40"/>ctus Tho. q. 1. diciti / quod anima christi solum 
+      de<lb ed="#B" n="41" break="no"/>scendit in limbum patrum / et ita non in purgato 
+      <lb ed="#B" n="42"/>rium. Et sequenti distin. dicit / quod nullum libera 
+      <lb ed="#B" n="43"/>uit de purgatorio / sed solum patres de lim 
+      <lb ed="#B" n="44"/>po. Oppositum tamen videtur probabilius quo ad 
+      <lb ed="#B" n="45"/>itrumque. Scriptum est enim. Solutis 
+      dolori<lb ed="#B" n="46" break="no"/>bus inferni. In limbo autem nullus erat 
+      <lb ed="#B" n="47"/>dolor: et ita oportet intelligi de 
+      puxgato<lb ed="#B" n="48" break="no"/>no.
+</p>
+               <p xml:id="WuV37d-f34007-d1e811">
+¶ Tertia conclusio est de sessione 
+      <lb ed="#B" n="49"/> christi ad patris dexteram: et est haec. Nume¬ 
+      <!--598.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>ro dierum completo quadragenario a resur 
+      <lb ed="#B" n="51"/>rectione / christus ad patris dexteram 
+      colloca<lb ed="#B" n="52" break="no"/>tur: patet per symbolum. Ascendit inquit ad 
+      cae<lb ed="#B" n="53" break="no"/>los: sedet ad dexteram dei patris omnipotem 
+      <lb ed="#B" n="54"/>tis. Unde scribitur. Per dies quadragita ap 
+      <lb ed="#B" n="55"/>parens eis / et loquens de regno dei. Et 
+      in<lb ed="#B" n="56" break="no"/>fra. Cleuatis manibus ferebatur in caelum: et 
+      <lb ed="#B" n="57"/>benedixit eis. Ex quo patet quod ista ascensio 
+      <lb ed="#B" n="58"/>non fuit subita / sed in tempore facta. Nec enim eum 
+      <lb ed="#B" n="59"/>potuissent vidisse apostoli ascendentem: cum tamen 
+      <lb ed="#B" n="60"/>scriptum sit. Uidentibus illis eleuatus est: et 
+      <lb ed="#B" n="61"/>nubes suscepit eum: non in adiutorium / sed in 
+      <lb ed="#B" n="62"/>solatium. Ex quo patet motum eius fuisse na 
+      <lb ed="#B" n="63"/>turalem / non violentum: licet enim corpora terrea 
+      <lb ed="#B" n="64"/>antequam glorificentur / violenter sursum moueam 
+      <lb ed="#B" n="65"/>tur: non tamen eis glorificatis dotibus variis  
+      <lb ed="#B" n="66"/>eisdem communicatis. Et patet quod immediate 
+      <lb ed="#B" n="67"/>post resurrectionem ascendere non debuit: sed 
+      <lb ed="#B" n="68"/>discipulos suos confirmare et consolari die 
+      <lb ed="#B" n="69"/>bus quadraginta: quae horis quadraginta in 
+      mor<lb ed="#B" n="70" break="no"/>te sua fuerant desolati. Quod autem sit supra 
+      <lb ed="#B" n="71"/>omnem creaturam collocatus / insinuat apostolus 
+      <lb ed="#B" n="72"/>Excelsior inquit caelis factus: cum glosis 
+      <lb ed="#B" n="73"/>ibi notatis. 
+      <lb ed="#B" n="74"/>
+      arti<lb ed="#B" n="75" break="no"/>culum 
+      <lb ed="#B" n="76"/>sunt tres difficultates iuxta tres conclusio 
+      <lb ed="#B" n="77"/>nes.
+</p>
+               <p xml:id="WuV37d-f34007-d1e881">
+¶ Prima est. Quomodo potest verificari 
+      <lb ed="#B" n="78"/>illud dictum Ansel. Quod christus semel 
+      assum<lb ed="#B" n="79" break="no"/>psit numquam dimisit: si non fuerit homo in triduo. 
+      <lb ed="#B" n="80"/>Dicendum primo quod intelligitur de partibus 
+      princi<lb ed="#B" n="81" break="no"/>palibus / non de totoi cuiusmodi est 
+      humani<lb ed="#B" n="82" break="no"/>tas: aut partibus minus principalibus / cuiusmo 
+      <lb ed="#B" n="83"/>di est rasio vnguium / aut aliquid sanguinis eius / 
+      <lb ed="#B" n="84"/>qui in aliquibus locis reperitur. Secundo 
+      di<lb ed="#B" n="85" break="no"/>cendum quod intelligitur quod non dimisit 
+      simplici<lb ed="#B" n="86" break="no"/>ter: quia rursus reaccepit. Tertio dicendum 
+      <lb ed="#B" n="87"/>quod intelligitur / non dimisit scilicet hominem quasi homo 
+      <lb ed="#B" n="88"/>quem assumpsit esset in rerum natura / et non se 
+      <lb ed="#B" n="89"/>cum vnitus.
+</p>
+               <p xml:id="WuV37d-f34007-d1e910">
+¶ Secunda difficultas est. 
+      <lb ed="#B" n="90"/>de illa auctoritate. In profundum 
+      infer<lb ed="#B" n="91" break="no"/>ni descendit anima mea: et ita cum Ioh fuerit 
+      <lb ed="#B" n="92"/>sanctus: non dubium quin per christum fuerit li 
+      <lb ed="#B" n="93"/>beratus. Ex quo videtur animam christi in 
+      in<lb ed="#B" n="94" break="no"/>simum inferni descendisse. Dicendum tam secundum 
+      <lb ed="#B" n="95"/>Tho. q. 2. arti. 2. quam doc. deuo. q. 4. quod aequi 
+      <lb ed="#B" n="96"/>uocatur de inferno. In ista autem 
+      autortorita<lb ed="#B" n="97" break="no"/>te consideratur infernus tripliciter. Primus 
+      <lb ed="#B" n="98"/>est aer caliginosus: in quo est habitatio de¬ 
+      <!--599.xml-->
+      <pb ed="#B" n="291-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>monum: et dicitur profundus. Secundus hic mundus: et 
+      <lb ed="#B" n="2"/>dicitur profundior. Tertius locus subterraneus 
+      com<lb ed="#B" n="3" break="no"/>prehendens illa quattuor loca supradicta: et 
+      <lb ed="#B" n="4"/>dicitur profundissimus: et ad hunc descendit anima 
+      <lb ed="#B" n="5"/>christis / sed non ad quamlibet partem / vt visum est. 
+      </p>
+               <p xml:id="WuV37d-f34007-d1e949">
+                  <lb ed="#B" n="6"/>¶ Tertia difficultas. Ad quam partem 
+      cae<lb ed="#B" n="7" break="no"/>li empirei est ad dexteram patrem humanitas 
+      <lb ed="#B" n="8"/>christi collocata? Dicendum quod rationabile est sa 
+      <lb ed="#B" n="9"/>tis dicere quod ad partem aquilonis: propter id quod 
+      <lb ed="#B" n="10"/>dixit lucifer. Ponam sedem meam a parte 
+      aquilo<lb ed="#B" n="11" break="no"/>nis: et ero similis altissimo. Ex quo 
+      quodammo<lb ed="#B" n="12" break="no"/>do innuitur specialem illic esse locum bonorum. 
+      <lb ed="#B" n="13"/>Ex quo patet ad. q. quod videlicet christus non 
+      <lb ed="#B" n="14"/>ens homo in triduo: et resurgens ab inferis / ad  
+      <lb ed="#B" n="15"/>patris sedet dexteram. Tunc ad argumenta. 
+      </p>
+               <p xml:id="WuV37d-f34007-d1e974">
+                  <lb ed="#B" n="16"/>¶ Ad primum negatur antecedens: quia christus inclu 
+      <lb ed="#B" n="17"/>dit duas naturas / diuinam et humanam: et huma 
+      <lb ed="#B" n="18"/>na non erat in triduo: ideo subiectum non 
+      suppo<lb ed="#B" n="19" break="no"/>nebat / nisi limitaretur ad standum pro diuino sup 
+      <lb ed="#B" n="20"/>posito. Sed tunc consequentia non valebat: quia 
+      <lb ed="#B" n="21"/>antecedens intelligebatur de diuina natura: et 
+      <lb ed="#B" n="22"/>consequentia procedebat de humana.
+</p>
+               <p xml:id="WuV37d-f34007-d1e992">
+¶ Ad secundum di 
+      <lb ed="#B" n="23"/>cendum ad minorem: quod ratione vtriusque: primo ratio 
+      <lb ed="#B" n="24"/>ne corporis: quia corpus factum est incorruptibile. 
+      <lb ed="#B" n="25"/>Nec obuiat quod inacuerit in sepulcbro: non enim 
+      <lb ed="#B" n="26"/>dicitur resurrexisse de sub terra / sed ad vitam 
+      <lb ed="#B" n="27"/>participandam. Secundo dicitur resurrexisse ratione 
+      <lb ed="#B" n="28"/>animae de inferis ascendentis: et quod dicitur per Aug. 
+      <lb ed="#B" n="29"/>ad dardanum etc. Dicendum quod verum est: vbi acci 
+      <lb ed="#B" n="30"/>pitur in paenam / non aliter: christus autem ibi fuit ad  
+      <lb ed="#B" n="31"/>suos consolandos amicos solum.
+</p>
+               <p xml:id="WuV37d-f34007-d1e1014">
+¶ Ad ter 
+      <lb ed="#B" n="32"/>tium negatur minor. Dum probatur per illud 
+      Pro<lb ed="#B" n="33" break="no"/>uer. 3. etc. Dicitur quod illa auctoritas intelligitur 
+      <lb ed="#B" n="34"/>non de bonis aeternis: sed fit comparatio bono 
+      <lb ed="#B" n="35"/>rum temporalium ad aeterna: vt gloria et diuitiae 
+      ac<lb ed="#B" n="36" break="no"/>cipiantur pro bonis temporalibus: longitudo dierum pro 
+      <lb ed="#B" n="37"/>bonorum cumulo aeternorum / quae sine fine est: 
+      tem<lb ed="#B" n="38" break="no"/>poralia igitur sunt in sinistra / sed aeterna in de 
+      <lb ed="#B" n="39"/>xtera: et sic non obuiat argumentum.
+</p>
+            </div>
+            <div xml:id="WuV37d-f34007-Dd1e1035" type="et-conclusiones">
+               <head xml:id="WuV37d-f34007-Hd1e1037">Conclusiones</head>
+               <p xml:id="WuV37d-f34007-d1e1040">
+¶ Ex prae 
+      <lb ed="#B" n="40"/>senti autem distin. etc. Prima conclusio. 
+      <lb ed="#B" n="41"/>Christus censetur in morte proprie homo sub se 
+      <lb ed="#B" n="42"/>rie qua minor videtur. Dicit coclusio quod 
+      ma<lb ed="#B" n="43" break="no"/>gistro videtur / quod christus fuit homo in triduo: et 
+      <lb ed="#B" n="44"/>ponitur a principio dist. vsque ibi: hic quaeritur 
+      <lb ed="#B" n="45"/>etc.
+</p>
+               <p xml:id="WuV37d-f34007-d1e1056">
+¶ Secunda conclusio. Totus dicitur 
+      vbi<lb ed="#B" n="46" break="no"/>que genitus: non totum canitur vbique penitus. 
+      Di<lb ed="#B" n="47" break="no"/>cit conclusio / quod christus vbique totus est / sed non to 
+      <lb ed="#B" n="48"/>tum: et ponitur ab illo ca. Hic quaeritur etc. vsque 
+      <lb ed="#B" n="49"/>ibi: Solet etiam quaeri.
+</p>
+               <p xml:id="WuV37d-f34007-d1e1067">
+¶ Tertia conclusio. 
+      <!--599.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>De caelis venisse clamatur christus: atque 
+      pro<lb ed="#B" n="51" break="no"/>batur rursus ascendisse. Dicit conclusio / quod chri 
+      <lb ed="#B" n="52"/>stus ascendit in caelunm / et descendit de caelo. Et 
+      <lb ed="#B" n="53"/>ponitur ab illo ca. Solet etiam quaeri: vsque ad  
+      <lb ed="#B" n="54"/>finem distinctionis. 
+</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

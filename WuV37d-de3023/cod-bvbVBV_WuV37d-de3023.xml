@@ -1,0 +1,616 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 1</title>
+            <author ref="#WilliamDeVaurouillon">William de Vaurouillon</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 1</title>
+               <date when="2021-06-19">June 19, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-bvbVBV">Basel 1510</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-06-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="8-r"/>
+            <cb ed="#B" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="WuV37d-de3023"><!-- l1d1 -->
+            <head xml:id="WuV37d-de3023-Hd1e108">Distinctio 1</head>
+            <div xml:id="WuV37d-de3023-Dd1e111" type="circa-textum"><!-- l1d1prae -->
+               <head xml:id="WuV37d-de3023-Hd1e114">Circa textum</head>
+               <p xml:id="WuV37d-de3023-d1e117">
+                  <lb ed="#B" n="55"/>Diuisio quattuor librorum 
+      Sen<lb ed="#B" n="56" break="no"/>tentiarum. 
+      <lb ed="#B" n="57"/>rEteris ac no 
+      <lb ed="#B" n="58"/>uae legis continentiam 
+      <lb ed="#B" n="59"/>diligeti indagine etiam 
+      <lb ed="#B" n="60"/>atque etiam 
+      cosideranti<lb ed="#B" n="61" break="no"/>ibus nobis: praeuia dei 
+      <lb ed="#B" n="62"/>gratia innotuit etc. Superius 
+      sententia<lb ed="#B" n="63" break="no"/>rum magister Petrus lombardi 
+      praemi<lb ed="#B" n="64" break="no"/>sit suae intentionis iudicium: nunc subiungit 
+      <lb ed="#B" n="65"/>narrationis compendium. Et diuiditur 
+      <lb ed="#B" n="66"/>ista pars in quattuor / secundum quattuor 
+      sen<lb ed="#B" n="67" break="no"/>tentiarum libros. Primo enim agitur de be 
+      <lb ed="#B" n="68"/>atae trinitatis immensa natura: in primo. 
+      <lb ed="#B" n="69"/>Secundo de creatae nouitatis ostensa 
+      fa<lb ed="#B" n="70" break="no"/>ctura: in secundo. Tertio de electae 
+      chari<lb ed="#B" n="71" break="no"/>tatis firmata iunctura: in tertio. Quarto de 
+      <lb ed="#B" n="72"/>abiectae vetustatis ablata fractura: in quarto. 
+      </p>
+               <p xml:id="WuV37d-de3023-d1e159">
+                  <lb ed="#B" n="73"/>¶ Prima iterum particula in qua agit 
+      ma<lb ed="#B" n="74" break="no"/>gister de beatae trinitatis etc. in tres partes 
+      <lb ed="#B" n="75"/>diuiditur. In prima distinctionum praemittitur ne 
+      <lb ed="#B" n="76"/>cessaria notificatio. In secunda earundem conclu 
+      <lb ed="#B" n="77"/>ditur vtilis epilogatio. In tertia trinitatus 
+      in<lb ed="#B" n="78" break="no"/>seritur miranda explicatio. Secunda 
+      in<lb ed="#B" n="79" break="no"/>cipit ibi: Omnium igitur quae dicta sunt. 
+      <lb ed="#B" n="80"/>Tertia ibi: distinctione secunda. Hoc 
+      ita<lb ed="#B" n="81" break="no"/>que vera et pia fide etc.
+</p>
+               <p xml:id="WuV37d-de3023-d1e181">
+¶ Rursus prima 
+      <lb ed="#B" n="82"/>pars: in qua distinctionum praemittitur necessa 
+      <lb ed="#B" n="83"/>ria notificatio: in tres partes diuiditur. In 
+      <lb ed="#B" n="84"/>prima quarum ostenditur / penes quid versiratur 
+      <lb ed="#B" n="85"/>doctrinae speculatio. In secunda penes quid 
+      <lb ed="#B" n="86"/>distinguitur voluntatis dilectio. In tertia tri 
+      <lb ed="#B" n="87"/>plex concluditur vtilis dubitatio. Secunda 
+      <lb ed="#B" n="88"/>incipit ibi: Id igitur in rebus considerandum 
+      <lb ed="#B" n="89"/>est etc. Tertia ibi: Cum autem homines qui 
+      <lb ed="#B" n="90"/>fruuntur et vtuntur etc. Rursus prima pars 
+      <lb ed="#B" n="91"/>in qua ostenditur penes quid versatur 
+      do<lb ed="#B" n="92" break="no"/>ctrinae speculatio: in tres partes diuiditur. 
+      <lb ed="#B" n="93"/>In quarum prima rerum et signorum ponitur 
+      <lb ed="#B" n="94"/>distinctio. In secunda dicitur distinctionis 
+      decla<lb ed="#B" n="95" break="no"/>ratio. In tertia concluditur distinctionis. 
+      <lb ed="#B" n="96"/>applicatio. Secunda incipit ibi: Proprie 
+      <!--33.xml-->
+      <pb ed="#B" n="8-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>autem haec res appellatur etc. Tertia ibi: Cum 
+      <lb ed="#B" n="2"/>que his intendit theologorum speculatio etc. 
+      </p>
+               <p xml:id="WuV37d-de3023-d1e227">
+                  <lb ed="#B" n="3"/>¶ Rursus secunda pars: in qua ostenditur 
+      <lb ed="#B" n="4"/>penes quid dicitur voluntatis dilectio scilicet ibi: 
+      <lb ed="#B" n="5"/>Id igitur in rebus considerandum est etc. in 
+      <lb ed="#B" n="6"/>tres partes diuiditur. In quarum prima pam 
+      <lb ed="#B" n="7"/>ditur diuersarum dilectionum descriptio. In 
+      <lb ed="#B" n="8"/>secunda subiungitur descriptionis diuer 
+      <lb ed="#B" n="9"/>sa acceptio. In tertia exponitur 
+      dubitatio<lb ed="#B" n="10" break="no"/>nis solutio. Secunda pars est ibi: Notandum 
+      <lb ed="#B" n="11"/>vero quod idem Augusti. etc. Tertia ibi: Haec 
+      <lb ed="#B" n="12"/>igitur quae sibi contradicere videntur etc.
+</p>
+               <p xml:id="WuV37d-de3023-d1e252">
+¶ Rur 
+      <lb ed="#B" n="13"/>sus tertia pars: in qua triplex concluditur 
+      <lb ed="#B" n="14"/>vtilis dubitatio in tres partes diuiditur 
+      <lb ed="#B" n="15"/>In prima agitur de obiecto fruitionis 
+      in<lb ed="#B" n="16" break="no"/>haesiuae. In secunda de subiecto dilectionis 
+      <lb ed="#B" n="17"/>fruitiuae. In tertia de medio virtutis cone 
+      <lb ed="#B" n="18"/>ctiuae. Prima in principio. Secunda ibi: 
+      <lb ed="#B" n="19"/>Sed cum deus diligat nos etc. Tertia ibi: 
+      <lb ed="#B" n="20"/>Hic considerandum est. Et haec est diuisio praesen 
+      <lb ed="#B" n="21"/>tis distinctionis primae in generali. Circa quam 
+      <lb ed="#B" n="22"/>talis oritur titulus quaestionis. 
+      </p>
+            </div>
+            <div xml:id="WuV37d-de3023-Dd1e277"><!-- l1d1q1 -->
+               <head xml:id="WuV37d-de3023-Hd1e280">Quaestio</head>
+               <p xml:id="WuV37d-de3023-d1e283">
+                  <lb ed="#B" n="23"/>¶ Questio de fruitionis subtilitate 
+      <lb ed="#B" n="24"/>et singularitate iuxta mentem 
+      do<lb ed="#B" n="25" break="no"/>ctoris subtilis in. 1. libro: dist. 1. qui 
+      <lb ed="#B" n="26"/>noue facit partiales quaestiones de 
+      <lb ed="#B" n="27"/>hac materia. 
+      <lb ed="#B" n="28"/>Utrum fruitio 
+      <lb ed="#B" n="29"/>r vsui condistincta plures in dec 
+      <lb ed="#B" n="30"/>aspiciat ratioes fruitionis: Et sup 
+      <lb ed="#B" n="31"/>posito pro habito noto scilicet quod fruitio et vsus 
+      <lb ed="#B" n="32"/>distinguantur: cum diuersa habeant obiecta: 
+      <lb ed="#B" n="33"/>et fruitio creatorem / vsus deo creaturam aspi 
+      <lb ed="#B" n="34"/>ciat. Arguo ad quaesitum. Primo quod sic / tri 
+      <lb ed="#B" n="35"/>pliciter.
+</p>
+               <p xml:id="WuV37d-de3023-d1e314">
+¶ Primo sic. In 1. ethicorum 
+      di<lb ed="#B" n="36" break="no"/>cit Philosophus et commentator Eustracius: quod sicut 
+      <lb ed="#B" n="37"/>ens et vnum sunt in omni genere / ita et bo 
+      <lb ed="#B" n="38"/>num: et specialiter ibi de relatione. Ergo 
+      si<lb ed="#B" n="39" break="no"/>cut relatio habet propriam bonitatem: sic 
+      ha<lb ed="#B" n="40" break="no"/>bet propriam fruibilitatem: et per consequens cum 
+      <lb ed="#B" n="41"/>ipsa sit in deo alia et alia: ibi erit alia et 
+      <lb ed="#B" n="42"/>alia ratio fruibilis.
+</p>
+               <p xml:id="WuV37d-de3023-d1e332">
+¶ Secundo sic. Omne 
+      <lb ed="#B" n="43"/>vltimate quietatiuum humani appetitus 
+      <lb ed="#B" n="44"/>habet rationem per se fruibilis: sed non solum 
+      <lb ed="#B" n="45"/>deitas seu ratio deitatis: sed pater et fili 
+      <lb ed="#B" n="46"/>us et spiritus sanctus: et attributa diuersa in 
+      di<lb ed="#B" n="47" break="no"/>uina essentia visa quietant vltimate appe¬ 
+      <!--33.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="48"/>titum humanum: ergo etc. Maior patet ei 
+      <lb ed="#B" n="49"/>ratione fruibilis. Fruibile enim est illud quod 
+      <lb ed="#B" n="50"/>propter se est diligibile. Minor patet: quia tam 
+      <lb ed="#B" n="51"/>pater est infinitus quam filius: ita iusticia est 
+      in<lb ed="#B" n="52" break="no"/>finita in deo / et vnitas: et sic de aliis 
+      proprie<lb ed="#B" n="53" break="no"/>tatibus: vt videtur in fruibilibus: infinitum autem 
+      <lb ed="#B" n="54"/>quodlibet intensiuum satiat appetitum 
+      huma<lb ed="#B" n="55" break="no"/>num: cum nihil appetatur amplius infinito¬ 
+      </p>
+               <p xml:id="WuV37d-de3023-d1e367">
+                  <lb ed="#B" n="56"/>¶ Tertio arguitur sic. Actus non terminatur 
+      <lb ed="#B" n="57"/>ad obiectum inquantum numeratur: nisi obiectum 
+      <lb ed="#B" n="58"/>vt est formale obiectum numeretur. Sed actus 
+      <lb ed="#B" n="59"/>fruendi terminatur ad tres personas inquantum tres: 
+      <lb ed="#B" n="60"/>igitur obiectum fruitionis inquantum formale 
+      ob<lb ed="#B" n="61" break="no"/>iectum numeratur. Minor patet. Credimus de 
+      <lb ed="#B" n="62"/>um inquantum trinus est: igitur videbimus deum 
+      in<lb ed="#B" n="63" break="no"/>quantum trinus est: quia visio succedit fidei secundum 
+      <lb ed="#B" n="64"/>totam perfectionem: ergo fruimur deo inquantum 
+      <lb ed="#B" n="65"/>trinus.
+</p>
+               <p xml:id="WuV37d-de3023-d1e392">
+¶ In oppositum vero arguitur. In 
+      quali<lb ed="#B" n="66" break="no"/>bet ordine essentiali est dare vnum 
+      princi<lb ed="#B" n="67" break="no"/>pium tantum: ergo in ordine finium est tantum vna vlti 
+      <lb ed="#B" n="68"/>ma ratio finis: fruitio autem est respectu finis: 
+      <lb ed="#B" n="69"/>ergo etc.
+</p>
+               <p xml:id="WuV37d-de3023-d1e403">
+¶ In ista quaestione sicut in praecedenti 
+      <lb ed="#B" n="70"/>sunt tres articuli declarandi 
+      <lb ed="#B" n="71"/>Primus est terminorum declaratiuus 
+      <lb ed="#B" n="72"/>Quorum Secundus est quaestionis responsiuus. 
+      <lb ed="#B" n="73"/>Tertius est dubiorum motiuus; 
+      <lb ed="#B" n="74"/>Quo ad primii circa istun 
+      <lb ed="#B" n="75"/>terminun 
+      <lb ed="#B" n="76"/>vsus. Notandum est quod apud doctorem deuo 
+      <lb ed="#B" n="77"/>tum: vsus dicitur quinque modis: qui possunt ad tres re 
+      <lb ed="#B" n="78"/>duci.
+</p>
+               <p xml:id="WuV37d-de3023-d1e425">
+¶ Accipitur enim vsus aut pro actu 
+      <lb ed="#B" n="79"/>vt est naturalis: aut secundo pro actu / vt est liber: 
+      <lb ed="#B" n="80"/>aut t ertio pro actu / vt est meritorius aut 
+      ordi<lb ed="#B" n="81" break="no"/>natus. Primi duo modi habent capi pro actu 
+      <lb ed="#B" n="82"/>vt est elicitus naturaliter / aut vt naturalitur. 
+      <lb ed="#B" n="83"/>Est nempe vsus primo modo / vt dicitur 
+      cummu<lb ed="#B" n="84" break="no"/>nissime acceptus: vt habet opponi contra 
+      ociosi<lb ed="#B" n="85" break="no"/>tate. scilicet pro naturali operatione cuiuslibet rei: 
+      <lb ed="#B" n="86"/>Et isto modo philosophus dicit: Cuius vsus bonus esti 
+      <lb ed="#B" n="87"/>ipscum quom bonum est. Secundo modo vsus dicitur 
+      communi<lb ed="#B" n="88" break="no"/>ter: et diuiditur contra dissuetudinem: et sic diffinitur 
+      <lb ed="#B" n="89"/>a victorino. Usus est actus frequenter elicitus 
+      <lb ed="#B" n="90"/>a potentia. Et hoc modo potest dici quod est actus  
+      <lb ed="#B" n="91"/>omnis potentiae: nec addit super actum nisi 
+      fre<lb ed="#B" n="92" break="no"/>quentiam. Tertius et quartus modi habent acci 
+      <lb ed="#B" n="93"/>piri pro actu / vt est libere elicitus / sed differen 
+      <lb ed="#B" n="94"/>ter: quia tertius in communi seu sit finis / seu en 
+      <lb ed="#B" n="95"/>tium ad finem: quartus solum vt est entium ad 
+      fi<lb ed="#B" n="96" break="no"/>nem. Unde idem doctor dicit: quod tertio modo 
+      <!--34.xml-->
+      <pb ed="#B" n="9-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>accipitur vsus proprie. et sic diuiditur contra 
+      ha<lb ed="#B" n="2" break="no"/>bitum memoriae et intelligentia. scilicet contra 
+      inge<lb ed="#B" n="3" break="no"/>nium et doctrinam. et sic diffinitur ab Aug. iiii. 
+      <lb ed="#B" n="4"/>de trini. Usus est assumere aliquid in faculta 
+      <lb ed="#B" n="5"/>tem voluntatis: et sic dicit actum voluntatis pro 
+      <lb ed="#B" n="6"/>prie. Quarto modo accipitur magis proprie: et 
+      <lb ed="#B" n="7"/>sic diuiditur contra actum quietatiuum. scilicet contra frui /¬t 
+      <lb ed="#B" n="8"/>sic diffinitur ab Aug. Uti est assumere 
+      ali<lb ed="#B" n="9" break="no"/>quid in facultatem voluntatis propter aliud: et sic 
+      <lb ed="#B" n="10"/>est actus voluntatis vt ad aliud relate. Quin 
+      <lb ed="#B" n="11"/>to modo habet accipi pro actu meritorio aut 
+      or<lb ed="#B" n="12" break="no"/>dinato. vnde dicit quod hoc modo accipitur 
+      propriissi<lb ed="#B" n="13" break="no"/>me. et sic distinguitur contra actum inordinatum: 
+      <lb ed="#B" n="14"/>scice contra abuti. et sic diffinitur ab Aug. li. de do 
+      <lb ed="#B" n="15"/>ctri. christiana: Uti est id quod in vsum vene / 
+      <lb ed="#B" n="16"/>rit referre ad id quo fruendum est. et sic vti 
+      di<lb ed="#B" n="17" break="no"/>cit actum voluntatis relatum et ordinatum in 
+      fi<lb ed="#B" n="18" break="no"/>i nem. Hoc de vti / siue viu.
+</p>
+               <p xml:id="WuV37d-de3023-d1e512">
+¶ Frui vero secundum 
+      <lb ed="#B" n="19"/>magistrum / et habetur in listra: est amore inherere 
+      <lb ed="#B" n="20"/>alicui rei propter se. Unde frui secundum diuersas 
+      <lb ed="#B" n="21"/>sanctorum auctoritates solet capi tripliciter. Uno 
+      <lb ed="#B" n="22"/>modo vt dicit actum voluntatis cum gaudio. et 
+      <lb ed="#B" n="23"/>hoc modo dicit Aug. Frui est vti cum gaudio 
+      <lb ed="#B" n="24"/>Secundo modo vt dicit actum cum quietatione. 
+      <lb ed="#B" n="25"/>et hoc modo dictum est ab aug. vt praedictum est. Frui 
+      <lb ed="#B" n="26"/>est amore inherere alicui rei propter se. Et hoc 
+      <lb ed="#B" n="27"/>modo accipitur proprie. Tertio modo accipitur 
+      <lb ed="#B" n="28"/>prout complectitur vtrumque scilicet quietem et delectati 
+      <lb ed="#B" n="29"/>onem. et hoc modo diffinitur ab Aug. Frui est quie 
+      <lb ed="#B" n="30"/>scere in cognitis voluntate propter se 
+      delecta<lb ed="#B" n="31" break="no"/>ta. et sic accipitur propriissime. Actus enim hi 
+      <lb ed="#B" n="32"/>duo voluntatis scilicet vsus et fruitio se habent ad 
+      <lb ed="#B" n="33"/>similitudinem actuum intellectus vt declarat in 
+      <lb ed="#B" n="34"/>hac di. doc. subtilis. Sicut enim in intellectu 
+      <lb ed="#B" n="35"/>sunt duo actus assentiendi alicui complexo: 
+      <lb ed="#B" n="36"/>vnus quo alicui assentimus propter se / sicut 
+      prini<lb ed="#B" n="37" break="no"/>cipio. Alius vero quo alicui assentitur: non propter 
+      <lb ed="#B" n="38"/>se / sed propter aliud verum sicut conclusioni. Ita in 
+      <lb ed="#B" n="39"/>voluntate sunt duo actus assentiendi bono: 
+      <lb ed="#B" n="40"/>vni assentitur / alteri non assentiendo: sed propter 
+      <lb ed="#B" n="41"/>se. alteri vero assentitur: non propter se / sed propter 
+      <lb ed="#B" n="42"/>aliud bonum ad quod refertur: sicut conclusioni assem 
+      <lb ed="#B" n="43"/>titur propter principium: quia conclusio veritatem habet 
+      <lb ed="#B" n="44"/>a principio. Ista similitudo accipi potest a philosopho: 
+      <lb ed="#B" n="45"/>6. ethiec. vbi dicitur quod sicut in mente est 
+      affirma<lb ed="#B" n="46" break="no"/>tio et negatio sic in appetitu est prosecutio et 
+      <lb ed="#B" n="47"/>fuga. Et ita vlterius infero: sicut in mente est. 
+      <lb ed="#B" n="48"/>duplex affirmatio propter se / et propter aliud: 
+      <lb ed="#B" n="49"/>ita in appetitu duplex est prosecutio scilicet proptes 
+      <!--34.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>se / et propter aliud.
+</p>
+               <p xml:id="WuV37d-de3023-d1e588">
+¶ Tertius emtminus Ratio 
+      <lb ed="#B" n="51"/>Ratio vno modo dicitur vis intellectiua. et sic 
+      <lb ed="#B" n="52"/>dicit porphprius: Sumus enim rationales nos / et 
+      <lb ed="#B" n="53"/>dii: sed mortale additum nob separat nos ab 
+      <lb ed="#B" n="54"/>illis. Secundo dicitur ratio forma constituens hominem 
+      <lb ed="#B" n="55"/>seu modus cognoscendi inquentum distinguitur 
+      <lb ed="#B" n="56"/>ab angelicis spiritibus: quia cum discursu intel 
+      <lb ed="#B" n="57"/>ligit. et sic dicit de ratione Aug. li. de differentia 
+      <lb ed="#B" n="58"/>spiritus et animae. In patria sensus mutabitur in 
+      <lb ed="#B" n="59"/>imagiuationem: imaginatio in rationem: ratio in 
+      in<lb ed="#B" n="60" break="no"/>tellectum: intellectus in intelligentiam: 
+      intelli<lb ed="#B" n="61" break="no"/>gentia in deum. Tertio modo accipitur pro 
+      diffi<lb ed="#B" n="62" break="no"/>nitione alicuius entis / si illud ens partes habeat: 
+      <lb ed="#B" n="63"/>vel pro quidditate seu formali ratione alicuius entis: 
+      <lb ed="#B" n="64"/>sicut loquitur sepius magister Nicholaus Boneti 
+      <lb ed="#B" n="65"/>in sua metaphy. verbigistera: Sicut dicitur quod 
+      enim<lb ed="#B" n="66" break="no"/>titas est ratio subiectiua entis. et hoc modo ca 
+      <lb ed="#B" n="67"/>pitur in proposito. Et hoc quo ad primum articulum. 
+      <lb ed="#B" n="68"/>Quatum ad secudum 
+      <lb ed="#B" n="69"/>articulum erunt tres conclusiones. Prima erit 
+      <lb ed="#B" n="70"/>de persona diuina in respectu ad personam aliam. 
+      <lb ed="#B" n="71"/>Secunda respectu essentiae ad personam: et ambae 
+      <lb ed="#B" n="72"/>de possibili. Prima in via: secunda in patria. 
+      <lb ed="#B" n="73"/>tertia erit de facto.
+</p>
+               <p xml:id="WuV37d-de3023-d1e640">
+¶ Quo ad primum sit 
+      <lb ed="#B" n="74"/>ista conclusio: Possibile est viatori frui 
+      or<lb ed="#B" n="75" break="no"/>dinate vna persona non fruendo alia. Proba 
+      <lb ed="#B" n="76"/>tur tripliciter. Primo sic: respectu trium persona 
+      <lb ed="#B" n="77"/>rum sunt tres articuli distincti: ergo possibi 
+      <lb ed="#B" n="78"/>le est cogitare de vno articulo non 
+      cogitan<lb ed="#B" n="79" break="no"/>do de alio. Et cum effcuns cognitionem sequitur 
+      <lb ed="#B" n="80"/>erit possibile frui vna persona non fruendo 
+      <lb ed="#B" n="81"/>alia. Et si obiiciatur quod personae sunt relatiuae: et 
+      <lb ed="#B" n="82"/>per consequens sunt simul natura id est naturali 
+      intelli<lb ed="#B" n="83" break="no"/>gentia. Respondeo: quod licet sint simul natura 
+      re<lb ed="#B" n="84" break="no"/>latiua: non tamen propter hoc oportet fruentem vno: 
+      <lb ed="#B" n="85"/>frui reliqua / sicut fruimur ordinate deo: non 
+      <lb ed="#B" n="86"/>tamen creatura quae relatiue dicitur ad deum. Similiter 
+      <lb ed="#B" n="87"/>nec oportet cognoscentem vnum relatiuorum 
+      <lb ed="#B" n="88"/>eodem cognitionis genere / reliquum cognosce 
+      <lb ed="#B" n="89"/>re: sicut innuit fratur Franciscus de Martr. in 
+      <lb ed="#B" n="90"/>hac dis. q. 5. Intellectus enim separatus non beatus: 
+      <lb ed="#B" n="91"/>potest intuitiue cognoscere relationem qua 
+      re<lb ed="#B" n="92" break="no"/>fertur creatura in deum: et tamen non potest deum 
+      co<lb ed="#B" n="93" break="no"/>gnoscere / nisi abstractiue. Secundo ad idem 
+      <lb ed="#B" n="94"/>arguo sic: In cuius potentia est actus / vt agat 
+      <lb ed="#B" n="95"/>vel non agat: in eius potentia etiam est modus 
+      <lb ed="#B" n="96"/>agendi. Sed voluntas quae ad actum libere 
+      eli<lb ed="#B" n="97" break="no"/>cit fruitionem: quia potest elicere vel non elicere. 
+      <!--35.xml-->
+      <pb ed="#B" n="9-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>igitur poterit terminare actum suum circa vnam 
+      <lb ed="#B" n="2"/>personam et non aliam
+</p>
+               <p xml:id="WuV37d-de3023-d1e706">
+¶ Tertio sic: vbicumque est 
+      <lb ed="#B" n="3"/>alia ratio entitatis contra aliam entitatem distincta: 
+      <lb ed="#B" n="4"/>ibi potest actum elicere voluntas circa vnam / non 
+      <lb ed="#B" n="5"/>eliciendo circa aliam. Sed sic est in proposito: quod 
+      <lb ed="#B" n="6"/>paternitas distinguitur a filiatione: ergo etc. 
+      </p>
+               <p xml:id="WuV37d-de3023-d1e717">
+                  <lb ed="#B" n="7"/>¶ Sed oritur dubium: vtrum patrnitas dicat aliam 
+      <lb ed="#B" n="8"/>rationem fruibilitatis distinctam a filiatione? Di 
+      <lb ed="#B" n="9"/>co quod nec paternitas / nec filiatio inquantum 
+      <lb ed="#B" n="10"/>paternitas aut filiatio / habent rationem fruibili 
+      <lb ed="#B" n="11"/>tatis: sed solum inquantum diuine sunt.
+</p>
+               <p xml:id="WuV37d-de3023-d1e730">
+¶ Se 
+      <lb ed="#B" n="12"/>cunda conclusio est: quod de potentia dei absoluta 
+      <lb ed="#B" n="13"/>non videtur contradictio quaen possibile sit / ex parte 
+      <lb ed="#B" n="14"/>intellcuns et voluntatis quod trminent vtriusque 
+      <lb ed="#B" n="15"/>actum / essentia non persona: puta quod intellectus vi 
+      <lb ed="#B" n="16"/>deat essentiam non personam: et quod voluntas 
+      fru<lb ed="#B" n="17" break="no"/>atur essentia non persona. Hoc persuadetur sic: 
+      <lb ed="#B" n="18"/>Pater prius origine quam gignat filium / est 
+      per<lb ed="#B" n="19" break="no"/>fecte beatus: quia nullam perfectionem intrinsecam 
+      <lb ed="#B" n="20"/>habet a persona producta: est enim beatitudo perfectio 
+      <lb ed="#B" n="21"/>intrinseca personae beatae. sed si in illo pori sit 
+      <lb ed="#B" n="22"/>pater perfecte beatus: ergo in illo priori habet obie 
+      <lb ed="#B" n="23"/>ctum vt perfecte beatificans. non autem videtur in illo 
+      <lb ed="#B" n="24"/>priori habere essentiam communicatam tribus vt obiectum 
+      <lb ed="#B" n="25"/>sed vt essentia est absolute vel in vna persona 
+      <lb ed="#B" n="26"/>tantum per se: ergo non est de ratione essentiae vt est obie 
+      <lb ed="#B" n="27"/>ctum beatificum / vt ipsa beatificet inquantum communicata 
+      <lb ed="#B" n="28"/>tribus et ita non videtur contradictio siue quantum ad 
+      <lb ed="#B" n="29"/>visionem / siue quantum ad fruitionem. Modus 
+      <lb ed="#B" n="30"/>ponendi est iste: Aliquis actus habet obiectum a 
+      <lb ed="#B" n="31"/>quo essentialiliter dependet: et aliud obiectum 
+      se<lb ed="#B" n="32" break="no"/>cundum a quo essentialiter non dependet: sed 
+      ten<lb ed="#B" n="33" break="no"/>dit in illud virtute primi obiecti. licet igitur non 
+      <lb ed="#B" n="34"/>possit permanere idem actus nisi habeat habitud 
+      <lb ed="#B" n="35"/>nem ad primum obiectum quia ab eo dependet: potest 
+      <lb ed="#B" n="36"/>tamen manere idem actus absque hitudine ad secundu 
+      <lb ed="#B" n="37"/>obiectum: quia ab eo non dependet. Exemplum 
+      <lb ed="#B" n="38"/>idem est actus visionis essentiae diuine et aliarum re 
+      <lb ed="#B" n="39"/>rum. sed essentia est primum obiectum: res visae sunt 
+      <lb ed="#B" n="40"/>secundarium obiectum. non potest autem manere ea 
+      <lb ed="#B" n="41"/>dem visio: nisi esset eiusdem essentiae. potest autem ma 
+      <lb ed="#B" n="42"/>nere absque hoc quod esset visarum rerum. et ita potest 
+      <lb ed="#B" n="43"/>deus cooparari ad visionem essentiae diuinae / vel 
+      <lb ed="#B" n="44"/>fruitionem: non coopando ad visionem vel 
+      fru<lb ed="#B" n="45" break="no"/>itionem personae.
+</p>
+               <p xml:id="WuV37d-de3023-d1e806">
+¶ Sed oritur dubium de diuinis 
+      <lb ed="#B" n="46"/>attributis. Attributa euim diuina sicut pate 
+      <lb ed="#B" n="47"/>bit . 1ct distinguuntur formaliter a diuina essentia. 
+      <lb ed="#B" n="48"/>Queritur igitur: vtrum possit deus oundere alicui 
+      <lb ed="#B" n="49"/>suam essentiam non onndendo attributa sua: vel causa¬ 
+      <!--35.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>re amorem suae essentiae non causndo horum attribu 
+      <lb ed="#B" n="51"/>torum: et vtrum homo sic videns diuinam essentiam / et ea 
+      <lb ed="#B" n="52"/>fruens esset beatus: cum multas non videret 
+      perfe<lb ed="#B" n="53" break="no"/>ctiones simpliciter: nec eis frueretur: Respondetur quod 
+      <lb ed="#B" n="54"/>deus posset de potentia absoluta / cum sint 
+      ob<lb ed="#B" n="55" break="no"/>iecta secundaria (piora tamen ordine naturae quam 
+      <lb ed="#B" n="56"/>relationes) cum essentialia precedant 
+      notiona<lb ed="#B" n="57" break="no"/>lia / quando non dicunt aliquem respectum ad extra. 
+      <lb ed="#B" n="58"/>et in tali visione et delectatione esset anima beatam. 
+      <lb ed="#B" n="59"/>Quia quamuis attributa dicant perfectionem sim 
+      <lb ed="#B" n="60"/>plicitur: tamen radicaliter et identice est in diuinitate: 
+      <lb ed="#B" n="61"/>quae sola est ratio fruibilitatis: et secundum diuinum 
+      <lb ed="#B" n="62"/>dionysium est radix omnium diuinarum perfectionum 
+      <lb ed="#B" n="63"/>Unde noto quod in diuinis est aliquid 
+      infini<lb ed="#B" n="64" break="no"/>tum per se / et a se. et illud est ratio obiectiua 
+      frui<lb ed="#B" n="65" break="no"/>bilis cuiusmodi est diuinitas. aliquid est 
+      in<lb ed="#B" n="66" break="no"/>finitum per se / sed non a se: cuiusmodi sunt 
+      attri<lb ed="#B" n="67" break="no"/>buta / quae infinitatem habent a diuina essentia. ali 
+      <lb ed="#B" n="68"/>quid est in diuinis: quod nec est infinitum a se nec 
+      <lb ed="#B" n="69"/>per se loquendo: quia realis relatio non est infini 
+      <lb ed="#B" n="70"/>ta formaliter: criusmodoi est relatio seu propriai 
+      <lb ed="#B" n="71"/>seu communis. als si esset infinita: aliqua esset perfecto 
+      <lb ed="#B" n="72"/>in patre: quae non esset in filio quod est falsum. 
+      </p>
+               <p xml:id="WuV37d-de3023-d1e871">
+                  <lb ed="#B" n="73"/>¶ Tertia conclusio est de facto. In patria 
+      vi<lb ed="#B" n="74" break="no"/>sio et dilectio est trium actualiter: in via vero si 
+      <lb ed="#B" n="75"/>sit ordinata / adminus hitualiter. Prima pars pro 
+      <lb ed="#B" n="76"/>batur per illud quod dicit Aug. i de trini. Neui 
+      <lb ed="#B" n="77"/>sine altero ondi potest. loquitur de personis 
+      di<lb ed="#B" n="78" break="no"/>uinis / et de potentia ordinata. Secunda pars pateti 
+      <lb ed="#B" n="79"/>quia non potest stare in via amor vnius personae cum 
+      <lb ed="#B" n="80"/>odio alterius. vnde in Iohe dicitur: Qui me odit 
+      <lb ed="#B" n="81"/>et patrem meum odit. Sed oritur difficultas: vtrum 
+      <lb ed="#B" n="82"/>deus possit causare actum fruitionis in 
+      volunta<lb ed="#B" n="83" break="no"/>te sine visione mentis: maxime cum dicat Aug. 
+      <lb ed="#B" n="84"/>Nihil volitum nisi prius cognitum. Respondeo quod 
+      <lb ed="#B" n="85"/>sic. Cum enim visio et fruitio sint duo actus 
+      di<lb ed="#B" n="86" break="no"/>stincti essentialiter in diuersis potentiis: non 
+      <lb ed="#B" n="87"/>apparet ratio quare non possit deus vnum causare 
+      <lb ed="#B" n="88"/>altero non causato: seu visionem sine fruitione: 
+      <lb ed="#B" n="89"/>quod negat magister henricus de gandauo: seu 
+      <lb ed="#B" n="90"/>fruitionem fine visione. Et quod obiicitur: Nihil in 
+      <lb ed="#B" n="91"/>volitum / nisi praecognitum: hoc det intelligi de 
+      le<lb ed="#B" n="92" break="no"/>ge communi: non quin deus possit in oppositum. 
+      ma<lb ed="#B" n="93" break="no"/>xime cum secundum Aug. simplices et idiotae rapi 
+      <lb ed="#B" n="94"/>ant caelos. Et hoc de secundo articulo. 
+      <lb ed="#B" n="95"/>Quantum ad tertium: 
+      <lb ed="#B" n="96"/>articulum sunt tres difficultates declarandae. li 
+      <lb ed="#B" n="97"/>Prima est de fruibilibus. Secunda est de ipia in 
+      <!--36.xml-->
+      <pb ed="#B" n="10-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>fruitione. Tertia de obiecto fruitionis. 
+      Quan<lb ed="#B" n="2" break="no"/>tum ad primum quaeritur: Si fruens ipsa 
+      frui<lb ed="#B" n="3" break="no"/>tione stabiliatur / vt uvltra peccare non possit: 
+      <lb ed="#B" n="4"/>Respondet doc. sub. vlti. q. huius dis. quod sicut 
+      cen<lb ed="#B" n="5" break="no"/>tro aliqua inhaerent primo et per se et immobilitur 
+      <lb ed="#B" n="6"/>sicut terra: et alia per se et immobiliter / sicut metalla 
+      <lb ed="#B" n="7"/>in terris abdita. alia per se sed mobiliter: sicut la 
+      <lb ed="#B" n="8"/>pides super terram. Alia alicui inhaerent immo 
+      <lb ed="#B" n="9"/>biliter: mobiliter tamen respectu ad vniuersum: sicut 
+      <lb ed="#B" n="10"/>homo quiescens in naui mota aquis. Sic 
+      pari<lb ed="#B" n="11" break="no"/>tormitur in spiritualihus Centrum est vltimus finis 
+      <lb ed="#B" n="12"/>vnde hermes termegistus ait Deus est sphera 
+      <lb ed="#B" n="13"/>intelligibilis: cuius centrum vhique: 
+      circumferen<lb ed="#B" n="14" break="no"/>tia nusquam. huic centro adhaeret per se primo vo 
+      <lb ed="#B" n="15"/>luntas diuina et immobiliter. In secundo gradum est 
+      <lb ed="#B" n="16"/>voluntas creata beatam: quae per se et immobiliter in / 
+      <lb ed="#B" n="17"/>haeret huic centro: non tamen primo: quia fit hoc partici 
+      <lb ed="#B" n="18"/>patione diuinitatis. In tertio gradum est homo 
+      <lb ed="#B" n="19"/>viator: quae per se id est per charitatem quam habet in 
+      <lb ed="#B" n="20"/>se: non tamen primo nec immobilitur huic adhaeret 
+      <lb ed="#B" n="21"/>homo: quia peccare potest. In quarto geadu est homo 
+      <lb ed="#B" n="22"/>peccator: qui ad modum hominis in naui adhae 
+      <lb ed="#B" n="23"/>ret alicui creature: fluctuat tamen respcum huius 
+      <lb ed="#B" n="24"/>centri. vnde nimis amando se derelinquit deum 
+      <lb ed="#B" n="25"/>et edificat ciuitatem diaboli: secundum quod dicit Aug. 
+      <lb ed="#B" n="26"/>de ciuitate dei: libro. 14. Duas ciuitates / 
+      <lb ed="#B" n="27"/>fecerunt duo amores. Ciuitatem 
+      diaboli<lb ed="#B" n="28" break="no"/>amor sui vsque ad contemptum dei. ciuitatem 
+      <lb ed="#B" n="29"/>dei amor dei vsque ad contemptum sui.
+</p>
+               <p xml:id="WuV37d-de3023-d1e997">
+¶ Se 
+      <lb ed="#B" n="30"/>cunda difficultas: si in voluntate sit aliquie 
+      <lb ed="#B" n="31"/>actus neuter? Dicit Scotus quod sic. vnde secundum eun 
+      <lb ed="#B" n="32"/>tres actus sunt in voluntate. scilicet vsus: et hic est 
+      <lb ed="#B" n="33"/>referibilis: Fruitio et hic est irreferibilis: 
+      <lb ed="#B" n="34"/>non solum negatiue seu priuatiue sed etiam contrarie 
+      <lb ed="#B" n="35"/>Est tertius actus qui nec est referibilis / nec irrefe 
+      <lb ed="#B" n="36"/>ribilis contrarie: sed solum negatiue. Et est ca. 
+      <lb ed="#B" n="37"/>sus in exemplo: Appareat in forma 
+      crucifi<lb ed="#B" n="38" break="no"/>xi angelus malus: et repraesentet se alicui et di 
+      <lb ed="#B" n="39"/>cat sibi: adora me ego sum christus: sicut legi 
+      <lb ed="#B" n="40"/>tur in cronicis beati patris nostri francisci cuidam 
+      <lb ed="#B" n="41"/>socio suo apparuisse. Quid tunc faciet ani 
+      <lb ed="#B" n="42"/>mus nutantis: si fruatur / peccat: quia demodo est. 
+      <lb ed="#B" n="43"/>non est ausus vti: quia dicit se christum. In ta 
+      <lb ed="#B" n="44"/>li actu suspendendus est actus voluntatis: vel 
+      <lb ed="#B" n="45"/>haendus actus neuter: vel orationi vacand: vt 
+      <lb ed="#B" n="46"/>onndat deus quid est hoc quod apparet: vel 
+      hu<lb ed="#B" n="47" break="no"/>militur respondere: suffient mihi christum videre in 
+      <lb ed="#B" n="48"/>patria: vel alia consimilia deuotum cor 
+      inflan<lb ed="#B" n="49" break="no"/>mantia.
+</p>
+               <p xml:id="WuV37d-de3023-d1e1044">
+¶ Tertia difficultas est de obie¬ 
+      <!--36.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>cto fruibili: vtrum finis inquantum finis sit ob 
+      <lb ed="#B" n="51"/>iectum beatificum?: Dicit magister I0. secundo quod non. 
+      <lb ed="#B" n="52"/>Et huius dicti ratio est triplex. Prima quia fi 
+      <lb ed="#B" n="53"/>nis inquantum finis / non est nisi quidam respe 
+      <lb ed="#B" n="54"/>ctus ronis. Secunda quia non iincluditur in diui 
+      <lb ed="#B" n="55"/>nitate: quia iam posita est ratio fruibilis. 
+      Ter<lb ed="#B" n="56" break="no"/>tia ratio: quia si per impossibile esset aliquod summum: 
+      <lb ed="#B" n="57"/>ad quod tamen non esset nostra voluntas ordinata: 
+      <lb ed="#B" n="58"/>adhuc illud satiaret et quietaret appetitum 
+      <lb ed="#B" n="59"/>nostrum: in quo tamen per positum non esset ratio finis. 
+      <lb ed="#B" n="60"/>Et vt videatur qualiter se habeat ad obiectum 
+      be<lb ed="#B" n="61" break="no"/>atificum: nota quod triplex est finis scilicet finis 
+      ve<lb ed="#B" n="62" break="no"/>rus: finis apparens: finis praefixus. In 
+      pri<lb ed="#B" n="63" break="no"/>mo fine. scilicet vero respectu fruitionis 
+      ordina<lb ed="#B" n="64" break="no"/>tae / ratio finis secundum veritatem communicatur 
+      fruibi<lb ed="#B" n="65" break="no"/>li: et forte in appraehensione precedit 
+      fruitio<lb ed="#B" n="66" break="no"/>nem eliciendam: cum ratio obiecti alliciens: in ap 
+      <lb ed="#B" n="67"/>parenti sicut in dubiis etiam praecedit secundum appa 
+      <lb ed="#B" n="68"/>rentiam. Sed in tertio scilicet praefixo / ratio finis saes 
+      <lb ed="#B" n="69"/>quitur actum: quia vel dicit modum actus / vel modum 
+      <lb ed="#B" n="70"/>obiecti: vt talis praefixus finis terminat actum 
+      <lb ed="#B" n="71"/>Et sic patet quid est dicendum ad quaestionem: quod scilicet 
+      vni<lb ed="#B" n="72" break="no"/>ca ratio est fruibilis: quae est diuinitas. Et tunc ad  
+      <lb ed="#B" n="73"/>rationes in pede quaestionis factas. Ad primum: 
+      <lb ed="#B" n="74"/>quando arguitur ex textu philosophi etc. dicendum est quod bo 
+      <lb ed="#B" n="75"/>num dicitur dupliciter quo ad propositum. Uno modo vt 
+      <lb ed="#B" n="76"/>est passio entis. et isto modo est in quolibet 
+      <lb ed="#B" n="77"/>genere: sed non sufficut ad rationem fruibilis. Alio 
+      <lb ed="#B" n="78"/>modo vt bonum perfectum. et hoc radicaliter est in di 
+      <lb ed="#B" n="79"/>uinitate: quae est radix omnium diuinorum secundum 
+      dio<lb ed="#B" n="80" break="no"/>nysium: ideo ipsa ratio fruibilis. Ad secundum dicitur: 
+      <lb ed="#B" n="81"/>quod duplex est quietatiuum. scilicet quod solum: et quo: 
+      <lb ed="#B" n="82"/>et quod simul. Personae divinae sunt quedam 
+      <lb ed="#B" n="83"/>siue qua quietant: non tamen inquantum personae: sed in 
+      <lb ed="#B" n="84"/>quantum diuinam habent essentiam. Sic dico de 
+      at<lb ed="#B" n="85" break="no"/>tributis. quod enim quietant: hoc habent a diuina 
+      <lb ed="#B" n="86"/>essentia. diuina vero essentia est quo quietamur 
+      <lb ed="#B" n="87"/>et quod nos quietat. Et quod obiicitur: quod 
+      diui<lb ed="#B" n="88" break="no"/>ne persone sunt infinitae / et attributa infinita 
+      <lb ed="#B" n="89"/>Dico quod habent hoc ab essentia: ideo non concludit. 
+      </p>
+               <p xml:id="WuV37d-de3023-d1e1138">
+                  <lb ed="#B" n="90"/>¶ Ad tertium dico: quod reduplicatio potest ca 
+      <lb ed="#B" n="91"/>pi dupliciter. vno modo vt specificat solum rationem 
+      <lb ed="#B" n="92"/>reduplicati. Alio modo vt dicit reduplicatum 
+      <lb ed="#B" n="93"/>esse / causam quare praedicatum inest subiaecto. Et 
+      <lb ed="#B" n="94"/>isto modo proprie dicitur reduplicatio. Si igitur 
+      ca<lb ed="#B" n="95" break="no"/>pitur isto secundo modo: maior est vera: et minor 
+      <lb ed="#B" n="96"/>falsa. Si primo modo: maior falsa et minor ve 
+      <lb ed="#B" n="97"/>ra. Et tunc cum dicitur in minori secundum primum 
+      mo<lb ed="#B" n="98" break="no"/>dum: videbimus deum inquantum tres: diciet intel¬ 
+      <!--37.xml-->
+      <pb ed="#B" n="10-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>ligi id est trinitas videbitur: ita quod non redupli 
+      <lb ed="#B" n="2"/>cet. et cum probatur quod cum reduplicatione: quia 
+      cre<lb ed="#B" n="3" break="no"/>dimus deum inquantum trinus. visio autem succe 
+      <lb ed="#B" n="4"/>dit fidei: Dicendum est quod non est simile: quia hoc in via 
+      <lb ed="#B" n="5"/>essentia non causat in nob immediate actum credendi 
+      <lb ed="#B" n="6"/>sicut causabit in patria immediate actum 
+      videndi<lb ed="#B" n="7" break="no"/>vnde modo trinitas potest esse ratio formalis cogni 
+      <lb ed="#B" n="8"/>ti. tunc autem tantum erit cognita: quia tunc videbitur 
+      <lb ed="#B" n="9"/>per rationem essentiae in se praecise / vt per rationem obiecti 
+      <lb ed="#B" n="10"/>primi. et sic patet ad quaestioem.
+</p>
+            </div>
+            <div xml:id="WuV37d-de3023-Dd1e1189" type="et-conclusiones">
+               <head xml:id="WuV37d-de3023-Hd1e1191">Conclusiones</head>
+               <p xml:id="WuV37d-de3023-d1e1194">
+¶ Ex praesenti distinctione 
+      <lb ed="#B" n="11"/>tres de mente magistri eliciuntur conclusiones. Quarum 
+      <lb ed="#B" n="12"/>prima est: omne scibile est vt est dignum nominapbitule: aui 
+      <lb ed="#B" n="13"/>res: aut signum. et hanc conclusionem deduem a 
+      princi<lb ed="#B" n="14" break="no"/>pio nostri textus vsque ad illud cap. Id ergo in reb 
+      <lb ed="#B" n="15"/>considerand etc.
+</p>
+               <p xml:id="WuV37d-de3023-d1e1207">
+  Secunda conclusio. Scant trinitate 
+      <lb ed="#B" n="16"/>tris fruimur sicut imbuimur docta pietate. e 
+      <lb ed="#B" n="17"/>ista conclusio tractatur ab illo cap. Id ergo in reb 
+      <lb ed="#B" n="18"/>etc vsque ad illud ca. Cum autem homines etc.
+    </p>
+               <p xml:id="WuV37d-de3023-d1e1216">
+      Ter 
+      <lb ed="#B" n="19"/>tia conclusio Nec homo homine: nec deus fruitur nob: sed 
+      <lb ed="#B" n="20"/>vtitur mira dulcedie. Haec conclusio deducitur ab il 
+      <lb ed="#B" n="21"/>lo capitulo: Cum autem homines etc. vsque ad ca. ille 
+      <lb ed="#B" n="22"/>Hic considerandum. vbi dubium mouet de virtu 
+      <lb ed="#B" n="23"/>tibus / et soluit. et vltio de tota epilogat dist 
+      <lb ed="#B" n="24"/>ctione.
+</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

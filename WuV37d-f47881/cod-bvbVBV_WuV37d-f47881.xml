@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 36</title>
+            <author ref="#WilliamDeVaurouillon">William de Vaurouillon</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 36</title>
+               <date when="2021-06-19">June 19, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-bvbVBV">Basel 1510</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-06-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="318-v"/>
+            <cb ed="#B" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="WuV37d-f47881"><!-- l3d36 -->
+            <head xml:id="WuV37d-f47881-Hd1e108">Distinctio 36</head>
+            <div xml:id="WuV37d-f47881-Dd1e111" type="circa-textum">
+               <head xml:id="WuV37d-f47881-Hd1e113">Circa textum</head>
+               <p xml:id="WuV37d-f47881-d1e116">
+                  <lb ed="#B" n="37"/>Distinctio. 36. huius tertii decla 
+      <lb ed="#B" n="38"/>rat quo virtutes dicuntur connexe ad 
+      <lb ed="#B" n="39"/>inuice et conuertibiles. 
+      <lb ed="#B" n="40"/>Olet quari vtrum 
+      <lb ed="#B" n="41"/>virtutes ita sint sibi 
+      com<lb ed="#B" n="42" break="no"/>iuncte vt separatim non 
+      <lb ed="#B" n="43"/>possint possideri etc. 
+      <lb ed="#B" n="44"/>Hic signatur. 36. dist. hu 
+      <lb ed="#B" n="45"/>ius tertii: quae sic continuatur ad praecedentes 
+      <lb ed="#B" n="46"/>Nam postquam a. 23. distin. inclusiue: vsque ad 
+      <lb ed="#B" n="47"/>istam exclusiue: de donis et virtutibus sigil 
+      <!--653.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="48"/>latim habita fuit consideratio: Nunc in prae 
+      <lb ed="#B" n="49"/>sentis distinctione: de earum complexibus et 
+      ne<lb ed="#B" n="50" break="no"/>cu fit inquisitio. Et habet diuidi praesens pars 
+      <lb ed="#B" n="51"/>in tres partes principales. In prima vir 
+      <lb ed="#B" n="52"/>tutum connexio ponitur et conuertibilitas. In 
+      <lb ed="#B" n="53"/>secunda miro magisterio earum clarescit eque 
+      <lb ed="#B" n="54"/>litas. In tertia praeceptorum ductio ad vir 
+      <lb ed="#B" n="55"/>tutem quae fertur charitas. prima in 
+      princi<lb ed="#B" n="56" break="no"/>pio. secunda ibi. Utrum vero pariter quis omnes 
+      <lb ed="#B" n="57"/>possideat etc. Tertia ibi. Cum duo sint etc.
+    </p>
+            </div>
+            <div xml:id="WuV37d-f47881-Dd1e169">
+               <head xml:id="WuV37d-f47881-Hd1e171">Quaestio</head>
+               <p xml:id="WuV37d-f47881-d1e174">
+                  <lb ed="#B" n="58"/>Questio haec docet quomodo virtutum 
+      <lb ed="#B" n="59"/>tam theologicarum quam moralium adinui 
+      <lb ed="#B" n="60"/>ce nexus intelligatur in qua satis 
+      du<lb ed="#B" n="61" break="no"/>e tangit opinione sancti tho. et 
+      ha<lb ed="#B" n="62" break="no"/>betur a scoto praesenti dist. q. vnica 
+      <lb ed="#B" n="63"/>Utrum virtutis per 
+      <lb ed="#B" n="64"/>seuerantia gratuite ita in nob 
+      <lb ed="#B" n="65"/>maneat vt amissa vna: siula re 
+      <lb ed="#B" n="66"/>maneat. Et argnitur quod sic triplici medio. 
+      </p>
+               <p xml:id="WuV37d-f47881-d1e196">
+                  <lb ed="#B" n="67"/>¶ Primo sic. Nulla perfecta virtus po 
+      <lb ed="#B" n="68"/>test a fine suo obliquari: sed hoc haberet 
+      <lb ed="#B" n="69"/>gratuita virtus si non essent connexe 
+      virtu<lb ed="#B" n="70" break="no"/>tes: igitur sequitur quod vna perdita nulla 
+      <lb ed="#B" n="71"/>remaneat. Maior patet auctoritate beati 
+      <lb ed="#B" n="72"/>Aug. in sermone de operibus 
+      misericor<lb ed="#B" n="73" break="no"/>diae. Charitas quae deseri potest nunquam 
+      ve<lb ed="#B" n="74" break="no"/>a fuit. Ita de caeteris dicatur virtutibus 
+      <lb ed="#B" n="75"/>Sed probatur minor exemplo. Capiatur 
+      <lb ed="#B" n="76"/>enim virtus fidei: detur quod infideli spes 
+      de<lb ed="#B" n="77" break="no"/>sit cito per desparationem quae est vicium oppo 
+      <lb ed="#B" n="78"/>situm spei mutabitur fidelis in infidelem: ita 
+      <lb ed="#B" n="79"/>arguatur in consimilibus.
+</p>
+               <p xml:id="WuV37d-f47881-d1e227">
+¶ Secundo ar 
+      <lb ed="#B" n="80"/>guitur sic. Omnis virtutis est 
+      delectabili<lb ed="#B" n="81" break="no"/>ter operari: sed nulla gratuita virtus 
+      ope<lb ed="#B" n="82" break="no"/>ratur delactabiliter nisi virtutum fiat 
+      conne<lb ed="#B" n="83" break="no"/>xio: igitur etc. Maior patet auctoritate philosophi 
+      <lb ed="#B" n="84"/>ex. 2 et. 3. ethicorum. Sed declaratur 
+      mi<lb ed="#B" n="85" break="no"/>nor: detur fides infideli: praesentetur mors 
+      <lb ed="#B" n="86"/>fideli: certum est quod nisi habeat virtutemus 
+      <lb ed="#B" n="87"/>fortitudinis qua animetur ad mortem: aut cum 
+      <lb ed="#B" n="88"/>tristicia credet: aut timore victus fidem 
+      ne<lb ed="#B" n="89" break="no"/>gabit.
+</p>
+               <p xml:id="WuV37d-f47881-d1e251">
+¶ Tertio arguitur sic. Omnis habens et 
+      <lb ed="#B" n="90"/>virtutem gratuitam habet charitatem: sed omnis 
+      <lb ed="#B" n="91"/>habens charitatem omnes habet gratuitas vir 
+      <lb ed="#B" n="92"/>tutes: igitur est connexio in gratuitis 
+      virtu<lb ed="#B" n="93" break="no"/>tibus. Maior patet ex eo quod charitas for 
+      <lb ed="#B" n="94"/>ma est gratuitarum virtutum: non existente for¬ 
+      <!--654.xml-->
+      <pb ed="#B" n="319-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>ma res non remanet. Sed probatur minor: 
+      <lb ed="#B" n="2"/>ex eo quod charitas consummatio est virtutum 
+      <lb ed="#B" n="3"/>iuxta illud apostoli. Plenitudo legis est dile 
+      <lb ed="#B" n="4"/>ctio. rei autem consummatio praecedentia prae 
+      <lb ed="#B" n="5"/>supponit.
+</p>
+               <p xml:id="WuV37d-f47881-d1e283">
+¶ In oppositum vero arguitur 
+      <lb ed="#B" n="6"/>auctoritate apostoli. Cne venerit quod perfectum est. 
+      <lb ed="#B" n="7"/>euacuabitur quod ex parte est: vbi innuitur quod 
+      <lb ed="#B" n="8"/>stante in patria charitate fides et spes 
+      eua<lb ed="#B" n="9" break="no"/>cuabuntur: et patet in via de habente fidei et 
+      <lb ed="#B" n="10"/>spei virtutem qui tamen non habet charitatem 
+      </p>
+               <p xml:id="WuV37d-f47881-d1e296">
+                  <lb ed="#B" n="11"/>¶ In ista quaesti. sunt tres articuli declarandi 
+      <lb ed="#B" n="12"/>Primus est terminorum declaratiuus 
+      <lb ed="#B" n="13"/>Quorum Secundus est st quaestionis responsiuus 
+      <lb ed="#B" n="14"/>Tertius est dubiorum motiuus; 
+      <lb ed="#B" n="15"/>Quo ad primum articulum 
+      <lb ed="#B" n="16"/>tmini sunt 
+      <lb ed="#B" n="17"/>perseuerantia: virtus et gratuitum.
+</p>
+               <p xml:id="WuV37d-f47881-d1e314">
+¶ Pri 
+      <lb ed="#B" n="18"/>igitur terminus est perseuerantia. Unde 
+      <lb ed="#B" n="19"/>notat doctor deuotus. q. 1. quod 
+      perseueran<lb ed="#B" n="20" break="no"/>tia dicitur tripliciter. Primo dicitur 
+      perseue<lb ed="#B" n="21" break="no"/>rantia voluntas perferendi passiones sine de 
+      <lb ed="#B" n="22"/>fectione: hoc modo idem est quod fortitudo 
+      <lb ed="#B" n="23"/>aut eiusdem species. Secundo dicitur perseueram 
+      <lb ed="#B" n="24"/>tia continuatio boni operis vsque in finem: et sic 
+      <lb ed="#B" n="25"/>potest accipi intitulo quaestionis: hoc modo 
+      <lb ed="#B" n="26"/>non est virtus sed status consequens omnem virtu 
+      <lb ed="#B" n="27"/>tem secundum quod dicitur. Qui perseuerauerit 
+      vs<lb ed="#B" n="28" break="no"/>quam in finem hic saluus erit. Tertio modo dicitur 
+      <lb ed="#B" n="29"/>perseuerantia propositum perseuerandi in 
+      bo<lb ed="#B" n="30" break="no"/>num vsque in finem: et hoc modo est specialis 
+      spe<lb ed="#B" n="31" break="no"/>cies fortitudinis apud marcum tullium: quam 
+      <lb ed="#B" n="32"/>in antiqua diffiniens rhetorica dicit. 
+      Per<lb ed="#B" n="33" break="no"/>seuerantia est in ratione bene firmata 
+      sta<lb ed="#B" n="34" break="no"/>bilis et perpetua permansio. In qua 
+      diffi<lb ed="#B" n="35" break="no"/>nitione tria tanguntur. Primo genus: dum 
+      <lb ed="#B" n="36"/>dicitur: permansio: omnibus enim virtutibus 
+      <lb ed="#B" n="37"/>et maxime fortitudinis speciebus perma 
+      <lb ed="#B" n="38"/>nentia congruit: vnde et apud philosophum in tertio 
+      <lb ed="#B" n="39"/>ethico. Sustinere pericula principalior est 
+      <lb ed="#B" n="40"/>fortitudins actus quam aggressus. Secundo tan 
+      <lb ed="#B" n="41"/>guntur perseuerantiae differe: dum dicitur: stabilis et 
+      <lb ed="#B" n="42"/>perpetua: vt a decore et culmine virtutum 
+      <lb ed="#B" n="43"/>nullo precio aut commodo perseuerans 
+      euer<lb ed="#B" n="44" break="no"/>tatur. Tertio tangitur praemium 
+      perseueran<lb ed="#B" n="45" break="no"/>tiae: dum dicitur: in ratione bene firmata: seu com 
+      <lb ed="#B" n="46"/>siderata: si enim aut praeter rationem: aut 
+      con<lb ed="#B" n="47" break="no"/>tra in incepto quis maneret: non iam 
+      pro<lb ed="#B" n="48" break="no"/>prie perseuerans sed obstinatus et pertinax di 
+      <lb ed="#B" n="49"/>ceretur.
+</p>
+               <p xml:id="WuV37d-f47881-d1e386">
+¶ Secundus terminus est virtus 
+      <!--654.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>vnde vltra sepius tam in secundo quam hoc in 
+      ter<lb ed="#B" n="51" break="no"/>tio de virtute dicta: noto quo ad modo: quod 
+      vir<lb ed="#B" n="52" break="no"/>tus potest tripliciter considerari: seu 
+      compara<lb ed="#B" n="53" break="no"/>ri. scilicet ad obiectum ad subiectum et ad finem. 
+      Con<lb ed="#B" n="54" break="no"/>parando autem virtutes ad obiecta sua hoc modo 
+      <lb ed="#B" n="55"/>habent quod distinguuntur abinuicem. sicut enim 
+      <lb ed="#B" n="56"/>ab obiecto esse accipiunt sic distingui: et lo 
+      <lb ed="#B" n="57"/>quor nisi infundentur: quia infuse non accipi 
+      <lb ed="#B" n="58"/>unt: nec esse nec distingui ab obiecto secundum 
+      <lb ed="#B" n="59"/>quod obiectum: nisi manifestatione: quia eo scilicet 
+      no<lb ed="#B" n="60" break="no"/>minantur distingui: sed a deo infundente 
+      in<lb ed="#B" n="61" break="no"/>quantum extat infundens totum accipiunt. 
+      Con<lb ed="#B" n="62" break="no"/>parando vero ad subiectum dicuntur aliquae in 
+      <lb ed="#B" n="63"/>tellectuales aliquae voluntatis secundum quod aut in 
+      <lb ed="#B" n="64"/>tellectum aut voluntatem afficiunt. Comparando  
+      <lb ed="#B" n="65"/>autem tertio ad finem sic ordinantur: vt aliquo ad 
+      <lb ed="#B" n="66"/>finem immediate vt sunt theologice 
+      virtu<lb ed="#B" n="67" break="no"/>tes: aliquae mediate: quia primo entia ad  
+      <lb ed="#B" n="68"/>finem respiciunt.
+</p>
+               <p xml:id="WuV37d-f47881-d1e434">
+¶ Tertius terminus 
+      <lb ed="#B" n="69"/>est gratuitum a gratia. Et dicitur tripliciter. 
+      <lb ed="#B" n="70"/>Primo in generali: et sic etiam bona 
+      natu<lb ed="#B" n="71" break="no"/>rae sunt gratuita: quia nobis gratis conferun 
+      <lb ed="#B" n="72"/>tur a domino. aut secundo pro quolibet 
+      natu<lb ed="#B" n="73" break="no"/>rae superaddito: et hoc modo dicitur 
+      gratui<lb ed="#B" n="74" break="no"/>tum id quod dicimus gratiam gratis datam: sicu 
+      <lb ed="#B" n="75"/>ti est prophetia aut aliud huiusmodi: et hoc 
+      <lb ed="#B" n="76"/>modo accipitur in. q. nostra. Tertio dicitur 
+      <lb ed="#B" n="77"/>gratuitum a gratia gratum faciente: hoc modo 
+      <lb ed="#B" n="78"/>virtutes dicuntur gratuite: vel quae stant cum 
+      <lb ed="#B" n="79"/>tali gratia: vel quae ea infusa infunduntur 
+      <lb ed="#B" n="80"/>Ex quo vlterius notandum quod huiusmodi 
+      <lb ed="#B" n="81"/>virtus gratuita potest tripliciter considerari 
+      <lb ed="#B" n="82"/>vel quantum ad habitum substratum: sicuti dum 
+      <lb ed="#B" n="83"/>quaelibet virtus per seipsam consideratur. 
+      <lb ed="#B" n="84"/>Secundo quantum ad statum: sicut in statu 
+      <lb ed="#B" n="85"/>virgineo: aut viduali: aut maritali. Unde hoc 
+      <lb ed="#B" n="86"/>dicit tho. q. 1. quod virginitas non est virtus: quia 
+      <lb ed="#B" n="87"/>non est communis omni statui: quaeratur 
+      opposi<lb ed="#B" n="88" break="no"/>tum et melius a doctore deuo. eadem. q. Ter 
+      <lb ed="#B" n="89"/>tio quantum ad rationem imperfectionis vel per 
+      <lb ed="#B" n="90"/>fectionis: et hoc modo secundum suas adinuicem 
+      <lb ed="#B" n="91"/>comparantur praeminentias. 
+      <lb ed="#B" n="92"/>Quo ad secundum articulum sunt 
+      <lb ed="#B" n="93"/>tres 
+      conclu<lb ed="#B" n="94" break="no"/>siones. Prima conclusio est de non 
+      conne<lb ed="#B" n="95" break="no"/>xione moralium adinuicem virtutum et cum 
+      pru<lb ed="#B" n="96" break="no"/>dentia. Secunda de non connexione 
+      theolo<lb ed="#B" n="97" break="no"/>gicarum virtutum cum moralibus. Tertia da 
+      <lb ed="#B" n="98"/>non connexione theologicarum seu gratuita 
+      <!--655.xml-->
+      <pb ed="#B" n="319-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>rum adinuicem.
+</p>
+               <p xml:id="WuV37d-f47881-d1e510">
+¶ Prima igitur est haec. 
+      <lb ed="#B" n="2"/>Nulla apparet necessitas moralis perse 
+      <lb ed="#B" n="3"/>uerantia connectendi virtutes aut pruden 
+      <lb ed="#B" n="4"/>tiam cum eis. Prima pars dicit quod morales 
+      <lb ed="#B" n="5"/>virtutes non sunt connexe necessario. Pro 
+      <lb ed="#B" n="6"/>batur: virtus enim moralis acquiritur 
+      assue<lb ed="#B" n="7" break="no"/>factione. possibile est autem hominem assuefie 
+      <lb ed="#B" n="8"/>ri ad virtutem vnam: non aliam. Patet de 
+      <lb ed="#B" n="9"/>paupere qui per actus potest assuefieri ad 
+      <lb ed="#B" n="10"/>virtutem temperantiae: non autem ad magnificen 
+      <lb ed="#B" n="11"/>tiam quae magnos aspicit sumptus. Confirma 
+      <lb ed="#B" n="12"/>tur aequi enim exercitio habentur scientie et virtutes 
+      <lb ed="#B" n="13"/>vnde esset igitur in virtutibus requisita conne 
+      <lb ed="#B" n="14"/>xio: et non in scientiis quae non sunt connexe 
+      <lb ed="#B" n="15"/>vnde gratum ad hoc doctor subtilis affert 
+      <lb ed="#B" n="16"/>exemplum in praesenti distin. Sic enim in corpore 
+      <lb ed="#B" n="17"/>humano potest homo visum habere bonum aut 
+      <lb ed="#B" n="18"/>odorem aut tactum malo existente 
+      audi<lb ed="#B" n="19" break="no"/>tu: vel econtra: sic modo suo in moralibus 
+      <lb ed="#B" n="20"/>habebit quis virtutem fortitudinis et 
+      opti<lb ed="#B" n="21" break="no"/>me in praelio se habebit: non dotatus 
+      vir<lb ed="#B" n="22" break="no"/>tute iusticiae: sic de consimilibus. Ideo 
+      me<lb ed="#B" n="23" break="no"/>rito ad Hieronymum scribit Augustinus quod non 
+      <lb ed="#B" n="24"/>est diuina sententia qua dicitur: quod qui habet 
+      <lb ed="#B" n="25"/>vnam virtutem habet omnes: nempe haec 
+      sentem<lb ed="#B" n="26" break="no"/>tia non dei est: sed stoicorum censetur: de quorum 
+      <lb ed="#B" n="27"/>numero et seneca fuit: qui dicit. Omne quod 
+      <lb ed="#B" n="28"/>bene fit: fit iuste fortiter et temporate: arguens vir 
+      <lb ed="#B" n="29"/>tutum nexum: et patet quod equiuocat de forti 
+      <lb ed="#B" n="30"/>tudine et temperantia: aut falsum dicit. Quid 
+      <lb ed="#B" n="31"/>enim est hoc quod hii dicunt stoici quod sicut ni 
+      <lb ed="#B" n="32"/>hil differt in homis praefocatione: vtrum aquam 
+      <lb ed="#B" n="33"/>vno palmo supra se habeat: aut multis sta 
+      <lb ed="#B" n="34"/>diis: sic in proposito. Aut homo ex toto 
+      <lb ed="#B" n="35"/>est virtuosus: aut in profundo mergitur 
+      vi<lb ed="#B" n="36" break="no"/>ciorum. Ex quo patet defectus sancti thomer 
+      <lb ed="#B" n="37"/>sui quaestione prima posuit connexionem 
+      vir<lb ed="#B" n="38" break="no"/>tutum politicarum: oppositum patet ex conclusio 
+      <lb ed="#B" n="39"/>ne: vnde non immerito hoc in passu 
+      praeponi<lb ed="#B" n="40" break="no"/>tur doctor deuotus sancto thome qui in ter 
+      <lb ed="#B" n="41"/>tia. q. dicit huiusmodi non esse connexas 
+      <lb ed="#B" n="42"/>virtutes. Est enim haec expressa et sancti Aug. 
+      <lb ed="#B" n="43"/>ad Hieronymum oppinio: quamuis thomas 
+      <lb ed="#B" n="44"/>verbum eius distorte exponat: vt patet 
+      in<lb ed="#B" n="45" break="no"/>spicienti. Stet igitur thomas cum suis 
+      stoi<lb ed="#B" n="46" break="no"/>cis: nos vero cum doctoribus catholicis 
+      <lb ed="#B" n="47"/>nec tantum de calice bibamus babylonis: 
+      <lb ed="#B" n="48"/>quod erremus a via veritatis: vnde si aliqua aucto 
+      <lb ed="#B" n="49"/>ritas ponat virtutum connexionem: intelligenda est 
+      <!--655.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>vt sit virtus in suo optimo: et debite perdu 
+      <lb ed="#B" n="51"/>cat sine formidine ad finem: sicut est illud  
+      <lb ed="#B" n="52"/>Oregin. 20. moralium capitulo. 1. Quisquis vna 
+      <lb ed="#B" n="53"/>virtute pollere creditur: tunc ea veraciter 
+      <lb ed="#B" n="54"/>pollet cum viciis ex alia parte non subiacet. 
+      <lb ed="#B" n="55"/>Et. li. 19. cap. 36. vna virtus sine alia vel non 
+      <lb ed="#B" n="56"/>est virtus perfecta: vel omnino nulla est. 
+      <lb ed="#B" n="57"/>Et glo. idem habet super illo verbo. 
+      Ci<lb ed="#B" n="58" break="no"/>uitas in quadro posita est. Custracius etiam 
+      <lb ed="#B" n="59"/>in. 6. ethicorum dicit. Non existente 
+      temporan<lb ed="#B" n="60" break="no"/>tia qualiter erit iusticia: q. d. nullo modo 
+      <lb ed="#B" n="61"/>vnde et sexto ideo vocat virtutes sorores 
+      <lb ed="#B" n="62"/>quia scilicet mutuo se iuuant in actionibus 
+      su<lb ed="#B" n="63" break="no"/>is: vt temperantia fortitudinem: fortitudinem 
+      <lb ed="#B" n="64"/>prudentia: prudentiam iusticia: et econtra: 
+      <lb ed="#B" n="65"/>pinc est quod super illud. Uenter meus ad mo 
+      <lb ed="#B" n="66"/>ab. dicit glosa Hiero. Sicut cithara sonum 
+      <lb ed="#B" n="67"/>compositum non emittit: si vna corda ru 
+      <lb ed="#B" n="68"/>pta fuerit: sic spiritus vel venter prophilosohe: si vna 
+      <lb ed="#B" n="69"/>virtus defuerit melos non resonabit. Sed 
+      <lb ed="#B" n="70"/>habet secunda pars conclusionis. quod prudem 
+      <lb ed="#B" n="71"/>tia etiam non est connexa necessario cum 
+      <lb ed="#B" n="72"/>aliis virtutibus. Probatur argumento 
+      <lb ed="#B" n="73"/>doctoris subtilis arti. 2. Intellectu per pru 
+      <lb ed="#B" n="74"/>dentiam recte dictante potest voluntas 
+      <lb ed="#B" n="75"/>non eligere patet: Tum quia libera est non 
+      <lb ed="#B" n="76"/>potest cogi: tum etiam ex articulo 
+      parrhy<lb ed="#B" n="77" break="no"/>sien: quia error est differe voluntatem non 
+      pos<lb ed="#B" n="78" break="no"/>se deficere stante recto iudicio intellectus. 
+      <lb ed="#B" n="79"/>Cum igitur per bonas electiones 
+      virtu<lb ed="#B" n="80" break="no"/>tes generantur: relinquitur quod erit 
+      pruden<lb ed="#B" n="81" break="no"/>tia in intellectu: sine virtute in affectu. Con 
+      <lb ed="#B" n="82"/>firmatur tribus auctoritatibus. Prima est 
+      <lb ed="#B" n="83"/>Aug. super illo verbo. Forte viuos 
+      deglu<lb ed="#B" n="84" break="no"/>tissent nos. Dicit sic. viui sorbentur quae 
+      sci<lb ed="#B" n="85" break="no"/>unt malum esse et consentiunt: aut moriun 
+      <lb ed="#B" n="86"/>tur forte. Secunda est eiusdem super illo verbo 
+      <lb ed="#B" n="87"/>Fiat mensa eorum etc. quod est: viciosis 
+      com<lb ed="#B" n="88" break="no"/>sentientes: et scientes consentire non debere 
+      <lb ed="#B" n="89"/>ecce nouerunt muscipulam et pedem mittunt. 
+      <lb ed="#B" n="90"/>Tertia est super illud. Concupiuit anima 
+      <lb ed="#B" n="91"/>mea etc. precedit intellectus: sequitur aut 
+      <lb ed="#B" n="92"/>nullus aut tardus affectus. Ex quo 
+      defe<lb ed="#B" n="93" break="no"/>ctus infertur doctoris solenis. qu. q. 9. q. 17.  
+      <lb ed="#B" n="94"/>posuit cum prudentia caeteras connecti 
+      virtu<lb ed="#B" n="95" break="no"/>tes: oppositum patet manifeste ex praedictis. Di 
+      <lb ed="#B" n="96"/>co vlterius quod quaelibet virtus moralis 
+      ha<lb ed="#B" n="97" break="no"/>bet propriam praeuiam prudentiam: nec est 
+      <lb ed="#B" n="98"/>vna omnium virtutum: nisi via communitatis. 
+      <!--656.xml-->
+      <pb ed="#B" n="320-r"/>
+                  <cb ed="#B" n="a"/>
+               </p>
+               <p xml:id="WuV37d-f47881-d1e735">
+                  <lb ed="#B" n="1"/>¶ Secunda conclusio est: de non 
+      conne<lb ed="#B" n="2" break="no"/>xione theologicarum virtutum cum eis et haec 
+      <lb ed="#B" n="3"/>est. Moralis virtus nec theologice equa 
+      <lb ed="#B" n="4"/>tur: nec theologica de necessitate morali 
+      <lb ed="#B" n="5"/>nectitur. Dicit prima pars conclusionis: 
+      <lb ed="#B" n="6"/>quod moralis virtus non aequatur 
+      theologi<lb ed="#B" n="7" break="no"/>ce patet. Tum ratione obiecti: quia incre 
+      <lb ed="#B" n="8"/>atum est: obiectum virtutis theologicae 
+      cre<lb ed="#B" n="9" break="no"/>atum moralis. Tum ratione finis: quia 
+      <lb ed="#B" n="10"/>theologica est de fine: moralis de entibus 
+      <lb ed="#B" n="11"/>ad finem. Tum tertio modo agendi: quia 
+      <lb ed="#B" n="12"/>theologica virtus hominem eleuat supra 
+      <lb ed="#B" n="13"/>se: non sic moralis: immo nec morales 
+      in<lb ed="#B" n="14" break="no"/>ter se sunt equales: perfectior nempe est 
+      <lb ed="#B" n="15"/>magnanimitas quam euphiloticia: magnifi 
+      <lb ed="#B" n="16"/>centia quam liberalitas: ita de aliis: hoc etiam 
+      <lb ed="#B" n="17"/>ostendit: quod vnum vicium vni virtuti opus 
+      <lb ed="#B" n="18"/>positum est maius alio vicio alteri oppo 
+      <lb ed="#B" n="19"/>site virtuti. Sed dicit secunda pars con 
+      <lb ed="#B" n="20"/>clusionis: quod theologica non nectitur de ne 
+      <lb ed="#B" n="21"/>cessitate morali virtuti. Patet manifeste) 
+      <lb ed="#B" n="22"/>de philosophis qui valde excellentes fuerunt in vir 
+      <lb ed="#B" n="23"/>tutibus moralibus: et tamen non habue 
+      <lb ed="#B" n="24"/>runt virtutes theologicales. Confirmatur: 
+      <lb ed="#B" n="25"/>quia quando vnum se habet ad aliud: sicut eius dispositio 
+      <lb ed="#B" n="26"/>possibile est ponere dispositionem non po 
+      <lb ed="#B" n="27"/>nendo id ad quod disponit: patet ex singulis. 
+      <lb ed="#B" n="28"/>Cum igitur virtus moralis sit veluti disposi 
+      <lb ed="#B" n="29"/>tio theologicae virtutis: sequitur. Ceterum 
+      <lb ed="#B" n="30"/>tota complectitur diffinitio virtutis 
+      da<lb ed="#B" n="31" break="no"/>ta a philosopho in. 2. ethicorum. Dato quod non assit 
+      <lb ed="#B" n="32"/>theologica virtus patet: virtus enim est 
+      ha<lb ed="#B" n="33" break="no"/>bitus electiuus immediate consistens qua 
+      <lb ed="#B" n="34"/>ad nos prout vtique sap. determinabit id est 
+      <lb ed="#B" n="35"/>prudens. Unde et Aug. in sermodoe de 
+      patiem<lb ed="#B" n="36" break="no"/>tia: et est in decretis: dist. 49. Et de poenitem. 
+      <lb ed="#B" n="37"/>di. 3. §. quamuis: de heretico vel scismatico si 
+      <lb ed="#B" n="38"/>moriatur et neget christum numquam commenda 
+      <lb ed="#B" n="39"/>bimus eius patientiam: ecce clarer 
+      sapien<lb ed="#B" n="40" break="no"/>tia vbi non est fides. Sed numquid econtra re 
+      <lb ed="#B" n="41"/>quirit virtus theologica secum habere mo 
+      <lb ed="#B" n="42"/>ralem virtutem necessario? Dicendum quod non pa 
+      <lb ed="#B" n="43"/>tet in prius vicioso nouiter conuerso: qui 
+      <lb ed="#B" n="44"/>modo habet virtutes theologicas: non tamen 
+      <lb ed="#B" n="45"/>morales: quia acquiruntur ex consuetudine 
+      <lb ed="#B" n="46"/>Et si dicatur: quia habebit infusas. Dico 
+      <lb ed="#B" n="47"/>cum doctore subtili articu. tertio. quod non 
+      <lb ed="#B" n="48"/>apparet magna necessitas ponendi 
+      hu<lb ed="#B" n="49" break="no"/>iusmodi virtutes morales infusas cum ac¬ 
+      <!--656.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>quisitis sufficienter disponamus in his quae 
+      <lb ed="#B" n="51"/>sunt ad finem et theologicis respectu finis: 
+      <lb ed="#B" n="52"/>nec obuiat quia pueri baptimati non haberent 
+      <lb ed="#B" n="53"/>vllo modo morales virtutes: Dicendum quod 
+      <lb ed="#B" n="54"/>acquirerent per exercitium. Sed quid si mo 
+      <lb ed="#B" n="55"/>rerentur ante etatem? Dicendum quod possent 
+      <lb ed="#B" n="56"/>infundi in instanti mortis: aut in caelo 
+      pos<lb ed="#B" n="57" break="no"/>sent eas acquirere: vt tangit doctor noster 
+      <lb ed="#B" n="58"/>Non enim est maius inconueniens de hoc 
+      <lb ed="#B" n="59"/>quam in caelo de nouo eos alicuius 
+      cognosci<lb ed="#B" n="60" break="no"/>bilis acquirere cognititionem: quod tamen nul 
+      <lb ed="#B" n="61"/>lus negat.
+</p>
+               <p xml:id="WuV37d-f47881-d1e874">
+¶ Tertia conclusio est de non 
+      com<lb ed="#B" n="62" break="no"/>nexione gratuitarum: accipiendo 
+      gratui<lb ed="#B" n="63" break="no"/>tum pro theologica virtute: et est haec. Bra 
+      <lb ed="#B" n="64"/>tuite virtutes adinuicem non nectuntur. 
+      <lb ed="#B" n="65"/>quarum forma est charitas. Dicit prima 
+      <lb ed="#B" n="66"/>pars conclusionis: quod theologicae virtutes 
+      <lb ed="#B" n="67"/>non sunt connexe. Patet manifeste de 
+      fi<lb ed="#B" n="68" break="no"/>de in peccatore remota charitate. Sed num 
+      <lb ed="#B" n="69"/>quid possunt etiam in infusione separari. vt scilicet 
+      <lb ed="#B" n="70"/>deus infundat charitatem sine fide vel 
+      econ<lb ed="#B" n="71" break="no"/>tra? Dicendum quod sic: ex quo nempe 
+      rea<lb ed="#B" n="72" break="no"/>liter distinguuntur in esse: ita possunt in infun 
+      <lb ed="#B" n="73"/>di: vt vna scilicet non infundatur cum alia. Sed 
+      <lb ed="#B" n="74"/>hoc disposuit diuina liberalitas vt tangit 
+      <lb ed="#B" n="75"/>Aug. in lib. de vera et falsa poenitentia: vt 
+      <lb ed="#B" n="76"/>scilicet totum hominem sanaret: non medium qua 
+      <lb ed="#B" n="77"/>ad intellectum fide: quo autem ad volunta 
+      <lb ed="#B" n="78"/>tem spe et charitate: vt apparere potest in 
+      <lb ed="#B" n="79"/>decretis: de poeni. dist. 3. capitulo. Aut. §. secundum 
+      <lb ed="#B" n="80"/>diuersos modos computandi sunt plures. 
+      <lb ed="#B" n="81"/>Sed est ne virtus fides aut spes sine cha 
+      <lb ed="#B" n="82"/>ritate: differet thomas quod non. q. 2. Dicendum 
+      <lb ed="#B" n="83"/>tamen quod sic: non tamen ita complete scilice 
+      <lb ed="#B" n="84"/>in ordine ad meritum et praemium: sicuti 
+      <lb ed="#B" n="85"/>cum charitate. Quia hoc modo vt dicit 
+      <lb ed="#B" n="86"/>secunda conclusionis particula: charitas 
+      <lb ed="#B" n="87"/>est forma earum: non solum earum sed omnis 
+      <lb ed="#B" n="88"/>virtutis. Probatur. Affectus enim nom: est 
+      <lb ed="#B" n="89"/>imponit operi. Igitur ad hoc quod aliarum vir 
+      <lb ed="#B" n="90"/>tutum opera sint recta oportet quod 
+      charita<lb ed="#B" n="91" break="no"/>te quae est affectus eleuetur ipse affectus ad 
+      <lb ed="#B" n="92"/>diligendum deum super omnia. In moralibus 
+      <lb ed="#B" n="93"/>quippe complementum est respectu finis ad 
+      <lb ed="#B" n="94"/>hunc autem finem maxime iungit charitas: ideo 
+      <lb ed="#B" n="95"/>bene sequitur. Iusticia dei reuelatur ex fide 
+      <lb ed="#B" n="96"/>in fidem. dicit glosa: fides est daemonum et 
+      <lb ed="#B" n="97"/>nominetenus christianorum. Haec est 
+      infor<lb ed="#B" n="98" break="no"/>mis qualitas mentis: quia sociam non habet 
+      <!--657.xml-->
+      <pb ed="#B" n="320-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>charitatem: quae est forma omnium virtutum. Non 
+      <lb ed="#B" n="2"/>dico tamen: quod charitas sit intrinseca virtu 
+      <lb ed="#B" n="3"/>tum: sed solum denomninatiua: quia sunt habitus 
+      di<lb ed="#B" n="4" break="no"/>uersi et distincti. Et si obiiciatur quod formae 
+      <lb ed="#B" n="5"/>non est forma: sicut nec motus est motus 
+      <lb ed="#B" n="6"/>nec actionis actio ex. 5. philosophicorum. Dicendum 
+      <lb ed="#B" n="7"/>quod loquendo proprie: formae secundum quod forma est: 
+      <lb ed="#B" n="8"/>non dicitur forma: nihil differt tamen forme secundum 
+      <lb ed="#B" n="9"/>quod aliquam habet admixtam imperfectionem 
+      <lb ed="#B" n="10"/>formam habere patet manifeste exemplo. Anima 
+      <lb ed="#B" n="11"/>enim est forma quia tamen habet imperfecti 
+      <lb ed="#B" n="12"/>onem informatur virtutibus variis: sic in 
+      pro<lb ed="#B" n="13" break="no"/>posito. 
+      <lb ed="#B" n="14"/>Quo ad tertium articulum sun 
+      <lb ed="#B" n="15"/>tres difficul 
+      <lb ed="#B" n="16"/>tates.
+</p>
+               <p xml:id="WuV37d-f47881-d1e998">
+¶ Prima quomodo intelligitur 
+      <lb ed="#B" n="17"/>quod de quolibet cantatur confessore: Non est in 
+      <lb ed="#B" n="18"/>uentus similis illi qui conseruaret legem ex 
+      <lb ed="#B" n="19"/>celsi: videretur enim quilibet esse melior. Dicit 
+      <lb ed="#B" n="20"/>sanctus tho. q. 2. quod intelligitur quantum ad vsum 
+      <lb ed="#B" n="21"/>virtutum non habitum. Idem tangit doc. 
+      deuo<lb ed="#B" n="22" break="no"/>tus. q. 6. et facit vim in vocabulo: qui 
+      con<lb ed="#B" n="23" break="no"/>seruaret: conseruare enim actum nominat. 
+      Quan<lb ed="#B" n="24" break="no"/>nis omnes essent pleni virtutibus: tamen 
+      <lb ed="#B" n="25"/>vnus enituit in actu patientiae: alius 
+      cha<lb ed="#B" n="26" break="no"/>ritatis: alius fidei: ita de aliis.
+</p>
+               <p xml:id="WuV37d-f47881-d1e1022">
+¶ Secun 
+      <lb ed="#B" n="27"/>da difficultas: quomodo intelligitur illud 
+      di<lb ed="#B" n="28" break="no"/>ctum. Qui offendit in vno factus est omnium reus 
+      <lb ed="#B" n="29"/>quia videretur quod vno vicio omnis remoueretur 
+      <lb ed="#B" n="30"/>pirtus. Dicendum quod intelligitur quo ad 
+      amis<lb ed="#B" n="31" break="no"/>sionem charitatis: que vnico mortali pecca 
+      <lb ed="#B" n="32"/>to perditur: vel secundo quo ad amissionem 
+      <lb ed="#B" n="33"/>meritorum: vel tertio quo ad amissionem 
+      prae<lb ed="#B" n="34" break="no"/>miorum: mortificantur enim haec per peccatum 
+      <lb ed="#B" n="35"/>mortale: nisi reuertatur charitas.
+</p>
+               <p xml:id="WuV37d-f47881-d1e1044">
+¶ 
+      Ter<lb ed="#B" n="36" break="no"/>tia difficultas. Quarum virtutum prius ex 
+      <lb ed="#B" n="37"/>tat forma charitas: vel intellectus vel affe 
+      <lb ed="#B" n="38"/>ctus? Dicendum quod simul tempore has et illas 
+      in<lb ed="#B" n="39" break="no"/>format: prius autem ordine naturae fidem quae 
+      <lb ed="#B" n="40"/>est in intellectu quam speciquae est in affectu: post 
+      <lb ed="#B" n="41"/>modum prudentiam quae est intellectus et 
+      vlti<lb ed="#B" n="42" break="no"/>mo reliquas quae sunt voluntatis: et ita lo 
+      <lb ed="#B" n="43"/>quendo simpliciter prius ordine naturae in 
+      <lb ed="#B" n="44"/>format virtutem in intellectu quam in affectu. 
+      <lb ed="#B" n="45"/>Et tantum de tertio articulo. Ex quo patet ad  
+      <lb ed="#B" n="46"/>quaestionem: quod scilicet virtutis gratuite 
+      perseueran<lb ed="#B" n="47" break="no"/>tia in nobis ita manet quod vna virtutum 
+      amis<lb ed="#B" n="48" break="no"/>sa non est necesse aliam destrui: sed potest 
+      <lb ed="#B" n="49"/> remanere. Tunc ad argumta.
+</p>
+               <p xml:id="WuV37d-f47881-d1e1077">
+¶ Ad primum 
+      <!--657.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>dico quod numquam obliquatur virtus seu errat: sed 
+      <lb ed="#B" n="51"/>habens virtutem: ideo falsa est minor et dum 
+      <lb ed="#B" n="52"/>probatur de fideli non habente spem. Dico 
+      <lb ed="#B" n="53"/>quod probat non de virtute: sed de habente vir 
+      <lb ed="#B" n="54"/>tutem: ideo argumentum non cogit. Dico tamen 
+      <lb ed="#B" n="55"/>quod licet fides sit perfecta in se virtus: non 
+      <lb ed="#B" n="56"/>considerata spe: tamen in ordine ad finem mutuo 
+      <lb ed="#B" n="57"/>se exigunt: vt datur in argumento exemplum 
+      <lb ed="#B" n="58"/>et illo modo habet intelligi illa Aug. 
+      aucto<lb ed="#B" n="59" break="no"/>ritas. Charitas quae deseri potest numquam vera 
+      <lb ed="#B" n="60"/>fuit id est non ducit ad finem beatitudinis scilicet ad quam 
+      <lb ed="#B" n="61"/>erat ordinata.
+</p>
+               <p xml:id="WuV37d-f47881-d1e1111">
+¶ Ad secundum dico ad mi 
+      <lb ed="#B" n="62"/>norem quod fidelis per fidem quam habet credit 
+      <lb ed="#B" n="63"/>delectabiliter: tamen in casu posito nisi sit 
+      <lb ed="#B" n="64"/>bonus eliget negare fidem propter mortem: 
+      <lb ed="#B" n="65"/>non quia non habeat delectationem credendo et 
+      <lb ed="#B" n="66"/>tristetur recedendo a fide: sed eligit minus triste) 
+      <lb ed="#B" n="67"/>vt sibi videtur: vt magis triste fugiat: ideo 
+      ar<lb ed="#B" n="68" break="no"/>gumntum nullum est.
+</p>
+               <p xml:id="WuV37d-f47881-d1e1129">
+¶ Ad tertium dico ad mino 
+      <lb ed="#B" n="69"/>rem. primo quod licet omnis habens charitatem 
+      ha<lb ed="#B" n="70" break="no"/>beret caeteras virtutes: non tamen esset conexio 
+      <lb ed="#B" n="71"/>quia non est econtra: quod tamen requiritur. non enim omnis 
+      <lb ed="#B" n="72"/>habens aliquam virtutem habet charitatem 
+      <lb ed="#B" n="73"/>Ultra dico quod minor est dubia valde ex 
+      prae<lb ed="#B" n="74" break="no"/>dictis certum est enim quod nouiter ad deum 
+      con<lb ed="#B" n="75" break="no"/>uersus habet charitatem: dubium tamen est 
+      <lb ed="#B" n="76"/>an habeat morales virtutes. ea propter 
+      ar<lb ed="#B" n="77" break="no"/>gumentum non concludit.
+</p>
+            </div>
+            <div xml:id="WuV37d-f47881-Dd1e1152" type="et-conclusiones">
+               <head xml:id="WuV37d-f47881-Hd1e1154">Conclusiones</head>
+               <p xml:id="WuV37d-f47881-d1e1157">
+¶ Ex etc. Prima 
+      <lb ed="#B" n="78"/>conclusio vbi est charitas virtutes ponun 
+      <lb ed="#B" n="79"/>tur cunctae et seruntur: vt clamat veritas. 
+      <lb ed="#B" n="80"/>Dicit conclusio. quod vbi est charitas relique 
+      <lb ed="#B" n="81"/>sunt virtutes: et habet intelligi respectu 
+      <lb ed="#B" n="82"/>ad finem: vt patet in quaestione. Et ponitui 
+      <lb ed="#B" n="83"/>a principio dist. vsque ibi. Utrum vero pari 
+      <lb ed="#B" n="84"/>ter quis etc.
+</p>
+               <p xml:id="WuV37d-f47881-d1e1175">
+¶ Secunda conclusio: in virtu 
+      <lb ed="#B" n="85"/>tibus extat aequalitas non in defectibus 
+      <lb ed="#B" n="86"/>sed inequalitas. Dicit conclusio quod virtu 
+      <lb ed="#B" n="87"/>tes sunt aequales: et debet intelligi quo acd 
+      <lb ed="#B" n="88"/>meritum per charitatem: non aliter: vt pa 
+      <lb ed="#B" n="89"/>tet ex. q. vicia autem non sunt paria. Et pon 
+      <lb ed="#B" n="90"/>tur ab illo capitulo: Utrum vero parite 
+      <lb ed="#B" n="91"/>vsque oi. Cum duo sint praecepta.
+</p>
+               <p xml:id="WuV37d-f47881-d1e1193">
+¶ Terti 
+      <lb ed="#B" n="92"/>conclusio. Duobus mandatis tota lex imple 
+      <lb ed="#B" n="93"/>tur atque continetur vigor charitatis. Di 
+      <lb ed="#B" n="94"/>cit conclusio quod tota lex et charitas est in du 
+      <lb ed="#B" n="95"/>bus mandatis scilicet dilectione dei et proxin 
+      <lb ed="#B" n="96"/>Et ponitur ab illo capitulo. Cum duo sint etc 
+      <lb ed="#B" n="97"/>vsque ad finem distinctionis. 
+</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

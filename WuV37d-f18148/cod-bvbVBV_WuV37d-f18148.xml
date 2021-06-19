@@ -1,0 +1,683 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 6</title>
+            <author ref="#WilliamDeVaurouillon">William de Vaurouillon</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 6</title>
+               <date when="2021-06-19">June 19, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-bvbVBV">Basel 1510</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-06-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="256-v"/>
+            <cb ed="#B" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="WuV37d-f18148"><!-- l3d6 -->
+            <head xml:id="WuV37d-f18148-Hd1e108">Distinctio 6</head>
+            <div xml:id="WuV37d-f18148-Dd1e111" type="circa-textum">
+               <head xml:id="WuV37d-f18148-Hd1e113">Circa textum</head>
+               <p xml:id="WuV37d-f18148-d1e116">
+                  <lb ed="#B" n="40"/>Distinctio. 6. prosequitur 
+      incarna<lb ed="#B" n="41" break="no"/>tionem vt in fancto esse cosideratam 
+      si<lb ed="#B" n="42" break="no"/>ue etiam viuendi modum secundum varias 
+      <lb ed="#B" n="43"/>doctorum opiniones. 
+      <lb ed="#B" n="44"/>P2 premissis 
+      <lb ed="#B" n="45"/>autem aemergit quastio plu 
+      <lb ed="#B" n="46"/>rimum continens vtilita 
+      <lb ed="#B" n="47"/>tis: sed nimiu difficul¬ 
+      <!--529.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="48"/>tatis etc. Hic signatur sexta distinctio: erg 
+      <lb ed="#B" n="49"/>sic continuatur ad praecedentes: Nam postque 
+      <lb ed="#B" n="50"/>in praecedenti distinctione: de sacra iesu 
+      vnio<lb ed="#B" n="51" break="no"/>ne multiplex mota est questio. Nunc do 
+      <lb ed="#B" n="52"/>ctorum variationes super eadem vnione opu 
+      <lb ed="#B" n="53"/>posita patet opinio. Et habet diuidi ista 
+      <lb ed="#B" n="54"/>pars in tres partes principales. In 
+      pri<lb ed="#B" n="55" break="no"/>ma palam proponuntur ambigue locutio 
+      <lb ed="#B" n="56"/>nes. In secunda doctorum sequuntur hinc 
+      va<lb ed="#B" n="57" break="no"/>rie opiniones. In tertia loquendi 
+      nectun<lb ed="#B" n="58" break="no"/>tur in vltimo expressiones. prima in prin 
+      <lb ed="#B" n="59"/>cipio. secunda ibi. In huius profunditatis 
+      <lb ed="#B" n="60"/>reseratione etc. Tertia distinctione. 7. ibi. 
+      <lb ed="#B" n="61"/>Secundum primam vero dicitur etc. Prima autem 
+      <lb ed="#B" n="62"/>parte indiuisa manente rursus 
+      particu<lb ed="#B" n="63" break="no"/>la secunda in qua doctorum sequuntur varie 
+      <lb ed="#B" n="64"/>opiniones: in tres partes diuiditur: secundum quod 
+      <lb ed="#B" n="65"/>tres sunt opiniones. In prima. prima 
+      tam<lb ed="#B" n="66" break="no"/>gitur. in secunda: secunda iungitur: in tertia 
+      <lb ed="#B" n="67"/>tertia annectitur. prima in principio. secun 
+      <lb ed="#B" n="68"/>da ibi. Sunt autem et alii etc. tertia ibi. Sunt 
+      <lb ed="#B" n="69"/>etiam alii qui in incar. etc. Haec est diuisio etc. 
+    </p>
+            </div>
+            <div xml:id="WuV37d-f18148-Dd1e189">
+               <head xml:id="WuV37d-f18148-Hd1e191">Quaestio</head>
+               <p xml:id="WuV37d-f18148-d1e194">
+                  <lb ed="#B" n="70"/>Praesens quaestio indagatur in 
+      chri<lb ed="#B" n="71" break="no"/>sto fore duo esse existentie absque tamen 
+      <lb ed="#B" n="72"/>compositione cu subsistentiae vnitate et 
+      <lb ed="#B" n="73"/>vera christi humanitate tanquam sub 
+      <lb ed="#B" n="74"/>aliquili modo hitus vide secodo de eade 
+      ma<lb ed="#B" n="75" break="no"/>teria.
+      </p>
+               <p xml:id="WuV37d-f18148-d1e210">
+                  <lb ed="#B" n="76"/>Utrum in perso 
+      <lb ed="#B" n="77"/>na christi simplici sic vnum esse po 
+      <lb ed="#B" n="78"/>natur vt homo ad modum hitus censeatur. 
+      <lb ed="#B" n="79"/>Et arguitur ad partem falsam tribus mediis: 
+      </p>
+               <p xml:id="WuV37d-f18148-d1e221">
+                  <lb ed="#B" n="80"/>¶ Primo arguitur quod persona christi sit 
+      <lb ed="#B" n="81"/>coposita: vbi minor numerus compositioni 
+      <lb ed="#B" n="82"/>parit a fortiori et maior: et maxime vbi ad  
+      <lb ed="#B" n="83"/>praecedentem in eodem fit additio: sed si in 
+      chri<lb ed="#B" n="84" break="no"/>sto esset sola humanitas: christus esset persona 
+      <lb ed="#B" n="85"/>composita. ergo a fortiori modo vbi cum 
+      huma<lb ed="#B" n="86" break="no"/>nitate habet diuinitatem. Maior patet: non 
+      <lb ed="#B" n="87"/>enim apparet intelligibile quod binarius 
+      compo<lb ed="#B" n="88" break="no"/>nat: et non ternarius. Sed minor probatur: quia 
+      philosophi<lb ed="#B" n="89" break="no"/>ce diffinitur homo quoddam compositum ex 
+      corpo<lb ed="#B" n="90" break="no"/>re et anima intellectiua.
+</p>
+               <p xml:id="WuV37d-f18148-d1e247">
+¶ Secundo arguitur: 
+      <lb ed="#B" n="91"/>quod in christo sit vnicum esse: si in piscopo esset duplex 
+      <lb ed="#B" n="92"/>esse: plisopus esset duo entia: sed hoc est falsum: igitur. 
+      <lb ed="#B" n="93"/>maior patet a simili: sicuti enim duabus albe 
+      <lb ed="#B" n="94"/>dinibus dicuntur duo alba: sic videtur duobus 
+      <!--530.xml-->
+      <pb ed="#B" n="257-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>esse duo dici entia. Sed minor probatur: quia 
+      <lb ed="#B" n="2"/>tunc christus esset minime vnum: quod est contra 
+      <lb ed="#B" n="3"/>Bern. ponentem post diuinam vnitatem in 
+      tri<lb ed="#B" n="4" break="no"/>bus personis hanc esse maximam: quia si chri 
+      <lb ed="#B" n="5"/>stus esset duo entia: certum est quod non due 
+      <lb ed="#B" n="6"/>nature: quia natura non praedicatur in recto de 
+      <lb ed="#B" n="7"/>christo: vnde haec non conceditur: christus est hu 
+      <lb ed="#B" n="8"/>manitas: et ita intelligeretur de persona: et 
+      <lb ed="#B" n="9"/>sic christus esset due personae: quod est 
+      haereti<lb ed="#B" n="10" break="no"/>cum.
+</p>
+               <p xml:id="WuV37d-f18148-d1e287">
+¶ Tertio arguitur: quod christus sit homo so 
+      <lb ed="#B" n="11"/>lum ad modum habitus. Ubicumque fit praedicatio 
+      <lb ed="#B" n="12"/>denominatiua: ibi est praedicatio accidentis: sed 
+      <lb ed="#B" n="13"/>in christo humanitas predicatur denominatiue: 
+      <lb ed="#B" n="14"/>ergo est accidens in christo: et cum teste 
+      An<lb ed="#B" n="15" break="no"/>sel. quod semel assumpsit nunquam dimittat: 
+      ha<lb ed="#B" n="16" break="no"/>bebit modum habitus qui est qualitas de dif 
+      <lb ed="#B" n="17"/>ficili mobilis. Maior patet ex ratione 
+      de<lb ed="#B" n="18" break="no"/>nominatiuorum. Sed minor probatur: quia dicitur dei 
+      <lb ed="#B" n="19"/>verbum humanatum: cum tamen caeteri homines tale 
+      <lb ed="#B" n="20"/>nomen non habeant.
+</p>
+               <p xml:id="WuV37d-f18148-d1e311">
+¶ In oppositum primi 
+      <lb ed="#B" n="21"/>arguitur: quia vnitas constitutiua praecedit compo 
+      <lb ed="#B" n="22"/>sitiuam: et tamen secundum Bern. ante hanc est vni 
+      <lb ed="#B" n="23"/>tas in christo: et ita non est persona 
+      compo<lb ed="#B" n="24" break="no"/>sita. In oppositum secundi arguitur ex illo 
+      <lb ed="#B" n="25"/>philosophin. 2. de anima. Uiuere viuentibus est esse 
+      <lb ed="#B" n="26"/>et ita cum christus habeat duplicem vitam: 
+      incre<lb ed="#B" n="27" break="no"/>atam et creatam: habebit duplex esse. In 
+      op<lb ed="#B" n="28" break="no"/>positum tertii arguitur auctoritatem Alexam. ex 
+      <lb ed="#B" n="29"/>tra de hereticis. Cum christus perfectus sit de 
+      <lb ed="#B" n="30"/>et perfectus homo: qua temeritate audent 
+      <lb ed="#B" n="31"/>aliqui dicere: quod christus non est aliquid inquan 
+      <lb ed="#B" n="32"/>tum homo: vhi innuitur. quod de christo ad 
+      mo<lb ed="#B" n="33" break="no"/>dum sube praedicatur homo: non admodum 
+      acciden<lb ed="#B" n="34" break="no"/>tis et habitus. 
+      </p>
+               <p xml:id="WuV37d-f18148-d1e344">
+                  <lb ed="#B" n="35"/>¶ In ista questione ad praecedentes confor 
+      <lb ed="#B" n="36"/>miter sunt tres articuli declarandi 
+      <lb ed="#B" n="37"/>Primus est terminorum decla 
+      <lb ed="#B" n="38"/>Quorumratiuus. 
+      <lb ed="#B" n="39"/>Secundus est quaestionis responsiuus. 
+      <lb ed="#B" n="40"/>Tertius est dubiorum motiuus. 
+      <lb ed="#B" n="41"/>
+      articu<lb ed="#B" n="42" break="no"/>lum ter 
+      <lb ed="#B" n="43"/>litas 
+      <lb ed="#B" n="44"/>mus igitur terminus est vnitas. vnde vl 
+      <lb ed="#B" n="45"/>tra dicta de vnitate in primo dist. 7: 
+      No<lb ed="#B" n="46" break="no"/>to quo ad praesens: quod sunt tres ternarii 
+      vni<lb ed="#B" n="47" break="no"/>tatum: quas tangit beatus Bern. in li. de 
+      consi<lb ed="#B" n="48" break="no"/>deratione ad eugenium. Primus ternarius est 
+      <lb ed="#B" n="49"/>vnitas collectiua: sicuti multi lapides ac¬ 
+      <!--530.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>ceruum faciunt: vnitas constitutiua sicuti mul 
+      <lb ed="#B" n="51"/>te partes vnum totum constituunt: vnitas communiu 
+      <lb ed="#B" n="52"/>gatiua: vt duo iam non duo: sed vna caro 
+      <lb ed="#B" n="53"/>sunt. Secundus ternarius est vnitas 
+      na<lb ed="#B" n="54" break="no"/>tiua qua homo anima et carne nascitur: vnitas 
+      <lb ed="#B" n="55"/>potestatiua qua homo virtutis non instabilis 
+      <lb ed="#B" n="56"/>non dissimilis: sed vnus sibimet nititur 
+      inue<lb ed="#B" n="57" break="no"/>niri: vnitas consentanea: vt cum per 
+      charita<lb ed="#B" n="58" break="no"/>tem multorum hominium est cor vnum: et anima vna. 
+      <lb ed="#B" n="59"/>Tertius ternarius est vnitas votiua cum anima 
+      <lb ed="#B" n="60"/>omnibus votis deo adherens vnus spiritus cum 
+      <lb ed="#B" n="61"/>deo efficitur: vnitas dignatiua: qua limus no 
+      <lb ed="#B" n="62"/>ster cum verbo diuino in vnam assumptus est per 
+      <lb ed="#B" n="63"/>sonam: vnitas trinitatis ad quam (teste 
+      Ber<lb ed="#B" n="64" break="no"/>nardo / in eodem caetere reducuntur vnitates 
+      <lb ed="#B" n="65"/>ita quod in hiis est ascensus de minori 
+      vnita<lb ed="#B" n="66" break="no"/>te ad maiorem. Unde primus ternarius incipit 
+      <lb ed="#B" n="67"/>ab insima in rebus vnitate: scilicet collectiuis  
+      <lb ed="#B" n="68"/>et terminatur in infimam voluntatem. scilicet vnitatem 
+      <lb ed="#B" n="69"/>communiugationis. Secundus ternarius incipit 
+      <lb ed="#B" n="70"/>a maiori rerum naturali vnitate quae dicitur 
+      <lb ed="#B" n="71"/>vnitas natiua: et fiuitur in maiorem cordium 
+      ho<lb ed="#B" n="72" break="no"/>minum ad inuicem vnitatem quae dicitur vnitas. 
+      <lb ed="#B" n="73"/>consentatica charitatis. Tertius ternarius in 
+      <lb ed="#B" n="74"/>cipit a minori amore de. scilicet vnitate votiua 
+      <lb ed="#B" n="75"/>transiens per maiorem vnitatem dignatiuam quae 
+      <lb ed="#B" n="76"/>deus homo efficitur et terminatur ad maximam 
+      <lb ed="#B" n="77"/>quae vnitas dicitur trinitatis beatifice. 
+      </p>
+               <p xml:id="WuV37d-f18148-d1e444">
+                  <lb ed="#B" n="78"/>¶ Secundus terminus est esse: vnde no 
+      <lb ed="#B" n="79"/>to quod esse vt tangit doc. sub. in prima 
+      quae<lb ed="#B" n="80" break="no"/>stione huius dist. dicitur tripliciter: praeter 
+      es<lb ed="#B" n="81" break="no"/>se essentiae: quod non differt ab esse existentiae: 
+      <lb ed="#B" n="82"/>nisi in modo intelligendi. Primo enim 
+      di<lb ed="#B" n="83" break="no"/>citur esse quod signat compositionem intellectus 
+      <lb ed="#B" n="84"/>vnientis praedicatum cum subiecto: de quo 
+      di<lb ed="#B" n="85" break="no"/>cit philosophus. 5 metha. quod esse signat verum: non 
+      <lb ed="#B" n="86"/>esse falsum. Secundo dicitur essentia actu 
+      <lb ed="#B" n="87"/>alis ipsa existentia: sicuti habent accidentia 
+      <lb ed="#B" n="88"/>separata in sacramento altaris. Tertio 
+      di<lb ed="#B" n="89" break="no"/>citur esse subsistentia: et est esse suppositi in 
+      <lb ed="#B" n="90"/>catmmunicabile alteri: seu vt quo: seu vt quod 
+      <lb ed="#B" n="91"/>Noto tamen quod loquendo proprie: haec tria 
+      in<lb ed="#B" n="92" break="no"/>telliguntur se habere per ordinem esse 
+      essen<lb ed="#B" n="93" break="no"/>tiae: esse existere: et esse subsistere. Existentia 
+      <lb ed="#B" n="94"/>enim primitus concipitur. Unde Ansel. in 
+      mono<lb ed="#B" n="95" break="no"/>logion dicit. 6. ca. quod sicuti se habent haec tria 
+      <lb ed="#B" n="96"/>lux: lucens: lucere. sic haec tria: essentia: ens: 
+      <lb ed="#B" n="97"/>et esse. Secundo intelligitur esse existere: quia 
+      <lb ed="#B" n="98"/>anima assumpta a verbo. immo quaelibet se¬ 
+      <!--531.xml-->
+      <pb ed="#B" n="257-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>parata habet bene propriam existentiam: non tamen subsistem 
+      <lb ed="#B" n="2"/>tiam. Unde tertio et vltimo sequitur sub sistentia 
+      <lb ed="#B" n="3"/>quo est propria suppositi aut personae.
+</p>
+               <p xml:id="WuV37d-f18148-d1e505">
+¶ 
+      Ter<lb ed="#B" n="4" break="no"/>tius terminus est habitus. vnde vltra de ha 
+      <lb ed="#B" n="5"/>bitu dicta in secundo. distin. 3: Noto quod secundum 
+      <lb ed="#B" n="6"/>aug. et est in listera: habitus dicitur tripliciter. Pris 
+      <lb ed="#B" n="7"/>mo dicitur hitus pro habitu interiori: sicuti est 
+      <lb ed="#B" n="8"/>habitus scientie. Secundo pro habitum exteriori: si 
+      <lb ed="#B" n="9"/>cut est vestimentum. Tertio pro habitu 
+      par<lb ed="#B" n="10" break="no"/>tim interiori et partim exteriori: sicuti 
+      di<lb ed="#B" n="11" break="no"/>citur alius alio validior: aut fortior: et hino 
+      <lb ed="#B" n="12"/>potest habitus alia accipi differia ex eodem Aug. 
+      <lb ed="#B" n="13"/>Aliquis enim habitus mutat et non mutatur: 
+      <lb ed="#B" n="14"/>sicut sapientia: aliquis mutat et mutatur: 
+      <lb ed="#B" n="15"/>vt cibus. Alius nec mutat: nec mutatur vt an 
+      <lb ed="#B" n="16"/>nulus. vltimus non mutans mutatur: vt vestis 
+      <lb ed="#B" n="17"/>articulum 
+      <lb ed="#B" n="18"/>sunt tres 
+      <lb ed="#B" n="19"/>conclusiones. Prima est de esse christi. 
+      Se<lb ed="#B" n="20" break="no"/>cunda de persona simplici christi. Teria de 
+      <lb ed="#B" n="21"/>humanitate in christo per modum hitus se 
+      ha<lb ed="#B" n="22" break="no"/>bente.
+</p>
+               <p xml:id="WuV37d-f18148-d1e549">
+¶ Prima igitur est haec. Licem in 
+      chri<lb ed="#B" n="23" break="no"/>sto duo sint esse existentie: vnicum tamen est subsistem 
+      <lb ed="#B" n="24"/>tiae. Dicit prima pars conclusiois: quod plures sunt 
+      <lb ed="#B" n="25"/>esse existentie in christo. Probatur argumen 
+      <lb ed="#B" n="26"/>to doct. sub. q. I1. huius dist. Terminus 
+      genia<lb ed="#B" n="27" break="no"/>tionis est esse existentiae: vel aliquid habens 
+      ta<lb ed="#B" n="28" break="no"/>le esse ex. 5. philosophicorum. Sed christus vere fuit 
+      tem<lb ed="#B" n="29" break="no"/>poraliter a maria genitus: igitur habuit aliud 
+      <lb ed="#B" n="30"/>esse ab esse increato: quia illud non fuit effectum 
+      <lb ed="#B" n="31"/>per geniationem temporalem. Confirmatur: quia anima christi 
+      <lb ed="#B" n="32"/>fuit vere creata: et ita vere habuit esse existem 
+      <lb ed="#B" n="33"/>tiae et essentiae: creata scilicet quae inquantum sic non 
+      <lb ed="#B" n="34"/>producuntur nisi in aliqua existentia: non autem 
+      <lb ed="#B" n="35"/>creata est existentia aeterna. Confirmatur secun 
+      <lb ed="#B" n="36"/>do: quia si assumpta natura sibi dimittatur 
+      es<lb ed="#B" n="37" break="no"/>set vere in actu: nullo sibi positiuo dato de 
+      <lb ed="#B" n="38"/>nouo: alioquin esset in potentia solum: sicut 
+      <lb ed="#B" n="39"/>anima antichristi. Patet tertio: quia relatio actu 
+      <lb ed="#B" n="40"/>alis praesupponit: quod extrema praesint in actu: 
+      <lb ed="#B" n="41"/>vnio autem naturae humanae ad diuinam est 
+      actua<lb ed="#B" n="42" break="no"/>lis: et ita praeexigitur: quod tam diuina natura quam 
+      <lb ed="#B" n="43"/>humana praeintelligantur habere esse actu 
+      <lb ed="#B" n="44"/>alis existentiae: vnde non videtur mors 
+      chri<lb ed="#B" n="45" break="no"/>sti fuisse possibilis nisi ponendo istud esse 
+      <lb ed="#B" n="46"/>existentiae in humana natura vnita diuine 
+      di<lb ed="#B" n="47" break="no"/>stinctum ab esse ex stentiae diuinae naturae. Unde 
+      <lb ed="#B" n="48"/>patet quod humana natura vere potest dici indiui 
+      <lb ed="#B" n="49"/>dua propica indiuiduatione: et singularis pro¬ 
+      <!--531.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>pria singularitate: et res naturae: patet quia prae 
+      <lb ed="#B" n="51"/>non solum dicit humanitatem: quae dicitur natu 
+      <lb ed="#B" n="52"/>ra: sed addit propriam differentiam indiuidua 
+      <lb ed="#B" n="53"/>lem: qua mediante dicitur res naturae. Et hoc di 
+      <lb ed="#B" n="54"/>Dam. quando dicit quod natura humana 
+      as<lb ed="#B" n="55" break="no"/>sumpta est a verbo in athomo id est in 
+      indi<lb ed="#B" n="56" break="no"/>uiduo. Ex quo patet defectus sancti thome 
+      <lb ed="#B" n="57"/>in praesenti distinctione arti. 2. q. 2. dicentis quod i 
+      <lb ed="#B" n="58"/>solum fuit vnum esse existentiae in christo scilicet es 
+      <lb ed="#B" n="59"/>se diuinum: dat exemplum: sicut si alicui 
+      cor<lb ed="#B" n="60" break="no"/>pori habenti iam esse perfectum vniatur de no 
+      <lb ed="#B" n="61"/>uo vna manus creata: illa manus non da 
+      <lb ed="#B" n="62"/>bit esse corpori iam habenti esse: sed ipsum 
+      <lb ed="#B" n="63"/>corpus solum ponet respectum ad illam 
+      <lb ed="#B" n="64"/>manum: et manus esset per esse totius. Sic 
+      <lb ed="#B" n="65"/>in proposito: natura humana quasi inser 
+      <lb ed="#B" n="66"/>ta est diuino supposito: dicente. In 
+      man<lb ed="#B" n="67" break="no"/>suetudine suscipite insitum verbum: et ita 
+      <lb ed="#B" n="68"/>solum habebit esse illius diuini 
+      supposi<lb ed="#B" n="69" break="no"/>ti: vt sicuti accidens non dat esse subiecto 
+      <lb ed="#B" n="70"/>sed parti ipat esse eius: ita dicunt esse in 
+      <lb ed="#B" n="71"/>proposito: Patet tamen oppositum ex 
+      conclu<lb ed="#B" n="72" break="no"/>sione: vnde nec manuductiones sunt ad pro 
+      <lb ed="#B" n="73"/>positum: manus enim sic est in homine: quod non 
+      <lb ed="#B" n="74"/>est homo: humanitas sic vnita est verbo 
+      <lb ed="#B" n="75"/>dei quod diuinum verbum dicitur homo: caeterum 
+      <lb ed="#B" n="76"/>fassum assumitur salua sua sanctitate 
+      sem<lb ed="#B" n="77" break="no"/>per quod scilicet manus in corpore non habeat pro 
+      <lb ed="#B" n="78"/>priam existentiam: immo quidem. sed non 
+      <lb ed="#B" n="79"/>subsistentiam: vnde vt bene notat 
+      Fran<lb ed="#B" n="80" break="no"/>ciscus de maro. in primo sententiarum dist. 
+      <lb ed="#B" n="81"/>16. immo omnia puncta in linea proprias 
+      <lb ed="#B" n="82"/>habent existentias. Et dum dicitur quod puncta 
+      <lb ed="#B" n="83"/>sunt in potentia in linea: debet intelligi 
+      quan<lb ed="#B" n="84" break="no"/>tum ad subsistentiam: quam diuisione habent 
+      <lb ed="#B" n="85"/>Ex quo patet: quod etiam accidentia in 
+      sub<lb ed="#B" n="86" break="no"/>iecto habent existentiam: sed non perfectam: quia 
+      <lb ed="#B" n="87"/>fundantur in substantia. Et hoc vult 
+      dice<lb ed="#B" n="88" break="no"/>re philosophus dum dicit accidentia non sunt entia: 
+      <lb ed="#B" n="89"/>nisi quia entis. Sed dicit secunda pars conclu 
+      <lb ed="#B" n="90"/>sionis: quod in christo vnicum esse est subsistentiae 
+      <lb ed="#B" n="91"/>Probatur: quia istud esse dicitur esse sup 
+      <lb ed="#B" n="92"/>positi: christus autem solum nominat vnum suppo 
+      <lb ed="#B" n="93"/>situm. Confirmatur: quia si duo essent 
+      suppo<lb ed="#B" n="94" break="no"/>sita in christo: sequeretur quod et due personae: quod 
+      <lb ed="#B" n="95"/>est heres impii nestorii: et fuit improbatum  
+      <lb ed="#B" n="96"/>praecedenti distinctione. Sed probatur consequenta: quia non 
+      <lb ed="#B" n="97"/>differnt suppositum et persona: nisi quia suppositum 
+      <lb ed="#B" n="98"/>solum dicit: quod sit in substantia: sed personat 
+      <!--532.xml-->
+      <pb ed="#B" n="258-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>in substantia intellectuali. Ex quo patet quod 
+      <lb ed="#B" n="2"/>recte improbatur prima opinio. quae tangi 
+      <lb ed="#B" n="3"/>tur in praesenti distin. quae ponit in christo 
+      <lb ed="#B" n="4"/>duo supposita: vnum humanum: reliquum di 
+      <lb ed="#B" n="5"/>uinum: et potest haec opinio reduci ad tria. 
+      <lb ed="#B" n="6"/>Primo enim ponit: quod in incarnatione fuit 
+      <lb ed="#B" n="7"/>vnus homo constitutus ex anima et corpo 
+      <lb ed="#B" n="8"/>re: ita tamen quod nihil fuit constitutum. ex homi 
+      <lb ed="#B" n="9"/>ne et deo. Secundo dicit illum hominem assum 
+      <lb ed="#B" n="10"/>ptum a deo. Tertio dicebat: quod assumens 
+      <lb ed="#B" n="11"/>potest predicari de assumpto: quia bene 
+      <lb ed="#B" n="12"/>dicimus diuinum verbum est homo: licet 
+      <lb ed="#B" n="13"/>verbum assumat: et homo assumatur. Et ei 
+      <lb ed="#B" n="14"/>his tribus inferebat quod christus est duo: cum 
+      <lb ed="#B" n="15"/>aliud sit assumens: et aliud assumptum: et hoc 
+      <lb ed="#B" n="16"/>est quod hanc /denomninat opinionem inquantum 
+      <lb ed="#B" n="17"/>ponebat duo supposita in christo. Unde quod 
+      <lb ed="#B" n="18"/>christus esset duo non posset intelligi nisi tri 
+      <lb ed="#B" n="19"/>pliciter: vt tangit doctor deuotus. q. 
+      pri<lb ed="#B" n="20" break="no"/>ma articuli id est praesentis distin. Primo vt 
+      <lb ed="#B" n="21"/>dicatur duae naturae: et hoc nullus posuit: 
+      <lb ed="#B" n="22"/>quia natura humana in abstracto non 
+      prae<lb ed="#B" n="23" break="no"/>dicatur de christo. vnde ista est falsa: christus 
+      <lb ed="#B" n="24"/>est humanitas. Secundo vt intelligatur 
+      <lb ed="#B" n="25"/>duo id est due personae: et hoc modo est 
+      here<lb ed="#B" n="26" break="no"/>ticum et contra simbolum Athanasii: non 
+      <lb ed="#B" n="27"/>duo tamen sed vnus est christus. Tertio modo 
+      <lb ed="#B" n="28"/>vt intelligatur duo supposita: vel duae res na 
+      <lb ed="#B" n="29"/>turae: et hic est modus huius opinionis: nec est 
+      <lb ed="#B" n="30"/>hereticus: vt tangit doc. deuo. et idem 
+      tho<lb ed="#B" n="31" break="no"/>arti. 1. q. 1. praesentis dist. Quaeratur tamen ab eodem 
+      <lb ed="#B" n="32"/>oppositum in tertia parte summae. q. 2. articu 
+      <lb ed="#B" n="33"/>lo. 6. vbi dicit quod prima et tertia opinio non 
+      <lb ed="#B" n="34"/>sunt dicende opiniones: sed haereses in 
+      com<lb ed="#B" n="35" break="no"/>ciliis damnate licem dicat verum de tertia 
+      <lb ed="#B" n="36"/>vt patebit tertia conclusione. oporteret ta 
+      <lb ed="#B" n="37"/>men quod nominaret illud concilium in quo 
+      <lb ed="#B" n="38"/>fuit damnata prima opinio: nisi intelligat 
+      <lb ed="#B" n="39"/>sicut capiebat Nestorius: et tunc fuit dam 
+      <lb ed="#B" n="40"/>nata in primo concilio ephesino sub 
+      theo<lb ed="#B" n="41" break="no"/>dosio iuniore: veritas tamen est: quod est fal 
+      <lb ed="#B" n="42"/>sa: christus nempe non est duo: sed vnum 
+      <lb ed="#B" n="43"/>licem plures habeat naturas. Et si dicatur 
+      <lb ed="#B" n="44"/>per illud extra de hereticis. Cum christus 
+      <lb ed="#B" n="45"/>Christus secundum quod deus est aliquid: et secundum quod 
+      ho<lb ed="#B" n="46" break="no"/>mo est aliquid: aut igitur secundum quod homo est illud 
+      ali<lb ed="#B" n="47" break="no"/>quid quod est deus: et ita omnis homo est deus: 
+      <lb ed="#B" n="48"/>aut aliud aliquid: et ita aliud et aliud: et per 
+      <lb ed="#B" n="49"/>consequens duo. Dicendum quod argumentatio ista fa 
+      <!--532.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>cit fallaciam consequentis. arguere cum inquantum a 
+      <lb ed="#B" n="51"/>superiori ad inferius: sicut si dicerem homo 
+      <lb ed="#B" n="52"/>inquantum animal est sensibile: ergo inquan 
+      <lb ed="#B" n="53"/>tum animal est sensibile hinnibile: sic in 
+      pro<lb ed="#B" n="54" break="no"/>posito: quia esse aliquid: quod est deus est 
+      in<lb ed="#B" n="55" break="no"/>ferius ad hoc quod dico esse aliquid: nec opor 
+      <lb ed="#B" n="56"/>tet quod si idem et diuersum diuidant 
+      simplici<lb ed="#B" n="57" break="no"/>ter ens: quod omne quod est cum inquantum sit 
+      <lb ed="#B" n="58"/>idem vel diuersum alteri: nempe homo inquam 
+      <lb ed="#B" n="59"/>tum homo: nec albus nec niger est. vnde 
+      re<lb ed="#B" n="60" break="no"/>cte Auicem. in. 5. metaphice dicit: equinitas 
+      <lb ed="#B" n="61"/>est tantum equinitas. Ex quo patet quod illa 
+      au<lb ed="#B" n="62" break="no"/>ctoritas Aug. ad faelicianum. Aliud est fili 
+      <lb ed="#B" n="63"/>us dei: aliud filius hominis: et illa conclusio de 
+      <lb ed="#B" n="64"/>tri. apud hilarium: Christus homo iesus: quam 
+      <lb ed="#B" n="65"/>uis sit aliud de patre: aliud de matre non 
+      <lb ed="#B" n="66"/>tamen alius: sunt improprie et sunt expo 
+      <lb ed="#B" n="67"/>nende: id est alterius nature: quia christus 
+      <lb ed="#B" n="68"/>in se includit vtramque naturam scilicet diuinam et 
+      <lb ed="#B" n="69"/>humanam: licet non sit vtraque: sicut illa. Dam. 
+      <lb ed="#B" n="70"/>auctoritas libro. 3. ca. 53. Totus christ 
+      <lb ed="#B" n="71"/>est deus: sed non solum deus.
+</p>
+               <p xml:id="WuV37d-f18148-d1e886">
+¶ Secun 
+      <lb ed="#B" n="72"/>da conclusio est de persona christi 
+      simpli<lb ed="#B" n="73" break="no"/>ci: et est haec sic. dei vnigenitus simplex ab 
+      <lb ed="#B" n="74"/>aeterno persona censetur: vt assumpta hu 
+      <lb ed="#B" n="75"/>manitate composita non fieret. Dicit pri 
+      <lb ed="#B" n="76"/>ma pars: quod dei vnigenitus est in eternita 
+      <lb ed="#B" n="77"/>te simplex persona. Probatur. Nullum 
+      <lb ed="#B" n="78"/>intensiue infinitum est compositum: sed  
+      <lb ed="#B" n="79"/>simplex dei vnigenitus est intensiue 
+      infi<lb ed="#B" n="80" break="no"/>nitus ab aeterno: ergo simplex non 
+      compo<lb ed="#B" n="81" break="no"/>sita debet censeri persona. Maior patet 
+      <lb ed="#B" n="82"/>quia omnis compositio perfectioni 
+      repu<lb ed="#B" n="83" break="no"/>gnat et infinitati. Tum primo patet in par 
+      <lb ed="#B" n="84"/>tibus componentibus dicentibus finitatem: quia 
+      <lb ed="#B" n="85"/>infinitum cum infinito componere nequit: nec 
+      <lb ed="#B" n="86"/>infinitum cum finito: vnde relinquitur oportere 
+      <lb ed="#B" n="87"/>vtramque partem esse finitam. Tum secundo ratione 
+      <lb ed="#B" n="88"/>compositi: quia ex finitis nequit relinqui 
+      infi<lb ed="#B" n="89" break="no"/>nitum. Tum tertio quia omne compositum praeexi 
+      <lb ed="#B" n="90"/>git efficiens: a quo partes vniantur: 
+      for<lb ed="#B" n="91" break="no"/>ma enim non seipsam vnit materiae: nisi 
+      for<lb ed="#B" n="92" break="no"/>maliter non effectiue: efficiens autem quamma 
+      <lb ed="#B" n="93"/>xime equiuocum et totale perfectius est 
+      ef<lb ed="#B" n="94" break="no"/>fectu. Sed minor probatur: ex eo quod diui 
+      <lb ed="#B" n="95"/>num verbum idem est realiter et essentialiter 
+      <lb ed="#B" n="96"/>diuinae essentiae quae est pelagus quoddam 
+      <lb ed="#B" n="97"/>infinite bonitatis: vt habet Dama. in pri 
+      <lb ed="#B" n="98"/>mo sententiarum. Sed dicit secunda pars con 
+      <!--533.xml-->
+      <pb ed="#B" n="258-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>clusionis: quod ista diuina persona dem scilicet vni 
+      <lb ed="#B" n="2"/>genitus non efficitur composita per assumptan 
+      <lb ed="#B" n="3"/>naturam. Patet. quia vbicumque est compositio 
+      <lb ed="#B" n="4"/>ibi est in vtroque extremorum imperfectio 
+      <lb ed="#B" n="5"/>quia oportet quod vtrumque extremorum sit in potem 
+      <lb ed="#B" n="6"/>tia ad reliquum: sed talis imperfectio repe 
+      <lb ed="#B" n="7"/>riri nequit ex parte dei vnigeniti assumen 
+      <lb ed="#B" n="8"/>tis: igitur etc. Et si dicatur per illud Dam. In 
+      <lb ed="#B" n="9"/>domino iesu christo duas naturas esse cogno 
+      <lb ed="#B" n="10"/>scimus: et vnam hipostasim ex vtrisque compo 
+      <lb ed="#B" n="11"/>sitam. Dicendum quod large accipitur hic 
+      composi<lb ed="#B" n="12" break="no"/>tio: vt se extendat ad vnionem: modo etiam quomod 
+      <lb ed="#B" n="13"/>loquitur diuinus dyoni. vocans istam sacra 
+      <lb ed="#B" n="14"/>tissimam vnionem mirabilem compositionem domini 
+      <lb ed="#B" n="15"/>iesu. Ex quo patet defectus secundae 
+      opini<lb ed="#B" n="16" break="no"/>onis tacte in littera ponentis diuinam 
+      perso<lb ed="#B" n="17" break="no"/>nam ante incarnationem simplicem: sed 
+      postmo<lb ed="#B" n="18" break="no"/>dum compositam: quando ei vnita est humana 
+      con<lb ed="#B" n="19" break="no"/>ditio: quae ad hec tria dicta potest referri. Pri 
+      <lb ed="#B" n="20"/>modo quod non tantum ex anima et corpore constituta est 
+      <lb ed="#B" n="21"/>vna natura: sed etiam humanitas et diuini 
+      <lb ed="#B" n="22"/>tas ad vnam veniunt constituendam personam 
+      <lb ed="#B" n="23"/>ita quod ante incarnationem simplex erat 
+      ver<lb ed="#B" n="24" break="no"/>bi persona: sed post incarnationem 
+      composi<lb ed="#B" n="25" break="no"/>ta. Secundo dicebat: quod licet in incarnatio 
+      <lb ed="#B" n="26"/>ne verbi concedendum sit: quod sit persona facta 
+      <lb ed="#B" n="27"/>composita: non est tamen concedendum quod sit facta 
+      <lb ed="#B" n="28"/>alia: quia eadem est persona in duabus naturis: quae 
+      <lb ed="#B" n="29"/>prius solum in vnica erat. Tertio dicebat 
+      <lb ed="#B" n="30"/>quod christus erat dicendus vnum: non plura: quia 
+      <lb ed="#B" n="31"/>non assumpsit suppositum humanum: sed huma 
+      <lb ed="#B" n="32"/>nam naturam. Ex quo patet liquido: quod si 
+      mu<lb ed="#B" n="33" break="no"/>taretur nomen compositionis in nomen vnionis 
+      <lb ed="#B" n="34"/>quod haec secunda opinio penitus haberet verius 
+      <lb ed="#B" n="35"/>tatem: ideo bene dicit doc. deuotus. q. 2. at 
+      <lb ed="#B" n="36"/>ti. et quod moderni doctores huius opiniois 
+      <lb ed="#B" n="37"/>tenent rem non nomen: quia non dicunt perso 
+      <lb ed="#B" n="38"/>nam iesu compositam: sed constitutam.
+</p>
+               <p xml:id="WuV37d-f18148-d1e1036">
+¶ Tertia 
+      <lb ed="#B" n="39"/>conclusio est de humanitate in christo per 
+      <lb ed="#B" n="40"/>modum habitus se habente: et est haec. sic christ 
+      <lb ed="#B" n="41"/>homo quidditatiue dicitur: vt tamen 
+      huma<lb ed="#B" n="42" break="no"/>nitas modum habitus teneat. Dicit prima 
+      <lb ed="#B" n="43"/>pars: quod christus dicitur quidditatiue homo et 
+      <lb ed="#B" n="44"/>substantialiter. probatur. Quod vni est substam 
+      <lb ed="#B" n="45"/>tia nulli est accens: ex. 1. philosophicorum. Sed nobis 
+      <lb ed="#B" n="46"/>humanitas est substantia: ergo nequit de 
+      chri<lb ed="#B" n="47" break="no"/>sto predicari accidentaliter. Confirmatur: quia 
+      <lb ed="#B" n="48"/>si humanitas esset accidens christo: tunc aut 
+      <lb ed="#B" n="49"/>christo homini: aut christo deo: non chri¬ 
+      <!--533.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>sto homini: quia nulli homini accidentali 
+      <lb ed="#B" n="51"/>est esse hominem: non christo deo: quia in dec 
+      <lb ed="#B" n="52"/>non sunt accidentia: ex. §. dist. primi saminarum 
+      <lb ed="#B" n="53"/>Confirmatur secundo: quia tunc christus non dice 
+      <lb ed="#B" n="54"/>retur vniuoce homo nobiscum: et ita non videre 
+      <lb ed="#B" n="55"/>verus redemptor. Patet tertio: quia nobili 
+      <lb ed="#B" n="56"/>essemus homines quam christus: sicuti nobilior 
+      <lb ed="#B" n="57"/>substantia accidente. Ex quo patet error ter 
+      <lb ed="#B" n="58"/>tie opinionis tacte in littera ponentis hum 
+      <lb ed="#B" n="59"/>nitatem se habere in hac vnione penitus per 
+      <lb ed="#B" n="60"/>modum habitus et accidentis: quae sicuti dur 
+      <lb ed="#B" n="61"/>praecedentes ad tria dicta potest reduci. Pri 
+      <lb ed="#B" n="62"/>mum quod ex anima et carne non est constituta terti 
+      <lb ed="#B" n="63"/>natura in christo. vnde secundum hanc opinione 
+      <lb ed="#B" n="64"/>solum dicitur deus bomo: quia habet anim 
+      <lb ed="#B" n="65"/>et carnem: non propter humanitatem ab hiis distin 
+      <lb ed="#B" n="66"/>ctam. Secundum diuinum verbum veram carnem 
+      <lb ed="#B" n="67"/>veram animam per modum indumenti assumpse 
+      <lb ed="#B" n="68"/>rat vt hominium oculis visibilis appareret 
+      <lb ed="#B" n="69"/>Tertium quod christus non est aliquid secundum quod habue 
+      <lb ed="#B" n="70"/>homo enim non predicatur de christo per me 
+      <lb ed="#B" n="71"/>dum substantiae sed habitus. Et in hoc ter 
+      <lb ed="#B" n="72"/>tio sub alexandro est heretica condemnat 
+      <lb ed="#B" n="73"/>extra de hereticis: et merito vt patet. Sed 
+      <lb ed="#B" n="74"/>dicit secunda pars conclusionis: quod humanitas 
+      <lb ed="#B" n="75"/>in christo habet aliqualiter modum hal 
+      <lb ed="#B" n="76"/>tus. patet quantum ad tria quae nominat sat 
+      <lb ed="#B" n="77"/>ctus Tho. arti. 3. q. 1. Primum quia 
+      adueni<lb ed="#B" n="78" break="no"/>diuino verbo post esse completum: sicut hab 
+      <lb ed="#B" n="79"/>tus et omnia accidentalia. Secundum quia est i 
+      <lb ed="#B" n="80"/>se substantia: et aduenit sicut vestis homi 
+      <lb ed="#B" n="81"/>ni. Tertium quia melioratur ex vnione ad ver 
+      <lb ed="#B" n="82"/>bum: et non mutat verbum sicut vestis muta 
+      <lb ed="#B" n="83"/>secundum formam vestientis: et non mutat vestiet 
+      <lb ed="#B" n="84"/>tem. Et hinc est quod Paulus dicit. Habitu in 
+      <lb ed="#B" n="85"/>uentus vt homo: super quo verbo Hilarius 
+      <lb ed="#B" n="86"/>Non fuit ille habitus tantum hominis: sed vt hominis 
+      <lb ed="#B" n="87"/>articu 
+      <lb ed="#B" n="88"/>lum: sun 
+      <lb ed="#B" n="89"/>tres difficultates.
+</p>
+               <p xml:id="WuV37d-f18148-d1e1153">
+¶ Prima in quibus 
+      <lb ed="#B" n="90"/>conueniunt hee tres opiniones: dicendum quod 
+      <lb ed="#B" n="91"/>in tribus. Primo in hoc: quod quaelibet po 
+      <lb ed="#B" n="92"/>nit vnicam personam in christo contra errore: 
+      <lb ed="#B" n="93"/>nestorii: qui posuit duas: vnam diuinam: reli 
+      <lb ed="#B" n="94"/>quam humanam. Secundo in hoc quod ponun 
+      <lb ed="#B" n="95"/>tres substantias in christo scilicet diuinitatemus 
+      <lb ed="#B" n="96"/>animam et carnem: contra errorem euticis quae po 
+      <lb ed="#B" n="97"/>suit solum in christo vnam naturam confusam set 
+      <lb ed="#B" n="98"/>confectam ex humana et diuina. Tertio in ic 
+      <!--534.xml-->
+      <pb ed="#B" n="259-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>quod dicunt simul assumptam esse animam et 
+      car<lb ed="#B" n="2" break="no"/>nem: quod videtur esse contra errorem origenis: 
+      <lb ed="#B" n="3"/>qui posuit animas creari ante corpus.
+</p>
+               <p xml:id="WuV37d-f18148-d1e1188">
+¶ Se 
+      <lb ed="#B" n="4"/>cunda difficultas. In quo differt 
+      pri<lb ed="#B" n="5" break="no"/>ma opinio a secunda: et econtra? Dicendum / quod 
+      <lb ed="#B" n="6"/>in tribus. Primo: in hoc / quod prima opinio 
+      <lb ed="#B" n="7"/>dicit quod praeintelligitur natura hic homo 
+      sup<lb ed="#B" n="8" break="no"/>positum antequam assumatur. Secunda solum 
+      po<lb ed="#B" n="9" break="no"/>nit quod praeintelligitur humanitas aut ad plus 
+      <lb ed="#B" n="10"/>homo indiuiduum. Secunda differentia: quia 
+      <lb ed="#B" n="11"/>prima opinio dicit personam diuinam 
+      sem<lb ed="#B" n="12" break="no"/>per fore simplicem: nec compositam effici illa 
+      <lb ed="#B" n="13"/>assumptione. Secunda dicit oppositum: vnde 
+      <lb ed="#B" n="14"/>ponit quod persona verbi quae ante incarnatio 
+      <lb ed="#B" n="15"/>nem simplex erat: per incarnationem compo 
+      <lb ed="#B" n="16"/>sita effecta est. Tertia differentia est: quia 
+      <lb ed="#B" n="17"/>prima ponit duplex esse subsistentiae in 
+      chri<lb ed="#B" n="18" break="no"/>sto: haec secunda vnicum.
+</p>
+               <p xml:id="WuV37d-f18148-d1e1223">
+¶ Tertia difficul 
+      <lb ed="#B" n="19"/>tas. In quo differt tertia opinio a 
+      dua<lb ed="#B" n="20" break="no"/>bus primis? Dicendum quod in tribus. Primo 
+      <lb ed="#B" n="21"/>in hoc quod due prime opiniones ponunt 
+      hu<lb ed="#B" n="22" break="no"/>manitatem quasi quandam quidditatem compositan 
+      <lb ed="#B" n="23"/>ex anima et corpore assumi a diuina persona: 
+      <lb ed="#B" n="24"/>haec vero tertia solum ponit animam et corpus 
+      <lb ed="#B" n="25"/>assumi non ponens illam tertiam entitatem. 
+      Se<lb ed="#B" n="26" break="no"/>cundo: quia pme ponunt humanitatem 
+      communiun<lb ed="#B" n="27" break="no"/>gi diuinitati substantialiter: haec vero solum 
+      <lb ed="#B" n="28"/>accidentaliter: sicut vestis homini. Tertia 
+      <lb ed="#B" n="29"/>differentia est: quia prime due dicunt quod 
+      huma<lb ed="#B" n="30" break="no"/>nitas aliquialiter partinet ad personalitatem fili 
+      <lb ed="#B" n="31"/>dei haec vero non: immo penitus resecat: ideo 
+      <lb ed="#B" n="32"/>licet tempore magistri non fuerit haeretica: meri 
+      <lb ed="#B" n="33"/>to tamen postea extat reprobata. Ex hoc 
+      <lb ed="#B" n="34"/>patet ad quaestionem: quod videlet in persona 
+      chri<lb ed="#B" n="35" break="no"/>sti simplici non vnum esse sed duplex censetur: 
+      <lb ed="#B" n="36"/>licet humanitas aliqualiter ad modum 
+      habi<lb ed="#B" n="37" break="no"/>tus se habeat.
+</p>
+               <p xml:id="WuV37d-f18148-d1e1267">
+¶ Ad primum argumentum 
+      <lb ed="#B" n="38"/>dicendum breviter: quod maior habet 
+      verita<lb ed="#B" n="39" break="no"/>tem quando id quod additur sub ea ratione qua in 
+      prae<lb ed="#B" n="40" break="no"/>cedenti est compositio. Non ita in 
+      proposi<lb ed="#B" n="41" break="no"/>to: quia non est compositio in christo nec in 
+      as<lb ed="#B" n="42" break="no"/>sumpta humanitate ratione persone aut 
+      di<lb ed="#B" n="43" break="no"/>uinitatis: sed solum ratione humane 
+      natu<lb ed="#B" n="44" break="no"/>re: ideo argumentum non concludit.
+</p>
+               <p xml:id="WuV37d-f18148-d1e1286">
+¶ Ad 
+      se<lb ed="#B" n="45" break="no"/>cundum negatur assumptum. Non enim sequitur: 
+      <lb ed="#B" n="46"/>si sunt due scientiae: ergo duo scientes: nec si 
+      <lb ed="#B" n="47"/>sunt due voluntates in christo: duo ergo 
+      <lb ed="#B" n="48"/>volentes immo est fallacia consequentis: licet 
+      <lb ed="#B" n="49"/>enim sequatur esse: ergo ens non tamen duo esse: 
+      <!--534.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>ergo duo entia: quia arguitur a negatione seu 
+      <lb ed="#B" n="51"/>destructione antecedentis a destructionem 
+      <lb ed="#B" n="52"/>consequentis: et fit praedicta fallacia: quia 
+      duali<lb ed="#B" n="53" break="no"/>tas et distinctio negationem includunt: nec 
+      <lb ed="#B" n="54"/>exemplum de duabus albedinibus est ad propo 
+      <lb ed="#B" n="55"/>situm: quia due albedines nequeunt 
+      informa<lb ed="#B" n="56" break="no"/>re vnum subiectum: sicuti duo esse: vnum sup 
+      <lb ed="#B" n="57"/>positum.
+</p>
+               <p xml:id="WuV37d-f18148-d1e1321">
+¶ Ad tertium dicendum / quod ad praesens 
+      <lb ed="#B" n="58"/>reperitur triplex denomninatio. Prima per 
+      mo<lb ed="#B" n="59" break="no"/>dum inherentis: sicut homo albus. Secunda 
+      per<lb ed="#B" n="60" break="no"/>modum mutationis: sicut homo dealbatus et in 
+      <lb ed="#B" n="61"/>his per accidentia fit denomninatio sicut capit 
+      <lb ed="#B" n="62"/>maior. Tertia fit per modum vnionis: de qua 
+      <lb ed="#B" n="63"/>in proposito: et non habet maior veritatem. 
+      <lb ed="#B" n="64"/>Addunt alii denomninationem per modum 
+      possessi<lb ed="#B" n="65" break="no"/>onis: sicut dum dicitur asinus socratio sed quia 
+      <lb ed="#B" n="66"/>non seruit argumentum ideo dimisi.
+</p>
+            </div>
+            <div xml:id="WuV37d-f18148-Dd1e1344" type="et-conclusiones">
+               <head xml:id="WuV37d-f18148-Hd1e1346">Conclusiones</head>
+               <p xml:id="WuV37d-f18148-d1e1349">
+¶ Ex 
+      <lb ed="#B" n="67"/>praesenti autem distinctione de mente 
+      <lb ed="#B" n="68"/>magistri etc. Prima conclusio. Per dicta va 
+      <lb ed="#B" n="69"/>ria extat opinio rata primaria inquit positio 
+      <lb ed="#B" n="70"/>dicit conclusio quod positio magistri est primam opi 
+      <lb ed="#B" n="71"/>nionem confici ex dictis variis sanctorum et patet 
+      <lb ed="#B" n="72"/>in textu a principio dist. vsque ibi. Sunt autem. 
+      </p>
+               <p xml:id="WuV37d-f18148-d1e1365">
+                  <lb ed="#B" n="73"/>¶ Secunda conclusio. Prime opinioni haec 
+      <lb ed="#B" n="74"/>sequens iungitur atque nectitur forti rationi. Dicit 
+      <lb ed="#B" n="75"/>conclusio quod secunda opinio conuenit cum prima: et 
+      <lb ed="#B" n="76"/>est multum rationabilis: et ponitur ab illo capitulo. 
+      <lb ed="#B" n="77"/>Sunt autem etc. vsque ibi. Sunt autem alii etc. 
+      </p>
+               <p xml:id="WuV37d-f18148-d1e1378">
+                  <lb ed="#B" n="78"/>¶ Tertia conclusio. Sumptum officium magtitus 
+      <lb ed="#B" n="79"/>replicat atque explicat dictum ternarium. 
+      Di<lb ed="#B" n="80" break="no"/>cit conclusio quod magister vt perficiat quod incepit po 
+      <lb ed="#B" n="81"/>nit tertiam opinionem: ab illo capitulo. Sunt au 
+      <lb ed="#B" n="82"/>tem etc. vsque ad finem distinctionis.
+</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

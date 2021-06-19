@@ -1,0 +1,774 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 12</title>
+            <author ref="#WilliamDeVaurouillon">William de Vaurouillon</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 12</title>
+               <date when="2021-06-19">June 19, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-bvbVBV">Basel 1510</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-06-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="163-v"/>
+            <cb ed="#B" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="WuV37d-e75533"><!-- l2d12 -->
+            <head xml:id="WuV37d-e75533-Hd1e108">Distinctio 12</head>
+            <div xml:id="WuV37d-e75533-Dd1e111" type="circa-textum">
+               <head xml:id="WuV37d-e75533-Hd1e113">Circa textum</head>
+               <p xml:id="WuV37d-e75533-d1e116">
+                  <lb ed="#B" n="12"/>Distinctio. 12. tractat de 
+      creatio<lb ed="#B" n="13" break="no"/>ne rerum corporalium et primo quam 
+      <lb ed="#B" n="14"/>tum ad eius materiale. 
+      <lb ed="#B" n="15"/>Ec de 
+      ange<lb ed="#B" n="16" break="no"/>lica natura dicta suffi 
+      <lb ed="#B" n="17"/>ciant: nunc superest de 
+      <lb ed="#B" n="18"/>aliarum quoque rerum 
+      crea<lb ed="#B" n="19" break="no"/>tione etc. Hic signatur. 12. 
+      <lb ed="#B" n="20"/>distinctio huius secundi libri: quae sic continuatur 
+      <lb ed="#B" n="21"/>ad precedentes scilicet ad. 10. et. 11. dist. Nam 
+      <lb ed="#B" n="22"/>postquam in geniali in. 10. dist. circa nos osten 
+      <lb ed="#B" n="23"/>sa sunt angelorum chara ministeria. Et in. 11 
+      <lb ed="#B" n="24"/>in speciali angelorum erga nos posita est mi 
+      <lb ed="#B" n="25"/>ra custodia: Nunc in principio praesentis distin 
+      <lb ed="#B" n="26"/>ctionis se amodo excusat affari talia: veris 
+      <lb ed="#B" n="27"/>us tamen diuiditur ista pars contra secundam huius 
+      <lb ed="#B" n="28"/>secundi distinctionem: a distinctione quidem 
+      se<lb ed="#B" n="29" break="no"/>cunda vsque huc de natura egit magister pu 
+      <lb ed="#B" n="30"/>re spirituali: Nunc agere incipit de natu 
+      <lb ed="#B" n="31"/>ra pure corporali. Et partitur in tres partes 
+      <lb ed="#B" n="32"/>principales. In prima lucidae ponitur opus 
+      <lb ed="#B" n="33"/>creationis. in secunda sane subiungitur opus 
+      <lb ed="#B" n="34"/>distinctionis. in tertia plane consequitur opus 
+      <lb ed="#B" n="35"/>ordinationis. prima in principio. secunda 
+      <lb ed="#B" n="36"/>dist. 13. ibi. Prima autem distinctionis 
+      opera<lb ed="#B" n="37" break="no"/>tio fuit etc. tertia ibi. dist. 15. Sequitur dicit 
+      <lb ed="#B" n="38"/>deus: fiant duo luminaria magna etc. Rur 
+      <lb ed="#B" n="39"/>sus prima particula quae est praesens 
+      distin<lb ed="#B" n="40" break="no"/>ctio in qua declaratur opus creationis in tres 
+      <lb ed="#B" n="41"/>partes diuiditur. In prima in hoc compen 
+      <lb ed="#B" n="42"/>dio precedit continuatio. in secunda 
+      ma<lb ed="#B" n="43" break="no"/>gnoingenio de materia fit inquisitio. in ter 
+      <lb ed="#B" n="44"/>tia grandi studio inquisiti fit 
+      determina<lb ed="#B" n="45" break="no"/>tio. prima in principio. secunda ibi: Qui 
+      <lb ed="#B" n="46"/>dam namque sanctorum. tertia ibi. De qua prae 
+      <lb ed="#B" n="47"/>usquam tractemus. prima parte indiuisa ma 
+      <!--343.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="48"/>nente: pars secunda in qua de materia 
+      pri<lb ed="#B" n="49" break="no"/>ma magna fit inquisitio: in tres partes di 
+      <lb ed="#B" n="50"/>uiditur. In prima de materia opinio seritur 
+      <lb ed="#B" n="51"/>varia. in secunda in his fit certa electio 
+      de<lb ed="#B" n="52" break="no"/>terminatoria. In tertia dubio datur solu 
+      <lb ed="#B" n="53"/>tio resolutoria. prima in principio. secun 
+      <lb ed="#B" n="54"/>da ibi. Secundum hanc itaque traditionem etc. 
+      ter<lb ed="#B" n="55" break="no"/>tia ibi. Attende quia hic dicit Augustinus etc. 
+      <lb ed="#B" n="56"/>Et sequitur illa tertia particula: de qua 
+      prius<lb ed="#B" n="57" break="no"/>quam tractemus etc. in qua penitus de materia fit 
+      <lb ed="#B" n="58"/>determinatio. Et ista in tres scinditur 
+      par<lb ed="#B" n="59" break="no"/>ticulas. In prima informitas seu confusio 
+      <lb ed="#B" n="60"/>nateriae tangitur. in secunda illocabilitas vl 
+      <lb ed="#B" n="61"/>locatio eiusdem quaeritur. in tertia de diebus 
+      <lb ed="#B" n="62"/>fit distinctio quae clare ponitur. prima in 
+      princi<lb ed="#B" n="63" break="no"/>pio. secunda ibi. Nunc superest quod secundo 
+      <lb ed="#B" n="64"/>praeponebatur etc. tertia ibi. Nunc superest vt 
+      <lb ed="#B" n="65"/>dispositionem etc. Et haec est diuisio etc.
+    </p>
+            </div>
+            <div xml:id="WuV37d-e75533-Dd1e241">
+               <head xml:id="WuV37d-e75533-Hd1e243">Quaestio</head>
+               <p xml:id="WuV37d-e75533-d1e246">
+                  <lb ed="#B" n="66"/>Questio praesens declarat quomodo per 
+      <lb ed="#B" n="67"/>aliqua potentia materia possit esse 
+      <lb ed="#B" n="68"/>sine forma: et de creatioe materiae in 
+      <lb ed="#B" n="69"/>qua notat thoma. Et habetur a sco 
+      <lb ed="#B" n="70"/>toli. 2. dist. 12. q. i. et. 2. 
+      <lb ed="#B" n="71"/>Utrum creationis 
+      <lb ed="#B" n="72"/>in opere sine forma a deo effici 
+      <lb ed="#B" n="73"/>potuit materia. Et arguitur quod 
+      <lb ed="#B" n="74"/>non triplici medio.
+</p>
+               <p xml:id="WuV37d-e75533-d1e268">
+¶ Primo sic. Quanto 
+      <lb ed="#B" n="75"/>aliqua magis faciunt vnum: tanto minus sunt 
+      <lb ed="#B" n="76"/>separabilia. Sed materia et forma magis 
+      fa<lb ed="#B" n="77" break="no"/>ciunt vnum quam subiectum et passio: etiam per 
+      po<lb ed="#B" n="78" break="no"/>tentiam diuinam separari nequeunt: sicuti nequit 
+      <lb ed="#B" n="79"/>ab homine separari risibilitas. igitur etc. maior 
+      <lb ed="#B" n="80"/>patet. sicut enim diuisio est causa separatio 
+      <lb ed="#B" n="81"/>nis: vel est ipsa separatio sic vnitas causa in 
+      <lb ed="#B" n="82"/>separabilitatis. Sed minor patet. 
+      mate<lb ed="#B" n="83" break="no"/>ria enim efficit vnum per se cum forma. ex. 5. 
+      me<lb ed="#B" n="84" break="no"/>ta. Subiectum vnum per accidens cum passi 
+      <lb ed="#B" n="85"/>one: sicuti duo diuersorum generum. 
+      </p>
+               <p xml:id="WuV37d-e75533-d1e294">
+                  <lb ed="#B" n="86"/>¶ Secundo arguitur sic. Quod nequit habere 
+      <lb ed="#B" n="87"/>esse sine forma nequit fieri sine forma. Sed  
+      <lb ed="#B" n="88"/>materia nequit habere esse sine forma. igitur 
+      <lb ed="#B" n="89"/>nec fieri. maior patet: quia fieri ad esse aliquod 
+      <lb ed="#B" n="90"/>terminatur. Sed probatur minor: quia si materia 
+      <lb ed="#B" n="91"/>haberet esse: et forma esse et distincta. ergo conm 
+      <lb ed="#B" n="92"/>positum ex eis esset vnum per acciesens. Teste enim 
+      <lb ed="#B" n="93"/>arist. ex duobus in actu non fit vnum per se. 
+      </p>
+               <p xml:id="WuV37d-e75533-d1e314">
+                  <lb ed="#B" n="94"/>¶ Tertio arguitur sic. materia plus depen¬ 
+      <!--344.xml-->
+      <pb ed="#B" n="164-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>det a forma. quam forma a materia: sed formae 
+      <lb ed="#B" n="2"/>naturales nequeunt reperiri sine materia: 
+      <lb ed="#B" n="3"/>nec fieri etiam a deo. igitur nec materia sine 
+      <lb ed="#B" n="4"/>forma. maior patet. quia plus dependet imperfectum 
+      <lb ed="#B" n="5"/>a perfecto quam econtra: materia autem gerit locum imperfe 
+      <lb ed="#B" n="6"/>cti et forma perfecti. Sed minor probatur: quia si es 
+      <lb ed="#B" n="7"/>sent separate essent spirituales et immateri 
+      <lb ed="#B" n="8"/>ales. Omne autem immateriale est 
+      intelle<lb ed="#B" n="9" break="no"/>ctiuum secundum auicem. et ita essent intelligentiae 
+      <lb ed="#B" n="10"/>quod est inconueniens. In oppositum arguitur 
+      <lb ed="#B" n="11"/>auctoritate aug. in li. de simbolo sic. Primo omnium 
+      <lb ed="#B" n="12"/>rerum capacitas facta est: vt ordinatissimo: 
+      <lb ed="#B" n="13"/>dei mumere caetera formarentur qua formata sunt 
+      </p>
+               <p xml:id="WuV37d-e75533-d1e354">
+                  <lb ed="#B" n="14"/>¶ In ista quaestione ad alias conformiter 
+      <lb ed="#B" n="15"/>sunt tres articuli 
+      <lb ed="#B" n="16"/>Primus est terminorum declaratiuus 
+      <lb ed="#B" n="17"/>Quorum Secundus est quaestionis responsiuus. 
+      <lb ed="#B" n="18"/>Tertius est dubiorum motiuus. 
+      </p>
+               <p xml:id="WuV37d-e75533-d1e367">
+                  <lb ed="#B" n="19"/>¶ Quantum ad primum articu 
+      <lb ed="#B" n="20"/>lum 
+      ter<lb ed="#B" n="21" break="no"/>mini sunt materia: forma: et opus creatio 
+      <lb ed="#B" n="22"/>nis.
+</p>
+               <p xml:id="WuV37d-e75533-d1e378">
+¶ Primus igitur terminus est ma 
+      <lb ed="#B" n="23"/>teria: vnde vltra dicta de materia parte 
+      pri<lb ed="#B" n="24" break="no"/>ma dist. 3. huius secundi: Noto quod materia 
+      <lb ed="#B" n="25"/>octo nominibus nominatur. In principio: et iuncto 
+      <lb ed="#B" n="26"/>suo nomine communi erunt tres ternarii nominm 
+      mate<lb ed="#B" n="27" break="no"/>riae ex sacra biblia. Noto tamen quod non loquor 
+      <lb ed="#B" n="28"/>hoc de essentia materie: quae dicitur ens 
+      limita<lb ed="#B" n="29" break="no"/>tum: sed de materia contracta ad esse quodam 
+      in<lb ed="#B" n="30" break="no"/>fra caelum empireum. Primus igitur ternarius est 
+      <lb ed="#B" n="31"/>materia: terra et inanis. Dicitur enim materia 
+      <lb ed="#B" n="32"/>quasi matur: est enim secundum auerro vm in. 2. meta. 
+      <lb ed="#B" n="33"/>naturae fundamentum: vnde quasi ex vtero 
+      ma<lb ed="#B" n="34" break="no"/>teriae cuncta producta sunt: ideo a platone dicta 
+      <lb ed="#B" n="35"/>est mulier. Dicitur autem terra a terendo: quia pe 
+      <lb ed="#B" n="36"/>dibus teritur: quia infima est in rerum natura 
+      <lb ed="#B" n="37"/>creatarum: sicuti terra inter elementa. Dicitur 
+      <lb ed="#B" n="38"/>autem inanis: quia sine fortitudine seu robore 
+      <lb ed="#B" n="39"/>quia robur est a forma. Secundus ternarius est 
+      <lb ed="#B" n="40"/>vacua: inuisibilis: incomposita: quia vbi 
+      transla<lb ed="#B" n="41" break="no"/>tio nostra habet terra erat inanis et vacua: 
+      <lb ed="#B" n="42"/>alia translatio habet terra erat inuisibilis: 
+      <lb ed="#B" n="43"/>et incomposita. Dicitur autem vacua: quia 
+      quaecum<lb ed="#B" n="44" break="no"/>que caret formae perfectione: ideo a platone 
+      di<lb ed="#B" n="45" break="no"/>cta est turpe. Dicitur autem inuisibilis: quia non 
+      <lb ed="#B" n="46"/>erat actu terminata: loquendo proprie: visus 
+      <lb ed="#B" n="47"/>autem est colorum in obiecto terminato. Dicitur 
+      <lb ed="#B" n="48"/>autem incomposita: quia quasi in confuso cuncta 
+      faci<lb ed="#B" n="49" break="no"/>enda in ea in potentia latitabant. Unde et plato 
+      <!--344.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>eam notauit siluam. Tertius ternarius est 
+      te<lb ed="#B" n="51" break="no"/>nebra abyssus et aqua. Dicitur tenebra 
+      pro<lb ed="#B" n="52" break="no"/>pter sui obscuritatem. Unde a grecis dicta est 
+      <lb ed="#B" n="53"/>chaos id est confusio. ab vssus dicitur propter de 
+      <lb ed="#B" n="54"/>fectum alterius basis: cum sit basis seu 
+      fun<lb ed="#B" n="55" break="no"/>damentum primarium: ab vssus autem 
+      dici<lb ed="#B" n="56" break="no"/>tur ab a quod est sine et basis: vel ab a quod est 
+      <lb ed="#B" n="57"/>sine et bissus bissi quod est genus lini 
+      candi<lb ed="#B" n="58" break="no"/>dissimi: materia autem de se est obscura: non 
+      <lb ed="#B" n="59"/>candida: ideo potest vocari vle quod signifi 
+      <lb ed="#B" n="60"/>cat antiquitatem. Dicitur vltimo aqua: quia 
+      <lb ed="#B" n="61"/>sicuti aqua valde flexibilis est: sic materia 
+      <lb ed="#B" n="62"/>flexibilis est de se ad omnem formam.
+</p>
+               <p xml:id="WuV37d-e75533-d1e472">
+¶ Se 
+      <lb ed="#B" n="63"/>cundus terminus est forma: vnde quo ad 
+      <lb ed="#B" n="64"/>praesens forma solet accipi tripliciter. Primo 
+      <lb ed="#B" n="65"/>modo dicitur forma actus purissimus nulli admixtus 
+      <lb ed="#B" n="66"/>potentiae: et sic deus solus forma dicitur: et angeli 
+      <lb ed="#B" n="67"/>secundum quod aliqualiter participant. hoc modo loquitur 
+      <lb ed="#B" n="68"/>Boe. 3. de consol. metro. 10. ad deum. 
+      For<lb ed="#B" n="69" break="no"/>ma boni liuore carens etc. Secundo modo 
+      <lb ed="#B" n="70"/>dicitur forma vniuscuiusque rei quidditas 
+      <lb ed="#B" n="71"/>et maxime create: et hoc modo loquitur 
+      gil<lb ed="#B" n="72" break="no"/>pertus porretani in libro sex principiorum 
+      <lb ed="#B" n="73"/>formam diffiniens. Forma inquit est compositioni 
+      <lb ed="#B" n="74"/>contingens: simplici et inuariabili essentia 
+      <lb ed="#B" n="75"/>consistens. vbi innuit tria. Primo quod 
+      quid<lb ed="#B" n="76" break="no"/>ditas aduenit composito dum praemittit 
+      for<lb ed="#B" n="77" break="no"/>ma est compositioni contingens id est adueniens 
+      <lb ed="#B" n="78"/>ex quo patet quod compositum semper vltra suam 
+      <lb ed="#B" n="79"/>quidditatem aliquid addit. Secundo innuit 
+      <lb ed="#B" n="80"/>formae simplicitatem: dum dicit simplici: /et det 
+      <lb ed="#B" n="81"/>intelligi respectiue: quia scilicet id cuius est forma est 
+      <lb ed="#B" n="82"/>compositius: quia ratione additi seu differentiae sper 
+      <lb ed="#B" n="83"/>inferiora sunt magis composita quam sint 
+      supe<lb ed="#B" n="84" break="no"/>tiora. Tertio innuit inuariabilitatem: dum 
+      <lb ed="#B" n="85"/>dicit inuariabili essentia consistens: varia 
+      <lb ed="#B" n="86"/>tio enim proprie est singularium non 
+      vni<lb ed="#B" n="87" break="no"/>uersalium vnde non corrumpitur humanitas 
+      ni<lb ed="#B" n="88" break="no"/>si quia sortes vel plato vel alius homo corrumpitur. 
+      <lb ed="#B" n="89"/>Certio modo dicitur forma altera pars compo 
+      <lb ed="#B" n="90"/>siti: sicut loquitur philosophus in primo et secundo 
+      philosophi<lb ed="#B" n="91" break="no"/>corum: et hoc / siue sit pars essentialis vnum 
+      <lb ed="#B" n="92"/>her se faciens sicut anima et corpus: vel vnum 
+      <lb ed="#B" n="93"/>per accemens sicut homo et albedo: vel sit in 
+      <lb ed="#B" n="94"/>terior. sicut intellectio in homine: vel 
+      ex<lb ed="#B" n="95" break="no"/>terior: sicut accipit philosophus in 
+      predicamen<lb ed="#B" n="96" break="no"/>to qualitatis: dum dicit: quod quarta species 
+      <lb ed="#B" n="97"/>qualitatis est forma. vel circa aliquid 
+      com<lb ed="#B" n="98" break="no"/>stans figura: et sic dicitur forma quasi foris 
+      <!--345.xml-->
+      <pb ed="#B" n="164-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>manens: in aliis autem ab informando.
+</p>
+               <p xml:id="WuV37d-e75533-d1e561">
+¶ Ter 
+      <lb ed="#B" n="2"/>tius terminus est opus creationis 
+      <lb ed="#B" n="3"/>Unde caeteris omissis notandum est: quod differia est 
+      <lb ed="#B" n="4"/>inter opus creationis: opus distinctionis 
+      <lb ed="#B" n="5"/>et opus oruatus. Opus enim creationis 
+      di<lb ed="#B" n="6" break="no"/>citur quando deus inquodam communi seu 
+      <lb ed="#B" n="7"/>materia dicitur cuncta condidisse: vel maiorem 
+      <lb ed="#B" n="8"/>vniuersi ambitum: et durat in biblia ab illo 
+      <lb ed="#B" n="9"/>loco. In principio creauit deus caelum et 
+      <lb ed="#B" n="10"/>terram vsque ad illud: dixit deus: fiat lux: vbi 
+      <lb ed="#B" n="11"/>est prima dies. Opus autem distinctionis. 
+      <lb ed="#B" n="12"/>dicitur quando chaos illud confusum in 
+      <lb ed="#B" n="13"/>partes distinxit: et factum est hoc tribus 
+      die<lb ed="#B" n="14" break="no"/>bus: dominico die fecit lucem quandam: quae 
+      <lb ed="#B" n="15"/>ambitu suo peragebat diem et noctem: de 
+      <lb ed="#B" n="16"/>qua in sequenti distinctione. Die lune 
+      fir<lb ed="#B" n="17" break="no"/>mamentum: die martes elementa et herbas 
+      <lb ed="#B" n="18"/>et pomifera. Opus autem ornatus dicitur quando 
+      <lb ed="#B" n="19"/>id quod in tribus diebus ex illo chaos 
+      distin<lb ed="#B" n="20" break="no"/>ctum est: in tres sequentes ornatur et deco 
+      <lb ed="#B" n="21"/>ratur. Die mercurii ornatur caelum sideri 
+      <lb ed="#B" n="22"/>bus et sole et luna: die quinta seu iouis 
+      or<lb ed="#B" n="23" break="no"/>nauit aquam piscibus et aerem auibus. Die 
+      <lb ed="#B" n="24"/>sexta ornauit terram animalibus et homi 
+      <lb ed="#B" n="25"/>ne quammaxime ita quod prius est opus creati 
+      <lb ed="#B" n="26"/>onis: secundo sequitur opus 
+      distinctio<lb ed="#B" n="27" break="no"/>nis: tertio opus ornatus; 
+      <lb ed="#B" n="28"/>Quantum ad secundum articulum 
+      <lb ed="#B" n="29"/>sunt tres 
+      <lb ed="#B" n="30"/>conclusiones: prima conclusio est de productione 
+      <lb ed="#B" n="31"/>materie: secunda quod non sunt omnia creata similis: tertia 
+      <lb ed="#B" n="32"/>de tempore medio inter rerum creationem: seu opus 
+      <lb ed="#B" n="33"/>creationis et opus distinctionis: seu primum diem 
+      <lb ed="#B" n="34"/>distinctionis.
+</p>
+               <p xml:id="WuV37d-e75533-d1e635">
+¶ Prima est haec: vniuo 
+      <lb ed="#B" n="35"/>ca omni corpori materia sic in rerum creata 
+      <lb ed="#B" n="36"/>est cum forma principio: vt per se creari 
+      si<lb ed="#B" n="37" break="no"/>ne forma absoluta potuerit. Prima pars 
+      <lb ed="#B" n="38"/>dicit: quod materia est vniuoca omni corpori: probatur 
+      <lb ed="#B" n="39"/>sic: quaerucumque est vna forma seu ratio formae 
+      <lb ed="#B" n="40"/>eorum est vna ratio materiae: secundum enim philosophum: 
+      pro<lb ed="#B" n="41" break="no"/>prius actus est a propria forma. Sed for 
+      <lb ed="#B" n="42"/>ma corporeitatis est eiusdem rationis in 
+      omni<lb ed="#B" n="43" break="no"/>bus corporibus. igitur et materia: et 
+      confir<lb ed="#B" n="44" break="no"/>matur ex intentione textis et glosarum: 
+      innui<lb ed="#B" n="45" break="no"/>tur enim quod materia primo codita est ex qua 
+      <lb ed="#B" n="46"/>postea cuncta alia sunt facta corpora. Et si 
+      <lb ed="#B" n="47"/>obiiciatur: quia iam erat factum caelum empireum. Te 
+      <lb ed="#B" n="48"/>ste enim beda quattuor fuerunt facta similis: caelum 
+      <lb ed="#B" n="49"/>empireum: angeli: materia prima: et tempus. Dicen 
+      <!--345.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>dum quod licet similis tempore sit factum caelum empireum cum 
+      <lb ed="#B" n="51"/>materia prima: quia ita innuit glosa. In prin 
+      <lb ed="#B" n="52"/>cipio creauit deus caelum et terram. glo. caelum 
+      <lb ed="#B" n="53"/>empireum et materiam primam nihilominus 
+      pri<lb ed="#B" n="54" break="no"/>or est materia prima caelo empireo: et ista pri 
+      <lb ed="#B" n="55"/>oritas sufficut: vt sit vniuoca caelo empireo 
+      <lb ed="#B" n="56"/>et aliis coporibus. Notandum tamen quod tempus 
+      <lb ed="#B" n="57"/>connumeratum inter alia quattuor non debet 
+      <lb ed="#B" n="58"/>accipi pro motu primi mobilis: quia incepit 
+      <lb ed="#B" n="59"/>moueri secunda die: sed pro mensura 
+      cu<lb ed="#B" n="60" break="no"/>iuscunque creature seu sit euum seu mensura 
+      <lb ed="#B" n="61"/>alia. Et si quaeratur quomodo potest esse mensura 
+      <lb ed="#B" n="62"/>eiusdem rationis in incorruptibili: et in cor 
+      <lb ed="#B" n="63"/>ruptibili quin corruptibile fiat 
+      incorrupti<lb ed="#B" n="64" break="no"/>bile vel econtra. Respondendum quod hoc 
+      ni<lb ed="#B" n="65" break="no"/>pil facit: sed quia corpus corruptibile ex 
+      <lb ed="#B" n="66"/>contrariis compositum est: vel habet contrarium. 
+      <lb ed="#B" n="67"/>corpus autem incorruptibile nec habet con 
+      <lb ed="#B" n="68"/>trarium: nec compositum est ex contrariis. Et quod 
+      <lb ed="#B" n="69"/>dicunt philosophi quod materia tendit seper ad malefici 
+      <lb ed="#B" n="70"/>um et similia: debet intelligi de materia vt li 
+      <lb ed="#B" n="71"/>mitatur ad corruptibilia. Ex quo patet defectus ego 
+      <lb ed="#B" n="72"/>sancti tho. qui praeelegit sequi auerroyvm in 
+      <lb ed="#B" n="73"/>ponentem diuersas rationes materiae in 
+      incorru<lb ed="#B" n="74" break="no"/>ptibilibus et corruptibilibus corporibus quam 
+      <lb ed="#B" n="75"/>excellentem medicum scilicet auicennam ponentem 
+      <lb ed="#B" n="76"/>eiusdem rationis materiam in caelis: et caeteris 
+      <lb ed="#B" n="77"/>corporibus: patet ex prima parte conclusionis 
+      <lb ed="#B" n="78"/>Secunda pars conclusionis dicit: quod in prin 
+      <lb ed="#B" n="79"/>cipio rerum materia creata est cum forma. pro 
+      <lb ed="#B" n="80"/>batur: quia omne quod est in loco circumscriptiue 
+      <lb ed="#B" n="81"/>habet formam. Sed materia talis erat in lo 
+      <lb ed="#B" n="82"/>co circumscriptiue: igitur. maior patet: quia ad 
+      <lb ed="#B" n="83"/>minus habet: vbi quod est quidam respectus 
+      <lb ed="#B" n="84"/>et ita quaedam forma. Et confirmatur: quia esse 
+      <lb ed="#B" n="85"/>in loco circumscriptiue competit corpori vel 
+      ha<lb ed="#B" n="86" break="no"/>benti formam seu modum corporis. Sed  
+      <lb ed="#B" n="87"/>minor probatur. Unde Hugo de sancto vi 
+      <lb ed="#B" n="88"/>ctore. Erat terrenum hoc elementum medium 
+      <lb ed="#B" n="89"/>vno loco subsidens caeteris in vna 
+      confu<lb ed="#B" n="90" break="no"/>sione permixtis: et circumquaque in modum 
+      ne<lb ed="#B" n="91" break="no"/>bulae expansis. Sed quaeritur quae erat ista 
+      for<lb ed="#B" n="92" break="no"/>ma. Dicendum quod erat quaedam forma 
+      imperfe<lb ed="#B" n="93" break="no"/>cta non mixtionis tamen: sicuti quidam sunt 
+      su<lb ed="#B" n="94" break="no"/>spicati: quia tunc elementa praecessissent istam 
+      mate<lb ed="#B" n="95" break="no"/>riam: cum mixtio sit ex elemetis: sed erat quadam 
+      <lb ed="#B" n="96"/>forma imperfecte habens modum 
+      corpo<lb ed="#B" n="97" break="no"/>reitatis in potentia: sicuti materia quam 
+      <lb ed="#B" n="98"/>informabat ad formas eclementorum: sicuti 
+      <!--346.xml-->
+      <pb ed="#B" n="165-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>embrio est in potentia ad animam vegetatiuam 
+      <lb ed="#B" n="2"/>et sensitiuam vnde in textu: haec materia propter 
+      <lb ed="#B" n="3"/>huiusmodi ordinem nominatur nominibus elemen 
+      <lb ed="#B" n="4"/>torum: nomine terrae dum dicitur. In pricipio crea 
+      <lb ed="#B" n="5"/>uit deus caelum et terram. terram id est materiam primam 
+      <lb ed="#B" n="6"/>nomine aeris dum dicitur. Spiritus domini ferebatur 
+      <lb ed="#B" n="7"/>glo. interlinearis id est aer. nomine aquae dum 
+      di<lb ed="#B" n="8" break="no"/>citur super aquas. Et inde est: quod antiqui philosophi 
+      <lb ed="#B" n="9"/>satis bene posuerunt ponendo vnum chaos: 
+      <lb ed="#B" n="10"/>seu vnum quid confusum: sicuti tangit Oui. in li. 
+      <lb ed="#B" n="11"/>1. methaphor. vel vnum corpus si capiant 
+      <lb ed="#B" n="12"/>corpus imperfectum: vel quasi vaporem: sicut 
+      <lb ed="#B" n="13"/>sensisse videtur eraclitus: capiendo vaporem 
+      <lb ed="#B" n="14"/>pro illa materia sic imperfecta esse rerum 
+      <lb ed="#B" n="15"/>principium.
+</p>
+               <p xml:id="WuV37d-e75533-d1e821">
+¶ Sed quaeritur: quis erat locus 
+      <lb ed="#B" n="16"/>huius materiae? Dico quod si loquamur genia 
+      <lb ed="#B" n="17"/>liter: et vi nominis non habebat locum: quia omnis 
+      <lb ed="#B" n="18"/>locus debet ambire locatum: comuniter 
+      <lb ed="#B" n="19"/>autem loquendo caelum empireum habet materiam 
+      <lb ed="#B" n="20"/>primam: et tamen caelo empireo non est 
+      ma<lb ed="#B" n="21" break="no"/>ius corpus ambiens. Sed loquendo de ma 
+      <lb ed="#B" n="22"/>teria prima: vt distinguebatur contra caelum 
+      <lb ed="#B" n="23"/>empireum: habebat ipsum caelum empireum 
+      <lb ed="#B" n="24"/>pro loco suo: vnde ad modum nebulae erat 
+      ex<lb ed="#B" n="25" break="no"/>pansa ab hic inferius per totum circumitum vs 
+      <lb ed="#B" n="26"/>quem ad ipsum caelum illud tangens per 
+      circumi<lb ed="#B" n="27" break="no"/>tum ne esset vacuum in rerum natura. Sed erat 
+      <lb ed="#B" n="28"/>ne leuis aut ponderosa? Dico quod nec leuis 
+      <lb ed="#B" n="29"/>nec ponderosa: iste enim sunt proprietates ele 
+      <lb ed="#B" n="30"/>mentorum: vnde loquendo proprie: nec 
+      habe<lb ed="#B" n="31" break="no"/>bat sursum nec deorsum: quae ad partes 
+      su<lb ed="#B" n="32" break="no"/>as: sed solum respectiue ad caelum empireum 
+      <lb ed="#B" n="33"/>Sed cuius erat formae: dicitur quod ad modum 
+      <lb ed="#B" n="34"/>nebularum cuius pars empireo proximior 
+      <lb ed="#B" n="35"/>erat clarior: pars vero inferior opaca 
+      at<lb ed="#B" n="36" break="no"/>que ad modum lane quae in vno loco est rara 
+      <lb ed="#B" n="37"/>in alio spissa. Nullum tamen tunc erat elemen 
+      <lb ed="#B" n="38"/>tum: nec aqua / nec ignis / aer seu terra nullum 
+      <lb ed="#B" n="39"/>caelum nisi empireum. Sed quaeritur cum caelum emi 
+      <lb ed="#B" n="40"/>pireum sit valde clarum et plusquam sol vnde 
+      stra<lb ed="#B" n="41" break="no"/>bus dicit: quod caelum empireum non ab ardore 
+      <lb ed="#B" n="42"/>sed splendore dictum est) vtrum illuminaret 
+      <lb ed="#B" n="43"/>illam materiam. Et si sic: an faceret dicit: 
+      di<lb ed="#B" n="44" break="no"/>citur quod illuminabat illam superiorem partem ma 
+      <lb ed="#B" n="45"/>teriae: non inferiorem propter sui opacitatem: quia 
+      <lb ed="#B" n="46"/>cribitur quod tenebre erant super faciem ab 
+      vs<lb ed="#B" n="47" break="no"/>si: non tamen faciebat dieit: quia cogit nos 
+      <lb ed="#B" n="48"/>scriptura. Prima enim dies fuit dies dominica 
+      <lb ed="#B" n="49"/>(ande dixit deus: fiat lux: tunc autem dies dominica 
+      <!--346.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>non fuisset prima: sed secunda. Et ratio est: 
+      <lb ed="#B" n="51"/>quia dies habet quendam respectum ad 
+      no<lb ed="#B" n="52" break="no"/>ctem: ita quod lux faciat per sui praesentiam diem 
+      <lb ed="#B" n="53"/>et per absentiam noctem. Tunc autem per totum 
+      <lb ed="#B" n="54"/>materiae illius circumitum illuminabat 
+      cae<lb ed="#B" n="55" break="no"/>lum empireum. Si tamen dicatur dies 
+      com<lb ed="#B" n="56" break="no"/>muniter a dyan quod est clarum: et illa pars 
+      <lb ed="#B" n="57"/>materiae superior illuminabatur. consequen 
+      <lb ed="#B" n="58"/>ter dicendum illo modo fuisse diem: sed tunc 
+      <lb ed="#B" n="59"/>differenter caeteris diebus. vnde nec inter 
+      <lb ed="#B" n="60"/>eos computatur: et tunc esset dicendum 
+      conse<lb ed="#B" n="61" break="no"/>quenter daemones antequam de caelo ruerent 
+      <lb ed="#B" n="62"/>stetisse in empireo: per dicit: quia fuerunt in 
+      <lb ed="#B" n="63"/>caelo vsque ad dieit dominicam: sed ille fuit 
+      paruis<lb ed="#B" n="64" break="no"/>simus dies: vt patebit in tertia conclusione. 
+      <lb ed="#B" n="65"/>Sed nunquid mouebatur illa materia: dicitur 
+      <lb ed="#B" n="66"/>puod non: quia nec ad sursum: quia fuisset 
+      le<lb ed="#B" n="67" break="no"/>uis: nec ad deorsum: quia fuisset grauis: 
+      <lb ed="#B" n="68"/>nec in circulo: quia fuisset naturae caeli. Sed 
+      <lb ed="#B" n="69"/>dicit tertia pars conclusionis: quod materia 
+      <lb ed="#B" n="70"/>prima potuit creari sine quacumque forma 
+      <lb ed="#B" n="71"/>absoluta probatur argumento doct. subti. hu 
+      <lb ed="#B" n="72"/>ius dist. q. 2. Omne absolutum prius alio et 
+      <lb ed="#B" n="73"/>pistinctum ab eo realitur potest fieri: et maxime 
+      <lb ed="#B" n="74"/>ab omnipotente sine alio absoluto: sed 
+      ma<lb ed="#B" n="75" break="no"/>teria et forma sunt huiusmodi. igitur: maior 
+      <lb ed="#B" n="76"/>patet: quia ex eo quod prius est non dependet a 
+      <lb ed="#B" n="77"/>posteriori: ex eo autem quod absolutum non 
+      coexi<lb ed="#B" n="78" break="no"/>git: quod dico propter relatiua: quae se mutuo 
+      <lb ed="#B" n="79"/>coexigunt: veluti pater filium. sed minor patet: 
+      <lb ed="#B" n="80"/>tam enim materia quam forma sunt absolute. 
+      <lb ed="#B" n="81"/>quia constituunt predicamentum substantiae: quod 
+      <lb ed="#B" n="82"/>est absolutum: et rursum materia est prior 
+      <lb ed="#B" n="83"/>forma veluti fundamentum fundato. Con 
+      <lb ed="#B" n="84"/>firmatur: quia non coartatur deus aliquo facto 
+      <lb ed="#B" n="85"/>absoluto reliquum facere: sicuti in primo 
+      di<lb ed="#B" n="86" break="no"/>ctum est dist. prima. non coartatur causata 
+      vi<lb ed="#B" n="87" break="no"/>sione causare fruitionem: ergo nec causata 
+      <lb ed="#B" n="88"/>materia causare formam. patet tertio: quia si 
+      <lb ed="#B" n="89"/>cut sine quacumque monstrata forma potest 
+      es<lb ed="#B" n="90" break="no"/>se materia sigillatim: non videtur quin: et si 
+      <lb ed="#B" n="91"/>ne omni simul. Et si dicatur: quod nequit 
+      face<lb ed="#B" n="92" break="no"/>re deus materiam primam quin referatur ad ipsem 
+      <lb ed="#B" n="93"/>quin sit distincta: et talia multa: patet: quia 
+      <lb ed="#B" n="94"/>iste sunt formae respectiue: conclusio autem in 
+      <lb ed="#B" n="95"/>telligitur de forma absoluta. Ex quo patet 
+      <lb ed="#B" n="96"/>quod si sanctus tho. intellexit: quod nequit deus 
+      fa<lb ed="#B" n="97" break="no"/>cere materiam primam sine forma: scilicet 
+      abso<lb ed="#B" n="98" break="no"/>luta defecit. Si autem loquitur de respectiua 
+      <!--347.xml-->
+      <pb ed="#B" n="165-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>conceditur sibi: et maxime de fundamentali 
+      </p>
+               <p xml:id="WuV37d-e75533-d1e1016">
+                  <lb ed="#B" n="2"/>¶ Secunda conclusio est: quod omnia non sunt cre 
+      <lb ed="#B" n="3"/>ata similis: et est haec. Licet omnipotens cuncta simil 
+      <lb ed="#B" n="4"/>efficere potuerit: temporibus tamen creduntur 
+      <lb ed="#B" n="5"/>distributa. Prima pars dicit: quod omnipo 
+      <lb ed="#B" n="6"/>tens deus potuit simul efficere cuncta quae fa 
+      <lb ed="#B" n="7"/>cta sunt. probatur: potentia quae vno posito ad 
+      <lb ed="#B" n="8"/>aliud non limitatur: sed semper manet equie in 
+      <lb ed="#B" n="9"/>differens: eadem ratione qua primum potest et secundum: 
+      <lb ed="#B" n="10"/>et sic deinceps: exquo non coartatur ad 
+      ali<lb ed="#B" n="11" break="no"/>quid: sed potentia dei est huiusmodi probatur 
+      <lb ed="#B" n="12"/>Si enim coartaretur: posset creatura suum 
+      <lb ed="#B" n="13"/>opificem limitare: quod repugnat. 
+</p>
+               <p xml:id="WuV37d-e75533-d1e1045">
+¶ 
+      No<lb ed="#B" n="14" break="no"/>to tamen: quod ista conclusio est intelligenda de 
+      <lb ed="#B" n="15"/>absolutis non respectiuis: si enim fecissei 
+      <lb ed="#B" n="16"/>omnem motum qui fuit simul: non esset cum ta 
+      <lb ed="#B" n="17"/>libus respectibus successiuum. Si rursus 
+      <lb ed="#B" n="18"/>omnes homines simul non essent / cum 
+      respe<lb ed="#B" n="19" break="no"/>ctibus priorum ad posterius: vel econtra 
+      <lb ed="#B" n="20"/>vnus enim alium non praecessisset: nec 
+      fuis<lb ed="#B" n="21" break="no"/>set pater eius sicut modo. Et si dicatur: quia 
+      <lb ed="#B" n="22"/>tunc sequitur contradictoria simul vera: si 
+      <lb ed="#B" n="23"/>cuti eundem hominem simul album et nigrum 
+      <lb ed="#B" n="24"/>et ita album et non album. probatur assumptum 
+      <lb ed="#B" n="25"/>quia idem homo fuit albus et non albus. Rsnn 
+      <lb ed="#B" n="26"/>sum est iam quod intelligitur quo ad absoluta 
+      <lb ed="#B" n="27"/>potest enim simul facere album et nigrum: non 
+      <lb ed="#B" n="28"/>tamen quo ad illud informare quod est quidam 
+      respe<lb ed="#B" n="29" break="no"/>ctus: et ita de consimilibus. Sed dicit secunda 
+      <lb ed="#B" n="30"/>pars conclusionis: quod omnia non sunt simu 
+      <lb ed="#B" n="31"/>facta: sed per dies distributa. probatur ex te 
+      <lb ed="#B" n="32"/>xtu vbi distinguuntur praeter opera creationis: 
+      <lb ed="#B" n="33"/>opera sex dierum. Et si dicatur quod moyses loqua 
+      <lb ed="#B" n="34"/>batur populo rudi. et ita grosse per dies 
+      <lb ed="#B" n="35"/>distinxit: licet deus simul cuncta fecerit: hoc 
+      <lb ed="#B" n="36"/>nihil est: quia nullus propter ruditatem 
+      <lb ed="#B" n="37"/>auditoris debet dare occasionem 
+      decepti<lb ed="#B" n="38" break="no"/>onis. Si ergo moyses bene nouerat quod cun 
+      <lb ed="#B" n="39"/>cta deus simul fecerat non debebat 
+      pro<lb ed="#B" n="40" break="no"/>pter ruditatem populi hoc facere seu 
+      di<lb ed="#B" n="41" break="no"/>cere contrarium: et si dicatur non potuit omnia 
+      <lb ed="#B" n="42"/>dicere simul. Dico quod potuit dicere omnia 
+      <lb ed="#B" n="43"/>facta sunt simul. Item Chriso. super Ioh. 
+      <lb ed="#B" n="44"/>ome. 12. Quod similis extitit per substantiam 
+      me<lb ed="#B" n="45" break="no"/>diae non simul extitit per speciem formae: haec 
+      <lb ed="#B" n="46"/>etiam est communis opinio sanctorum doctorum 
+      <lb ed="#B" n="47"/>Ambro. Brego. Dyon. Dama. et aliorum. 
+      <lb ed="#B" n="48"/>Sunt etiam ad hoc persuasiones. Tum ratione 
+      <lb ed="#B" n="49"/>sapientiae diuine ordinate sua doua distribu 
+      <!--347.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>entis: sicuti patet in nobis: prius dat 
+      na<lb ed="#B" n="51" break="no"/>turam: secundo gratiam: tertio gloriam. Secun 
+      <lb ed="#B" n="52"/>do ratione bonitatis diuinae qua vult vt ex 
+      <lb ed="#B" n="53"/>imperfecto modo ad summum tempore debito 
+      <lb ed="#B" n="54"/>perueniamus: sicuti ex materia prima quae est in 
+      <lb ed="#B" n="55"/>perfectissima: teste Aug. in numero dierum 
+      <lb ed="#B" n="56"/>senario suum totum compleuit vniuersum: qui 
+      <lb ed="#B" n="57"/>numerus senarius apud aritmethicum ma 
+      <lb ed="#B" n="58"/>gne est nota perfectionis: tum ex omnibus ei 
+      <lb ed="#B" n="59"/>aliquotis constet partibus: tum ratione 
+      poten<lb ed="#B" n="60" break="no"/>tiae diuinae quae manifestatur in illa 
+      capacita<lb ed="#B" n="61" break="no"/>te materiae ad omnes formas: sicuti actiua 
+      <lb ed="#B" n="62"/>potentia dei ad omne creatum seu creabile se e 
+      <lb ed="#B" n="63"/>tendit. Ex quo patet quod non sine causa non 
+      te<lb ed="#B" n="64" break="no"/>netur in passu isto communiter a magistris 
+      <lb ed="#B" n="65"/>nostris Aug. qua in libro super Sen. ad isteram  
+      <lb ed="#B" n="66"/>posuit in rerum creatione nullam penitus 
+      fu<lb ed="#B" n="67" break="no"/>isse inccessionem temporm: sed illos dies septem 
+      <lb ed="#B" n="68"/>nominasse movses propter septemplicemus 
+      <lb ed="#B" n="69"/>rerum cognitionem in mente angelica: ita 
+      <lb ed="#B" n="70"/>quod in prima die se intellexerit factam beatam: 
+      <lb ed="#B" n="71"/>dum dicit deus: fiat lux: ipsa enim lux secundum 
+      <lb ed="#B" n="72"/>eum est angelus beatus. In secunda fir 
+      <lb ed="#B" n="73"/>mamentum: et sic consequenter vsque ad septi 
+      <lb ed="#B" n="74"/>mam diem in qua legitur mane non vespe 
+      <lb ed="#B" n="75"/>re: quia laus dei in mente angelica non 
+      ad<lb ed="#B" n="76" break="no"/>uesperascit. Oppositum tamen patet: vnde licet 
+      <lb ed="#B" n="77"/>ista opinio secundum quod inquit doctor deuotus 
+      ar<lb ed="#B" n="78" break="no"/>ticulo primo huius dist. q. 2. multum 
+      subti<lb ed="#B" n="79" break="no"/>lis sit: tamen quia in ea fit seu videtur fieri quedan 
+      <lb ed="#B" n="80"/>distractio: a textu sacri canonis non tenetur: 
+      <lb ed="#B" n="81"/>vnde ipsemet Aug. in eodem libro super 
+      <lb ed="#B" n="82"/>Sen. ad litteram dicit: quod maior est bibliae 
+      <lb ed="#B" n="83"/>auctoritas quam cuiuscumque ingenii 
+      perspica<lb ed="#B" n="84" break="no"/>citas: ideo tenendum est fuisse successionem 
+      <lb ed="#B" n="85"/>in huiusmodi diebus. Sed dicet quis. Dei 
+      <lb ed="#B" n="86"/>loquens. Ecce vehemoth: id est diabolus 
+      <lb ed="#B" n="87"/>quem feci tecum: cum igitur diabolus sit fa 
+      <lb ed="#B" n="88"/>ctus in opere creationis: et adam in sexta 
+      <lb ed="#B" n="89"/>die: videtur quod non fuit successio. Rursus. 
+      <lb ed="#B" n="90"/>Qui viuit in aeternum creauit omnis simul: et 
+      <lb ed="#B" n="91"/>ita non fuit temporis successio: has duas 
+      <lb ed="#B" n="92"/>auctoritates adducit Aug. pro se. Ad 
+      pri<lb ed="#B" n="93" break="no"/>mam respondet Brego. in mora. quod diabolus et 
+      <lb ed="#B" n="94"/>homo fuerunt simul facti: non tempore sed 
+      <lb ed="#B" n="95"/>intellectus participatione: quia homo tam est 
+      <lb ed="#B" n="96"/>intellectualis ratione animae: quam diabolus ratione 
+      <lb ed="#B" n="97"/>naturae suae. Ad secundam respondet idem aug. in vir 
+      <lb ed="#B" n="98"/>tute super Sen. in li. contra manicheos: vbi in 
+      <!--348.xml-->
+      <pb ed="#B" n="166-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>nuit: quod omnia fuerunt creata simul in 
+      qua<lb ed="#B" n="2" break="no"/>dam communi materia: dat exemdlum. Sicuti 
+      <lb ed="#B" n="3"/>plantans vineam dicitur racemos et folia 
+      quadam<lb ed="#B" n="4" break="no"/>modo plantare. Sed quomodo deus qui est perfectissi 
+      <lb ed="#B" n="5"/>mus fecit in principio sui operis opus 
+      incom<lb ed="#B" n="6" break="no"/>pletissimum. scilicet materiam primam. Ditur quod non 
+      fe<lb ed="#B" n="7" break="no"/>cit solam materiam immo angelos: ita quod similis fec 
+      <lb ed="#B" n="8"/>opus imperfectissimum et perfectissimum id est angelum 
+      <lb ed="#B" n="9"/>vt aduerteret angelus se dono dei esse 
+      pu<lb ed="#B" n="10" break="no"/>re quod erat: qui tanti incomplementi iuxta se 
+      <lb ed="#B" n="11"/>primam videbat materiam: ita quod in 
+      princi<lb ed="#B" n="12" break="no"/>pio duo opera valde completa fecit deus: 
+      <lb ed="#B" n="13"/>vnum spirituale scilicet angelum: aliud corpora 
+      <lb ed="#B" n="14"/>le scilicet caelum empireum. Etiam duo 
+      incom<lb ed="#B" n="15" break="no"/>pleta: vnum permanens scilicet materiam 
+      pri<lb ed="#B" n="16" break="no"/>mam: reliquum successiuum: scilicet tempus: vt sit 
+      <lb ed="#B" n="17"/>vnum contra vnum. et duo contra duo: et 
+      <lb ed="#B" n="18"/>sic in omnibus intueamur opera altissimi. 
+      </p>
+               <p xml:id="WuV37d-e75533-d1e1282">
+                  <lb ed="#B" n="19"/>¶ Tertia conclusio est de tempore medio 
+      <lb ed="#B" n="20"/>inter opus creationis et primum diem: seu 
+      <lb ed="#B" n="21"/>opus distinctionis: et est haec. Sic natura 
+      cre<lb ed="#B" n="22" break="no"/>ationis opus primam dicit antecedit quod et 
+      tem<lb ed="#B" n="23" break="no"/>pore praecedit. Dicit prima pars 
+      conclu<lb ed="#B" n="24" break="no"/>sionis: quod opus creationis precedit opus 
+      <lb ed="#B" n="25"/>distinctionis: seu primam diem natura: pro 
+      <lb ed="#B" n="26"/>batur: id aliud praecedit natura: quo posito 
+      <lb ed="#B" n="27"/>aliud non ponitur necessario: et quo 
+      remo<lb ed="#B" n="28" break="no"/>to aliud remouetur: sicuti quia animali posito 
+      <lb ed="#B" n="29"/>non ponitur necessario homo: et remoto remo 
+      <lb ed="#B" n="30"/>uetur: ideo animal dicitur prius natura ipso homine. 
+      <lb ed="#B" n="31"/>Et hoc est quod dicit philosophus in 
+      postpredica<lb ed="#B" n="32" break="no"/>mentis. prius est a quo non conuertitur 
+      subsistem<lb ed="#B" n="33" break="no"/>di consequenta. Unde et scribitur. Heae genieationes 
+      cae<lb ed="#B" n="34" break="no"/>li et terrae etc. sequitur. Cessauit ab omni opere 
+      <lb ed="#B" n="35"/>suo quod creauit vt faceret: ita quod primo crea 
+      <lb ed="#B" n="36"/>re id est opus creationis: secundo facere: id est 
+      <lb ed="#B" n="37"/>opus distinctionis. Sed dicit secunda pars quod eti 
+      <lb ed="#B" n="38"/>am opus creationis praecedit primam dicit tempore: pro 
+      <lb ed="#B" n="39"/>batur: opus creationis fuit aequalis in duratio 
+      <lb ed="#B" n="40"/>ne more qua fuerunt daemones in caelo. Sed 
+      du<lb ed="#B" n="41" break="no"/>ratione correspondente tempori nostro fuerunt 
+      daemo<lb ed="#B" n="42" break="no"/>nes in caelo. igitur etc. maior patet: quia 
+      quan<lb ed="#B" n="43" break="no"/>do dixit deus: fiat lux: secundum Aug. 
+      cecide<lb ed="#B" n="44" break="no"/>runt mali angeli de sedibus empireis: et hoc 
+      <lb ed="#B" n="45"/>fuit in principio diei dominice: vt patebit 
+      se<lb ed="#B" n="46" break="no"/>quenpti distinctione. Sed minor patet ex su 
+      <lb ed="#B" n="47"/>perioribus: Unde et dicit magister quod per 
+      moru<lb ed="#B" n="48" break="no"/>lam fuerunt in caelo. Ex quo patet quod illud timpopus 
+      cre<lb ed="#B" n="49" break="no"/>ationis fuit valde modicum. vnde hugo de san¬ 
+      <!--348.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>cto victore comparat propter sui brevitatemus 
+      <lb ed="#B" n="51"/>illud tempus momento. vnde sic dicit in 
+      <lb ed="#B" n="52"/>libro de sacramentis. Primo momento 
+      tem<lb ed="#B" n="53" break="no"/>poris in quo creata est omnium visibilium et 
+      <lb ed="#B" n="54"/>inuisibilium natura: neque nox fuit: neque dies 
+      <lb ed="#B" n="55"/>Ex quo patet quod in prima conclusione dictum 
+      <lb ed="#B" n="56"/>fuit quod illuminatio caeli empirei: non 
+      suffi<lb ed="#B" n="57" break="no"/>ciebat ad faciendum diem: vnde et Augustinus .12. 
+      <lb ed="#B" n="58"/>confessionum. Informen materiam fecisti ante 
+      <lb ed="#B" n="59"/>omnem diem. Et si dicatur iuxta argumentum 
+      <lb ed="#B" n="60"/>manichei. Si deus creauit aliquid in 
+      te<lb ed="#B" n="61" break="no"/>nebris. ergo erat in tenebris: quomodo ergo 
+      lu<lb ed="#B" n="62" break="no"/>cem inhitat iaccessiblem. Dicendum quod deus est lux 
+      <lb ed="#B" n="63"/>et tenebre in eo non sunt vlle: nec tenebre erant 
+      <lb ed="#B" n="64"/>eius ex parte: sed operis operati: ideo non 
+      <lb ed="#B" n="65"/>obuiat. 
+      <lb ed="#B" n="66"/>Quantum ad tertium articulum 
+      <lb ed="#B" n="67"/>sunt tres 
+      <lb ed="#B" n="68"/>difficltates.
+</p>
+               <p xml:id="WuV37d-e75533-d1e1397">
+¶ Prima: vtrum materia prai 
+      <lb ed="#B" n="69"/>ma cum illa forma cum qua creata fuit faciebat 
+      <lb ed="#B" n="70"/>vnum per se: et in quo erat praedicamento. Dicendum 
+      <lb ed="#B" n="71"/>quod ex illa materia et forma resultabat vnum 
+      <lb ed="#B" n="72"/>per se compositum informae tamen respecti 
+      <lb ed="#B" n="73"/>ue ad formam perfectiorem: et in predicamon 
+      <lb ed="#B" n="74"/>to substantiae.
+</p>
+               <p xml:id="WuV37d-e75533-d1e1413">
+¶ Secunda difficultas: 
+      <lb ed="#B" n="75"/>vtrum in opere creationis fuerit in aliquo operi 
+      <lb ed="#B" n="76"/>successiuo: dicendum quod sic in tempore illo quod est 
+      <lb ed="#B" n="77"/>quartum concreatum: quia omnis mensura 
+      <lb ed="#B" n="78"/>dempta aeternitate: ex secunda distinctione 
+      <lb ed="#B" n="79"/>huius secundi habet successionem. In aliis 
+      <lb ed="#B" n="80"/>autem tribus non scilicet angelis: caelo empireo: 
+      ma<lb ed="#B" n="81" break="no"/>teria prima.
+</p>
+               <p xml:id="WuV37d-e75533-d1e1432">
+¶ Tertia difficultas. 
+      cu<lb ed="#B" n="82" break="no"/>ius motus erat mensura: istud tempophus medium 
+      <lb ed="#B" n="83"/>inter opus creationis: et opus distinctionis: 
+      <lb ed="#B" n="84"/>quia non primi mobilis quod secunda die fuit factum. 
+      <lb ed="#B" n="85"/>Dicendum quod erat mensura motus imagina 
+      <lb ed="#B" n="86"/>rii: sicut si staret primum mobile: et non mo 
+      <lb ed="#B" n="87"/>ueretur diceremus tunc tempus 
+      mensura<lb ed="#B" n="88" break="no"/>re motum imaginarium non actu: sic in 
+      pro<lb ed="#B" n="89" break="no"/>posito. Ex quo patet ad quaestionem: quod vicem 
+      <lb ed="#B" n="90"/>in opere creationis sine forma effici 
+      potu<lb ed="#B" n="91" break="no"/>it materia. Tunc ad argumenta.
+</p>
+               <p xml:id="WuV37d-e75533-d1e1456">
+¶ Ad 
+      pri<lb ed="#B" n="92" break="no"/>respondet doctor subtilis. q. 2. huius 
+      distin<lb ed="#B" n="93" break="no"/>ctionis in reportatis parrhisius: quod facere 
+      <lb ed="#B" n="94"/>vnum potest accipi: aut facere per identitatem: 
+      <lb ed="#B" n="95"/>et sic maior habet veritatem: et minor falsitatem: quia 
+      <lb ed="#B" n="96"/>pri modo mageis sunt idem passio et subiectum quam ma 
+      <lb ed="#B" n="97"/>teria et forma: vel potest accipi facere per vnum 
+      <lb ed="#B" n="98"/>per vnionem: et sic maior est falsa: immo illa vnio 
+      <!--349.xml-->
+      <pb ed="#B" n="166-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>signum est possibilis separationis: et hoc modo 
+      <lb ed="#B" n="2"/>minor est vera: et sic nullo modo concludit 
+      <lb ed="#B" n="3"/>argumentum.
+</p>
+               <p xml:id="WuV37d-e75533-d1e1487">
+¶ Ad secundum negatur minor: 
+      <lb ed="#B" n="4"/>et ad probationem: quia ex duobus in actu non 
+      <lb ed="#B" n="5"/>fit vnum per se: verum est quando illi duo actus 
+      <lb ed="#B" n="6"/>sunt diuersorum generum: et quod vnum non est in 
+      <lb ed="#B" n="7"/>potentia ad aliud: et horum oppositum est in 
+      <lb ed="#B" n="8"/>proposito: quia materia prima non est in 
+      ge<lb ed="#B" n="9" break="no"/>nere: ideo non est in diuerso genere a 
+      for<lb ed="#B" n="10" break="no"/>ma: et secundo est in potentia ad formam. 
+      </p>
+               <p xml:id="WuV37d-e75533-d1e1505">
+                  <lb ed="#B" n="11"/>¶ Ad tertium. primo maior est falsa loquen 
+      <lb ed="#B" n="12"/>do de eodem modo dependendi. In esse enim 
+      <lb ed="#B" n="13"/>simpliciter plus dependet forma a 
+      mate<lb ed="#B" n="14" break="no"/>ria quam econtra: quia materia est 
+      fundamen<lb ed="#B" n="15" break="no"/>tum formae. Sed quo ad perfectionem 
+      econ<lb ed="#B" n="16" break="no"/>tra est: quia materia perficitur per formam. 
+      <lb ed="#B" n="17"/>Secundo minor est falsa: dato enim quod illae 
+      <lb ed="#B" n="18"/>formae essent separate potentia dei non essent 
+      <lb ed="#B" n="19"/>intellectuales: sicuti nec accidentia in 
+      sa<lb ed="#B" n="20" break="no"/>cramento altaris separata. Et quod dicit 
+      aui<lb ed="#B" n="21" break="no"/>cenna intelligendum est de forma ex se in 
+      <lb ed="#B" n="22"/>materiali materia quanta. Et sic patet ad 
+      <lb ed="#B" n="23"/>quaestionem.
+</p>
+            </div>
+            <div xml:id="WuV37d-e75533-Dd1e1537" type="et-conclusiones">
+               <head xml:id="WuV37d-e75533-Hd1e1539">Conclusiones</head>
+               <p xml:id="WuV37d-e75533-d1e1542">
+¶ Ex praesenti autem distin 
+      <lb ed="#B" n="24"/>ctione: sicut etc. Prima conclusio. Communi 
+      <lb ed="#B" n="25"/>materia sunt a principio creata omnia non 
+      <lb ed="#B" n="26"/>modo alio. Dicit prima conclusio: quod omnia sunt 
+      <lb ed="#B" n="27"/>simul facta a principio in communi materia 
+      <lb ed="#B" n="28"/>non alio modo. Et ponitur a principio 
+      di<lb ed="#B" n="29" break="no"/>stinctionis: vsque ibi. De qua prius tractemus 
+      </p>
+               <p xml:id="WuV37d-e75533-d1e1558">
+                  <lb ed="#B" n="30"/>¶ Secunda conclusio: informae dicitur cha 
+      <lb ed="#B" n="31"/>os primarium ad caelum tendere vsque empire 
+      <lb ed="#B" n="32"/>um. Dicit conclusio: quod illa prima materia 
+      <lb ed="#B" n="33"/>erat informis et attingebat caelum empireum 
+      <lb ed="#B" n="34"/>et ponitur a loco illo: De qua priusquam etc. vs 
+      <lb ed="#B" n="35"/>que ibi. Nunc superest. 
+</p>
+               <p xml:id="WuV37d-e75533-d1e1574">
+  Tertia conclusio: in 
+      qua<lb ed="#B" n="36" break="no"/>ternario opera complentur dei senario: atque 
+      <lb ed="#B" n="37"/>consumantur. Dicit conclusio quod in numero qua 
+      <lb ed="#B" n="38"/>ternario et senario complentur opera dei. Et 
+      <lb ed="#B" n="39"/>ponitur ab illo c. Hinc superest etc. vsque ad 
+      fi<lb ed="#B" n="40" break="no"/>nem distinctionis.
+</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

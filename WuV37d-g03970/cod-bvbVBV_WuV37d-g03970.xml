@@ -1,0 +1,734 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 45</title>
+            <author ref="#WilliamDeVaurouillon">William de Vaurouillon</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 45</title>
+               <date when="2021-06-19">June 19, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-bvbVBV">Basel 1510</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-06-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="440-r"/>
+            <cb ed="#B" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="WuV37d-g03970"><!-- l4d45 -->
+            <head xml:id="WuV37d-g03970-Hd1e108">Distinctio 45</head>
+            <div xml:id="WuV37d-g03970-Dd1e111" type="circa-textum">
+               <head xml:id="WuV37d-g03970-Hd1e113">Circa textum</head>
+               <p xml:id="WuV37d-g03970-d1e116">
+                  <lb ed="#B" n="16"/>Distinctio. 45. huius quarti in qua 
+      <lb ed="#B" n="17"/>agit de receptagulis animaru: et primo 
+      <lb ed="#B" n="18"/>de statu bonarum animarum
+    </p>
+               <p xml:id="WuV37d-g03970-d1e125">
+                  <lb ed="#B" n="19"/>PReterea sci 
+      <lb ed="#B" n="20" break="no"/>endum est quod omnes animae vt 
+      <lb ed="#B" n="21"/>ait Augustinus etc. Hic 
+      <lb ed="#B" n="22"/>signatur. 45. dist. huius quar 
+      <lb ed="#B" n="23"/>ti quae ita habet continuari 
+      <lb ed="#B" n="24"/>ad praecedentem. Nam postquam egit de ipsorum ho 
+      <lb ed="#B" n="25"/>minum resurrectione: Nunc in ista dist. agere 
+      <lb ed="#B" n="26"/>incipit de ipsorum ante resurrectionem perstatio 
+      <lb ed="#B" n="27"/>ne. Et habet diuidi in tres partes 
+      princi<lb ed="#B" n="28" break="no"/>pales. In prima de iudicandorum inquirit 
+      <lb ed="#B" n="29"/>statibus. In secunda de iudicantis 
+      conditioni<lb ed="#B" n="30" break="no"/>bus. In tertia de iudicii certis limitibus 
+      <lb ed="#B" n="31"/>Prima in principio. Secunda dist. 46. 
+      <lb ed="#B" n="32"/>Sed quaeritur hic de valde malis etc. 
+      Ter<lb ed="#B" n="33" break="no"/>tia dist. 47. ibi. Solet etiam quaeri qualiter 
+      <lb ed="#B" n="34"/>etc. Rursus prima particula quae est praesens di. 
+      <lb ed="#B" n="35"/>in qua agit de hominum ante resurrectionem 
+      perstati<lb ed="#B" n="36" break="no"/>one in tres partes diuiditur. In prima praeloquitur 
+      <lb ed="#B" n="37"/>modo diuidentis. In secunda suffragia ponit 
+      <lb ed="#B" n="38"/>cetus militantis. In tertia adiutoria iungit 
+      <lb ed="#B" n="39"/>triumphantis. Prima in principio. 
+      Secun<lb ed="#B" n="40" break="no"/>da ibi. Neque negandum est. Tertia ibi. Sed 
+      <lb ed="#B" n="41"/>iterum quaeritur de alio mediocriter bono etc. 
+      </p>
+            </div>
+            <div xml:id="WuV37d-g03970-Dd1e178">
+               <head xml:id="WuV37d-g03970-Hd1e180">Quaestio</head>
+               <p xml:id="WuV37d-g03970-d1e183">
+                  <lb ed="#B" n="42"/>¶ Quaestio ista declarat perpulchre 
+      <lb ed="#B" n="43"/>quo anima separata cognoscat 
+      quatita<lb ed="#B" n="44" break="no"/>tes sibi ante separatione hitualiter notas 
+      <lb ed="#B" n="45"/>ede maemoria earundem ac si cogno 
+      <lb ed="#B" n="46"/>scat beati orenones sibi allatas. secundo 
+      de<lb ed="#B" n="47" break="no"/>clarat istam q. per. 4. partiales in praesenti di. 
+      <!--896.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="48"/>Utrum anime beato 
+      <lb ed="#B" n="49"/>rum in suis receptaculis suffragi 
+      <lb ed="#B" n="50"/> orum viantium recordentur aut ea 
+      <lb ed="#B" n="51"/>cognoscant quod non arguitur tripliciter.
+</p>
+               <p xml:id="WuV37d-g03970-d1e212">
+¶ Pri 
+      <lb ed="#B" n="52"/>modo quod non cognoscant: sensus non potest co 
+      <lb ed="#B" n="53"/>gnoscere sine sensibili: ergo anima separata 
+      <lb ed="#B" n="54"/>nihil potest cognoscere. Antecedens patet 
+      dicen<lb ed="#B" n="55" break="no"/>te Augustinus in. 9. de trini. vltimo ca. 
+      Obie<lb ed="#B" n="56" break="no"/>ctum et potentia pariunt noticiam. patet consequenta 
+      <lb ed="#B" n="57"/>ex dicto philosophi tertio de anima. 
+      Fantasmata<lb ed="#B" n="58" break="no"/>se habent ad intellectum sicut sensibilia ad  
+      <lb ed="#B" n="59"/>sensum.
+</p>
+               <p xml:id="WuV37d-g03970-d1e232">
+¶ Secundo arguitur sic: quod non 
+      <lb ed="#B" n="60"/>habeat anima beata recordationem: non 
+      recor<lb ed="#B" n="61" break="no"/>datur sui peccati: ergo nullius recordatur. Antecedens 
+      <lb ed="#B" n="62"/>patet per id. Ecce creo caelos nouos etc. Et an 
+      <lb ed="#B" n="63"/>quia obliuioni tradentur angustiae priores 
+      <lb ed="#B" n="64"/>Tum secundo quia esset causa magna displicentiae: 
+      <lb ed="#B" n="65"/>Tum tertio quia esset occasio verecundiae quae sunt 
+      <lb ed="#B" n="66"/>a beatis relegata. consequenta patet. a simili.
+</p>
+               <p xml:id="WuV37d-g03970-d1e250">
+¶ Tertio 
+      <lb ed="#B" n="67"/>arguitr sic. anima separata immo etiam inteslectus conium 
+      <lb ed="#B" n="68"/>ctus abstrahit ab hoc et nunc. ergo non recordatur 
+      <lb ed="#B" n="69"/>aliquirum. patet consequenta: quia recordatio est praeteritorum: 
+      <lb ed="#B" n="70"/>antecedens probatur. quia obm intellectus est ens: aut 
+      vni<lb ed="#B" n="71" break="no"/>uersale et talia abstrahunt ab hic et nunc. 
+      </p>
+               <p xml:id="WuV37d-g03970-d1e264">
+                  <lb ed="#B" n="72"/>¶ In oppositum pro cognitione. Tum primo 
+      <lb ed="#B" n="73"/>phus. 3. de aia. Anima est locus specirum non tota sed 
+      <lb ed="#B" n="74"/>intellectiua seu intellectus: exquo ergo habet species: se 
+      <lb ed="#B" n="75"/>parata potest intelligere: quia locus laluat. Tum 
+      <lb ed="#B" n="76"/>secundo Boe. 5. de conso. prosa. 4. receptum est in 
+      <lb ed="#B" n="77"/>recipiente per modum recipientis: anima autem recipi 
+      <lb ed="#B" n="78"/>ens species est incorruptibilis: igitur recipit eas in 
+      <lb ed="#B" n="79"/>corruptibiliter. Tum tertio Auicen. 6. natura 
+      <lb ed="#B" n="80"/>lium parte. 1. ca. 6. Anima separata clarius videbit 
+      <lb ed="#B" n="81"/>veritatem quam coniuncta: et concordat cum illo. Cor 
+      <lb ed="#B" n="82"/>pus quod corrumpitur aggrauat animam.
+</p>
+               <p xml:id="WuV37d-g03970-d1e290">
+¶ In 
+      <lb ed="#B" n="83"/>oppositum pro recordatione. Tumprimo 
+      <lb ed="#B" n="84"/>Abraam diuiti dicit: Fili recordare: quia re 
+      <lb ed="#B" n="85"/>cepisti bona in vi. tua et la. si. mala. Tum 
+      <lb ed="#B" n="86"/>secundo auctoritate aug. super illud pate. Fiant filii eius or 
+      <lb ed="#B" n="87"/>phani. Tum tertio auctortoritate eiusdemu 
+      <lb ed="#B" n="88"/>9. confessionum vbi dicit quod mortui habent me 
+      <lb ed="#B" n="89"/>moriam nostri¬ 
+      </p>
+               <p xml:id="WuV37d-g03970-d1e308">
+                  <lb ed="#B" n="90"/>¶ In ista quaestione sunt tres articli declarandi 
+      <lb ed="#B" n="91"/>Primus est terminorum declaratiuus 
+      <lb ed="#B" n="92"/>Quorum Secundus est quaestionis responsiuus. 
+      <lb ed="#B" n="93"/>Tertius est dubiorum motiuus; 
+      </p>
+               <p xml:id="WuV37d-g03970-d1e319">
+                  <lb ed="#B" n="94"/>¶ Quantum ad primum articu 
+      <lb ed="#B" n="95"/>termi 
+      <!--897.xml-->
+      <pb ed="#B" n="440-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>Recordatio: receptaculum: suffragium. 
+      </p>
+               <p xml:id="WuV37d-g03970-d1e335">
+                  <lb ed="#B" n="2"/>¶ Primus terminus est recordatio 
+      <lb ed="#B" n="3"/>de reuertor reuerteris: aut redeo redis: et 
+      <lb ed="#B" n="4"/>cor cordis. Sic enim scriptum est: praeuarica 
+      <lb ed="#B" n="5"/>tores redite ad cor. Dicitur autem recordatio 
+      <lb ed="#B" n="6"/>tripliciter. Primo metaphorice: et sic est in 
+      <lb ed="#B" n="7"/>deum per quandam figuram quae dicitur 
+      antropo<lb ed="#B" n="8" break="no"/>spatos dum ea quae sunt propria homin deo at 
+      <lb ed="#B" n="9"/>tribuuntur: et sic Daniel deo loquitur in lacu 
+      <lb ed="#B" n="10"/>e constitutus leonum. Recordatus es mei domine 
+      <lb ed="#B" n="11"/>deus: et non dereliquisti diligentes te. 
+      Re<lb ed="#B" n="12" break="no"/>cordatio enim proprie illius est apud quem 
+      <lb ed="#B" n="13"/>rerum fit transitus: apud deum vero cuncta 
+      <lb ed="#B" n="14"/>sunt praesentia: sed qualiter: in primo decla 
+      <lb ed="#B" n="15"/>ratum est. Secundo dicitur recordatio: vt est 
+      <lb ed="#B" n="16"/>partis intellectiue create: sed secundum 
+      praete<lb ed="#B" n="17" break="no"/>ritum: et hoc modo dicit philosophus in libello de 
+      <lb ed="#B" n="18"/>memoria et reminiscentia: quod reminisci id est re 
+      <lb ed="#B" n="19"/>cordari soli homin inest: et hoc modo 
+      capien<lb ed="#B" n="20" break="no"/>do recordationem de beato petro post 
+      ne<lb ed="#B" n="21" break="no"/>gationem. scriptum est. Et recordatus est 
+      pe<lb ed="#B" n="22" break="no"/>trus verbi domini sicut dixerat etc. Tertio modo 
+      <lb ed="#B" n="23"/>dicitur recordatio communiter: vt se exten 
+      <lb ed="#B" n="24"/>dit ad partem sensitiuam: et isto modo de 
+      ca<lb ed="#B" n="25" break="no"/>ne poeta dicit: exscaturimantes lesus abhor 
+      <lb ed="#B" n="26"/>ret aquas: vnde recordatio proprie dicta secundum 
+      <lb ed="#B" n="27"/>mentem docto. subti. in praesenti dist. q. 3. est co 
+      <lb ed="#B" n="28"/>gnitio actus alicuius praeteriti ipsius recordan 
+      <lb ed="#B" n="29"/>tis: et hoc inquantum praeteriti. Ex qua 
+      compen<lb ed="#B" n="30" break="no"/>diosa descriptione tria habentur. Primum 
+      <lb ed="#B" n="31"/>quod recordatio est respectu praeteriti actus: 
+      <lb ed="#B" n="32"/>quia dicitur quod recordatio est cognitio actus 
+      <lb ed="#B" n="33"/>alicuius praeteriti: nisi enim praeteritorum 
+      re<lb ed="#B" n="34" break="no"/>cordaremur deesset nobis primo vna 
+      por<lb ed="#B" n="35" break="no"/>tio prudentie: quae secundum tullium est recordatio 
+      <lb ed="#B" n="36"/>praeteriti. Secundo iusti nescirent se 
+      praemian<lb ed="#B" n="37" break="no"/>dos: nec iniusti puniendos: et perirent 
+      pol<lb ed="#B" n="38" break="no"/>licie. Tum tertio quod praeteritorum recordemur 
+      <lb ed="#B" n="39"/>ex hoc patet: quia et futura cognoscimus 
+      <lb ed="#B" n="40"/>alies deesset nobis prouidentia quae est de 
+      <lb ed="#B" n="41"/>futuris: et tamen minus habent de ente quam 
+      <lb ed="#B" n="42"/>praeterita: quae sunt immutabilia reliqua in 
+      <lb ed="#B" n="43"/>pluribus contingentia. Ex quo primo 
+      sequi<lb ed="#B" n="44" break="no"/>tur quod recordatio non est actus primus: sed  
+      <lb ed="#B" n="45"/>secundus: quia dicitur cognitio. Secundo 
+      sequi<lb ed="#B" n="46" break="no"/>tur quod recordatio non est memoria: quia me 
+      <lb ed="#B" n="47"/>moria potentiam dicit: licet non solum: quia 
+      <lb ed="#B" n="48"/>etiam dicit specien rei: recordatio vero actum 
+      <lb ed="#B" n="49"/>dicit potentiae. Tertio sequitur quod recordati 
+      <!--897.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>ua habet actum post tempus: quia est 
+      praete<lb ed="#B" n="51" break="no"/>riti vt praeteriti. Unde philosophus in lib. de memo 
+      <lb ed="#B" n="52"/>ria et reminiscentia. post trispophus memoria id est re 
+      <lb ed="#B" n="53"/>cordatio omnis fit. Et possunt hic poni tria quae 
+      <lb ed="#B" n="54"/>ifferunt loquendo propsre. Hemoria reminiscen 
+      <lb ed="#B" n="55"/>tia recordatio. Hemoria dicit habitum aut 
+      <lb ed="#B" n="56"/>potentiam cum obiecto: aut esse quietum: Remi 
+      <lb ed="#B" n="57"/>niscentia dicit discursum incipientem ab esse 
+      <lb ed="#B" n="58"/>quieto alterius: ideo libellus ille non 
+      so<lb ed="#B" n="59" break="no"/>lum dictus est de memoria: aut solum de re 
+      <lb ed="#B" n="60"/>miniscentia: sed de vtroque. Recordatio 
+      ve<lb ed="#B" n="61" break="no"/>ro tantum dicit discursus: quia est cognitio actus 
+      <lb ed="#B" n="62"/>praeteriti. Ecce primum memoria. secundum 
+      <lb ed="#B" n="63"/>reminiscentia. tertium recordatio. Quarto 
+      <lb ed="#B" n="64"/>sequitur quod percipit fluxum temporis inter illud 
+      <lb ed="#B" n="65"/>instans in quo fuit actus cuius recordatur 
+      <lb ed="#B" n="66"/>et instans perceptionis. Quinto sequitur quod 
+      <lb ed="#B" n="67"/>obiectum recordationis quando obiicitur 
+      re<lb ed="#B" n="68" break="no"/>cordationi non est in se praesens: quia est praete 
+      <lb ed="#B" n="69"/>riti. Sexto sequitur quod praesentia obiecti est quae 
+      <lb ed="#B" n="70"/>renda in potentia recordatiua in quo est 
+      <lb ed="#B" n="71"/>secundum speciem. Ecce tres binarii: quia vnus 
+      <lb ed="#B" n="72"/>senarius. Secundo principaliter sequitur ex 
+      <lb ed="#B" n="73"/>descriptione: quod recordationes non sunt 
+      ni<lb ed="#B" n="74" break="no"/>si actuum ipsius recordantis et hoc humano 
+      <lb ed="#B" n="75"/>rum vt inquit scotus. Ex qua parte primo sequi. h 
+      <lb ed="#B" n="76"/>tur quod rerum quae non sunt nostri actus non 
+      <lb ed="#B" n="77"/>recordamur: sed bene memoramur: vt 
+      par<lb ed="#B" n="78" break="no"/>rhysius esse magnam villam: non recordor 
+      <lb ed="#B" n="79"/>sed bene memoror: sic de similibus. 
+      Se<lb ed="#B" n="80" break="no"/>cundo sequitur quod actus nostri casuales non 
+      <lb ed="#B" n="81"/>cadunt sub nostra recordatione: aut in per 
+      <lb ed="#B" n="82"/>ceptione: quia recordatio ortum habet vt 
+      <lb ed="#B" n="83"/>dictum est a memoria: haec autem numquam memo 
+      <lb ed="#B" n="84"/>riam intrauerunt. Tertio sequitur quod actuum ve 
+      <lb ed="#B" n="85"/>getatiuae potentiae: vt sic non recordamur: 
+      <lb ed="#B" n="86"/>quia non sunt proprie humani vt clare di 
+      <lb ed="#B" n="87"/>catur in toro: si te vidi sedisse: non 
+      recor<lb ed="#B" n="88" break="no"/>dor te sedisse: quia est actus tuus: sed recor 
+      <lb ed="#B" n="89"/>dor me te vidisse sedere dum sedebas. Et si 
+      <lb ed="#B" n="90"/>dicatur quod citius potest recordari se vxori 
+      red<lb ed="#B" n="91" break="no"/>didisse debitum: et tamen ille actus est vege 
+      <lb ed="#B" n="92"/>tatiue. Dico quod illius actus vt vegetatiue 
+      <lb ed="#B" n="93"/>solum non est recordatio sed bene vt fit aut 
+      <lb ed="#B" n="94"/>ad reddendum debitum: aut ad habendum 
+      pro<lb ed="#B" n="95" break="no"/>lem: aut ad vitandam fornicationem etc. tunc 
+      <lb ed="#B" n="96"/>enim est humanus. Tertio principaliter se 
+      <lb ed="#B" n="97"/>quitur: quod recordatio non solum est actus prae 
+      <lb ed="#B" n="98"/>teriti sed vt praeteriti: et differt multum: re¬ 
+      <!--898.xml-->
+      <pb ed="#B" n="441-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>cordari visionis praeteritae / aut visionis vt praete 
+      <lb ed="#B" n="2"/>ritae. Ex qua parte cum dictis aliis sequuntur tria 
+      <lb ed="#B" n="3"/>corollaria. Primum quod in recordatione est obie 
+      <lb ed="#B" n="4"/>ctum proximum et remotum sper. Si enim recordor 
+      <lb ed="#B" n="5"/>me vidisse: visio est obiectum proximum: sed 
+      pe<lb ed="#B" n="6" break="no"/>titur: quid vidisti: visum est obiectum remotum. Se 
+      <lb ed="#B" n="7"/>cundum quod actus cuius est recordatio speciem habet in po 
+      <lb ed="#B" n="8"/>tentia recordatiua: alioquin non posset 
+      recor<lb ed="#B" n="9" break="no"/>dari quas eius. Tertium quod actus ille praeteritus aliquando 
+      <lb ed="#B" n="10"/>fuit obiectum potentiae recordatiuae: alioquin 
+      <lb ed="#B" n="11"/>non posset in illa eius esse species. Sed surgit 
+      du<lb ed="#B" n="12" break="no"/>bium si recordatio sic diffinita possit esse bru 
+      <lb ed="#B" n="13"/>torum: quia (vt dictum Orecordatio aspicit trimpopus: 
+      <lb ed="#B" n="14"/>primsphus autem secundum philosophum i. 4. philosophiem. est numerus motus 
+      <lb ed="#B" n="15"/>secundum prius et posterius: bruta autem numerum non 
+      <lb ed="#B" n="16"/>cognoscunt. Tum secundo non conferunt. Tum tertio 
+      <lb ed="#B" n="17"/>non reflectuntur super se: et tamen recordatiua re 
+      <lb ed="#B" n="18"/>cordatur se fuisse recordatam. Ad primam 
+      dice<lb ed="#B" n="19" break="no"/>retur negatiue: numerus enim est vnum quinque 
+      com<lb ed="#B" n="20" break="no"/>munium sensibilium: ex. 2 de anima. Ad secundm di 
+      <lb ed="#B" n="21"/>ceretur quod non ita discurrunt ex arte vt homines: 
+      <lb ed="#B" n="22"/>ex instinctu tamen naturae conferunt. Quis enim cor 
+      <lb ed="#B" n="23"/>uum docuit (vt ait Alber. magnus in li. animalium 
+      <lb ed="#B" n="24"/>vt per centum annos in loco eodem nidum face 
+      <lb ed="#B" n="25"/>ret. Sic patet in ciconiis annuatim vbi ha 
+      <lb ed="#B" n="26"/>bitant. Et licet posset dici quod sine recordati 
+      <lb ed="#B" n="27"/>one talia faciant / sola impressione delectabilis 
+      <lb ed="#B" n="28"/>aut solo naturae instinctu: vt patet in formi 
+      <lb ed="#B" n="29"/>ca colligente grana contra hyemen: sic enim col 
+      <lb ed="#B" n="30"/>ligunt inexpartae frigora vt expartae: sic aues qua 
+      <lb ed="#B" n="31"/>numquam nidos fecerunt / nidos constituunt vt quae 
+      <lb ed="#B" n="32"/>solitae sunt nidos facere. Hoc quidem verum est / 
+      <lb ed="#B" n="33"/>et inficiari non potest: tamen ex aliis practicis nis 
+      <lb ed="#B" n="34"/>obuiat veritati in multis animalibus recordati 
+      <lb ed="#B" n="35"/>onem ponere: vt patet in canibus / quo in multis 
+      <lb ed="#B" n="36"/>disciplinantur: elephantibus quo docentur regibus 
+      <lb ed="#B" n="37"/>reuerentiam facere: et generibus multis auium 
+      <lb ed="#B" n="38"/>quae loqui instruuntur. Semel vel pluries ac 
+      <lb ed="#B" n="39"/>cidit: occupauerant passeres nidum hyrundi 
+      <lb ed="#B" n="40"/>nis seu martineti intus stantes: nec permitte 
+      <lb ed="#B" n="41"/>bant hyrundines introire. Congregati nume 
+      <lb ed="#B" n="42"/>ro magno martineti seu hyrundines cum 
+      lu<lb ed="#B" n="43" break="no"/>to: facto insultu nidt obturauerunt introi 
+      <lb ed="#B" n="44"/>tum / intus inclusis passeribus. Quis 
+      docu<lb ed="#B" n="45" break="no"/>it praeteriti recordatiua / aut naturae 
+      instin<lb ed="#B" n="46" break="no"/>ctus: iudex videat et iudicet. Ad tertium: si 
+      <lb ed="#B" n="47"/>visus quia spiritualior / in particularibus sensibus 
+      <lb ed="#B" n="48"/>exterioribus suam aliqualiter videt visionem: vt 
+      <lb ed="#B" n="49"/>dicit philosophus /i. 2. de anima: et super se aut suum actum 
+      <!--898.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>conuertitur: cur hoc nobilissimae sensitiuae 
+      de<lb ed="#B" n="51" break="no"/>negemus sic enim quasi quaedam origon est in medio 
+      <lb ed="#B" n="52"/>locata pure intelligibilium et pure 
+      sensibi<lb ed="#B" n="53" break="no"/>lium: sed an sit memoria: et ita recordatio in 
+      <lb ed="#B" n="54"/>pte intellectiua magnum dubium est dicit 
+      <lb ed="#B" n="55"/>Hen. de ganda. quoli. 4. q. 7. quod memoria 
+      <lb ed="#B" n="56"/>intelligibilium non est sine phantasmate. Et 
+      <lb ed="#B" n="57"/>idem ibidem diciti / quod memoramur per accidens: 
+      <lb ed="#B" n="58"/>id est per aliud / quia per phantasma. Sed in 
+      oppo<lb ed="#B" n="59" break="no"/>situm est philosophus in libello de memoria et 
+      remin<lb ed="#B" n="60" break="no"/>scentia: dicit enim. Quorundam intelligibilium 
+      <lb ed="#B" n="61"/>memoramur: vt quod triangulus habet tres equiles 
+      <lb ed="#B" n="62"/>duobus rectis etc. hic quidem quia didicit et specu 
+      <lb ed="#B" n="63"/>latus fuit. Esi dicatur quod ibidem philosophus dicit 
+      ali<lb ed="#B" n="64" break="no"/>os bene remiscitiuos / alios male propter 
+      di<lb ed="#B" n="65" break="no"/>uersitatem organi. Ex quo patet quod solum est sensi 
+      <lb ed="#B" n="66"/>tiua potentia. Dicendum quod sicut in motu opor 
+      <lb ed="#B" n="67"/>tet dare vnum immobile / vnde motus incipiat et 
+      <lb ed="#B" n="68"/>distantia computetur: sic in nobis dare oportet 
+      <lb ed="#B" n="69"/>vnam speciem immobilem quae in intellectiua memo 
+      <lb ed="#B" n="70"/>ria manet immobilis: sicut intellectus est 
+      incorru<lb ed="#B" n="71" break="no"/>ptibilis: per hunc deuenimus cum remiscentia: quae est 
+      <lb ed="#B" n="72"/>discursus ad recognoscendum speciem 
+      dele<lb ed="#B" n="73" break="no"/>tam in parte seu memoria sensitiua: et ad hoc 
+      <lb ed="#B" n="74"/>iuuat exemplum quod recitat Themistius. 2. 
+      <lb ed="#B" n="75"/>posteris. de seruo fugitiuo quem requirit dominus 
+      <lb ed="#B" n="76"/>suus: fugit species a memoria sensitiua: 
+      reha<lb ed="#B" n="77" break="no"/>betur per speciem intellectiuam mediante 
+      remini<lb ed="#B" n="78" break="no"/>scentia vt procuratore domini. Notanda tamen sunt 
+      <lb ed="#B" n="79"/>tria dicta de memoria intellectiua et recor 
+      <lb ed="#B" n="80"/>datione. Primum dictum. Nulla recordatio 
+      <lb ed="#B" n="81"/>partinet ad intellectum inquantum praecise abstracti 
+      <lb ed="#B" n="82"/>ue est intelligens. Secundum dictum. Nulla 
+      re<lb ed="#B" n="83" break="no"/>cordatio pertinens ad intellectum necessario 
+      <lb ed="#B" n="84"/>requirit duplicem praeteritionem. scilicet in vtroque 
+      obie<lb ed="#B" n="85" break="no"/>cto. Tertium dictum. Nulla recordatio 
+      parti<lb ed="#B" n="86" break="no"/>net ad intellectum tamquam primarie et radicalitur 
+      <lb ed="#B" n="87"/>sufficienter ad recordandum. Et propter istas 
+      <lb ed="#B" n="88"/>tres conditiones vel aliquam earum: intelligendae 
+      <lb ed="#B" n="89"/>sunt vel exponendae sunt omnes auctoritates 
+      Ari<lb ed="#B" n="90" break="no"/>sto. aut aliorum negantium memoriam in parte 
+      in<lb ed="#B" n="91" break="no"/>tellectiua. Illud enim quod obiectum est de libel 
+      <lb ed="#B" n="92"/>lo / de memoria et reminscentia de bene remini 
+      <lb ed="#B" n="93"/>scentibus et male ex parte organi: est solutum ex 
+      <lb ed="#B" n="94"/>tertia conditione. Nec est ista memoria intelle 
+      <lb ed="#B" n="95"/>ctiua solorum vniuersalium / quinimo singula 
+      <lb ed="#B" n="96"/>rium: aliter qualiter recordaretur quas aut 
+      intenti<lb ed="#B" n="97" break="no"/>onum aut volitionum quae non sunt sensibiles: et 
+      <lb ed="#B" n="98"/>scilicet de malis non recordatur volitionibus / quomod 
+      <!--899.xml-->
+      <pb ed="#B" n="441-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>poenitebit: haec pedetentim gnanus post gigan 
+      <lb ed="#B" n="2"/>tem: ex. 3. conclusione praesentis dist. in Secundo 
+      bre<lb ed="#B" n="3" break="no"/>uiaui.
+</p>
+               <p xml:id="WuV37d-g03970-d1e788">
+¶ Secundus: terminus est 
+      recepta<lb ed="#B" n="4" break="no"/>culum: a recipiendo. Est autem triplex 
+      rece<lb ed="#B" n="5" break="no"/>ptaculum seu habitaculum. Unde doc. Aureli 
+      <lb ed="#B" n="6"/>us Augustinus de triplici habitaculo gratum libel 
+      <lb ed="#B" n="7"/>lum edidit: et sunt illa tria habitacula (vt 
+      ini<lb ed="#B" n="8" break="no"/>bi loquitur) celum / in quo solum boni: infernus quo 
+      <lb ed="#B" n="9"/>solum mali: terra in qua sunt modo et boni et 
+      <lb ed="#B" n="10"/>mali. Sed ad nostrum descendendo 
+      proposi<lb ed="#B" n="11" break="no"/>tum / loquendo de receptaculis animarum 
+      bo<lb ed="#B" n="12" break="no"/>narum / vt malas dimittamus ad sequentem 
+      <lb ed="#B" n="13"/>de post mortem. Dicit doc. deuotus 
+      praesen<lb ed="#B" n="14" break="no"/>tis dist. arti. 1. q. 2. quod secundum triplicem statum 
+      con<lb ed="#B" n="15" break="no"/>tingit intelligere triplex receptaculum. Est 
+      <lb ed="#B" n="16"/>enim status remunerationis / status quietae 
+      expe<lb ed="#B" n="17" break="no"/>ctationis / status purgationis. Statui 
+      re<lb ed="#B" n="18" break="no"/>munerationis respondet caelum empireum: quod 
+      <lb ed="#B" n="19"/>est receptaculum determinatum in se / et quo ad 
+      <lb ed="#B" n="20"/>nos. Statui quietis et expectationis respon 
+      <lb ed="#B" n="21"/>det locus certus in se / sed non quo ad nos: 
+      <lb ed="#B" n="22"/>quia nescitur per scripturas vbi sit limbus. Dicit 
+      <lb ed="#B" n="23"/>tamen frater Franciscus de maro. 20. dist. huius 
+      <lb ed="#B" n="24"/>quarti. q. 4. seu vltima: arti. 2. quod est pars superi 
+      <lb ed="#B" n="25"/>or inferni quae dicebatur sinus abraae: vbi erant 
+      <lb ed="#B" n="26"/>sancti patres ante aduentum christi. Statui vero 
+      <lb ed="#B" n="27"/>purgationis respondet receptaculum 
+      indeter<lb ed="#B" n="28" break="no"/>minatum / et in se et quo ad nos: quia in diuersis 
+      <lb ed="#B" n="29"/>locis animae purgantur: licet aliquod sit 
+      recepta<lb ed="#B" n="30" break="no"/>culum in quo plures purgentur.
+</p>
+               <p xml:id="WuV37d-g03970-d1e850">
+¶ Tertius 
+      ter<lb ed="#B" n="31" break="no"/>minus est suffragium: a sub: sed in compositi 
+      <lb ed="#B" n="32"/>one b. mutatur in f. et fragor aris dicitur: quod pa 
+      <lb ed="#B" n="33"/>trocinari aut auxiliari designat. Unde breviter 
+      <lb ed="#B" n="34"/>notandum de suffragiis quod narrat fratrum 
+      Ri<lb ed="#B" n="35" break="no"/>char. de media villa praesenti dist. arti. 2. q. 
+      <lb ed="#B" n="36"/>1. Fiunt suffragia pro triplici genere personarum 
+      <lb ed="#B" n="37"/>seu animarum in suis iam receptaculis posita 
+      <lb ed="#B" n="38"/>rum. Pro valde bonis: secundo pro valde ma 
+      <lb ed="#B" n="39"/>lis: tertio pro mediocriter bonis et 
+      medio<lb ed="#B" n="40" break="no"/>criter malis: quia haec non faciunt nisi vnum. Si 
+      <lb ed="#B" n="41"/>pro valde bonis: tunc eis non proficiunt: quia 
+      <lb ed="#B" n="42"/>non indigent. Unde Augustinus in enchiridion ca. 
+      <lb ed="#B" n="43"/>65. Et recitat magister in praesenti distin. c. 
+      <lb ed="#B" n="44"/>2. dicit: quod sacrificia / siue altaris / siue 
+      qua<lb ed="#B" n="45" break="no"/>rumcumque elemosynarum pro defunctis valde 
+      <lb ed="#B" n="46"/>bonis sunt gratiarum actiones. Secundo  
+      <lb ed="#B" n="47"/>damnatis non proficiunt: quia non sunt ligati 
+      no<lb ed="#B" n="48" break="no"/>biscum conglutino charitatis: quod solum 
+      liga<lb ed="#B" n="49" break="no"/>men est quo eis prodesse possent. Unde Augstinus 
+      <!--899.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>vbi. supra. Hic omne meritum comparatur quo possit 
+      <lb ed="#B" n="51"/>post hanc vitam quispiam relegari. Et ibidem 
+      <lb ed="#B" n="52"/>diciti / quod talia et si pro valde malis nulla sint 
+      <lb ed="#B" n="53"/>adiumenta mortuorum: qualescumque tamen sunt 
+      <lb ed="#B" n="54"/>consolationes viuorum. Tertio tertiis prosunt 
+      <lb ed="#B" n="55"/>non ad augmentum gratiae / sed ad poenae mitti 
+      <lb ed="#B" n="56"/>gationem et abbreviationem. Unde Augutinus vbi 
+      <lb ed="#B" n="57"/>supra. Cum viuerent in hac vita: meruerunt vt 
+      <lb ed="#B" n="58"/>hoc sibi postea posset prodesse. Tantum de 
+      <lb ed="#B" n="59"/>primo articulo. 
+      </p>
+               <p xml:id="WuV37d-g03970-d1e920">
+                  <lb ed="#B" n="60"/>¶ Quantum ad secundum arti. sunt 
+      <lb ed="#B" n="61"/>tres con 
+      <lb ed="#B" n="62"/>clusiones / iuxta posita in. q. Prima 
+      conclu<lb ed="#B" n="63" break="no"/>sio est de memoria animae separatae. Secunda 
+      con<lb ed="#B" n="64" break="no"/>clusio quod possit de nouo acquirere cognitio 
+      <lb ed="#B" n="65"/>nem. Tertia / quod possunt animae beatae in receptacula 
+      <lb ed="#B" n="66"/>empirei cognoscere suffragia nostra et 
+      oratio<lb ed="#B" n="67" break="no"/>nes nostras.
+</p>
+               <p xml:id="WuV37d-g03970-d1e940">
+¶ Prima conclusio est haec. 
+      <lb ed="#B" n="68"/>Sic in anima separata perseuerant species hic 
+      impres<lb ed="#B" n="69" break="no"/>sae: vt eis res sit potens cognoscere: patet pri 
+      <lb ed="#B" n="70"/>ma particula: quia illae species sunt immateriales et 
+      <lb ed="#B" n="71"/>inextense subiectiue existentes in intellectu 
+      possi<lb ed="#B" n="72" break="no"/>bili: vnde non oportet eas corrumpi corrupto 
+      <lb ed="#B" n="73"/>corpore: quia in esse non dependent a corpore / licet 
+      <lb ed="#B" n="74"/>dependent in fieri. Unde Commentator 3. de anima / com 
+      <lb ed="#B" n="75"/>mento. 27. dicit / quod transfertur obiectum de or 
+      <lb ed="#B" n="76"/>dine in ordinem: quando de phantasmate 
+      transfer<lb ed="#B" n="77" break="no"/>tur per intellectum agentem ad ordinem 
+      intelle<lb ed="#B" n="78" break="no"/>ctus possibilis: quod non intelligo nisi de 
+      or<lb ed="#B" n="79" break="no"/>dine materiali et extensibili ad ordinem 
+      imma<lb ed="#B" n="80" break="no"/>terialem et inextensibilem. Ista autem duo similis 
+      <lb ed="#B" n="81"/>iuncta complent memoriam intellectus et obie 
+      <lb ed="#B" n="82"/>ctum: aut in se / aut in sua specie. Ex quo patet 
+      <lb ed="#B" n="83"/>secunda pars conclusionis / quod per eas species potest anima 
+      <lb ed="#B" n="84"/>separata venire in rerum cognitionem: quia secundum 
+      <lb ed="#B" n="85"/>Augustinus memoria est parens intelligentiae. 
+      </p>
+               <p xml:id="WuV37d-g03970-d1e982">
+                  <lb ed="#B" n="86"/>¶ Unde philosophus 1. de anima vult: quod si anima separata non 
+      <lb ed="#B" n="87"/>potest habere separationem / nec potest esse: et illa 
+      spe<lb ed="#B" n="88" break="no"/>cies in. 3. de anima dicitur scientia / quando dicit philosophus / 
+      <lb ed="#B" n="89"/>quod sicut anima per sensum est sensitiua / ita per scien 
+      <lb ed="#B" n="90"/>tiam est scientifica: quod debet intelligi virtuali 
+      <lb ed="#B" n="91"/>ter: quia species in memoria est causa partialis / 
+      effi<lb ed="#B" n="92" break="no"/>ciens habitus scientialis. Unde et illud Hiero. 
+      <lb ed="#B" n="93"/>ad paulinum in prologo bibliae. Discamus in 
+      ter<lb ed="#B" n="94" break="no"/>ris quorum nobis scientia remanebit in caelis. Ual 
+      <lb ed="#B" n="95"/>de enim irrationabile esset tantum laborare circa 
+      <lb ed="#B" n="96"/>scientiam et virtutem: et post totum perdere in morte. 
+      <lb ed="#B" n="97"/>Ex quo patet defectus Tho. qui ad 
+      excogitan<lb ed="#B" n="98" break="no"/>dum modum cognitionis animae separatae posuit spe¬ 
+      <!--900.xml-->
+      <pb ed="#B" n="442-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>cies influxas a deo: prima parte summe. q. 99. 
+      <lb ed="#B" n="2"/>arti. 1. Et in quarto. go. distin. q. 1. Sed de 
+      <lb ed="#B" n="3"/>hoc magis in sequenti conclusione. Ex eodem 
+      <lb ed="#B" n="4"/>secundo patet defectus Auicennae: qui. 6. natu 
+      <lb ed="#B" n="5"/>ralium / parte. 5. ca. 6. diciti / quod in intellectu 
+      nul<lb ed="#B" n="6" break="no"/>la species remanet nisi praesente actu intelligen 
+      <lb ed="#B" n="7"/>gendi. Ex eodem tertio sequitur defectus do 
+      <lb ed="#B" n="8"/>ctoris solennis / negantis omnem speciem 
+      intelli<lb ed="#B" n="9" break="no"/>gibilem: et ponentis tantum phantasma in virtute 
+      <lb ed="#B" n="10"/>phantastica: quolibe. 4. q. 7. et. 6. Idem 
+      di<lb ed="#B" n="11" break="no"/>cit Bodefredus de fontibus / quolibe. 9. 
+      <lb ed="#B" n="12"/>q. 19.
+</p>
+               <p xml:id="WuV37d-g03970-d1e1045">
+¶ Secunda conclusio est haec. In anima 
+      <lb ed="#B" n="13"/>separata speciem a deo influxam non est necesse po 
+      <lb ed="#B" n="14"/>nere vt ignotum intelligat. Probatur. 
+      Natu<lb ed="#B" n="15" break="no"/>ra non est sine propria operatione specificata. 2 
+      <lb ed="#B" n="16"/>caeli et mundi. Et Dam. c. 94. Anima humana est 
+      <lb ed="#B" n="17"/>perfectissima forma: et eius propria operatio secundum 
+      <lb ed="#B" n="18"/>intellectum possibilem est intelligere: secundum agen 
+      <lb ed="#B" n="19"/>tem abstrahere / et secundum voluntatem velle: igitur 
+      <lb ed="#B" n="20"/>nullus modus essendi potest conuenire animae secundum 
+      <lb ed="#B" n="21"/>naturam suam / i quao non possit secundum istas operatio. 
+      <lb ed="#B" n="22"/>nes: secundum naturam suam talis est / quod potest habere ese 
+      <lb ed="#B" n="23"/>separatum: et hoc est ex perfectione suae naturae: 
+      <lb ed="#B" n="24"/>vnde non conuenit aliis formis imperfectis: igitur 
+      <lb ed="#B" n="25"/>in illo esse potest in istas operationes: sed pos 
+      <lb ed="#B" n="26"/>sibile est eam prius non acquisisse species 
+      ob<lb ed="#B" n="27" break="no"/>iectorum sicut patet de anima paruuli 
+      defun<lb ed="#B" n="28" break="no"/>cti: igitur poterit eam tunc acquirere. Ex quo 
+      in<lb ed="#B" n="29" break="no"/>fertur non necessitas opi. Tho. huius 
+      quar<lb ed="#B" n="30" break="no"/>ti. 50. dist. q. 1. ponentis vnum ternarium: quod 
+      <lb ed="#B" n="31"/>est res intellectualis mere / res pure 
+      cor<lb ed="#B" n="32" break="no"/>poralis / anima intellectiua in medio vnde 
+      <lb ed="#B" n="33"/>in commento secundae propositionis libri de 
+      cau<lb ed="#B" n="34" break="no"/>sis: dicit philosophus animam creatam esse in 
+      oricon<lb ed="#B" n="35" break="no"/>te aeternitatis: hoc medium dum ad res 
+      acce<lb ed="#B" n="36" break="no"/>dit corporales: vt dum est communiunctum cum 
+      cor<lb ed="#B" n="37" break="no"/>pore: a rebus corporalibus accipit species: 
+      <lb ed="#B" n="38"/>quia eis approximat: quando autem separatur 
+      <lb ed="#B" n="39"/>et appropinquat intelligentiis: iam non 
+      intel<lb ed="#B" n="40" break="no"/>ligit per species a rebus corporalibus acce 
+      <lb ed="#B" n="41"/>ptas / sed per species influxas / aut a deo vel 
+      <lb ed="#B" n="42"/>angelis: cuius signum est: quia quanto homo 
+      <lb ed="#B" n="43"/>magis elongatur aut abstrahitur a corpore: 
+      <lb ed="#B" n="44"/>tanto secretiora cognoscit: patet in raptur 
+      <lb ed="#B" n="45"/>extasi et sopore: et sic intelligit Commenta 
+      <lb ed="#B" n="46"/>tor. 3. de anima: dum ponit intellectum 
+      possi<lb ed="#B" n="47" break="no"/>bilem esse substantiam separatam: quamuis in hoc 
+      <lb ed="#B" n="48"/>erret: tamen quantum ad hoc recte dicit / quod 
+      ex<lb ed="#B" n="49" break="no"/>hoc quod ponitur substantia separata habet re 
+      <!--900.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>spectum ad intellectuales substantias 
+      supe<lb ed="#B" n="51" break="no"/>riores vt eis intelligat: sed secundum illum 
+      respe<lb ed="#B" n="52" break="no"/>ctum quo comparatur ad intellectum nostrum 
+      <lb ed="#B" n="53"/>recipiendo species a phantasmatibus: non 
+      <lb ed="#B" n="54"/>communiungitur substantiis superioribus seu 
+      alti<lb ed="#B" n="55" break="no"/>oribus. Contra istam opinionem doc. arguit 
+      <lb ed="#B" n="56"/>tripliciter. Primo quod superfluit: aeque enim 
+      <lb ed="#B" n="57"/>vnde fit per species acquisitas quae sunt 
+      incor<lb ed="#B" n="58" break="no"/>ruptibiles / sicut per influxas. Aut non est ne 
+      <lb ed="#B" n="59"/>cessitas. non negat tamen in paruulis posse ha 
+      <lb ed="#B" n="60"/>peri species influxas / quae non habuerunt 
+      acqui<lb ed="#B" n="61" break="no"/>sitas. Secundo quia multum vilificat animam in 
+      <lb ed="#B" n="62"/>tellectiuam / quae nequit in propriam operationem si 
+      <lb ed="#B" n="63"/>ne his influxis speciebus. Tertio ducit 
+      <lb ed="#B" n="64"/>Tho. in contradictionem: quia tenet prima 
+      par<lb ed="#B" n="65" break="no"/>te summae suae. q. 41. arti. 6. et alibi sepe: quod 
+      <lb ed="#B" n="66"/>duo accidentia eiusdem rationis non possunt esse 
+      <lb ed="#B" n="67"/>in eodem subiectiue: ista autem species influxa et 
+      <lb ed="#B" n="68"/>acquisita sunt eiusdem rationis: quia causa effici 
+      <lb ed="#B" n="69"/>ens non variat effectum formalitur: sicut Adam 
+      <lb ed="#B" n="70"/>et Abel sunt eiusdem rationis: nec acquisita 
+      cor<lb ed="#B" n="71" break="no"/>rumpitur: quia est in subiecto incorruptibili: 
+      <lb ed="#B" n="72"/>receptum autem in recipiente est ad modum 
+      re<lb ed="#B" n="73" break="no"/>cipientis. Tunc subtiliter doc. subtilis 
+      re<lb ed="#B" n="74" break="no"/>spondet alio fundamento Tho. ostendens 
+      <lb ed="#B" n="75"/>eum aut arguere in quattuor terminis / aut 
+      <lb ed="#B" n="76"/>secundo non concludere. scilicet propositum: aut 
+      ter<lb ed="#B" n="77" break="no"/>tio concludere falsum. Textus subtiliter 
+      vi<lb ed="#B" n="78" break="no"/>deatur mihi pronunc dicere sufficit: quod dato quod 
+      <lb ed="#B" n="79"/>anima separata separatis substantiis magis 
+      ap<lb ed="#B" n="80" break="no"/>proximet: non tamen oportet quod sit ipse: nec 
+      <lb ed="#B" n="81"/>tales suscipiat species. Quod autem dicit de 
+      <lb ed="#B" n="82"/>extasi / aut raptu etc. nil ad rem. Alibi est quae 
+      <lb ed="#B" n="83"/>renda ratio: alioquin qui magis dormirent 
+      <lb ed="#B" n="84"/>maiores haberent reuelationes.
+</p>
+               <p xml:id="WuV37d-g03970-d1e1208">
+¶ 
+      Ter<lb ed="#B" n="85" break="no"/>tia conclusio. Si distantia non impedit in se 
+      <lb ed="#B" n="86"/>in verbo dei sper nostras praeces possunt 
+      cognosce<lb ed="#B" n="87" break="no"/>re beati: et pro nobis deum exorare. Prima pars 
+      <lb ed="#B" n="88"/>probatur: quia in totum ens creatum potest separata sub 
+      <lb ed="#B" n="89"/>stantia / nisi aliunde impediatur. Si enim intel 
+      <lb ed="#B" n="90"/>lectus meus potest cognoscere volitionem 
+      me<lb ed="#B" n="91" break="no"/>am: quare non poterit intellectus perfectior 
+      <lb ed="#B" n="92"/>non impeditus. Et si intellectus angelicum 
+      <lb ed="#B" n="93"/>potest noscere substantiam animaem meae / quae sibi est 
+      <lb ed="#B" n="94"/>intimior quam sua intellectio: quare non pote 
+      <lb ed="#B" n="95"/>rit cognoscere naturaliter ipsam 
+      intelle<lb ed="#B" n="96" break="no"/>ctionem. Et si obiiciatur. Quia per Esaia 
+      dici<lb ed="#B" n="97" break="no"/>tur: Abraam nesciuit nos: et isrilis ignorauit 
+      <lb ed="#B" n="98"/>nos. Rursus per prophetam dicitur. Dominus scit cogi 
+      <!--901.xml-->
+      <pb ed="#B" n="442-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>et tationes hominum / quoniam vane sunt. Ad 
+      pri<lb ed="#B" n="2" break="no"/>mum doctor dicit tria. Primum / quod Abraam 
+      <lb ed="#B" n="3"/>non nouit intuitiua noticia: quia nimis 
+      dista<lb ed="#B" n="4" break="no"/>bant. Ideo conclusio mea posuit / si distan 
+      <lb ed="#B" n="5"/>tia non impedit. Secundum quod non fuit tunc beatus: 
+      <lb ed="#B" n="6"/>vel non habuit visionem dei /i qua fiunt huiusmodi reue 
+      <lb ed="#B" n="7"/>lationes. Tertium / quod regularitur beatis talia 
+      <lb ed="#B" n="8"/>reuelantur tamquam pertinentia ad causalitatem eorum 
+      re<lb ed="#B" n="9" break="no"/>spectu beatitudinis aliorum. Ex quo patet secunda 
+      <lb ed="#B" n="10"/>pars conclusionis. Non est enim necesse deum hoc 
+      <lb ed="#B" n="11"/>facere: sed decet magnificentiam eius. Ad se 
+      <lb ed="#B" n="12"/>cundum dico tria. Primum / quod deus nouit vni 
+      <lb ed="#B" n="13"/>uersaliter cogitationes hominium / et ex propria 
+      <lb ed="#B" n="14"/>perfectione: quod non angelus / etiam superior. Secundm 
+      <lb ed="#B" n="15"/>quod nouit vt iudex: quod non angelus. Haec duo 
+      <lb ed="#B" n="16"/>sunt Scoti. Tertium quod nouit antequam fiant. 
+      <lb ed="#B" n="17"/>Hoc tertium addit suus egregius discipulus fra 
+      <lb ed="#B" n="18"/>ter Bamfredus seu amfredus gontrii 
+      li<lb ed="#B" n="19" break="no"/>centiatus in theologia parrhysius / brito na 
+      <lb ed="#B" n="20"/>tione / conuentus corisopitensis / in suis quali. 
+      Ter<lb ed="#B" n="21" break="no"/>tia pars patet. Sicut enim vult deus / inquit Ore 
+      <lb ed="#B" n="22"/>go. in. 1. dialis per merita aliorum alios saluare. 
+      <lb ed="#B" n="23"/>Tm de secundo articulo. 
+      <lb ed="#B" n="24"/>Quantum ad tertium 
+      arti<lb ed="#B" n="25" break="no"/>culum 
+      <lb ed="#B" n="26"/>unt tres difficultates.
+</p>
+               <p xml:id="WuV37d-g03970-d1e1305">
+¶ Prima diff. vtrum 
+      <lb ed="#B" n="27"/>in anima separata remaneat solum species obiecti 
+      <lb ed="#B" n="28"/>aut etiam actus? Dicit frater Landulphus in 
+      <lb ed="#B" n="29"/>praesenti dis. quod etiam actus ex quo possum eius 
+      recor<lb ed="#B" n="30" break="no"/>dari postquam non est.
+</p>
+               <p xml:id="WuV37d-g03970-d1e1316">
+¶ Secunda difficit. quod est id 
+      <lb ed="#B" n="31"/>anxioma / de quo dicit Sco. in. 2. q. contra Tho. de 
+      <lb ed="#B" n="32"/>de dist. secundum speciem inter virtutem acquisitam et in 
+      <lb ed="#B" n="33"/>fusam: et remittit ad librum tertium distin. 36. q. 
+      <lb ed="#B" n="34"/>vnica: iuxta finem tertii arti? Dicendum quod sunt 
+      <lb ed="#B" n="35"/>tria. Est primo axioma: et est idem quod digni 
+      <lb ed="#B" n="36"/>tas secundum huguicionem et Papiam: et dicitur ab 
+      <lb ed="#B" n="37"/>axe. Sic enim dicit Lucanus in primo. 
+      Re<lb ed="#B" n="38" break="no"/>gis ad exemplum mutatur mobile vulgustinus Ali 
+      <lb ed="#B" n="39"/>ter Claudianus in maiori. Componitur or 
+      <lb ed="#B" n="40"/>bis Regis ad exemplum: nec sic inflectere 
+      <lb ed="#B" n="41"/>sensus humanos edicta valent quam vita 
+      re<lb ed="#B" n="42" break="no"/>gentis. Mobile mutatur semper cum principe 
+      <lb ed="#B" n="43"/>vulgus. Secundum est anxioma / ab ango 
+      <lb ed="#B" n="44"/>gis: et sic est sophisma: quia cogit: et sic dicit 
+      <lb ed="#B" n="45"/>Huguicio: et doctor sic intelligit. 
+      Terti<lb ed="#B" n="46" break="no"/>um est auxioma: et potest dici auxioma ab 
+      <lb ed="#B" n="47"/>augeo ges. et tunc est primiloquium et maxima 
+      <lb ed="#B" n="48"/>propositio / vt dicit Papias.
+</p>
+               <p xml:id="WuV37d-g03970-d1e1358">
+¶ Tertia 
+      <lb ed="#B" n="49"/>difficultas. Utrum omes animae defunctorum 
+      <!--901.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>existentes in char itate tam in caelo quam in 
+      pur<lb ed="#B" n="51" break="no"/>gatorio orent pro nobis: Frater Rich. d me 
+      <lb ed="#B" n="52"/>dia villa in praesenti dist. arti. 7. q. 2. dicit quod 
+      <lb ed="#B" n="53"/>sic. Unde debemus magis nos hortari ad 
+      <lb ed="#B" n="54"/>bonum / cum tot habeamus adiutores. Ex quo 
+      <lb ed="#B" n="55"/>patet ad. q. quod videlicet animae beatorum in suis 
+      <lb ed="#B" n="56"/>receptaculis suffragiorum viantium 
+      recordan<lb ed="#B" n="57" break="no"/>tur / et ea cognoscunt. Tunc ad argumenta¬ 
+      </p>
+               <p xml:id="WuV37d-g03970-d1e1384">
+                  <lb ed="#B" n="58"/>¶ Ad primum dicendum / quod dictum philosophintelli 
+      <lb ed="#B" n="59"/>git pro statu isto: alium autem statum non nouit 
+      <lb ed="#B" n="60"/>philosophus
+</p>
+               <p xml:id="WuV37d-g03970-d1e1393">
+¶ Ad secundum dicit fratrum Rich. di. 43. 
+      <lb ed="#B" n="61"/>huius quarti: arti. 7. q. 1. quod beati recordantur 
+      <lb ed="#B" n="62"/>suorum peccatorum: nec tamen est eis paena: quia 
+      gau<lb ed="#B" n="63" break="no"/>dent de misecundia dei remittente: iuxta illud: 
+      <lb ed="#B" n="64"/>Hisecundias domini / in aeteruum cantabo. Ubi  
+      <lb ed="#B" n="65"/>Srego. Quomodo in aeternum misecundias dei ca. 
+      <lb ed="#B" n="66"/>nit qui miseriae non meminit: De hic argu 
+      <lb ed="#B" n="67"/>te contra solutionem doctor tandem dicit tria. 
+      <lb ed="#B" n="68"/>Primum / quod deus potest remouere omnem 
+      cog<lb ed="#B" n="69" break="no"/>nitionem habitualem et actualem peccati a beatis. 
+      <lb ed="#B" n="70"/>Secundum quod potest remouere omnem actualem: da 
+      <lb ed="#B" n="71"/>to quod non remoueat habitualem. Tertium quod 
+      <lb ed="#B" n="72"/>potest impedire / ne actualis peccati cognitio cau 
+      <lb ed="#B" n="73"/>set in beato tristiciam est: quia obiectum beatif 
+      <lb ed="#B" n="74"/>cum tantum causat gaudium quod absorbet omnem 
+      <lb ed="#B" n="75"/>tristiciam contingentem.
+</p>
+               <p xml:id="WuV37d-g03970-d1e1428">
+¶ Ad tertium dicendum 
+      <lb ed="#B" n="76"/>quod intellectus sic est vniuersalis quod etiam sin 
+      <lb ed="#B" n="77"/>gularis: sicut patet in. q. sensus autem solum 
+      <lb ed="#B" n="78"/>est singularis: aut si est velis solum vt est in 
+      <lb ed="#B" n="79"/>singulari: ideo non est simile.
+</p>
+               <p xml:id="WuV37d-g03970-d1e1440">
+¶ Ex ista autem 
+      <lb ed="#B" n="80"/>dist. sicut etc. Prima conclusio est. Bonarum 
+      <lb ed="#B" n="81"/>mentium gaudium ponitur: et supplicium malis 
+      <lb ed="#B" n="82"/>acquiritur. Dicit conclusio / quod animae beatorum post 
+      <lb ed="#B" n="83"/>mortem habent et habebunt gaudium et animae 
+      <lb ed="#B" n="84"/>reproborum supplicium. Et ponitur a principio 
+      <lb ed="#B" n="85"/>dist. vsque ad illud ca. Neque negandum est vt 
+      <lb ed="#B" n="86"/>dicit Augustinus ets.
+</p>
+               <p xml:id="WuV37d-g03970-d1e1458">
+¶ Secunda conclusio. Facta 
+      <lb ed="#B" n="87"/>suffragia prosunt vtiliter facta hic invia / namen 
+      <lb ed="#B" n="88"/>difformitur. Dicit conclusio quod suffragia hic 
+      <lb ed="#B" n="89"/>facta prosunt defunctis / et qualiter. Et 
+      po<lb ed="#B" n="90" break="no"/>nitur ab illo ca. Neque negandum est etc. vsque 
+      <lb ed="#B" n="91"/>ad illud ca. Sed iterum quaeritur de etc.
+</p>
+               <p xml:id="WuV37d-g03970-d1e1471">
+¶ Ter 
+      <lb ed="#B" n="92"/>tia conclusio. Ciues triumphantes orant 
+      <lb ed="#B" n="93"/>pro miseris deum supplicantes pro facto 
+      <lb ed="#B" n="94"/>sceleris. Dicit conclusio / quod ciues 
+      trium<lb ed="#B" n="95" break="no"/>phantis ecclesiae / qui cognoscunt preces 
+      <lb ed="#B" n="96"/>pauperum orent deum pro pauperibus. Et po 
+      <lb ed="#B" n="97"/>nitur ab illo ca. Sed iterum queritur de alio 
+      <lb ed="#B" n="98"/>etc. vsque ad etc. 
+</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

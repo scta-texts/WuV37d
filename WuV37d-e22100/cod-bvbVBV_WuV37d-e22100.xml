@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 18</title>
+            <author ref="#WilliamDeVaurouillon">William de Vaurouillon</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 18</title>
+               <date when="2021-06-19">June 19, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-bvbVBV">Basel 1510</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-06-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="47-v"/>
+            <cb ed="#B" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="WuV37d-e22100"><!-- l1d18 -->
+            <head xml:id="WuV37d-e22100-Hd1e108">Distinctio 18</head>
+            <div xml:id="WuV37d-e22100-Dd1e111" type="circa-textum">
+               <head xml:id="WuV37d-e22100-Hd1e113">Circa textum</head>
+               <p xml:id="WuV37d-e22100-d1e116">
+                  <lb ed="#B" n="45"/>Distinctio decimaoctaua in qua 
+      <lb ed="#B" n="46"/>magister determinat de proprietate 
+      <lb ed="#B" n="47"/>spiritus sancti secundum quam conuenit ei 
+      <lb ed="#B" n="48"/>temporaliter procedere quo proprietas est 
+      <lb ed="#B" n="49"/>donum. 
+      <!--111.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>Ac queritur cum 
+      <lb ed="#B" n="51"/>i spiritus sanctus per quem diuiduntur 
+      <lb ed="#B" n="52"/>dona: ipse sit donu: vtrum 
+      <lb ed="#B" n="53"/>concedendum sit: quod per donum 
+      diuida<lb ed="#B" n="54" break="no"/>tur ac dentur dona etc. Hic signatur 
+      <lb ed="#B" n="55"/>16. distinctio huius primi quae ita conntinual 
+      <lb ed="#B" n="56"/>ad praecedentes. Nam postquam in praecedentibus di 
+      <lb ed="#B" n="57"/>stinctionibus maneries missionis sanctis pi 
+      <lb ed="#B" n="58"/>ritus visibilis et inuisibilis extitit venata 
+      <lb ed="#B" n="59"/>Nunc proprietas sub qua mittitur scilicet donum 
+      <lb ed="#B" n="60"/>erit intimata. Et diuiditur praesens distinctio in 
+      <lb ed="#B" n="61"/>tres partes secundum tres questiones quas 
+      mo<lb ed="#B" n="62" break="no"/>uet: licet possent quattuor reperiri. In 
+      pri<lb ed="#B" n="63" break="no"/>ma quaerit: cum spiritus sanctus sit donum: vtrum sit 
+      <lb ed="#B" n="64"/>donum in quo omne aliud donum donatur. 
+      <lb ed="#B" n="65"/>In secunda: vtrum eadem ratione spiritus sanctus do 
+      <lb ed="#B" n="66"/>num et datum dicatur. In tertia: vtrum spiritus 
+      no<lb ed="#B" n="67" break="no"/>ster dicitur: et ad se vel non referatur. Secun 
+      <lb ed="#B" n="68"/>da incipit ibi. Praeterea diligenter conside 
+      <lb ed="#B" n="69"/>randum est. Tertia ibi. Hic quaeritur filius cum 
+      <lb ed="#B" n="70"/>sit etc. Caeteris partibus indiuisis 
+      manenti<lb ed="#B" n="71" break="no"/>bus. Secunda pars in qua quaeritur. Utrum 
+      <lb ed="#B" n="72"/>eadem ratione spiritus sanctus donum et datum 
+      dica<lb ed="#B" n="73" break="no"/>tur. ibi. Praeterea diligenter considerandum 
+      <lb ed="#B" n="74"/>est: in tres partes diuiditur. In prima ostem 
+      <lb ed="#B" n="75"/>dit: quod non eadem ratione spiritus sanctus datum et 
+      <lb ed="#B" n="76"/>donum dicitur: quia dicitur datus ex tempore: 
+      <lb ed="#B" n="77"/>sed dicitur donum ab aeterno. In secunda con 
+      <lb ed="#B" n="78"/>tra dicta obiicitur quaerendo respectu cuius 
+      <lb ed="#B" n="79"/>ab aeterno non sit donum. In tertia incidens 
+      <lb ed="#B" n="80"/>dubium ex solutione de nouo oritur. scilicet quomod 
+      <lb ed="#B" n="81"/>filius et spiritus sanctus processione sunt deus. Se 
+      <lb ed="#B" n="82"/>cunda incipit ibi. Sed quaeritur cui donabi 
+      <lb ed="#B" n="83"/>lis. Utrum patri et filio. Tertia ibi. Hic oritur 
+      <lb ed="#B" n="84"/>questio: si filius nascendo etc. Et haec est di 
+      <lb ed="#B" n="85"/>uisio praesentis distinctionis in generali. 
+      </p>
+            </div>
+            <div xml:id="WuV37d-e22100-Dd1e213">
+               <head xml:id="WuV37d-e22100-Hd1e215">Quaestio</head>
+               <p xml:id="WuV37d-e22100-d1e218">
+                  <lb ed="#B" n="86"/>¶ Quaestio ista declarat quomodo 
+      beatissi<lb ed="#B" n="87" break="no"/>mus spiritus sit donum datum a quo 
+      <lb ed="#B" n="88"/>singula pro fiuunt et diuiduntur dona qua 
+      <lb ed="#B" n="89"/>a Sco. ista tractatur distinctione Au 
+      <lb ed="#B" n="90"/>tor tame notat defectum thome in prius 
+      <lb ed="#B" n="91"/>mo scripto dist. 16. q. 2. in solutione 
+      <lb ed="#B" n="92"/>vltimi argumentia 
+      <lb ed="#B" n="93"/>Irca quam moue 
+      <lb ed="#B" n="94"/>tur talis titulus quaestionis. Utrum 
+      <lb ed="#B" n="95"/>spiritus beatissimi donum datum: an do 
+      <lb ed="#B" n="96"/>nabilitas constitutiuum sit principium. Et ar¬ 
+      <!--112.xml-->
+      <pb ed="#B" n="48-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>guitur quod sic. triplici medio. Primo sic. Si 
+      <lb ed="#B" n="2"/>cut se habet verbatio passiua ad filium: sic 
+      <lb ed="#B" n="3"/>donum ad spiritum sanctum: sed verbatione passiua 
+      <lb ed="#B" n="4"/>constituitur verbum quod est secunda persona: seu 
+      <lb ed="#B" n="5"/>filius in diuinis. igitur de dono constituitur 
+      <lb ed="#B" n="6"/>spiritus sanctus. maior patet: sicut enim dicitur ver 
+      <lb ed="#B" n="7"/>batio passiua seu verbum: quia per modum pro 
+      <lb ed="#B" n="8"/>cedit intellectus seu declarantis secundum Aug. 
+      <lb ed="#B" n="9"/>sic spiritus sanctus donum dicitur: quia procedit per mo 
+      <lb ed="#B" n="10"/>dum liberalitatis seu voluntatis qua data 
+      <lb ed="#B" n="11"/>dantur. vnde Aug. Spiritus sanctus procedit non 
+      <lb ed="#B" n="12"/>quomodo natus: sed quomodo datus.
+</p>
+               <p xml:id="WuV37d-e22100-d1e277">
+¶ Secundo an 
+      <lb ed="#B" n="13"/>guitur sic. Illud est alicuius constitutiuum 
+      prin<lb ed="#B" n="14" break="no"/>cipium per quod a quocumque alio distinguitur. 
+      <lb ed="#B" n="15"/>Sed spiritus sanctus per donum seu donabilita 
+      <lb ed="#B" n="16"/>tem tam a patre quam a filio distinguitur ergo etc. ma 
+      <lb ed="#B" n="17"/>ior patet. quia eadem sunt principia essendi et 
+      <lb ed="#B" n="18"/>distinguendi. sed minor patet per Aug. 5. 
+      <lb ed="#B" n="19"/>de trini. Sicut in trinitate non est verbum 
+      <lb ed="#B" n="20"/>nisi filius: ita nec donum nisi spiritus sanctus. 
+      </p>
+               <p xml:id="WuV37d-e22100-d1e297">
+                  <lb ed="#B" n="21"/>¶ Tertio arguitur sic. Illud est alicuius 
+      com<lb ed="#B" n="22" break="no"/>stitutiuum principium quod ad producentem seu pro 
+      <lb ed="#B" n="23"/>ducentes refertur seu quo procedit: sed do 
+      <lb ed="#B" n="24"/>nabilitate refertur spiritus sanctus ad patrem et filis 
+      <lb ed="#B" n="25"/>um: ergo etc. maior patet autioritate boe 
+      <lb ed="#B" n="26"/>tii in lib de trini. essentia continet vnitatem: re 
+      <lb ed="#B" n="27"/>latio multiplicat trinitatem. Sed minor pro 
+      <lb ed="#B" n="28"/>batur auctoritate Aug. 5. de trini. Quia spiritussan 
+      <lb ed="#B" n="29"/>ctus procedebat vt esset donabilis iam do 
+      <lb ed="#B" n="30"/>lum erat. In oppositum arguitur auctoritate Aug. 
+      <lb ed="#B" n="31"/>de trini. eo donum est quo datur id est 
+      dabi<lb ed="#B" n="32" break="no"/>le est. Ex hoc arguo sic. Nulla persona di 
+      <lb ed="#B" n="33"/>uina constitustur per respectum ad creatu: am 
+      <lb ed="#B" n="34"/>sed donabilitas dicit respectum ad 
+      creatu<lb ed="#B" n="35" break="no"/>ram: vt patet: quia ad id cui donatio fienda 
+      <lb ed="#B" n="36"/>est: igitur non constituit spiritum sanctum: rraior patet 
+      <lb ed="#B" n="37"/>quia quaelibet persona diuina producta prius aspi 
+      <lb ed="#B" n="38"/>cit id a quo producitur: quam creaturam: per primam 
+      <lb ed="#B" n="39"/>autem relationem in esse est constituta¬ 
+      </p>
+               <p xml:id="WuV37d-e22100-d1e341">
+                  <lb ed="#B" n="40"/>¶ In ista quaestione sunt tres articuli. 
+      <lb ed="#B" n="41"/>Primus est terminorum declaratiuus 
+      <lb ed="#B" n="42"/>Quorum Secundus est quaestionis responsiuus. 
+      <lb ed="#B" n="43"/>Tertius est terminorum motiuus. 
+      </p>
+               <p xml:id="WuV37d-e22100-d1e353">
+                  <lb ed="#B" n="44"/>¶ Quantum ad primum articu 
+      <lb ed="#B" n="45"/>ium: 
+      <lb ed="#B" n="46"/>tres termini declarandi sunt: donum / datum  
+      <lb ed="#B" n="47"/>et donabilitas. Unde donum secundum Tho. in 
+      scri<lb ed="#B" n="48" break="no"/>pto: hac distinctione. q. 2. a dato triplicite 
+      <lb ed="#B" n="49"/>differt.
+</p>
+               <p xml:id="WuV37d-e22100-d1e369">
+¶ Primo qua ad consignificatum 
+      <!--112.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>Datum enim quia est participium timphus significat: 
+      <lb ed="#B" n="51"/>sed donum quia est nomen non.
+</p>
+               <p xml:id="WuV37d-e22100-d1e380">
+¶ 
+      Secun<lb ed="#B" n="52" break="no"/>do differunt donum et datum quo ad significatum: 
+      <lb ed="#B" n="53"/>quia donum secundum philosophum dicitur datio irredibilis: 
+      <lb ed="#B" n="54"/>vnde qui dat vt accipiat: aut tentus timore 
+      <lb ed="#B" n="55"/>non dat donum: donum enim nullam requirit 
+      retri<lb ed="#B" n="56" break="no"/>butionem: sed sola fit liberalitate voluntatis  
+      <lb ed="#B" n="57"/>vt auicenna. 6. metha. innuit.
+</p>
+               <p xml:id="WuV37d-e22100-d1e396">
+¶ Tertio 
+      <lb ed="#B" n="58"/>differunt in modo significandi: quia donum 
+      <lb ed="#B" n="59"/>significat per modum habitus: sed datum 
+      per<lb ed="#B" n="60" break="no"/>modum actus. Noto tamen secundum doc. deuotum 
+      <lb ed="#B" n="61"/>q. 2. huius distinctionis quod datum et donum se 
+      <lb ed="#B" n="62"/>habent ex additione vnius super aliud tamen 
+      <lb ed="#B" n="63"/>diuersimode. Si enim dicatur simpliciter da 
+      <lb ed="#B" n="64"/>tum quod actu alteri voluntate tribuitur: tunc 
+      do<lb ed="#B" n="65" break="no"/>num super datum addit irredibilitatem: quia nul 
+      <lb ed="#B" n="66"/>lam expectat retributionem. Si iterum dica 
+      <lb ed="#B" n="67"/>tur donum quod solum est in habitu: tunc datum 
+      <lb ed="#B" n="68"/>addit actum quando de facto donum donatur. No per 
+      <lb ed="#B" n="69"/>to tertio quo ad hoc quod aliquotiens specifi 
+      <lb ed="#B" n="70"/>catur datum quo ad dona naturae: sed donum 
+      <lb ed="#B" n="71"/>solum dicitur in donis gratie. vt glo. habet 
+      <lb ed="#B" n="72"/>super illo verbo Iacob. Omne datum opti  
+      <lb ed="#B" n="73"/>mum: et omne donum perfectum de sursum est. 
+      <lb ed="#B" n="74"/>Noto secundo et principaliter: quod ista tria: 
+      <lb ed="#B" n="75"/>donum / datum / et donabilitas differunt in hoc 
+      <lb ed="#B" n="76"/>potest enim considerari illud quod donum dicitur tri 
+      <lb ed="#B" n="77"/>pliciter: aut secundum habitudinem: aut secundum apti¬ 
+      </p>
+               <p xml:id="WuV37d-e22100-d1e442">
+                  <lb ed="#B" n="78"/>¶ dinem: aut secundum actum. Si secundum habitudinem 
+      <lb ed="#B" n="79"/>dicitur donum. Si secundum aptitudinem dicitur 
+      <lb ed="#B" n="80"/>don. b: ile: Si secundum actum dicitur datum. 
+      </p>
+               <p xml:id="WuV37d-e22100-d1e451">
+                  <lb ed="#B" n="81"/>¶ Tertio noto principaliter: quod ista tria 
+      <lb ed="#B" n="82"/>in diuinis possunt capi tripliciter: vno mo 
+      <lb ed="#B" n="83"/>do vt solum dicunt communicationem seu 
+      <lb ed="#B" n="84"/>actu seu potentia: et isto modo tam pater 
+      <lb ed="#B" n="85"/>quam filius quam spiritus sanctus dant se nobis et 
+      <lb ed="#B" n="86"/>sunt dona. Unde de patre dicit ad 
+      darda<lb ed="#B" n="87" break="no"/>num Augustinus quod dat et datur. Secundo possunt 
+      <lb ed="#B" n="88"/>capi vt dantur ab aliquo habente 
+      auctori<lb ed="#B" n="89" break="no"/>tatem. Et sic solum dicuntur de filio et spiritu 
+      <lb ed="#B" n="90"/>sancto: quia pater a nullo est habente au 
+      <lb ed="#B" n="91"/>ctoritatem. Tertio possunt capi vt 
+      dicun<lb ed="#B" n="92" break="no"/>tur de aliquo qui procedit de aliquo 
+      ba<lb ed="#B" n="93" break="no"/>bente auctoritatem cuius processio est per modum 
+      <lb ed="#B" n="94"/>amoris: et sic sunt propria personae spiritus sancti 
+      <lb ed="#B" n="95"/>quo procedit a patre et filio quae dicuntur habere au 
+      <lb ed="#B" n="96"/>ctoritatem in processione spiritus sancti. secundum hilari  
+      <lb ed="#B" n="97"/>um. Unde proprie donum tunc dicitur quando 
+      amo<lb ed="#B" n="98" break="no"/>re consummatur: vnde patet quod tam donum quam da¬ 
+      <!--113.xml-->
+      <pb ed="#B" n="48-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>tum et donabile habent triplicem respectum. 
+      Pri<lb ed="#B" n="2" break="no"/>mo enim dicunt respectum ad illud a quo proce 
+      <lb ed="#B" n="3"/>dit id quod datur. Secundo ad id quod datur 
+      <lb ed="#B" n="4"/>Tertio ad id cui donatio fienda est. 
+      Pri<lb ed="#B" n="5" break="no"/>mus autem respectus est realis. Sed duo alii 
+      <lb ed="#B" n="6"/>sunt ratiois: quia eiusdem ad se non est relatio rea 
+      <lb ed="#B" n="7"/>lis: nec dei ad creaturam. Ex quo patet quod 
+      <lb ed="#B" n="8"/>ista tria loquendo proprie dicunt vnum per 
+      ac<lb ed="#B" n="9" break="no"/>cidens cum includant ens reale et rationis quae 
+      <lb ed="#B" n="10"/>vnum non faciunt per se. Et hoc de primo articlo. 
+      <lb ed="#B" n="11"/>Quo ad secundum articulum 
+      <lb ed="#B" n="12"/>sunt tres 
+      <lb ed="#B" n="13"/>conclusiones.
+</p>
+               <p xml:id="WuV37d-e22100-d1e528">
+¶ Prima donum 
+      excellem<lb ed="#B" n="14" break="no"/>tissimum quod est spiritu sanctus formaliter a spi 
+      <lb ed="#B" n="15"/>ratione differt passiua. Prima pars proba 
+      <lb ed="#B" n="16"/>tur: in quolibet genere est dare vnum quod est 
+      <lb ed="#B" n="17"/>maxime tale secundum philosophum. 2. metha. sicut in ge 
+      <lb ed="#B" n="18"/>nere calidorum vnum maxime calidum: et in ge 
+      <lb ed="#B" n="19"/>nere verorum vnum maxime verum. Igitur a 
+      si<lb ed="#B" n="20" break="no"/>mili in genere donorum vnum quod est maxime 
+      <lb ed="#B" n="21"/>donum seum excellentissimum et illud est quod procedit 
+      <lb ed="#B" n="22"/>modo libero seclusa quacumque retributionis 
+      <lb ed="#B" n="23"/>expectatione. Sed secunda pars quod istud do 
+      <lb ed="#B" n="24"/>num dicatur spiritus sanctus: probatur. donum enim 
+      <lb ed="#B" n="25"/>vt patuit loquendo proprie dicit tria. 
+      Re<lb ed="#B" n="26" break="no"/>spectum ad id a quo procedit: et sic non conue 
+      <lb ed="#B" n="27"/>nit patri: qui a nullo est. Secundo modum 
+      <lb ed="#B" n="28"/>processionis: et sic non conuenit filio: quia filius per 
+      <lb ed="#B" n="29"/>modum procedit naturae: donum vero per 
+      amo<lb ed="#B" n="30" break="no"/>ris modum: vnde radix doni est amor: cum igitur 
+      <lb ed="#B" n="31"/>amor attribuatur spirituisancto: igitur et donum: 
+      <lb ed="#B" n="32"/>vnde in hymno vbi nominantur nomina spiritus sancti. 
+      <lb ed="#B" n="33"/>Qui paraclitus diceris etc. Tertia pars quod 
+      <lb ed="#B" n="34"/>donum loquendo formaliter differat a spira 
+      <lb ed="#B" n="35"/>tione passiua: probatur. nullum ens rationis 
+      <lb ed="#B" n="36"/>formaliter est idem cum ente reali: sed donum 
+      <lb ed="#B" n="37"/>dicitur ens rationis: spiratio vero ens 
+      rea<lb ed="#B" n="38" break="no"/>le. igitur non sunt idem formaliter. Maior est 
+      <lb ed="#B" n="39"/>nota de se: cum ens diuiditur in ens reale et 
+      <lb ed="#B" n="40"/>rationis sicut in oppositas differentias. 
+      <lb ed="#B" n="41"/>Sed minor probatur primo quod ens rationis sit 
+      <lb ed="#B" n="42"/>donum: quia dicit respectum ad creaturas: ideo 
+      <lb ed="#B" n="43"/>enim donum: quia alicui donabile est: nec 
+      opor<lb ed="#B" n="44" break="no"/>tet fugere: quod ideo donabile est: quia donatur 
+      <lb ed="#B" n="45"/>a patre et filio et econtra: quia etiam nobis 
+      do<lb ed="#B" n="46" break="no"/>nabilis est: vnde dicitur donum nostrum. Sed quod 
+      <lb ed="#B" n="47"/>spiratio dicat ens reale. probatur ex au 
+      <lb ed="#B" n="48"/>ctoritate Aug. in li. de doc. christiana: sunt 
+      <lb ed="#B" n="49"/>enim secundum eum tres res relatiue: et vna scilicet ter¬ 
+      <!--113.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>tia ab ista spiratione res dicitur. Ex quo pa 
+      <lb ed="#B" n="51"/>tet: quod sanctus Tho. in scripto. q. 2. huius 
+      di<lb ed="#B" n="52" break="no"/>stinctionis minus dicit: in solutione enim 
+      vl<lb ed="#B" n="53" break="no"/>timi argumenti innuit: quod proprietates 
+      spiri<lb ed="#B" n="54" break="no"/>tus sancti solum differunt secundum modum significan 
+      <lb ed="#B" n="55"/>di: ita quod donum seu donabilitas non differt 
+      <lb ed="#B" n="56"/>ab amore seu spiratione passiua nisi in mo 
+      <lb ed="#B" n="57"/>do significandi. Sed cum reuerentia tanti do 
+      <lb ed="#B" n="58"/>ctoris patet oppositum: nam secluso nostro modo 
+      <lb ed="#B" n="59"/>intelligendi donabilitas est respectus rationis 
+      <lb ed="#B" n="60"/>et spiratio passiua ens reale: quod etiam dicit quod 
+      <lb ed="#B" n="61"/>amor est proprietas spiritus sancti: non videtur 
+      cu<lb ed="#B" n="62" break="no"/>amor sit actus essentialis: et per consequens 
+      prece<lb ed="#B" n="63" break="no"/>dat productionem spiritus sancti: sicut essetialia 
+      <lb ed="#B" n="64"/>notionalia: nisi dicat quod in diuins est amor 
+      <lb ed="#B" n="65"/>duplex: scilicet essentialis et notionalis: et ipse 
+      <lb ed="#B" n="66"/>intelligit de notionali: sed de hoc als fiet 
+      <lb ed="#B" n="67"/>sermo.
+</p>
+               <p xml:id="WuV37d-e22100-d1e652">
+¶ Secunda conclusio: ante 
+      respe<lb ed="#B" n="68" break="no"/>ctum donabilitatus seu doni spiritus sanctissimus 
+      <lb ed="#B" n="69"/>piratione passiua intelligitur inesse constitu 
+      <lb ed="#B" n="70"/>tus. Probatur ista conclusio. Quandocumque aliqua 
+      <lb ed="#B" n="71"/>potentia habet duo obiecta: vnum 
+      primari<lb ed="#B" n="72" break="no"/>um: reliquum secundarium: prius operatur circa 
+      <lb ed="#B" n="73"/>primarium quam circa secundarium. Sed diuina 
+      <lb ed="#B" n="74"/>voluntas habet duo obiecta. Primarium 
+      <lb ed="#B" n="75"/>scilicet essentiam diuinam. Secundarium scilicet creatu 
+      <lb ed="#B" n="76"/>ras in ipsa relucentes. igitur prius 
+      operabi<lb ed="#B" n="77" break="no"/>tur circa primum obiectum scilicet essentiam diuinam: 
+      <lb ed="#B" n="78"/>quam circa secundarium scilicet creaturas. Cum igitur 
+      <lb ed="#B" n="79"/>spiritus producatur de diuina essentia vt 
+      pa<lb ed="#B" n="80" break="no"/>tuit: et ista donabilitas consurgat 
+      respicien<lb ed="#B" n="81" break="no"/>do obiectum secundarium sequitur propositum. vnde 
+      <lb ed="#B" n="82"/>quo ad relationes seclusis distinctionibus 
+      <lb ed="#B" n="83"/>et ordinibus quae sunt ante notiones reperio 
+      <lb ed="#B" n="84"/>triplicem ordinem. In primo ordine sunt 
+      re<lb ed="#B" n="85" break="no"/>lationes personas constituentes: sicut sunt 
+      <lb ed="#B" n="86"/>generatio actiua et passiua: spiratio 
+      acti<lb ed="#B" n="87" break="no"/>ua et passiua. In secundo ordine sunt 
+      rela<lb ed="#B" n="88" break="no"/>tiones communes: sicut sunt: aequalitas / simili 
+      <lb ed="#B" n="89"/>tudo: et identitas: de quibus in sequenti di 
+      <lb ed="#B" n="90"/>stinctione. In tertio ordine sunt relatio 
+      <lb ed="#B" n="91"/>nes dei ad creaturam: et omnes iste sunt rationis 
+      <lb ed="#B" n="92"/>sicut est donum et donabilitas.
+</p>
+               <p xml:id="WuV37d-e22100-d1e709">
+¶ Tertia 
+      <lb ed="#B" n="93"/>conclusio: donabilitate seu dono / siue dato 
+      <lb ed="#B" n="94"/>spiritus sanctus qui donum nostrum dicitur in esse non 
+      <lb ed="#B" n="95"/>constituitur. Probatur conclusio. Quandocumque ante 
+      <lb ed="#B" n="96"/>aduentum alicuius aliquid intelligitur 
+      constitu<lb ed="#B" n="97" break="no"/>tum in esse: per eius aduentum iterum in esse 
+      <lb ed="#B" n="98"/>non constituitur: sed per praecedentem conclusionem ante 
+      <!--114.xml-->
+      <pb ed="#B" n="49-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>huiusmodi donum seu donabilitatem intelligitur 
+      <lb ed="#B" n="2"/>spiritus sanctus in esse constitutus: igitur per id non con 
+      <lb ed="#B" n="3"/>stituitur. Maior patet ex hoc: quia enim 
+      spira<lb ed="#B" n="4" break="no"/>timo actiua aduenit patri et filio iam 
+      constitu<lb ed="#B" n="5" break="no"/>tis generatione actiua et passiua: ideo eos 
+      <lb ed="#B" n="6"/>non constituit: fed dicitur aduenticia seu quasi 
+      <lb ed="#B" n="7"/>aduenticia. Et confirmatur: quia constitui aliquo 
+      <lb ed="#B" n="8"/>posteriori nequit quod antea est constitutum. 
+      <lb ed="#B" n="9"/>Et hoc dicitur de secundo articulo. 
+      <lb ed="#B" n="10"/>Quantum ad tertium 
+      articu<lb ed="#B" n="11" break="no"/>ium sunt 
+      <lb ed="#B" n="12"/>tres difficultates iuxta tres conclusiones 
+      </p>
+               <p xml:id="WuV37d-e22100-d1e757">
+                  <lb ed="#B" n="13"/>¶ Prima difficultas. Si quotiens da 
+      <lb ed="#B" n="14"/>tur aliquod donum per spiritum qui est primum donum: 
+      <lb ed="#B" n="15"/>vtrum etiam ipsum primum donum detur? Dico secundum 
+      <lb ed="#B" n="16"/>doctorem deuotum. q. I. huius distinctionis: quod 
+      <lb ed="#B" n="17"/>dona patri doni sunt in triplici differentia. 
+      <lb ed="#B" n="18"/>Quedam enim sunt cum quibus primum donum nun 
+      <lb ed="#B" n="19"/>quam datur: sicut est timor seruilis: cum quo non 
+      <lb ed="#B" n="20"/>stat spiritus sanctus: et tamen est donum eius. Secunda 
+      <lb ed="#B" n="21"/>sunt cum quibus semper datur primum donum: si 
+      <lb ed="#B" n="22"/>cut sunt charitas et sapientia: vt est septimum 
+      <lb ed="#B" n="23"/>donum in Esaia numeratum. Tertia sunt cum 
+      <lb ed="#B" n="24"/>quibus aliquotiens datur / aliquotiens non primum 
+      <lb ed="#B" n="25"/>donum: sicut sunt fides et spes: quae sunt in iu 
+      <lb ed="#B" n="26"/>stis et peccatoribus.
+</p>
+               <p xml:id="WuV37d-e22100-d1e790">
+¶ Secunda difficul 
+      <lb ed="#B" n="27"/>tas. quia videtur quod donabilitas ista seu 
+      do<lb ed="#B" n="28" break="no"/>num / exquo aduenit post esse completum: sancti 
+      <lb ed="#B" n="29"/>spiritus sit accidens: et ita quod sit accidens in 
+      diui<lb ed="#B" n="30" break="no"/>nis: quod negat magister dist. §. huius primi. Di 
+      <lb ed="#B" n="31"/>co quod secundum doctorem subtilem distinctione. 2. hu 
+      <lb ed="#B" n="32"/>ius primi. q. 4. et. distinctione. 17. q. 3. 
+      Ac<lb ed="#B" n="33" break="no"/>cidens capitur dupliciter. Et ego addo ter 
+      <lb ed="#B" n="34"/>tium / ex romano Egidio super lib. Clencho 
+      <lb ed="#B" n="35"/>rum: et dico tripliciter. Primo enim capii 
+      <lb ed="#B" n="36"/>prout diuiditur contra substantiam: et sic 
+      ca<lb ed="#B" n="37" break="no"/>pit Porphyrius in suis Isagogis dum di 
+      <lb ed="#B" n="38"/>cit. Accidens est quod adest vel abest 
+      prae<lb ed="#B" n="39" break="no"/>ter subiecti corruptionem: et sic non est 
+      acci<lb ed="#B" n="40" break="no"/>dens in diuinis. Secundo dicitur accidens 
+      <lb ed="#B" n="41"/>prout superius accidit inferiori: et sic 
+      capi<lb ed="#B" n="42" break="no"/>tur in libro Clenchorum primo et secundo / in 
+      <lb ed="#B" n="43"/>fallacia accidentis. Tertio modo prout 
+      inferi<lb ed="#B" n="44" break="no"/>us accidit superiori: vel ei quod est extra 
+      <lb ed="#B" n="45"/>essentiam alicuius: et sic capit Porphyrius dum 
+      <lb ed="#B" n="46"/>dicit: quod differentia accidit generi. Et his 
+      <lb ed="#B" n="47"/>duobus modis nihil probibet accidens esse in 
+      <lb ed="#B" n="48"/>diuinis: nam hoc modo ens accidit substantiae: 
+      <lb ed="#B" n="49"/>et spiratio actiua generationi passiuae. 
+      <!--114.xml-->
+      <cb ed="#B" n="b"/>
+               </p>
+               <p xml:id="WuV37d-e22100-d1e847">
+                  <lb ed="#B" n="50"/>¶ Tertia difficultas. Quia dicitur in 
+      <lb ed="#B" n="51"/>conclusione tertia: quod bene dicitur spiritus noster 
+      <lb ed="#B" n="52"/>et donum nostrum: quo sciemus quando in diuinis 
+      <lb ed="#B" n="53"/>bene addimus aut meum aut nostrum / et consi 
+      <lb ed="#B" n="54"/>milia? Dico quod tripliciter diuina ad nos 
+      <lb ed="#B" n="55"/>comparantur. Aut ratione causae: aut secundo ratione 
+      <lb ed="#B" n="56"/>forme: aut tertio ratione correlationis. Si 
+      <lb ed="#B" n="57"/>ratione causae: sic possumus addere meum et 
+      <lb ed="#B" n="58"/>nostrum / et consimilia: et hoc tripliciter. Primo in 
+      <lb ed="#B" n="59"/>ratione causae efficientis: sicut dicimus / de 
+      <lb ed="#B" n="60"/>noster / creator noster. Et secundo in 
+      rati<lb ed="#B" n="61" break="no"/>one causae exemplaris: sicut dicimus exemplat 
+      <lb ed="#B" n="62"/>nostrum de deo loquentes. Et tertio in ratione 
+      <lb ed="#B" n="63"/>finis: sicut dicimus: deus est bonum nostrum et 
+      <lb ed="#B" n="64"/>beatitudo nostra. Si autem capiamus diuina 
+      <lb ed="#B" n="65"/>in ratione formae: tunc non possumus addere: 
+      <lb ed="#B" n="66"/>nec meum / nec nostrum: et hoc est quando signantur in 
+      <lb ed="#B" n="67"/>abstractione: vnde non dicimus de dei sapien 
+      <lb ed="#B" n="68"/>tia. Ista est sapientia nostra: nec de essentia: 
+      <lb ed="#B" n="69"/>Ista est essentia nostra. Tertio comparantur ad  
+      <lb ed="#B" n="70"/>nos diuina in ratione correlationis: et tunc ad 
+      <lb ed="#B" n="71"/>dere possumus vt dicimus: dominus noster 
+      re<lb ed="#B" n="72" break="no"/>fugium nostrum etc. Sed quando relationes sunt 
+      <lb ed="#B" n="73"/>ad intra / nunquam: vnde non dicimus de filio 
+      dei<lb ed="#B" n="74" break="no"/>filius noster. De spiritusancto aliud est: quia quando 
+      <lb ed="#B" n="75"/>dicimus / spiritus noster: tunc spiritus dicitur ab 
+      in<lb ed="#B" n="76" break="no"/>spiratione: quasi nobis per eum bona 
+      inspi<lb ed="#B" n="77" break="no"/>rantur: et ita locum tenet causae. Unde tunc non di 
+      <lb ed="#B" n="78"/>citur a spiratione passiua: et sic de dono 
+      di<lb ed="#B" n="79" break="no"/>citur donum nostrum: quia donum dicit 
+      respe<lb ed="#B" n="80" break="no"/>ctum ad nos. Et sic patet ad quaestionem: quod 
+      <lb ed="#B" n="81"/>videlicet nec dono nec dato seu 
+      donabi<lb ed="#B" n="82" break="no"/>litate spiritus constituitur beatissimus. Et tunc 
+      <lb ed="#B" n="83"/>ad argumenta.
+</p>
+               <p xml:id="WuV37d-e22100-d1e924">
+¶ Ad primum. Dico ad mi 
+      <lb ed="#B" n="84"/>norem: quod nec verbatione / inquantum dicit 
+      de<lb ed="#B" n="85" break="no"/>clarationem creaturarum constttuitur filius: 
+      <lb ed="#B" n="86"/>nec spiritus dono / inquantum respectum dicit ad 
+      <lb ed="#B" n="87"/>creaturas: cum ambo sint entia rationis: sed  
+      <lb ed="#B" n="88"/>solum verbatio consequitur filium in esse 
+      constitu<lb ed="#B" n="89" break="no"/>tum / et donum spiritum sanctum: de quo amplius 
+      <lb ed="#B" n="90"/>distinctione. 27. erit sermo.
+</p>
+               <p xml:id="WuV37d-e22100-d1e942">
+¶ Ad secun 
+      <lb ed="#B" n="91"/>dum: dico ad maiorem: quod est duplex 
+      distin<lb ed="#B" n="92" break="no"/>guens: primarium et secundarium. Exemplum. 
+      <lb ed="#B" n="93"/>Sicut homo primo rationalitate a 
+      leonedistin<lb ed="#B" n="94" break="no"/>guitur / secundo risibilitate. Tunc dico quod illud est 
+      <lb ed="#B" n="95"/>constitutiuum alicuius quod ipsum primo distinguit: 
+      <lb ed="#B" n="96"/>sicut rationale constituit hominem: sed non quod  
+      <lb ed="#B" n="97"/>secundo: sicut risibile non constituit hominem 
+      quam<lb ed="#B" n="98" break="no"/>uis distinguat. Sic in proposito: quamuis spiritus 
+      <!--115.xml-->
+      <pb ed="#B" n="49-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>distinguitur per donabilitatem a patre et filio: 
+      <lb ed="#B" n="2"/>non tamen primo / sed secundo: immo primo distinguitur 
+      <lb ed="#B" n="3"/>spiratione passiua: ideo non currit argumen 
+      <lb ed="#B" n="4"/>tum.
+</p>
+               <p xml:id="WuV37d-e22100-d1e977">
+¶ Ad tertium dico ad maiorem: quod vera est 
+      <lb ed="#B" n="5"/>quando illud solum nominat illam processionem sicut spi 
+      <lb ed="#B" n="6"/>ratio passiua: sed quando addit aliud / non opor 
+      <lb ed="#B" n="7"/>tet: et maxime posterius: sicut est in 
+      proposito<lb ed="#B" n="8" break="no"/>quia licet donabilitas praexigat illam spiratio 
+      <lb ed="#B" n="9"/>nem passiuam: tamen cum hoc (vt dictum est) sepius 
+      <lb ed="#B" n="10"/>nominat vnum respectum rationis: ideo non currit 
+      ar<lb ed="#B" n="11" break="no"/>gumentum. Et sic patet de quaestione.
+</p>
+            </div>
+            <div xml:id="WuV37d-e22100-Dd1e996" type="et-conclusiones">
+               <head xml:id="WuV37d-e22100-Hd1e998">Conclusiones</head>
+               <p xml:id="WuV37d-e22100-d1e1001">
+¶ Ex ista 
+      <lb ed="#B" n="12"/>vero distinctioe tres eliciuntur conclusiones. 
+      <lb ed="#B" n="13"/>Quarum prima est. Dono primario quod dei 
+      di<lb ed="#B" n="14" break="no"/>gitus est / augmentatio fit donum penitus: 
+      di<lb ed="#B" n="15" break="no"/>cit conclusio quod per primum donum quod est 
+      spiritussan<lb ed="#B" n="16" break="no"/>ctus et digitus dei: caetera dona dantur. 
+      <lb ed="#B" n="17"/>Et hanc deducit magister a pincipio 
+      di<lb ed="#B" n="18" break="no"/>stinctionis / vsque ad illud capitulum: Praeter 
+      <lb ed="#B" n="19"/>ea diligenter considerandum est.
+</p>
+               <p xml:id="WuV37d-e22100-d1e1021">
+¶ 
+      Secun<lb ed="#B" n="20" break="no"/>da conclusio est. Eternaliter donum paracle 
+      <lb ed="#B" n="21"/>tus / sed temporaliter est datum funditus. Dicit 
+      <lb ed="#B" n="22"/>conclusio / quod spiritus sanctus dicitur donum ab 
+      <lb ed="#B" n="23"/>aeterno / sed datum ex tempore. Et hanc 
+      dedu<lb ed="#B" n="24" break="no"/>cit magister ab illo ca. Praeterea diligen 
+      <lb ed="#B" n="25"/>ter considerandum est: vsque ad illud ca. Hic 
+      <lb ed="#B" n="26"/>quaeritur vtrum et filius cum sit nobis etc.
+</p>
+               <p xml:id="WuV37d-e22100-d1e1039">
+¶ Ter 
+      <lb ed="#B" n="27"/>tia conclusio. Sicut spiritus noster dicitur / non 
+      <lb ed="#B" n="28"/>asseritur noster genitus. Dicit conclusio / qua 
+      <lb ed="#B" n="29"/>non dicitur de filio dei noster filius / sicut de spiritu 
+      <lb ed="#B" n="30"/>sancto noster spiritus. Hanc deducit magister ab 
+      <lb ed="#B" n="31"/>illo ca. Hic quaeritur vtrum et filius cum sit etc. 
+      <lb ed="#B" n="32"/>vsque ad finem distinctionis.
+</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,634 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 30</title>
+            <author ref="#WilliamDeVaurouillon">William de Vaurouillon</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 30</title>
+               <date when="2021-06-19">June 19, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-bvbVBV">Basel 1510</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-06-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="202-v"/>
+            <cb ed="#B" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="WuV37d-e94362"><!-- l2d30 -->
+            <head xml:id="WuV37d-e94362-Hd1e108">Distinctio 30</head>
+            <div xml:id="WuV37d-e94362-Dd1e111" type="circa-textum">
+               <head xml:id="WuV37d-e94362-Hd1e113">Circa textum</head>
+               <p xml:id="WuV37d-e94362-d1e116">
+      <!--422.xml-->
+                  <pb ed="#B" n="203-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>Distinctio. 30. docet de 
+      natura<lb ed="#B" n="2" break="no"/>peccati originalis et quomodo hunc 
+      <lb ed="#B" n="3"/>mundum intrauit. 
+      <lb ed="#B" n="4"/>Nsuperioribus 
+      <lb ed="#B" n="5"/>insinuatum est licem ex parte 
+      <lb ed="#B" n="6"/>no enim perfecte sufficimus 
+      <lb ed="#B" n="7"/>exponere) qualiter 
+      pri<lb ed="#B" n="8" break="no"/>mus homo deliquerit. 
+      <lb ed="#B" n="9"/>Hic signatur. 36. distinctio huius secundi: quae 
+      <lb ed="#B" n="10"/>sic continuatur ad praecedentes: Nam postquam a 
+      <lb ed="#B" n="11"/>21. dis. inclusiue vsque ad istam peccatum est 
+      <lb ed="#B" n="12"/>declaratum patris primarii: Nunc in ista 
+      <lb ed="#B" n="13"/>distinctione incipit venari naturam 
+      origi<lb ed="#B" n="14" break="no"/>nalis vitii. Et habet diuidi in tres partes prin 
+      <lb ed="#B" n="15"/>cipales. In prima quid sit subtiliter 
+      inuesti<lb ed="#B" n="16" break="no"/>gatur. In secunda notat veraciter vtrum 
+      tradu<lb ed="#B" n="17" break="no"/>catur. In tertia elicit qualiter ipsum deleatur 
+      <lb ed="#B" n="18"/>prima in principio: secunda dis. 31. ibi: Nunc 
+      super<lb ed="#B" n="19" break="no"/>est inuestigare etc. tertia dis. 32. ibi. Quo 
+      <lb ed="#B" n="20"/>niam supra dictum est etc. Prima rursus par 
+      <lb ed="#B" n="21"/>ticula quae est praesens distin. In qua quid sit 
+      pec<lb ed="#B" n="22" break="no"/>catum originale subtilitur inuestigatur: in tres 
+      <lb ed="#B" n="23"/>partes diuiditur. In prima praemittitur pars 
+      prohe<lb ed="#B" n="24" break="no"/>mialis. In secunda subiungitur textus principa 
+      <lb ed="#B" n="25"/>lis. In tertia quaestio sequitur incidentalis: 
+      pri<lb ed="#B" n="26" break="no"/>ma in principio: secunda ibi: Hic primo videndum 
+      <lb ed="#B" n="27"/>est etc. tertia ibi: Ad hoc autem quod dicimus 
+      <lb ed="#B" n="28"/>in etc. Prima autem et vltima partibus 
+      indi<lb ed="#B" n="29" break="no"/>uisis manentibus: sola secunda particula in qua 
+      <lb ed="#B" n="30"/>subiungitur textus principalis: in tres partes 
+      <lb ed="#B" n="31"/>diuiditur. In prima originalis criminis quae 
+      <lb ed="#B" n="32"/>ritur entitas. In secunda vi quaerit scrutaminis 
+      <lb ed="#B" n="33"/>an sit penalitas. In tertia lex panditur ma 
+      <lb ed="#B" n="34"/>li regiminis et concupiscibilitas: prima in prin 
+      <lb ed="#B" n="35"/>cipio: secunda ibi: Quod diligenter inuestigandum 
+      <lb ed="#B" n="36"/>est etc. tertia ibi: Nunc superest videre 
+      quid<lb ed="#B" n="37" break="no"/>sit peccatum etc. haec est diui sio etc. 
+      </p>
+            </div>
+            <div xml:id="WuV37d-e94362-Dd1e206">
+               <head xml:id="WuV37d-e94362-Hd1e208">Quaestio</head>
+               <p xml:id="WuV37d-e94362-d1e211">
+                  <lb ed="#B" n="38"/>¶ Quaestio ista declarat de peccato 
+      <lb ed="#B" n="39"/>originali quatum ad entitate 
+      quiddi<lb ed="#B" n="40" break="no"/>tate et traductiom. Et plures 
+      docto<lb ed="#B" n="41" break="no"/>res notat puto henricum: magistrum 
+      hu<lb ed="#B" n="42" break="no"/>gone: thomam bonauentura. Et 
+      ha<lb ed="#B" n="43" break="no"/>betur a Sco in isto loco. q. vnica. 
+      <lb ed="#B" n="44"/>e¶ Utrum origina 
+      <lb ed="#B" n="45"/>lis culpa concupiscentia vel 
+      pec<lb ed="#B" n="46" break="no"/>2 catum in paruulis nominetur. Et ar 
+      <!--422.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="47"/>guitur quod non triplici medio.
+</p>
+               <p xml:id="WuV37d-e94362-d1e240">
+¶ Primo sic: 
+      <lb ed="#B" n="48"/>adam non fuit nobilior tota humana natu 
+      <lb ed="#B" n="49"/>ra: ergo inficiendo se non potuit totam huma 
+      <lb ed="#B" n="50"/>nam naturam inficere: antecedens patet: quia aliquod 
+      <lb ed="#B" n="51"/>indiuiduum habuit itanobile sicut ipse vel 
+      <lb ed="#B" n="52"/>habere potuit. Sed probatur consequentia: quia 
+      <lb ed="#B" n="53"/>corruptio boni minoris non includit 
+      corru<lb ed="#B" n="54" break="no"/>ptionem boni maiorem.
+</p>
+               <p xml:id="WuV37d-e94362-d1e258">
+¶ Secundo arguitur sic: 
+      <lb ed="#B" n="55"/>si esset peccatum originale in paruulis: quaero vum 
+      <lb ed="#B" n="56"/>causaretur aut a deo: aut ab anima peruuli: aut 
+      <lb ed="#B" n="57"/>tertio a carne eius: non primum: quia deus nullius 
+      <lb ed="#B" n="58"/>peccati extat causa: non secundum: quia iam esset 
+      <lb ed="#B" n="59"/>peccatum actuale: non tertium: quia secundum beatum 
+      Au<lb ed="#B" n="60" break="no"/>gusti. 12. super Ben. ad litteram: omne agens 
+      <lb ed="#B" n="61"/>est praestantius patiente: caro vero non est nobi 
+      <lb ed="#B" n="62"/>lior ipsa anima sed econuerso: igitur nullum peccatum 
+      <lb ed="#B" n="63"/>est originale.
+</p>
+               <p xml:id="WuV37d-e94362-d1e280">
+¶ Tertio arguitur sic: nullum 
+      <lb ed="#B" n="64"/>inuoluntarium est peccatum: sed peccatum 
+      origina<lb ed="#B" n="65" break="no"/>le si esset in peruulis foret inuoluntarium: igitur 
+      <lb ed="#B" n="66"/>maior patetm auctoritate Augstin. in li. de vera 
+      reli<lb ed="#B" n="67" break="no"/>gione: Peccatum adeo est voluntarium quod si non 
+      <lb ed="#B" n="68"/>est voluntarium non est peccatum. Et de libero ar 
+      <lb ed="#B" n="69"/>pitrio: Nemo peccat in eo quod vitare non 
+      <lb ed="#B" n="70"/>potest: et. 3. ethicorum. Ceco nato nullus impro 
+      <lb ed="#B" n="71"/>perabit sed magis miserebitur. Sed probatur 
+      <lb ed="#B" n="72"/>minor: quia paruuli necdum vsum habent libe 
+      <lb ed="#B" n="73"/>ri arbitrii.
+</p>
+               <p xml:id="WuV37d-e94362-d1e305">
+¶ In oppositum arguitur 
+      aucto<lb ed="#B" n="74" break="no"/>ritate apostoli. Per vnum hominem peccatum in 
+      <lb ed="#B" n="75"/>mundum intrauit: in quo omnes peccauerunt. 
+      <lb ed="#B" n="76"/>Et Bregus. Omnes in peccato nati sumus 
+      <lb ed="#B" n="77"/>et ex carnis delectatione concepti.
+</p>
+               <p xml:id="WuV37d-e94362-d1e316">
+¶ In 
+      <lb ed="#B" n="78"/>ista quaestione etc. 
+      <lb ed="#B" n="79"/>Primus est terminorum declaratiuus 
+      <lb ed="#B" n="80"/>Quorum Secundus est quaestionis responsiuus. 
+      </p>
+               <p xml:id="WuV37d-e94362-d1e325">
+                  <lb ed="#B" n="81"/>¶ Tertius est dubiorum motiuus. 
+      <lb ed="#B" n="82"/>Quantum ad primum 
+      arti<lb ed="#B" n="83" break="no"/>culum 
+      <lb ed="#B" n="84"/>termini sunt / culpa / culpa originalis et 
+      com<lb ed="#B" n="85" break="no"/>cupiscentia.
+</p>
+               <p xml:id="WuV37d-e94362-d1e338">
+¶ Primus igitur terminus est 
+      <lb ed="#B" n="86"/>culpa. Unde notat sanctus Tho. huius dis. 
+      <lb ed="#B" n="87"/>arti. 1. q. 2. quod ista tria differunt / defectus / 
+      <lb ed="#B" n="88"/>malum / et culpa. Defectus enim simplicem 
+      im<lb ed="#B" n="89" break="no"/>portat negationem. Malum autem est nomen 
+      <lb ed="#B" n="90"/>privationis: carentia enim alicuius si non sit natum 
+      <lb ed="#B" n="91"/>esse in aliquo potest vocari in eo defectus sed  
+      <lb ed="#B" n="92"/>non malum: sicut carentia vitae in lapide est 
+      de<lb ed="#B" n="93" break="no"/>fectus: sed non malum. in homine autem mortuo non 
+      <lb ed="#B" n="94"/>solum est defectus sed etiam malum. Culpa autem 
+      <lb ed="#B" n="95"/>super vtrumque addit quod sit nomen voluntarii: 
+      <!--423.xml-->
+      <pb ed="#B" n="203-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>nullum enim culpabile nisi voluntarium. Unde 
+      <lb ed="#B" n="2"/>Aristo. in. 2. ethicorum dicit pro his quae insunt 
+      <lb ed="#B" n="3"/>nobis a natura: nec laudamur: nec 
+      vitu<lb ed="#B" n="4" break="no"/>peramur: vnde omnis culpa est malum: non econ 
+      <lb ed="#B" n="5"/>tra: similiter omne malum est defectus non econ 
+      <lb ed="#B" n="6"/>tra.
+</p>
+               <p xml:id="WuV37d-e94362-d1e382">
+¶ Secundus terminus est culpa origi 
+      <lb ed="#B" n="7"/>alis / secundum Anshel. li. 1. de conceptu vergina 
+      <lb ed="#B" n="8"/>li. ca. xxvii. Est nuditas debite iusticiae per 
+      <lb ed="#B" n="9"/>inobedientiam adae facta: per quam omnes sunt fili 
+      <lb ed="#B" n="10"/>ire. In qua tria ponit. Primo ipsum formale 
+      <lb ed="#B" n="11"/>culpae dum dicit: nuditas debitae iusticiae: nu 
+      <lb ed="#B" n="12"/>ditas ipsa est carentia: et ne simplex foret 
+      <lb ed="#B" n="13"/>negatio addit debitae iusticiae: illam debitan 
+      <lb ed="#B" n="14"/>iusticiam voco originalem iusticiam: de qua prae 
+      <lb ed="#B" n="15"/>cedenti dictum est dis. quam adam pro se et pro no 
+      <lb ed="#B" n="16"/>bis assumpserat: et ita eo illam perdente ipsius 
+      <lb ed="#B" n="17"/>sumus debitores effecti. Secundo tangit cau 
+      <lb ed="#B" n="18"/>sam effectiuam vel verius defectiuam huius 
+      <lb ed="#B" n="19"/>culpae dum dicit per inobedientiam ade facta 
+      <lb ed="#B" n="20"/>Unde patet quod peccatum quod in peruulis est 
+      origina<lb ed="#B" n="21" break="no"/>le: in adam non fuit originale sed actuale. 
+      <lb ed="#B" n="22"/>Tertio tangit ipsius culpe reatum dum dicit 
+      <lb ed="#B" n="23"/>per quam omnes sunt filii ire: et habet intelligipro 
+      <lb ed="#B" n="24"/>pagati seminalitur propter cpiscoum: vnde et si modo 
+      <lb ed="#B" n="25"/>secundum Anshel. formaretur vnus homo de manu al 
+      <lb ed="#B" n="26"/>terius hominis non haberet peccatum huiusmodi et de le 
+      <lb ed="#B" n="27"/>ge communi propter beatam Mariam quae peccatum hiuismodi 
+      <lb ed="#B" n="28"/>non habuit: vt patebit in. 3. dist. 3. Ulteri 
+      <lb ed="#B" n="29"/>noto quod huiusmodi culpe seu peccati sunt tres 
+      ter<lb ed="#B" n="30" break="no"/>narii nominum quorum octo ponit magister et hu 
+      <lb ed="#B" n="31"/>go de sancto victo. nonum addit et sunt haec. 
+      <lb ed="#B" n="32"/>Primus ternarius peccatum originale fomes 
+      <lb ed="#B" n="33"/>et concupiscentia et sumitur ex parte ipsius peccati. 
+      <lb ed="#B" n="34"/>Primum nomen notat vnde habuit ortum: quia 
+      <lb ed="#B" n="35"/>ab origine. Secundum nomen scilicet fomes notat 
+      <lb ed="#B" n="36"/>ad quod inclinat: quia ad malum: ideo dicitur 
+      fo<lb ed="#B" n="37" break="no"/>mentum. Tertium nomen ipsam notat 
+      inclina<lb ed="#B" n="38" break="no"/>tionem scilicet concupiscentia. Secundus ternarius est 
+      <lb ed="#B" n="39"/>concupiscibilitas: languor naturae: et tyvran 
+      <lb ed="#B" n="40"/>nus: et sumitur ex parte subiecti in quo est 
+      com<lb ed="#B" n="41" break="no"/>cupiscibilitas: dicit quasi habitualem inclina 
+      <lb ed="#B" n="42"/>tionem ad malum: languor naturae dicit volum 
+      <lb ed="#B" n="43"/>tatis ad bonum difficultatem: tyramnus dicit 
+      <lb ed="#B" n="44"/>quasi dominium sensitiue partis supra rationem. 
+      <lb ed="#B" n="45"/>Tertius ternarius est lex carnis: lex 
+      mem<lb ed="#B" n="46" break="no"/>brorum et ignorantia: et sumitur ex parte sensitiuae 
+      <lb ed="#B" n="47"/>dicitur lex carnis: quia propter conuenientiam cum car 
+      <lb ed="#B" n="48"/>ne et modo seminandi carnem venit. Dicitur lex 
+      <lb ed="#B" n="49"/>membrorum: quia per illud membra nostra ad malum 
+      <!--423.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>motum incitantur. Dicitur ignorantia inquantum 
+      <lb ed="#B" n="51"/>ex huiusmodi impetu quasi intellectus 
+      obumbra<lb ed="#B" n="52" break="no"/>bitur: et sumitur hoc nomen ex hugone diffinien 
+      <lb ed="#B" n="53"/>te peccatum originale: sic in libro de 
+      sacramen<lb ed="#B" n="54" break="no"/>tis parte. 7. Peccatum originale est vicium quod 
+      <lb ed="#B" n="55"/>nascendo contraximus per ignorantiam in mente et 
+      <lb ed="#B" n="56"/>concupiscentiam in carne. Tertius terminus 
+      <lb ed="#B" n="57"/>est concupiscentia: vnde concupiscentia solet acci 
+      <lb ed="#B" n="58"/>pi tripliciter. Primo modo pro ipsa vi 
+      concu<lb ed="#B" n="59" break="no"/>piscibili: et sic etiam fuisset in statu 
+      innocen<lb ed="#B" n="60" break="no"/>tiae. Secundo pro ipso peccato originali: sicut in 
+      <lb ed="#B" n="61"/>diffinitione hugonis modo dicta. Tertio pro 
+      <lb ed="#B" n="62"/>sequela illius peccati: sicut capit Beda 
+      <lb ed="#B" n="63"/>dum dicit: quod propter peccatum originale ista 
+      <lb ed="#B" n="64"/>sunt nobis inflicta infirmitas / ignorantia / 
+      <lb ed="#B" n="65"/>malicia / et concupiscentia. 
+      <lb ed="#B" n="66"/>Quantum ad secundum eti. i 
+      <lb ed="#B" n="67"/>Nui 
+      <lb ed="#B" n="68"/>sunt tres conclusiones. Prima est de 
+      entita<lb ed="#B" n="69" break="no"/>te peccati seu culpae originalis. Secunda de eius 
+      <lb ed="#B" n="70"/>quidditate: et accipitur hic entitas et quidditas 
+      <lb ed="#B" n="71"/>large: sicut dicimus: quod cecitas est in oculo. 
+      <lb ed="#B" n="72"/>Tertia de modo transfundendi in carnem qua requi 
+      <lb ed="#B" n="73"/>ritur ad huiusmodi culpam.
+</p>
+               <p xml:id="WuV37d-e94362-d1e534">
+¶ Prima est haec. 
+      <lb ed="#B" n="74"/>Culpa sic extat originalis in paruulis vt  
+      <lb ed="#B" n="75"/>sine hac tot poenis non subiacerent. Dicit 
+      <lb ed="#B" n="76"/>prima pars quod culpa originalis est in par 
+      <lb ed="#B" n="77"/>uulis: probatur medio doct. subti. in praesenti 
+      <lb ed="#B" n="78"/>dis. q. I. huius materiae. arti. 2 proprie 
+      opinio<lb ed="#B" n="79" break="no"/>nis arguit sic. Omne donum quod a deo alicui 
+      <lb ed="#B" n="80"/>voluntate antecedente solum non autem consequente 
+      <lb ed="#B" n="81"/>id est sine consideratione meritorum donatur est 
+      <lb ed="#B" n="82"/>semper debitum ab illo cui donatur: sed adam 
+      <lb ed="#B" n="83"/>accipiente iusticiam originalem filio eius et suis 
+      <lb ed="#B" n="84"/>posteris voluntate antecedente dedit deus illam 
+      <lb ed="#B" n="85"/>iusticiam: ergo semper debent: ergo cum modo non 
+      <lb ed="#B" n="86"/>habeant vt patet per effectum ex rebellione virium 
+      <lb ed="#B" n="87"/>inferiorum contra superiores sunt in peccato origi 
+      <lb ed="#B" n="88"/>nali nisi per baptismum vel aliter emundentur 
+      <lb ed="#B" n="89"/>maior patet exemplo. Unde enim deus dat alicus 
+      <lb ed="#B" n="90"/>gratiam voluntate antecedente: si cadat a gratia ie 
+      <lb ed="#B" n="91"/>peccatum: non solum punitur pro gratia quam amisit sed  
+      <lb ed="#B" n="92"/>pro bonis operibus quae amisit quoe erant 
+      virtuali<lb ed="#B" n="93" break="no"/>ter in gratia: minor patet ex statuto dei: status 
+      <lb ed="#B" n="94"/>rat enim deus quod cuilibet filio daret illam 
+      iu<lb ed="#B" n="95" break="no"/>sticiam si stetissent: sicut modo facta in 
+      cor<lb ed="#B" n="96" break="no"/>pore organisatione debita infundit animam. 
+      <lb ed="#B" n="97"/>Et si dicatur quod non extat simile de gratia et 
+      <lb ed="#B" n="98"/>ista iusticia: quia gratia in voluntate po¬ 
+      <!--424.xml-->
+      <pb ed="#B" n="204-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>sita includit virtualiter opera meritoria: 
+      <lb ed="#B" n="2"/>in posterorum autem voluntate nondum erat 
+      il<lb ed="#B" n="3" break="no"/>la iusticia: dicit idem doc. quod licet non sit si 
+      <lb ed="#B" n="4"/>mile idem omnino: tamen est simile sufficiens 
+      <lb ed="#B" n="5"/>quo ad propositum: quod vtrumque tam scilicet gratia 
+      <lb ed="#B" n="6"/>quam illa iusticia originalis dantur voluntate 
+      <lb ed="#B" n="7"/>dei antecedente non consequente: et patet 
+      exem<lb ed="#B" n="8" break="no"/>plo. Si enim a principio condidisset deus omnes 
+      <lb ed="#B" n="9"/>homines sicuti fecit angelos: et cuilibet 
+      de<lb ed="#B" n="10" break="no"/>disset iusticiam originalem: et postmodum solus 
+      <lb ed="#B" n="11"/>adam peccasset: certum est quod tunc per peccatum 
+      <lb ed="#B" n="12"/>ade alii non perdidissent illam iusticiam: et si illan 
+      <lb ed="#B" n="13"/>ab eis remouisset deus illius non essent 
+      de<lb ed="#B" n="14" break="no"/>bitores: et ita modo debitum venit: quia adam pro 
+      <lb ed="#B" n="15"/>se et pro nobis assumpsit eam: et hoc innuit 
+      <lb ed="#B" n="16"/>doc. deuo. huius dis. q. 2. arti. 1st ponens. iii. 
+      <lb ed="#B" n="17"/>n hoc causas. Quarum prima est: quia adam non 
+      <lb ed="#B" n="18"/>erat tantum humanae naturae indiuiduum: sed  
+      <lb ed="#B" n="19"/>eius principium: ideo sicuti infecta radice 
+      <lb ed="#B" n="20"/>arboris inficitur arbor: sic in proposito. 
+      Se<lb ed="#B" n="21" break="no"/>cuuda quod non tantum sibi mandatum datum fuit sed 
+      <lb ed="#B" n="22"/>nobis per ipsum: sicut patet in mandato pomi 
+      <lb ed="#B" n="23"/>vetiti quod per ipsum mulierem obligauit. 
+      Ter<lb ed="#B" n="24" break="no"/>tia quia adam pro se et posteris innocentiam et im 
+      <lb ed="#B" n="25"/>mortalitatem assumpsit: vnde ipse innocentem 
+      <lb ed="#B" n="26"/>et immortalem in illo statu genuisset modo quo 
+      <lb ed="#B" n="27"/>eis competebat immortalitas: et ante addit 
+      <lb ed="#B" n="28"/>tria quae in nobis huiusmodi peccatum manifestant 
+      <lb ed="#B" n="29"/>Primum est carentia visionis dei nisi regens 
+      <lb ed="#B" n="30"/>remur baptismo aut flamins: aut fluminis 
+      <lb ed="#B" n="31"/>Secundum erubescentia de moribus 
+      inordina<lb ed="#B" n="32" break="no"/>tis in nobis. Tertium est de praedominantia 
+      <lb ed="#B" n="33"/>partis inferioris supra superiorem qua tamen debe 
+      <lb ed="#B" n="34"/>ret subiici. Ex quo patet quod anima non contrahit 
+      <lb ed="#B" n="35"/>peccatum originale a carne: quasi caro per quandam 
+      <lb ed="#B" n="36"/>quilitatem in ea causatam causet in anima illam 
+      cul<lb ed="#B" n="37" break="no"/>pam: sicut dicere visus est magister sententiarum 
+      <lb ed="#B" n="38"/>et sui sequeces dantes exemplum de pomo mun 
+      <lb ed="#B" n="39"/>do posito in manu immunda quod contrahit 
+      <lb ed="#B" n="40"/>immundiciam a manum. Unde in praesenti distin. in 
+      <lb ed="#B" n="41"/>multis locis distinctionis non tenetur magistr 
+      <lb ed="#B" n="42"/>a nostris magistris. Et est locus secundus in quo non 
+      <lb ed="#B" n="43"/>tenetur in isto secundo: prius est in hac dis. vbi 
+      <lb ed="#B" n="44"/>ponit quod angeli prius habuerunt praemium quam 
+      <lb ed="#B" n="45"/>meritum: et illud replicat in. 10. distin. sed ra 
+      <lb ed="#B" n="46"/>tio huius peccati est: quia modo seminali 
+      <lb ed="#B" n="47"/>et naturali ab adam descendimus: et ita 
+      <lb ed="#B" n="48"/>lex super nos posita est nisi obuiat 
+      priui<lb ed="#B" n="49" break="no"/>legium speciale. Sed secunda pars conclu 
+      <!--424.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>sionis diciti / quod pueri non subiacerent tot 
+      pae<lb ed="#B" n="51" break="no"/>nis nisi propter huiusmodi culpam 
+      origina<lb ed="#B" n="52" break="no"/>lem: patet: tum ratione diuinae iusticiae quae 
+      <lb ed="#B" n="53"/>non infligit paenam sine culpa: tum ratione 
+      di<lb ed="#B" n="54" break="no"/>vinae sapientiae: a qua non exit turpe siue 
+      fae<lb ed="#B" n="55" break="no"/>dum cuiusmodi sunt multe passiones 
+      co<lb ed="#B" n="56" break="no"/>naturales in nobis: tum tertio ratione 
+      di<lb ed="#B" n="57" break="no"/>uine bonitatis ex qua non processit 
+      immedia<lb ed="#B" n="58" break="no"/>te maior pronitas ad malum quam ad bonum 
+      <lb ed="#B" n="59"/>quae tamen regnat in nobis: nisi aliunde ve 
+      <lb ed="#B" n="60"/>niat. Et si dicatur quia homo est minor 
+      mun<lb ed="#B" n="61" break="no"/>dus seu microcosmus: et ita sicuti in 
+      ma<lb ed="#B" n="62" break="no"/>iori mundo videmus quod contra motum firma 
+      <lb ed="#B" n="63"/>menti seu aplanos mouentur planetae seu 
+      <lb ed="#B" n="64"/>stellae: sic etiam in nobis appetitus 
+      sensiti<lb ed="#B" n="65" break="no"/>uus contra rationem: Dicendum quod non est 
+      si<lb ed="#B" n="66" break="no"/>mile: motus enim planetarum licet sit contra 
+      <lb ed="#B" n="67"/>motum firmamenti nunquam tamen dimouet a 
+      <lb ed="#B" n="68"/>motu suo firmamentum: sed magis econtra 
+      <lb ed="#B" n="69"/>mouentur planetae ad modum firmamenti: in 
+      <lb ed="#B" n="70"/>nobis autem sepe ratio quae est sphera 
+      supe<lb ed="#B" n="71" break="no"/>rior mouetur ad motum sensualitatis quae est 
+      <lb ed="#B" n="72"/>sphera inferior.
+</p>
+               <p xml:id="WuV37d-e94362-d1e758">
+¶ Secunda conclusio est 
+      <lb ed="#B" n="73"/>de culpe originalis quidditate: et est haec 
+      <lb ed="#B" n="74"/>priuvatio iusticiae originalis formale sic cen 
+      <lb ed="#B" n="75"/>setur vt concupiscentia materiale dicatur. 
+      <lb ed="#B" n="76"/>Prima pars dicit: quod formale in culpa 
+      ori<lb ed="#B" n="77" break="no"/>ginali est priuatio iusticiae originalis: probatur 
+      <lb ed="#B" n="78"/>quia maxime debet denominari diffinitum 
+      <lb ed="#B" n="79"/>ab eo quod in sua diffinitione in recto 
+      posi<lb ed="#B" n="80" break="no"/>tum est: sed priuatio posita est in 
+      descri<lb ed="#B" n="81" break="no"/>ptione peccati originalis in recto: 
+      caetera<lb ed="#B" n="82" break="no"/>in obliquo: igitur: Maior patet ex logi: 
+      <lb ed="#B" n="83"/>ca: minor probatur: quia dicitur peccatum 
+      <lb ed="#B" n="84"/>originale est nuditas seu carentia etc. Et 
+      <lb ed="#B" n="85"/>si quaeratur in quo est subiectiue: 
+      Dicen<lb ed="#B" n="86" break="no"/>dum / quod in voluntate sicuti iusticia origi 
+      <lb ed="#B" n="87"/>nalis cuius erat oppositum.
+</p>
+               <p xml:id="WuV37d-e94362-d1e793">
+¶ Ex quo 
+      <lb ed="#B" n="88"/>patet quod peccatum originale non est quali 
+      <lb ed="#B" n="89"/>tas morbida: consequens curuitatem vo 
+      <lb ed="#B" n="90"/>luntatis sicut innuunt sequaces magistri 
+      <lb ed="#B" n="91"/>penrici de gandauo. Si illa qualitas sit 
+      <lb ed="#B" n="92"/>positiua sicuti velle videntur: et dicunt 
+      <lb ed="#B" n="93"/>quod nunquam quo ad esse in via minuitur: 
+      li<lb ed="#B" n="94" break="no"/>cet bene quo ad virtutem: dant 
+      exem<lb ed="#B" n="95" break="no"/>plum de aue habente lapidem in alis im 
+      <lb ed="#B" n="96"/>pedientem motum eius et volatum: si augmentetur) 
+      <lb ed="#B" n="97"/>virtus alarum non ita mouebit inferius lapis licet 
+      <lb ed="#B" n="98"/>mameat quo ad esse idem: patet. quod hoc nihil est: de 
+      <!--425.xml-->
+      <pb ed="#B" n="204-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>quo amplius infra.
+</p>
+               <p xml:id="WuV37d-e94362-d1e828">
+¶ Sed dicit secunda pars 
+      <lb ed="#B" n="2"/>quod materiale peccati originalis est concupi 
+      <lb ed="#B" n="3"/>centia: vnde sicuti in peccato mortali 
+      forma<lb ed="#B" n="4" break="no"/>le est per auersionem a deo: et materiale est 
+      <lb ed="#B" n="5"/>per conuersionem inordinatam ad creaturam: 
+      <lb ed="#B" n="6"/>Sic in proposito formale peccati seu culpe ori 
+      <lb ed="#B" n="7"/>ginalis est per auersionem a debita iusticia. 
+      <lb ed="#B" n="8"/>Materiale autem dicitur illa inordinata concu 
+      <lb ed="#B" n="9"/>piscentia qua ad terrena nimis afficimur. 
+      <lb ed="#B" n="10"/>Et huius sunt intentionis sanctus Tho. q. 3. 
+      <lb ed="#B" n="11"/>arti. 1. doctur. deuo. arti. 2. q. 1. doct. subti. 
+      <lb ed="#B" n="12"/>arti. I. est proprie opinionis: de praesenti materia: 
+      <lb ed="#B" n="13"/>vnde si sint aliquo auctoritates dicentes peccatum 
+      origi<lb ed="#B" n="14" break="no"/>nale esse concupiscentiam sicut diffinitio hu 
+      <lb ed="#B" n="15"/>gonis posita in primo articu. Et illud. 
+      Con<lb ed="#B" n="16" break="no"/>cupiscentiam nesciebam esse peccatum et consimi 
+      <lb ed="#B" n="17"/>les: debent intelligi materialitur. Et si quaeratur 
+      <lb ed="#B" n="18"/>qualiter se habet ignorantia ad peccatum 
+      origi<lb ed="#B" n="19" break="no"/>nale? Dicendum quod causaliter extendendo 
+      no<lb ed="#B" n="20" break="no"/>men cause ad causam defectiuam: quia 
+      igno<lb ed="#B" n="21" break="no"/>rantia nobis inflicta est per huiusmodi peccatum secundum 
+      <lb ed="#B" n="22"/>Bedam. Et super illo. Delicta iuuentutis 
+      meae<lb ed="#B" n="23" break="no"/>et ignorantias meas: dicit Olo id est 
+      origina<lb ed="#B" n="24" break="no"/>le peccatum: et debet intelligi causaliter: 
+      si<lb ed="#B" n="25" break="no"/>cut illud. 6. Thopicorum. Dies est latio so 
+      <lb ed="#B" n="26"/>lis super terram.
+</p>
+               <p xml:id="WuV37d-e94362-d1e885">
+¶ Tertia conclusio est / de 
+      <lb ed="#B" n="27"/>modo transfundendi carnem quae requiritur ad 
+      <lb ed="#B" n="28"/>omodoi culpam: et est haec: nutrimentum sic in 
+      <lb ed="#B" n="29"/>corpus nutriti bomins conuertitur vt in cul 
+      <lb ed="#B" n="30"/>pa genito originali aliquid humidi nutri 
+      <lb ed="#B" n="31"/>mentalis ex generante veniat. Dicit prima 
+      <lb ed="#B" n="32"/>pars quod nutrimentum conuertitur in corpus  
+      <lb ed="#B" n="33"/>nutriti hominis et capitur quo ad partem: et 
+      <lb ed="#B" n="34"/>probatur ex primo de generatione vbi inquit 
+      <lb ed="#B" n="35"/>philosophus. quod nutrimentum prius est potentia 
+      <lb ed="#B" n="36"/>caro quod nihil esset dictu nisi posset fieri 
+      ca<lb ed="#B" n="37" break="no"/>ro actu per nutritionem. Item nutrimentum est. 
+      <lb ed="#B" n="38"/>in principio dissimile et in fine simile. Ex quo 
+      <lb ed="#B" n="39"/>arguitur idem: et patet: quia quod resurget est de ve 
+      <lb ed="#B" n="40"/>ritate nature humane: plli autem cum homi 
+      <lb ed="#B" n="41"/>ne resurgent: et tamen fiunt ex fumositate cibo 
+      <lb ed="#B" n="42"/>rum. Unde. Capillus de capite vestro non 
+      <lb ed="#B" n="43"/>peribit. Et si dicatur: quia secundum medicos 
+      labo<lb ed="#B" n="44" break="no"/>rantes in tertia specie ethice curari 
+      nequ<lb ed="#B" n="45" break="no"/>unt propter humidum consumptum radicale 
+      <lb ed="#B" n="46"/>quod tamen non esset vt videtur si nutrimentum 
+      <lb ed="#B" n="47"/>conuerteretur: quia posset restaurari?: Dicen 
+      <lb ed="#B" n="48"/>dum quod illa non est causa: sed causa est: quia 
+      <lb ed="#B" n="49"/>nutritum nequit conuertere nutrimentum nisi 
+      <!--425.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>propter sui virtutem: et quia iam humidum 
+      radi<lb ed="#B" n="51" break="no"/>cale est consumptum in illo: aut prope: ideo non 
+      <lb ed="#B" n="52"/>est tante potestatis vt aliud quaeat 
+      conuer<lb ed="#B" n="53" break="no"/>tere. Unde in tali conuersione semper manent 
+      <lb ed="#B" n="54"/>partes carnis secundum speciem: sed non secundum 
+      materi<lb ed="#B" n="55" break="no"/>am: sed fluunt et refluunt: et quando plus virtus nu 
+      <lb ed="#B" n="56"/>triti nequit conuertere deficit: sicut patet in 
+      <lb ed="#B" n="57"/>conuersione aquae in vinum: quae quanmtomagis 
+      <lb ed="#B" n="58"/>additur vino vinum debilius efficitur et tandem 
+      <lb ed="#B" n="59"/>deficit.
+</p>
+               <p xml:id="WuV37d-e94362-d1e963">
+¶ Ex quo patet defectus magistri sen 
+      <lb ed="#B" n="60"/>tentiarum et hugo. de sancto victore ponentium 
+      <lb ed="#B" n="61"/>nutrimentum non conuerti in corpus bomins: 
+      <lb ed="#B" n="62"/>sed se habere sicut se habet plumbum in 
+      al<lb ed="#B" n="63" break="no"/>Rymia quando depuratur aurum vel argentum: 
+      po<lb ed="#B" n="64" break="no"/>nitur enim tunc plumbum solum vt ignis illud 
+      <lb ed="#B" n="65"/>consumat et non aurum. Sic dicunt in proposito 
+      <lb ed="#B" n="66"/>quod solum est nutrimentum ad mitigandum 
+      <lb ed="#B" n="67"/>calorem: sed patet hoc falsum: quomodo enim posset 
+      <lb ed="#B" n="68"/>corpus hominis augmentari sine tali con 
+      <lb ed="#B" n="69"/>uersione non videtur nisi rarefactione aut mi 
+      <lb ed="#B" n="70"/>raculo quae non habent hic locum vt patet. Unde 
+      <lb ed="#B" n="71"/>Aristo. in de generatione dicit: quod nutritio 
+      <lb ed="#B" n="72"/>est ad modum exustionis lignorum in qua semper 
+      <lb ed="#B" n="73"/>noua ligna in ignem conuertuntur: et quando ligna 
+      <lb ed="#B" n="74"/>desunt iguis deficit: sic in proposito.
+</p>
+               <p xml:id="WuV37d-e94362-d1e998">
+¶ Se 
+      <lb ed="#B" n="75"/>cunda pars conclusionis dicit: quod in genito 
+      <lb ed="#B" n="76"/>in peccato originali aliquid humidi 
+      nutri<lb ed="#B" n="77" break="no"/>mentalis ex generante venit. Unde hic 
+      <lb ed="#B" n="78"/>sunt tres opiniones. Prima est magistri 
+      di<lb ed="#B" n="79" break="no"/>centis: quod tota generatio fit ex substantia 
+      <lb ed="#B" n="80"/>corrupta quae fuit in adam diuisa vsque ad 
+      prae<lb ed="#B" n="81" break="no"/>sens per partes modicas: sicut vnum 
+      modi<lb ed="#B" n="82" break="no"/>cum olei per magnam aquam extenditur. Et 
+      hae<lb ed="#B" n="83" break="no"/>opinio valde modicum habet probabilita 
+      <lb ed="#B" n="84"/>tis: sicut patet intuenti. Secunda est sancti Tho. 
+      <lb ed="#B" n="85"/>in. 2. q. 2. arti. huius distin. dicentis: quod 
+      so<lb ed="#B" n="86" break="no"/>lum fit generatio de superfluo nutrimenti: 
+      <lb ed="#B" n="87"/>ita quod assumpto quod est necessarium ad nutri 
+      <lb ed="#B" n="88"/>tionem vel augmentationem reliquum vadit 
+      <lb ed="#B" n="89"/>ad locum generatiue. Et corroborat dictum 
+      <lb ed="#B" n="90"/>suum variis dictis philosophi in li. de 
+      ani<lb ed="#B" n="91" break="no"/>malibus: et est ista positio valde 
+      proba<lb ed="#B" n="92" break="no"/>bilis et potest sustineri. Tertia est docto. 
+      <lb ed="#B" n="93"/>deuo. q. 1. articu. 3. et est: quod generatio est 
+      <lb ed="#B" n="94"/>et ex parte supetfiui: in quo conuenit cum 
+      <lb ed="#B" n="95"/>Thom. et ex humido nutribili quod 
+      vni<lb ed="#B" n="96" break="no"/>tum est humido radicali: et in hoc 
+      quo<lb ed="#B" n="97" break="no"/>dammodo licet a longe conuenit cum 
+      ma<lb ed="#B" n="98" break="no"/>gistro: ita quod est media inter salias duas 
+      <!--426.xml-->
+      <pb ed="#B" n="205-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>Et quia teste philosopho in secundo ethicorum: In medio 
+      <lb ed="#B" n="2"/>est virtus: haec mihi melius placet: tum etiam 
+      <lb ed="#B" n="3"/>quia genitum etiam aliquando assimilatur non solum 
+      pa<lb ed="#B" n="4" break="no"/>tri aut matri sed etiam auo et proauo vsque ac 
+      <lb ed="#B" n="5"/>decimam generationem: tum quia ex isto acti 
+      <lb ed="#B" n="6"/>aliquando contingit infirmitas: et multa alia sun 
+      <lb ed="#B" n="7"/>similia quae saluari non videntur nisi per istam 
+      <lb ed="#B" n="8"/>positionem aut non ita clare: 
+      <lb ed="#B" n="9"/>us 
+      arti<lb ed="#B" n="10" break="no"/>culum 
+      <lb ed="#B" n="11"/>sunt tres difficultates.
+</p>
+               <p xml:id="WuV37d-e94362-d1e1084">
+¶ Prima est. 
+      <lb ed="#B" n="12"/>Utrum peccatum seu culpa originalis habe 
+      <lb ed="#B" n="13"/>at modum habitus aut actus. Respondit doc. 
+      <lb ed="#B" n="14"/>subti. quod magis habet modum habitus quaesi 
+      <lb ed="#B" n="15"/>in anima quescentis quam actus: et inde est quod pec 
+      <lb ed="#B" n="16"/>catum originale diuiditur contra tam mortale 
+      <lb ed="#B" n="17"/>quam veniale quae dicuntur actualia peccata ab 
+      <lb ed="#B" n="18"/>actu.
+</p>
+               <p xml:id="WuV37d-e94362-d1e1102">
+¶ Secunda difficultas. Quod est prin 
+      <lb ed="#B" n="19"/>cipalius in peccato originali: ant carentia 
+      de<lb ed="#B" n="20" break="no"/>bitae iusticiae aut concupiscentia. Dicit sanctus 
+      <lb ed="#B" n="21"/>Tho. q. 3. primi arti. quod carentia sicuti in 
+      con<lb ed="#B" n="22" break="no"/>posito principalius est forma quam materia. 
+      </p>
+               <p xml:id="WuV37d-e94362-d1e1113">
+                  <lb ed="#B" n="23"/>¶ Tertia difficultas. Unde accidit in 
+      <lb ed="#B" n="24"/>homine mors ex quo nutrimentum semper con 
+      <lb ed="#B" n="25"/>uertitur: dat exemplum doc. deuo. de igne ar 
+      <lb ed="#B" n="26"/>dente in lampade qui habet modum calid 
+      <lb ed="#B" n="27"/>radicalis de lichno quod habet modum humi 
+      <lb ed="#B" n="28"/>di radicalis: et tertio de oleo quod habet mo 
+      <lb ed="#B" n="29"/>dum nutrimenti. Unde quando consumitur lichnus in 
+      <lb ed="#B" n="30"/>lampade licet addatur oleum ignis non combu 
+      <lb ed="#B" n="31"/>rit: sic in nobis et de die in diem minoris 
+      <lb ed="#B" n="32"/>extat virtutis humidum radicale. Ex hoc pa 
+      <lb ed="#B" n="33"/>tet ad quaestionem: quod videlet originalis culpa 
+      <lb ed="#B" n="34"/>nominatur in peruulis: et peccatum a concupiscen 
+      <lb ed="#B" n="35"/>tia: sed differenter: quia peccatum formaliter: sed  
+      <lb ed="#B" n="36"/>concupiscentia materialiter.
+</p>
+               <p xml:id="WuV37d-e94362-d1e1146">
+¶ Ad primum ar 
+      <lb ed="#B" n="37"/>gumentum dico quod adam non infecit naturam 
+      <lb ed="#B" n="38"/>hanc numero primo: sed infecit se peccato perso 
+      <lb ed="#B" n="39"/>nali primo et secundo demeritoriae totam posteri 
+      <lb ed="#B" n="40"/>tatem suam nisi aliunde veniret adiutorium: et 
+      <lb ed="#B" n="41"/>demeritoriae: bene potest vnus demereri mul 
+      <lb ed="#B" n="42"/>tis secundariis sicuti per peccatum patris in 
+      <lb ed="#B" n="43"/>legibus exheredantur filii.
+</p>
+               <p xml:id="WuV37d-e94362-d1e1164">
+¶ Ad secundum 
+      di<lb ed="#B" n="44" break="no"/>co quod causa demeritoria est adam causa ne 
+      <lb ed="#B" n="45"/>gatiua non dans iusticiam illam est deus: nec 
+      <lb ed="#B" n="46"/>in hoc peccatum causat deus: quia non habere 
+      <lb ed="#B" n="47"/>illam iusticiam simpliciter non est peccatum sed 
+      <lb ed="#B" n="48"/>non habere et debere habere: et istud debe 
+      <lb ed="#B" n="49"/>re est ex parte hominis.
+</p>
+               <p xml:id="WuV37d-e94362-d1e1180">
+¶ Ad tertium dico ad  
+      <!--426.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>minorem quod peccatum originale est 
+      volunta<lb ed="#B" n="51" break="no"/>rium: tum quia est in voluntate sicut alia pecca 
+      <lb ed="#B" n="52"/>ta: tum quia voluntarie peccauit adam a quo 
+      <lb ed="#B" n="53"/>contractum est. Non autem oportet quod sit effecti 
+      <lb ed="#B" n="54"/>ue immediate voluntarium ab eo in quo est: 
+      <lb ed="#B" n="55"/>nec hoc intelligit Augustinus prima vel secunda au 
+      <lb ed="#B" n="56"/>ctoritas: sufficit enim ad intentionem eius 
+      con<lb ed="#B" n="57" break="no"/>tra manicheos quod sit voluntarium: nec est 
+      si<lb ed="#B" n="58" break="no"/>mile de ceco nato sicut adducebatur philosophus 
+      <lb ed="#B" n="59"/>quia cecitas non est in voluntate: sicut illa cu 
+      <lb ed="#B" n="60"/>pa.
+</p>
+            </div>
+            <div xml:id="WuV37d-e94362-Dd1e1212" type="et-conclusiones">
+               <head xml:id="WuV37d-e94362-Hd1e1214">Conclusiones</head>
+               <p xml:id="WuV37d-e94362-d1e1217">
+¶ Ex praesenti autem etc. Prima conclusio 
+      <lb ed="#B" n="61"/>Culpa censetur originale atque fatetur ex adam 
+      <lb ed="#B" n="62"/>tale. Dicit conclusio quod peccatum originale in 
+      <lb ed="#B" n="63"/>est culpa contracta ab adam. Et ponitur contra 
+      <lb ed="#B" n="64"/>pelagianos et alios nonnullos a principio 
+      <lb ed="#B" n="65"/>dist. vsque ibi: Nunc superest videre.
+</p>
+               <p xml:id="WuV37d-e94362-d1e1230">
+¶ Se 
+      <lb ed="#B" n="66"/>cunda conclusio: recte nominatur concupiscentia 
+      <lb ed="#B" n="67"/>atque appellatur ista malicia. Dicit conclusio 
+      <lb ed="#B" n="68"/>quod istud peccatum originale recte nominatur 
+      concu<lb ed="#B" n="69" break="no"/>piscentia: et debet itelligi materialiter. Et po 
+      <lb ed="#B" n="70"/>nitur ab illo loco. Nunc superest videre: vsque 
+      <lb ed="#B" n="71"/>ibi. Ad hoc autem quod dicimus etc.
+</p>
+               <p xml:id="WuV37d-e94362-d1e1246">
+¶ Tertia con 
+      <lb ed="#B" n="72"/>clusio: in adam eramus materialiter: sed non fue 
+      <lb ed="#B" n="73"/>ramus vnquam formaliter. Dicit conclusio: quod 
+      <lb ed="#B" n="74"/>eramus omnes in adam materialiter sed non 
+      for<lb ed="#B" n="75" break="no"/>maliter. Et hic non tenetur magister. Et ponitur 
+      <lb ed="#B" n="76"/>ab illo loco. Ad hoc autem quod dicimus: 
+      <lb ed="#B" n="77"/>vsque ad finem distinctionis. 
+</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

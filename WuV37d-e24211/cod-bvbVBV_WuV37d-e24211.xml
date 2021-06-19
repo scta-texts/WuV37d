@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 20</title>
+            <author ref="#WilliamDeVaurouillon">William de Vaurouillon</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 20</title>
+               <date when="2021-06-19">June 19, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-bvbVBV">Basel 1510</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-06-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="52-r"/>
+            <cb ed="#B" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="WuV37d-e24211"><!-- l1d20 -->
+            <head xml:id="WuV37d-e24211-Hd1e108">Distinctio 20</head>
+            <div xml:id="WuV37d-e24211-Dd1e111" type="circa-textum">
+               <head xml:id="WuV37d-e24211-Hd1e113">Circa textum</head>
+               <p xml:id="WuV37d-e24211-d1e116">
+                  <lb ed="#B" n="15"/>Distinctio. 20. in qua magister 
+      <lb ed="#B" n="16"/>tractat de equalitate personarum quantum 
+      <lb ed="#B" n="17"/>ad potentiam et virtute.
+    </p>
+               <p xml:id="WuV37d-e24211-d1e125">
+                  <lb ed="#B" n="18"/>Inc restat 
+      <lb ed="#B" n="19"/>ostendere quomodo aliqua 
+      <lb ed="#B" n="20"/>harum personarum alia non 
+      <lb ed="#B" n="21"/>excellat potentia: vt sic 
+      <lb ed="#B" n="22"/> vna indifferens etc. Hic 
+      <lb ed="#B" n="23"/>signatur. 20. distinctio huius primi. Nam post 
+      <lb ed="#B" n="24"/>quam magister in praecedenti distinctione ostendit 
+      <lb ed="#B" n="25"/>personarum aequalitatem ratione magnitudinis et 
+      <lb ed="#B" n="26"/>semotae dissimilitudinis: Nunc in ista 
+      di<lb ed="#B" n="27" break="no"/>stinctione ostendit idem ratione potentiae et 
+      <lb ed="#B" n="28"/>valitudinis. Et diuiditur in tres partes. In 
+      <lb ed="#B" n="29"/>prima praemittit sententiam diffinitiuam. In 
+      <lb ed="#B" n="30"/>secunda subiungit suae sententiae rationemus 
+      <lb ed="#B" n="31"/>confirmatiuam. In tertia inducit 
+      obiectio<lb ed="#B" n="32" break="no"/>nem propositi declaratiuam. Secunda incipit 
+      <lb ed="#B" n="33"/>ibi: Nihil inquit patre minus habet. 
+      Ter<lb ed="#B" n="34" break="no"/>tia ibi: Sed forte dices: eoipso maior est: 
+      <lb ed="#B" n="35"/>prima et vltima partibus indiuisis manentibus. 
+      <lb ed="#B" n="36"/>Secunda in tres diuiditur: secundum quod tripliciter 
+      <lb ed="#B" n="37"/>probat filium patri aequalem. Prima sumitur ex 
+      <lb ed="#B" n="38"/>fundamento euangelicae auctoritatis. Unde 
+      di<lb ed="#B" n="39" break="no"/>citur: Omnia quae habet pater mea sunt. Secun 
+      <lb ed="#B" n="40"/>da ex inductione ad viam impossibilitatis: 
+      <lb ed="#B" n="41"/>quia si non genuit equalem aut noluit / aut 
+      <lb ed="#B" n="42"/>non potuit. Tertia sumitur ex similitudine 
+      <lb ed="#B" n="43"/>tantae natiuitatis per simile in generatione 
+      <lb ed="#B" n="44"/>creata. Secunda incipit ibi: Item alio modo 
+      <lb ed="#B" n="45"/>probat filium aequalem patri. Tertia ibi: Hic 
+      <lb ed="#B" n="46"/>autem per similitudinem humanam etc. Haec est 
+      di<lb ed="#B" n="47" break="no"/>nisio praesentis distinctionis etc. 
+    </p>
+            </div>
+            <div xml:id="WuV37d-e24211-Dd1e194">
+               <head xml:id="WuV37d-e24211-Hd1e196">Quaestio</head>
+               <p xml:id="WuV37d-e24211-d1e199">
+      <!--120.xml-->
+                  <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="48"/>Questio haec docet de potentia 
+      <lb ed="#B" n="49"/>ecundum quam diuinae personae omnino sunt 
+      aeque<lb ed="#B" n="50" break="no"/>les. Et impugnat Egidium et 
+      san<lb ed="#B" n="51" break="no"/>ctum Tho. Et habetur a Sco. li d 1. dist. 
+      <lb ed="#B" n="52"/>2o. q. vnica. 
+      <lb ed="#B" n="53"/> Irca quam que 
+      <lb ed="#B" n="54"/>ritur etc. Utrum diuinis personis  
+      <lb ed="#B" n="55"/>ommipotentia gradum et ordine 
+      <lb ed="#B" n="56"/>tribuatur: Et arguitur quod sic / triplici medio. 
+      </p>
+               <p xml:id="WuV37d-e24211-d1e225">
+                  <lb ed="#B" n="57"/>¶ Primo sic. Quandocumque aliquid ab alio 
+      <lb ed="#B" n="58"/>tribuitur alii: et in maiori latitudine seu 
+      ex<lb ed="#B" n="59" break="no"/>tensione est in dante quam in recipiente: ibi fit 
+      <lb ed="#B" n="60"/>secundum gradus descensus: sed sic est de 
+      omni<lb ed="#B" n="61" break="no"/>potentia a patre data silio et spiritu sancto: 
+      <lb ed="#B" n="62"/>igitur etc. Maior est nota. A maiori enim 
+      <lb ed="#B" n="63"/>ad minus fit descensus in gradibus. Sed  
+      <lb ed="#B" n="64"/>minor probatur: quia in patre est sub 
+      omni<lb ed="#B" n="65" break="no"/>potentia potentia generandi / et non in filio: cum 
+      <lb ed="#B" n="66"/>filius non possit generare. Et si dicatur / quod 
+      po<lb ed="#B" n="67" break="no"/>tentia generandi non est sub omnipotentia. 
+      <lb ed="#B" n="68"/>Obuiat libro. 2. contra Maximum Augustinus 
+      <lb ed="#B" n="69"/>Si pater nequit generare filium sibi 
+      aequa<lb ed="#B" n="70" break="no"/>lem: vbi est omnipotentia patris: q. di. non 
+      <lb ed="#B" n="71"/>haberet: ex quo patet quod est sub omnipo 
+      <lb ed="#B" n="72"/>tentia.
+</p>
+               <p xml:id="WuV37d-e24211-d1e262">
+¶ Secundo arguitur. Quandocun 
+      <lb ed="#B" n="73"/>que aliquid ab imperfecto magis elongatur 
+      <lb ed="#B" n="74"/>tanto potentius est. Sed pater longius est 
+      <lb ed="#B" n="75"/>a creaturis quae semper includunt 
+      imper<lb ed="#B" n="76" break="no"/>fectionem quam filius seu spiritus sanctus: 
+      <lb ed="#B" n="77"/>gitur est potentior. Maior patet aucto 
+      <lb ed="#B" n="78"/>ritate Aristotelis. Albius enim est quod est  
+      <lb ed="#B" n="79"/>nigro impermixtius. Sed minor 
+      proba<lb ed="#B" n="80" break="no"/>tur. Considero enim quod creature sunt 
+      sub<lb ed="#B" n="81" break="no"/>alio: quia a deo: et differunt a producente 
+      <lb ed="#B" n="82"/>essentialiter: pater vero a nullo est: et ita 
+      <lb ed="#B" n="83"/>in nullo conuenit cum creaturis: filius deo 
+      <lb ed="#B" n="84"/>et spiritus sanctus licet non differant a 
+      pro<lb ed="#B" n="85" break="no"/>ducente essentialiter: tamen sunt ab alio 
+      <lb ed="#B" n="86"/>sicut creature.
+</p>
+               <p xml:id="WuV37d-e24211-d1e295">
+¶ Tertio arguitur sic. 
+      <lb ed="#B" n="87"/>Cui soli conuenit in diuinis productio 
+      cre<lb ed="#B" n="88" break="no"/>aturarum in esse intelligibili: ei soli 
+      con<lb ed="#B" n="89" break="no"/>uenit productio creaturarum in esse reali: 
+      <lb ed="#B" n="90"/>ita omnipotentia: et cum omnipotentia 
+      <lb ed="#B" n="91"/>dicatur respectu creaturarum: sed soli 
+      pa<lb ed="#B" n="92" break="no"/>tri conuenit productio creaturarum in esse 
+      in<lb ed="#B" n="93" break="no"/>telligibili: igitur pater solus producit 
+      crea<lb ed="#B" n="94" break="no"/>turas in esie reali: et solus est omnipo¬ 
+      <!--121.xml-->
+      <pb ed="#B" n="52-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>tens / non filius nec spiritus sanctus: nisi quadam 
+      par<lb ed="#B" n="2" break="no"/>ticipatione quam voco ordinem et gradum. 
+      <lb ed="#B" n="3"/>Maior patet: quia perfrctius est esse intelligibile in 
+      <lb ed="#B" n="4"/>deo quam esse rerum extra: cum sit in deo vita / secundum 
+      <lb ed="#B" n="5"/>Augstin. super Ioam. Et per consequens si perfectius 
+      <lb ed="#B" n="6"/>sibi conueniat / et minus perfectum. Sed probatur 
+      <lb ed="#B" n="7"/>minor: quia in primo signo originis ante 
+      produ<lb ed="#B" n="8" break="no"/>ctionem fi: ii est pater beatus: et tamen non esset bea 
+      <lb ed="#B" n="9"/>tus / nisi tunc rerum haberet ideas: cum secundum 
+      <lb ed="#B" n="10"/>Augstin. in li. octogintatrium quaestionum: 
+      ipsa<lb ed="#B" n="11" break="no"/>rum visione sit anima beatissima.
+</p>
+               <p xml:id="WuV37d-e24211-d1e346">
+¶ In oppo 
+      <lb ed="#B" n="12"/>situm arguitur auctoritate Athanasii in symbolo: 
+      <lb ed="#B" n="13"/>Omnipotens pater / omnipotens filius / omnipotens 
+      <lb ed="#B" n="14"/>spiritus sanctus.
+</p>
+               <p xml:id="WuV37d-e24211-d1e355">
+¶ In ista quaestione sunt tres articuli. 
+      <lb ed="#B" n="15"/>Primus est terminorum declaratiuus 
+      <lb ed="#B" n="16"/>Quorum Secundus est quaestionis responsiuus. 
+      <lb ed="#B" n="17"/>Tertius est dubiorum motiuus. 
+      <lb ed="#B" n="18"/>Quo ad primum articulum 
+      <lb ed="#B" n="19"/>Primus 
+      <lb ed="#B" n="20"/>terminus est omnipotentia. Omnipotentia 
+      <lb ed="#B" n="21"/>enim capitur tripliciter. Uno modo dicitur 
+      <lb ed="#B" n="22"/>omnipotentia prout li omni potentia 
+      distribua<lb ed="#B" n="23" break="no"/>tur: vt sit sensus / omnis potentia. Et sic di 
+      <lb ed="#B" n="24"/>co quod in diuinis non est omnipotentia 
+      formali<lb ed="#B" n="25" break="no"/>ter loquendo: quia tunc sequeretur quod potentia 
+      <lb ed="#B" n="26"/>currendi / manducandi / bibendi esset in deo 
+      for<lb ed="#B" n="27" break="no"/>maliter: cum sint potentiae formaliter: hoc est 
+      <lb ed="#B" n="28"/>falsum: quia deus non potest currere / cum sit 
+      <lb ed="#B" n="29"/>vbique: nec manducare / nec bibere: cum 
+      di<lb ed="#B" n="30" break="no"/>cant imperfectionem. Conceditur tamen quod sunt ta 
+      <lb ed="#B" n="31"/>les potentiae in deo / aut eminenter / aut 
+      ver<lb ed="#B" n="32" break="no"/>tualiter / aut in esse cognito. Secundo 
+      di<lb ed="#B" n="33" break="no"/>citur omnipotentia: vt omni se habeat per mo 
+      <lb ed="#B" n="34"/>dum termini extensiue. Et sic est sensus: quod il 
+      <lb ed="#B" n="35"/>le qui hac dicitur potentia omnipotens / ad omnia 
+      <lb ed="#B" n="36"/>possit possibilia: et sic est potentia in 
+      diui<lb ed="#B" n="37" break="no"/>nis. Nam nullum possibile extat si sit factibi 
+      <lb ed="#B" n="38"/>le nisi virtute dei. Tertio dicitur 
+      omnipo<lb ed="#B" n="39" break="no"/>tentia: vt li omni etiam respiciat potentia 
+      <lb ed="#B" n="40"/>ratione termini / sed non extensiue sed intemn 
+      <lb ed="#B" n="41"/>siue. Hoc est dictu: quod ille qui hac poten 
+      <lb ed="#B" n="42"/>tia esset omnipotens / posset ea efficere ni 
+      <lb ed="#B" n="43"/>si iam essent condita: vt si essent duo dii: ambo 
+      <lb ed="#B" n="44"/>essent omnipotentes. Demus enim quod vnus 
+      cum<lb ed="#B" n="45" break="no"/>cta sit operatus: alius non poterit postea 
+      ea<lb ed="#B" n="46" break="no"/>dem operari: attamen illud non veniret per casum 
+      <lb ed="#B" n="47"/>positum ex impotentia: sed quia iam essent 
+      produ<lb ed="#B" n="48" break="no"/>cta: ita quod secundus deus haberet tantam omnipotem: 
+      <lb ed="#B" n="49"/>tiam intensiue quantam haberet primus intensiue 
+      <!--121.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>sed non extensiue.
+</p>
+               <p xml:id="WuV37d-e24211-d1e440">
+¶ Secundus terminus est 
+      or<lb ed="#B" n="51" break="no"/>do. Ordo secundum Augstin. 19. de ciui. dei. est i 
+      <lb ed="#B" n="52"/>parium dispariumque rerum / sua cuique loca 
+      tri<lb ed="#B" n="53" break="no"/>buens dispositio. Unde noto secundum doctorum 
+      <lb ed="#B" n="54"/>deuotum hac distin. quod ordo est triplex: secundum 
+      <lb ed="#B" n="55"/>positionem / secundum antecessionem / et secundum naturam 
+      <lb ed="#B" n="56"/>alias secundum originem. Secundum vero positionem mul 
+      <lb ed="#B" n="57"/>tiplicatur: aut secundum situm: sicut sol prior est quam 
+      <lb ed="#B" n="58"/>mercurius. Aut secundum dignitatem: sicut 
+      per<lb ed="#B" n="59" break="no"/>fectior est homo leone. Secundum vero 
+      ante<lb ed="#B" n="60" break="no"/>cessionem: sicut prius ordinatur antiquum quam 
+      <lb ed="#B" n="61"/>nouum: aut vnum aliud naturali procedit intel 
+      <lb ed="#B" n="62"/>ligentia. Secundum vero ordinem naturae / als 
+      ori<lb ed="#B" n="63" break="no"/>ginis: sicut praecedit producens productum: et dici 
+      <lb ed="#B" n="64"/>tur ordo originis: et fundamentum respectum 
+      <lb ed="#B" n="65"/>habet: et dicitur simpliciter ordo nature.
+</p>
+               <p xml:id="WuV37d-e24211-d1e475">
+¶ Terti 
+      <lb ed="#B" n="66"/>tius terminus est gradus. Unde noto quod 
+      <lb ed="#B" n="67"/>ista tria se habent per ordinem: notio / ordo / et 
+      <lb ed="#B" n="68"/>gradus. Notio dicitur inquantum est distinguens 
+      <lb ed="#B" n="69"/>proprietas: aut primario / sicut paternitas in 
+      <lb ed="#B" n="70"/>patre / et filiatio in filio: ideo dicitur a nosco 
+      <lb ed="#B" n="71"/>cis: quia notum facit esse id quod distinguit. 
+      <lb ed="#B" n="72"/>Aut secundario sicut innascibilitas secun 
+      <lb ed="#B" n="73"/>do distinguit patrem a filio: licet eum non 
+      con<lb ed="#B" n="74" break="no"/>stituat.
+</p>
+               <p xml:id="WuV37d-e24211-d1e497">
+¶ Dicitur autem ordo inquantum prius: 
+      <lb ed="#B" n="75"/>aut refertur / aut referibile est ad secundum / seu 
+      <lb ed="#B" n="76"/>posterius. Sed tertio dicitur gradus 
+      inquan<lb ed="#B" n="77" break="no"/>tum id quod secundo ordinatur: imperfectius est 
+      <lb ed="#B" n="78"/>primo: ad quod ordinatur: vt innuit glo. su 
+      <lb ed="#B" n="79"/>per illud: Non ascendes per gradus ad 
+      al<lb ed="#B" n="80" break="no"/>tare. Dicit glosa. Per gradus ad altare 
+      <lb ed="#B" n="81"/>ascendit: qui dicit patrem maiorem filio aut 
+      <lb ed="#B" n="82"/>spiritu sancto: ideo licet sint ordo et notio in 
+      <lb ed="#B" n="83"/>diuinis / non tamen gradus: vbi omnia vna 
+      <lb ed="#B" n="84"/>sunt infinita deitate. Unde Hiero. et 
+      ha<lb ed="#B" n="85" break="no"/>betur distinctione. 25. huius primi. Non 
+      <lb ed="#B" n="86"/>est prorsus in deitate gradus. Et hoc de 
+      <lb ed="#B" n="87"/>primo articulo. 
+      </p>
+               <p xml:id="WuV37d-e24211-d1e528">
+                  <lb ed="#B" n="88"/>¶ Quantum ad secundum 
+      articu<lb ed="#B" n="89" break="no"/>sum suut 
+      <lb ed="#B" n="90"/>tres conclusiones.
+</p>
+               <p xml:id="WuV37d-e24211-d1e538">
+¶ Prima est. Diuina 
+      <lb ed="#B" n="91"/>omnipotentia creatorum seu creabilium in respe 
+      <lb ed="#B" n="92"/>ctu solummodo censenda est. Et vt melius 
+      <lb ed="#B" n="93"/>conclusio videatur: Noto quod possibile dici 
+      <lb ed="#B" n="94"/>tur tripliciter. Uno modo dicitur 
+      possibi<lb ed="#B" n="95" break="no"/>le logicum. sicut loquitur philosophus. 5 
+      metaphy<lb ed="#B" n="96" break="no"/>et sic capiendo possibile: nihil aliud est nisi 
+      <lb ed="#B" n="97"/>non repugnantia terminorum isto modo possibi 
+      <lb ed="#B" n="98"/>le est deum esse. Secundo modo dicitur possibile 
+      <!--122.xml-->
+      <pb ed="#B" n="53-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>vt opponitur impossibili. Et sic accipere 
+      vi<lb ed="#B" n="2" break="no"/>detur Aristo. in quadam dubitatione in (
+      e<lb ed="#B" n="3" break="no"/>cundo periarmen. Unde isto modo omne 
+      <lb ed="#B" n="4"/>id dicitur possibile quod non est 
+      impossibi<lb ed="#B" n="5" break="no"/>le esse. Tertio dicitur possibile vt 
+      oppo<lb ed="#B" n="6" break="no"/>nitur necessario: et sic conuertitur cum contin 
+      <lb ed="#B" n="7"/>gente: vt innuit philosophus in secundo periarmen. 
+      <lb ed="#B" n="8"/>Hoc habito probatur conclusio inductiue: 
+      <lb ed="#B" n="9"/>certum est enim quod non capitur omnipotentia 
+      re<lb ed="#B" n="10" break="no"/>spectu possibilis primo modo dicti: quia 
+      <lb ed="#B" n="11"/>tunc omnipotentia se exxenderet ad istam: 
+      de<lb ed="#B" n="12" break="no"/>us est: et per consequens posset omnipotentia dei 
+      fa<lb ed="#B" n="13" break="no"/>cere deum esse: quod est impossibile: nec etiam 
+      <lb ed="#B" n="14"/>secundo modo: quia tunc isto modo ista est 
+      possi<lb ed="#B" n="15" break="no"/>bilis: deus est bonus: deus est imniensus 
+      <lb ed="#B" n="16"/>pater est deus: et tamen ad ista non se extendit 
+      <lb ed="#B" n="17"/>omnipotentia dei: vt patet. Ex quo liquide 
+      <lb ed="#B" n="18"/>patet: quod solum dei omnipotentia dicitur respe 
+      <lb ed="#B" n="19"/>ctu creaturarum possibilium: et cum prius natu 
+      <lb ed="#B" n="20"/>ra sint tres personae quam principium 
+      producti<lb ed="#B" n="21" break="no"/>uum per omnipotentiam producat creaturas: 
+      <lb ed="#B" n="22"/>sequitur quod omnipotentia aequaliter est in 
+      pa<lb ed="#B" n="23" break="no"/>tre et filio et spiritu sancto: assumptum 
+      proba<lb ed="#B" n="24" break="no"/>tur scilicet quod prius sint tres personae quam omnipo 
+      <lb ed="#B" n="25"/>tentia aspiciat creaturas. probatur: nam quando 
+      <lb ed="#B" n="26"/>aliqua potentia habet duo obiecta: vnum 
+      <lb ed="#B" n="27"/>necessarium: aliud contingens: prius operatur 
+      <lb ed="#B" n="28"/>circa necessarium quam circa contingens. patet. 
+      <lb ed="#B" n="29"/>prior enim est respectus ad necessarium cum 
+      <lb ed="#B" n="30"/>sit ens perfectius: sed deus aspicit personas 
+      <lb ed="#B" n="31"/>diuinas quae sunt necessarie: et creaturas 
+      <lb ed="#B" n="32"/>quae sunt contingentes: igitur antequam creature 
+      <lb ed="#B" n="33"/>sint producibiles seu producte: tota 
+      produ<lb ed="#B" n="34" break="no"/>ctio ad intra erit completa. Ex quo infero: 
+      <lb ed="#B" n="35"/>quod romanus egidius non sufficienter posuit 
+      <lb ed="#B" n="36"/>ponendo generationem actiuam in patre parti 
+      <lb ed="#B" n="37"/>nere ad omnipotentiam: sed in filio non. Cui 
+      <lb ed="#B" n="38"/>ratio sua est: quia in patre est compossibilis: 
+      <lb ed="#B" n="39"/>in filio non. Et addit iste quod non debet iudi 
+      <lb ed="#B" n="40"/>cari agens impotens si non agat quod ei non 
+      <lb ed="#B" n="41"/>conuenit. Sicut non dicitur ignis 
+      impo<lb ed="#B" n="42" break="no"/>tens si non frigefaciat: quia frigefacere non 
+      <lb ed="#B" n="43"/>conuenit igni Sic non debet censeri filius 
+      <lb ed="#B" n="44"/>in diuinis minus potens quam pater: quia non 
+      <lb ed="#B" n="45"/>generat eo quod non conuenit ei. Contra istum 
+      <lb ed="#B" n="46"/>modum arguo. Quaero enim ab eo si 
+      genera<lb ed="#B" n="47" break="no"/>timo actiua inquantum talis abstrahendo a 
+      sup<lb ed="#B" n="48" break="no"/>posito patris et filii cadat sub omnipoten 
+      <lb ed="#B" n="49"/>tia vel non: si non nec est ergo in patre sub 
+      <!--122.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>omnipotentia quod est contra eum: si sic illud 
+      igi<lb ed="#B" n="51" break="no"/>tur in quo non erit: non erit omnipotens quia 
+      <lb ed="#B" n="52"/>sibi deerit omnipotentia respectu vnius: et 
+      <lb ed="#B" n="53"/>quod declarat quod ignis non dicitur minus 
+      po<lb ed="#B" n="54" break="no"/>tens si non frigefaciat: dico quod exemplum est contr 
+      <lb ed="#B" n="55"/>eum: quia enim ignis solum potest calefacere: et non 
+      <lb ed="#B" n="56"/>frigefacere ideo non est omnipotens si igitur genera 
+      <lb ed="#B" n="57"/>re diceret potentiam sub omnipotentia: et filius 
+      <lb ed="#B" n="58"/>non posset generare non esset omnipotens. 
+      <lb ed="#B" n="59"/>Et si dicatur: iterum quod est maior potentia gi 
+      <lb ed="#B" n="60"/>gnere filium in diuinis quam producere extra 
+      <lb ed="#B" n="61"/>creatur i: si igitur producere creaturam est 
+      sub<lb ed="#B" n="62" break="no"/>omnipotentia: a fortiori et productio filii: 
+      <lb ed="#B" n="63"/>dico quod ex parte dei aequalis est productio fi 
+      <lb ed="#B" n="64"/>lii et creaturarum: quia ab infinito principio  
+      <lb ed="#B" n="65"/>et tamen productiuum principium creaturarum 
+      <lb ed="#B" n="66"/>est sub omnipotentia: et non productiuum 
+      prin<lb ed="#B" n="67" break="no"/>cipium filii aut spiritus sancti: et ratio est: quia 
+      <lb ed="#B" n="68"/>omnipotentia secundum sanctorum vsum est solum 
+      <lb ed="#B" n="69"/>respectu contingentis: licet autem 
+      spiritussan<lb ed="#B" n="70" break="no"/>ctus et filius producantur: tamen necessario et 
+      <lb ed="#B" n="71"/>in eadem essentia cum producente: ideo licet 
+      <lb ed="#B" n="72"/>huiusmodi principium sit potentia: tamen non 
+      <lb ed="#B" n="73"/>continetur in omnipotentia: quia eius 
+      termi<lb ed="#B" n="74" break="no"/>nus est necessarium non contingens: sicut est 
+      <lb ed="#B" n="75"/>terminus omnipotentiae qui est contingens scilicet 
+      <lb ed="#B" n="76"/>creatura.
+</p>
+               <p xml:id="WuV37d-e24211-d1e733">
+¶ Secunda conclusio: naturalis prio 
+      <lb ed="#B" n="77"/>ritas neque ordo enti repugnat diuino: 
+      li<lb ed="#B" n="78" break="no"/>cet gradus. probatur primo omne ordine quod non 
+      <lb ed="#B" n="79"/>repugnat diuinis: auctoritate beati Augustinus 
+      <lb ed="#B" n="80"/>contra maximum cum dicitur filius a patre non si 
+      <lb ed="#B" n="81"/>gnatur inequalitas substantiae sed ordo na 
+      <lb ed="#B" n="82"/>ture. Et confirmatur ratione quando aliqua 
+      distin<lb ed="#B" n="83" break="no"/>guuntur realiter: et habent aliquem ordinem ex 
+      <lb ed="#B" n="84"/>iua ratione formali: etiam illum seruant vbi 
+      <lb ed="#B" n="85"/>non sunt distincta realiter. probatur ista: quia ex 
+      <lb ed="#B" n="86"/>quo distinctio oritur ex ratione formali 
+      stan<lb ed="#B" n="87" break="no"/>te ratione formali stabit distinctio sed per 
+      <lb ed="#B" n="88"/>fectiones quae sunt eiusdem rationis in deo 
+      <lb ed="#B" n="89"/>et in nobis et distinguuntur realiter in 
+      no<lb ed="#B" n="90" break="no"/>bis: et habent in nobis ordinem: vt puta 
+      pri<lb ed="#B" n="91" break="no"/>or est intellectus quam voluntas: prior sci tia 
+      <lb ed="#B" n="92"/>quam dilectio. igitur et hunc et habebunt 
+      or<lb ed="#B" n="93" break="no"/>dinem in diuinis vbi non distinguuntur nisi 
+      <lb ed="#B" n="94"/>formaliter. Sed probatur alia pars: scilicet quod 
+      <lb ed="#B" n="95"/>in diuinis sit prius: quia prioritas est pas 
+      <lb ed="#B" n="96"/>sio ordinis: non est enim intelligibile quod in ali 
+      <lb ed="#B" n="97"/>quo ordine ex parte rei sint aliqua 
+      ordi<lb ed="#B" n="98" break="no"/>nata et tamen illo modo vnum non precedat 
+      <!--123.xml-->
+      <pb ed="#B" n="53-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>aliud. Sed probatur tertia pars scilicet quod non sit 
+      <lb ed="#B" n="2"/>in diuinis gradus. vnde Cusebius. In diui 
+      <lb ed="#B" n="3"/>nis est numerus sed non ordo id est gradus 
+      <lb ed="#B" n="4"/>secundum glosas: et ratio est: quia gradus est a 
+      <lb ed="#B" n="5"/>magis perfecto ad minus perfectum: in diui 
+      <lb ed="#B" n="6"/>nis autem omnia aeque perfecta sunt identice 
+      <lb ed="#B" n="7"/>Ex hoc infero quod sanctus Tho. in hac dist. 
+      <lb ed="#B" n="8"/>non satis dicit dicendo quod in diuinis est or 
+      <lb ed="#B" n="9"/>do: sed non prius. vnde dicit quod ordo in his 
+      <lb ed="#B" n="10"/>inferioribus tria importat. Primo 
+      prio<lb ed="#B" n="11" break="no"/>ritatem: et posterioritatem: et hoc est 
+      imperfe<lb ed="#B" n="12" break="no"/>ctionis. Secundo importat distinctionem: 
+      <lb ed="#B" n="13"/>quia quae ordinantur distinguuntur. Tertio 
+      <lb ed="#B" n="14"/>importat modum secundum quem nominatur: vt puta 
+      <lb ed="#B" n="15"/>dicitur in diuinis ordo naturae: et tunc dicit quod 
+      <lb ed="#B" n="16"/>manet ordo in diuinis secundum tertiam et secundam 
+      <lb ed="#B" n="17"/>ordinis conditionem: quae non dicunt 
+      imperfe<lb ed="#B" n="18" break="no"/>ctionem. sed non secundum primam: quia est imperfe 
+      <lb ed="#B" n="19"/>ctionis: et tunc dicit quod inter patrem et filium est 
+      <lb ed="#B" n="20"/>ordo originis non tamen est pater prior filio. 
+      <lb ed="#B" n="21"/>Contra istum modum dicendi vbi ponit ordi 
+      <lb ed="#B" n="22"/>nem et negat prius arguo vnico medio 
+      ar<lb ed="#B" n="23" break="no"/>gumento franc. de maro. in. 12. dist. huius 
+      <lb ed="#B" n="24"/>primi q. 2. arti. 2. In diuinis est primum. igi 
+      <lb ed="#B" n="25"/>tur prius. antecedens patet per ipsum Tho. in 
+      per<lb ed="#B" n="26" break="no"/>dicta quaestione: et per vsum loquentium: et per 
+      <lb ed="#B" n="27"/>sanctos doctores nominantes patrem primam 
+      <lb ed="#B" n="28"/>personam in diumis: sed probatur consequenta. quia 
+      <lb ed="#B" n="29"/>vbique est superlatiuum et comparatiuum: sed pri 
+      <lb ed="#B" n="30"/>mum est superlatiuum: prius vero 
+      comparati<lb ed="#B" n="31" break="no"/>uum. igitur si in diuinis est prima persona. 
+      igi<lb ed="#B" n="32" break="no"/>tur et prior persona. probatur vero quod primum 
+      <lb ed="#B" n="33"/>sit superlatiuum de prius tribus mediis. 
+      Pri<lb ed="#B" n="34" break="no"/>mo grammatice: nam sic fit comparatio pridem 
+      <lb ed="#B" n="35"/>prior primus. Secundo logice. nam Porphyi 
+      <lb ed="#B" n="36"/>rius in predicabilibus ponit decem prima 
+      <lb ed="#B" n="37"/>genia. Cum igitur semper superlatiuorum sit 
+      ma<lb ed="#B" n="38" break="no"/>ior paucitas et plura sint priora genia quam 
+      de<lb ed="#B" n="39" break="no"/>cem: quae non sunt prima: sicut sunt interme 
+      <lb ed="#B" n="40"/>dia inter prima genia et species: sequitur quod prius 
+      <lb ed="#B" n="41"/>mum est superlatiuum. Tertio probatur phisice 
+      <lb ed="#B" n="42"/>quia philosophus concludit in septimo et octauo 
+      <lb ed="#B" n="43"/>philosophicorum: quod est dandum vnum primum mouens: 
+      <lb ed="#B" n="44"/>et tamen secundum eum multa sunt priora mouen 
+      <lb ed="#B" n="45"/>tia. Confirmatur per beatum dionysi. 7. de 
+      <lb ed="#B" n="46"/>angelica hierarchia: vbi dicit quod in 
+      quoli<lb ed="#B" n="47" break="no"/>bet ordine est procedere a posteriori ad 
+      <lb ed="#B" n="48"/>prius vsque ad vnum hierarcham: et finali 
+      <lb ed="#B" n="49"/>ter est dare vnum seraph: qui simpliciter 
+      <!--123.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>est primus et super omnes et tamen constatr quod 
+      <lb ed="#B" n="51"/>sunt multi priores scilicet omnes ab insimo 
+      <lb ed="#B" n="52"/>vsque ad primum: et hoc est: quod dicit philosophus v. 
+      <lb ed="#B" n="53"/>Thopicorum in fine: quod per superabundan 
+      <lb ed="#B" n="54"/>tiam dicitur: vni soli conuenit.
+</p>
+               <p xml:id="WuV37d-e24211-d1e911">
+¶ Tertia 
+      <lb ed="#B" n="55"/>conclusio: prior natura est ad intra 
+      persona<lb ed="#B" n="56" break="no"/>rum constitutio quam omnipotentiae 
+      comple<lb ed="#B" n="57" break="no"/>ta ratio. probatur conclusio ista medio per doc. 
+      <lb ed="#B" n="58"/>subti. in prima quaestione suorum quolibeto 
+      <lb ed="#B" n="59"/>rum. Quandocumque aliquod in diuinis dicit 
+      <lb ed="#B" n="60"/>respectum ad creaturas: eo posterius est quod 
+      <lb ed="#B" n="61"/>talem non dicit respectum: sed omnipotentia 
+      <lb ed="#B" n="62"/>de nomine suo quendam respectum rationis 
+      di<lb ed="#B" n="63" break="no"/>cit ad creaturas: constitutio personarum 
+      <lb ed="#B" n="64"/>non: igitur prior est natura constitutio 
+      per<lb ed="#B" n="65" break="no"/>sonarum ipsa omnipotentia. maior patet: po 
+      <lb ed="#B" n="66"/>non enim quo ad praesens in diuinis tria 
+      si<lb ed="#B" n="67" break="no"/>gna. In primo sunt essentialia. in secundo 
+      <lb ed="#B" n="68"/>notionalia. in tertio ea quae dicunt respectum ad 
+      <lb ed="#B" n="69"/>creaturas / siue sunt essentialia / sicut scientia: siue 
+      <lb ed="#B" n="70"/>notionalia: sicut donum: et ratio est: quia 
+      pri<lb ed="#B" n="71" break="no"/>us est quod est a se quam quod est ad aliud: et prius 
+      <lb ed="#B" n="72"/>quod solum refertur ad distinctum in perso 
+      <lb ed="#B" n="73"/>na quam ad distinctum in essentia: 
+      cuiusmo<lb ed="#B" n="74" break="no"/>di sunt creaturae. Sed probatur minor: 
+      <lb ed="#B" n="75"/>omnipotentia enim dicit respectum ad 
+      possi<lb ed="#B" n="76" break="no"/>bile: sicut potentia: paternitas vero solum 
+      <lb ed="#B" n="77"/>ad filium: et filius solum ad patrem: et spiritus 
+      <lb ed="#B" n="78"/>sanctus solum ad patrem et filium. Et si 
+      dica<lb ed="#B" n="79" break="no"/>tur quod essentialia secundum doctorem nostrum prae 
+      <lb ed="#B" n="80"/>cedunt notionalia: omnipotentia vero 
+      di<lb ed="#B" n="81" break="no"/>cit quid essentiale commune tribus personis  
+      <lb ed="#B" n="82"/>Dico quod essentialia possunt considerari ab 
+      <lb ed="#B" n="83"/>solute: et sic praecedunt notionalia: aut 
+      in<lb ed="#B" n="84" break="no"/>quantum addunt illum respectum rationis. 
+      <lb ed="#B" n="85"/>ad creaturas: et sic sequuntur non ratione 
+      <lb ed="#B" n="86"/>sui: sed ratione respectus: sicut scientia in 
+      <lb ed="#B" n="87"/>quantum solum nominat cognitionem praece 
+      <lb ed="#B" n="88"/>dit quamcunque notionem: inquantum vero 
+      ad<lb ed="#B" n="89" break="no"/>dit respectum ad scibile: sequitur Sic dico idem 
+      <lb ed="#B" n="90"/>de omnipotentia. Et hoc de secundo articulo. 
+      <lb ed="#B" n="91"/>Quo ad tertium articulum sunt 
+      <lb ed="#B" n="92"/>xtres difficul 
+      <lb ed="#B" n="93"/>tates iuxta tres conclusiones.
+</p>
+               <p xml:id="WuV37d-e24211-d1e998">
+¶ Prima 
+      <lb ed="#B" n="94"/>est: vnde est hoc quod potentia producendi 
+      <lb ed="#B" n="95"/>filium simpliciter dicitur potentia et tamet 
+      <lb ed="#B" n="96"/>non dicitur communiter filius possibilis 
+      po<lb ed="#B" n="97" break="no"/>tentia passiua seu obiectiua. Dicit doct. 
+      <lb ed="#B" n="98"/>subti. in ista distinctione quod ratio est: quia 
+      <!--124.xml-->
+      <pb ed="#B" n="54-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>nomina quae dicunt perfectionem attribuun 
+      <lb ed="#B" n="2"/>tur diuinis: non quae sonant imperfectionem 
+      <lb ed="#B" n="3"/>et quia nomen potentiae productiue dicit 
+      <lb ed="#B" n="4"/>perfectionem: recte dicitur in deo patre: no 
+      <lb ed="#B" n="5"/>men vero passiue potentiae non nominai 
+      <lb ed="#B" n="6"/>ita perfectionem: ideo non ita solet dici in 
+      <lb ed="#B" n="7"/>filio: et est consimile tactum in distinctione 
+      <lb ed="#B" n="8"/>16. capitulo hylarius. In quo hylarius attribu 
+      <lb ed="#B" n="9"/>it hoc nomen maior patri: quia dicit 
+      perfe<lb ed="#B" n="10" break="no"/>ctionem: et non vult quod filius dicatur minor: 
+      <lb ed="#B" n="11"/>quia dicit imperfectionem.
+</p>
+               <p xml:id="WuV37d-e24211-d1e1042">
+¶ Secunda 
+      <lb ed="#B" n="12"/>difficultas est: quomodo potest esse ordo no 
+      <lb ed="#B" n="13"/>turae in diuinis cum vnica sit natura. Respon 
+      <lb ed="#B" n="14"/>det doctor deuotus hac distinctione. q. 3. 
+      <lb ed="#B" n="15"/>quod in diuinis dicitur ordo naturae non subie 
+      <lb ed="#B" n="16"/>ctiue quasi essent plures naturae ordinate 
+      <lb ed="#B" n="17"/>sed quia in eadem natura: siue ex eadem natu 
+      <lb ed="#B" n="18"/>ra iste ordo oritur.
+</p>
+               <p xml:id="WuV37d-e24211-d1e1060">
+¶ Tertia difficul 
+      <lb ed="#B" n="19"/>tas est: Quia si omnipotentia sequeretur 
+      <lb ed="#B" n="20"/>ordine naturae constitutionem personarum: 
+      <lb ed="#B" n="21"/>sequeretur quod personae essent ratio 
+      producem<lb ed="#B" n="22" break="no"/>di creaturas: quod negat doctor subtilis id est 
+      <lb ed="#B" n="23"/>q. 2. Dico quod omnipotentia non praeexigit 
+      <lb ed="#B" n="24"/>constitutiones personarum tanquam rationemu 
+      <lb ed="#B" n="25"/>vt producat effectum seu creaturas: si enim so 
+      <lb ed="#B" n="26"/>lus esset pater in diuinis: adhuc esse 
+      pos<lb ed="#B" n="27" break="no"/>sent creature: sed iste ordo solum oritur 
+      ra<lb ed="#B" n="28" break="no"/>tione respectuum realium et rationis: quia re 
+      <lb ed="#B" n="29"/>spectus reales quibus constitute sunt 
+      per<lb ed="#B" n="30" break="no"/>sonae precedunt illos respectus rationis: quo 
+      <lb ed="#B" n="31"/>rum vnum vt dictum est connotat omnipotentia 
+      <lb ed="#B" n="32"/>et est simile: sicut in sole illuminare lucere 
+      <lb ed="#B" n="33"/>praesupponit: et tamen lucere non causat illuni 
+      <lb ed="#B" n="34"/>nare: sed solum sunt effectus ordinati eius 
+      <lb ed="#B" n="35"/>dem causae: sic in proposito solum est ordo non ra 
+      <lb ed="#B" n="36"/>tio agendi: et sic patet ad questionem: quod vi 
+      <lb ed="#B" n="37"/>delicet diuinis personis omnipotentia non gra 
+      <lb ed="#B" n="38"/>du sed ordine tribuitur: quia illam eandem 
+      po<lb ed="#B" n="39" break="no"/>tentiam quam pater habet a se tribuit filio: et 
+      <lb ed="#B" n="40"/>ambo spiritui sancto. Et tunc ad argumen 
+      <lb ed="#B" n="41"/>ta. Ad primum nego minorem: et ad 
+      probatio<lb ed="#B" n="42" break="no"/>nem dico: quod potentia generandi non est 
+      sub<lb ed="#B" n="43" break="no"/>omnipotentia: vt loquuntur de omnipotentia 
+      <lb ed="#B" n="44"/>sancti: quia talis omnipotentia solum habei 
+      <lb ed="#B" n="45"/>terminum creatum: potentia vero generandi 
+      <lb ed="#B" n="46"/>solum habet terminum increatum scilicet filium: ideo 
+      <lb ed="#B" n="47"/>non concludit: et quod arguit de Aug. Dico 
+      <lb ed="#B" n="48"/>quod argumentum suum tenet loco extrinseco: 
+      <lb ed="#B" n="49"/>intrinseco non. Ad secundum dico: quod maior 
+      <!--124.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>est vera quando fit elongatio ratione imperfe 
+      <lb ed="#B" n="51"/>ctionis: sic non est in proposito: quamuis enim in 
+      <lb ed="#B" n="52"/>creaturis sit imperfectionis quod differunt 
+      es<lb ed="#B" n="53" break="no"/>sentialiter a deo: non tamen quod procedunt ab 
+      <lb ed="#B" n="54"/>eo: et ideo si hoc secundum conueniat filio dei 
+      <lb ed="#B" n="55"/>non patri: non debet imperfectior argui 
+      fi<lb ed="#B" n="56" break="no"/>lius. Ad tertium nego minorem: et dico quod 
+      <lb ed="#B" n="57"/>ista productio rerum inesse intelligibili fit 
+      <lb ed="#B" n="58"/>a tota trinitate: et ratio est: quia completur 
+      <lb ed="#B" n="59"/>totum ens reale ad intra ante istud esse co 
+      <lb ed="#B" n="60"/>gnitum quod est ens rationis: et quod dicit patet 
+      <lb ed="#B" n="61"/>a se producit non obuiat: licet enim pater a 
+      <lb ed="#B" n="62"/>se producat spiritum sanctum non sequitur quin fi 
+      <lb ed="#B" n="63"/>lius producat eum. Et quod dicit in primo signo 
+      <lb ed="#B" n="64"/>pater est beatus: concedo: videndo suam 
+      es<lb ed="#B" n="65" break="no"/>sentiam nec fit beatior his respectibus rationis 
+      <lb ed="#B" n="66"/>Et quod dicit Aug. quod visione idearum fit anima 
+      <lb ed="#B" n="67"/>beatissima. Dico quod debet intelligi 
+      conse<lb ed="#B" n="68" break="no"/>cutiue id est si in deo videat has ideas signum 
+      <lb ed="#B" n="69"/>est beatitudinis: quia videt deum. Et hoc 
+      <lb ed="#B" n="70"/>de quastione.
+</p>
+            </div>
+            <div xml:id="WuV37d-e24211-Dd1e1181" type="et-conclusiones">
+               <head xml:id="WuV37d-e24211-Hd1e1183">Conclusiones</head>
+               <p xml:id="WuV37d-e24211-d1e1186">
+¶ Ex ista vero distinctione  
+      <lb ed="#B" n="71"/>sicut ex praecedentibus tres de mente magistri 
+      <lb ed="#B" n="72"/>eliciuntur conclusiones. Prima est: vera aeque 
+      <lb ed="#B" n="73"/>litas omnipotentiae tribus vt veritas clamat 
+      <lb ed="#B" n="74"/>inest pie. Dicit conclusio quod tres diuinae 
+      per<lb ed="#B" n="75" break="no"/>sonae sunt penitus aeque omnipotentes. Et 
+      <lb ed="#B" n="76"/>hanc deducit magister a principio 
+      distin<lb ed="#B" n="77" break="no"/>ctionis vsque ad illud ca. Nihil inquit patre 
+      <lb ed="#B" n="78"/>minus habet.
+</p>
+               <p xml:id="WuV37d-e24211-d1e1206">
+  Secunda conclusio: a patre 
+      gi<lb ed="#B" n="79" break="no"/>gnitur vnigenitus aeque penitus qui potens 
+      <lb ed="#B" n="80"/>dicitur: dicit conclusio: quod pater genuit filium 
+      <lb ed="#B" n="81"/>per omnia sibi aequalem in potentia. Et 
+      dedu<lb ed="#B" n="82" break="no"/>citur ista conclusio ab illo capitulo: Nihil inquit etc. 
+      <lb ed="#B" n="83"/>vsque ad illud capitulum. Sed forte dices.
+</p>
+               <p xml:id="WuV37d-e24211-d1e1219">
+  Ter 
+      <lb ed="#B" n="84"/>tia conclusio. Non eo melior est qui genu 
+      <lb ed="#B" n="85"/>it aut impotentior: quia non potuit: dicit 
+      <lb ed="#B" n="86"/>conclusio quod pater qui genuit non est 
+      meli<lb ed="#B" n="87" break="no"/>or: quia genuit: Nec filius impotentior: 
+      <lb ed="#B" n="88"/>quia non potuit gignere. Et deducit istam 
+      <lb ed="#B" n="89"/>conclusionem magister ab illo capitulo: Sed for 
+      <lb ed="#B" n="90"/>te dices: vsque ad finem distinctionis.
+</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

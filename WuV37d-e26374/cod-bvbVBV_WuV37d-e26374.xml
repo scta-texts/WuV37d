@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 22</title>
+            <author ref="#WilliamDeVaurouillon">William de Vaurouillon</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 22</title>
+               <date when="2021-06-19">June 19, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-bvbVBV">Basel 1510</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-06-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="56-v"/>
+            <cb ed="#B" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="WuV37d-e26374"><!-- l1d22 -->
+            <head xml:id="WuV37d-e26374-Hd1e108">Distinctio 22</head>
+            <div xml:id="WuV37d-e26374-Dd1e111" type="circa-textum">
+               <head xml:id="WuV37d-e26374-Hd1e113">Circa textum</head>
+               <p xml:id="WuV37d-e26374-d1e116">
+                  <lb ed="#B" n="20"/>Distinctio vicesimasecunda in qua 
+      <lb ed="#B" n="21"/>magister agit de sacra trinitate secundm quod 
+      <lb ed="#B" n="22"/>credita et intellecta rationabiliter et 
+      <lb ed="#B" n="23"/>catholice exprimitur.
+    </p>
+               <p xml:id="WuV37d-e26374-d1e127">
+                  <lb ed="#B" n="24"/>POst praedicta 
+      no<lb ed="#B" n="25" break="no"/>pbis disserendum videtur de no 
+      <lb ed="#B" n="26"/>. minum diuersitate: quibus 
+      <lb ed="#B" n="27"/>loquentes de vnitate ac trinitate in 
+      <lb ed="#B" n="28"/>effabili vtimur etc. Hic signatur 
+      distin<lb ed="#B" n="29" break="no"/>ctio vicesimasecunda huius primi in qua 
+      <lb ed="#B" n="30"/>postquam magister in secunda distinctione 
+      ostem<lb ed="#B" n="31" break="no"/>dit quid deo sit credendum. Et a tertia 
+      di<lb ed="#B" n="32" break="no"/>stinctione vsque. Hic ondit quomodo creditum sit 
+      <lb ed="#B" n="33"/>intelligendum. Nunc consequenrt ostendit quomodo quod 
+      cre<lb ed="#B" n="34" break="no"/>ditur et intelligitur sane est exprimendum: et 
+      <lb ed="#B" n="35"/>partitur in tres. Primo enim ad praedicta 
+      tex<lb ed="#B" n="36" break="no"/>tus iungitur sermone prohemiali. Secundo 
+      <lb ed="#B" n="37"/>de nominibus diuins agitur inquisitione geniali. 
+      Ter<lb ed="#B" n="38" break="no"/>tio discussiue magis descenditur in istis modo 
+      <lb ed="#B" n="39"/>speciali. Secunda incipit ibi. Illud igitur 
+      prae<lb ed="#B" n="40" break="no"/>cise. Tertia dist. 23. praedictis adiiciendum est 
+      <lb ed="#B" n="41"/>quod cum omnia etc. Secunda iterum pars in qua 
+      <lb ed="#B" n="42"/>agit de nominibus diuinis in tres diuiditur 
+      <lb ed="#B" n="43"/>particulas. In prima nominum diuinorum 
+      tri<lb ed="#B" n="44" break="no"/>nus datur binarius. Secundo ad se id est commu 
+      <lb ed="#B" n="45"/>nium et propriorum censetur tenor varius. 
+      Ter<lb ed="#B" n="46" break="no"/>tio relatiue non dictorum extat vnifarius. Pri 
+      <lb ed="#B" n="47"/>ma in principio. Secunda ibi. Sciendum 
+      <lb ed="#B" n="48"/>est igitur quod illa quae proprie ad singulas per¬ 
+      <!--129.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="49"/>tinent personas. Tertia ibi. Deus enim non est 
+      <lb ed="#B" n="50"/>magnus ea magnitudine quae etc. Et haec 
+      <lb ed="#B" n="51"/>est diuisio praesentis etc. 
+      </p>
+            </div>
+            <div xml:id="WuV37d-e26374-Dd1e196">
+               <head xml:id="WuV37d-e26374-Hd1e198">Quaestio</head>
+               <p xml:id="WuV37d-e26374-d1e201">
+                  <lb ed="#B" n="52"/>¶ Questio haec determinat de nomin 
+      <lb ed="#B" n="53"/>bus viatori diuina essentiam 
+      signifi<lb ed="#B" n="54" break="no"/>cantibus in qua impugnatur doctor 
+      <lb ed="#B" n="55"/>olennis in summa et quolibetis: et 
+      ha<lb ed="#B" n="56" break="no"/>betur a Scoto in hoc loco in reporta 
+      <lb ed="#B" n="57"/>tionibus clarius quam opere anglicano. 
+      <lb ed="#B" n="58"/>Frca quam etc. 
+      <lb ed="#B" n="59"/>Utrum nomina simbolica et 
+      misti<lb ed="#B" n="60"/> cca ad diuinos recipiantur 
+      sermo<lb ed="#B" n="61" break="no"/>nes. Et arguitur quod non triplici medio. 
+      Pri<lb ed="#B" n="62" break="no"/>mo sic: ostendendo quod nullum nomen debet 
+      <lb ed="#B" n="63"/>deo attribui: nomins ad nominatum seu signifi 
+      <lb ed="#B" n="64"/>catum nomins: debet esse proportio sed dei ad 
+      <lb ed="#B" n="65"/>quodcumque nomen nulla extat proportio igitur 
+      <lb ed="#B" n="66"/>non conuenit deo nominari. maior patet: sicut 
+      <lb ed="#B" n="67"/>enim mentis conceptus primo signatum 
+      reprice<lb ed="#B" n="68" break="no"/>sentat: et ei fit similis sic nomen secundario 
+      <lb ed="#B" n="69"/>vnde Aristo. in primo periarmenias. 
+      Uo<lb ed="#B" n="70" break="no"/>ces sunt note earum passionum quae sunt in anima 
+      <lb ed="#B" n="71"/>ita quod primo nomina intentionem significant per eam 
+      <lb ed="#B" n="72"/>rem exterius. Sed minor probatur: quia nomen 
+      <lb ed="#B" n="73"/>finitum est: deus vero infinitus: nomen est 
+      tran<lb ed="#B" n="74" break="no"/>sitorium: deus vero aeternus.
+</p>
+               <p xml:id="WuV37d-e26374-d1e253">
+¶ Secundo  
+      <lb ed="#B" n="75"/>arguitur sic: probando quod nomina simbolica non 
+      <lb ed="#B" n="76"/>dicuntur de deo: nullum praedicatum dicitur de 
+      <lb ed="#B" n="77"/>deo cuius negatio in eodem instanti pro quo 
+      <lb ed="#B" n="78"/>affirmatur de deo est vera: sed negatio 
+      cu<lb ed="#B" n="79" break="no"/>iuslibet nomins simbolici in eodem instanti pro 
+      <lb ed="#B" n="80"/>quo affirmatur de deo nomen simbolicum est 
+      <lb ed="#B" n="81"/>vera: igitur nomen simbolicum de deo non dici 
+      <lb ed="#B" n="82"/>tur. maior patet per primum principium de quali 
+      <lb ed="#B" n="83"/>bet affirmatio vel negatio et de nullo am 
+      <lb ed="#B" n="84"/>bo simul. Sed minor patet auctoritate 
+      <lb ed="#B" n="85"/>vulgata extracta a diuino dionysio in li. 
+      <lb ed="#B" n="86"/>de diuinis nomnibus et mystica theologia: ne 
+      <lb ed="#B" n="87"/>gationes de deo sunt vere affirmationes 
+      <lb ed="#B" n="88"/>incompactae.
+</p>
+               <p xml:id="WuV37d-e26374-d1e286">
+¶ Tertio arguitur quod nomina 
+      my<lb ed="#B" n="89" break="no"/>stica non dicantur in deo. Nullum nomen vnde 
+      <lb ed="#B" n="90"/>error exoritur verisimiliter diuinis est attri 
+      <lb ed="#B" n="91"/>buendum: sed ex nomnibus mysticis deo attri 
+      <lb ed="#B" n="92"/>butis verisimiliter error exoritur. igitur 
+      diui<lb ed="#B" n="93" break="no"/>nis non debent attribui. maior patet: quia 
+      ca<lb ed="#B" n="94" break="no"/>stissima scientia cuiusmodi est theologia 
+      <lb ed="#B" n="95"/>ab errore omni debet elongari. Sed minor 
+      <lb ed="#B" n="96"/>probatur. Si enim ponam deum esse animam: occasio 
+      <!--130.xml-->
+      <pb ed="#B" n="57-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>est dicendi / quod animae nostrae de essentia sunt dei: 
+      <lb ed="#B" n="2"/>sicut multi posuerunt haeretici. Si iterum di 
+      <lb ed="#B" n="3"/>cam quod sit spiritus: erit occasio quod dicam deum 
+      an<lb ed="#B" n="4" break="no"/>gelum: sicut imponitur origeni: quod posuit san 
+      <lb ed="#B" n="5"/>ctumspiritum vnum de seraphin.
+</p>
+               <p xml:id="WuV37d-e26374-d1e323">
+¶ In oppositum 
+      <lb ed="#B" n="6"/>est diuinus Dionysius in li. de diui. nomnibus 
+      <lb ed="#B" n="7"/>et mystica theologia: nomnibus tam mysticis 
+      <lb ed="#B" n="8"/>quam symbolicis deum denominans: vnde quo 
+      <lb ed="#B" n="9"/>ad nomina symbolica: vt innuit in episto 
+      <lb ed="#B" n="10"/>la ad Titum: dicitur lux / character / speculum. 
+      <lb ed="#B" n="11"/>In de mystica vero theologia dicitur intelle 
+      <lb ed="#B" n="12"/>ctus animae etc.
+</p>
+               <p xml:id="WuV37d-e26374-d1e342">
+¶ In ista quaestione in or 
+      <lb ed="#B" n="13"/>dine ad alias pariformiter sunt tres arti 
+      <lb ed="#B" n="14"/>culi declarandi. 
+      <lb ed="#B" n="15"/>Primus est terminorum declaratiuus. 
+      <lb ed="#B" n="16"/>Quorum Secundus est quaestionis responsiuus. 
+      </p>
+               <p xml:id="WuV37d-e26374-d1e353">
+                  <lb ed="#B" n="17"/>¶ Tertius est dubiorum motiuus.  
+      <lb ed="#B" n="18"/>Quo ad primii primus 
+      ter<lb ed="#B" n="19" break="no"/>minus est 
+      <lb ed="#B" n="20"/>nomen. 
+</p>
+               <p xml:id="WuV37d-e26374-d1e364">
+¶ Nomen dicitur a notamine. 
+      <lb ed="#B" n="21"/>Ante nomen secundum grammaticum signat substan 
+      <lb ed="#B" n="22"/>tiam cum qualitate propria vel communi. Unde no 
+      <lb ed="#B" n="23"/>tandum est secundum doctorem deuotum: Nomen 
+      ha<lb ed="#B" n="24" break="no"/>bet seu dicit tria scilicet vocem: secundo 
+      significa<lb ed="#B" n="25" break="no"/>tum: tertio rationem innotescendi. Primo enim 
+      <lb ed="#B" n="26"/>hicit nomen vocem: quia secundum Aristotelem in. i 
+      <lb ed="#B" n="27"/>peri hermenias. Nomen est vox 
+      signifi<lb ed="#B" n="28" break="no"/>catiua ad placitum: et sic restringitur contra 
+      <lb ed="#B" n="29"/>nomen mentale et scriptum: quae verius 
+      dicun<lb ed="#B" n="30" break="no"/>tur conceptus quam nomina. hoc modo dicimus: 
+      <lb ed="#B" n="31"/>hoc nomen est petri aut pauli. Secundo  
+      <lb ed="#B" n="32"/>dicit nomen signatum: sicut dicimns: bonum et 
+      <lb ed="#B" n="33"/>honestum sunt idem nomine. Tertio modo 
+      di<lb ed="#B" n="34" break="no"/>cit nomen innotescendi rationem: sicut 
+      dici<lb ed="#B" n="35" break="no"/>mus quod alio modo innotescit nobis deus in 
+      <lb ed="#B" n="36"/>quantum veritas: alio modo inquantum bonitas. 
+      <lb ed="#B" n="37"/>Unde proprie loquendo de nomine. Nomen 
+      <lb ed="#B" n="38"/>est terminus secundae impositionis / in prima 
+      <lb ed="#B" n="39"/>fundatus impositione: dictionibus in esse et 
+      <lb ed="#B" n="40"/>quiete rem significantibus conueniens. 
+      No<lb ed="#B" n="41" break="no"/>to secundo / quod ad nomen secundum docto. subtilem 
+      <lb ed="#B" n="42"/>q. I. huius distinctionis tria requiruntur. 
+      <lb ed="#B" n="43"/>Primo quod ab vtente vt signum recipiatur / et 
+      <lb ed="#B" n="44"/>non vt res: vnde si pica proferat hunc 
+      ter<lb ed="#B" n="45" break="no"/>minum petrus: non proprie dicitur petrum 
+      nomi<lb ed="#B" n="46" break="no"/>nare: quia non accipit vt est signum / sed vt est 
+      <lb ed="#B" n="47"/>res quedam. Secundum quod requiritur est: 
+      <lb ed="#B" n="48"/>vt non solum alicui sit signum / / sed vtenti: vnde 
+      <lb ed="#B" n="49"/>si aliquis christianus hebreum nesciens: cha 
+      <!--130.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>racteres proferret hebraeos / eos nesciens: 
+      <lb ed="#B" n="51"/>licet eosdem caperet iudeus: non tamen essent 
+      <lb ed="#B" n="52"/>tunc proprie nomina: quia proferens tunc non in 
+      <lb ed="#B" n="53"/>telligeret. Tertium quod ad minus vtens seu 
+      <lb ed="#B" n="54"/>proferens aliqualem signati per nomen 
+      cogni<lb ed="#B" n="55" break="no"/>tionem habeat / siue in particulari / siue in vni 
+      <lb ed="#B" n="56"/>uersali: sicut proferens hoc nomen homo: aliqua 
+      <lb ed="#B" n="57"/>liter cognitionem hominis habet: licet non 
+      <lb ed="#B" n="58"/>requiratur quod cognoscat eius substantiam: quia 
+      <lb ed="#B" n="59"/>in via rerum substantiae sunt ignotae nobis. Ad  
+      <lb ed="#B" n="60"/>dunt aliqui quartum: et etiam tangit doctor: 
+      <lb ed="#B" n="61"/>vt alii per nomen fiat manifestatio: quamuis non 
+      <lb ed="#B" n="62"/>necessario requiratur. Possum nempe mihi 
+      <lb ed="#B" n="63"/>met loqui: et completam habere nomins 
+      rati<lb ed="#B" n="64" break="no"/>onem. Uerum est tamen quod dum id ad aliud 
+      re<lb ed="#B" n="65" break="no"/>fertur: magis completur nominis ratio. Unde 
+      in<lb ed="#B" n="66" break="no"/>quit Plato in timaeo. Ad hoc datus est no 
+      <lb ed="#B" n="67"/>pis sermo: vt mutuos nostros conceptus  
+      <lb ed="#B" n="68"/>valeamus exprimere. Et idem habet Augstinus 
+      <lb ed="#B" n="69"/>super Egech. 13. Noto tertio secundum Fran. de 
+      <lb ed="#B" n="70"/>maro. distinctione hac: quod signatum nomins 
+      <lb ed="#B" n="71"/>potest capi tripliciter / antequam nominetur. 
+      <lb ed="#B" n="72"/>Primo vt quidditas: sicut humanitas in 
+      <lb ed="#B" n="73"/>suantum humanitas. Secundo vt intelligibile. 
+      <lb ed="#B" n="74"/>Tertio vt intellectum. Et tunc per actum 
+      volum<lb ed="#B" n="75" break="no"/>tatis signatur nomine vt manifestetur: quae tamen 
+      <lb ed="#B" n="76"/>signatio respondit primo signo: signat enim homo 
+      <lb ed="#B" n="77"/>humanitatem inquantum humanitas: et non solum in 
+      <lb ed="#B" n="78"/>quantum intelligitur.
+</p>
+               <p xml:id="WuV37d-e26374-d1e496">
+¶ Secundus terminus est 
+      <lb ed="#B" n="79"/>symbolicu: et dicitur a sin quod est simul: et 
+      <lb ed="#B" n="80"/>bole sententia. Unde dicitur nomen symbolicum 
+      <lb ed="#B" n="81"/>in diuinis: quando nomen creature sensibilis deo 
+      <lb ed="#B" n="82"/>attribuitur: ita tamen quod proprie conuenit 
+      creatu<lb ed="#B" n="83" break="no"/>ris / sed deo improprie. Sicut dum dicitur: 
+      de<lb ed="#B" n="84" break="no"/>us est leo: deus est pera etc. Unde quo ad  
+      <lb ed="#B" n="85"/>stos duos terminos symbolicum et mysti 
+      <lb ed="#B" n="86"/>cum: noto quod deus secundum diuinum Diony. 7. de 
+      <lb ed="#B" n="87"/>diuinis nomnibus cognoscitur a nobis tripli 
+      <lb ed="#B" n="88"/>citer: per modum causalitatis: per modum 
+      emi<lb ed="#B" n="89" break="no"/>nentiae / et per modum remotionis. Per modum 
+      <lb ed="#B" n="90"/>causalitatis accipiuntur in diuinis nomina phi 
+      <lb ed="#B" n="91"/>losophica: vt innuit idem Diony. in epostola ad  
+      <lb ed="#B" n="92"/>Titum: vbi distinguit nomina mystica contra 
+      phi<lb ed="#B" n="93" break="no"/>losophica: sicut est causa mouens / immobile. 
+      <lb ed="#B" n="94"/>Per viam autem eminentiae accipiuntur nomina ana 
+      <lb ed="#B" n="95"/>loga: sicut dicimus secundum eundem in de mystica the 
+      <lb ed="#B" n="96"/>ologia / deum non solum sapicntem sed supersa 
+      <lb ed="#B" n="97"/>pientem: non solum bonum / sed superbonum: 
+      <lb ed="#B" n="98"/>et haec possunt dici mystica / a mysterio ab¬ 
+      <!--131.xml-->
+      <pb ed="#B" n="57-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>scondito. Tertio vero per viam remotionis: 
+      si<lb ed="#B" n="2" break="no"/>cut dicimus deum infinitum / incorporeum etc. 
+      <lb ed="#B" n="3"/>inquantum negamus ab eo finitatem et corpo 
+      <lb ed="#B" n="4"/>reitatem: et ista nomina dicuntur propria: quia nulli 
+      <lb ed="#B" n="5"/>alii conueniunt. Et in ista tertia comparatione ca 
+      <lb ed="#B" n="6"/>pi possunt nomina symbolica: vnde dum dico: 
+      <lb ed="#B" n="7"/>Deus est leo: verius negatur a deo quam 
+      praedi<lb ed="#B" n="8" break="no"/>cetur: proprietas enim solum est in creatis: sed 
+      <lb ed="#B" n="9"/>similitudo quaedam est in deo. 
+</p>
+               <p xml:id="WuV37d-e26374-d1e568">
+¶ Noto tamen se 
+      <lb ed="#B" n="10"/>cundo: quod huiusmodi nominum symbolicorum tres 
+      <lb ed="#B" n="11"/>sunt differentiae. Aliqua emim sunt quorum 
+      solum<lb ed="#B" n="12" break="no"/>negatio ponitur in deo / nunquam affirmatio 
+      si<lb ed="#B" n="13" break="no"/>cut est finitas: numquam enim deus dicitur finitus / 
+      <lb ed="#B" n="14"/>sed semper infinitus. Alia sunt et secunda: quo 
+      <lb ed="#B" n="15"/>rum primo nomen repertum est in creaturis 
+      cor<lb ed="#B" n="16" break="no"/>poralibus: tamen res prius est in deo: 
+      cuius<lb ed="#B" n="17" break="no"/>modi est paternitas: nomen enim paternita 
+      <lb ed="#B" n="18"/>tis prius repertum est in creaturis: licet 
+      pri<lb ed="#B" n="19" break="no"/>us sit in deo. Unde apostolus. Ex quo omnis pater 
+      <lb ed="#B" n="20"/>nitas in caelo et in terra nominatur. Tertia sunt 
+      <lb ed="#B" n="21"/>quorum proprietas prius est in creatura 
+      cor<lb ed="#B" n="22" break="no"/>porali: secundo in deo: et ista sunt proprie symbo 
+      <lb ed="#B" n="23"/>lica: sicut leo est prius in creaturis: et 
+      per<lb ed="#B" n="24" break="no"/>quandam proprietatem fortitudinis ad diuina 
+      <lb ed="#B" n="25"/>transfertur. 
+</p>
+               <p xml:id="WuV37d-e26374-d1e605">
+¶ Noto etiam et pro tertio 
+      ter<lb ed="#B" n="26" break="no"/>mino / quod nomna mystica capiuntur 
+      tripli<lb ed="#B" n="27" break="no"/>citer. Primo modo pro nomine reperto in deo / 
+      <lb ed="#B" n="28"/>non in creaturis: hoc modo diuinitas est 
+      no<lb ed="#B" n="29" break="no"/>mem mysticum. Secundo pro nomine transsato a 
+      crea<lb ed="#B" n="30" break="no"/>turis spiritualibus: cuius tamen res est primarie in 
+      <lb ed="#B" n="31"/>deo: sicut est sapientia. Tertio pro nomine 
+      trans<lb ed="#B" n="32" break="no"/>lato a spiritualibus: cuius primo res est in 
+      creatu<lb ed="#B" n="33" break="no"/>ra. Secundo quaedam similitudo in deo reparitur: sicut 
+      <lb ed="#B" n="34"/>est ratio. Ratio enim primo in anima reparta est: 
+      <lb ed="#B" n="35"/>et deinde propter quandam similitudinem ad diui 
+      <lb ed="#B" n="36"/>na transfertur. Et hoc de primo articulo. 
+      <lb ed="#B" n="37"/>Quantum ad secundum arti. 
+      <lb ed="#B" n="38"/>culum 
+      <lb ed="#B" n="39"/>sunt tres conclusiones.
+</p>
+               <p xml:id="WuV37d-e26374-d1e639">
+¶ Prima est. No 
+      <lb ed="#B" n="40"/>mine a viatore prolato sub ratione qua seipsam 
+      <lb ed="#B" n="41"/>comprehendit / diuina signari potest essentia. 
+      <lb ed="#B" n="42"/>Ista conclusio probatur. Quandocumque signum ta 
+      <lb ed="#B" n="43"/>li modo se habet ad signatum / quod non oportet 
+      <lb ed="#B" n="44"/>amborum esse adequationem ad inuicem: nihil 
+      <lb ed="#B" n="45"/>probibet vno ente infinito ipsum per aliud fini 
+      <lb ed="#B" n="46"/>tum signari: sed sic se habent de communi huiusmodi 
+      <lb ed="#B" n="47"/>signum et signatum: igitur. Et quamuis diuina 
+      es<lb ed="#B" n="48" break="no"/>sentia sit infinita: nomen vero a viatore 
+      pro<lb ed="#B" n="49" break="no"/>latum sit finitum: adhuc poterit signari illo 
+      <!--131.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>nomine. Maior patet: quia si simpliciter non 
+      opor<lb ed="#B" n="51" break="no"/>teat ea adaequari: dato excessu infinitatis  
+      <lb ed="#B" n="52"/>in vno: non oportet aliud infinitari ex intem 
+      <lb ed="#B" n="53"/>tione philosophi in. 2. thopicorum. Sicut simplici 
+      <lb ed="#B" n="54"/>ter ad simpliciter / et magis ad magis  et maxi 
+      <lb ed="#B" n="55"/>me ad maxime. Sed probatur minor manife 
+      <lb ed="#B" n="56"/>ste. Certum est enim quod nobilior est homo a 
+      par<lb ed="#B" n="57" break="no"/>te rei quam ista vox homo: et sic de aliis. Unde 
+      pa<lb ed="#B" n="58" break="no"/>tet quod ista propositio vulgata est falsa: Non 
+      <lb ed="#B" n="59"/>dicitur verius res quam intelligatur: immo longe 
+      <lb ed="#B" n="60"/>plus. Nullam enim in via cognoscimus subam. 
+      <lb ed="#B" n="61"/>Cuius probatio talis est: quia cuius praesentiam co 
+      <lb ed="#B" n="62"/>gnoscimus / et eiusdem absentiam: ex argumen 
+      <lb ed="#B" n="63"/>to philosophi in. 2. de anima. Idem enim visus qui 
+      cog<lb ed="#B" n="64" break="no"/>noscit praesentiam lumins / cognoscit tenebras 
+      <lb ed="#B" n="65"/>quae sunt absentia eius / non autem cognoscimus 
+      <lb ed="#B" n="66"/>absentiam sube: patet. Pono enim quod 
+      offera<lb ed="#B" n="67" break="no"/>tur mihi panis consecratus: et non dicatur 
+      mi<lb ed="#B" n="68" break="no"/>bi: Iste panis est consecratus: non dicam: hic 
+      <lb ed="#B" n="69"/>non est substantia panis: immo citius oppositum: 
+      <lb ed="#B" n="70"/>et tamen quamuis non cognoscamus: tamen nomen 
+      impo<lb ed="#B" n="71" break="no"/>nimus substantiae: vnde proferens hunc terminum 
+      <lb ed="#B" n="72"/>homo: non intendit nominare quiddam accidens 
+      <lb ed="#B" n="73"/>sed quandam substantiam: sic et imponens non 
+      <lb ed="#B" n="74"/>mponit nisi substantiae: et tamen a qualitate: 
+      <lb ed="#B" n="75"/>quia secundum grammaticum: ab alio nomen imponitur 
+      <lb ed="#B" n="76"/>et alii. Ex quo infero / quod in sua summa 
+      do<lb ed="#B" n="77" break="no"/>ctor solennis insufficienter posuit / quod nomine 
+      <lb ed="#B" n="78"/>proprio quo deus seipsm nominat: non potest a 
+      <lb ed="#B" n="79"/>creatura nominari: immo nec nomine quo ipsum 
+      <lb ed="#B" n="80"/>nominant beati. Cuius ratio est: quia inter 
+      lo<lb ed="#B" n="81" break="no"/>quentem et eum cui loquitur / oportet quod sit 
+      ma<lb ed="#B" n="82" break="no"/>nifestatio: non solum rei de qua fit 
+      sermo<lb ed="#B" n="83" break="no"/>sed etiam nomins / et econtra. Non enim proprie 
+      di<lb ed="#B" n="84" break="no"/>citur loqui bebraeus latino / nisi latinus intelli 
+      <lb ed="#B" n="85"/>gat: nec aliquis cum aliquo de re penitus 
+      ig<lb ed="#B" n="86" break="no"/>nota: sed patet oppositum ex conclusione. Et 
+      <lb ed="#B" n="87"/>confirmatur. Nomen enim quo deus seipsum 
+      <lb ed="#B" n="88"/>nominat est finitum: igitur non requiritur quod si 
+      <lb ed="#B" n="89"/>nominatum sit infinitum / quod et nomen sit infini 
+      <lb ed="#B" n="90"/>tum: et cum sit finitum: non videtur repugnantia 
+      <lb ed="#B" n="91"/>quin lingua viatoris illud exprimere 
+      vale<lb ed="#B" n="92" break="no"/>at. Et si obiiciatur quia Paulus vt habet Augstinus 
+      <lb ed="#B" n="93"/>in de verbis domini lib. audiuit ineffabilia de 
+      <lb ed="#B" n="94"/>ba: et tangitur in sua epostola ad Corinth. 
+      Re<lb ed="#B" n="95" break="no"/>spondetur: quod illa verba dicuntur ineffabilia: 
+      <lb ed="#B" n="96"/>non quia non possent fari a loquente: sed quia 
+      <lb ed="#B" n="97"/>sensus capi non potuisset ab auditore: 
+      si<lb ed="#B" n="98" break="no"/>cut subtilia quae profert magister: capi neque¬ 
+      <!--132.xml-->
+      <pb ed="#B" n="58-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>unt a rudi discipulo.
+</p>
+               <p xml:id="WuV37d-e26374-d1e782">
+¶ Ulterius quod  
+      <lb ed="#B" n="2"/>dicit Henricus: quod oportet symbolum esse 
+      <lb ed="#B" n="3"/>loquentium ad inuicem / tam in re cognita quam 
+      <lb ed="#B" n="4"/>in nomine. Dico quod verum est: sed non 
+      opor<lb ed="#B" n="5" break="no"/>tet quod proferens habeat conceptum 
+      determi<lb ed="#B" n="6" break="no"/>natum vocis seu nominis quod profert: sed suf 
+      <lb ed="#B" n="7"/>ficit quod habeat confusum: sicut patet in 
+      per<lb ed="#B" n="8" break="no"/>sonis simplicibus: qui multas res nomi 
+      <lb ed="#B" n="9"/>nant quas non cognoscunt. Adam etiam qui 
+      no<lb ed="#B" n="10" break="no"/>mina rebus imposuit: non oportuit 
+      habe<lb ed="#B" n="11" break="no"/>re tam distinctam rerum noticiam / sicut 
+      habu<lb ed="#B" n="12" break="no"/>it anima christi.
+</p>
+               <p xml:id="WuV37d-e26374-d1e808">
+¶ Secunda conclusio. Be 
+      <lb ed="#B" n="13"/>ati caelestes et terreni viatores diuinum 
+      tri<lb ed="#B" n="14" break="no"/>sagiu distinctis laudant nomnibus. Probatur 
+      <lb ed="#B" n="15"/>conclusio primo de beatis. Undecumque in aliquo 
+      <lb ed="#B" n="16"/>sunt aliqua distincta ex natura rei: potest ta 
+      <lb ed="#B" n="17"/>le videns secundum quod ipsum. aspicit secundum 
+      distin<lb ed="#B" n="18" break="no"/>cta diuersa formare nomina: sed sic est in deo 
+      <lb ed="#B" n="19"/>quod sunt multa distincta ex natura rei: 
+      vtpu<lb ed="#B" n="20" break="no"/>ta sapientia / veritas / et caetera attributa: 
+      <lb ed="#B" n="21"/>paternitas / filiatio / et caeterae relationes: igi 
+      <lb ed="#B" n="22"/>tur et diuersis possunt beati deum nominare 
+      <lb ed="#B" n="23"/>nominibus. Et si obiiciatur ex dicto cacha 
+      <lb ed="#B" n="24"/>riae. In diebus illis erit dominus deus tuus vnus: 
+      <lb ed="#B" n="25"/>et nomen eius vnum. Dico quod cacharias 
+      intel<lb ed="#B" n="26" break="no"/>ligit: quod in patria non habebimus volubi 
+      <lb ed="#B" n="27"/>les cogitationes sicut hic in via. Secundum 
+      be<lb ed="#B" n="28" break="no"/>atum Augstin. forsitan totam nostram noticiam 
+      <lb ed="#B" n="29"/>vnico intuitu habebimus: non tamen repu 
+      <lb ed="#B" n="30"/>gnat quin in illo simplici actu reali sint 
+      mul<lb ed="#B" n="31" break="no"/>ta relucentia formaliter: immo distincta / 
+      si<lb ed="#B" n="32" break="no"/>cut et obiecta: sicut in sorte sunt multae 
+      for<lb ed="#B" n="33" break="no"/>malitates: quae vnica realitate reantur. Hoc 
+      <lb ed="#B" n="34"/>etiam innuere videtur esaias: qui audiuit 
+      se<lb ed="#B" n="35" break="no"/>raphicum clamorem clamantem: Sanctus 
+      <lb ed="#B" n="36"/>sanctus sanctus dominus deus exercituum. Et 
+      <lb ed="#B" n="37"/>in apocalis. Uigintiquattuor seniores cla 
+      <lb ed="#B" n="38"/>mantes: Benedictio et claritas et 
+      sapi<lb ed="#B" n="39" break="no"/>entia etc. Ubi multa ponuntur nomina 
+      va<lb ed="#B" n="40" break="no"/>riis attributis. Sed de terrenis 
+      viatori<lb ed="#B" n="41" break="no"/>bus per Diony. de diuinis nomnibus / et de me 
+      <lb ed="#B" n="42"/>stica theologia: et in epistolis ad gaium: et 
+      <lb ed="#B" n="43"/>in ea quae est ad Titum: vbi varia ponit 
+      no<lb ed="#B" n="44" break="no"/>mina de diuinis: et per hugonem de sancto 
+      <lb ed="#B" n="45"/>victore de caelesti hierarchia: qui diuidit 
+      <lb ed="#B" n="46"/>nomina diuina in analoga / multiuoca / di 
+      <lb ed="#B" n="47"/>uersiuoca et symbolica. Et si dicatur quod ista 
+      <lb ed="#B" n="48"/>omnia nomina idem signant realiter: mirum est 
+      <lb ed="#B" n="49"/>quomodo tanto labore tanti doctores: sicut 
+      <!--132.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>Augustinus et Dionysius / et alii: laborauerunt 
+      <lb ed="#B" n="51"/>ad concludendum vnum nomen ex alio: si non 
+      <lb ed="#B" n="52"/>foret aliqua distinctio. Et si quaeratur: 
+      vtrum<lb ed="#B" n="53" break="no"/>ipse deus seipsm diuersis nominet nominibus: 
+      <lb ed="#B" n="54"/>Dico quod non est inconueniens: quamuis seipsum 
+      <lb ed="#B" n="55"/>vnico et simplicissimo videat intuitu: quod 
+      <lb ed="#B" n="56"/>in ipso actu visionis plura reluceant 
+      no<lb ed="#B" n="57" break="no"/>mina formaliter. Et si quaerat quias: an 
+      bea<lb ed="#B" n="58" break="no"/>ti vocaliter in patria vocent dominum? Dico 
+      <lb ed="#B" n="59"/>secundum doctorem deuotum in secundo: quod satis est 
+      <lb ed="#B" n="60"/>congruum dicere de iustis homiuibus quod lau 
+      <lb ed="#B" n="61"/>dabunt deum voce sonora: iuxta illud: Ex. 
+      <lb ed="#B" n="62"/>ultabunt sancti in gloria. Et addit. Exulta 
+      <lb ed="#B" n="63"/>tiones dei in faucibus eorum. Et si dicatur. 
+      <lb ed="#B" n="64"/>Uox est aeris emissio: secundum Philosophum in. 2. de 
+      <lb ed="#B" n="65"/>anima. Dicitur quod dominus deus supplebit locum 
+      <lb ed="#B" n="66"/>aeris: vel aliquid erit ibi loco aeris aere 
+      <lb ed="#B" n="67"/>subtilius: sicut et corpora beatorum erunt 
+      <lb ed="#B" n="68"/>subtiliora. Et si quaeratur de angelis: vtrum 
+      <lb ed="#B" n="69"/>laudent vocaliter nominibus deum 
+      sum<lb ed="#B" n="70" break="no"/>mum: Uidetur dicere in sua theologia dominus 
+      <lb ed="#B" n="71"/>Nicolaus boneti / quod sic. Sed qualiter hoc 
+      <lb ed="#B" n="72"/>fiat: in secundo forsan hoc aperietur de locu 
+      <lb ed="#B" n="73"/>tione angelica.
+</p>
+               <p xml:id="WuV37d-e26374-d1e947">
+¶ Ex praedictis patet erro: 
+      <lb ed="#B" n="74"/>ponentium beatos in patria se habere vt 
+      <lb ed="#B" n="75"/>mutos homines.
+</p>
+               <p xml:id="WuV37d-e26374-d1e954">
+¶ Tertia 
+      conclusio<lb ed="#B" n="76" break="no"/>In dei cantico et mystica et symbolica ve 
+      <lb ed="#B" n="77"/>re resonare nomina feruntur. Probatur 
+      conclu<lb ed="#B" n="78" break="no"/>sio. Ex quibuscumque conuenit laudem deo dice 
+      <lb ed="#B" n="79"/>re: ex his conuenit et deum nominare. Sed  
+      <lb ed="#B" n="80"/>tam symbolicis quam mysticis nomnibus 
+      conue<lb ed="#B" n="81" break="no"/>nit laudem deo dicere: ergo et eum nominare. 
+      <lb ed="#B" n="82"/>Maior patet: quia secundum philosophum in ethicem. Laus 
+      <lb ed="#B" n="83"/>est sermo: extollens magnitudinem 
+      virtu<lb ed="#B" n="84" break="no"/>tis: qui fit per nomina. Minor patet per 
+      au<lb ed="#B" n="85" break="no"/>ctoritatem Diony. de diui. no. et de 
+      mysti<lb ed="#B" n="86" break="no"/>ca theologia ad Baium: de caligine vbi 
+      ha<lb ed="#B" n="87" break="no"/>pitat deus / et de aliis epistolis suis. Unde 
+      <lb ed="#B" n="88"/>nunc mystice dicitur anima: iuxta illud: Iurauit 
+      <lb ed="#B" n="89"/>consequens per animam suam. Nunc symbolice splendor 
+      <lb ed="#B" n="90"/>et speculum. vnde: Qui cum sit splendor substan 
+      <lb ed="#B" n="91"/>tiae eius. Sed quaeritur / quod sit magis 
+      princi<lb ed="#B" n="92" break="no"/>pale: an nomen mysticum / an symbolicum: 
+      <lb ed="#B" n="93"/>Dico quod nomen mysticum. Unde nomina 
+      symbo<lb ed="#B" n="94" break="no"/>lica secundum commenta Dionysii et textum 
+      sumun<lb ed="#B" n="95" break="no"/>tur ex creaturis visibilibus: nomina vero my 
+      <lb ed="#B" n="96"/>stica ex creaturis inuisibilibus. Ratio 
+      igi<lb ed="#B" n="97" break="no"/>tur exigit / vt sicut perfectiores sunt crea 
+      <lb ed="#B" n="98"/>turae inuisibiles / vt angeli: quam visibiles / vt 
+      <!--133.xml-->
+      <pb ed="#B" n="58-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>homo et leo: sic nomina correspondentia inu 
+      <lb ed="#B" n="2"/>sibilibus perfectiora sunt aliis. Et si quaera 
+      <lb ed="#B" n="3"/>tur quod est maius nomen inter mystica? 
+      Di<lb ed="#B" n="4" break="no"/>co (saluo meliori iudicio) quod seraph. Unde 
+      <lb ed="#B" n="5"/>et in signum amoris excellentissimi in tali 
+      ef<lb ed="#B" n="6" break="no"/>figie sanctissimum suis plagis insigniuit Fran 
+      <lb ed="#B" n="7"/>ciscum: qui tam mystice quam symbolice ex crea 
+      <lb ed="#B" n="8"/>turis solitus erat collaudare creatorem: 
+      <lb ed="#B" n="9"/>secundum quod de eo cantatur. Hic creaturis impe 
+      <lb ed="#B" n="10"/>rat qui nutui subiecerat se totum creatorem 
+      <lb ed="#B" n="11"/>Quicquid in rebus reperit delectamenti 
+      rege<lb ed="#B" n="12" break="no"/>rit in gloriam factoris. Et hoc de secundo articulo. 
+      <lb ed="#B" n="13"/>Quantum ad tertium arti 
+      <lb ed="#B" n="14"/>cu 
+      <lb ed="#B" n="15"/>lum sunt iuxta tres conclusiones tres diffi 
+      <lb ed="#B" n="16"/>cultates.
+</p>
+               <p xml:id="WuV37d-e26374-d1e1047">
+¶ Prima difficultas. Quod 
+      <lb ed="#B" n="17"/>est nomen magis exprimens diuinam essenti 
+      <lb ed="#B" n="18"/>am? Dicit sanctus Tho. in scripto. dist. 6. 
+      <lb ed="#B" n="19"/>q I. est quod istud nomen / qui est. Et corroboratur 
+      <lb ed="#B" n="20"/>ultra dictum Hiero. triplici auctoritate. 
+      <lb ed="#B" n="21"/>Prima est Damasceni in li. 1. sententiarum 
+      <lb ed="#B" n="22"/>dicentis: quod hoc nomen qui est: signat qua 
+      <lb ed="#B" n="23"/>si quoddam pelagus infinitae bonitatis. 
+      Se<lb ed="#B" n="24" break="no"/>cunda est Dionysii dicentis: Quod esse / est pris 
+      <lb ed="#B" n="25"/>ma perfectio cui et viuere et intelligere an 
+      <lb ed="#B" n="26"/>nectuntur. Tertia est Auicem. dicentis: quod 
+      quid<lb ed="#B" n="27" break="no"/>ditas abstrahit ab esse. Quando autem 
+      di<lb ed="#B" n="28" break="no"/>co / qui est: et capio quidditatem et esse: et ita 
+      <lb ed="#B" n="29"/>vtrumque includo. Et si quaeratur: qualiter hoc 
+      <lb ed="#B" n="30"/>nomen / qui est: dicitur in greco: Dicitur quod 
+      <lb ed="#B" n="31"/>secundum commenta mysticae tbeologiae potest vo 
+      <lb ed="#B" n="32"/>cari iperusios / quasi super substantiam: quia li 
+      <lb ed="#B" n="33"/>qui dicit infinitatem: quia est pronomen 
+      infini<lb ed="#B" n="34" break="no"/>tum: ideo vltra dicit substantiam. Et si vltra 
+      <lb ed="#B" n="35"/>dicatur: qualiter in hebraeo? Dico quod istud no 
+      <lb ed="#B" n="36"/>men / qui est: videtur dici nomen dei 
+      tetra<lb ed="#B" n="37" break="no"/>grammaton: quod extat compositum ex quat 
+      <lb ed="#B" n="38"/>tuor litteris hebraicis scilicet he / heth / ioth / et 
+      <lb ed="#B" n="39"/>vau: quae simul iunctae faciunt hyeu: vnde et 
+      <lb ed="#B" n="40"/>in lege erat nomen principalius. Unde Rabi 
+      <lb ed="#B" n="41"/>bi Movses / dicit hoc esse nomen dei 
+      inef<lb ed="#B" n="42" break="no"/>fabile.
+</p>
+               <p xml:id="WuV37d-e26374-d1e1107">
+¶ Secunda difficultas. Utris 
+      <lb ed="#B" n="43"/>viatores in patria deum laudent his nominibus 
+      <lb ed="#B" n="44"/>quibus eum laudabant in via? Dico quod nomina 
+      <lb ed="#B" n="45"/>diuina hic in via sunt in triplici differen 
+      <lb ed="#B" n="46"/>tia: quedam enim sunt a creatura et per 
+      crea<lb ed="#B" n="47" break="no"/>turas: secunda sunt a creaturis et in crea 
+      <lb ed="#B" n="48"/>turis: tertia sunt a crcaturis / non in 
+      crea<lb ed="#B" n="49" break="no"/>turis. Nec de his loquor quae habentur in 
+      <!--133.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>spiratione. Tunc dico quod prima non mane 
+      <lb ed="#B" n="51"/>bunt: quia secundum Bern. non est opus scala 
+      te<lb ed="#B" n="52" break="no"/>nenti summum / sed bene secunda et tertia.
+</p>
+               <p xml:id="WuV37d-e26374-d1e1136">
+¶ Ter 
+      <lb ed="#B" n="53"/>tia difficultas. Unde incipit deus 
+      nomina<lb ed="#B" n="54" break="no"/>ri symbolice seu mystice? Dico quod incipit 
+      <lb ed="#B" n="55"/>nominari symbolice a qualibet creatura 
+      quan<lb ed="#B" n="56" break="no"/>tumcumque minima sit: si importet aliquam 
+      <lb ed="#B" n="57"/>proprietatem deo conuenientem: et sic ascendit 
+      vs<lb ed="#B" n="58" break="no"/>que ad vltimam visibilem. et ibi incipit nomina 
+      <lb ed="#B" n="59"/>tio mystica: ita quod vbi desinit supremum 
+      im<lb ed="#B" n="60" break="no"/>perfecti gradus / incipit minimum perfecti 
+      gra<lb ed="#B" n="61" break="no"/>dus: secundum Dionysium de mystica theologia 
+      <lb ed="#B" n="62"/>ca. 2. Et ascendit vsque ad spiritum deo 
+      proximio<lb ed="#B" n="63" break="no"/>rem. Et sic patet de quaestione: quid sit dicen 
+      <lb ed="#B" n="64"/>dum videlicet quod nomina et mystica et 
+      symboli<lb ed="#B" n="65" break="no"/>ca diuinis recipiuntur in perdicationibus seu 
+      <lb ed="#B" n="66"/>sermonibus. Et tunc ad argumenta.
+</p>
+               <p xml:id="WuV37d-e26374-d1e1169">
+¶ Ad  
+      <lb ed="#B" n="67"/>primum dico ad minorem: quod duplex est 
+      propor<lb ed="#B" n="68" break="no"/>tio scilicet commensurationis: et sic non est propor 
+      <lb ed="#B" n="69"/>tio. Uel attingentiae: et ista est / et sufficit. 
+      </p>
+               <p xml:id="WuV37d-e26374-d1e1178">
+                  <lb ed="#B" n="70"/>¶ Ad secundum argumentum quod est de 
+      conce<lb ed="#B" n="71" break="no"/>ptu mysticae thbeologiae: dico ad minorem: 
+      <lb ed="#B" n="72"/>quod contradictio debet esse respectu eiusdem / 
+      <lb ed="#B" n="73"/>et ad idem / et in eodem tempore: vt habet Aristo. in 
+      <lb ed="#B" n="74"/>1. peri herme. et 1 elenchorum. Mon autem 
+      <lb ed="#B" n="75"/>alio est affirmatiua vera in istis 
+      symboli<lb ed="#B" n="76" break="no"/>cis quia improprie. Alio modo negatiua 
+      ve<lb ed="#B" n="77" break="no"/>ra / quia proprie. Unde loquendo proprie ista est ve 
+      <lb ed="#B" n="78"/>ra: Deus non est leo: et ista est improprie ve 
+      <lb ed="#B" n="79"/>ra: Deus est leo: et hoc est quod dicit 
+      affirmati<lb ed="#B" n="80" break="no"/>onem Aristo. sunt incompacte id est non habentes 
+      <lb ed="#B" n="81"/>pactum et concordantiam: ab in quod est non / et pa 
+      <lb ed="#B" n="82"/>ctum pacti.
+</p>
+               <p xml:id="WuV37d-e26374-d1e1209">
+¶ Ad tertium dico ad minorem: 
+      <lb ed="#B" n="83"/>quod ex huiusmodi nominibus nullus extat error nis 
+      <lb ed="#B" n="84"/>malis: sed excitatio ad laudem dei in 
+      omni<lb ed="#B" n="85" break="no"/>bus creaturis: et propter eos non est curan 
+      <lb ed="#B" n="86"/>dum. Non enim remouendus est ille passus in 
+      <lb ed="#B" n="87"/>euangelio: Pater maior me est: etsi in illo 
+      <lb ed="#B" n="88"/>errauit Arrius / exhinc patrem maiorem 
+      po<lb ed="#B" n="89" break="no"/>nens filio: sic in proposito: et sic patet ad 
+      <lb ed="#B" n="90"/>quaestionem.
+</p>
+            </div>
+            <div xml:id="WuV37d-e26374-Dd1e1230" type="et-conclusiones">
+               <head xml:id="WuV37d-e26374-Hd1e1232">Conclusiones</head>
+               <p xml:id="WuV37d-e26374-d1e1235">
+¶ Ex ista vero 
+      distinctio<lb ed="#B" n="91" break="no"/>ne sicut etc. Prima est. Diuino nomine funt 
+      <lb ed="#B" n="92"/>propria atque communia consimilitudine. Dicit 
+      <lb ed="#B" n="93"/>conclusio / quod nomina dicta de deo sunt in 
+      tripli<lb ed="#B" n="94" break="no"/>ci differentia: quaedam propria / sicut paternitas: 
+      <lb ed="#B" n="95"/>quaedam communia / sicut diuinitas: quaedam per 
+      simili<lb ed="#B" n="96" break="no"/>tudinem / sicut lux / character etc. Et deducitur 
+      <lb ed="#B" n="97"/>ista conclusio a principio distinctionis vsque 
+      <lb ed="#B" n="98"/>ad ca. illud: Sciendum est igitur.
+</p>
+               <p xml:id="WuV37d-e26374-d1e1255">
+¶ Secun¬ 
+      <!--134.xml-->
+      <pb ed="#B" n="59-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>da conclusio. Nomina diuina aut referun 
+      <lb ed="#B" n="2"/>tur / aut substtaniua per se dicuntur. Dicit 
+      <lb ed="#B" n="3"/>conclusio / quod nomina diuina aut dicunt 
+      sub<lb ed="#B" n="4" break="no"/>stantiam / aut relationem. Et ponitur ab illo ca 
+      <lb ed="#B" n="5"/>pitulo: Sciendum est igitur: vsque ad 
+      capitu<lb ed="#B" n="6" break="no"/>ium illud: Deus enim non est magnus etc. 
+      </p>
+               <p xml:id="WuV37d-e26374-d1e1277">
+                  <lb ed="#B" n="7"/>¶ Tertia conclusio. Profert rectitudo 
+      <lb ed="#B" n="8"/>quod deus dicitur sua magnitudo qua magn 
+      <lb ed="#B" n="9"/>ponitur. Dicit conclusio / quod deus est 
+      magni<lb ed="#B" n="10" break="no"/>tudo qua dicitur magnus. Et ponitur ab 
+      il<lb ed="#B" n="11" break="no"/>lo ca. Deus enim non est magnus etc. vsque ad  
+      <lb ed="#B" n="12"/>finem distinctionis.
+</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

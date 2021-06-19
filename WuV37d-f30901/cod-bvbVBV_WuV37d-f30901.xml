@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 19</title>
+            <author ref="#WilliamDeVaurouillon">William de Vaurouillon</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 19</title>
+               <date when="2021-06-19">June 19, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-bvbVBV">Basel 1510</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-06-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="283-r"/>
+            <cb ed="#B" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="WuV37d-f30901"><!-- l3d19 -->
+            <head xml:id="WuV37d-f30901-Hd1e108">Distinctio 19</head>
+            <div xml:id="WuV37d-f30901-Dd1e111" type="circa-textum">
+               <head xml:id="WuV37d-f30901-Hd1e113">Circa textum</head>
+               <p xml:id="WuV37d-f30901-d1e116">
+                  <lb ed="#B" n="62"/>Distinctio. 10. insinuat de redem 
+      <lb ed="#B" n="63"/>ptione nostra facta per passionem chria 
+      <lb ed="#B" n="64"/>sti quantum ad efficatia et vtilitatem. 
+      <lb ed="#B" n="65"/>Unc igitur qua 
+      <lb ed="#B" n="66"/>ramus quo per 
+      mor<lb ed="#B" n="67" break="no"/>tem ipsius a diabolo 
+      <lb ed="#B" n="68"/> et a peccato et a pena 
+      <lb ed="#B" n="69"/> redempti sumus etc. 
+      <lb ed="#B" n="70"/>Hic signatur decimanona dist. huius terti 
+      <lb ed="#B" n="71"/>quae sic continuatur ad praecedentes: Nam postquam 
+      <lb ed="#B" n="72"/>a libri huius principio vsque huc praeposita est a 
+      <lb ed="#B" n="73"/>dei verbo carnis assumptio: Nunc 
+      conse<lb ed="#B" n="74" break="no"/>quemter intimatur diuini iesu durior passio. 
+      <lb ed="#B" n="75"/>Et habet diuidi ista secunda pars huius libri ter 
+      <lb ed="#B" n="76"/>tii in tres partes. In prima crucis praeponitur 
+      <lb ed="#B" n="77"/>grandis vtilitas. In secunda doloris quaeritur 
+      <lb ed="#B" n="78"/>himoni grauitas. In tertia secute tangitur 
+      <lb ed="#B" n="79"/>mortus acerbitas. Prima in principio. Se 
+      <lb ed="#B" n="80"/>cunda dist. 20. ibi. Si vero quaeritur vtrum alio 
+      <lb ed="#B" n="81"/>modo etc. Tertia dist. 21. Post praedicta com 
+      <lb ed="#B" n="82"/>siderandum est vtrum etc. Rursus prima 
+      par<lb ed="#B" n="83" break="no"/>ticula quae est praesens distinctio. In qua passio 
+      <lb ed="#B" n="84"/>nis ponitur grandis vtilitas in tres partes 
+      di<lb ed="#B" n="85" break="no"/>uiditur. In prima quid iesu faciat apparet 
+      pas<lb ed="#B" n="86" break="no"/>sio. In secunda quod ei congruat claret redemus 
+      <lb ed="#B" n="87"/>ptio. In tertia patet conueniat quod mediatio. 
+      <lb ed="#B" n="88"/>Prima in principio. Secunda ibi. Unde ipse 
+      <lb ed="#B" n="89"/>vere dicitur etc. Tertia ibi. Qui solus dicitur 
+      me<lb ed="#B" n="90" break="no"/>diator etc. Et est haec diuisio praesentis di. etc. 
+      </p>
+            </div>
+            <div xml:id="WuV37d-f30901-Dd1e182">
+               <head xml:id="WuV37d-f30901-Hd1e184">Quaestio</head>
+               <p xml:id="WuV37d-f30901-d1e187">
+                  <lb ed="#B" n="91"/>¶ Quaestio ista in primis ambit 
+      ef<lb ed="#B" n="92" break="no"/>ficatiam et sufficientiam necno meritum 
+      <lb ed="#B" n="93"/>quantum ad deletionem poenae et culpae 
+      <lb ed="#B" n="94"/>paniois christi dehinc cyrographi 
+      <lb ed="#B" n="95"/>decreti deletionem ac daemonis libe¬ 
+      <!--583.xml-->
+      <pb ed="#B" n="283-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>rationem Secundo de vtilitate et 
+      necessi<lb ed="#B" n="2" break="no"/>tate passionis pliscopi. q. vnica di. 20. 
+      <lb ed="#B" n="3"/>Utrum merito 
+      <lb ed="#B" n="4"/>dulcissime passionis iesu decre 
+      <lb ed="#B" n="5"/> vtum cyrographi sit deletum: 
+      <lb ed="#B" n="6"/>Et arguitur quod non triplici medio.
+</p>
+               <p xml:id="WuV37d-f30901-d1e220">
+¶ Pri 
+      <lb ed="#B" n="7"/>mo sic: Nullum finitum potest infinitum 
+      dele<lb ed="#B" n="8" break="no"/>re. Sed meritum christi fuit finitum in sua 
+      <lb ed="#B" n="9"/>passione: culpae vero decreti cyrographi 
+      <lb ed="#B" n="10"/>contente infinite: igitur etc. Maior patet ex 
+      com<lb ed="#B" n="11" break="no"/>mensuratione delentis ad id quod deletur. Sed 
+      <lb ed="#B" n="12"/>minor probatur. Primo quod meritum christi 
+      <lb ed="#B" n="13"/>fuit finitum: quia causam habuit finitam 
+      <lb ed="#B" n="14"/>scilicet naturam humanam. Nequit autem ex 
+      cau<lb ed="#B" n="15" break="no"/>sa finita infinitus venire effectus: data alia 
+      <lb ed="#B" n="16"/>quacumque causa infinita: quod vero culpae sint 
+      <lb ed="#B" n="17"/>infinite patet: quia is in quem facte sunt est in 
+      <lb ed="#B" n="18"/>finitus: scilicet deus: peccatum autem solet 
+      men<lb ed="#B" n="19" break="no"/>surari iuxta eum in quem peccatur.
+</p>
+               <p xml:id="WuV37d-f30901-d1e251">
+¶ Secun 
+      <lb ed="#B" n="20"/>do arguitur sic. Omne praemium meritum 
+      exce<lb ed="#B" n="21" break="no"/>dit: sed deletio contentorum in illo decreto 
+      <lb ed="#B" n="22"/>cyrographi non excedit meritum passionis 
+      <lb ed="#B" n="23"/>christi: igitur etc. Maior patet. Tum quia 
+      <lb ed="#B" n="24"/>nobilior est forma quam dispositio eius. Tum 
+      <lb ed="#B" n="25"/>quia nobilior terminus quam via ad terminum: 
+      <lb ed="#B" n="26"/>meritum autem est dispositio et via ad praemium: 
+      <lb ed="#B" n="27"/>sicuti ad formam et terminum: et inde dictum 
+      <lb ed="#B" n="28"/>est praemium: quasi prae aliis meum. Sed pro 
+      <lb ed="#B" n="29"/>batur minor: quia passio christi ex eo quod ex infi 
+      <lb ed="#B" n="30"/>nito veniebat supposito: scilicet diuino verbo: 
+      <lb ed="#B" n="31"/>cui vnita erat humana natura: quandam 
+      ha<lb ed="#B" n="32" break="no"/>bebat infinitatem: quod non illa deletio 
+      cyro<lb ed="#B" n="33" break="no"/>graphi.
+</p>
+               <p xml:id="WuV37d-f30901-d1e284">
+¶ Tertio arguitur sic. Si 
+      passio<lb ed="#B" n="34" break="no"/>nis christi merito decretum cyrographi fo 
+      <lb ed="#B" n="35"/>ret deletum: aut hoc foret quo ad 
+      sufficien<lb ed="#B" n="36" break="no"/>tiam: aut quo ad efficaciam: sed neutrum potest 
+      <lb ed="#B" n="37"/>dici: igitur etc. Maior patet ex diuisione suffi 
+      <lb ed="#B" n="38"/>cienti. Sed probatur minor: primo quod non: quo 
+      <lb ed="#B" n="39"/>ad sufficientiam: quia passio christi fuit actus 
+      <lb ed="#B" n="40"/>transiens: potest autem mundus perpetuari in 
+      in<lb ed="#B" n="41" break="no"/>finitum: et hominum generatio: et tunc non 
+      vi<lb ed="#B" n="42" break="no"/>detur sufficere: sicut nec finitum pro 
+      infini<lb ed="#B" n="43" break="no"/>to: nec secundo quo ad efficaciam: quia multi 
+      <lb ed="#B" n="44"/>damnantur.
+</p>
+               <p xml:id="WuV37d-f30901-d1e311">
+¶ In oppositum arguitur auctoritate 
+      <lb ed="#B" n="45"/>capostoli. Donans inquit vobis delicta et 
+      <lb ed="#B" n="46"/>delens quod aduersum nos erat 
+      cyrogra<lb ed="#B" n="47" break="no"/>phum decreti. Et augstin. est in littera. Fu¬ 
+      <!--583.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="48"/>so sanguine sine culpa: omnium culparum 
+      cyro<lb ed="#B" n="49" break="no"/>grapha deleta sunt.
+</p>
+               <p xml:id="WuV37d-f30901-d1e329">
+¶ In ista quaestione etc. 
+      <lb ed="#B" n="50"/>Primus est terminorum declaratiuus 
+      <lb ed="#B" n="51"/>Quorum Secundus est quaestionis responsiuus. 
+      </p>
+               <p xml:id="WuV37d-f30901-d1e336">
+                  <lb ed="#B" n="52"/>¶ Tertius est dubiorum motiuus; 
+      <lb ed="#B" n="53"/>articu 
+      <lb ed="#B" n="54"/>llum ter 
+      <lb ed="#B" n="55"/>mini sunt / passio / decretum / et cyrographum. 
+      </p>
+               <p xml:id="WuV37d-f30901-d1e347">
+                  <lb ed="#B" n="56"/>¶ Primus igitur terminus est 
+      passio<lb ed="#B" n="57" break="no"/>Unde apud philosophos passio solet accipi tribus 
+      <lb ed="#B" n="58"/>binariis seu sex modis. Primo dicitur 
+      pas<lb ed="#B" n="59" break="no"/>sio mentis conceptus interior: dicente philosopho in. 1. 
+      <lb ed="#B" n="60"/>peryarmenias. Uoces sunt note earum passio 
+      <lb ed="#B" n="61"/>nu quae sunt in anima. passionum id est conceptuum. Se 
+      <lb ed="#B" n="62"/>cundo dicitur passio proprium alicuius sicut dicitur 
+      <lb ed="#B" n="63"/>risibilitas esse passio hominis. Tertio dicitur 
+      <lb ed="#B" n="64"/>passio species seu speciei pars qualitatis condi 
+      <lb ed="#B" n="65"/>uisa contra passibilem qualitatem: dicente philosopho in 
+      prae<lb ed="#B" n="66" break="no"/>dicamentis. Tertiam speciem qualitatis esse passio 
+      <lb ed="#B" n="67"/>nem vel passibilem qualitatem: et differunt passio et 
+      <lb ed="#B" n="68"/>passibilis qualitas: sicuti permanens et successi 
+      <lb ed="#B" n="69"/>uum: passio nempe magis nominat successiuum 
+      <lb ed="#B" n="70"/>sed passibilis qualitas permanens. Quarto di 
+      <lb ed="#B" n="71"/>citur passio quaelibet receptio / dicente Aristo. 
+      <lb ed="#B" n="72"/>in. 3. de anima: quod intelligere est quodam pati id est 
+      <lb ed="#B" n="73"/>recipi: ideo dicitur passio a patin quod est 
+      re<lb ed="#B" n="74" break="no"/>cipere. Quinto dicitur passio quoddam praedicamen 
+      <lb ed="#B" n="75"/>tum ab aliis distinctum actioni correspondens: 
+      <lb ed="#B" n="76"/>quam inter principia collocans Gilbertus por 
+      <lb ed="#B" n="77"/>retani in lib. sex principiorum diffinit dicens. 
+      <lb ed="#B" n="78"/>Passio est quidam effectus illatioque actionis. 
+      <lb ed="#B" n="79"/>Sexto dicitur passio corruptio subiecti in 
+      <lb ed="#B" n="80"/>quo est / dicente Aristo. in. 6. thopicorum: quod 
+      <lb ed="#B" n="81"/>omnis passio magis facta abiicit a substantia 
+      <lb ed="#B" n="82"/>et sic accipitur in quastione: passio xpiscoi quippe 
+      <lb ed="#B" n="83"/>inter aliorum passiones acerbissima fuit per id. 
+      <lb ed="#B" n="84"/>Ovos omnes qui transitis per viam: attendite et 
+      vi<lb ed="#B" n="85" break="no"/>dete si est dolor sicut dolor meus. Unde in 
+      <lb ed="#B" n="86"/>passione hoc modo sumpta tria possunt 
+      colli<lb ed="#B" n="87" break="no"/>gi ex sancto Tho. dis. 15. arti. 2. q. 1. Primum 
+      <lb ed="#B" n="88"/>quod haec passio sit in subiecto actu 
+      disposi<lb ed="#B" n="89" break="no"/>to secundum contrarias qualitates: et inde est quod proprie 
+      <lb ed="#B" n="90"/>loquendo sola alteratio est passio ex primo 
+      <lb ed="#B" n="91"/>de generatione. Secundum quod vna qualitate 
+      ex<lb ed="#B" n="92" break="no"/>pulsa reliqua introducatur: ideo Dam. 
+      passio<lb ed="#B" n="93" break="no"/>nem diffiniens dicit. Passio est motus ex vno 
+      <lb ed="#B" n="94"/>in aliud. Tertium quod qualitas expulsa sit 
+      ve<lb ed="#B" n="95" break="no"/>lut naturalis et introducta veluti 
+      extra<lb ed="#B" n="96" break="no"/>nea: et inde est quod egrotationes communius di¬ 
+      <!--584.xml-->
+      <pb ed="#B" n="284-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>euntur passiones quam sanationes: vt patet per philosophum 
+      <lb ed="#B" n="2"/>in. 5. methaphi.
+</p>
+               <p xml:id="WuV37d-f30901-d1e449">
+¶ Secundus terminus est 
+      <lb ed="#B" n="3"/>decretum / et dicitur a decerno nis: in supino 
+      de<lb ed="#B" n="4" break="no"/>cretum tum. Unde notandum quod sunt tres ternarii 
+      <lb ed="#B" n="5"/>nomnm apud iurisperitos differentium: quae 
+      tan<lb ed="#B" n="6" break="no"/>git hostien. in noua compilatione iuris sum 
+      <lb ed="#B" n="7"/>ma quae dicitur copiosa. Primus ternarius est de 
+      <lb ed="#B" n="8"/>cretalis / canon / et decretum / et differunt. 
+      De<lb ed="#B" n="9" break="no"/>cretalis enim dicitur quando ad consultationem alicui 
+      <lb ed="#B" n="10"/>vel aliquorum papa solus vel ipse cum consilio 
+      <lb ed="#B" n="11"/>fratrum mandatum seu epostulam mittit. Canon 
+      <lb ed="#B" n="12"/>vero dicitur id quod in capitulo generali vel prouin 
+      <lb ed="#B" n="13"/>ciali statuitur. Decretum vero dicitur cum non praeuia con 
+      <lb ed="#B" n="14"/>sultatione aliquorum papa cum fratrum consilio 
+      <lb ed="#B" n="15"/>aliquid statuit. Secundus ternarius est / constitu 
+      <lb ed="#B" n="16"/>tio / dogma / et mandatum. Constitutio dicitur dum 
+      <lb ed="#B" n="17"/>sine alicuius consultatione et fratrum consilio ali 
+      <lb ed="#B" n="18"/>quid statuit papa solus. Dogma est quid spe 
+      <lb ed="#B" n="19"/>ciale in doctrina fidei. Mandatum vero in 
+      <lb ed="#B" n="20"/>moribus consistit. Tertius ternarius est / inter 
+      <lb ed="#B" n="21"/>dictum sanctio / et pragmatica sanctio. 
+      In<lb ed="#B" n="22" break="no"/>terdictum sine poena statuitur. Sanctio poenan 
+      <lb ed="#B" n="23"/>habet semper annexam. Pragmatica sanctio 
+      <lb ed="#B" n="24"/>est illud quod imperator de procerum consilio sta 
+      <lb ed="#B" n="25"/>tuit faciendum. horum omnium exempla in praedicta 
+      sun<lb ed="#B" n="26" break="no"/>ma locantur. Dicitur autem in proposito decretu 
+      <lb ed="#B" n="27"/>totius trinitatis super humano facto seu peccato¬ 
+      </p>
+               <p xml:id="WuV37d-f30901-d1e506">
+                  <lb ed="#B" n="28"/>¶ Tertius terminus est cyrographum / a 
+      <lb ed="#B" n="29"/>crros quod est manus et graphos scriptura: 
+      <lb ed="#B" n="30"/>secundum Thomam in expositione litterali: vel gra 
+      <lb ed="#B" n="31"/>phia secundum doc. deuo. in. q. 2. arti. 1. Unde dicitur 
+      <lb ed="#B" n="32"/>listra creditorum manu propria scripta: et data 
+      <lb ed="#B" n="33"/>debitori: vnde in proposito cyrographum vel 
+      <lb ed="#B" n="34"/>cyrographus dicitur tripliciter secundum triplicem 
+      re<lb ed="#B" n="35" break="no"/>spectum. Comparando enim ad deum dicitur 
+      cyro<lb ed="#B" n="36" break="no"/>graphum decreti seu decretum cyrographi: 
+      <lb ed="#B" n="37"/>quia ista obligatio ex diuina sententia facta 
+      <lb ed="#B" n="38"/>est. Comparando secundo ad peccatum dicitur 
+      cyrogra<lb ed="#B" n="39" break="no"/>phum delicti seu culpe: quia propter culpam haec 
+      <lb ed="#B" n="40"/>obligatio facta est. Comparando tertio ad pu 
+      <lb ed="#B" n="41"/>nitionem dicitur cyrographus poenarum: quia eo 
+      <lb ed="#B" n="42"/>ad paenam obligamur. Et secundum hunc triplicem 
+      <lb ed="#B" n="43"/>respectum possunt videri loqui diuersae san 
+      <lb ed="#B" n="44"/>ctorum auctoritates. 
+      <lb ed="#B" n="45"/>quae 
+      arti<lb ed="#B" n="46" break="no"/>culum 
+      <lb ed="#B" n="47"/>sunt tres conclusiones. Prima conclusio est: 
+      <lb ed="#B" n="48"/>de efficatia et sufficientia passionis cpisci. 
+      Se<lb ed="#B" n="49" break="no"/>cunda de merito passionis xpici in deletione 
+      <!--584.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>culpae et poenae. Tertia est de deletione cu 
+      <lb ed="#B" n="51"/>rographi decreti illa passione
+</p>
+               <p xml:id="WuV37d-f30901-d1e566">
+¶ Prima 
+      <lb ed="#B" n="52"/>igitur coclusio est haec. Christi mediato 
+      <lb ed="#B" n="53"/>ris gemebunda passio electis: sic quo ad 
+      <lb ed="#B" n="54"/>efficaciam profuit vt infinitis sui ex parte non 
+      <lb ed="#B" n="55"/>sufficeret. Prima pars conclusionis dicit: quod 
+      <lb ed="#B" n="56"/>xpiscous fuit mediator. Probatur auctoritate Augstin. 
+      <lb ed="#B" n="57"/>super Ioham. Hediator dei et hominum: homo 
+      <lb ed="#B" n="58"/>piscous iesus. Sed ratione cuius naturae quaeritur 
+      <lb ed="#B" n="59"/>Et dicendum quod humane. Diuina enim 
+      natu<lb ed="#B" n="60" break="no"/>ra in xpisco locum tenet supremi: non 
+      medii<lb ed="#B" n="61" break="no"/>Humana autem natura in xpiscopo tenet medium 
+      <lb ed="#B" n="62"/>inter deum et nos: si enim consideretur 
+      beatitu<lb ed="#B" n="63" break="no"/>do xpisci: super homines est: et deo vnitus si morta 
+      <lb ed="#B" n="64"/>litas hominibus iungebatur: vt liquido veluti mei 
+      <lb ed="#B" n="65"/>dius ambo participet extrema: vnde Augu 
+      <lb ed="#B" n="66"/>9. de ciui. dei dicit. Hediator inter nos 
+      <lb ed="#B" n="67"/>et deum: mortalitatem habet transeuntem: sed 
+      be<lb ed="#B" n="68" break="no"/>atitudinem permanentem. Et si quis dicat: 
+      seque<lb ed="#B" n="69" break="no"/>retur quod daemones essent mediatores nostri: quia 
+      <lb ed="#B" n="70"/>sunt super nos ratione naturae: et nobiscum rationo 
+      <lb ed="#B" n="71"/>miserie? Dicendum quod non sufficit esse supra 
+      <lb ed="#B" n="72"/>nos: et nobiscum ad mediatoris rationem: licet 
+      <lb ed="#B" n="73"/>requirantur: sed tertium requiritur quod scilicet ducat ad  
+      <lb ed="#B" n="74"/>statum glesiae: quod daemodo non intendit: sed ducit ad 
+      <lb ed="#B" n="75"/>statum mierie. Nec valet si quis dicat quod id 
+      <lb ed="#B" n="76"/>boni angeli efficiunt hoc quippe accessorie: 
+      <lb ed="#B" n="77"/>xpiscos vero paramplius in nostra natura conformis. 
+      <lb ed="#B" n="78"/>Sed dicebat secunda pars conclusionis: quod pisophus per 
+      <lb ed="#B" n="79"/>passionem meruit electis quo ad efficaciam: 
+      <lb ed="#B" n="80"/>patet ex ordine quem doc. subtur. ponit in praesenti 
+      <lb ed="#B" n="81"/>dis. per quinque signa: et addi potest sextum: vt sint 
+      <lb ed="#B" n="82"/>tres binarii. Primum signum naturae est in qua 
+      <lb ed="#B" n="83"/>deus intelligit se: vt bonum infinitum. Secundum in 
+      <lb ed="#B" n="84"/>quo omnes intelligit creaturas. Tertium in quo 
+      <lb ed="#B" n="85"/>praedestinauit ad gratiam et gloriam aliquis et cir 
+      <lb ed="#B" n="86"/>ca aliquis actum neutrum habuit. In quarto 
+      vi<lb ed="#B" n="87" break="no"/>det hos et illos in adam casuros. In quinto 
+      prae<lb ed="#B" n="88" break="no"/>uidet de remedio per passionem filii sui praedesti 
+      <lb ed="#B" n="89"/>natur enim piscopus esse filius dei prius natura quam adam 
+      <lb ed="#B" n="90"/>intelligatur peccare: ex. 7. dis. huius tertii: alio 
+      <lb ed="#B" n="91"/>quin piscous videretur solum esse ens occasionale. 
+      <lb ed="#B" n="92"/>In sexto signo pro electis redimendis di mit 
+      <lb ed="#B" n="93"/>titur in carnem filius: vt pro electis passione sua sati 
+      <lb ed="#B" n="94"/>faciat. Ex quo patet manifeste quod passio xpiscoi quantum 
+      <lb ed="#B" n="95"/>ad efficaciam solum fuit pro electis: quia pro illis 
+      <lb ed="#B" n="96"/>solum betam trinitas filium dei misit. Sed dicit ter 
+      <lb ed="#B" n="97"/>tia pars conclusionis: quod passio xprici quantum ad suffi 
+      <lb ed="#B" n="98"/>cientiam non sufficiebat pro infinitis. Patet: quia 
+      <!--585.xml-->
+      <pb ed="#B" n="284-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>ista passio quantum erat de se fuit bonum 
+      fi<lb ed="#B" n="2" break="no"/>nitum: et ita non se extendit ad infinita: vnde 
+      <lb ed="#B" n="3"/>hoc modo passio christi pro tantis valuit: 
+      <lb ed="#B" n="4"/>pro quantis eam deus acceptauit: vt sit 
+      to<lb ed="#B" n="5" break="no"/>ta meriti ratio effectiue ex parte dei. Ex quo 
+      <lb ed="#B" n="6"/>pateti / quod si sanctus Tho. 1. 2 et. 3. quaestionibus 
+      <lb ed="#B" n="7"/>intelligit quod ista passio veram habuit 
+      infini<lb ed="#B" n="8" break="no"/>tatem ratione diuini verbi cui vniebatur 
+      natu<lb ed="#B" n="9" break="no"/>ra humana a qua procedebat: hoc nihil est 
+      <lb ed="#B" n="10"/>salua sua semper sanctitate: magis prope quipu 
+      <lb ed="#B" n="11"/>pate verbo vnita est natura humana quam ista 
+      <lb ed="#B" n="12"/>passio: quae tamen conceditur finita. Propterea 
+      <lb ed="#B" n="13"/>si consideretur haec passio / creata est: omnis au 
+      <lb ed="#B" n="14"/>tem creatura est finita. Tum secundo quia si esset 
+      <lb ed="#B" n="15"/>infinita: esset intantum diligibilis inquantum 
+      <lb ed="#B" n="16"/>diuinum verbum. Tum tertio: quia tunc non solum 
+      <lb ed="#B" n="17"/>quantum ad sufficientiam: sed efficaciam se 
+      exten<lb ed="#B" n="18" break="no"/>disset: vnde si deus eam acceptaret pro infinitis 
+      <lb ed="#B" n="19"/>hominibus sicuti posset: non esset hoc ratione 
+      pas<lb ed="#B" n="20" break="no"/>sionis in se sed diuini bememplaciti. Et si 
+      di<lb ed="#B" n="21" break="no"/>cat quis per illud leonis pape. Sicut a rea 
+      <lb ed="#B" n="22"/>tu nullum liberum reperit: ita liberandis 
+      om<lb ed="#B" n="23" break="no"/>nibus venit: et ita pro omnibus missus est dei 
+      <lb ed="#B" n="24"/>filius: non solum pro electis. Dicendum quod li 
+      <lb ed="#B" n="25"/>oinibus: tenetur accommode id est pro omnibus 
+      ele<lb ed="#B" n="26" break="no"/>ctis: sicut illud caelum continet omnia. Uel dicen 
+      <lb ed="#B" n="27"/>dum quod illa auctoritas innuit quod impedimentum 
+      <lb ed="#B" n="28"/>saluationis non est a parte dei: sed 
+      reprobo<lb ed="#B" n="29" break="no"/>rum: quantum enim in se est: promptus est omnibus 
+      <lb ed="#B" n="30"/>subuenire a nemine calorem suum abscondens. 
+      </p>
+               <p xml:id="WuV37d-f30901-d1e742">
+                  <lb ed="#B" n="31"/>¶ Secunda conclusio est / de merito 
+      passi<lb ed="#B" n="32" break="no"/>onis christi in deletione culpae et poenae: et 
+      <lb ed="#B" n="33"/>est haec. Christi passione deuotissima et 
+      pae<lb ed="#B" n="34" break="no"/>na et culpa deleta est. Dicit prima pars 
+      conclu<lb ed="#B" n="35" break="no"/>sionis / quod merito passionis xpisci culpa dele 
+      <lb ed="#B" n="36"/>ta est: patet. Lauit nos a peccatis nostris in 
+      <lb ed="#B" n="37"/>anguine suo. Et dicitur: Sanguis piscopi qui 
+      <lb ed="#B" n="38"/>per spiritum sanctum se obtulit immaculatum deo: 
+      <lb ed="#B" n="39"/>emundabit conscientias nostras ab operibus 
+      mor<lb ed="#B" n="40" break="no"/>tuis. Et in canone misse. Hic est calix 
+      no<lb ed="#B" n="41" break="no"/>ui et aeterni testamenti: qui pro vobis et pro 
+      <lb ed="#B" n="42"/>multis effundetur in remissionem peccatorum. 
+      <lb ed="#B" n="43"/>Ex quo infertur xpisicoum nobis meruisse priman 
+      <lb ed="#B" n="44"/>gratiam: alioquin non videtur quomodo potuissemus 
+      <lb ed="#B" n="45"/>illam habere. Et si dicatur: quia patres antiqui 
+      <lb ed="#B" n="46"/>testamenti habuerunt primam gratiam et tamen 
+      pas<lb ed="#B" n="47" break="no"/>sio xpiscoi nondum erat exhibita. Dicendum quod in 
+      <lb ed="#B" n="48"/>side passionis exhibende dabatur eis illa prius 
+      <lb ed="#B" n="49"/>ima gratia. Sed tunc dicit quis: meritum se¬ 
+      <!--585.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>tutum fuifset praemium quod habent magistri pro in 
+      <lb ed="#B" n="51"/>conuenienti contra magistrum sententiarum in. 2. 
+      <lb ed="#B" n="52"/>dist. 5. vbi ponit: quod angeli modo merentur 
+      <lb ed="#B" n="53"/>beatitudinem quam primo acceperunt. 
+      Dicen<lb ed="#B" n="54" break="no"/>dum quod bene est inconueniens principale praemium 
+      <lb ed="#B" n="55"/>poni ante meritum: sicut posuit magister in 
+      an<lb ed="#B" n="56" break="no"/>gelis: non sic in proposito: quia ante passionem 
+      <lb ed="#B" n="57"/>christi non fuit aperta ianua caeli: nec vllus 
+      <lb ed="#B" n="58"/>ad beatitudinem admittebatur: sed 
+      descende<lb ed="#B" n="59" break="no"/>bant omnes ad limbum: etiam beatam Maria mater 
+      <lb ed="#B" n="60"/>dei si ante christum obiisset. Dabatur autem bene 
+      <lb ed="#B" n="61"/>gratia ante christi passionem: quia non est principa 
+      <lb ed="#B" n="62"/>le praemium sed glia. Ex quo secundo patet quod 
+      chri<lb ed="#B" n="63" break="no"/>sti passio est causa meritoria deletionis 
+      ori<lb ed="#B" n="64" break="no"/>ginalis criminis: quia non deletur sine gratia. 
+      <lb ed="#B" n="65"/>Unde tertio bene dicit de passione christi doc. 
+      <lb ed="#B" n="66"/>deuo. arti. 1. q. 1. secundum quattuor causarum 
+      gene<lb ed="#B" n="67" break="no"/>ra passionem xpiscoi deletionis peccati esse 
+      cau<lb ed="#B" n="68" break="no"/>sam secundum causam materialem per modum me 
+      <lb ed="#B" n="69"/>riti inquantum disponimur passione xpiscopi. secundum 
+      <lb ed="#B" n="70"/>causam mouentem et efficientem per modum exci 
+      <lb ed="#B" n="71"/>tantis. Christus enim passus est pro nobis: vo 
+      <lb ed="#B" n="72"/>bis relinquins exemplum: vt sequemini vestigia 
+      <lb ed="#B" n="73"/>eius secundum causam formalem per modum 
+      exem<lb ed="#B" n="74" break="no"/>plaris: vt simus puri: quia fine peccato christus 
+      <lb ed="#B" n="75"/>mortuus est: secundum causam finalem per modum 
+      <lb ed="#B" n="76"/>terminantis: ad hoc enim passione sua nostra de 
+      <lb ed="#B" n="77"/>leuit crimina: vt viuere in caelis mereamur 
+      <lb ed="#B" n="78"/>vt dicatur quod passio xpiscopi delet peccata: non quidem 
+      <lb ed="#B" n="79"/>effectiue: quia sic solus deus. Ego enim sum 
+      <lb ed="#B" n="80"/>qui deleo iniquitates tuas propter me: sed  
+      <lb ed="#B" n="81"/>dispositiue et meritorie. Sed dicit secun 
+      <lb ed="#B" n="82"/>da pars conclusionis: quod etiam delet poenam: 
+      <lb ed="#B" n="83"/>per illud. Peccata nostra ipse in corpore suo 
+      <lb ed="#B" n="84"/>tulit super lignum: vbi magister in littera: 
+      por<lb ed="#B" n="85" break="no"/>tare peccata nostra est portare paenam 
+      pec<lb ed="#B" n="86" break="no"/>catorum nostrorum. Unde Esaias dicit. Uere 
+      <lb ed="#B" n="87"/>languores nostros ipse tulit: et 
+      infirmita<lb ed="#B" n="88" break="no"/>tes nostras ipse portauit. Ad quid enim 
+      tan<lb ed="#B" n="89" break="no"/>tam paenam passus esset: nisi vt nostra 
+      dimit<lb ed="#B" n="90" break="no"/>teretur poena. Unde triplex nostra poena in 
+      eius<lb ed="#B" n="91" break="no"/>dem passione absorpta est. Prima 
+      tempo<lb ed="#B" n="92" break="no"/>ralis: in baptismo quippe necdum culpa 
+      nec<lb ed="#B" n="93" break="no"/>dum poena aeterna: sed temporalis condonatur 
+      <lb ed="#B" n="94"/>Secunda aeterna: dum passione enim eius gra 
+      <lb ed="#B" n="95"/>tia impetratur: poena aeterna remouetur. Ter 
+      <lb ed="#B" n="96"/>tia media: scilicet carentia diuinae visionis quae 
+      <lb ed="#B" n="97"/>passione amota est: vnde et si manet 
+      com<lb ed="#B" n="98" break="no"/>passio de morte christi et poenitentia de pec 
+      <!--586.xml-->
+      <pb ed="#B" n="285-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>cato et poene aliae temporales: vsque post re 
+      <lb ed="#B" n="2"/>surrectionem generalem solum manent inquantum 
+      <lb ed="#B" n="3"/>promouent ad bonum: non aliter nec obuiat quod 
+      <lb ed="#B" n="4"/>multi adhuc sunt damnati: hoc enim non proue 
+      <lb ed="#B" n="5"/>nit ex defectu passionis christi: sed ex suo¬ 
+      </p>
+               <p xml:id="WuV37d-f30901-d1e914">
+                  <lb ed="#B" n="6"/>¶ Tertia coclusio est / de deletione 
+      cy<lb ed="#B" n="7" break="no"/>rographi decreti ex illa passione: et est haec. 
+      <lb ed="#B" n="8"/>Christi passione durissima cyrographum 
+      <lb ed="#B" n="9"/>decreti deletur: et a daemone liberamur. Pri 
+      <lb ed="#B" n="10"/>ma pars diciti / quod cyrographum decreti 
+      dele<lb ed="#B" n="11" break="no"/>tur passione christi: patet ex effectu: quia 
+      vir<lb ed="#B" n="12" break="no"/>tute illius cyrographi: ante mortem 
+      chri<lb ed="#B" n="13" break="no"/>sti erant patres in limbo detenti: et tamen 
+      <lb ed="#B" n="14"/>modo non sunt: et ita videtur deletum. Et si di 
+      <lb ed="#B" n="15"/>catur: quia crucifixores christi: tantum 
+      pecca<lb ed="#B" n="16" break="no"/>uerunt quantum christus meruit: et ita in eis 
+      <lb ed="#B" n="17"/>non videtur deleri? Dicendum quod non tantum pec 
+      <lb ed="#B" n="18"/>cauerunt quantum christus meruit: ex maiori 
+      <lb ed="#B" n="19"/>enim affectu christus passus est: quam illi cruci 
+      <lb ed="#B" n="20"/>figebant. Caeterum diminuit eorum peccatum 
+      <lb ed="#B" n="21"/>maxime aliquorum ignorantia: quia ignora 
+      <lb ed="#B" n="22"/>bant an esset deus: vnde dictum est. Si co 
+      <lb ed="#B" n="23"/>gnouissent nunquam dominum glsiae crucifixissent. 
+      <lb ed="#B" n="24"/>vnde licet multi ex illo decreto sint dam 
+      <lb ed="#B" n="25"/>nati non venit ex defectu passionis christi: 
+      <lb ed="#B" n="26"/>sed eorum consummata malitia. Sed quis ha 
+      <lb ed="#B" n="27"/>bebat istud cyrographum? Dicendum quod de 
+      <lb ed="#B" n="28"/>us vt iudex: homo vt reus: diabolus vt 
+      <lb ed="#B" n="29"/>accusator: vnde licet homo iuste detineretur: 
+      <lb ed="#B" n="30"/>iniuste tamen eum daemon detinebat. Sed 
+      <lb ed="#B" n="31"/>dicit secunda pars conclusionis / quod passione 
+      chri<lb ed="#B" n="32" break="no"/>sti liberamur a diabolo. Probatur: 
+      victo<lb ed="#B" n="33" break="no"/>ria ducis est victoria totius exercitus: sed  
+      <lb ed="#B" n="34"/>christus qui est dux noster: vicit diabolum: 
+      <lb ed="#B" n="35"/>ergo etc. Confirmatur: quia sicut adam primo 
+      <lb ed="#B" n="36"/>victo: omnes victi sumus: sic adam secundo 
+      vin<lb ed="#B" n="37" break="no"/>cente omnes victores efficimur. Unde. 
+      Ui<lb ed="#B" n="38" break="no"/>di angelum descendentem de caelo et appreho 
+      <lb ed="#B" n="39"/>dit draconem: qui est diabolus. Angelus hic 
+      <lb ed="#B" n="40"/>e est christus. Et per id. Nunc inquit iesus 
+      iu<lb ed="#B" n="41" break="no"/>dicium est mundi: nunc princeps huius mum 
+      <lb ed="#B" n="42"/>di eiicietur foras. Et si dicatur ex illo. 2. ad 
+      <lb ed="#B" n="43"/>Thimo. 2. quod in nouissimis temporibus insta 
+      <lb ed="#B" n="44"/>bunt tempora periculosa etc. Unde et tempo 
+      <lb ed="#B" n="45"/>re antichristi erit magna diaboli 
+      pote<lb ed="#B" n="46" break="no"/>stas? Dicendum quod hoc non erit quin diabo 
+      <lb ed="#B" n="47"/>li potestas imminuta sit: sed hoc peruersi 
+      <lb ed="#B" n="48"/>tas faciet hominum: vnde bene notat 
+      do<lb ed="#B" n="49" break="no"/>ctor deuotus. q. 2. arti. 1. in daemone ma¬ 
+      <!--586.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>uum attrahentem: quem thomas vocat deti 
+      <lb ed="#B" n="51"/>nentem. q. 2. et ista manus seu potestas ex 
+      <lb ed="#B" n="52"/>toto remota est: boni enim immediate post 
+      <lb ed="#B" n="53"/>mortem euolant ad paradisum: quod non ante 
+      <lb ed="#B" n="54"/>christi passionem. Alia manus est impel 
+      <lb ed="#B" n="55"/>lens seu pugnans secundum Thomam: et ista est 
+      <lb ed="#B" n="56"/>debilitata ratione veritatis agnite: 
+      frau<lb ed="#B" n="57" break="no"/>dulenter enim impellebat daemon vt draco 
+      <lb ed="#B" n="58"/>ad malum: et ratione virtutis date violenter 
+      <lb ed="#B" n="59"/>enim impellebat vt leo: et ita intelligitur 
+      il<lb ed="#B" n="60" break="no"/>lud. Non est nobis colluctatio aduersus 
+      <lb ed="#B" n="61"/>carnem et sanguinem: sed aduersus rectores 
+      <lb ed="#B" n="62"/>tenebrarum harum: nec tantum in antiquo fuit 
+      <lb ed="#B" n="63"/>adiutorium testamento: gratia enim et veritas 
+      <lb ed="#B" n="64"/>per iesum christum facta est. 
+      <lb ed="#B" n="65"/>e 
+      arti<lb ed="#B" n="66" break="no"/>culum 
+      <lb ed="#B" n="67"/>sunt tres difficultates.
+</p>
+               <p xml:id="WuV37d-f30901-d1e1055">
+¶ Prima 
+      <lb ed="#B" n="68"/>An christus debeat dici redemptor sicut me 
+      <lb ed="#B" n="69"/>diator? Dicendum quod sic: licet enim pater pe 
+      <lb ed="#B" n="70"/>modum auctoritatis filium miserit: et 
+      chari<lb ed="#B" n="71" break="no"/>tas quae sancto attribuitur spiritui redem 
+      <lb ed="#B" n="72"/>ptos informauerit: et ita possint pater ei 
+      <lb ed="#B" n="73"/>spiritus sanctus dici redemptores: 
+      execu<lb ed="#B" n="74" break="no"/>tiue tamen christus dicitur redemptor et sib 
+      <lb ed="#B" n="75"/>appropriatur. Unde. Redemisti nos domine 
+      <lb ed="#B" n="76"/>in sanguine tuo ex omni tribu et lingua et 
+      <lb ed="#B" n="77"/>populo etc.
+</p>
+               <p xml:id="WuV37d-f30901-d1e1079">
+¶ Secunda difficultas 
+      <lb ed="#B" n="78"/>Quare expiatio nostrorum delictorum attr 
+      <lb ed="#B" n="79"/>bui videtur passioni christi: et iustificatio non 
+      <lb ed="#B" n="80"/>stra christi resurrectioni. Sic enim scribil 
+      <lb ed="#B" n="81"/>apostolus. Traditus est propter delicta nostra 
+      <lb ed="#B" n="82"/>et resurrexit propter iustificationes nostras. 
+      <lb ed="#B" n="83"/>Et dicendum quod mors christi signat veteris 
+      <lb ed="#B" n="84"/>hominis interemptionem: ideo recte dicitur 
+      <lb ed="#B" n="85"/>mundare peccata quae sunt vetus homo. 
+      <lb ed="#B" n="86"/>Resurrectio vero christi nouum signat ho 
+      <lb ed="#B" n="87"/>minem: ideo recte sibi attribuitur nostra 
+      iusti<lb ed="#B" n="88" break="no"/>ficatio quae noui efficimur.
+</p>
+               <p xml:id="WuV37d-f30901-d1e1105">
+¶ Tertia dif 
+      <lb ed="#B" n="89"/>ficultas. An cyrographum decreti sit poe 
+      <lb ed="#B" n="90"/>na vel culpa? Dicendum quod loquendo proprie 
+      <lb ed="#B" n="91"/>nec est culpa nec poena: sed obligatio ac 
+      <lb ed="#B" n="92"/>paenam: et memoriale culpae praeterite. Ex hoc 
+      <lb ed="#B" n="93"/>patet ad quaestionem: quod videlicet dulcissime 
+      <lb ed="#B" n="94"/>passionis iesu decretum cyrographi est de 
+      <lb ed="#B" n="95"/>letum. Et tunc ad argumenta.
+</p>
+               <p xml:id="WuV37d-f30901-d1e1124">
+¶ Ad primum 
+      <lb ed="#B" n="96"/>primo dico ad maiorem quod nullum finitum ex 
+      <lb ed="#B" n="97"/>parte sui habet quod possit pro infinitis: 
+      be<lb ed="#B" n="98" break="no"/>ne tamen potest pro infinitis a deo omnipo¬ 
+      <!--587.xml-->
+      <pb ed="#B" n="285-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>tente acceptari: et hoc modo potuit face 
+      <lb ed="#B" n="2"/>re de passione christi: licet secundum se sit finita 
+      <lb ed="#B" n="3"/>Caeterum ad minorem quando dicit quod culpa 
+      <lb ed="#B" n="4"/>est infinita: quia in deum est: hoc nihil est: quia 
+      <lb ed="#B" n="5"/>illo modo et christi passio diceretur infinita 
+      <lb ed="#B" n="6"/>quae obedientia patris est completa: nec ista 
+      <lb ed="#B" n="7"/>infinitas est nisi obedientia: ideo 
+      argumen<lb ed="#B" n="8" break="no"/>tum non currit.
+</p>
+               <p xml:id="WuV37d-f30901-d1e1157">
+¶ Ad secundum: primo dico ad 
+      <lb ed="#B" n="9"/>maiorem quod est vera de merito proprio et 
+      prin<lb ed="#B" n="10" break="no"/>cipali non autem de merito quando quis pro alio 
+      <lb ed="#B" n="11"/>meretur. De primo exemplum: dum quis meretur 
+      <lb ed="#B" n="12"/>corporis agilitatem nobilius est meritum quam 
+      agi<lb ed="#B" n="13" break="no"/>litas corporis: sed illa agilitas non est 
+      princi<lb ed="#B" n="14" break="no"/>palius meritum: sed dei fruitio et visio. De 
+      <lb ed="#B" n="15"/>alio exemplum: sicut dum quis alteri meretur 
+      <lb ed="#B" n="16"/>aut primam gratiam: aut aliud hoc modo est 
+      <lb ed="#B" n="17"/>meritum christi: ideo non obuiat. Caeterum quod 
+      <lb ed="#B" n="18"/>dicitur in minori quod meritum christi quandam 
+      <lb ed="#B" n="19"/>sortitur infinitatem propter diuinum verbum: 
+      fal<lb ed="#B" n="20" break="no"/>sum est: nisi intelligatur de extrinseca infin 
+      <lb ed="#B" n="21"/>tate: et hoc nihil est ad propositum.
+</p>
+               <p xml:id="WuV37d-f30901-d1e1188">
+¶ Ad 
+      <lb ed="#B" n="22"/>tertium neganda est minor: et primo quo 
+      <lb ed="#B" n="23"/>ad sufficientiam: dico quod non a parte sui: sed 
+      <lb ed="#B" n="24"/>dei acceptantis potuit haec passio 
+      accepta<lb ed="#B" n="25" break="no"/>ri pro infinitis. Quo autem ad efficaciam 
+      di<lb ed="#B" n="26" break="no"/>co quod nullus damnatur eorum pro quibus 
+      effi<lb ed="#B" n="27" break="no"/>caciter est oblata: quia illi solum sunt 
+      ele<lb ed="#B" n="28" break="no"/>cti.
+</p>
+            </div>
+            <div xml:id="WuV37d-f30901-Dd1e1207" type="et-conclusiones">
+               <head xml:id="WuV37d-f30901-Hd1e1209">Conclusiones</head>
+               <p xml:id="WuV37d-f30901-d1e1212">
+¶ Ex praesenti autem distinctione 
+      <lb ed="#B" n="29"/>sicut etc. Prima conclusio. A culpa solui 
+      <lb ed="#B" n="30"/>mur atque crimine et puri nascimur christi 
+      <lb ed="#B" n="31"/>sanguine. Dicit conclusio / quod passio christi 
+      <lb ed="#B" n="32"/>liberat nos ab his tribus / poena  culpa / et 
+      <lb ed="#B" n="33"/>daemone. Et ponitur a principio distinctionis 
+      <lb ed="#B" n="34"/>vsque ibi. Unde ipse dicitur etc.
+</p>
+               <p xml:id="WuV37d-f30901-d1e1228">
+¶ Secunda 
+      <lb ed="#B" n="35"/>conclusio. Redemptor seritur filius propriae 
+      <lb ed="#B" n="36"/>et intelligitur sub vna serie. Dicit conclusio 
+      <lb ed="#B" n="37"/>quod proprie filius dei solus dicitur redemptor no 
+      <lb ed="#B" n="38"/>ster. Et ponitur ab illo ca. Unde ipse etc. vsque 
+      <lb ed="#B" n="39"/>ibi. Qui solus dicitur etc.
+</p>
+               <p xml:id="WuV37d-f30901-d1e1241">
+¶ Tertia 
+      conclu<lb ed="#B" n="40" break="no"/>sio. Extat mediator salutis genitus atque 
+      <lb ed="#B" n="41"/>propinator vere et poenitus. Dicit conclusio 
+      <lb ed="#B" n="42"/>quod vere christus est mediator noster ad de 
+      <lb ed="#B" n="43"/>um. Et ponitur ab illo ca. Qui solus etc. 
+      <lb ed="#B" n="44"/>vsque ad finem distinctionis. 
+</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

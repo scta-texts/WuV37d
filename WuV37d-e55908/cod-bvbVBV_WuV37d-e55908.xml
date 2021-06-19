@@ -1,0 +1,630 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Prologus</title>
+            <author ref="#WilliamDeVaurouillon">William de Vaurouillon</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Prologus</title>
+               <date when="2021-06-19">June 19, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-bvbVBV">Basel 1510</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-06-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="122-v"/>
+            <cb ed="#B" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="WuV37d-e55908"><!-- l2prol -->
+            <head xml:id="WuV37d-e55908-Hd1e108">Prologus</head>
+            <p xml:id="WuV37d-e55908-d1e111">
+      <!--261.xml-->
+               <pb ed="#B" n="122-v"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>Ista est prima quaestio in secundum li. sen 
+      <lb ed="#B" n="2"/>tentiarum pro aemialis: in qua tractat d 
+      <lb ed="#B" n="3"/>obiectis inesse secundum quid in deo et eius 
+      <lb ed="#B" n="4"/>intellectione atque intelligibili. 
+    </p>
+            <p xml:id="WuV37d-e55908-d1e129">
+               <lb ed="#B" n="5"/>N campis 
+      <lb ed="#B" n="6"/>conuallium ab ideis prius 
+      <lb ed="#B" n="7"/>mariis distributione 
+      <lb ed="#B" n="8"/>monodica rerum grad 
+      <lb ed="#B" n="9"/>deriuentur: hoc est quirere: 
+      <lb ed="#B" n="10"/>Utrum iuxta diuinarum 
+      <lb ed="#B" n="11"/>idearum numerum quaelibes 
+      <lb ed="#B" n="12"/>diuinae perfectionis reduplicata vnitas spe 
+      <lb ed="#B" n="13"/>cien vniuersi constituat distinctam. Et arguitur 
+      <lb ed="#B" n="14"/>primo quod non. Si enim vniuersi species ex ordine 
+      <lb ed="#B" n="15"/>vnitatis additione se haberent: aut foret 
+      <lb ed="#B" n="16"/>finita distantia inter duas propinquiores 
+      <lb ed="#B" n="17"/>species / aut infinita. Si infinita: ergo non 
+      <lb ed="#B" n="18"/>constituit distinctam speciem diuinae vnitatis re 
+      <lb ed="#B" n="19"/>duplicatio. Probatur consequentia: quia inter 
+      <lb ed="#B" n="20"/>duas propinquiores vnitates 
+      mathemati<lb ed="#B" n="21" break="no"/>cas nulla cadit vnitas media. Si autem fit 
+      <lb ed="#B" n="22"/>distantia finita: igitur poterunt in vniuerso due 
+      <lb ed="#B" n="23"/>equales repariri species. Consequens est falsum / et 
+      <lb ed="#B" n="24"/>contra Aristo. 6. metaph. Species inquit 
+      <lb ed="#B" n="25"/>se habent sicut numeri: ita quod sicut non sunt 
+      <lb ed="#B" n="26"/>duo numeri diuersae speciein aequales: sic nec 
+      <lb ed="#B" n="27"/>duae species naturales. Sed probatur 
+      conse<lb ed="#B" n="28" break="no"/>quentia: quia finitum finito additum reddere po 
+      <lb ed="#B" n="29"/>test aequale. Confirmatur ratio: quia in eadem spe 
+      <lb ed="#B" n="30"/>cie / vtputa humana: quodlibet indiuiduum 
+      <lb ed="#B" n="31"/>in diuina mente habet ideam propriam / et in re pro 
+      <lb ed="#B" n="32"/>priae vnitatis reduplicationem: cum tamen eiui 
+      <lb ed="#B" n="33"/>dem sint illa indiuidua speciei. Unde et Her 
+      <lb ed="#B" n="34"/>mes termegistus in lib. diffinitionum dei di 
+      <lb ed="#B" n="35"/>cit: et habetur in almagesti. Deus est sphaera 
+      <lb ed="#B" n="36"/>incircumscriptibilis: cuius centrum vbique est: cit 
+      <lb ed="#B" n="37"/>cumferentia nusquam. Centrum est non gradus 
+      li<lb ed="#B" n="38" break="no"/>neae. Paralellae ad circumferentiam tendentes 
+      <lb ed="#B" n="39"/>sunt diuinae perfectiones in creaturis repartae. 
+      <lb ed="#B" n="40"/>Exquo igitur omnes a non gradu seu centro 
+      <lb ed="#B" n="41"/>incipiunt: sequitur quod species non fiunt vnitatis  
+      <lb ed="#B" n="42"/>reduplicatione / sed immediate per non 
+      gra<lb ed="#B" n="43" break="no"/>dum.
+</p>
+            <p xml:id="WuV37d-e55908-d1e216">
+¶ In oppositum autem et pro parte affirmati 
+      <lb ed="#B" n="44"/>ua arguitur. Illa vnitatus reduplicatione 
+      <lb ed="#B" n="45"/>originaliter ab ideis primariis specie sunt 
+      <lb ed="#B" n="46"/>distincta / quae ab aliis et distinctis nominantur 
+      <lb ed="#B" n="47"/>perfectionibus simpliciter. Sed huiusmodi sunt 
+      <!--261.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="48"/>vniuersi species: igitur vnitatis 
+      reduplica<lb ed="#B" n="49" break="no"/>tione distinguuntur. Maior patet. Distin 
+      <lb ed="#B" n="50"/>ctio enim specirum nihil aliud videtur nisi 
+      diuer<lb ed="#B" n="51" break="no"/>sa participatio diuine bonitatis et 
+      perfectio<lb ed="#B" n="52" break="no"/>nis: secundum quod vna super aliam duplicatur: vt 
+      innu<lb ed="#B" n="53" break="no"/>it diuinus Dionysius in 5. 6. et. 7. 
+      diui<lb ed="#B" n="54" break="no"/>norum nominum: tam in translatione Ioam. Sco 
+      <lb ed="#B" n="55"/>ti quam abbatis vercellarum: vt super esse 
+      ad<lb ed="#B" n="56" break="no"/>dit viuere: et super esse et viuere addit 
+      sape<lb ed="#B" n="57" break="no"/>re: et hoc fit de ideis seu mundo 
+      archety<lb ed="#B" n="58" break="no"/>po: vt innuit Augustinus in libro octogintatrium  
+      <lb ed="#B" n="59"/>quaestionum. Alia ratione conditus est homos 
+      <lb ed="#B" n="60"/>alia equus. Sed minor patet 
+      auctorita<lb ed="#B" n="61" break="no"/>te Augustinus .15. de trini. Qniam rebus creatis 
+      cre<lb ed="#B" n="62" break="no"/>atorem sine dubitatione praeponimus: oportet 
+      <lb ed="#B" n="63"/>eum summe viuere: et cuncta sentire et intel 
+      <lb ed="#B" n="64"/>ligere. Et ad propositum sequitur viuentia non 
+      <lb ed="#B" n="65"/>viuentibus / sensu praedita non sensibus / intelli 
+      <lb ed="#B" n="66"/>gibilia non intelligibilibus / immortalia 
+      mor<lb ed="#B" n="67" break="no"/>talibus / bona malis praeferenda iudicamus. 
+      <lb ed="#B" n="68"/>Et sic patet ascensus in huiusmodi perfectionibus 
+      <lb ed="#B" n="69"/>modo numeri et vnitatis. Et corroboratur au 
+      <lb ed="#B" n="70"/>ctoritate sapientis. Omnia in numero spoes 
+      <lb ed="#B" n="71"/>dere et mensura fecisti domine. Et sic latet quae 
+      <lb ed="#B" n="72"/>stio sub dubio.
+</p>
+            <p xml:id="WuV37d-e55908-d1e286">
+¶ Antequam actus praesens vl 
+      <lb ed="#B" n="73"/>tra procedat / reuerendi patres magistrique 
+      <lb ed="#B" n="74"/>insignes laude varia: nisi temporis vrgeret an 
+      <lb ed="#B" n="75"/>gustia: more huius almae facultatis matris 
+      <lb ed="#B" n="76"/>meae tbeologiae / eram protestationes facturus / iam 
+      <lb ed="#B" n="77"/>pluries per me actas: quas humillime sup 
+      <lb ed="#B" n="78"/>plico haberi pro repetitis. Specialiter tamen 
+      <lb ed="#B" n="79"/>de praesenti protestor me aliqua dicere solum pro 
+      <lb ed="#B" n="80"/>babiliter et collatiue: vt valeam proficere cum 
+      <lb ed="#B" n="81"/>reuerendis magistris meis ingeniosissimis: 
+      <lb ed="#B" n="82"/>cum quibus in lectura sententiarum 
+      immeri<lb ed="#B" n="83" break="no"/>tus concurro: quorum dicta iuxta modicam fa 
+      <lb ed="#B" n="84"/>cultatem meam intendo fideliter recitare. Et 
+      <lb ed="#B" n="85"/>si tantam reuerentiam in ore non habeam / qua 
+      <lb ed="#B" n="86"/>lem tantos decet viros / in diuinis imbu 
+      <lb ed="#B" n="87"/>tos theoriis: supplico parcant: nam illam in 
+      <lb ed="#B" n="88"/>corde intendo tenere quamdiu vitam duxero 
+      <lb ed="#B" n="89"/>in humanis.
+</p>
+            <p xml:id="WuV37d-e55908-d1e326">
+¶ His habitis et praemissis pro 
+      <lb ed="#B" n="90"/>decisione quaestionis sit vnica conclusio fu 
+      <lb ed="#B" n="91"/>damentalis talis. Proportio arithme 
+      <lb ed="#B" n="92"/>tica perfectiones simpliciter per ideas 
+      primari<lb ed="#B" n="93" break="no"/>as rerum gradus subordinat. Pro captu 
+      <lb ed="#B" n="94"/>conclusionis sunt breviter tres termini de 
+      <lb ed="#B" n="95"/>clarandi: Proportio arithumetica / 
+      perfe<lb ed="#B" n="96" break="no"/>fectio simpliciter / et idea primaria. 
+      <!--262.xml-->
+      <pb ed="#B" n="123-r"/>
+               <cb ed="#B" n="a"/>
+            </p>
+            <p xml:id="WuV37d-e55908-d1e350">
+               <lb ed="#B" n="1"/>¶ Quo ad primum solent 
+      mathemati<lb ed="#B" n="2" break="no"/>ci triplicem dicere proportionem: aritmethican 
+      <lb ed="#B" n="3"/>geometricam et musicam. et pro nunc dimissa mu 
+      <lb ed="#B" n="4"/>sica voco in proposito proportionem geometrican 
+      <lb ed="#B" n="5"/>quando est inter aliqua duo excessus: conueniunt 
+      <lb ed="#B" n="6"/>tamen illa in aliqua ratione formali secundum quam 
+      <lb ed="#B" n="7"/>fit illa proportio seu comparatio sicuti si secundum 
+      <lb ed="#B" n="8"/>modum loquendi beati dyon. in de mystica 
+      <lb ed="#B" n="9"/>theologia: sit deus magis ens: seu magen 
+      <lb ed="#B" n="10"/>bonus quam creatura: exigitur in hac proportio 
+      <lb ed="#B" n="11"/>ne: quod ratio entis et bonitatis sit communis 
+      <lb ed="#B" n="12"/>vniuoce deo et creaturis: proportio autem 
+      <lb ed="#B" n="13"/>arithmetica non exigit hoc: sed solum no 
+      <lb ed="#B" n="14"/>minat in superante multiplicius: sicuti si 
+      <lb ed="#B" n="15"/>dicamus: deus est perfectior creatura. hac 
+      <lb ed="#B" n="16"/>arithmetica proportione non requiritur quod illud qua 
+      <lb ed="#B" n="17"/>deus est perfectior creatura sit formaliter in 
+      crea<lb ed="#B" n="18" break="no"/>tura seu eiusdem rationis. Sed solum 
+      intelli<lb ed="#B" n="19" break="no"/>gitur: quod creatura habet aliquas perfectio 
+      <lb ed="#B" n="20"/>nes: et plures habet deos.
+</p>
+            <p xml:id="WuV37d-e55908-d1e396">
+¶ Termin 
+      <lb ed="#B" n="21"/>secundus est perfectio simpliciter: 
+      <lb ed="#B" n="22"/>vnde perfectio simpliciter secundum Anh. in 
+      <lb ed="#B" n="23"/>suo monologion: est quae in quolibet 
+      me<lb ed="#B" n="24" break="no"/>lius est ipsam esse quam non esse. Et secundum modo 
+      <lb ed="#B" n="25"/>tem doctoris subtilis in primo suo. distin. 
+      <lb ed="#B" n="26"/>2. q. 4. non debet intelligi absolute: quod in 
+      <lb ed="#B" n="27"/>qualibet natura sit melius vnam perfectio 
+      <lb ed="#B" n="28"/>nem esse simpliciter quam non esse. Sed de 
+      <lb ed="#B" n="29"/>bet intelligi in quolibet supposito 
+      abso<lb ed="#B" n="30" break="no"/>lute considerato: non considerata eius 
+      na<lb ed="#B" n="31" break="no"/>tura: patet exemplo. Sapientia enim 
+      per<lb ed="#B" n="32" break="no"/>fectio extat simpliciter non est tantum melius cani in 
+      <lb ed="#B" n="33"/>quantum canis: quod sit sapiens. quam quod non sit sapiens 
+      <lb ed="#B" n="34"/>Si enim esset sapiens: iam non esset 
+      canis<lb ed="#B" n="35" break="no"/>sed melius esset supposito canis non 
+      con<lb ed="#B" n="36" break="no"/>siderata canis natura.
+</p>
+            <p xml:id="WuV37d-e55908-d1e433">
+¶ Tertius 
+      ter<lb ed="#B" n="37" break="no"/>minus est idea: Unde idee secundum aug. 
+      <lb ed="#B" n="38"/>in li. 3 qaestione sunt formae aeterne et immobiles 
+      <lb ed="#B" n="39"/>in mente diuina: secundum quas aliquid est 
+      for<lb ed="#B" n="40" break="no"/>mabile antequam formetur: ideo addidi in 
+      quae<lb ed="#B" n="41" break="no"/>stione primarias propter ideas quae sunt 
+      <lb ed="#B" n="42"/>in mentibus secundariorum artificum: quia 
+      pri<lb ed="#B" n="43" break="no"/>mae sunt in deo. Ex quo patet quod idea: 
+      for<lb ed="#B" n="44" break="no"/>maliter solum dicit esse cognitum. Hoc ha 
+      <lb ed="#B" n="45"/>bito probatur conclusio sic. Quandocumque 
+      <lb ed="#B" n="46"/>ab aliquo agente per modum intellectus 
+      <lb ed="#B" n="47"/>infallibili aliqua diuersarum rationum in 
+      <lb ed="#B" n="48"/>esse prodeunt illa proportione 
+      arithmeti<lb ed="#B" n="49" break="no"/>caper primas ideas recipiunt perfectio¬ 
+      <!--262.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="50"/>nes simpliciter. Sed sic est de toto vniuer 
+      <lb ed="#B" n="51"/>so respectu dei. igitur conclusio vera. ma 
+      <lb ed="#B" n="52"/>ior patet ex eo nempe: quod maior habet ab 
+      <lb ed="#B" n="53"/>agente per modum intellectus ponit ideas ex 
+      ter<lb ed="#B" n="54" break="no"/>tio termino. Additur autem infallibili: quia respe 
+      <lb ed="#B" n="55"/>ctu primi nec est casus nec fortuna. vt tan 
+      <lb ed="#B" n="56"/>git Boe. 5. de consol. Rursus ex eo quod 
+      ma<lb ed="#B" n="57" break="no"/>ior habet diuersarum rationum ponit propor 
+      <lb ed="#B" n="58"/>tionem arithmeticam ex primo termino: et quia di 
+      <lb ed="#B" n="59"/>uersae rationes formales in nobis represen 
+      <lb ed="#B" n="60"/>tant in deo perfectiones simpliciter distin 
+      <lb ed="#B" n="61"/>ctas ex natura rei ex via. Anf. in mono. 
+      <lb ed="#B" n="62"/>ponit maior in prima parte inclusiue perfe 
+      <lb ed="#B" n="63"/>ctionem simpliciter ex secundo termino: ita 
+      <lb ed="#B" n="64"/>quod maior tante est veritatis: quod subiectum 
+      in<lb ed="#B" n="65" break="no"/>cludit praedicatum. Sed minor declaratur. 
+      pri<lb ed="#B" n="66" break="no"/>modo quod deus agat: intelligens enim primum 
+      <lb ed="#B" n="67"/>agens agit propter finem. igitur naturaliter: vl 
+      <lb ed="#B" n="68"/>cognoscendo finem non naturaliter: quia tunc 
+      <lb ed="#B" n="69"/>non esset primum: quia natura non primo ordi 
+      <lb ed="#B" n="70"/>nat: vnde primo metha. scribitur quod sapientis est pri 
+      <lb ed="#B" n="71"/>ma ordinatio. ergo agit cognoscendo et per 
+      <lb ed="#B" n="72"/>consequens per intellectum. Sed quod suus intellectus 
+      <lb ed="#B" n="73"/>sit infallibilis: probatur. quia omne imperfe 
+      <lb ed="#B" n="74"/>ctum debet reduci ad perfectum: et si illud imper 
+      <lb ed="#B" n="75"/>fectum in sua ratione formali non dicat 
+      im<lb ed="#B" n="76" break="no"/>perfectionem vel non sequatur: habet reduci 
+      <lb ed="#B" n="77"/>ad perfectum simpliciter in eadem ratione 
+      si<lb ed="#B" n="78" break="no"/>cut bonitas imperfecta ad bonitatem 
+      sim<lb ed="#B" n="79" break="no"/>pliciter. ergo cum intellectus de se non 
+      di<lb ed="#B" n="80" break="no"/>cat formaliter imperfectionem: et in creatura 
+      <lb ed="#B" n="81"/>sit imperfectus reducetur ad aliquem omnino 
+      per<lb ed="#B" n="82" break="no"/>fectum: et ita infallibilem. Sed quod diuersarum 
+      <lb ed="#B" n="83"/>rationum aliqua ab agente isto prodeant in es 
+      <lb ed="#B" n="84"/>se hoc ostendit rerum multiformitas in 
+      ma<lb ed="#B" n="85" break="no"/>china mundiali se habentia secundum magis per 
+      <lb ed="#B" n="86"/>fectum et minus perfectum. Unde et Aug. in 
+      <lb ed="#B" n="87"/>li. 93. q. q. 6i. Si omnia inquit essent 
+      equa<lb ed="#B" n="88" break="no"/>lia omnia non essent omnia: et hoc est quod 
+      in<lb ed="#B" n="89" break="no"/>quit doctus Boe. 3. de consol. loquens de no 
+      <lb ed="#B" n="90"/>stro mundo archetipo seu ideali latenti in 
+      <lb ed="#B" n="91"/>deo. Uerum inquit insita summi forma boni 
+      <lb ed="#B" n="92"/>liuore carens tu cuncta superno ducis ab 
+      <lb ed="#B" n="93"/>exemplo pulchro: pulchrius ipse mundum 
+      <lb ed="#B" n="94"/>mente gerens similique immagine formans. Ex 
+      <lb ed="#B" n="95"/>ista conclusione infero primo: ex prima 
+      par<lb ed="#B" n="96" break="no"/>te quod inter omnes vniuersi species est 
+      or<lb ed="#B" n="97" break="no"/>do essentialis in entis latitudine secundum 
+      su<lb ed="#B" n="98" break="no"/>perius et inferius: patet: quia species sunt 
+      <!--263.xml-->
+      <pb ed="#B" n="123-v"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>ad inuicem secundum proportionem arithmeticam. 
+      <lb ed="#B" n="2"/>Confirmatur: nam dato quocumque gradum 
+      <lb ed="#B" n="3"/>essendi simpliciter tali ratione suae 
+      poten<lb ed="#B" n="4" break="no"/>tialitatis et prioritatis ad differentiam spe 
+      <lb ed="#B" n="5"/>cificam actuantem non repugnat multitudo 
+      <lb ed="#B" n="6"/>huiusmodi actuationum: et per consequens 
+      specie<lb ed="#B" n="7" break="no"/>rum et per consequens repugnantia venit ex differentiis 
+      <lb ed="#B" n="8"/>specificis: vel quia vna naturaliter est prius 
+      <lb ed="#B" n="9"/>or alia: vel quia vna actuat secundum gradum 
+      <lb ed="#B" n="10"/>superiorem quam alia: primum non impedit 
+      <lb ed="#B" n="11"/>nam secundum hunc modum stat in eandem enti 
+      <lb ed="#B" n="12"/>tatem indiuidualem vnitiue concurrere plu 
+      <lb ed="#B" n="13"/>res differentias specificas sic ordinatas. 
+      <lb ed="#B" n="14"/>Quodlibet nempe indiuiduum in specie ho 
+      <lb ed="#B" n="15"/>minis est sub perfectione essentiali vitae: 
+      <lb ed="#B" n="16"/>vita. scilicet sensitiue: et vitae intellectiuae quae perfe 
+      <lb ed="#B" n="17"/>ctiones correspondent differentiis specifi 
+      <lb ed="#B" n="18"/>cis ad inuicem ordinatis ordine naturalis prio 
+      <lb ed="#B" n="19"/>ritatis. Si autem detur secundum et huiusmodi 
+      <lb ed="#B" n="20"/>differentiae necessario actuant intensius et remis 
+      <lb ed="#B" n="21"/>sius non possunt constituere species aequales quia 
+      <lb ed="#B" n="22"/>erat probandum. Ex quo patet primo: quod nul 
+      <lb ed="#B" n="23"/>lae due species in vniuerso sunt equales. 
+      In<lb ed="#B" n="24" break="no"/>fertur secundo: quod in rerum vniuersitate est dare 
+      <lb ed="#B" n="25"/>vnam specim corrspondentem vnitati non numero: pa 
+      <lb ed="#B" n="26"/>tet ex ordine vnitatis ante numerum. Ex quo pa 
+      <lb ed="#B" n="27"/>tet quod illa auctoritas sapientis omnia in numero 
+      <lb ed="#B" n="28"/>pondere et mensura constituisti: debet inte 
+      <lb ed="#B" n="29"/>ligi: aut de numero exemplari in deo: aut se 
+      <lb ed="#B" n="30"/>cundo de entitate perfecta: aut tartio 
+      disposi<lb ed="#B" n="31" break="no"/>tiue: quia huiusmodi entitas correspondens vnitati 
+      <lb ed="#B" n="32"/>seu monadi vocatur materia prima quae est in po 
+      <lb ed="#B" n="33"/>tentia ad omnes formas: patet tertio quia differnia 
+      iu<lb ed="#B" n="34" break="no"/>perior seu verius species superior continet forma 
+      <lb ed="#B" n="35"/>liter perfectionem inferiorum: sicut anima intel 
+      <lb ed="#B" n="36"/>lectiua continet formaliter perfectionem 
+      <lb ed="#B" n="37"/>animae sensitiue et vegetatiue. Et angelus 
+      <lb ed="#B" n="38"/>perfectionem corporis non tamen dico essentiam: 
+      <lb ed="#B" n="39"/>quia tunc angelus esset corporeus: imaginor enim 
+      <lb ed="#B" n="40"/>quod ille perfectiones simpliciter quae sunt in 
+      cor<lb ed="#B" n="41" break="no"/>pore seu vnitatis reduplicatio sunt cum ali 
+      <lb ed="#B" n="42"/>qua certa limitatione vnde corpus componitur 
+      <lb ed="#B" n="43"/>et eius essentia. Sed in spiritu angelico sunt cum 
+      <lb ed="#B" n="44"/>alia limitatione ideo non constituunt essentiam 
+      <lb ed="#B" n="45"/>corporis sed angeli. Secundo infero prin 
+      <lb ed="#B" n="46"/>cipaliter: quod quacumque data specie finita in 
+      en<lb ed="#B" n="47" break="no"/>tis latitudine: si habeat inferiorem: habei 
+      <lb ed="#B" n="48"/>aliquam fibi immediatam et iudico consimili 
+      <lb ed="#B" n="49"/>ter: de superiori patet: quia extat in tali or¬ 
+      <!--263.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="50"/>dine proportio arithmetica: in numeris 
+      <lb ed="#B" n="51"/>autem vnus alii succedit immediate. 
+      Confir<lb ed="#B" n="52" break="no"/>matur. tamen Aristo. autortoritate et philosophorum licet 
+      <lb ed="#B" n="53"/>non teneam in hoc eorum auctoritatem: solum enim 
+      <lb ed="#B" n="54"/>hoc fit vt habeatur veritas: dicunt enim tria: pri 
+      <lb ed="#B" n="55"/>mum quod cuilibet speciei intelligentiae vnica 
+      <lb ed="#B" n="56"/>solum correspondet intelligentia in numero. 
+      <lb ed="#B" n="57"/>Secundum quod numerus intelligentiarum est secundum 
+      <lb ed="#B" n="58"/>numerum orbium: aut motuum orbis. Tertium 
+      <lb ed="#B" n="59"/>quod quaelibet intelligentia est de se necesse 
+      es<lb ed="#B" n="60" break="no"/>se: data igitur intelligentia quae sit a. secunda 
+      <lb ed="#B" n="61"/>b. tertia. c. a. et b. sunt alterius speciei secundum 
+      <lb ed="#B" n="62"/>positionem ipsorum ex primo dicto: vel 
+      er<lb ed="#B" n="63" break="no"/>go secundum eos est possibilis species intelligti 
+      <lb ed="#B" n="64"/>tiae media inter a et b. vel non. Si sit poni 
+      <lb ed="#B" n="65"/>bilis sequitur quod est. consequenta patet: nam omne 
+      <lb ed="#B" n="66"/>necesse esse est. Sed talis intelligentia me 
+      <lb ed="#B" n="67"/>dia si sit ponibilis necesse esse: quod sit ex tertio 
+      <lb ed="#B" n="68"/>dicto sequitur quod talis est. Et ita a et bnon sunt 
+      <lb ed="#B" n="69"/>immediate. Item inter a et talem 
+      intelli<lb ed="#B" n="70" break="no"/>gentiam mediam est ponibilis alia media: 
+      <lb ed="#B" n="71"/>et quaelibet quae potest esse est per eos: 
+      sed<lb ed="#B" n="72" break="no"/>tur quod infinite sunt intermedie inter a et bet 
+      <lb ed="#B" n="73"/>et eodem modo inter b et c. quod negat et natu 
+      <lb ed="#B" n="74"/>ra et ratio et ita standum est in primo: quod priu 
+      <lb ed="#B" n="75"/>me speciei aliqua est immediata: sic quod 
+      ne<lb ed="#B" n="76" break="no"/>quit esse sibi alia proximior. Ex quo patet 
+      <lb ed="#B" n="77"/>primo quod vnitas perfectionis simpliciter 
+      redu<lb ed="#B" n="78" break="no"/>plicata variat speciem: patet secundo: quod in 
+      to<lb ed="#B" n="79" break="no"/>ta latitudine entis non est danda aliqua 
+      <lb ed="#B" n="80"/>species creata infinita intensiue: patet: quia 
+      <lb ed="#B" n="81"/>species sibi immediata: aut esset finita: aui 
+      <lb ed="#B" n="82"/>infinita. Si finita ergo alia superior non es 
+      <lb ed="#B" n="83"/>set infinita: probatur consequenta: quia solam ad 
+      <lb ed="#B" n="84"/>deret super inferiorem vnitatis reduplicatio 
+      <lb ed="#B" n="85"/>nem quae non facit distantiam infinitam qualis 
+      de<lb ed="#B" n="86" break="no"/>bet esse finiti ad infinitum. Si autem sit 
+      infini<lb ed="#B" n="87" break="no"/>ta: ergo non est superior immediata: immo d 
+      <lb ed="#B" n="88"/>ipsamet: quia infinitum infinito nihil ad ¬ 
+      <lb ed="#B" n="89"/>dit. Corroboratur. quia tunc illae species 
+      ha<lb ed="#B" n="90" break="no"/>berent iusticiam denominatione intrinseca: 
+      <lb ed="#B" n="91"/>nec sibi esset iusticia acceients: et per consequens pecca 
+      <lb ed="#B" n="92"/>re non posset: quod repugnat per naturam nisi 
+      <lb ed="#B" n="93"/>sit dono dei speciali collato creature 
+      ra<lb ed="#B" n="94" break="no"/>tionali seu intellectuali quae de se in partem 
+      <lb ed="#B" n="95"/>vtr: quod extat vertibilis. Patet tertio quod la 
+      <lb ed="#B" n="96"/>titudo indiuiduorum in eadem specie non subor 
+      <lb ed="#B" n="97"/>dinatur proportioni arithumetica scilicet sed 
+      geo<lb ed="#B" n="98" break="no"/>metrica. patet clare: quia proportio arith 
+      <!--264.xml-->
+      <pb ed="#B" n="124-r"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>metica ponit specierum diuersitatem non 
+      <lb ed="#B" n="2"/>geometrica: vnde licet vnum indiuiduum 
+      ad<lb ed="#B" n="3" break="no"/>dat super aliud in eadem specie graduum 
+      <lb ed="#B" n="4"/>multiplicitatem tam ratione differentiae 
+      ma<lb ed="#B" n="5" break="no"/>terialis seu indiuidualis quam speciei et caete 
+      <lb ed="#B" n="6"/>rorum superiorum: vt dicamus quod anima chri 
+      <lb ed="#B" n="7"/>sti fuit perfectior anima perfectior spiritus perfecti 
+      <lb ed="#B" n="8"/>us ens in naturalibus quam anima iude non tamen 
+      <lb ed="#B" n="9"/>variat speciam: et patet quando gilbertus 
+      por<lb ed="#B" n="10" break="no"/>retani dicit in libro sex principiorum 
+      for<lb ed="#B" n="11" break="no"/>ma est compositioni contingens simplici et in 
+      <lb ed="#B" n="12"/>uariabili essentia consistens: ista simplicitas 
+      <lb ed="#B" n="13"/>formae debet accipi non geometricae sed arithus 
+      <lb ed="#B" n="14"/>metice quia additio ad modum numeri variat 
+      <lb ed="#B" n="15"/>speciam: et haec propriae videtur intentio 
+      dyo<lb ed="#B" n="16" break="no"/>nisii. 5. de diui. nominibus. Et linconiens. in 
+      <lb ed="#B" n="17"/>commento de his tribus perfectionibus 
+      es<lb ed="#B" n="18" break="no"/>se viuere et sapere: et patet quod solum esse 
+      inci<lb ed="#B" n="19" break="no"/>pit a non gradum simpliciter. alie autem due. scilicet 
+      <lb ed="#B" n="20"/>viuere et sapere a non gradum secundum quid: et quod 
+      <lb ed="#B" n="21"/>viuere est ex additione ad esse et sapere ad 
+      <lb ed="#B" n="22"/>vtrumquam.
+</p>
+            <p xml:id="WuV37d-e55908-d1e851">
+¶ Tertio infero principaliter 
+      <lb ed="#B" n="23"/>ex ista prima parte et tertia simul 
+      conclusio<lb ed="#B" n="24" break="no"/>nis quod ad hoc quod intellectus diuinus obiecta 
+      <lb ed="#B" n="25"/>intelligat secundaria: oportet ea 
+      imagina<lb ed="#B" n="26" break="no"/>ri in aliquo esse obiectiuo a diuina distincto 
+      <lb ed="#B" n="27"/>essentia: patet ex prima parte modo dicta: quia 
+      <lb ed="#B" n="28"/>exquo tot sunt rationum species in mundo 
+      sensi<lb ed="#B" n="29" break="no"/>bili reducenda est huiusmodi multiplicitas 
+      rea<lb ed="#B" n="30" break="no"/>lis ad realem vnitatem cum formali 
+      distinctio<lb ed="#B" n="31" break="no"/>ne. Confirmatur ex tertia parte in qua 
+      posi<lb ed="#B" n="32" break="no"/>ta est idearum pluralitas qui ex expositione 
+      <lb ed="#B" n="33"/>tertii termini vocantur esse cognitum: hoc cor 
+      <lb ed="#B" n="34"/>relarium pono solum probabiliter et 
+      colla<lb ed="#B" n="35" break="no"/>tiue: contra magistrum et patrem meum 
+      singu<lb ed="#B" n="36" break="no"/>larissimum sui gratia bachalarium de sancti 
+      <lb ed="#B" n="37"/>simo ordine heremitarum sancti Aug. quae in 
+      <lb ed="#B" n="38"/>suo soleni primo principio contra me opus 
+      <lb ed="#B" n="39"/>positum tenuit in forma: contra quem sic pro 
+      <lb ed="#B" n="40"/>cedam. Primo enim vnica ratione corrobo 
+      <lb ed="#B" n="41"/>rabo correlarium meum. Secundo 
+      respon<lb ed="#B" n="42" break="no"/>debo suis validissimis rationibus iuxta 
+      pos<lb ed="#B" n="43" break="no"/>se. Tertio ostendam sua sper salua reuerentia: 
+      <lb ed="#B" n="44"/>quod meis non satiffecit rationibus.
+</p>
+            <p xml:id="WuV37d-e55908-d1e901">
+¶ 
+      Quan<lb ed="#B" n="45" break="no"/>tum ad primum arguo sic. Illa non sunt pe 
+      <lb ed="#B" n="46"/>nitus eadem quae sic se habent: quod vno exi 
+      <lb ed="#B" n="47"/>stente reliquum potest non esse: sed sic se 
+      ha<lb ed="#B" n="48" break="no"/>bent diuina essentia / et rerum esse cognitum. 
+      <lb ed="#B" n="49"/>igitur aliquali distinguuntur distinctione: ma¬ 
+      <!--264.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="50"/>ior patet ex eo quod impossibile est idem esse et 
+      <lb ed="#B" n="51"/>non esse. Sed probatur consequenta: ista enim 
+      contin<lb ed="#B" n="52" break="no"/>gentia libera efficiuntur dei voluntate: et possunt 
+      <lb ed="#B" n="53"/>non fieri: et ita non cognosci fore a deo: et modo 
+      <lb ed="#B" n="54"/>in deo habent esse cognitum cum sciat omne 
+      <lb ed="#B" n="55"/>fiendum: igitur etc. Non tamen dico quod contin 
+      <lb ed="#B" n="56"/>gentia cognoscat per ideas: sed sola suae vo 
+      <lb ed="#B" n="57"/>luntatis determinatione: sed sufficit mihi 
+      <lb ed="#B" n="58"/>probare quod esse cognitum rerum aliqualem habe 
+      <lb ed="#B" n="59"/>at distinctionem a diuina essentia. Et hoc de 
+      <lb ed="#B" n="60"/>primo.
+</p>
+            <p xml:id="WuV37d-e55908-d1e943">
+¶ Quantum ad secundum restat 
+      <lb ed="#B" n="61"/>respondere rationibus valde fortibus magistri 
+      <lb ed="#B" n="62"/>mei quae sunt tres in numero. Arguitur igitur prius 
+      <lb ed="#B" n="63"/>mo sic: videtur inquit quod correlarium fundetur 
+      <lb ed="#B" n="64"/>super falsa immaginatione: imaginatur enim sicut 
+      <lb ed="#B" n="65"/>possum concipere infra latitudinem diuini 
+      <lb ed="#B" n="66"/>intellectus obiecta primaria: et obiecta 
+      se<lb ed="#B" n="67" break="no"/>cundaria. Loco primarii ponit diuinam essen 
+      <lb ed="#B" n="68"/>tiam: et loco secudarii contenta in ipsa vt 
+      <lb ed="#B" n="69"/>puta intellectionem creaturarum: quod autem 
+      fun<lb ed="#B" n="70" break="no"/>detur super falso: arguit sic: tunc quia eadem 
+      <lb ed="#B" n="71"/>est penitus intellectio a parte rei qua deus in 
+      <lb ed="#B" n="72"/>telligit se et creaturam: igitur in ratione huius 
+      <lb ed="#B" n="73"/>simplicis intellectionis non est ponendum 
+      <lb ed="#B" n="74"/>obiectum secundarium quoquo modo a diuina 
+      di<lb ed="#B" n="75" break="no"/>stinctum essentia. Huic argumento respondendo 
+      <lb ed="#B" n="76"/>dico tria: primo dico quod immaginatur magister 
+      <lb ed="#B" n="77"/>meus me imaginari quod non imaginor: non 
+      <lb ed="#B" n="78"/>enim immaginor quod obiectum secundarium diuini 
+      <lb ed="#B" n="79"/>intellectus sit cognito creaturarum: sed esse 
+      <lb ed="#B" n="80"/>intelligibile earum cognitione diuina in ta 
+      <lb ed="#B" n="81"/>li esse productum. Pono enim in deo vnicam 
+      <lb ed="#B" n="82"/>cognitionem: primo terminatam ad diuinam 
+      <lb ed="#B" n="83"/>essentiam. Secundo ad illud esse intelligibile 
+      <lb ed="#B" n="84"/>vnde iste extat doctoris subtilis intellectus 
+      <lb ed="#B" n="85"/>primo apprehenditur diuina essentia 
+      sim<lb ed="#B" n="86" break="no"/>plicitur: secundo vt a diuino intellectu cogni 
+      <lb ed="#B" n="87"/>ta: et tertio vt virtute diuine cognitionis 
+      <lb ed="#B" n="88"/>producitur huius esse intelligibile. Secun 
+      <lb ed="#B" n="89"/>do dico quod dato quod sic esset per 
+      impossibi<lb ed="#B" n="90" break="no"/>le quod essent distincte in aliquo esse in deo co 
+      <lb ed="#B" n="91"/>gnitio dei et creaturarum tunc petit in 
+      argu<lb ed="#B" n="92" break="no"/>mento principium. Assumit enim quod deberet pro 
+      <lb ed="#B" n="93"/>bare et non probat scilicet quod eadem sit cognitio dei 
+      <lb ed="#B" n="94"/>et creaturarum. Tertio dico quod stante 
+      identi<lb ed="#B" n="95" break="no"/>tate reali diuine cognitionis potest in ea esse 
+      <lb ed="#B" n="96"/>distinctio ex natura rei in talibus esse 
+      co<lb ed="#B" n="97" break="no"/>gnitis. Arguit secundo sic: quorum vnum est 
+      <lb ed="#B" n="98"/>prius altero illa sunt distincta et plura: sed  
+      <!--265.xml-->
+      <pb ed="#B" n="124-v"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>intellectio qua deus intelligit se et creatu 
+      <lb ed="#B" n="2"/>ram non sunt distincte: ergo non faciunt 
+      <lb ed="#B" n="3"/>diuersitatem in esse reali nec in esse 
+      obie<lb ed="#B" n="4" break="no"/>ctiuo. huic secundo argumento dico 
+      tria<lb ed="#B" n="5" break="no"/>primo quod secundum doctorem suum egidium romanum 
+      <lb ed="#B" n="6"/>non sequitur est primum: ergo prius. pater enim 
+      <lb ed="#B" n="7"/>in diuinis est prima persona non tamen sequitur 
+      <lb ed="#B" n="8"/>quod sit prior filio: secundum eum et filius est secunda 
+      <lb ed="#B" n="9"/>persona: non tantum posterior. Correlarium autem 
+      me<lb ed="#B" n="10" break="no"/>um dicit bbiectum secundarium non posterius 
+      <lb ed="#B" n="11"/>ideo secundum doctorem suum nihil agit contra me. 
+      <lb ed="#B" n="12"/>Secundo dico quod non pono talia plura 
+      sim<lb ed="#B" n="13" break="no"/>pliciter vt assumit: sed in esse obiectiuo: et 
+      <lb ed="#B" n="14"/>secundum quid. Tertio dico ad minorem: quod non po 
+      <lb ed="#B" n="15"/>no intellectiones distinctas in deo: sed 
+      ob<lb ed="#B" n="16" break="no"/>iecta inesse secundum quad. Arguit tertio idem ma 
+      <lb ed="#B" n="17"/>gister meus sic. Capio instans pro quo patur 
+      <lb ed="#B" n="18"/>suam intelligit essentiam non intelligendo 
+      crea<lb ed="#B" n="19" break="no"/>turam in illo instanti non est filius product 
+      <lb ed="#B" n="20"/>patet: quia filius produci non potest nisi de 
+      <lb ed="#B" n="21"/>plenitudine fecunditatis memoriae 
+      pater<lb ed="#B" n="22" break="no"/>ne: non est autem plena fecunditas: quando simul 
+      <lb ed="#B" n="23"/>secundarium obiectum non concipitur cum 
+      prima<lb ed="#B" n="24" break="no"/>rio. Ad istud valde bonum argumentum dico 
+      <lb ed="#B" n="25"/>tria. primo ad maiorem: quod non potest capi in 
+      <lb ed="#B" n="26"/>stans: quo deus intelligat suam essentiam non 
+      <lb ed="#B" n="27"/>creaturam cum vnicum sit in deo instans aeterni 
+      <lb ed="#B" n="28"/>tatis. Secundo dico: quod eodem stante instanti 
+      <lb ed="#B" n="29"/>aeternitatis sunt signa distincta naturae: et in 
+      <lb ed="#B" n="30"/>primo intelligit suam essentiam: et caetera 
+      intrin<lb ed="#B" n="31" break="no"/>seca in secundo creaturas. Tertio dico ad  
+      <lb ed="#B" n="32"/>minorem: quod filius prius natura producitur quam 
+      <lb ed="#B" n="33"/>ista obiecta secundaria: quia realis productio 
+      <lb ed="#B" n="34"/>praecedit productionem secundum quid. Et quod obiicit quod 
+      <lb ed="#B" n="35"/>producitur de plenitudine paternae memoris 
+      <lb ed="#B" n="36"/>Dico quod ista plenitudo intelligitur quo ad 
+      <lb ed="#B" n="37"/>obiectum primarium cuiusmodi est 
+      diui<lb ed="#B" n="38" break="no"/>na essentia. Addebat vltimate vnicam con 
+      <lb ed="#B" n="39"/>firmationem suis rationibus: quia inquit in casu 
+      <lb ed="#B" n="40"/>correlarii vestri diuina essentia posset 
+      con<lb ed="#B" n="41" break="no"/>cipi non concepta sapientia: quae esset loco 
+      ob<lb ed="#B" n="42" break="no"/>iecti secundarii: et ita non esset summae perfecta. 
+      <lb ed="#B" n="43"/>Huic confirmationi bone dico tria. primum 
+      <lb ed="#B" n="44"/>quod non repugnat diuine cognitioni inquantum 
+      <lb ed="#B" n="45"/>cognitio terminari ad diuinam essentiam et 
+      <lb ed="#B" n="46"/>non sapientiam cum distinguitur formaliter 
+      <lb ed="#B" n="47"/>Secundo dico quod sapientia est contenta suo 
+      <lb ed="#B" n="48"/>obiecto primario: quia obiectum primarium 
+      <lb ed="#B" n="49"/>dicitur totum quod est in deo vsque ad productio¬ 
+      <!--265.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="50"/>nem personarum inclusiue. Tertio dico quod 
+      <lb ed="#B" n="51"/>ista non repugnant perfectioni: immo consonant 
+      <lb ed="#B" n="52"/>et eius oppositum inducit in diuinis 
+      confu<lb ed="#B" n="53" break="no"/>sionem. Et hoc de secundo.
+</p>
+            <p xml:id="WuV37d-e55908-d1e1154">
+¶ Quantum ad 
+      <lb ed="#B" n="54"/>tertium restat breviter ostendere quod 
+      reueren<lb ed="#B" n="55" break="no"/>dus magister meus non satisfecit rationibus 
+      <lb ed="#B" n="56"/>meis. Arguebam primo sic: omne productum 
+      <lb ed="#B" n="57"/>aut quasi productum habet aliquod esse aliqualiter 
+      <lb ed="#B" n="58"/>distinctum a simpliciter improducto: sed 
+      obie<lb ed="#B" n="59" break="no"/>cta secundaria habent esse quasi productum vi 
+      <lb ed="#B" n="60"/>diuini intellectus: essentia vero diuina simpli 
+      <lb ed="#B" n="61"/>citer esse improducta. igitur etc. maior patet 
+      <lb ed="#B" n="62"/>per primum principium de quolibet affirmatio 
+      <lb ed="#B" n="63"/>vel negatio productum autem et improductum se 
+      <lb ed="#B" n="64"/>habent veluti affirmatio vel negatio: minor 
+      <lb ed="#B" n="65"/>quo ad primam partem est de se nota: quia essentia 
+      <lb ed="#B" n="66"/>nec producit nec producitur. Sed quae ad aliam 
+      <lb ed="#B" n="67"/>patet: quia non fit descensus ab extremo 
+      <lb ed="#B" n="68"/>ad extremum nisi per medium: extrema sunt 
+      <lb ed="#B" n="69"/>non produci simpliciter: et produci 
+      simpli<lb ed="#B" n="70" break="no"/>citer seu realiter: ergo non producit deus res 
+      <lb ed="#B" n="71"/>ad extra nisi per hoc medium produci secundm 
+      <lb ed="#B" n="72"/>quid: seu inesse cognito: hic dicit quod maior 
+      <lb ed="#B" n="73"/>patitur instantiam: quia filius producitur a patre 
+      <lb ed="#B" n="74"/>nec tamen habet esse distinctum ab essentia quae 
+      <lb ed="#B" n="75"/>est simpliciter improducta. Hic dico quod 
+      im<lb ed="#B" n="76" break="no"/>mo: habet enim filius filiationem distinctam 
+      <lb ed="#B" n="77"/>formaliter a diuina essentia: nisi enim aliquid 
+      <lb ed="#B" n="78"/>ex natura rei distinctum a diuina essentia 
+      di<lb ed="#B" n="79" break="no"/>ceret filius tunc aequae ista esset vera: filius est 
+      <lb ed="#B" n="80"/>communicabilis tribus personis: sicut ista 
+      <lb ed="#B" n="81"/>essentia est communicabilis tribus personis. minorem 
+      <lb ed="#B" n="82"/>autem negat simpliciter. Sed salua sua 
+      reueren<lb ed="#B" n="83" break="no"/>tia non mihi sufficit sua simplex negatio re 
+      <lb ed="#B" n="84"/>spondeat probationi minoris quae videtur 
+      com<lb ed="#B" n="85" break="no"/>cludere: alias non ero contentus. Argueban 
+      <lb ed="#B" n="86"/>vlterius autctoritate auicennae. §. metha. 
+      <lb ed="#B" n="87"/>ponentis relationes dei intelligentis ad  
+      <lb ed="#B" n="88"/>formas intellectas quod nihil aliud esset 
+      di<lb ed="#B" n="89" break="no"/>ctu nisi istae formae aliqualiter essent distin 
+      <lb ed="#B" n="90"/>cte ex natura rei a deo intelligente: quia 
+      eius<lb ed="#B" n="91" break="no"/>dem ad se nulla est relatio ex parte rei: dicit 
+      <lb ed="#B" n="92"/>quod istae formae aliquando concipiuntur prout sunt 
+      <lb ed="#B" n="93"/>extra producte: et tunc faciunt relationem. 
+      <lb ed="#B" n="94"/>sicut creatoris ad creaturam: et tunc ab essen 
+      <lb ed="#B" n="95"/>tia increata sunt distincte. Secundo possunt 
+      <lb ed="#B" n="96"/>considerari prout in diuina essentia praesentantur et sic 
+      <lb ed="#B" n="97"/>sunt indistincte ab essentia et non faciunt distinctio 
+      <lb ed="#B" n="98"/>nem. Cum sua reuerentia non soluit: quia eo mo¬ 
+      <!--266.xml-->
+      <pb ed="#B" n="125-r"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>do ponit Auicem. relationes quo deus intel 
+      <lb ed="#B" n="2"/>ligit. Sed ab aeterno intelligit: et ita ab eter 
+      <lb ed="#B" n="3"/>non sunt huiusmodi relationes ad formas 
+      <lb ed="#B" n="4"/>intellectas. Et haec sunt pauca et exigua tan 
+      <lb ed="#B" n="5"/>ti patris in conspectu cui me humiliter 
+      re<lb ed="#B" n="6" break="no"/>commendo.
+</p>
+            <p xml:id="WuV37d-e55908-d1e1274">
+¶ Cram vlterius viri doctissimi ni 
+      <lb ed="#B" n="7"/>si obuiasset temporis brevitas de qualibet 
+      ali<lb ed="#B" n="8" break="no"/>arum duarum partium conclusionis tria 
+      corre<lb ed="#B" n="9" break="no"/>laria illaturus quae brevitas nunc obmittit 
+      <lb ed="#B" n="10"/>Ideo ex dictis et supponendis infero 
+      corre<lb ed="#B" n="11" break="no"/>larium responsiuum partem affirmatiuam tituli vl 
+      <lb ed="#B" n="12"/>delicet: quod iuxta diuinarum idearum numerum 
+      qua<lb ed="#B" n="13" break="no"/>libet divine perfectionis reduplicata 
+      vni<lb ed="#B" n="14" break="no"/>tas specion vniuersi constituat distinctam. vnde 
+      <lb ed="#B" n="15"/>Boetius in sua arithmetica dicit. Omnia 
+      <lb ed="#B" n="16"/>quae a primeua rerum natura. creata sunt: 
+      <lb ed="#B" n="17"/>numerorum videntur ratione formata. Et tantum 
+      <lb ed="#B" n="18"/>de secundo principali. 
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

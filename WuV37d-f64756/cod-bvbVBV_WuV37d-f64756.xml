@@ -1,0 +1,730 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 10</title>
+            <author ref="#WilliamDeVaurouillon">William de Vaurouillon</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 10</title>
+               <date when="2021-06-19">June 19, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-bvbVBV">Basel 1510</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-06-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="357-v"/>
+            <cb ed="#B" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="WuV37d-f64756"><!-- l4d10 -->
+            <head xml:id="WuV37d-f64756-Hd1e108">Distinctio 10</head>
+            <div xml:id="WuV37d-f64756-Dd1e111" type="circa-textum">
+               <head xml:id="WuV37d-f64756-Hd1e113">Circa textum</head>
+               <p xml:id="WuV37d-f64756-d1e116">
+                  <lb ed="#B" n="30"/>Distinctio. 10. illidit pernitiosum 
+      <lb ed="#B" n="31"/>errore eorum qui dicunt christum non 
+      ve<lb ed="#B" n="32" break="no"/>raciter esse in sacrameto eucharistiae: 
+      <lb ed="#B" n="33"/>CUnt item alii 
+      <lb ed="#B" n="34"/>praecedentium insani 
+      <lb ed="#B" n="35"/>am trascendentes: qui 
+      <lb ed="#B" n="36"/>dei virtutem etc. Hic 
+      <lb ed="#B" n="37"/>signatur. 10. distin. huius 
+      <lb ed="#B" n="38"/>quarti: quae ita habet continuari ad praecedentes 
+      <lb ed="#B" n="39"/>Nam postquam in praecedenti distin. magister elisit 
+      er<lb ed="#B" n="40" break="no"/>rorem quantum ad cibum sumentem: Nunc in praesenti 
+      di<lb ed="#B" n="41" break="no"/>stin. confutat risorem quantum ad christum cibantem: 
+      <lb ed="#B" n="42"/>dicebant enim tales christum non esse vere in 
+      sa<lb ed="#B" n="43" break="no"/>cramento. Et habet diuidi praesens dist. in tres 
+      <lb ed="#B" n="44"/>partes principales. In prima error collocatur. 
+      <lb ed="#B" n="45"/>In secunda error confirmatur. In tertia error 
+      <lb ed="#B" n="46"/>reprobatur. prima in principio. secunda ibi. 
+      <lb ed="#B" n="47"/>Qui errandi occasionem etc. tertia ibi. Quo 
+      <lb ed="#B" n="48"/>rum perfidiam etc. Prima manente indiuisa: secunda 
+      <!--731.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="49"/>in tres partes diuiditur. In prima erroris 
+      po<lb ed="#B" n="50" break="no"/>nit fundamentum. In secunda erroris peruertit 
+      com<lb ed="#B" n="51" break="no"/>mentum. In tertia consolidat suum firmamen 
+      <lb ed="#B" n="52"/>tum. prima in principio. secunda ibi. Quae ex 
+      <lb ed="#B" n="53"/>eadem ratione. Tertia ibi. Ait enim Aug. etc. 
+      <lb ed="#B" n="54"/>Rursus prima et secunda partibus indiuisis 
+      ma<lb ed="#B" n="55" break="no"/>nentibus. tertia in tres partes diuiditur. In 
+      pri<lb ed="#B" n="56" break="no"/>ma auctoritas contra se scribitur. In secunda dubie 
+      <lb ed="#B" n="57"/>tas ex dictis oritur. In tertia facilitas verius 
+      <lb ed="#B" n="58"/>onnditur. prima in principio. secunda ibi. Dein 
+      <lb ed="#B" n="59"/>de addit etc. tertia ibi. Attende his 
+      diligen<lb ed="#B" n="60" break="no"/>ter etc. Haec est diuisio praesentis dist. etc. 
+    </p>
+            </div>
+            <div xml:id="WuV37d-f64756-Dd1e191">
+               <head xml:id="WuV37d-f64756-Hd1e193">Quaestio</head>
+               <p xml:id="WuV37d-f64756-d1e196">
+                  <lb ed="#B" n="61"/>¶ Quaestio haec declarat perlucide 
+      <lb ed="#B" n="62"/>quo christus contineatur sub spe panis et 
+      <lb ed="#B" n="63"/>vini et habetur a sco. per noue q. huius di. 
+      <lb ed="#B" n="64"/>et multorum doctorum opiniones 
+      repro<lb ed="#B" n="65" break="no"/>bantur quas posui in decisionibus nostris 
+      <lb ed="#B" n="66"/>2x N expsco sub 
+      speie<lb ed="#B" n="67" break="no"/>bus posito competat motus aut vi 
+      <lb ed="#B" n="68"/>sio. Et arguitur tripliciter ad partem falsam 
+      </p>
+               <p xml:id="WuV37d-f64756-d1e216">
+                  <lb ed="#B" n="69"/>¶ Primo quod piscophus non est realiter sub specibus panis 
+      <lb ed="#B" n="70"/>et vini. Si corpus xpiscpi esset ibi: aut quantum aut 
+      <lb ed="#B" n="71"/>non quantum: neutrum est dicendum. igitur. Paior 
+      <lb ed="#B" n="72"/>patet ex primo principio. Minor probatur: primo non 
+      <lb ed="#B" n="73"/>est quantum: quia tunc specie panis excederet: quod 
+      <lb ed="#B" n="74"/>non est verum: quia in aere propinqui speci non est christus 
+      <lb ed="#B" n="75"/>nec non quantum: quia tunc ibi non viueret dicente 
+      <lb ed="#B" n="76"/>hilosopho in principio. 2 de anima: quod anima est actus 
+      cor<lb ed="#B" n="77" break="no"/>poris organici: et per consequens quanti.
+</p>
+               <p xml:id="WuV37d-f64756-d1e238">
+¶ Secundo 
+      <lb ed="#B" n="78"/>arguitur quod christus non possit moueri in eucharistia: 
+      <lb ed="#B" n="79"/>Christus sper est in caelo: ergo non mouetur in 
+      euchari<lb ed="#B" n="80" break="no"/>stia. Assumptum patet per Aug. de conse. dist. 2. c. 
+      <lb ed="#B" n="81"/>Prima quidem heres. donec finiatur secluenum sur 
+      <lb ed="#B" n="82"/>u est dominus. patet consequenta: quia in motu locali de qua 
+      <lb ed="#B" n="83"/>loquimur oportet dimittere locum a quae: et 
+      ve<lb ed="#B" n="84" break="no"/>nire ad locum ad quem.
+</p>
+               <p xml:id="WuV37d-f64756-d1e256">
+¶ Tertio arguitur quod 
+      chri<lb ed="#B" n="85" break="no"/>tus potest videre oculo corporali in sacramento: 
+      nul<lb ed="#B" n="86" break="no"/>la perfectio deperditur christo: ex hoc quod est sub 
+      sa<lb ed="#B" n="87" break="no"/>cramento. ergo potest videre vt in sacro. Assum 
+      <lb ed="#B" n="88"/>ptum patet. alioquin opera maxime benignitatis  
+      <lb ed="#B" n="89"/>operando punirentur. consequenta patet. quia sicut 
+      intelle<lb ed="#B" n="90" break="no"/>ctio est perfectio intellectus: sic visio corporali 
+      <lb ed="#B" n="91"/>pculi.
+</p>
+               <p xml:id="WuV37d-f64756-d1e275">
+¶ In oppositum pro primo. Hoc est 
+      cor<lb ed="#B" n="92" break="no"/>meum. Et. Caro mea vere est cibus: pro secundo 
+      <lb ed="#B" n="93"/>quod moueatur: est auctoritas philosophi. 2. thop. Motis 
+      <lb ed="#B" n="94"/>nob mouentur omnia quae sunt in nobis: igitur ad  
+      <lb ed="#B" n="95"/>motum hostiae mouetur christus pro tertio: quia vi 
+      <!--732.xml-->
+      <pb ed="#B" n="358-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>sio corporalis non fit nisi a potentia habente 
+      orga<lb ed="#B" n="2" break="no"/>na seu organo habente modum extensiuum: quod non 
+      <lb ed="#B" n="3"/>est in proposito. 
+      </p>
+               <p xml:id="WuV37d-f64756-d1e299">
+                  <lb ed="#B" n="4"/>¶ In ista quaesti. sunt tres articuli declarandi 
+      <lb ed="#B" n="5"/>Primus est terminorum declaratiuus 
+      <lb ed="#B" n="6"/>Quorum Secundus est quaestionis responsiuus 
+      </p>
+               <p xml:id="WuV37d-f64756-d1e308">
+                  <lb ed="#B" n="7"/>¶ Tertius est dubiorum motiuus. 
+      <lb ed="#B" n="8"/>Quo ad primum articulum 
+      <lb ed="#B" n="9"/>termini sunt 
+      <lb ed="#B" n="10"/>positio / motus / visio.
+</p>
+               <p xml:id="WuV37d-f64756-d1e319">
+¶ Primus terminus 
+      <lb ed="#B" n="11"/>positio: habet autem capi tribus binariis 
+      posi<lb ed="#B" n="12" break="no"/>tio secundum libros varios. Est enim positio 
+      <lb ed="#B" n="13"/>grammaticalis: et est quando vnam vocalem duplex imme 
+      <lb ed="#B" n="14"/>diate consonans sequitur: et tunc vocalis praecedens po 
+      <lb ed="#B" n="15"/>sitione producitur: ne aliud impediat: et dicitur thesis 
+      <lb ed="#B" n="16"/>in greco. Secunda positio est de li. thop. vnde in 
+      <lb ed="#B" n="17"/>primo illius positionem diffiniens philosophus dicit: posi 
+      <lb ed="#B" n="18"/>tio est acceptio alterius extranei in philosophia: hoc modo 
+      <lb ed="#B" n="19"/>dicimus haec est positio tho. haec bonauem. haec 
+      <lb ed="#B" n="20"/>auerroys. et reliqua similia: vnde hoc modo qua sunt 
+      <lb ed="#B" n="21"/>communia alicui scientie non dicuntur positiones: sed verius 
+      <lb ed="#B" n="22"/>dignitates: vt deum esse in theologia subie 
+      <lb ed="#B" n="23"/>ctum non dicitur positio: sed dignitas: et huius 
+      posi<lb ed="#B" n="24" break="no"/>tio dicitur aut potest dici suppositio: de qua agit phi 
+      <lb ed="#B" n="25"/>lo. in. 1. poste. et tunc esset auferesis quae caput 
+      <lb ed="#B" n="26"/>tollit dectois vt conias pro Iecommunias: et staci 
+      <lb ed="#B" n="27"/>pro eustacius: vt in li. poste. limitetur 
+      supposi<lb ed="#B" n="28" break="no"/>tio pro eo quod est sub dignitate: et ab ea 
+      euidem<lb ed="#B" n="29" break="no"/>ter progreditur. Tertio dicitur potes idem quod 
+      disposi<lb ed="#B" n="30" break="no"/>tio et est de li. priorum. Unde aristo. in primo similsum 
+      <lb ed="#B" n="31"/>diffiniens dicit: similsus est oaeno in qua quaibusdam po 
+      <lb ed="#B" n="32"/>sitis necesse est aliud euenire per ea quae 
+      posi<lb ed="#B" n="33" break="no"/>ta sunt: quid est positis aut posita: nisi dispo 
+      <lb ed="#B" n="34"/>sitis aut disposita scilicet in modo et in figura. 
+      <lb ed="#B" n="35"/>Quarto dicitur positio: vt idem sit quod essendi po 
+      <lb ed="#B" n="36"/>sitio: cui non esse opponitur: et a qua venit 
+      posi<lb ed="#B" n="37" break="no"/>tiuum: et hoc modo illius quod habet esse nobilius positiuum 
+      <lb ed="#B" n="38"/>nobilior est positio quam ex toto nihil 
+      exter<lb ed="#B" n="39" break="no"/>minat. Quito dicitur positio apud gilber. porre 
+      <lb ed="#B" n="40"/>tani vnum sex principiorum: quam gilb. pictaui. 
+      <lb ed="#B" n="41"/>episcopus diffiniens dicit. Positio est quadam partium sit 
+      <lb ed="#B" n="42"/>et geniationis ordinatio: in quo breviter tangit 
+      <lb ed="#B" n="43"/>tria. Primn positionis genus dum dicit: 
+      posi<lb ed="#B" n="44" break="no"/>tio est quadam situs: sicut homo est quoddam animal: non 
+      <lb ed="#B" n="45"/>tamen omne animal: sic positio et situs: totum enim situatur 
+      <lb ed="#B" n="46"/>non tamen proprie ponitur sed partes sic situantur 
+      <lb ed="#B" n="47"/>quod ponuntur. ideo secundo additum est partium 
+      <lb ed="#B" n="48"/>sed quia positio est naturalium non proprie arti 
+      <lb ed="#B" n="49"/>ficialium quae ad libitum collocantur dicente in 
+      <!--732.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>arte poetica flacto horatio: Pictoribus at 
+      <lb ed="#B" n="51"/>que poetis semper fuit equa potestas quodli 
+      <lb ed="#B" n="52"/>pet audendi: ideo additum est tertio et geniati 
+      <lb ed="#B" n="53"/>onis ordinatio: et haec positio est quidam re 
+      <lb ed="#B" n="54"/>spectus extrinsecus adueniens fundatus in 
+      <lb ed="#B" n="55"/>posito terminatus ad locum longe altius. 
+      <lb ed="#B" n="56"/>De huiusmodi positione in suis 
+      praedicamen<lb ed="#B" n="57" break="no"/>tis de positione et hoc habitu frater nicolaus 
+      <lb ed="#B" n="58"/>poneti turonen. quam praefatus gilbertus disseruit 
+      <lb ed="#B" n="59"/>et habitum vt decimum praedicamentum in specibus 
+      <lb ed="#B" n="60"/>ostituit. Sexto dicitur potes species quantitatis qua vt 
+      <lb ed="#B" n="61"/>patet per albertum magnum in commento praedicamti 
+      <lb ed="#B" n="62"/>quantitatis: tres habere debet conditiones. 
+      Pri<lb ed="#B" n="63" break="no"/>ma est vt sit quantitas continua: hac de 
+      cau<lb ed="#B" n="64" break="no"/>sa numreus non est positio. Secunda vt sit 
+      <lb ed="#B" n="65"/>ordinata: hac de causa confusum non est 
+      posi<lb ed="#B" n="66" break="no"/>tum: et confusio non est positio. Tertia vt sit per 
+      <lb ed="#B" n="67"/>manens: ideo teimpus non est positio dato quod esset 
+      <lb ed="#B" n="68"/>continuum: et haec positio aliquando vocatur mo 
+      <lb ed="#B" n="69"/>dus quantitatis extense.
+</p>
+               <p xml:id="WuV37d-f64756-d1e454">
+¶ Secundus ter 
+      <lb ed="#B" n="70"/>minus est motus. vnde vltra dicta de motu li. 
+      <lb ed="#B" n="71"/>2. distin. 6. termino. 3. nota tria de motu. 
+      <lb ed="#B" n="72"/>Primum est quod secundum philosophum in. 3. philosophicorum: auer 
+      <lb ed="#B" n="73"/>roys in commento: et auicenna in sua 
+      sufficien<lb ed="#B" n="74" break="no"/>tia motus est actus mobilis secundum quod mobile: 
+      <lb ed="#B" n="75"/>in qua diffinitione tanguntur tria: nec oportet 
+      <lb ed="#B" n="76"/>meditari eandem diffinitionem esse hanc et aliam: 
+      <lb ed="#B" n="77"/>haec enim est formalis alia materialis: vt dicunt 
+      <lb ed="#B" n="78"/>praenominati: et patet: quia subiectum dico dum dico 
+      <lb ed="#B" n="79"/>entis in potentia: non vt informatum motu: dum 
+      <lb ed="#B" n="80"/>vero dico motus est actus mobilis: 
+      subie<lb ed="#B" n="81" break="no"/>ctum dico vt informabile motu. Primum quod 
+      <lb ed="#B" n="82"/>tangitur est actus: ex quo infertur primo quod motus 
+      <lb ed="#B" n="83"/>non est non ens: quia actus positiuum dicit. Secundo 
+      <lb ed="#B" n="84"/>quod non est alteritas: quia vt scribit philosophus in post 
+      <lb ed="#B" n="85"/>predicamentis: motus sunt sex species 
+      qua<lb ed="#B" n="86" break="no"/>rum alteratio vna est ex qua est alteritas. 
+      <lb ed="#B" n="87"/>motus igitur est genus alteritatis seu altera 
+      <lb ed="#B" n="88"/>tionis. Tertio quod non est inequalitas: quia 
+      <lb ed="#B" n="89"/>proprie inequalitas in solo predicamento 
+      <lb ed="#B" n="90"/>quantitatis reparitur: non sic motus: hee. 3. 
+      opinio<lb ed="#B" n="91" break="no"/>nes sua habent fundamenta: tamen sunt falsae: dato 
+      <lb ed="#B" n="92"/>quod vergat aliqualiter in non ens et mobile altere 
+      <lb ed="#B" n="93"/>tur et sic fiat inequile neutrum trium est motus: sed  
+      <lb ed="#B" n="94"/>motus est actus: sed cuius est actus non monentis:  
+      <lb ed="#B" n="95"/>vt mouens est sed mobilis: quod secundo tangi 
+      <lb ed="#B" n="96"/>tur sed quia mobile plura dicit sub qua 
+      ratio<lb ed="#B" n="97" break="no"/>ne mobilis motus est actus mobilis tertium 
+      <lb ed="#B" n="98"/>venit scilicet secundum quod mobile. Secundo notandum 
+      <!--733.xml-->
+      <pb ed="#B" n="358-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>secundum philosophum in. 5. phisico. iuxta principiun 
+      <lb ed="#B" n="2"/>quod mobilium tres sunt modi: aliqua mouen 
+      <lb ed="#B" n="3"/>tur secundum totum: vt totus lapis mouetur: aliqua mo 
+      <lb ed="#B" n="4"/>uentur secundum partem: vt homo sanatur: quia thorax seu 
+      <lb ed="#B" n="5"/>pectus eius sanatur: aliqua mouentur per acci 
+      <lb ed="#B" n="6"/>dens: vt nauta in naui. Tertio notandum quod 
+      <lb ed="#B" n="7"/>motus non est aliquid absolutum: secundo 
+      <lb ed="#B" n="8"/>quod non est respectus intrinsecus adueniens: quia 
+      <lb ed="#B" n="9"/>non oritur immediate posito fundamento et 
+      <lb ed="#B" n="10"/>termino: tertio quod est respectus extrinsecus ad 
+      <lb ed="#B" n="11"/>ueniens subiectiue quod in re mota terminati 
+      <lb ed="#B" n="12"/>ue in mouente: et differt a productione passiua 
+      <lb ed="#B" n="13"/>quae terminatur ad producens hoc ad agens. 
+      </p>
+               <p xml:id="WuV37d-f64756-d1e554">
+                  <lb ed="#B" n="14"/>¶ Tertius terminus est visio. visio pontca 
+      <lb ed="#B" n="15"/>pi tripliciter vt nunc de ea loquimur: vnomodo 
+      <lb ed="#B" n="16"/>effectiue obiectiue: eo modo quo dicit magister in in 
+      <lb ed="#B" n="17"/>mo smimarum. 17. dist. quod deus est patima mea: quia e 
+      <lb ed="#B" n="18"/>ficit eam in me: et spes mea: quia specia meam efficit 
+      <lb ed="#B" n="19"/>Et de homine multum se mouente solet dici quod 
+      <lb ed="#B" n="20"/>est motus: Secundo modo passiue: si enim in. 3. de 
+      <lb ed="#B" n="21"/>anima dicit philosophus: quod intelligere est pati quare 
+      <lb ed="#B" n="22"/>suo modo non erit videre pati. Tertio capitur 
+      <lb ed="#B" n="23"/>visio pro qualitate absoluta producta a videm 
+      <lb ed="#B" n="24"/>te et re visibili: et tantum de primo articulo. 
+      <lb ed="#B" n="25"/>Quo ad secundum articulum sun 
+      <lb ed="#B" n="26"/>tres conclusioes 
+      <lb ed="#B" n="27"/>Prima conclusio est de corpore dominico sub sacramento 
+      <lb ed="#B" n="28"/>altaris existente. Secunda de proprietatibus inexistenti 
+      <lb ed="#B" n="29"/>bus corpori christi aut naturalitur aut sacramentali 
+      <lb ed="#B" n="30"/>ter. Tertia de virtute christi corporis: vt in 
+      <lb ed="#B" n="31"/>hostia vtrum possit mouere obiectiue aut in 
+      <lb ed="#B" n="32"/>tellectum aut sensum aut aliquid transmutare. 
+      </p>
+               <p xml:id="WuV37d-f64756-d1e599">
+                  <lb ed="#B" n="33"/>¶ Prima est haec. sic corpus christi est in 
+      eu<lb ed="#B" n="34" break="no"/>charistia realitur vt in caelo sit: et in pstloribus loc 
+      <lb ed="#B" n="35"/>possit esse localitur. Ista conclusio. 3. habet partes. 
+      <lb ed="#B" n="36"/>Prima dicit quod corpus christi est in eucharistia 
+      <lb ed="#B" n="37"/>realiter ista pars patet. Hoc est inquit corpus meum 
+      <lb ed="#B" n="38"/>Et si quis dicat hereticus quod est verum reprtesentati 
+      <lb ed="#B" n="39"/>ue: sicut illud. Ego sum vitis dea: obuiat augustis 
+      <lb ed="#B" n="40"/>regla. 93. q. q. 69. Solet circunstantia scriptu 
+      <lb ed="#B" n="41"/>rarum illuniare saninam quam etiam ponit doc. in. i. 
+      <lb ed="#B" n="42"/>q. 2. prologi operis anglicani immediate enim 
+      <lb ed="#B" n="43"/>dencto. Ego sum vitis vera: christus subiunxit: et 
+      <lb ed="#B" n="44"/>vos palmites: quod figuratiue dictum est: ideo et 
+      <lb ed="#B" n="45"/>praecedens: sed in luca dicto: Hoc est corpus 
+      meum<lb ed="#B" n="46" break="no"/>lubiunxit immediate: quod pro vobis tradetur. Cum 
+      <lb ed="#B" n="47"/>etiam dixisset. Hic est calix sanguis mei subdit qua 
+      <lb ed="#B" n="48"/>pro vob fundetur. Et si quis obiiciat ex. iohe quod 
+      <lb ed="#B" n="49"/>audito hoc verbo caro mea vere est cibus: multi ab 
+      <!--733.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>ierunt. Tunc ibus dicit. Spiritus est quao viuificat: ca 
+      <lb ed="#B" n="51"/>ro autem non prodest quicquam: verba quae locutus /sum vob 
+      <lb ed="#B" n="52"/>spiritus et vita sunt? Dicendum quod non erat in sacramento 
+      <lb ed="#B" n="53"/>nec est modo quomodo intellexerunt: qui retro abiert: est 
+      <lb ed="#B" n="54"/>tamen vere. Unde aug. de conse. dist. 2. Prima qua 
+      <lb ed="#B" n="55"/>dem heresis. Ipecundum quidem et non ipsum corpus quod vi 
+      <lb ed="#B" n="56"/>debatur manducatur: ipisum inuisibiliter non ipsum 
+      <lb ed="#B" n="57"/>visibiliter. Sed tunc tria occurrunt impossibilia. 
+      <lb ed="#B" n="58"/>Primum quod sit quantum cum quanto: aut quantum 
+      <lb ed="#B" n="59"/>sinequantitate sua. Secundum quod sit maius in 
+      <lb ed="#B" n="60"/>minori. Tertium quod hoc sit corpus christi sine mo 
+      <lb ed="#B" n="61"/>tu. Primum patet: quia quod quantum nequiat esse cum 
+      <lb ed="#B" n="62"/>quanto est: quia quantum locum occupat 
+      suspendi<lb ed="#B" n="63" break="no"/>tur actio quanti ne locum occupet: quod est deo 
+      <lb ed="#B" n="64"/>possibile manutenentia causae in esse et non agat 
+      <lb ed="#B" n="65"/>hoc modo potest deus facere totum mundum praesentem fora 
+      <lb ed="#B" n="66"/>mini acus: vt notat hoc frater franc. de maro. 
+      <lb ed="#B" n="67"/>vnde patet quod corpus christi non est hoc sine 
+      quanti<lb ed="#B" n="68" break="no"/>tate sua. Sed tunc quomodo potest esse corpus christi et 
+      <lb ed="#B" n="69"/>maius in minori hostia: habericus dicit de gan in 
+      <lb ed="#B" n="70"/>dauo quaeli. 1. q. 6. Et egidius romanus quali. 1. q.  
+      <lb ed="#B" n="71"/>4. et quaeli. 2. q. 17. Et breviter tot et tanti hus viae 
+      <lb ed="#B" n="72"/>extiterunt: vt dicatur via communis: quod primus 
+      termi<lb ed="#B" n="73" break="no"/>nus huius conuersionis non est quantitas: sed sub 
+      <lb ed="#B" n="74"/>stantia corporis dominici: quae ex se modum 
+      quantita<lb ed="#B" n="75" break="no"/>tiuum non habet concomitans autem terminus est hoc ad  
+      <lb ed="#B" n="76"/>modum primi termi: ideo quantitas est ibi 
+      indiui<lb ed="#B" n="77" break="no"/>sibiliter. Sed contra obiicit doc. quia res nequit esse 
+      si<lb ed="#B" n="78" break="no"/>ne proprietate naturali sua vndecumque producatur: 
+      <lb ed="#B" n="79"/>habitudo enim ad varium agens effectum non 
+      <lb ed="#B" n="80"/>distinguit specieforsan non sper numero: ex tertio 
+      <lb ed="#B" n="81"/>de trinitate. Adam enim eiusdem rationis homo est cum 
+      <lb ed="#B" n="82"/>abraam: led non eodem modo productus. Et idem ignis 
+      <lb ed="#B" n="83"/>forsan numero in eadem materia a duobus 
+      igni<lb ed="#B" n="84" break="no"/>bus potest produci disiunctiue: vt notat 
+      <lb ed="#B" n="85"/>doctor infra. 63 distin. q. 3. Et si quaeratur 
+      <lb ed="#B" n="86"/>potentia absoluta dei: potest ne ibi esse 
+      sub<lb ed="#B" n="87" break="no"/>stantia corporis dominici: licet ibi non esset 
+      <lb ed="#B" n="88"/>quantitas. Dico quod sic maxime 
+      determina<lb ed="#B" n="89" break="no"/>ta cum sit posterior substantia: et sic patet quod 
+      fa<lb ed="#B" n="90" break="no"/>cit deus posterius acciemens sine priori substantia: 
+      <lb ed="#B" n="91"/>quanto magstis potest econuerso: licet forsan non 
+      si<lb ed="#B" n="92" break="no"/>ne interminata: si interminata quantitas non 
+      <lb ed="#B" n="93"/>dicat nisi possibilitatem vt substantia figu 
+      <lb ed="#B" n="94"/>retur: per scilicet quantitatem terminatam. Et si dicatur 
+      <lb ed="#B" n="95"/>corpus organicum quod animam suscipit. Dico quod 
+      <lb ed="#B" n="96"/>esset organicum secundum partes substantiales: sed 
+      <lb ed="#B" n="97"/>non quantitatiuas. Mirantur qui non viderunt 
+      <lb ed="#B" n="98"/>ad pauca respicientes: cogitare tamen domint idem 
+      <!--734.xml-->
+      <pb ed="#B" n="359-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>corpus nunc rarum / nunc densum / nunc magnum 
+      <lb ed="#B" n="2"/>nunc paruum: non mutata substantia sed muta 
+      <lb ed="#B" n="3"/>ta quantitate: vnde forsan ex hoc motus 
+      ve<lb ed="#B" n="4" break="no"/>nerabilis inceptor frater Guillermus oban 
+      <lb ed="#B" n="5"/>in quarto. q. I. huius sacramenti in solutione 
+      <lb ed="#B" n="6"/>secundae difficultatis post propriam solutionem 
+      <lb ed="#B" n="7"/>dicit: quod in hoc sacramento partes corporis 
+      <lb ed="#B" n="8"/>intrant partes vt in aure est oculus: et in 
+      pe<lb ed="#B" n="9" break="no"/>de manus et sic est possibise fore sub tam 
+      <lb ed="#B" n="10"/>parua specie panis: hoc inquit frater Id 
+      <lb ed="#B" n="11"/>hanes: verum dicens tollit omnem figuram a 
+      cor<lb ed="#B" n="12" break="no"/>pore humano et ordinem: vnde et vitae repugnat 
+      <lb ed="#B" n="13"/>Dicit ergo quod cogitando de positione quae di 
+      <lb ed="#B" n="14"/>cta sunt in primo articulo: apertum est quod 
+      <lb ed="#B" n="15"/>quaeritur: tantus est enim christus in sacramento 
+      quam<lb ed="#B" n="16" break="no"/>tus in caelo concipiendo positionem de genere 
+      <lb ed="#B" n="17"/>quantitatis: et tanta distantia inter pedes 
+      <lb ed="#B" n="18"/>et caput hic vt ibi. Ex quo probabiliter in 
+      <lb ed="#B" n="19"/>fertur quod si stat in caelo quod creditur: de quo in 
+      <lb ed="#B" n="20"/>fra. 49. dist. forsan dicetur stat et hc. Sed 
+      ca<lb ed="#B" n="21" break="no"/>piendo positionem pro vno sex principiorum 
+      <lb ed="#B" n="22"/>corpus christi secundum totum et partes totam aeque 
+      <lb ed="#B" n="23"/>indistanter hostiam aspicit: vt non magis sic 
+      <lb ed="#B" n="24"/>loquendo vni parti hostie approximet vna 
+      <lb ed="#B" n="25"/>pars christi corporis quam alia. Ex quo patet 
+      <lb ed="#B" n="26"/>non oportere si hostia circulariter moue 
+      <lb ed="#B" n="27"/>atur corpus christi circulari aut si superius 
+      <lb ed="#B" n="28"/>vertatur in inferius hostiae: sic caput christi 
+      po<lb ed="#B" n="29" break="no"/>ni inferius et pedes superius. Sed occur 
+      <lb ed="#B" n="30"/>rit dubietas: fiat panis in forma et quanti 
+      <lb ed="#B" n="31"/>tate similis corpori christi: sicut est vt 
+      di<lb ed="#B" n="32" break="no"/>citur figura corporis eius parrhysius in 
+      <lb ed="#B" n="33"/>introitum ecclesiae palacii. et conuertat hic 
+      pa<lb ed="#B" n="34" break="no"/>nis: numquid habebit positionem quae dicitur 
+      <lb ed="#B" n="35"/>principium? Dico quod non sed per totam 
+      spe<lb ed="#B" n="36" break="no"/>cien panis erit caput erunt pedes etc. Et si 
+      <lb ed="#B" n="37"/>species panis sub qua sunt pedes christi 
+      <lb ed="#B" n="38"/>vertatur aut giretur superius: non tamen 
+      <lb ed="#B" n="39"/>pedes christi. Cerne exemplum apertum. Di 
+      <lb ed="#B" n="40"/>xit (distigium metro quodam Abra tenens 
+      <lb ed="#B" n="41"/>speculum sese speculatur heramque: nec si 
+      spe<lb ed="#B" n="42" break="no"/>culum abra giret here circulatur facies. Sed 
+      <lb ed="#B" n="43"/>dubium restat tertium. Quomodo est possibile cor 
+      <lb ed="#B" n="44"/>pus christi de nouo hic esse non mutatum. 
+      <lb ed="#B" n="45"/>Dicit tho. dicit communis opinio propter mutati 
+      <lb ed="#B" n="46"/>onem alterius in ipsum corpus christi. Hoc 
+      <lb ed="#B" n="47"/>vt arguit frater hugo noui castri. in. q. 2. 
+      <lb ed="#B" n="48"/>praesentis dist. nihil est. Citius enim sulstantia pa 
+      <lb ed="#B" n="49"/>nis conuerteretur in corpus christi: vt in caelo 
+      <!--734.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>corpus enim christi non informat panis 
+      ma<lb ed="#B" n="51" break="no"/>teriam vt forma ignis materiam aeris: dum fit 
+      <lb ed="#B" n="52"/>amborum conuersio vnius vt a quo: alterius 
+      <lb ed="#B" n="53"/>vt ad quem: vnde oportet meditari diuinam 
+      <lb ed="#B" n="54"/>virtutem operari vt inquit vt fiat conuersio pa 
+      <lb ed="#B" n="55"/>nis in corpus dominicum: et item vt hic fiat: ex 
+      <lb ed="#B" n="56"/>quo claret quod non ratione conuersionis 
+      so<lb ed="#B" n="57" break="no"/>lum est praesens hic corpus domini: et si modo est prae 
+      <lb ed="#B" n="58"/>sens et prius non fuit: mutatum est 
+      autctori<lb ed="#B" n="59" break="no"/>tate philosophi in. 6. phicorum. Et si dicat sequens 
+      <lb ed="#B" n="60"/>thomam est denomninatio extrinseca: ita dicam 
+      <lb ed="#B" n="61"/>de quolibet: vt patet intuenti. Et rogo quod 
+      <lb ed="#B" n="62"/>inconueniens vt noua praesentia informetur: 
+      <lb ed="#B" n="63"/>Et si quaeras in quo praedicamento huiusmodi 
+      prae<lb ed="#B" n="64" break="no"/>sentia reponatur. Cui inquam forsan in 
+      prae<lb ed="#B" n="65" break="no"/>dicamento vbi: vt vbi diffinitiuum angeli: 
+      <lb ed="#B" n="66"/>et si non primo: reductiue tamen: quia vbi de 
+      <lb ed="#B" n="67"/>quo loquitur Guilbertus pictaum. 
+      circunscriptio<lb ed="#B" n="68" break="no"/>nem dicit. Aut vbi turonen. quod complectitur: 
+      <lb ed="#B" n="69"/>et vbi diffinitiuum: et vbi circumscriptiuum. Et 
+      <lb ed="#B" n="70"/>si non placeat reducere ad vbi gilber. aut 
+      <lb ed="#B" n="71"/>vbi ponere turonems. dicat quis quod in 
+      vn<lb ed="#B" n="72" break="no"/>decimo praedicamento sit ista praesentia. Sic 
+      <lb ed="#B" n="73"/>enim loquitur franciscus de maronis in confla 
+      <lb ed="#B" n="74"/>tu de locatione actiua. Si enim vbi quod est lo 
+      <lb ed="#B" n="75"/>catio passiua praedicamentum constituit: a 
+      for<lb ed="#B" n="76" break="no"/>tiori vel eque locus: et de loco loquor for 
+      <lb ed="#B" n="77"/>maliter: non fundamentaliter: quia sic est 
+      quanm<lb ed="#B" n="78" break="no"/>titas. Et si enim magnis laudibus extollat 
+      <lb ed="#B" n="79"/>Aug. philosophum de dece cathaegoriis in logica 
+      <lb ed="#B" n="80"/>sua. et de eo canatur in metro. Summus 
+      ari<lb ed="#B" n="81" break="no"/>sto. transcendens cacumina rerum: In duo 
+      <lb ed="#B" n="82"/>diuisit quicquid in orbe fuit: Non tamen 
+      sci<lb ed="#B" n="83" break="no"/>uit omnia: posteriores enim ad priores addunt 
+      <lb ed="#B" n="84"/>vt ipse vult in secundo metaphice secundum 
+      no<lb ed="#B" n="85" break="no"/>uam translationem quicquid sit illa praesentia est 
+      <lb ed="#B" n="86"/>respectus: et respectus extrinsecus 
+      adue<lb ed="#B" n="87" break="no"/>niens: et mutatur mutatione acquisitiua 
+      cor<lb ed="#B" n="88" break="no"/>pus non deperditiua. Ideo dicit secunda 
+      <lb ed="#B" n="89"/>pars conclusionis quod remanet in caelo: quia 
+      <lb ed="#B" n="90"/>semper sedet id est quiescit ad dexteram patris: 
+      <lb ed="#B" n="91"/>nisi forsan ex alio priuilegio: vt primo 
+      fe<lb ed="#B" n="92" break="no"/>cit sanctissime matri suae in assumptione 
+      eius<lb ed="#B" n="93" break="no"/>dem: vt voluit Hieronymus in sermone de 
+      <lb ed="#B" n="94"/>assumptione ad paulam et eustochium: vt 
+      se<lb ed="#B" n="95" break="no"/>cundo fecit petro fugienti de romanis car 
+      <lb ed="#B" n="96"/>ceribus: dicens ei. Uado romam iterum cru 
+      <lb ed="#B" n="97"/>cifigi: vt tertio fec marcho dicens ei: Pax 
+      <lb ed="#B" n="98"/>tibi marce euangelista meus: quod comeini vene¬ 
+      <!--735.xml-->
+      <pb ed="#B" n="359-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>torum inscribi faciunt cum leonis iconia in su 
+      <lb ed="#B" n="2"/>is dominiis: et si qua sunt similia. Tertia pars 
+      <lb ed="#B" n="3"/>conclusionis dicit quod corpus christi potest 
+      es<lb ed="#B" n="4" break="no"/>se in diuersis locis localiter: et quia 
+      docto<lb ed="#B" n="5" break="no"/>ri subtili et toti schole eius (cuius est magnus 
+      <lb ed="#B" n="6"/>numerus)/ non vertitur in dubium sed 
+      demodo<lb ed="#B" n="7" break="no"/>strat: ea propter solum pono tria motiua: 
+      <lb ed="#B" n="8"/>vnius antiqui doc. francigene: sed minorum 
+      <lb ed="#B" n="9"/>ordinis probantia istam partem praesentis dist. 
+      <lb ed="#B" n="10"/>arti. 2. q. 2. Primum motiuum. Equae repu 
+      <lb ed="#B" n="11"/>gnat duas soliditates esse simul: sicut vnum 
+      <lb ed="#B" n="12"/>corpus esse in multis locis localiter: ita 
+      <lb ed="#B" n="13"/>iudicarent philosophi: et tamen videmus primum 
+      <lb ed="#B" n="14"/>factum esse per diuinam potentiam: vt pa 
+      <lb ed="#B" n="15"/>tet in duobus corporibus in eodem loco: 
+      <lb ed="#B" n="16"/>quare et secundum extat possibile. Secun 
+      <lb ed="#B" n="17"/>dum motiuum. Sicut deus transmutat 
+      sub<lb ed="#B" n="18" break="no"/>stantiam panis in substantiam corporis sui: 
+      <lb ed="#B" n="19"/>sic posset quantitatem panis transmutare in 
+      <lb ed="#B" n="20"/>quatitatem corporis sui: et sic ipso remanem 
+      <lb ed="#B" n="21"/>te in caelo localiter: esset in terris localiter 
+      <lb ed="#B" n="22"/>Tertium motiuum: quia quod potest deus mediante 
+      <lb ed="#B" n="23"/>causa effectiua secunda: potest per se: sed 
+      me<lb ed="#B" n="24" break="no"/>diante transubstantiatione potest facere corp 
+      <lb ed="#B" n="25"/>suum praesens sub speciebus: ergo sine 
+      transub<lb ed="#B" n="26" break="no"/>stantiatione: cum transbstantiato non videatur habe 
+      <lb ed="#B" n="27"/>re locum nisi causae efficientis: patet 
+      discurrem<lb ed="#B" n="28" break="no"/>do: hoc vult hugo de sancto victore. 2. 
+      li<lb ed="#B" n="29" break="no"/>de sacramenis: parte. §. capitulo. 2. dicens. Non est 
+      <lb ed="#B" n="30"/>mirum si mirabilis mirabilia operatur. Quod 
+      <lb ed="#B" n="31"/>inquis corpus vnum in eodem tempore in 
+      <lb ed="#B" n="32"/>diuersis locis: Similiter noli mirari qui locum 
+      <lb ed="#B" n="33"/>fecit et locum in corpore et corpus in loco 
+      <lb ed="#B" n="34"/>et qui fecit vt corpus vnum in vno loco 
+      es<lb ed="#B" n="35" break="no"/>set: fecit sicut voluit: et si voluisset aliud fa 
+      <lb ed="#B" n="36"/>cere potuisset: nam et quando vult aliter 
+      <lb ed="#B" n="37"/>facit: et infra. Cogita facientem et desinet 
+      es<lb ed="#B" n="38" break="no"/>se mirabile quicquid illud fuerit: et si for 
+      <lb ed="#B" n="39"/>te esse mirabile non desierit: tamen incre 
+      <lb ed="#B" n="40"/>dibile non erit si factor omnipotens 
+      cogita<lb ed="#B" n="41" break="no"/>tur: non erit impossibile quicquid erit: haec 
+      <lb ed="#B" n="42"/>ille. Facile est hoc concipere scandenti 
+      ter<lb ed="#B" n="43" break="no"/>tium caelum vt multiplicato posteriori rema 
+      <lb ed="#B" n="44"/>neat prius immultiplicatum: eadem enim 
+      al<lb ed="#B" n="45" break="no"/>bedo multis albedinibus similis est: sic idem 
+      <lb ed="#B" n="46"/>corpus numero multa habebit vbi. Et si 
+      <lb ed="#B" n="47"/>non credunt rationibus credant exemplo 
+      <lb ed="#B" n="48"/>Sanctus antonius de padua simul praedicauit 
+      <lb ed="#B" n="49"/>biturum in sancto stephano: et sancto michaele 
+      <!--735.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>quorum ecclesiae sunt satis distantes. Et quando 
+      <lb ed="#B" n="51"/>dicit henricus gandensis. quol. 9. q. 31. quod 
+      <lb ed="#B" n="52"/>tunc vnum corpus potest esse vbique: ex quo 
+      <lb ed="#B" n="53"/>est indifferens ex parte potentiae diuinae: vt 
+      <lb ed="#B" n="54"/>sit in multis locis. Secundo quia tunc 
+      ha<lb ed="#B" n="55" break="no"/>bebit contraria: aut in eodem loco vt simul 
+      <lb ed="#B" n="56"/>sanum et egrum: aut in diuersis: vt frigeat in 
+      <lb ed="#B" n="57"/>vno loco: et caleat in alio. Tertio sicut lo 
+      <lb ed="#B" n="58"/>catum commensuratur loco secundum quantum 
+      <lb ed="#B" n="59"/>et continnum: sic secundum vnum et multum. Et tho. in 
+      <lb ed="#B" n="60"/>praesenti dist. q. 2. principali in solutione quae 
+      <lb ed="#B" n="61"/>stiumcule tertie soluendo argumtum secundum: 
+      ter<lb ed="#B" n="62" break="no"/>mini loci et locati sunt similis ergo si locatum est ex 
+      <lb ed="#B" n="63"/>tra terminos loci sui proprii est extra 
+      ter<lb ed="#B" n="64" break="no"/>minos suos proprios. Et addit ibidem in 
+      <lb ed="#B" n="65"/>quaestione tertia principali in quastiumcula. 2. 
+      <lb ed="#B" n="66"/>illius quaestionis in solutione principali: quod 
+      an<lb ed="#B" n="67" break="no"/>gelus non potest simul esse in diuersis locis 
+      <lb ed="#B" n="68"/>igitur nec corpus. Et egidius romanus quolibe. 
+      <lb ed="#B" n="69"/>1. q. 1. et quol. 2. q. 17. sicut res per suam 
+      na<lb ed="#B" n="70" break="no"/>turam est tantum in vna speci: sic per vnam 
+      dimen<lb ed="#B" n="71" break="no"/>sionem est tantum in vno loco. Et alanus in. 4. q. 
+      <lb ed="#B" n="72"/>I. huius materiae arti. 2. contradictione 
+      ter<lb ed="#B" n="73" break="no"/>tia. Et godefridus quols. 13. q. 4. Si similiset 
+      <lb ed="#B" n="74"/>set in duobus locis aut vna mutatione aut 
+      <lb ed="#B" n="75"/>duabus: non vna: quia vna mutatio est ad  
+      <lb ed="#B" n="76"/>vnum terminum: non duabus: quia aut eiusdem spe 
+      <lb ed="#B" n="77"/>ciei aut duabus alterius non eiusdem spe 
+      <lb ed="#B" n="78"/>ciei: quia non potest idem moueri pluribus 
+      <lb ed="#B" n="79"/>motibus eiusdem speciei. 3. phisicorum. et. 5. 
+      <lb ed="#B" n="80"/>metaphicae capitulo: de eodem non duabus 
+      <lb ed="#B" n="81"/>alterius speciei: quia termini essent 
+      con<lb ed="#B" n="82" break="no"/>trarii: et ita motus incomponibiles. Rursus 
+      <lb ed="#B" n="83"/>cuiuslibet motus termini sunt 
+      incomponi<lb ed="#B" n="84" break="no"/>biles ex. 5. philosophicorum. sed quecumque duo vbi 
+      <lb ed="#B" n="85"/>possunt esse termini eiusdem motus: quia mo 
+      <lb ed="#B" n="86"/>bile potest moueri ab. a. in. b. et. a b. in. a. 
+      <lb ed="#B" n="87"/>ergo sunt incomponibiles. Ueniat dauid 
+      <lb ed="#B" n="88"/>iunior: scotus minor contra hos in praelium 
+      <lb ed="#B" n="89"/>et eorum arma diripiat et spolia accipiat: 
+      <lb ed="#B" n="90"/>dimitto sibi gloriam victoriae legatur solum 
+      <lb ed="#B" n="91"/>2. q. 1. arti. praesentis dist. et videbis doc. 
+      sub<lb ed="#B" n="92" break="no"/>hastam vibrare in hostes: et in fugam conuerte 
+      <lb ed="#B" n="93"/>re.
+</p>
+               <p xml:id="WuV37d-f64756-d1e1184">
+¶ Secunda conclusio. Corpus chri / et 
+      <lb ed="#B" n="94"/>sti et potuit prius esse sub sacramento: quam nasci de 
+      <lb ed="#B" n="95"/>vergine et eidem competere operationes absolu 
+      <lb ed="#B" n="96"/>te et moueri. Ista conclio tres habet 
+      parti<lb ed="#B" n="97" break="no"/>culas. Prima dicit quod christus prius potuit 
+      <lb ed="#B" n="98"/>esse sub sacramento quam nasci de virgine. Patet 
+      <!--736.xml-->
+      <pb ed="#B" n="360-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>quando existentia est indifferens ad duos modos 
+      <lb ed="#B" n="2"/>sicut potest haberi sub vno modo sic sub 
+      <lb ed="#B" n="3"/>alio aeque primo: sed corpus christi est 
+      in<lb ed="#B" n="4" break="no"/>differens ad esse naturaliter: et esse in 
+      sa<lb ed="#B" n="5" break="no"/>cramento: ergo sicut modo prius habet 
+      <lb ed="#B" n="6"/>esse. naturale quam sacramentale: sic potuit 
+      <lb ed="#B" n="7"/>econuerso. Secunda pars dicit quod ille ope 
+      <lb ed="#B" n="8"/>rationes absolute que competunt ei in 
+      cae<lb ed="#B" n="9" break="no"/>lo competunt in sacramento. Patet quia 
+      <lb ed="#B" n="10"/>praecedunt esse in: ideo non variantur propter 
+      <lb ed="#B" n="11"/>posterius. Tertia particula dicit quod 
+      corpo<lb ed="#B" n="12" break="no"/>ri christi in sacramento competit moueri: 
+      <lb ed="#B" n="13"/>patet: vbi est hostia ibi est corpus christi: 
+      <lb ed="#B" n="14"/>postia autem aliquando elevatur a 
+      sacerdote<lb ed="#B" n="15" break="no"/>aliquando deprimitur.
+</p>
+               <p xml:id="WuV37d-f64756-d1e1236">
+¶ Tertia conclusio 
+      <lb ed="#B" n="16"/>est haec: christus in sacramento sic quid potest tran 
+      <lb ed="#B" n="17"/>mutare vt ab intellectu aut sensu non bto 
+      <lb ed="#B" n="18"/>videri nequeat: sed beto intellectu. Ista 
+      con<lb ed="#B" n="19" break="no"/>clusio tres habet particulas. Prima dici 
+      <lb ed="#B" n="20"/>quod christus in sacramento aliquod potest mouere: ista 
+      <lb ed="#B" n="21"/>patet: quia anima christi non debet priuari illa potem 
+      <lb ed="#B" n="22"/>tia quam habet angelus: sed angelus qui non 
+      <lb ed="#B" n="23"/>est in loco circumscriptiue habet potentiam 
+      <lb ed="#B" n="24"/>motiuam corporalium et aliquando mouet: vt partet. ergo 
+      <lb ed="#B" n="25"/>etc. et hoc aliquando apperuit in subtractione 
+      <lb ed="#B" n="26"/>aut remotione hostiae subita aliqua de causa. 
+      <lb ed="#B" n="27"/>Secunda pars dicit quod ab intellectu aut se 
+      <lb ed="#B" n="28"/>su non beato videri nequit. Tertia quod ab in 
+      <lb ed="#B" n="29"/>tellectu beato: de intellectu probat tho. in 
+      <lb ed="#B" n="30"/>praesenti dist. arti. 4. q. 4. quia est obiectum 
+      fi<lb ed="#B" n="31" break="no"/>dei: potest tamen cognosci a bato: et hoc actu 
+      <lb ed="#B" n="32"/>beatifico: quia eorum quae enigmatice videm 
+      <lb ed="#B" n="33"/>tur in via: succedit cognitio clara. Fratet 
+      <lb ed="#B" n="34"/>richardus in praesenti dist. arti. 5. q. 1. aliter pro 
+      <lb ed="#B" n="35"/>bat primum: quia scilicet lumen naturale non attingit 
+      <lb ed="#B" n="36"/>ad cognitionem istius existentiae: sed quantum 
+      <lb ed="#B" n="37"/>ad secundum discordat: quia dicit quod non tantum 
+      <lb ed="#B" n="38"/>beatus potest videre in verbo sed in 
+      ge<lb ed="#B" n="39" break="no"/>nere proprio: quia quamuis huiusmodi existentia ex 
+      <lb ed="#B" n="40"/>cedat facultatem luminis naturalis non tantu 
+      <lb ed="#B" n="41"/>facultatem luminis gleiae: de sensu vero di 
+      <lb ed="#B" n="42"/>stinguit idem Rich. arti. 5. q. 2. de visu 
+      glo<lb ed="#B" n="43" break="no"/>rioso et non glorioso: iterum de videre 
+      natu<lb ed="#B" n="44" break="no"/>raliter et gloriosae vel miraculosae neutur 
+      po<lb ed="#B" n="45" break="no"/>test videre corpus christi in eucharistia na 
+      <lb ed="#B" n="46"/>turaliter. Ratio tho. ar. 4. q. 1. quia non potest esse 
+      <lb ed="#B" n="47"/>tactus ibi sine quo non est actio naturalis in corporibus 
+      <lb ed="#B" n="48"/>Secunda ratio eiusdem ibidem quia color respicit 
+      <lb ed="#B" n="49"/>quantitatem pro per se subiecto: corpus autem christi 
+      <!--736.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>ibi non habet ordinem ratione quantitatis: igitur nec 
+      <lb ed="#B" n="51"/>ratione coloris. Addit frater Rich. vbi supa 
+      <lb ed="#B" n="52"/>quod nec lumen glsiae corporale potest attingere rem 
+      <lb ed="#B" n="53"/>non existentem alicubi: cuiusmodi est corp 
+      <lb ed="#B" n="54"/>christi: vt hc. Addit idem vbi. supra. quod nec per 
+      mi<lb ed="#B" n="55" break="no"/>raculum: quia non potest eleuari oculus ad 
+      co<lb ed="#B" n="56" break="no"/>gnoscendum existentia substantiae separate: quem 
+      <lb ed="#B" n="57"/>modum habet corpus christi vt hic. Pro 
+      <lb ed="#B" n="58"/>hac vltima conclusione videatur articulus 
+      ter<lb ed="#B" n="59" break="no"/>tius doc. sub. in tribus quastionibus et istis 
+      rationi<lb ed="#B" n="60" break="no"/>bus in praesenti distin. quia venit finis papiri. 
+      <lb ed="#B" n="61"/>Quo ad tertiuarticulum sunt 
+      <lb ed="#B" n="62"/>tres difficu 
+      <lb ed="#B" n="63"/>tates: iuxta tres conclusioes.
+</p>
+               <p xml:id="WuV37d-f64756-d1e1347">
+¶ Prima dif 
+      <lb ed="#B" n="64"/>ficultas. Si deus potest facere vnum cor 
+      <lb ed="#B" n="65"/>pus esse vbique. Dicit franciscus de maronis 
+      <lb ed="#B" n="66"/>in praesenti distin. quod sic: exquo est indeter 
+      <lb ed="#B" n="67"/>minatum ad postora loca eiusdem rationis.
+</p>
+               <p xml:id="WuV37d-f64756-d1e1358">
+¶ Sed 
+      <lb ed="#B" n="68"/>cunda difficultas. Si potuit christus in 
+      <lb ed="#B" n="69"/>carnari in virgine dato quod prius fuisset il 
+      <lb ed="#B" n="70"/>sacramento in antiquo testamento. Dico qua 
+      <lb ed="#B" n="71"/>non quasi iam fuisset vnio.
+</p>
+               <p xml:id="WuV37d-f64756-d1e1369">
+¶ Tertia di 
+      <lb ed="#B" n="72"/>ficultas vtrum illa potentia motiua qua in sa 
+      <lb ed="#B" n="73"/>cramento christus potest moueri sit organica / 
+      <lb ed="#B" n="74"/>aut spiritualis. Dico quod spiritualis a subiecto: potest 
+      <lb ed="#B" n="75"/>tamen esse corporalis a termino. Et sic patet ad  
+      <lb ed="#B" n="76"/>questionem videlitet quod christo sub speciebus 
+      <lb ed="#B" n="77"/>posito competit motus atque visio. Tunc ad 
+      <lb ed="#B" n="78"/>argumta.
+</p>
+               <p xml:id="WuV37d-f64756-d1e1388">
+¶ Ad primum ad maiorem dico quod 
+      <lb ed="#B" n="79"/>quod est quantum: et patet solutio in prima conclusione 
+      </p>
+               <p xml:id="WuV37d-f64756-d1e1393">
+                  <lb ed="#B" n="80"/>¶ Ad secundum patet quod argumentum ve vbi est mo 
+      <lb ed="#B" n="81"/>tus acquisitiuus et deperditiuus simili: hic autem solum 
+      <lb ed="#B" n="82"/>est acquisitiuus.
+</p>
+               <p xml:id="WuV37d-f64756-d1e1402">
+¶ Ad tertium patem quod nihil per 
+      <lb ed="#B" n="83"/>dit sed non competit sibi visio corporalis vt ibi 
+      <lb ed="#B" n="84"/>propter dispositionem: sed bene intellectiua¬ 
+      </p>
+            </div>
+            <div xml:id="WuV37d-f64756-Dd1e1410" type="et-conclusiones">
+               <head xml:id="WuV37d-f64756-Hd1e1412">Conclusiones</head>
+               <p xml:id="WuV37d-f64756-d1e1415">
+                  <lb ed="#B" n="85"/>¶ Ex ista dist. sicut de praecedentibus de: 
+      <lb ed="#B" n="86"/>mete magistri. 3. etc.
+</p>
+               <p xml:id="WuV37d-f64756-d1e1422">
+¶ Prima est de signo 
+      <lb ed="#B" n="87"/>visibili christus tenetur: et non videtur visione miri 
+      <lb ed="#B" n="88"/>bili. Dicit conclusio quod sub signo visibili chri 
+      <lb ed="#B" n="89"/>stus non visus est. Et ponitur a principio dist. 
+      <lb ed="#B" n="90"/>vsque ad illud capitulum. Attende his diligenter 
+      <lb ed="#B" n="91"/>etc. Secunda conclusio.
+</p>
+               <p xml:id="WuV37d-f64756-d1e1435">
+¶ Sepe dicitur res signum 
+      <lb ed="#B" n="92"/>esse et sic prodesse vt cognoscitur. Dicit 
+      co<lb ed="#B" n="93" break="no"/>clusio quod sepe signum capit nomen signati: 
+      <lb ed="#B" n="94"/>vt panis carnis christi. Et ponitur ab illo 
+      <lb ed="#B" n="95"/>capitulo. Attende his etc. vsque ibi. Haec et 
+      <lb ed="#B" n="96"/>his similia etc.
+</p>
+               <p xml:id="WuV37d-f64756-d1e1448">
+¶ Tertia conclusio. 
+      Consecra<lb ed="#B" n="97" break="no"/>tione transsubstantiatur panis et mutatur in 
+      communio<lb ed="#B" n="98" break="no"/>ne. Dicit conclusio quod panis et vinum transubstan¬ 
+      <!--737.xml-->
+      <pb ed="#B" n="360-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>tiantur in corpus et sanguinem christi per consectionem. 
+      <lb ed="#B" n="2"/>Et ponitur ab illo loco. Haec et his similia 
+      <lb ed="#B" n="3"/>etc. vsque ad finem distin. Nam illa parua par 
+      <lb ed="#B" n="4"/>ticula. Ex his aliisque pluribus constat etc. qua 
+      <lb ed="#B" n="5"/>est proprie in fine hus distinctionis: et fuit 
+      con<lb ed="#B" n="6" break="no"/>diuisa contra nonam distin. in qua magister 
+      <lb ed="#B" n="7"/>elisit errorem quantum ad cibum sumentem: Et 
+      de<lb ed="#B" n="8" break="no"/>cimam in qua confutauit risorem quantum ad 
+      <lb ed="#B" n="9"/>christum cibantem: in qua pandit conclusorem 
+      <lb ed="#B" n="10"/>et propriam mentem indiuisa et intacta 
+      rema<lb ed="#B" n="11" break="no"/>net: solum enim posita est: vt completus esset ter 
+      <lb ed="#B" n="12"/>narins. 
+</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Collatio</title>
+            <author ref="#WilliamDeVaurouillon">William de Vaurouillon</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Collatio</title>
+               <date when="2021-06-19">June 19, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-bvbVBV">Basel 1510</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-06-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="1-r"/>
+            <cb ed="#B" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="WuV37d-de3dds"><!-- l1collatio -->
+            <head xml:id="WuV37d-de3dds-Hd1e108">Collatio</head>
+            <p xml:id="WuV37d-de3dds-d1e111">
+               <pb ed="#B" n="1-r"/>
+               <lb ed="#B" n="1"/>Prologus recommendatiuus o. 
+      <lb ed="#B" n="2"/>puaacre pagine professoris eximii ma 
+      <lb ed="#B" n="3"/>gistri Guillermi vorrillong ordinis fratrum minorum: opus. 
+      <lb ed="#B" n="4"/>super quattuor libros sententiarum feliciter incipit. 
+      <lb ed="#B" n="5"/>coQqNo Tovs Csprri 
+      oppi<lb ed="#B" n="6" break="no"/>Uheriupe: vxi 1vorper vd. 
+      <lb ed="#B" n="7"/>o6Nossut vrer parperpo 4Qr pxpi 
+      <lb ed="#B" n="8"/>celebres: eius vestigiosas semitas sequuturus: qui 
+      tri<lb ed="#B" n="9" break="no"/>bus composuit digitis orhem terta: campum domini super 
+      <lb ed="#B" n="10"/>mundanum ingrediens: fauente altissimo / tria sum factu 
+      <lb ed="#B" n="11"/>rus.
+</p>
+            <p xml:id="WuV37d-de3dds-d1e140">
+¶ Primo enim collatio pramittetur sophiae 
+      commen<lb ed="#B" n="12" break="no"/>datiua.
+</p>
+            <p xml:id="WuV37d-de3dds-d1e145">
+¶ Secundo dubietas adiungetur cum magistris 
+      col<lb ed="#B" n="13" break="no"/>latiua.
+</p>
+            <p xml:id="WuV37d-de3dds-d1e150">
+¶ Certio hiumilior postponetur loqueia gratiati 
+      <lb ed="#B" n="14"/>ua.
+</p>
+            <p xml:id="WuV37d-de3dds-d1e156">
+¶ Quo ad primum: in quo vt dixi collatio praemittit 
+      <lb ed="#B" n="15"/>gem. Ad tantae thieologiae quam theurgiae nominibus diui 
+      <lb ed="#B" n="16"/>nus Hionisius insigniuit aliqualiter pro posse laudes 
+      <lb ed="#B" n="17"/>depromendas exximias. Hec iudithi occurrit sermonum 
+      <lb ed="#B" n="18"/>slosculus mei cognominis includens tenorem: alias in 
+      <lb ed="#B" n="19"/>quipluribus in vniuersitatibus meis in principiis acceptus: fiuiusque artificiosae 
+      scien<lb ed="#B" n="20" break="no"/>tiarum deae promens fastigia charitatis scilicet Uirantes vallem venerunt ad portam ciuitatis. 
+      </p>
+            <p xml:id="WuV37d-de3dds-d1e172">
+               <lb ed="#B" n="21"/>¶ in quibus siquidem verbis ad commendationem huius scientiae: quam stilo mirifico 
+      <lb ed="#B" n="22"/>decorauit doctor coelicus hetrus lumhardus parrhiyseorum antistes egregius: in sua 
+      <lb ed="#B" n="23"/>tum sententiarm: volumine copioso: iuxta quattuor sententiarum libros quattuot 
+      <lb ed="#B" n="24"/>panduntur. Primo enimm ostenditur vigens interminabilitas ambitu perfectiori an 
+      <lb ed="#B" n="25"/>tes claudens libramine: in primo sentetiarm.
+</p>
+            <p xml:id="WuV37d-de3dds-d1e185">
+¶ Secundo melliflua amenitas in situ 
+      <lb ed="#B" n="26"/>siumiliori locata pro certamie: in secundo.
+</p>
+            <p xml:id="WuV37d-de3dds-d1e190">
+¶ Fertio latitudinis entitas in verbo dul 
+      <lb ed="#B" n="27"/>ciori soporans dulci carmine: in tertio.
+</p>
+            <p xml:id="WuV37d-de3dds-d1e195">
+¶ Quarto amantissima vnitas aditu patem 
+      <lb ed="#B" n="28"/>tiori reficiens solamine: in quarto.
+</p>
+            <p xml:id="WuV37d-de3dds-d1e200">
+¶ Frimum probat rotunditatis circulus 
+      copio<lb ed="#B" n="29" break="no"/>siot / potentior signatus infinitate: cum praemittur / girantes.
+</p>
+            <p xml:id="WuV37d-de3dds-d1e206">
+¶ Secundum probat lo 
+      <lb ed="#B" n="30"/>ciamenus nidulus venustiot ornatior grandi plenus claritate: subiungit thiema / 
+      <lb ed="#B" n="31"/>vallem. 
+</p>
+            <p xml:id="WuV37d-de3dds-d1e213">
+¶ Nertium prohat charitatis nodulus ardentior feruentior emissus diuini 
+      <lb ed="#B" n="32"/>tate: dicit tmemra venerunt.
+</p>
+            <p xml:id="WuV37d-de3dds-d1e218">
+¶ Quartum probat bionestatis titulus apertior 
+      samo<lb ed="#B" n="33" break="no"/>sior insignitus maiestate dum concluditur: ad portam ciuitatis. Et ideo pleni 
+      equita<lb ed="#B" n="34" break="no"/>te sancta: sequamur iam veritatis vias: nam securitate girantes vallem venerunt ad 
+      <lb ed="#B" n="35"/>portam ciuitatis: propter primum.
+</p>
+            <p xml:id="WuV37d-de3dds-d1e227">
+¶ Cum semper indeficiens nostris offertur menti 
+      <lb ed="#B" n="36"/>bus in supposito triplici: in primo sententiarum: propter secundum.
+</p>
+            <p xml:id="WuV37d-de3dds-d1e232">
+¶ Creatura incipi 
+      <lb ed="#B" n="37"/>ens seminatur in entibus cultura multiplici: in secudo propter tertium.
+</p>
+            <p xml:id="WuV37d-de3dds-d1e237">
+¶ mago dei 
+      <lb ed="#B" n="38"/>prodiens mittitur indigentibus: soluens malo septuplici: in tertio propter quartum. 
+      </p>
+            <p xml:id="WuV37d-de3dds-d1e243">
+               <lb ed="#B" n="39"/>¶ Fiator hiomnis gestiens: se iungit contemplantibus / sanatus cura medici: in quarto 
+      <lb ed="#B" n="40"/>sententiarum.
+</p>
+            <p xml:id="WuV37d-de3dds-d1e250">
+¶ Fribus vltimariis punctis meis: pro tribus aliis sequentibus princ 
+      <lb ed="#B" n="41"/>piis donante henignissimo reseruatis. Primarium se obiicit contemplandum apertius: 
+      <lb ed="#B" n="42"/>in quo vt dicebatur ostenditur vigens onees. Ods probat rotunditatis Ooem. cum praemittitur 
+      <lb ed="#B" n="43"/>Uirantes: propter quics luxc semper oee. Naec quippe optimi patres  duomini: sapi 
+      <lb ed="#B" n="44"/>entia altissimi numcupatur / ore eius progrediens. Primogenita ante omnem creaturam: qua et 
+      <lb ed="#B" n="45"/>sla altissimarum terum secteta secretiota verissime inuestigat: Ec in tanta mentem 
+      <!--19.xml-->
+      <pb ed="#B" n="1-v"/>
+               <cb ed="#B" n=""/>
+               <lb ed="#B" n="1"/>hominis pace constituit: vt in ecclesiastica hierarchia nobis affert diuinus Dioynsius: 
+      <lb ed="#B" n="2"/>vt putetur hiomo iam in deum transformatus: oblitusque sit quidus erat: Ec noscere incipiat 
+      <lb ed="#B" n="3"/>quid non erat. Sic in libro confessionum / speculum ecclesia aurelius augusti. ad demnm pro 
+      <lb ed="#B" n="4"/>clamat. In me eras nescieham deus meus: sero sero te amaui pulchiritudo mea. lhique 
+      <lb ed="#B" n="5"/>tantarum profunditatum accrescit cumulus: vt omnium artium liberalium copia facie coram 
+      <lb ed="#B" n="6"/>harena sit erigua: Ee tanquam lutum extimabitur argentum in conspectu illius: vt testatur no 
+      <lb ed="#B" n="7"/>bis simmachius ille verbis quidem parcus / sed mete profundus: dulcissimo stilo ipsam 
+      <lb ed="#B" n="8"/>alloquendo hiac in verba. O sapientia dei: tu magnetem laudabilis eloquii tullianam 
+      in<lb ed="#B" n="9" break="no"/>cude fiisti: quicquid in poetis limpidum: in comediis autenticum: apud oratores gra 
+      <lb ed="#B" n="10"/>de: in analeticis fidele: inter grammaticos eruditum: in philo sophis mysticum sola exm 
+      <lb ed="#B" n="11"/>hiausisti. Sequitur. Nu es enim supereminens politia veter: carmina chaldaeorum: considera 
+      <lb ed="#B" n="12"/>tiones pitagoricorum: architeca habrloniorum / noe arca / moysi praestigia / iosue pla 
+      <lb ed="#B" n="13"/>nimetria: sansonis enigmata: salomonis problemata: a cedro libani vsque ad 
+      hso<lb ed="#B" n="14" break="no"/>piitum plenissime disputata: esculapii antidota: nasi poemata: appollinis oracula: Oo 
+      <lb ed="#B" n="15"/>omnium aliarum scientiarum secreta inuestigando transcendis. Naec illae: Inquit ipsa ore 
+      <lb ed="#B" n="16"/>ecclesiastici: suam amplam magnificentiam hiumili ore elucidans. Nhronus meus in 
+      co<lb ed="#B" n="17" break="no"/>lumna nubis. O maiestas execelsa erecelsiot exccelsissima: quae tlironum in colunna ta 
+      <lb ed="#B" n="18"/>hernaculum tegente collocauit. Qrem cceli circuniui sola: Ee protundum abyssi penetra 
+      <lb ed="#B" n="19"/>ui: Ec in fluctibns maris ambulaui: E in omni terra steti / oec in omni gente: oe in 
+      <lb ed="#B" n="20"/>omni populo primatum hiabui. Terrenae facultates terrenis hiant partibus: sed 
+      <lb ed="#B" n="21"/>thieurgia dei inisupernis occupatur: hiae terrena superficie detente: hiaec in abyssum vs 
+      <lb ed="#B" n="22"/>que penetrat: hiae discurrunt variis motibus: hiaec mentem pacatissimam efficit. Quid plu 
+      <lb ed="#B" n="23"/>ra¶ Naec seruos: hiaec dominos oe principes solita est erigere. Audite quid ipsa dicat. 
+      <lb ed="#B" n="24"/>per me reges regnant: E legum conditores iusta decernunt. her me principes impe 
+      <lb ed="#B" n="25"/>rant: Eot potentes decernunt iusticiam. Nac siquidem loquente reticeant dialecticorum mari 
+      <lb ed="#B" n="26"/>mae rethoricae lociqueconclusiones: arithimeticae porismata: musicae anxiomata: geome 
+      <lb ed="#B" n="27"/>triae thieoremata: astrologiae clariora emblemata. Quid mundo discurriturc Cuid gi 
+      <lb ed="#B" n="28"/>ratur in diuerso polorum climate: vt hae mundanae situlae inebriente hlato memphiticos 
+      <lb ed="#B" n="29"/>Eo ignitos adiuit populos: vt mathieseus imbueretur disciplinis: pictagoras terticos 
+      <lb ed="#B" n="30"/>E lacedemonios: minois atque ligurgi leges inspecturus: quanta terrarum discrimina 
+      <lb ed="#B" n="31"/>persas / medos / caucasum / maslagetas / albanos: opulentissima indiae regna 
+      latissi<lb ed="#B" n="32" break="no"/>moque phison amne transmisso ille appollonius transierit: vt rerum vires disceret: ple 
+      <lb ed="#B" n="33"/>nius locutus est iero. Quae in hac sola verius / altius / perfectius: oe in pace thearti 
+      <lb ed="#B" n="34"/>ca / oaec seraphicis vultibus possidentur: vnde aliae creaturas: hiaec summum inuestigat 
+      <lb ed="#B" n="35"/>ereatorem. vnde gratissime Nugo venerabilis li. primario arcae noe: modo dialogi 
+      su<lb ed="#B" n="36" break="no"/>am alloquens animam: artes caeteras hiuius in comparatione vanitati comparauit ita inqua 
+      <lb ed="#B" n="37"/>ens. Quid tum vides o anima meac Qui illa: Socolam discentium ego video. Alii ad 
+      forman<lb ed="#B" n="38" break="no"/>da noua elementa: atque voces insolitas effundendas: rudem ad hiaec lingruam inflecte 
+      <lb ed="#B" n="39"/>re discunt. Alii verborum inflexciones i compositiones o deriuationes / primum audiendo 
+      <lb ed="#B" n="40"/>cognoscere. Heinde ad inuicem: atque ad idem reponendo memoriae commendare sata 
+      <lb ed="#B" n="41"/>gunt. Alii ceras stilo exarant. Aliore figuras variis modis e diuer sis coloribus in 
+      <lb ed="#B" n="42"/>memhranis: docta manus calamtum ducens praefigurat. Alii acriori ac fortiori quodam 
+      <lb ed="#B" n="43"/>studio de magnis vt videtur negociis disceptationes: quasdam adinuicem feerunt: 
+      <lb ed="#B" n="44"/>Ee quibusdam verhorum finecibilibus vicissim fraudare contendunt. Malculantes 
+      quaf<lb ed="#B" n="45" break="no"/>dam ego etiam video ibi: alii tensum in ligno neruum: ibi percutientes diuersorum 
+      <lb ed="#B" n="46"/>sonorum proferunt melodias. Alii vero quasdam descriptiones / Ec mensurarum for 
+      <lb ed="#B" n="47"/>mas exmplicant. Alii cursus / dispositiones siderum: Eec coeli motum magnifice desctibunt. 
+      <lb ed="#B" n="48"/>Alii de naturis hierhbarum / de complerionibus hiominum de qualitate omnium rerum / oc virtu 
+      <lb ed="#B" n="49"/>te pertractant: quoe in his omnibus licet sit forma diuersa discendi: vna tum est omnibus 
+      <!--20.xml-->
+      <pb ed="#B" n="2-r"/>
+               <cb ed="#B" n=""/>
+               <lb ed="#B" n="1"/>proficiendi. Qui Nugo. Imago te fallit veritatis / o anima mea. Ista enim sunt non 
+      sa<lb ed="#B" n="2" break="no"/>pientiae / sed dementiae hiumane studia: in quibus imprudentes 6e stulti tam inutili quam 
+      <lb ed="#B" n="3"/>pertinaci labore naturas rerum inquirunt: auctorem vero suum / oc omnium naturarum 
+      arti<lb ed="#B" n="4" break="no"/>ficem ignorant. Naec ille. Legimus o optimi magistri Ee patres gorgiam f 
+      leoncini<lb ed="#B" n="5" break="no"/>um / quem socratis magistrum proferunt centenarium: vltra effectum numerui: tanto ardore stu t 
+      <lb ed="#B" n="6"/>dii subleuatum: vt in scliolis diceret: petite quidus vultis: presto est qui respondeat. Bo 
+      <lb ed="#B" n="7"/>crates ille thiebanus / nonagenarius libet condidisse refertur. Plato velut quoddam 
+      <lb ed="#B" n="8"/>lumen terris missum: octogesimarioprimo anno senio confectus: artus vltimos stu 
+      <lb ed="#B" n="9"/>dio supposuit: quem annorum numerum antiqui consecrauerunt philosophi. Octoginta 
+      <lb ed="#B" n="10"/>quippe vnum: nouem nonies faciunt. Affert doctot ieronymus ad nepocianum mittens 
+      <lb ed="#B" n="11"/>epistolam: sophoclem tanto philosophie studio operam dedisse: vt centum quattuor an 
+      <lb ed="#B" n="12"/>norum coram iudicibus fabulam edippi ediderit. hermenides quem italorum germen semi 
+      <lb ed="#B" n="13"/>nauit: qundecim annis prae studio in antris latitat. Nitus liuius tertia decade 
+      archi<lb ed="#B" n="14" break="no"/>menide sracusanum / citius marci marcelli occubuisse gladio retulit / quam archilindri 
+      <lb ed="#B" n="15"/>seu sphierae destitisset pictura. Quid de ipocrate sanuois tantis ingeniis subleuato: vt 
+      <lb ed="#B" n="16"/>per se sine doctore de quolibet dissereret: quem referunt propter inuidiam a diis ictu 
+      <lb ed="#B" n="17"/>fulguris suffocatum. Faceo septem sapientes quos appollo consecrauit: qui tantarum 
+      <lb ed="#B" n="18"/>effulsere scientiarum fulgoribus: vt pro legibus condendis apud romam / eorum ad li 
+      <lb ed="#B" n="19"/>bros mitteretur: praecipue ad solonem. Facco aristippum / antistitenem / cleantem / cratem 
+      <lb ed="#B" n="20"/>thiebanum / caterosque philosophorum cuneos: qui labore tanto soplia insudauerunt: im 
+      <lb ed="#B" n="21"/>mo se dedicauerunt: vt cunctas abiicerent diuitias. Abite vos inquit crates o 
+      pes<lb ed="#B" n="22" break="no"/>sime diuitiae: ego vos submergam / ne submergar a vobis. Si igitur terrenis studiis 
+      <lb ed="#B" n="23"/>tot laboribus / tot periculis frigoribus: antiqui philosophi scientia dediti sunt: quid 
+      <lb ed="#B" n="24"/>facturus est chiristianus de anagogica scientia dei: id quiod philosophorum excordium 
+      <lb ed="#B" n="25"/>intonuit: viri iusti conditiones afferensc ln lege domini fuit voluntas eius: on in lege 
+      <lb ed="#B" n="26"/>tius meditabitur die ac nocte. Origenem ad oceanum scribens: refert hieronymus: 
+      <lb ed="#B" n="27"/>tanto hiuius sophire amore detentum: vt se castrasse dicatur: quo firmius mente esset 
+      <lb ed="#B" n="28"/>in hac occupatus. HNieronymus non solum diuitias: sed patriam omneque hiumanum dere 
+      <lb ed="#B" n="29"/>liquit negocium: vt iugiter aut scriberet / aut legeret. Serm enim milia origenis volumi 
+      <lb ed="#B" n="30"/>na se manifestat perlegisse. Hec opus censeo pramhro. Aug. Uilarii: caterorumque lau 
+      <lb ed="#B" n="31"/>des afferre singulas. vum pro certo iudico: vt cum his sanctis doctoribus sancta vacare 
+      <lb ed="#B" n="32"/>thieologiae: sit cibus: sit potus: iocundaque serenitas. Quae enim rogo vratiosior refectio 
+      <lb ed="#B" n="33"/>quam hiac in sacra scientia Quae maior quietatioo vbi maior iucunditasc vbi mentis so 
+      <lb ed="#B" n="34"/>potatio dulciore nullibi. Nuius quippe scientiae dulcedine lo. lemonicus affectus 
+      <lb ed="#B" n="35"/>epistola. Tiiii. moralis erpositionis somnii pharaonis: ipsam dulci verborum stilo alloque 
+      <lb ed="#B" n="36"/>tur. O inquit cellam vinariam. Maromaticam apothecam: qua tam dulcia faucibus 
+      <lb ed="#B" n="37"/>nostris administrat eloquia doctrinarum: vt non terrestrem eloquentiam: sed coxlestem 
+      <lb ed="#B" n="38"/>tedoleant faromantiam. Et sequitur. Nirabilia testimonia tua: Sedesiderabilia 
+      super<lb ed="#B" n="39" break="no"/>mel oc fauum: quorum auream sapientiam: 6od argenteam eloquentiam arhitramut 
+      <lb ed="#B" n="40"/>tegnis oe sedibus praeferendam. Etenim vera declaratio sermonum tuorum 
+      intelle<lb ed="#B" n="41" break="no"/>ctu obfuscatum illuminat: Ee morum informatio affectum sitientem mirabiliter refo 
+      <lb ed="#B" n="42"/>cillat. Naec ille. txpo quippe sub custodum nomine de huic scientia vacantihus 
+      <lb ed="#B" n="43"/>Nieremie scriptum est. Quasi custodes agrorum facti sunt super eam in giro. Nrec hoc 
+      <lb ed="#B" n="44"/>quippe studiosis a viris modo vallatur extercitus: aut historologice aut tropologice / 
+      <lb ed="#B" n="45"/>anagogice vel allegorice exxponentibus. idetur enim ibi quasi in speculo: licet no 
+      <lb ed="#B" n="46"/>his cum speculo enigma iungatur: partus ibi / cum in petris ortus: pl ade in cor 
+      <lb ed="#B" n="47"/>lo situs iadum: arcturi girus indissolubilis. dic ad lob deus loquitur. Oumquid 
+      iu<lb ed="#B" n="48" break="no"/>Rere valehis micantes stellas plyades: aut girum arcturi poteris dissipare: 
+      nun<lb ed="#B" n="49" break="no"/>quid produces luciterum in tempore suo: c vesperum super fines terrae consurgere 
+      <!--21.xml-->
+      <pb ed="#B" n="2-v"/>
+               <cb ed="#B" n=""/>
+               <lb ed="#B" n="1"/>facis hiec cuncta certissime excquirit sapientia dei: quam pro modulo nostra 
+      tan<lb ed="#B" n="2" break="no"/>git modicitas: hiaec terrae fundamentai coeli motum giratiuum / eruptionem fontium i/ 
+      <lb ed="#B" n="3"/>montium grauitatem considerat: cardines orhis: abyssi profunditatem: quantum 
+      <lb ed="#B" n="4"/>aethierum sit sursum: quantum pondus aquae obtineant: hi:ec complectitur sophia. O omni 
+      <lb ed="#B" n="5"/>laude dignissima. O scriptis etollenda perpetuis. O mentibus semper meditan 
+      <lb ed="#B" n="6"/>da beatis. vnmen Alanus ille in poetiso non infimus: hiuius mentionem specialem 
+      faci<lb ed="#B" n="7" break="no"/>ens: ad eius faciem verte no intuitum: gratissimins sermonibus eandem in de 
+      com<lb ed="#B" n="8" break="no"/>planctu nature sic affatur. Odei proles genitrieque rerum: vinculum mundi / stabilis 
+      <lb ed="#B" n="9"/>que nerus: gemma terrenis: speculum caducis: luciter orhis / pare samori virtus / 
+      re<lb ed="#B" n="10" break="no"/>gimen /potestas / ordoslum / finis / via idur / origo / vita / luci splendor / species / 
+      figu<lb ed="#B" n="11" break="no"/>ra / regula mundi: quae tuis mundum moderas fiabenis: cuncta concordi stabilita 
+      <lb ed="#B" n="12"/>nodo nectis: Ee pacis glutino maritas colica terris. Quae noys puras recolens ide 
+      <lb ed="#B" n="13"/>as singulas rere species monetas: cui fauet coelum: famulatur aer. Et sequitur. Qua 
+      <lb ed="#B" n="14"/>polum stellis variis inauras aethieris nostri solium serenas siderum gemmis / 
+      vario<lb ed="#B" n="15" break="no"/>que coelum milite comples. Quae vias ponti sepelis: 6e auges sincopans cursum pela 
+      <lb ed="#B" n="16"/>gi feruori: ne solis vultum cumulare possit aequorum estus. Nac ille. Quin igitur 
+      <lb ed="#B" n="17"/>pro magistri E patres optimi: inhiemus hiuius rachelis pulclierrimae / formosissimae 
+      <lb ed="#B" n="18"/>venustissimae chiarissimis amplexibus (per scalam lacob sanctissimis suspiriis coelum 
+      <lb ed="#B" n="19"/>adeamus: vt angelos ascendentes Ee descendentes / internis aspiciamus oculis)  
+      <lb ed="#B" n="20"/>cuius viam oe admirandum itinerarium feruida charitate / immo superferuida: 
+      li<lb ed="#B" n="21" break="no"/>cet apparuerint plurimi fiuius scientia doctores marimi: hianc tum prae caeteris quo 
+      <lb ed="#B" n="22"/>dam ductu familiari faciliori nobis in lucem condidit parrfiysieu. liuius almae ciuitatis 
+      <lb ed="#B" n="23"/>quam nobilissima excornat scientia vniuersitas prcesul splendidissimus: qui velut 
+      sol<lb ed="#B" n="24" break="no"/>ab ortum extiens: sua copiosa scientia vniuersas dei insigniuit ecclesias. Et licet 
+      plu<lb ed="#B" n="25" break="no"/>ribus in opusculis: praecipue in sententiarum quadripertito volumine. Quius 
+      pri<lb ed="#B" n="26" break="no"/>mo tribus: quo ad praesens praetermissis insinuatur. Primo diuina essentiam 
+      vni<lb ed="#B" n="27" break="no"/>tas cum personarum pluralitate: prima / secunda e tertia distinctione. Panditur post 
+      <lb ed="#B" n="28"/>modum filii dei eterna generatio: a tertia vsque ad. 2. execlusiue. Hehinc flaminis sa 
+      <lb ed="#B" n="29"/>cri productio / tam aeterna quam temperalis: a decima vsque ad decimamnonam erclusi 
+      <lb ed="#B" n="30"/>ue. Hehinc variae proprietates: tam personarum inter se quam dei ad nos quam lucide 
+      <lb ed="#B" n="31"/>quam manifeste immo deifice declarentur: tertus pandit exximius. O igitur tibi deus 
+      <lb ed="#B" n="32"/>potentissime / execellentissime: gloria decus hionorque detur perpetuus: qui tantae ci 
+      <lb ed="#B" n="33"/>uitati: tanto studio / verius toti mundo tam praefulgentem stellam emisisti. Nihi 
+      pe<lb ed="#B" n="34" break="no"/>tre iuhar egregium tanto pro opere: pro labore venustissimo sit merces in patria 
+      <lb ed="#B" n="35"/>dominus iesus: quem tecum videre mereamur. Amen.
+</p>
+            <p xml:id="WuV37d-de3dds-d1e571">
+¶ Sepeditus reuerendi 
+      ma<lb ed="#B" n="36" break="no"/>gistri Se dni metuendissimi: de primo: in quo erat collatio recommendatiua praemit 
+      <lb ed="#B" n="37"/>tenda: venio ad secundum: in quo habeo collatiuam quaestionem: cum reuetendis 
+      magi<lb ed="#B" n="38" break="no"/>stris meis: cum quibus immeritus concurro discutere: quam iuxta thema collatio 
+      <lb ed="#B" n="39"/>nis his in verbis efficio.
+  </p>
+         </div>
+      </body>
+   </text>
+</TEI>

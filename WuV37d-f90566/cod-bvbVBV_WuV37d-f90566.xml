@@ -1,0 +1,741 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 33</title>
+            <author ref="#WilliamDeVaurouillon">William de Vaurouillon</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 33</title>
+               <date when="2021-06-19">June 19, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-bvbVBV">Basel 1510</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-06-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="411-v"/>
+            <cb ed="#B" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="WuV37d-f90566"><!-- l4d33 -->
+            <head xml:id="WuV37d-f90566-Hd1e108">Distinctio 33</head>
+            <div xml:id="WuV37d-f90566-Dd1e111" type="circa-textum">
+               <head xml:id="WuV37d-f90566-Hd1e113">Circa textum</head>
+               <p xml:id="WuV37d-f90566-d1e116">
+                  <lb ed="#B" n="75"/>Distinctio. 33. huius quarti: in quae 
+      deter<lb ed="#B" n="76" break="no"/>minat de bono fidei patrum antiquirum: 
+      <lb ed="#B" n="77"/>qui plures vxores habuerunt. 
+      <lb ed="#B" n="78"/>Beritur hic de 
+      <lb ed="#B" n="79"/>antiquaes patribus quo plures 
+      <lb ed="#B" n="80"/>ae simul leguntur habuisse 
+      vx<lb ed="#B" n="81" break="no"/>ve ores etc. Hic signatur. 33. 
+      <lb ed="#B" n="82"/>dist. huius quarti saminarum: quae ita 
+      <lb ed="#B" n="83"/>habet continuari ad praecedentes: Nam postquam in. 3i 
+      <lb ed="#B" n="84"/>dist. de bonis matrimonii magisteregit communiter: 
+      <lb ed="#B" n="85"/>et consequenter in. 32. dist. seu praecedenti de 
+      bo<lb ed="#B" n="86" break="no"/>no fidei in quocumque communiugio egit 
+      speciali<lb ed="#B" n="87" break="no"/>ter: Nunc tertio de eodem bono fidei in 
+      anti<lb ed="#B" n="88" break="no"/>quorum patrum communiugio agit peculiariter. Et 
+      <lb ed="#B" n="89"/>habet diuidi etc. In prima agit de communiugio tempore 
+      <lb ed="#B" n="90"/>legis indite. In secunda agit de commniugio 
+      <lb ed="#B" n="91"/>tempore legis scriptae. In tertia de statu 
+      virgi<lb ed="#B" n="92" break="no"/>neo tempore gratiae conditae. Prima in principio 
+      <lb ed="#B" n="93"/>Secunda ibi: Sed numquid sub lege licebat 
+      <lb ed="#B" n="94"/>pitlules vxores habere etc. Tertia ibi: 
+      He<lb ed="#B" n="95" break="no"/>lior est autem virginitas mentis. Haec est 
+      di<lb ed="#B" n="96" break="no"/>uisio praesentis distinctionis etc. 
+      <!--840.xml-->
+      <pb ed="#B" n="412-r"/>
+                  <cb ed="#B" n="a"/>
+               </p>
+            </div>
+            <div xml:id="WuV37d-f90566-Dd1e174">
+               <head xml:id="WuV37d-f90566-Hd1e176">Quaestio</head>
+               <p xml:id="WuV37d-f90566-d1e179">
+                  <lb ed="#B" n="1"/>¶ Questio haec declarat de bigamia 
+      <lb ed="#B" n="2"/>quando et quo erat licita: adiungitque de re 
+      <lb ed="#B" n="3"/>pudiatione vxoris: et habetur a Scod. 
+      <lb ed="#B" n="4"/>i praesenti per tres quastioes: duas de biga 
+      <lb ed="#B" n="5"/>mo / et vltima de libello repudii. 
+      <lb ed="#B" n="6"/>N nature lege 
+      <lb ed="#B" n="7"/> bigamia sit licita / et libellus re 
+      <lb ed="#B" n="8"/>pudii: Et arguitur tripliciter. 
+      </p>
+               <p xml:id="WuV37d-f90566-d1e199">
+                  <lb ed="#B" n="9"/>¶ Primo quod bigamia non sit licita iure 
+      na<lb ed="#B" n="10" break="no"/>ture. Biuiria iure naturae numquam fuit licita: 
+      <lb ed="#B" n="11"/>igitur nec bigamia. Antecedens patet. Numquam 
+      <lb ed="#B" n="12"/>enim fuit licitum vt vna mulier duos viros ha 
+      <lb ed="#B" n="13"/>beret. Patet consequentia: quia ad actus coniu 
+      <lb ed="#B" n="14"/>gales aequales iudicantur.
+</p>
+               <p xml:id="WuV37d-f90566-d1e215">
+¶ Secundo arguitur 
+      <lb ed="#B" n="15"/>sic. Bigamia est contra statutum legis natu 
+      <lb ed="#B" n="16"/>trae: ergo non est de lege naturae. Antecedens 
+      <lb ed="#B" n="17"/>patet. Nam dum deus per Adam dicit: Erunt 
+      <lb ed="#B" n="18"/>duo in carne vna: expessit deus legemn 
+      natu<lb ed="#B" n="19" break="no"/>rae de matrimonio. Tum ex glo. quadam 
+      in<lb ed="#B" n="20" break="no"/>terlineari: de lamech / qui accepit vxores 
+      <lb ed="#B" n="21"/>duas: vbi habetur quod iste primus induxit bi 
+      <lb ed="#B" n="22"/>gamiam: quod est contra legen naturae. Patet con 
+      <lb ed="#B" n="23"/>sequentia: quianihil potest esse de lege aliqua 
+      <lb ed="#B" n="24"/>et esse contra praecepta eius.
+</p>
+               <p xml:id="WuV37d-f90566-d1e239">
+¶ Tertio probo / quod 
+      <lb ed="#B" n="25"/>libellus repudii non sit licitus de lege na 
+      <lb ed="#B" n="26"/>ture: matrimonium est de lege naturae: ergo 
+      <lb ed="#B" n="27"/>repudium est contra legen naturae. Antecedens pa 
+      <lb ed="#B" n="28"/>tet: quia contractus matrimonii fuit institutus in 
+      <lb ed="#B" n="29"/>paradiso in statu innocentiae / deo praesidente 
+      <lb ed="#B" n="30"/>et approbante. Sed probatur consequentia: 
+      <lb ed="#B" n="31"/>quia matrimonium est quid indissolubile: nam 
+      <lb ed="#B" n="32"/>dicitur: Propter hoc relinquet homo patrem et 
+      <lb ed="#B" n="33"/>matrem: et adhaerebit vxori suae: repudium autem 
+      <lb ed="#B" n="34"/>tale vinculum euacuat.
+</p>
+               <p xml:id="WuV37d-f90566-d1e264">
+¶ In oppositum. 
+      <lb ed="#B" n="35"/>Tum primo: quia in lege naturae. abraam 
+      ha<lb ed="#B" n="36" break="no"/>buit tres vxores. Saram / agar et 
+      cethu<lb ed="#B" n="37" break="no"/>ram. Et secundo Iacob habuit quattuor 
+      <lb ed="#B" n="38"/>vxores. Et tertioDauid plures. Tum se 
+      <lb ed="#B" n="39"/>cundo autortoritate Augstin. de bono coniu 
+      <lb ed="#B" n="40"/>gali / versus finem. Antiquis iustis non fuit 
+      pec<lb ed="#B" n="41" break="no"/>catum quod pluribus faeminis vtebantur: neque 
+      con<lb ed="#B" n="42" break="no"/>tra naturam hoc faciebant: cum causa 
+      gignem<lb ed="#B" n="43" break="no"/>di hoc facerent / neque contra legem / neque contra 
+      <lb ed="#B" n="44"/>morem: quia eo tempore nulla lege erat pro 
+      <lb ed="#B" n="45"/>hibitum. Tum tertio de repudio dicitur: Si 
+      <lb ed="#B" n="46"/>acceperit homo vxorem. et non inuenerit gra 
+      <lb ed="#B" n="47"/>tiam ante oculos eius propter aliquam fedita¬ 
+      <!--840.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="48"/>tem: scribet ei libellum repudii: et dabit in 
+      <lb ed="#B" n="49"/>manu eius: et dimittet eam de domo sua. 
+      <lb ed="#B" n="50"/>Et secundo per prophetam dicitur. Cum odio habu 
+      <lb ed="#B" n="51"/>eris vxorem: dimitte eam dicit dominus deus 
+      is<lb ed="#B" n="52" break="no"/>rael. Et tertio dist. 24. si cuius. vxorem. Si 
+      <lb ed="#B" n="53"/>in clericatu marito constituto vxor 
+      adulte<lb ed="#B" n="54" break="no"/>rauit: dato repudio eam dimittere debet. 
+      <lb ed="#B" n="55"/>Exquo ergo repudium est licitum in lege 
+      mo<lb ed="#B" n="56" break="no"/>saica et euangelica: consonum est legi naturae. 
+      </p>
+               <p xml:id="WuV37d-f90566-d1e319">
+                  <lb ed="#B" n="57"/>¶ In ista quaestione pariformiter ad 
+      ali<lb ed="#B" n="58" break="no"/>as sunt tres articuli declarandi. 
+      <lb ed="#B" n="59"/>Primus est terminorum declaratiuus 
+      <lb ed="#B" n="60"/>Quorum Secundus est quaestionis responsiuus. 
+      </p>
+               <p xml:id="WuV37d-f90566-d1e330">
+                  <lb ed="#B" n="61"/>¶ Tertius est dubiorum motiuus. 
+      <lb ed="#B" n="62"/>Quo ad primum articulum 
+      ter<lb ed="#B" n="63" break="no"/>mini sunt 
+      <lb ed="#B" n="64"/>Lex naturae / bigamia / libellus repudii. 
+      </p>
+               <p xml:id="WuV37d-f90566-d1e341">
+                  <lb ed="#B" n="65"/>¶ Primus terminus est lex naturae. 
+      <lb ed="#B" n="66"/>Unde secundum fratrem Alexam. de ales / secunda tertiae 
+      <lb ed="#B" n="67"/>tractatum de legibus. Lex naturae non est ni 
+      <lb ed="#B" n="68"/>si quidam splendor a lege deriuatus aeterna / et 
+      <lb ed="#B" n="69"/>inditus creatis mentibus. Dicitur mentibus / non 
+      <lb ed="#B" n="70"/>animabus: quia etiam lex naturae est in mentibus an 
+      <lb ed="#B" n="71"/>gelicis. Et vt dicit doc. deuotus in praesenti 
+      <lb ed="#B" n="72"/>dis. arti. 1. q. 1. Lex naturalis seu ius natu 
+      <lb ed="#B" n="73"/>rale dicitur tripliciter: communiter proprie / et magis pro 
+      <lb ed="#B" n="74"/>prie. Et secundum hoc ab Isid. tripliciter diffi 
+      <lb ed="#B" n="75"/>nitur. Uno modo seu primo modo sic. Ius na 
+      <lb ed="#B" n="76"/>turale est quod in lege et in euangelio conti 
+      <lb ed="#B" n="77"/>netur. Si sic accipiatur ius naturale inquit 
+      ha<lb ed="#B" n="78" break="no"/>bere concubinam est contra ius naturale: quia est 
+      <lb ed="#B" n="79"/>contra legem et euangelium: sed contra legem mopus 
+      <lb ed="#B" n="80"/>si implicite: quia non praecipit expresse fornica 
+      <lb ed="#B" n="81"/>torem interfici: nisi in tali casu: sicut patet in 
+      <lb ed="#B" n="82"/>Deutero. tamen implicite clauditur ibi: Non i 
+      <lb ed="#B" n="83"/>mechaberis: vbi probibetur omnis conitus 
+      <lb ed="#B" n="84"/>non matrimonialis. Contrallegem 
+      euangeli<lb ed="#B" n="85" break="no"/>cam est expresse: lnam Paulus dicit: 
+      forni<lb ed="#B" n="86" break="no"/>nicatores non habere partem in regnol 
+      dei<lb ed="#B" n="87" break="no"/>Et alibi dicit. Habeat vnusquisque vxorem in 
+      <lb ed="#B" n="88"/>suam propter fornicationem. Tunc autem sic 
+      ca<lb ed="#B" n="89" break="no"/>piendo communiter ius naturae (vt dictum est. 
+      <lb ed="#B" n="90"/>dist. 17. huiusquarti) debet dici ius naturae 
+      <lb ed="#B" n="91"/>illud quod est ab auctore naturae ius positum 
+      di<lb ed="#B" n="92" break="no"/>uidendo contra ius positiuum aliunde: aut sit 
+      ciui<lb ed="#B" n="93" break="no"/>le aut canonicum. Secundo modo dicitur ius 
+      natura<lb ed="#B" n="94" break="no"/>lc aut lex naturalis proprie: et sic diffinitur in 
+      <lb ed="#B" n="95"/>prin. decretorum. Ius naturale est quod est comne 
+      <lb ed="#B" n="96"/>omnium nationum: et hoc ius est quod dictat ra¬ 
+      <!--841.xml-->
+      <pb ed="#B" n="412-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>tio recta: et contra illud est adhuc habere 
+      com<lb ed="#B" n="2" break="no"/>cubinam: quia ius naturale dictat / quod conueniant 
+      <lb ed="#B" n="3"/>vir et mulier in illo actu ad generationem 
+      pro<lb ed="#B" n="4" break="no"/>lis: quae vterque succedat: et cui communiter praesint: 
+      <lb ed="#B" n="5"/>et ille aequaliter subsit vtrique: quod non bene 
+      re<lb ed="#B" n="6" break="no"/>peritur in concubinatu. Tertio dicitur ius 
+      na<lb ed="#B" n="7" break="no"/>turale propriissime: quod natura docuit omnia 
+      <lb ed="#B" n="8"/>animalia: et hoc modo concubinatus nec est 
+      omni<lb ed="#B" n="9" break="no"/>no contra naturam / nec omnino secundum naturam. Et 
+      <lb ed="#B" n="10"/>hoc patet: quia quaedam animalia sunt quo 
+      coniungun<lb ed="#B" n="11" break="no"/>tur secundum indiuiduam copulam: vt sunt turtures: 
+      <lb ed="#B" n="12"/>illa autem quae sunt dispersa in inferioribus animalibus: 
+      <lb ed="#B" n="13"/>et dicunt nobilem perfectionem: sicut in turturi 
+      <lb ed="#B" n="14"/>bus indiuidua copula: debent repariri in 
+      me<lb ed="#B" n="15" break="no"/>dio animalium quod est homo: vnde patet quod concubina 
+      <lb ed="#B" n="16"/>tus non solum est malum quia probibitum: sed etiam 
+      <lb ed="#B" n="17"/>prohibitum quia malum.
+</p>
+               <p xml:id="WuV37d-f90566-d1e456">
+¶ Secundus 
+      termi<lb ed="#B" n="18" break="no"/>nus est bigamia: et dicitur a bis / et gamos 
+      <lb ed="#B" n="19"/>mulier: vnde ille bigamus censetur / qui 
+      ha<lb ed="#B" n="20" break="no"/>bet / aut habuit / aut simul / aut consequentur du 
+      <lb ed="#B" n="21"/>as mulieres / aut in forma / aut virtute. Dico 
+      <lb ed="#B" n="22"/>autem in virtute / propter illum quo viduam duxit. Di 
+      <lb ed="#B" n="23"/>citur enim bigamus quasi si duas habuisset. Et 
+      <lb ed="#B" n="24"/>notandum quod frater Fram. de maro. dicit in prae 
+      <lb ed="#B" n="25"/>senti distin. quod bigamia accipitur quadrupliciter. 
+      <lb ed="#B" n="26"/>Primo dicitur bigamia vnius viri cum plu 
+      <lb ed="#B" n="27"/>ribus vxoribus simul coniunctio. Secundo di 
+      <lb ed="#B" n="28"/>citur bigamia vnius vxoris cum multis viris 
+      <lb ed="#B" n="29"/>simul. Tertio acceptio plurium vxorum suc 
+      <lb ed="#B" n="30"/>cessiue / aut plurium virorum successiue. Quat 
+      <lb ed="#B" n="31"/>to acceptio vxoris quae habuit alium virum: et 
+      <lb ed="#B" n="32"/>tunc applicat ad suum propositum: et dicit quod 
+      <lb ed="#B" n="33"/>duae vltimae non sunt contra ius naturale. quia 
+      <lb ed="#B" n="34"/>alio coniuge mortuo soluitur vinculum communiu 
+      <lb ed="#B" n="35"/>gale: et persona redditur legitima ad contrahaen 
+      <lb ed="#B" n="36"/>dum: et possunt concurrere omnes causae quae assignam 
+      <lb ed="#B" n="37"/>tur in hoc sacramento. Secundum vero est contra 
+      <lb ed="#B" n="38"/>ius naturale. scilicet quod vna mulier simul habe 
+      <lb ed="#B" n="39"/>at plures viros. De primo diciti / quod si ius 
+      <lb ed="#B" n="40"/>naturale intelligitur pro regulis rationis: 
+      vi<lb ed="#B" n="41" break="no"/>detur quod sit contra ius nature: quia exquo ali 
+      <lb ed="#B" n="42"/>quis semel suum corpus dedit vni: ultra 
+      da<lb ed="#B" n="43" break="no"/>re non potest alteri. Dimissa sua applicatione 
+      <lb ed="#B" n="44"/>de qua in secundo videbitur articulo: Arguo 
+      <lb ed="#B" n="45"/>contra suum quaternarium tripliciter: quaesiuit 
+      <lb ed="#B" n="46"/>enim quattuor / vbi solum tria sunt locata: aut 
+      <lb ed="#B" n="47"/>uvltra quaternarium / ita quod superfluus aut 
+      di<lb ed="#B" n="48" break="no"/>minutus apparet. Primo dicit quod secundus 
+      <lb ed="#B" n="49"/>modus bigamiae est: quando vna mulier habet simul 
+      <!--841.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>multos viros. Contra hoc obiicitur: quia contra 
+      <lb ed="#B" n="51"/>dicit noin. Hoc enim nomen bigamus vt sonat 
+      <lb ed="#B" n="52"/>et dictum est: est quando vir habet binas gomos: 
+      <lb ed="#B" n="53"/>id est mulieres. Itde dicit doc. sub. 1. 1. q. possent 
+      <lb ed="#B" n="54"/>tis dist. quod si vna mulier haberet piltlures 
+      vi<lb ed="#B" n="55" break="no"/>ros: tunc esset biuiria / non autem bigama. Secundo 
+      <lb ed="#B" n="56"/>arguitur sic: quando venit ad tertium modum / dicit 
+      <lb ed="#B" n="57"/>tertio vt successiue vnum accipre palures 
+      vxo<lb ed="#B" n="58" break="no"/>res / vel econuerso. Quaero autem: quare non ita fe 
+      <lb ed="#B" n="59"/>cit duos modos de isto tertio sicut de primo. 
+      <lb ed="#B" n="60"/>Sicut enim dicit quod primus modus est / quando vnus vir 
+      <lb ed="#B" n="61"/>habet multas aut plures mulieres: secundus 
+      <lb ed="#B" n="62"/>quando econuerso sic potuit et debuit / si ex arte 
+      <lb ed="#B" n="63"/>processit dicere. Tertius est quando vnus vir ha 
+      <lb ed="#B" n="64"/>bet successiue plures vxores. Et quartus  
+      <lb ed="#B" n="65"/>econuerso. Non est alia causa nisi quia si duos pri 
+      <lb ed="#B" n="66"/>mos modos conlunxisset: ad suum non venisset 
+      <lb ed="#B" n="67"/>quaternarium / sed in ternario quieuisset. Si 
+      <lb ed="#B" n="68"/>vero tertium et primum dimisisset / transcendisset 
+      <lb ed="#B" n="69"/>quaternarium et venisset quinarius: vnde pates 
+      <lb ed="#B" n="70"/>aut eius diminutum aut superfluum. Tertio il 
+      <lb ed="#B" n="71"/>la diuisio non est bona quae totum non euacuat 
+      <lb ed="#B" n="72"/>diuisum: sed hic quateruarius est huiusmodi: igitur. 
+      Ma<lb ed="#B" n="73" break="no"/>ior patet. Si entim diuido animal per rationale et ir 
+      <lb ed="#B" n="74"/>rationale: opertet quod animal nullo modo repartum sit in 
+      <lb ed="#B" n="75"/>isto aut in illo. Minor probatur per iura 
+      discur<lb ed="#B" n="76" break="no"/>rendo: ostendendo quod sunt plures modi 
+      biga<lb ed="#B" n="77" break="no"/>miae quam sint isti quattuor si bene distinguantur: vnde 
+      <lb ed="#B" n="78"/>fratur Landulphus septem assignat modos 
+      bi<lb ed="#B" n="79" break="no"/>gamiae / soluendo secundam. q. praesentis di. et hos 
+      <lb ed="#B" n="80"/>leptem ad tres binarios est congruum deducere. 
+      <lb ed="#B" n="81"/>Primus modus est: si quis de facto vel de iure 
+      <lb ed="#B" n="82"/>cum vidua vel corrupta contrahit: intellige si 
+      <lb ed="#B" n="83"/>carnalis copula sequitur. dist. 33. maritum: et ex 
+      <lb ed="#B" n="84"/>tra de bigamis. nuper. Secundus: quae violat 
+      casti<lb ed="#B" n="85" break="no"/>tatem promissam in voto solenni. 27. q. 1. 
+      quot<lb ed="#B" n="86" break="no"/>quot. Et pro quo facit ca. modo acho. Ecce 
+      pri<lb ed="#B" n="87" break="no"/>mus binarius Tertius modus est: bigamus est 
+      <lb ed="#B" n="88"/>qui duas habet vxores diuersis temporibus. dist. 26.  
+      <lb ed="#B" n="89"/>c. deinde: et. c. acutius. Quartus: bigamus in 
+      <lb ed="#B" n="90"/>quo simul habet duas vxores. dist. 34. 
+      christia<lb ed="#B" n="91" break="no"/>no: en secundus binarius. Quintus bigamus est: qua 
+      <lb ed="#B" n="92"/>credit contrahere cum vergine si corruptam 
+      in<lb ed="#B" n="93" break="no"/>ueniat si eam cognoscat: de hoc distin. 51. quae s 
+      <lb ed="#B" n="94"/>aliqua. Sextus bigamus est: qui mortua 
+      vxo<lb ed="#B" n="95" break="no"/>ee quam virginem duxit: si ordinatus in 
+      sa<lb ed="#B" n="96" break="no"/>cris postea de facto contrahat / bigamus 
+      re<lb ed="#B" n="97" break="no"/>pi:tatur propter affectum intentionis cum opre 
+      sub<lb ed="#B" n="98" break="no"/>secuto. extra de bigamis: nuper.
+</p>
+               <p xml:id="WuV37d-f90566-d1e638">
+¶ Tertius 
+      <!--842.xml-->
+      <pb ed="#B" n="413-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>terminus est libellus repudii. De li 
+      <lb ed="#B" n="2"/>bello repudii habetur. Si acceperit 
+      ho<lb ed="#B" n="3" break="no"/>mo vxorem et habuerit eam et non 
+      inuene<lb ed="#B" n="4" break="no"/>cit gratiam ante oculos eius: propter aliquam 
+      <lb ed="#B" n="5"/>seditatem (in hebreo habetur propter rem turpen 
+      <lb ed="#B" n="6"/>scribat libellum repudii et dabit in manu 
+      il<lb ed="#B" n="7" break="no"/>lius: et dimittet eam de domo sua: vbi tria 
+      <lb ed="#B" n="8"/>brevissime occurrunt. Primum quare dici 
+      <lb ed="#B" n="9"/>tur libellus et non liber. Secundum quare 
+      di<lb ed="#B" n="10" break="no"/>citur repudii. Tertium quae sunt ille 
+      fedita<lb ed="#B" n="11" break="no"/>tes propter quas dabatur sibi libellus. Ad  
+      <lb ed="#B" n="12"/>primum dicendum quod propter paucitatem 
+      scri<lb ed="#B" n="13" break="no"/>pturae dicit libellus diminutiue a libro: sed 
+      <lb ed="#B" n="14"/>que erat scriptura talis vt dicit iosephus. Pro 
+      <lb ed="#B" n="15"/>mitto tibi quod numquam tecum conueniam. Ad secun 
+      <lb ed="#B" n="16"/>dum dicendum quod repudium tripliciter 
+      exponi<lb ed="#B" n="17" break="no"/>tur. Primo vt descendat a reuoueo et po 
+      <lb ed="#B" n="18"/>dium dii: quod est baculus sustinens 
+      quasi<lb ed="#B" n="19" break="no"/>repodium: sic vir est sustentamentum 
+      muli<lb ed="#B" n="20" break="no"/>eris: et quia se sibi remouebat dicitur 
+      repu<lb ed="#B" n="21" break="no"/>dium. Secundo dicitur vt descendit a retro et 
+      <lb ed="#B" n="22"/>pes pedis quasi repedium: quia tunc muliet 
+      <lb ed="#B" n="23"/>retro pedes viri ponebatur: quia vir plus 
+      <lb ed="#B" n="24"/>non curabat de ea. Tertio dicitur vt 
+      descen<lb ed="#B" n="25" break="no"/>dit a refuto tas: et edes edis: quasi refudi 
+      <lb ed="#B" n="26"/>um: quia tunc refutabatur sibi edes viri. 
+      <lb ed="#B" n="27"/>Ad tertium dicit frater nicolaus de lira in lo 
+      <lb ed="#B" n="28"/>co praesato quod aliquae erant in corpore vt lepra: 
+      <lb ed="#B" n="29"/>morbus caducus etc. aliqua in anima vt idola 
+      <lb ed="#B" n="30"/>tria etc. Et tantum de primo articulo. 
+      <lb ed="#B" n="31"/>Quantum ad secundum 
+      articu<lb ed="#B" n="32" break="no"/>lum sunt 
+      <lb ed="#B" n="33"/>tres conclusiones iuxta tres leges quae tacte sunt 
+      <lb ed="#B" n="34"/>in diuisione textus. prima de lege naturae 
+      <lb ed="#B" n="35"/>secunda de lege gratiae. tertia de lege moy 
+      <lb ed="#B" n="36"/>si.
+</p>
+               <p xml:id="WuV37d-f90566-d1e726">
+¶ Prima conclusio est haec. plures vxo 
+      <lb ed="#B" n="37"/>res simul habere obdei cultum sanctis patribus 
+      <lb ed="#B" n="38"/>extitit licitum. Ista conclusio probatur. 32. q. 4. ca. 
+      <lb ed="#B" n="39"/>1. et. 3. et ratio fundamentalis doctoris subti. 
+      <lb ed="#B" n="40"/>q. 1. est haec. Illud est licitum in quo seruatur 
+      <lb ed="#B" n="41"/>equiualentia iusticiae ad debitum finem princi 
+      <lb ed="#B" n="42"/>palem: ex diuina dispefisatione: ita est hic 
+      <lb ed="#B" n="43"/>Maior patet de se: quia praeponderari debet 
+      <lb ed="#B" n="44"/>finis principalior fini minus principa li. 
+      <lb ed="#B" n="45"/>Minor patet quia vnus sanctus pater 
+      fecun<lb ed="#B" n="46" break="no"/>dabat plures ad hunc finem praecise vt 
+      am<lb ed="#B" n="47" break="no"/>pliaretur cultus dei: quia paucus erat et praesum 
+      est<lb ed="#B" n="48" break="no"/>dum quod deo inspirante fiebat et dictante. Ex quo 
+      <lb ed="#B" n="49"/>infertur quod paucitas cultus dei fuit ratio dispen 
+      <!--842.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>sationis: vt vnus plures haberet triplici 
+      <lb ed="#B" n="51"/>ratione. Prima quia tunc erat maxima mul 
+      <lb ed="#B" n="52"/>titudo infidelium et pauca fidelium. 
+      Secun<lb ed="#B" n="53" break="no"/>do quia tunc concurrebant simul multiplicatio 
+      <lb ed="#B" n="54"/>spiritualis et carnalis: qui enim generabantur 
+      <lb ed="#B" n="55"/>carnaliter ad hoc erant vt essent de popu 
+      <lb ed="#B" n="56"/>lo dei: et sic multiplicabatur populus fideli 
+      <lb ed="#B" n="57"/>um. Tum tertio propter misterium: quia alio 
+      <lb ed="#B" n="58"/>modo debuit deus contrahere cum populo 
+      ca<lb ed="#B" n="59" break="no"/>tholico quam cum illis: quia cum ecclesia fidelium 
+      <lb ed="#B" n="60"/>debuit contrahere per charitatem et fidem: et 
+      <lb ed="#B" n="61"/>ad hoc signandum licuit vnum virum 
+      copula<lb ed="#B" n="62" break="no"/>ri multis mulieribus: ideo tunc diminutum 
+      <lb ed="#B" n="63"/>fuit ius mulieris propter maius bonum. 
+      <lb ed="#B" n="64"/>Ex quo sequitur primo quod bono fidei integro 
+      <lb ed="#B" n="65"/>secundum affirmatiuam et negatiuam non fuit licitum 
+      <lb ed="#B" n="66"/>virum multas habere vxores. probatur. Illud 
+      <lb ed="#B" n="67"/>non est licitum secundum strictam iusticiam commutati 
+      <lb ed="#B" n="68"/>uam quod non attendit equiualentiam in 
+      contra<lb ed="#B" n="69" break="no"/>ctu: ita est hic: quia corpus viri non equa 
+      <lb ed="#B" n="70"/>let duobus corporibus faeminarum in red 
+      <lb ed="#B" n="71"/>dendo debitum: immo in hoc sunt pares vir 
+      <lb ed="#B" n="72"/>et faemina. Et corroboratur tripliciter. Primo 
+      <lb ed="#B" n="73"/>quia lege equitatis quod est venditum aut datum 
+      <lb ed="#B" n="74"/>vni alteri nequit aut dari aut vendi. Tum 
+      <lb ed="#B" n="75"/>secundo quia lege equitatis vir non diet aliquid 
+      <lb ed="#B" n="76"/>facere quo impediatur ne vxori petenti 
+      de<lb ed="#B" n="77" break="no"/>bitum soluat: quod faceret si aliam duceret: illa 
+      <lb ed="#B" n="78"/>enim tunc petere potest: supponitur enim quod 
+      vtri<lb ed="#B" n="79" break="no"/>que equaliter sit obligatus. Tum tertio quia ex 
+      <lb ed="#B" n="80"/>lege equitatis est: quod homo in domo sua non 
+      <lb ed="#B" n="81"/>faciat vnde turbetur pax: et veniat discordia 
+      <lb ed="#B" n="82"/>nisi sit maius bonum: sed sic fit in proposito: patet 
+      <lb ed="#B" n="83"/>triplici exemplo. Primo in domo abrae 
+      <lb ed="#B" n="84"/>de sara et agar. Secundo in domo iacob 
+      <lb ed="#B" n="85"/>de lia et rachele. Tertio in domo socratis 
+      <lb ed="#B" n="86"/>de xantipe et sua coriuali. Ex quosecundo 
+      <lb ed="#B" n="87"/>se quitur quod habere prolem est finis principalior 
+      <lb ed="#B" n="88"/>quam reddere debitum patet: quia propter istum 
+      <lb ed="#B" n="89"/>habendum diminuitur de alio: ex quo patet: quod 
+      <lb ed="#B" n="90"/>mulier debet multum gaudere quod priuetur: 
+      <lb ed="#B" n="91"/>aut ex toto aut ex parte debito quod est 
+      fi<lb ed="#B" n="92" break="no"/>nis minus principalis: vt finis principa lior 
+      <lb ed="#B" n="93"/>habeatur vnde et sara videns quod concipere non po 
+      <lb ed="#B" n="94"/>terat: quasi coegit abraam vt intraret ad an 
+      <lb ed="#B" n="95"/>cillam eius: et hoc modo seruatur equiualens 
+      <lb ed="#B" n="96"/>iusticia: corpus tantum viri hoc modo multis  
+      <lb ed="#B" n="97"/>corporibus equiualet fem inarum: vnus tntum 
+      <lb ed="#B" n="98"/>multas potest secundare sed non vna a pluribus 
+      <!--843.xml-->
+      <pb ed="#B" n="413-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>vnde sequitur quod redditio debiti dum petitur et af 
+      <lb ed="#B" n="2"/>firmatiue et negatiue non est de iure 
+      natu<lb ed="#B" n="3" break="no"/>rae ad modum mathematicorum veritatum: sed 
+      <lb ed="#B" n="4"/>naturalium: licet non possit in hoc 
+      dispensa<lb ed="#B" n="5" break="no"/>re nisi deus qui contractum constituit: vnde in 
+      <lb ed="#B" n="6"/>quit scotus quod si aut cladis aut belli ratio 
+      <lb ed="#B" n="7"/>ne pauci mares remanerent: et multe mu 
+      <lb ed="#B" n="8"/>lieres: debent velle mulieres sibi 
+      subtra<lb ed="#B" n="9" break="no"/>hi de debito: vt finis principalior habere 
+      <lb ed="#B" n="10"/>tur: nec tamen sic deberent contrahere 
+      ni<lb ed="#B" n="11" break="no"/>si habita dispensatione diuina: et addit qua 
+      <lb ed="#B" n="12"/>forte tunc fieret et ecclesiae tunc specialiter 
+      <lb ed="#B" n="13"/>reuelaretur vbi dicit fr Hugo de nouo ca 
+      <lb ed="#B" n="14"/>stro. Sed deus forte posset non velle 
+      plu<lb ed="#B" n="15" break="no"/>rificationem ampliorem fidelium vel toti 
+      <lb ed="#B" n="16"/>igeneris humani: Frater landulphus dicit 
+      <lb ed="#B" n="17"/>in casu isto: credo licere vni plures 
+      habe<lb ed="#B" n="18" break="no"/>e 
+      <lb ed="#B" n="19"/>quia longe maior cultus est in christianis 
+      <lb ed="#B" n="20"/>mo ipsius cultus dei quam in iudaismo vbi 
+      <lb ed="#B" n="21"/>dispensabat. Ecce quomodo dubie loquente ma 
+      <lb ed="#B" n="22"/>gistro diuersificantur eius duo discipuli 
+      <lb ed="#B" n="23"/>vnus loquens affirmatiue et reliquus 
+      ne<lb ed="#B" n="24" break="no"/>gatiue. Ex quo tertio infertur quod secundum rectam 
+      <lb ed="#B" n="25"/>rationem deo ratificante contractum omni 
+      <lb ed="#B" n="26"/>tempore potest esse licitum plures habere 
+      <lb ed="#B" n="27"/>vxores. patet: quia ex toto est iste 
+      contra<lb ed="#B" n="28" break="no"/>ctus inter manus eius. Sed vsque ad quod 
+      <lb ed="#B" n="29"/>tempus decuit haec dispensatio? Dicit frater 
+      <lb ed="#B" n="30"/>hugo. q. 1. vsque ad tempus gratiae. Et tantum de pri 
+      <lb ed="#B" n="31"/>na conclusione.
+</p>
+               <p xml:id="WuV37d-f90566-d1e941">
+¶ Secunda conclusio 
+      <lb ed="#B" n="32"/>est de lege gratiae: et est haec: Et si bigam 
+      <lb ed="#B" n="33"/>ante aut post baptismum existat irregularem 
+      <lb ed="#B" n="34"/>non tamen ante baptismum homicida. Pris 
+      <lb ed="#B" n="35"/>ma pars dicit: quod bigamus aut ante baptismum 
+      <lb ed="#B" n="36"/>aut post est irregularis. probatur. Tum 
+      <lb ed="#B" n="37"/>primo dist. 26. Acutius: et quotatur 
+      aug<lb ed="#B" n="38" break="no"/>super epistolam ad titum. Acutius intelligunt 
+      <lb ed="#B" n="39"/>qui nec eum qui cathecuminus vel paga 
+      <lb ed="#B" n="40"/>nus habuit vnam: et post baptismum alteram 
+      <lb ed="#B" n="41"/>ordinandum censuerunt. Tum secundo ibi 
+      <lb ed="#B" n="42"/>dem capitulo vna tantum: et quotatur Ambro. li. 
+      <lb ed="#B" n="43"/>de officiis ante baptisma iterata commuiugia 
+      <lb ed="#B" n="44"/>praerogatiua ordinationis impedimenta 
+      <lb ed="#B" n="45"/>generant. Tum tertio dist. 33. maritum. Si 
+      <lb ed="#B" n="46"/>tamen clericus qui per bigamiam 
+      irregu<lb ed="#B" n="47" break="no"/>laris efficitur priuilegium retineat 
+      cleri<lb ed="#B" n="48" break="no"/>cale: dubium est propter illud capitulum. 34. dist. 
+      <lb ed="#B" n="49"/>Si subdiaconus: vbi dicitur sic: illud tamen re¬ 
+      <!--843.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>uocatum est extra lib. 6. de biga. ca. Unico: 
+      <lb ed="#B" n="51"/>vnde ibi dicitur quod clerici bigami ipso iure 
+      ca<lb ed="#B" n="52" break="no"/>dun a priuilegio et tonsura et habitum 
+      cleri<lb ed="#B" n="53" break="no"/>cali et foro seculari sunt adiecti. Est tamen 
+      <lb ed="#B" n="54"/>dubium de bigamis secundo modo acceptis 
+      <lb ed="#B" n="55"/>in primo arti. scilicet de violante castitatem 
+      pro<lb ed="#B" n="56" break="no"/>fessam si sit irregularis. textus enim. 27. q. 
+      <lb ed="#B" n="57"/>1. quotunt. dicit quod sit irregularis. vbi glo. 
+      <lb ed="#B" n="58"/>repellantur a promotione sicut bigami: 
+      <lb ed="#B" n="59"/>propter similem enim effectum ille coputa 
+      <lb ed="#B" n="60"/>tur in numero illorum de quorum numero 
+      <lb ed="#B" n="61"/>non est: idem etiam habetur expresse in glo 
+      <lb ed="#B" n="62"/>sa bernardi. extra de biga. capitulo. 1. vbi 
+      di<lb ed="#B" n="63" break="no"/>cit quod omnes isti bigami reputantur quantum ad 
+      <lb ed="#B" n="64"/>legem promotionis. Dicit tamen frater 
+      lan<lb ed="#B" n="65" break="no"/>dulphus: non teneo quod frangens votum 
+      ca<lb ed="#B" n="66" break="no"/>stitatis sit bigamus. Si quis tamen fran 
+      <lb ed="#B" n="67"/>geret votum publice cum notabili scanda: 
+      <lb ed="#B" n="68"/>lo non esset de congruo ordinandus: et quae 
+      <lb ed="#B" n="69"/>ad hoc posset dici bigamus: quia plectitur 
+      <lb ed="#B" n="70"/>poena bigamorum. Et si dicat quis non 
+      pos<lb ed="#B" n="71" break="no"/>se ante baptismum irregularitatem contrahi 
+      <lb ed="#B" n="72"/>quia tunc habitus inesse non potest: non 
+      <lb ed="#B" n="73"/>enim potest quis ante baptismum ordinari: extra 
+      <lb ed="#B" n="74"/>de praesu vtero non ordina. ca. 1. Dicendum quod et 
+      <lb ed="#B" n="75"/>si tunc priuatio inesse non possit: tamen impe 
+      <lb ed="#B" n="76"/>dimentum. tunc potest esse quo impediatur habi 
+      <lb ed="#B" n="77"/>tus ne insit tempore quo potuisset inesse: sicut 
+      <lb ed="#B" n="78"/>catulus ante nonum dicit licet non sit neque 
+      ce<lb ed="#B" n="79" break="no"/>cus neque videns: tamen ante nonum dicit potest habe 
+      <lb ed="#B" n="80"/>re impedimentum quo etiam post nonum diem 
+      <lb ed="#B" n="81"/>non videat: sic in proposito. Sed vt secun 
+      <lb ed="#B" n="82"/>da pars conclusionis cum ista habeatur quae 
+      <lb ed="#B" n="83"/>causa est vnde homicida ante baptismum pos 
+      <lb ed="#B" n="84"/>sit ordinari post baptismum: sicut expresse 
+      <lb ed="#B" n="85"/>habetur in glo. 50. dist. Si quis viduam: vbi 
+      <lb ed="#B" n="86"/>super illud verbum: post baptismum: glosa 
+      ar<lb ed="#B" n="87" break="no"/>guit a contrario sensu: ergo si ante 
+      baptis<lb ed="#B" n="88" break="no"/>mum conscius est homicidii non obest: non sic 
+      <lb ed="#B" n="89"/>autem de bigamo dimissa congruitate quae est 
+      <lb ed="#B" n="90"/>quia christus spopsus vnam habet sponsam 
+      <lb ed="#B" n="91"/>ecclesiam quod bigamus non designat: sed po 
+      <lb ed="#B" n="92"/>tius oppositum: quae causa necessitatis 
+      tri<lb ed="#B" n="93" break="no"/>plex est opinio. prima Bartho. brixien. in 
+      <lb ed="#B" n="94"/>decretis dist. 26. super illo ca. Deinde 
+      op<lb ed="#B" n="95" break="no"/>ponitur: haec dicit quod in baptismo solum delet 
+      <lb ed="#B" n="96"/>peccatum: et poena peccati proprii: ideo homicidium potest 
+      <lb ed="#B" n="97"/>deleri et quo ad culpam et quo ad poenam: bi 
+      <lb ed="#B" n="98"/>gamia autem nec est peccatum: nec poena peccati proprii. 
+      <!--844.xml-->
+      <pb ed="#B" n="414-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>Sed contra quia iudex potest occidere 
+      iu<lb ed="#B" n="2" break="no"/>ste: et tamen fiet irregularis. ergo secundum hoc 
+      <lb ed="#B" n="3"/>non dimitteretur huiusmodi irregularitas in 
+      ba<lb ed="#B" n="4" break="no"/>ptismo: quia nec est peccatum nec poena pro 
+      <lb ed="#B" n="5"/>prii peccati. Basianus glosator. vt notat 
+      <lb ed="#B" n="6"/>dist. vo. Si quis viduam. super illo verbo: 
+      <lb ed="#B" n="7"/>post baptismum: hoc concedit. Sed in con 
+      <lb ed="#B" n="8"/>trarium obiicitur: quia tunc melior esset conditio 
+      <lb ed="#B" n="9"/>peccantis quam non peccantis in eodem actu: 
+      <lb ed="#B" n="10"/>Prixien. vbi supra respondet quod hoc modo hoc 
+      <lb ed="#B" n="11"/>homicidium est peccatum: quia nisi essent cit 
+      <lb ed="#B" n="12"/>cunstantiae foret peccatum: et hoc sufficit vt 
+      <lb ed="#B" n="13"/>genus non exeat peccati speciem: neque 
+      de<lb ed="#B" n="14" break="no"/>let baptismus poenas peccati originalis: 
+      <lb ed="#B" n="15"/>quia non sunt poenae peccati proprii. Contra 
+      <lb ed="#B" n="16"/>tum primo bigamus ante baptismum contra 
+      <lb ed="#B" n="17"/>hat indebite. igitur secundum hanc responsionem 
+      <lb ed="#B" n="18"/>tolletur irregularitas in baptismo. Tum 
+      secun<lb ed="#B" n="19" break="no"/>do Aug. 26. dist. acutius faemina: si cathe 
+      <lb ed="#B" n="20"/>cumina viciata est non potest post 
+      baptis<lb ed="#B" n="21" break="no"/>mum inter dei virgines consecrari: et tamen 
+      <lb ed="#B" n="22"/>possibile est illam corruptionem ante 
+      baptis<lb ed="#B" n="23" break="no"/>mum fuisse peccatum. igitur illud peccatum non dele 
+      <lb ed="#B" n="24"/>tur quantum ad poenas proprias corresponden 
+      <lb ed="#B" n="25"/>tes sibi. Tum tertio: quia si ex ista ratione 
+      <lb ed="#B" n="26"/>esset irregularitas in bigamia: quia non est pec 
+      <lb ed="#B" n="27"/>catum nec lequaela ecclesia non posset istam 
+      irre<lb ed="#B" n="28" break="no"/>gularitatem tollere: quia non potest bigamie tri 
+      <lb ed="#B" n="29"/>buere quod sit ex se peccatum: sed sequela pec 
+      <lb ed="#B" n="30"/>cati. Secunda opinio est nicola furiosi vt 
+      <lb ed="#B" n="31"/>notari videtur dist. 5o. Quicumque. Sicut est 
+      <lb ed="#B" n="32"/>duplex infamia vna ex natura actus quam 
+      <lb ed="#B" n="33"/>nec ecclesia nec baptismus potest tollere. 
+      <lb ed="#B" n="34"/>Alia ex statuto ecclesie quam potest tollere sio 
+      <lb ed="#B" n="35"/>duplex irregularitas. Primam habet bigamus: 
+      <lb ed="#B" n="36"/>quia non representat christum vt sposum vnius 
+      <lb ed="#B" n="37"/>Secundam habet homicida: ideo secunda 
+      <lb ed="#B" n="38"/>potest tolli non prima. Sed contra quia 
+      marti<lb ed="#B" n="39" break="no"/>nus lectorem qui duxit viduam concessit in sub 
+      <lb ed="#B" n="40"/>sidiaconum promoueri. 34. lector. Et lucius 
+      <lb ed="#B" n="41"/>cum quodam bigamo vt esset panormita 
+      <lb ed="#B" n="42"/>nus episcopus. Ideo tertia opinio est doc. sub. 
+      di<lb ed="#B" n="43" break="no"/>centis. quod causa quare vna irregularitas 
+      <lb ed="#B" n="44"/>deletur in baptismo: reliqua non est statutum 
+      <lb ed="#B" n="45"/>ecclesie: quia in baptismo deletur horror sangui 
+      <lb ed="#B" n="46"/>nis in homicida: bigamus vero non 
+      sem<lb ed="#B" n="47" break="no"/>per significat christum sponsum vnius ecclesie. 
+      <lb ed="#B" n="48"/>Et tantum de secunda conclusione.
+</p>
+               <p xml:id="WuV37d-f90566-d1e1204">
+¶ Tertia 
+      <lb ed="#B" n="49"/>conclusio est de lege mosaica. et est haec 
+      <!--844.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>Sic permissus est in lege libellus repudii. 
+      <lb ed="#B" n="51"/>vt tamen foret licitus. probatur. tum primo autorto 
+      <lb ed="#B" n="52"/>ritate Aug. ad Hierony. Si in diuins 
+      scri<lb ed="#B" n="53" break="no"/>pturis admissa fuerint mendacia: quid in eis 
+      <lb ed="#B" n="54"/>remanebit auctoritatis: q. d. nihil. Eodem 
+      <lb ed="#B" n="55"/>modo si diuina scriptura permittit positiue 
+      <lb ed="#B" n="56"/>aliquod malum totum est suspectum. Tum 
+      se<lb ed="#B" n="57" break="no"/>cundo quia alas lex dedisset occasionem pec 
+      <lb ed="#B" n="58"/>candi mortaliter: quia non visum fuisset fa 
+      <lb ed="#B" n="59"/>cienti quod malum faceret. Tum tertio quia mov 
+      <lb ed="#B" n="60"/>ses promulgauit legem dei ideo quos com 
+      <lb ed="#B" n="61"/>iunctos pronunciauit coniuncti erant et quos 
+      <lb ed="#B" n="62"/>separatos separati erant. Et si dicatur. Con 
+      <lb ed="#B" n="63"/>tra. Tum primo autortoritate domini dicentis. 
+      <lb ed="#B" n="64"/>phariseis quod non licet vxorem dimittere: et 
+      <lb ed="#B" n="65"/>quod permissum fuerit duritie cordis eorum 
+      <lb ed="#B" n="66"/>vbi glosa Permisit moyses et non deus et 
+      <lb ed="#B" n="67"/>consilium fuit hominis non diuinum imperi 
+      <lb ed="#B" n="68"/>um. Tum secundo autortoritate magistri in lit 
+      <lb ed="#B" n="69"/>tera: hoc fuit a moyse permissum: non vt 
+      <lb ed="#B" n="70"/>concederetur diuortiu: sed vt tolleretur ho 
+      <lb ed="#B" n="71"/>micidium. Tum tertio autortoritate aug. in 
+      <lb ed="#B" n="72"/>li. de sermone domini in monte: quod qui 
+      praece<lb ed="#B" n="73" break="no"/>pit dare libellum repudii / non praecepit 
+      <lb ed="#B" n="74"/>vxorem dimitti: sed vt iracundiam 
+      teme<lb ed="#B" n="75" break="no"/>rariam libelli concessione temperaret. Ad  
+      <lb ed="#B" n="76"/>primum dicendum quod christus damnauit li 
+      <lb ed="#B" n="77"/>bellum repudii pro lege naturae et euange 
+      <lb ed="#B" n="78"/>lica non pro lege mosa vca. Et cum dicit 
+      glo<lb ed="#B" n="79" break="no"/>sa. quod hominis et non dei verum est immediate: 
+      <lb ed="#B" n="80"/>sed ille homo fuit praeco dei. Et nota quod fuit so 
+      <lb ed="#B" n="81"/>la permissio licita: sed non praecepta: ideo in 
+      <lb ed="#B" n="82"/>solo deutero. locutus est moyses de libel 
+      <lb ed="#B" n="83"/>lo repudii: non in aliis libris vbi daban 
+      <lb ed="#B" n="84"/>tur praecepta dei. Ad secundum dicendum quod 
+      <lb ed="#B" n="85"/>magister intendit ad causam quae erat vxo 
+      <lb ed="#B" n="86"/>ricidium vitandum: non tamen dicit diuortium 
+      <lb ed="#B" n="87"/>fuisse simpliciter illicitum. Ad tertium 
+      dicen<lb ed="#B" n="88" break="no"/>dum quod verum dicit aug. deum non praecepisse 
+      di<lb ed="#B" n="89" break="no"/>mittere vxorem: sed permittere: vnde patet ad 
+      <lb ed="#B" n="90"/>illud extra de bigamis: gaudemus. 
+      Repu<lb ed="#B" n="91" break="no"/>dium vxoris veritas in euangelio 
+      reproba<lb ed="#B" n="92" break="no"/>uit. Dicendum quod auctoritas seipsam soluit 
+      <lb ed="#B" n="93"/>non reprobauit christus libellum repudii 
+      <lb ed="#B" n="94"/>pro lege veteri sed euangelio. 
+      <lb ed="#B" n="95"/>Quantum ad tertium articulum 
+      <lb ed="#B" n="96"/>sunt tres 
+      <lb ed="#B" n="97"/>difficultates.
+</p>
+               <p xml:id="WuV37d-f90566-d1e1317">
+¶ Prima vbi bigamia fu 
+      <lb ed="#B" n="98"/>it expressa in nouo testamto. dicit frat franciscus 
+      <!--845.xml-->
+      <pb ed="#B" n="414-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>de maronis in praesenti dist. quod non bene appa 
+      <lb ed="#B" n="2"/>ret nisi vbi dicit paulus. Unusquisque propriam 
+      <lb ed="#B" n="3"/>vxorem habeat. Et similitur cum loquebatur de 
+      <lb ed="#B" n="4"/>matrimonio mistico christi et ecclesie dicit: 
+      <lb ed="#B" n="5"/>Despondi vos vni viro virginem castam exhi 
+      <lb ed="#B" n="6"/>bere christo: vbi tangit ex parte vxoris vni 
+      <lb ed="#B" n="7"/>tatem et integritatem: quae sunt duae causae re 
+      <lb ed="#B" n="8"/>quisite ad hoc ne bigamia contrahatur tamen 
+      <lb ed="#B" n="9"/>per auctoritatem ecclesiae videtur hoc 
+      tra<lb ed="#B" n="10" break="no"/>ditum esse ab apostolis.
+</p>
+               <p xml:id="WuV37d-f90566-d1e1350">
+¶ Secuda dif 
+      <lb ed="#B" n="11"/>ficultas. Quando incepit tempus 
+      dis<lb ed="#B" n="12" break="no"/>pensandi vt vnus plures haberet vxores 
+      <lb ed="#B" n="13"/>Dicit doc. deuo. tria tempora. tertia quaestione 
+      <lb ed="#B" n="14"/>primi articuli. Tempus naturae institute: 
+      <lb ed="#B" n="15"/>destitute et gratiae: et solum fuit in medio. 
+      </p>
+               <p xml:id="WuV37d-f90566-d1e1363">
+                  <lb ed="#B" n="16"/>¶ Tertia difficultas. Quid sensiit 
+      do<lb ed="#B" n="17" break="no"/>ctor subtilis de libello repudii: vtrum sit 
+      li<lb ed="#B" n="18" break="no"/>citus: aut solum permissus? Dicendum quod 
+      <lb ed="#B" n="19"/>in hac materia gladius delphicus est hinc 
+      <lb ed="#B" n="20"/>inde scindens: vt patet in vltima quaestione 
+      <lb ed="#B" n="21"/>praesentis dist. et ante eum in eadem dist. frater ri 
+      <lb ed="#B" n="22"/>char. de media villa articu. 3. q. 1. soluens 
+      <lb ed="#B" n="23"/>hincinde rationes. frater vero landulphus 
+      <lb ed="#B" n="24"/>et frater hugo de nouo castro asserunt 
+      sim<lb ed="#B" n="25" break="no"/>plicitur licitum: nec in hoc scoto contradicunt: sed  
+      <lb ed="#B" n="26"/>capiunt partem eius magis probabilem. Et sic 
+      <lb ed="#B" n="27"/>patet ad questionem vet quod lege naturae biga 
+      <lb ed="#B" n="28"/>mia est licita et libellus repudii. Et tunc ad 
+      <lb ed="#B" n="29"/>argumenta.
+</p>
+               <p xml:id="WuV37d-f90566-d1e1397">
+¶ Ad primum dicendum quod non 
+      <lb ed="#B" n="30"/>est simile: quia habere plures vxores 
+      fu<lb ed="#B" n="31" break="no"/>it propter finem magis principalem: sed  
+      <lb ed="#B" n="32"/>feminam habere plures viros esset 
+      pro<lb ed="#B" n="33" break="no"/>pter finem minus principalem scilicet propter 
+      <lb ed="#B" n="34"/>delectationem.
+</p>
+               <p xml:id="WuV37d-f90566-d1e1410">
+¶ Ad secundum dicendum quod non 
+      <lb ed="#B" n="35"/>est contra legem naturae: capiendo legen natu 
+      <lb ed="#B" n="36"/>rae pro eo quod est consonum dictamini 
+      re<lb ed="#B" n="37" break="no"/>cte rationis: sic est habuisse plures vxores 
+      <lb ed="#B" n="38"/>quando mos erat et deus dispensabat: et opu 
+      <lb ed="#B" n="39"/>positum erat tempore naturae istitute: de quo 
+      <lb ed="#B" n="40"/>currit argumentum: per quod patet de lamech 
+      <lb ed="#B" n="41"/>quod peccauit mortaliter quia nec mos erait 
+      <lb ed="#B" n="42"/>nec in eo deus dispensabat.
+</p>
+               <p xml:id="WuV37d-f90566-d1e1430">
+¶ Ad tertium 
+      <lb ed="#B" n="43"/>dicendum quod illa obligatio erat 
+      indissolu<lb ed="#B" n="44" break="no"/>bilis nisi dispensante deo quod et fecit. No 
+      <lb ed="#B" n="45"/>tandum tamen quando allegatur illud. 34. 
+      <lb ed="#B" n="46"/>dist. Si cuius vxorem. Si in clericatu 
+      mari<lb ed="#B" n="47" break="no"/>s to constituto vxor adulterauit: dato 
+      repu<lb ed="#B" n="48" break="no"/>dio eam dimittere debet: repudio debet 
+      <lb ed="#B" n="49"/>accipi pro diuortio.
+</p>
+            </div>
+            <div xml:id="WuV37d-f90566-Dd1e1449" type="et-conclusiones">
+               <head xml:id="WuV37d-f90566-Hd1e1451">Conclusiones</head>
+               <p xml:id="WuV37d-f90566-d1e1454">
+¶ Ex ista dist. sicut 
+      <!--845.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>ex praecedenti sequuntur tres conclusiones. 
+      <lb ed="#B" n="51"/>Prima conclusio. erat licitum plures ha 
+      <lb ed="#B" n="52"/>here ob dei inclitum cultum valere dicit 
+      con<lb ed="#B" n="53" break="no"/>clusio quod tempore patrum fuit licitum sanctis patribus 
+      <lb ed="#B" n="54"/>plures habere vxores ad cultum dei 
+      multi<lb ed="#B" n="55" break="no"/>plicandum in prole. Et ponitur a principio 
+      di<lb ed="#B" n="56" break="no"/>vsque ad illud ca. Sed numquid sub lege 
+      li<lb ed="#B" n="57" break="no"/>cebat etc.
+</p>
+               <p xml:id="WuV37d-f90566-d1e1478">
+¶ Secunda conclusio plures in le 
+      <lb ed="#B" n="58"/>ge non est prohibitum: plurimas lege non esse 
+      <lb ed="#B" n="59"/>licitum. Dicit conclusio quod in lege moysi non 
+      <lb ed="#B" n="60"/>est prohibitum maxime reges habere plures 
+      <lb ed="#B" n="61"/>vxores: sed legas et non inuenies quod 
+      debe<lb ed="#B" n="62" break="no"/>ant habere plurimas. Et ponitur ab illo c. 
+      <lb ed="#B" n="63"/>Sed nunquid sub lege: vsque ad illud cap. 
+      <lb ed="#B" n="64"/>Melior est autem virginitas etc.
+</p>
+               <p xml:id="WuV37d-f90566-d1e1496">
+¶ Tertia 
+      <lb ed="#B" n="65"/>conclusio. virginitas mentis est maior fe 
+      <lb ed="#B" n="66"/>dere quam carnis entis et melior munere. Di 
+      <lb ed="#B" n="67"/>cit conclusio quod melior est virginitas mentis 
+      <lb ed="#B" n="68"/>quam carnis. Et ponitur ab illo capitulo. 
+      Me<lb ed="#B" n="69" break="no"/>lior est autem virginitas etc. vsque ad finem di 
+      <lb ed="#B" n="70"/>stinctionis.
+</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,654 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 35</title>
+            <author ref="#WilliamDeVaurouillon">William de Vaurouillon</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 35</title>
+               <date when="2021-06-19">June 19, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-bvbVBV">Basel 1510</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-06-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="316-r"/>
+            <cb ed="#B" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="WuV37d-f46667"><!-- l3d35 -->
+            <head xml:id="WuV37d-f46667-Hd1e108">Distinctio 35</head>
+            <div xml:id="WuV37d-f46667-Dd1e111" type="circa-textum">
+               <head xml:id="WuV37d-f46667-Hd1e113">Circa textum</head>
+               <p xml:id="WuV37d-f46667-d1e116">
+                  <lb ed="#B" n="29"/>Distinctio tricesimaquinta 
+      spe<lb ed="#B" n="30" break="no"/>cialiter agit de sex donis spiritus 
+      <lb ed="#B" n="31"/>sancti: nam superius declarauit de 
+      <lb ed="#B" n="32"/>timore. 
+      <lb ed="#B" n="33"/>Ost predicta 
+      <lb ed="#B" n="34"/>diligenter consideran 
+      <lb ed="#B" n="35"/>dum est: in quo diffe 
+      <lb ed="#B" n="36"/>rat sapientia a 
+      scien<lb ed="#B" n="37" break="no"/>tia. De hoc Augustinus ita 
+      <lb ed="#B" n="38"/>ait: Philosophi disputates de etc. 
+      <lb ed="#B" n="39"/>Hic signatur. 35. distinctio huius tertii / 
+      <lb ed="#B" n="40"/>quae sic continuatur ad praecedentes: Nam 
+      <lb ed="#B" n="41"/>postquam in praecedenti distinctione de donis 
+      <lb ed="#B" n="42"/>spiritus sancti determinatum est generaliter / et 
+      <lb ed="#B" n="43"/>de timore specialiter: Nunc in ista distincti 
+      <lb ed="#B" n="44"/>one reliqua comparantur dona aliqualiter. 
+      <lb ed="#B" n="45"/>Et habet diuidi haec distinctio in tres 
+      par<lb ed="#B" n="46" break="no"/>tes principales. In prima scientiae ad sapientiam 
+      <lb ed="#B" n="47"/>ponitur distinctio. In secunda erga donum intel 
+      <!--648.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="48"/>ligentiae ab his est distinctio. In tertia horum 
+      <lb ed="#B" n="49"/>trium per aduersam viam ad caetera claret disiun 
+      <lb ed="#B" n="50"/>ctio. Prima in principio. Secunda ibi: Ostensa dif 
+      <lb ed="#B" n="51"/>ferentia inter sapieiniam etc. Tertia ibi. Et 
+      no<lb ed="#B" n="52" break="no"/>tandum quod intellectus et scientia etc. 
+    </p>
+            </div>
+            <div xml:id="WuV37d-f46667-Dd1e176">
+               <head xml:id="WuV37d-f46667-Hd1e178">Quaestio</head>
+               <p xml:id="WuV37d-f46667-d1e181">
+                  <lb ed="#B" n="53"/>Questio haec docet de vita 
+      con<lb ed="#B" n="54" break="no"/>templatiua et actiua: et habetur a 
+      <lb ed="#B" n="55"/>Scoto persenti dif. q. vnica: et recitat 
+      <lb ed="#B" n="56"/>opinione Thomae. 
+      </p>
+               <p xml:id="WuV37d-f46667-d1e192">
+                  <lb ed="#B" n="57"/>Utrum vita 
+      cotem<lb ed="#B" n="58" break="no"/>platiua quam sapinia regit potior 
+      <lb ed="#B" n="59"/>sit actiua / quam scientia dirigit: Et 
+      <lb ed="#B" n="60"/>ar. quod non / triplici medio.
+</p>
+               <p xml:id="WuV37d-f46667-d1e203">
+¶ Primo sic. Dem 
+      <lb ed="#B" n="61"/>bonum tanto melius quanto communius: sed vita 
+      acti<lb ed="#B" n="62" break="no"/>ua communior est quam vita contemplatiua: ergo extat poti 
+      <lb ed="#B" n="63"/>or. Maior patet: quia bonum comune diuinius 
+      bo<lb ed="#B" n="64" break="no"/>non proprio est. Unde in 1. ethier. scribit philosophus / quod 
+      <lb ed="#B" n="65"/>bonum gentis diuinius est bono vnius hominis. 
+      <lb ed="#B" n="66"/>Non dubium autem quanto aliquid magis deo si 
+      <lb ed="#B" n="67"/>milatur / tanto est melius. Sed probatur minor: 
+      <lb ed="#B" n="68"/>quia vita contemplatiua habenti soli se extem 
+      <lb ed="#B" n="69"/>dit: actiua vero ad omnes ciues.
+</p>
+               <p xml:id="WuV37d-f46667-d1e225">
+¶ Secundo 
+      <lb ed="#B" n="70"/>arg. sic. In omni arte et negocio imperans 
+      <lb ed="#B" n="71"/>nobilior est imparato: sed actiua vita respe 
+      <lb ed="#B" n="72"/>ctu contemplatiuae se habet vt imperans 
+      <lb ed="#B" n="73"/>contemplatiua vero vt imparata: igitur. Maior 
+      <lb ed="#B" n="74"/>patet ex 1. ethicorum: vbi innuitur imperantem 
+      <lb ed="#B" n="75"/>scientiam respectu imparatae dici architectoni 
+      <lb ed="#B" n="76"/>cam: et patet ex eo / quod imperium quid nomi 
+      <lb ed="#B" n="77"/>nat auctoritatis. Sed minor declaratur ex 
+      <lb ed="#B" n="78"/>eodem primo. Dicit enim ibi philosophus / quod politica 
+      <lb ed="#B" n="79"/>quae pertinet actiuae vitae: imperat quae scientiae in 
+      <lb ed="#B" n="80"/>qualibet debent addisci ciuitate / et vsque ad  
+      <lb ed="#B" n="81"/>quem terminum.
+</p>
+               <p xml:id="WuV37d-f46667-d1e255">
+¶ Tertio arg. sic. Quanto 
+      <lb ed="#B" n="82"/>aliquid magis concurrit vt sit dei coope 
+      <lb ed="#B" n="83"/>rator / tanto potius est. Sed vita actiua 
+      <lb ed="#B" n="84"/>magis est huiusmodi quam vita contemplatiua: igi 
+      <lb ed="#B" n="85"/>tur etc. Maior patet auctoritate diuini 
+      <lb ed="#B" n="86"/>Diony. 3. ca. caelestis hierarchiae. Nihil 
+      in<lb ed="#B" n="87" break="no"/>quit est diuinius quam cooperatorem dei fie 
+      <lb ed="#B" n="88"/>ri. Sed minor ex eo patet: quia in actiua vi 
+      <lb ed="#B" n="89"/>ta homo studet / maxime vt suus saluetur proxi 
+      <lb ed="#B" n="90"/>mus: vnde et propter hoc ab ocio contemplati 
+      <lb ed="#B" n="91"/>onis in exercitium actionis quis reucatur. 
+      </p>
+               <p xml:id="WuV37d-f46667-d1e279">
+                  <lb ed="#B" n="92"/>¶ In oppositum vero est illud euangelis. vbi 
+      <lb ed="#B" n="93"/>doins loquitur. Maria optimam partem 
+      ele<lb ed="#B" n="94" break="no"/>git: quae non auferetur ab ea. Ubi signatur 
+      <!--649.xml-->
+      <pb ed="#B" n="316-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>vita actiua per Martha / et contemplatiua per 
+      <lb ed="#B" n="2"/>mariam.
+</p>
+               <p xml:id="WuV37d-f46667-d1e299">
+¶ In ista quaestione sunt tres articuli. 
+      <lb ed="#B" n="3"/>Primus est terminorum declaratiuus. 
+      <lb ed="#B" n="4"/>Quorum Secundus est quaestionis responsiuus. 
+      <lb ed="#B" n="5"/>Tertius est dubiorum motiuus. 
+      <lb ed="#B" n="6"/>Quo ad primum articulum 
+      ter<lb ed="#B" n="7" break="no"/>mini sunt: 
+      <lb ed="#B" n="8"/>vita / contemplatio / et actio.
+</p>
+               <p xml:id="WuV37d-f46667-d1e315">
+¶ Primus igitur 
+      <lb ed="#B" n="9"/>terminus est vita: de qua lib. 1 distin. 
+      <lb ed="#B" n="10"/>36 a. vi / seu a vigore. Unde triplex reperitur 
+      <lb ed="#B" n="11"/>vita scilicet vegetatiua / animalis / et 
+      intellecti<lb ed="#B" n="12" break="no"/>ua. De intellectiua autem ad praesens est 
+      ser<lb ed="#B" n="13" break="no"/>mo: quam diuinus diffiniens Diony. dicit. 
+      <lb ed="#B" n="14"/>Uita est processio theophaniarum ab ente 
+      <lb ed="#B" n="15"/>quieto et sempiterno. In qua diffinitione 
+      <lb ed="#B" n="16"/>tria tanguntur. Primo genus vitae / dum dicitur / 
+      <lb ed="#B" n="17"/>processio. Solet autem vita accipi tripliciter. 
+      <lb ed="#B" n="18"/>Primo pro esse rei viuentibus: sicut est illud philosophi 
+      <lb ed="#B" n="19"/>l. 2 de anima. Uiuere viuentibus est esse. Secundo 
+      <lb ed="#B" n="20"/>pro habitu: sicut est illud philosophi vitam diffinentis. 
+      <lb ed="#B" n="21"/>Uita est primus et continuus actus viuentis. 
+      Ter<lb ed="#B" n="22" break="no"/>timo accipitur vita pro actu secundo / sicut in 
+      proposi<lb ed="#B" n="23" break="no"/>to: et in idem venit diffinitio habita in 
+      commen<lb ed="#B" n="24" break="no"/>to libri intelligentiarum. Uita inquit est processio 
+      <lb ed="#B" n="25"/>procedens ab ente quieto et sempiterno: et sic 
+      <lb ed="#B" n="26"/>accipitur in proposito. Secundo tangitur obiectum 
+      vi<lb ed="#B" n="27" break="no"/>te / dum dicitur / theophaniarum id est diuinarum appa 
+      <lb ed="#B" n="28"/>ritionum: a talibus quod est deus / et phanos appa 
+      <lb ed="#B" n="29"/>ritio: talibus enim mens maxime viuit. Tertio 
+      <lb ed="#B" n="30"/>tangitur causa efficiens huiusmodi vitae / dum dicitur / ab ente 
+      <lb ed="#B" n="31"/>quieto et sempiterno id est a deo: qui cuncta mouens 
+      <lb ed="#B" n="32"/>et perficiens manet immobilis: est nempe talis vitae prin 
+      <lb ed="#B" n="33"/>cipium.
+</p>
+               <p xml:id="WuV37d-f46667-d1e372">
+¶ Secundus terminus est contemplatio. 
+      <lb ed="#B" n="34"/>Unde Rich de sancto vic. in maiori beniamin con 
+      <lb ed="#B" n="35"/>templationem diffiniens dicit. Contemplatio est 
+      qua<lb ed="#B" n="36" break="no"/>dam mentis perspicacia in sapiente spectacula 
+      <lb ed="#B" n="37"/>cum admiratione suspensa. Haec in lib. de opere 
+      <lb ed="#B" n="38"/>monachorum hugone teste tres praexigit 
+      co<lb ed="#B" n="39" break="no"/>mites: lectionem / meditationem et orationem. Le 
+      <lb ed="#B" n="40"/>ctio enim inquirit: meditatio inuenit: oratio 
+      <lb ed="#B" n="41"/>postulat: sed contemplatio degustat. Lectio 
+      <lb ed="#B" n="42"/>enim solidum cibum ori apponit: meditatio 
+      <lb ed="#B" n="43"/>masticat et frangit: oratio saporem acquirit: 
+      <lb ed="#B" n="44"/>contemplatio est ipsa dulcedo quae iocundat et 
+      <lb ed="#B" n="45"/>reficit. Lectio enim in cortice / meditatio in 
+      <lb ed="#B" n="46"/>adipe / oratio in desiderii postulatione / 
+      con<lb ed="#B" n="47" break="no"/>templatio in adeptae dulcedinis 
+      delectatio<lb ed="#B" n="48" break="no"/>ne. Lego verbi gratia quod dicit apostolus. Si 
+      ha<lb ed="#B" n="49" break="no"/>buero omnem fidem / ita vt montes transferam: cha 
+      <!--649.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>ritatem autem non habueronibil sum. Heditor 
+      <lb ed="#B" n="51"/>quod sit ista charitas quam bona quam suauis: quae 
+      <lb ed="#B" n="52"/>superat omne bonum: dumquam videro ex me eam 
+      <lb ed="#B" n="53"/>me consequi non posse: ad orationis recurro 
+      <lb ed="#B" n="54"/>suffragium: vt concupito contemplatione perfru 
+      <lb ed="#B" n="55"/>ar. Unde vltra notandum quod hac in via sunt tres 
+      <lb ed="#B" n="56"/>binarii seu sex gradus contemplationis: quas fratur 
+      <lb ed="#B" n="57"/>egidius laicus frater et beatissimi Francisci 
+      so<lb ed="#B" n="58" break="no"/>cius tangit: quae sunt: Agnis i vnctio extasis 
+      <lb ed="#B" n="59"/>speculatioigustus et quies. Primo enim per 
+      <lb ed="#B" n="60"/>contemplationem anima ignitur ignita vngitur: 
+      <lb ed="#B" n="61"/>vncta rapitur: rapta speculatur: speculans 
+      de<lb ed="#B" n="62" break="no"/>gustat: degustans quiescit. Unde primus gradus 
+      <lb ed="#B" n="63"/>quo dicitur ignis est vehemens diuini caloris  
+      <lb ed="#B" n="64"/>vel amoris feruor: ex camino eterne et splen 
+      <lb ed="#B" n="65"/>dentis hierusalem flatus. Hunc gradum 
+      ascen<lb ed="#B" n="66" break="no"/>derat qui dicebat: Concaluit cor meum 
+      in<lb ed="#B" n="67" break="no"/>tra me: et in meditatione mea exardescet 
+      <lb ed="#B" n="68"/>ignis. Secundus gradus qui dicitur vnctio 
+      <lb ed="#B" n="69"/>est velut roreus quidam liquor: quae per totam 
+      ani<lb ed="#B" n="70" break="no"/>mam se diffundens: ipsam eruditi corroborati 
+      <lb ed="#B" n="71"/>et confortat: disponens ipsam suauiter ad  
+      <lb ed="#B" n="72"/>veritatis luculentias suscipiendasi ac pari 
+      <lb ed="#B" n="73"/>ter contemplandas: de quo dicit propheta in 
+      <lb ed="#B" n="74"/>Cantis. graduum. Sicut ros hermodo qui descen 
+      <lb ed="#B" n="75"/>dit in montem sion. Tertius deo gradus quae 
+      <lb ed="#B" n="76"/>dicitur extasis seu raptus: est deserto exteri 
+      <lb ed="#B" n="77"/>ori bomine supra se voluptuosa quedam ele 
+      <lb ed="#B" n="78"/>uatio ad superintellectualem diuini amoris 
+      <lb ed="#B" n="79"/>fontem mediantibus sursum actiuis virtutibus 
+      <lb ed="#B" n="80"/>pro viribus se extendens: virtutes autem 
+      sur<lb ed="#B" n="81" break="no"/>sum actiuas humilitatem et puritatem nomino. 
+      <lb ed="#B" n="82"/>De hoc gradum dauid dicit: Ego dixi si 
+      ex<lb ed="#B" n="83" break="no"/>cessu mentis mee. Quartus quae dicitur 
+      specu<lb ed="#B" n="84" break="no"/>latio est beatarum et supercelestiumet soli deo 
+      <lb ed="#B" n="85"/>cibilium diuitiarum intellectualis et affectuals 
+      <lb ed="#B" n="86"/>picia inuestigatio. Hunc gradum ascenderat qua 
+      <lb ed="#B" n="87"/>dicebat. Nos autem reuelata facie dei 
+      glo<lb ed="#B" n="88" break="no"/>riam speculantes: in eandem immaginem 
+      transfor<lb ed="#B" n="89" break="no"/>mamur a claritate in claritatem tanquam a domini 
+      <lb ed="#B" n="90"/>spiritu. Quintus gradus qui dicitur gustus est su 
+      <lb ed="#B" n="91"/>perinestimabilis diuine dulcedinis 
+      praesua<lb ed="#B" n="92" break="no"/>uis quedam et inolita praelibatio ex cellario 
+      <lb ed="#B" n="93"/>spiritus sancti in animas sanctorum. contemplatiuorum 
+      distil<lb ed="#B" n="94" break="no"/>lata. Ad hunc gradum admonemur 
+      ascende<lb ed="#B" n="95" break="no"/>re nobis dum dicitur: Gustate et videte quoniam 
+      <lb ed="#B" n="96"/>suauis est dominus. Sextis gradus quae quaes dicitur et 
+      <lb ed="#B" n="97"/>totius anime: mira quadam et suauis tranquillitas per 
+      <lb ed="#B" n="98"/>infusam in nobis ex frequentia orionis dulcedi¬ 
+      <!--650.xml-->
+      <pb ed="#B" n="317-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>nem concreata. De hoc gradum gemens in libro 
+      <lb ed="#B" n="2"/>confessionum Augustinus dicit. Inquietum est cor meum 
+      <lb ed="#B" n="3"/>domine / donec requiescat inte.
+</p>
+               <p xml:id="WuV37d-f46667-d1e533">
+¶ Tertius tel 
+      <lb ed="#B" n="4"/>minus est actio. de qua in primo dis. 14. vnde 
+      <lb ed="#B" n="5"/>previter de actione loquendo noto: quod actio potest 
+      <lb ed="#B" n="6"/>accipi tripliciter. Uno modo dicitur actio primum princi 
+      <lb ed="#B" n="7"/>pium apud Gilbertum porretani in li. 6. 
+      princi<lb ed="#B" n="8" break="no"/>piorum: quam sic diffiniens ait. Actio est secundum 
+      <lb ed="#B" n="9"/>quam in id quod subiicitur agere dicimur: et sic 
+      <lb ed="#B" n="10"/>actio non est nisi quaedam respectus extrinsecus 
+      <lb ed="#B" n="11"/>adueniens. Secundo modo dicitur actio actus operatus / 
+      <lb ed="#B" n="12"/>quomodo soliti sumus dicere: haec est operatio mea 
+      <lb ed="#B" n="13"/>vel vetera. Tertio modo dicitur actio / vt se solum modo 
+      <lb ed="#B" n="14"/>extendit in proximum: et sic accipitur dum dicitur 
+      vi<lb ed="#B" n="15" break="no"/>ta actiua: vt scilicet habet diuidi contra vitam 
+      con<lb ed="#B" n="16" break="no"/>templatiuam: quo maxime aspicit deum. 
+      <lb ed="#B" n="17"/>Quantum ad secundum arti. sunt 
+      <lb ed="#B" n="18"/>tres con 
+      <lb ed="#B" n="19"/>clusiones. Prima est de diuisione vitae / in 
+      vi<lb ed="#B" n="20" break="no"/>tam actiuam et contemplatiuam. Secunda de vita 
+      con<lb ed="#B" n="21" break="no"/>templatiua. Tertia de vita actiua.
+</p>
+               <p xml:id="WuV37d-f46667-d1e576">
+¶ Pri 
+      <lb ed="#B" n="22"/>ma est haec. Uita spiritualis hominis in actiuam 
+      <lb ed="#B" n="23"/>et contemplatiuam sufficientissime diuisa est: 
+      inter<lb ed="#B" n="24" break="no"/>quas contemplatiua melior. Dicit prima pars 
+      <lb ed="#B" n="25"/>conclusionis / quod vita spiritualis in homine est diuisa sut 
+      <lb ed="#B" n="26"/>ficienter in actiuam et contemplatiuam: patet hoc ex 
+      <lb ed="#B" n="27"/>multis sacrae scripture locis: vbi vita sic 
+      di<lb ed="#B" n="28" break="no"/>uisa est. Primo in duabus iacob vxoribus / 
+      <lb ed="#B" n="29"/>Tia et Rachele. Lia fecundior signat acti 
+      <lb ed="#B" n="30"/>uam vitam: sed rachel formosior 
+      contemplati<lb ed="#B" n="31" break="no"/>uam figurabat. Secundo in Maria et martha. 
+      <lb ed="#B" n="32"/>Maria deuotior contemplationi inhaerebat: 
+      <lb ed="#B" n="33"/>sed martha sedulior obsequio actiuae inhaere 
+      <lb ed="#B" n="34"/>bat. Tertio in Petro et indanne. Petrus amo 
+      <lb ed="#B" n="35"/>re feruentior salutem in proximo actiuam per vitam 
+      <lb ed="#B" n="36"/>quarebat: sed dulcior Ioannes sponsi 
+      ample<lb ed="#B" n="37" break="no"/>xibus per contemplatiuam vitam fruebatur. 
+      Con<lb ed="#B" n="38" break="no"/>firmatur ratione. Uita enim vniuscuiusque maxime 
+      <lb ed="#B" n="39"/>attenditur in respectu ad finem: vt trahi potest ex 
+      <lb ed="#B" n="40"/>4. ethicorum. Felicitas autem est finis quam in 
+      <lb ed="#B" n="41"/>tendit vir spiritualis. Haec autem felicitas in. 
+      io<lb ed="#B" n="42" break="no"/>ethicorum diuiditur in politicam id est actiuam et con 
+      <lb ed="#B" n="43"/>templatiuam etc. igitur. Ex quo patet / quod nullae 
+      <lb ed="#B" n="44"/>huic parti obuiant auctoritates vocantes vitam / aut 
+      <lb ed="#B" n="45"/>lensitiuam aut vegetatiuam / aut aliquid huiusmodi: 
+      <lb ed="#B" n="46"/>quia hic solum fit mentio de vita hominis secundum quod 
+      <lb ed="#B" n="47"/>superioribus participat: nec adhuc quo ad 
+      <lb ed="#B" n="48"/>esse / sed quo ad perfici. Et si obiiciatur ex 
+      di<lb ed="#B" n="49" break="no"/>cto beati Aug. in lib. de ciui. dei: qui pone 
+      <!--650.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>re videtur tertium membrum inter actiuum et 
+      con<lb ed="#B" n="51" break="no"/>templatiuum. Dicendum quod Augustinus illic non intem 
+      <lb ed="#B" n="52"/>dit vitam diuidere / sed modum viuentium. 
+      Ali<lb ed="#B" n="53" break="no"/>qui enim sunt qui solum actiuae insudant vitae. 
+      <lb ed="#B" n="54"/>Secundi sunt qui solum inhiant 
+      contempla<lb ed="#B" n="55" break="no"/>tioni. Tertii modo ab actione in contemplati 
+      <lb ed="#B" n="56"/>onem feruntur: modo rursus a contemplatio. 
+      <lb ed="#B" n="57"/>ne in actionem ascendunt: sicut debet esse in 
+      <lb ed="#B" n="58"/>qraedicatoribus: quod in volatu auium aspici 
+      <lb ed="#B" n="59"/>tur: modo superiora petunt / modo in inferio 
+      <lb ed="#B" n="60"/>ra descendunt. Sed dicit secunda pars 
+      conclu<lb ed="#B" n="61" break="no"/>sionis / quod contemplatiua est melior quam 
+      acti<lb ed="#B" n="62" break="no"/>ua. Probatur. Quanto aliquid est vitae 
+      caele<lb ed="#B" n="63" break="no"/>sti similius / tanto simpliciter melius est: vita 
+      <lb ed="#B" n="64"/>autem contemplatiua respectu actiuae est huiusmodi: 
+      <lb ed="#B" n="65"/>igitur. Unde Augustinus n vltimo libro de 
+      ci<lb ed="#B" n="66" break="no"/>ui. dei. Uacabimus et videbimus / 
+      vide<lb ed="#B" n="67" break="no"/>bimus et amabimus / amabimus et laudabimus. 
+      <lb ed="#B" n="68"/>Confirmatur: quia contemplatiua est diuturnior 
+      <lb ed="#B" n="69"/>actiua: quia non euacuatur in patria sicuti acti 
+      <lb ed="#B" n="70"/>ua. Unde glo. super illo verbo. Maria opti 
+      <lb ed="#B" n="71"/>mam partem elegit etc. Dicit glo. Contemplati 
+      <lb ed="#B" n="72"/>ua vita hic incipit / et in patria perficitur. 
+      <lb ed="#B" n="73"/>Philosophus etiam in. 10. ethie. dicit 
+      contemplati<lb ed="#B" n="74" break="no"/>uam vitam diuturniorem fore actiua: et 
+      fi<lb ed="#B" n="75" break="no"/>nis actiuae contemplatiua censetur. Ad hoc 
+      <lb ed="#B" n="76"/>enim in via laboramus / vt interius mundetur 
+      <lb ed="#B" n="77"/>oculus / quo videatur deus: nobilior est au 
+      <lb ed="#B" n="78"/>tem finis existentibus ad finem. Nec obuiat quod 
+      <lb ed="#B" n="79"/>vita actiua fuit in christo: quae tamen erat 
+      com<lb ed="#B" n="80" break="no"/>prehensor: dispensatiue enim propter nos istud 
+      <lb ed="#B" n="81"/>factum est: sicut et in angelis modo nob ministrantibus: 
+      <lb ed="#B" n="82"/>sed in caelo erimus omnes docibiles dei. Sed  
+      <lb ed="#B" n="83"/>quae maioris est meriti actiua vel contems 
+      <lb ed="#B" n="84"/>platiua? Dicendum quod si fiat sermo de radice 
+      <lb ed="#B" n="85"/>meriti quae est charitas: possunt esse aequals 
+      <lb ed="#B" n="86"/>meriti. Tanta enim gratia potest poni in 
+      viuem<lb ed="#B" n="87" break="no"/>te vita actiua / quanta in viuente vita 
+      contem<lb ed="#B" n="88" break="no"/>platiua. Si vero fiat sermo de actibus harum 
+      <lb ed="#B" n="89"/>vitarum adinuicem. Dicendum quod aspiciendo pu 
+      <lb ed="#B" n="90"/>ritatem vitae: contemplatiua est maioris 
+      me<lb ed="#B" n="91" break="no"/>riti: quia a puluereterreno funditus 
+      munda<lb ed="#B" n="92" break="no"/>tur. Et hoc est quod dicit Oreg. in moralis. 
+      <lb ed="#B" n="93"/>Contemplatiua maior est merito quam actiua: 
+      <lb ed="#B" n="94"/>quia actiua in vsu praesentis vitae laborat: 
+      con<lb ed="#B" n="95" break="no"/>templatiua autem in sapore intimo venturam 
+      <lb ed="#B" n="96"/>iam requiem degustat. Et hoc valde 
+      confir<lb ed="#B" n="97" break="no"/>mat quod dicit philosophus in. 10. ethi: quod scilicet deus 
+      <lb ed="#B" n="98"/>maxime eos beneficiat qui contemplationi student. 
+      <!--651.xml-->
+      <pb ed="#B" n="317-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>Caeterum hoc maxime patet: quia maioris est 
+      <lb ed="#B" n="2"/>meriti dilectio dei / cui maxime contemplatio 
+      <lb ed="#B" n="3"/>inhaeret / quam proximi cui actio. Si autem aspic 
+      <lb ed="#B" n="4"/>atur labor: sic actiua est potior / et maioris 
+      <lb ed="#B" n="5"/>meriti est nempe in campo certaminis: et est 
+      <lb ed="#B" n="6"/>valde magnum dilectione proximi internum 
+      <lb ed="#B" n="7"/>contemplationis saporem pro tempare dimittere: 
+      <lb ed="#B" n="8"/>vt scilicet saluetur / et totum propter deum. Et hoc 
+      <lb ed="#B" n="9"/>modo super Ecech. loquitur Brego. Nullum 
+      sa<lb ed="#B" n="10" break="no"/>crificium est deo magis acceptum quam regimen 
+      <lb ed="#B" n="11"/>animarum.
+</p>
+               <p xml:id="WuV37d-f46667-d1e780">
+¶ Secuda conclusio est de 
+      vi<lb ed="#B" n="12" break="no"/>ta contemplatiua: et est haec. Uita 
+      contempla<lb ed="#B" n="13" break="no"/>tiua quam sapientiae donum dirigit / potius in 
+      <lb ed="#B" n="14"/>affectu quam in intellectu consistit. Dicit prima 
+      <lb ed="#B" n="15"/>pars conclusionis / quod vita contemplatiua 
+      <lb ed="#B" n="16"/>dirigitur per sapientiam. Probatur. Uita contem 
+      <lb ed="#B" n="17"/>platiua maxime regulis innititur aeternis: 
+      <lb ed="#B" n="18"/>quia in deum cuncta refert. et secundum deum cuncta 
+      <lb ed="#B" n="19"/>disponit: sed hoc est opus sapientiae: vt cla 
+      <lb ed="#B" n="20"/>re ostendit Augustinus 14. de trini. exponens 
+      il<lb ed="#B" n="21" break="no"/>lud apostoli. Aliis quidem per spiritum datur sermo 
+      <lb ed="#B" n="22"/>sapientiae / aliis sermo scientiae secundum eundem 
+      <lb ed="#B" n="23"/>spiritum. Sapientia inquit aeternorum est / sed scien 
+      <lb ed="#B" n="24"/>tia temporalium. Notandum tamen quod non accipit 
+      <lb ed="#B" n="25"/>hic sapieinia / prout dicunt philosophi / quod sapienia est rerum 
+      <lb ed="#B" n="26"/>humanarum diuinarumque cognitio: vt 
+      dica<lb ed="#B" n="27" break="no"/>tur a sapere: quia sic non dicitur donum dei: 
+      <lb ed="#B" n="28"/>Sed accipitur vt accipit Esaias / dum nume 
+      <lb ed="#B" n="29"/>rans dona spiritus a capite. scilicet sapienia / icipit di 
+      <lb ed="#B" n="30"/>cens: Requiescet super eum spiritus sapiae etc. Unde 
+      <lb ed="#B" n="31"/>hoc modo dicitur a sapore: secundum hoc enim nomen 
+      <lb ed="#B" n="32"/>eius est Ecci. 6. et partinet voluntati magis 
+      <lb ed="#B" n="33"/>quam intellectui: secundum quod tangit doctor deuot 
+      <lb ed="#B" n="34"/>q. 1. Et doctor subtilis in praesenti distin. licet 
+      <lb ed="#B" n="35"/>Tho. q. 1. arti. 2. oppositum dicat. Unde et 
+      <lb ed="#B" n="36"/>ca. 6. dicit beatus Bern. in lib. de 
+      amo<lb ed="#B" n="37" break="no"/>re dei. Ab amore ascenditur ad charitatem / 
+      <lb ed="#B" n="38"/>a charitate autem ad sapientiam. Sed habet 
+      <lb ed="#B" n="39"/>secunda pars conclusionis / quod vita 
+      contem<lb ed="#B" n="40" break="no"/>platiua magis est in affectu quam intellectu. 
+      <lb ed="#B" n="41"/>Probatur. Gustare enim est affectus / non 
+      in<lb ed="#B" n="42" break="no"/>tellectus. Uitae autem contemplatiuae est ma 
+      <lb ed="#B" n="43"/>xime degu stare bonitatem dei / et dicere. Quon 
+      <lb ed="#B" n="44"/>magna multitudo dulcedis tuae domine: quam 
+      <lb ed="#B" n="45"/>abscondisti timentibus te. Unde et Isid. in lib. 
+      <lb ed="#B" n="46"/>differentiarum dicit / quod contemplatiua vita est 
+      <lb ed="#B" n="47"/>quae vacat ab omni negocio: et in sola dei di 
+      <lb ed="#B" n="48"/>lectione defigitur. Ideo a sanctis dicitur / 
+      vi<lb ed="#B" n="49" break="no"/>ta ociosa. Et philosophus in. 10. ethicorum eam nominat 
+      <!--651.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>vacationem: patet ex dono quod ipsam perfi 
+      <lb ed="#B" n="51"/>cit scilicet sapientia: quod pertinet ad affectum. 
+      <lb ed="#B" n="52"/>Et si obiiciatur: quia dicit philosophus / quod differunt 
+      <lb ed="#B" n="53"/>abinuicem practica scientia et speculatiua: quia 
+      <lb ed="#B" n="54"/>finis practicae est opus / sed speculatiuae est ve 
+      <lb ed="#B" n="55"/>ritas. Exquo ergo contemplatiua est 
+      specu<lb ed="#B" n="56" break="no"/>latiua sequitur quod plus aspicit intellectum quam 
+      <lb ed="#B" n="57"/>affectum. Dicendum quod vita contemplatiua cen 
+      <lb ed="#B" n="58"/>senda est / non speculatiua / sed practica: quod 
+      <lb ed="#B" n="59"/>finis legis est dilectio.
+</p>
+               <p xml:id="WuV37d-f46667-d1e891">
+¶ Sed est ne in 
+      com<lb ed="#B" n="60" break="no"/>templatione quo ad id quod est intellectus 
+      <lb ed="#B" n="61"/>discursus aliquis in ratione? Dicendum quod sic: 
+      <lb ed="#B" n="62"/>in via / non in patria. Unde hic manifeste tres 
+      <lb ed="#B" n="63"/>pinarii seu sex gradus contemplationis 
+      ostem<lb ed="#B" n="64" break="no"/>duntur: quos ponit Richardus de sancto 
+      <lb ed="#B" n="65"/>victore. Primus est / dum sensibilia per 
+      ima<lb ed="#B" n="66" break="no"/>ginatione considerantes: in eis diuinam 
+      sa<lb ed="#B" n="67" break="no"/>pientiam admiramur. Secundus / quando earum ra 
+      <lb ed="#B" n="68"/>tiones inquirimus. Tertius est quando ex 
+      visibi<lb ed="#B" n="69" break="no"/>libus in inuisibilia ascendimus. Quartus quando re 
+      <lb ed="#B" n="70"/>mota immaginatione in soel intelligibilibus 
+      versa<lb ed="#B" n="71" break="no"/>mur. Quintus / quando ea cogitamus quae diuina 
+      re<lb ed="#B" n="72" break="no"/>uelatione / non humana ratione cognoscimus. 
+      <lb ed="#B" n="73"/>Sextus / quando ea consideramus quibus obuia 
+      <lb ed="#B" n="74"/>re videtur humana ratio. Ideo dicit Richar 
+      <lb ed="#B" n="75"/>dus. Contemplationis nostrae volatus multi 
+      <lb ed="#B" n="76"/>formiter variatur: nunc de insimis ad 
+      supre<lb ed="#B" n="77" break="no"/>ma: nunc de summis ad inferiora 
+      descen<lb ed="#B" n="78" break="no"/>dit: nunc de parte ad totum: nunc de toto ad  
+      <lb ed="#B" n="79"/>partem discurrit: nunc a maiori / nunc a 
+      mino<lb ed="#B" n="80" break="no"/>ri argumentum trahit. Ex quo patet quod illud 
+      <lb ed="#B" n="81"/>de consideratione ad Cugenium: vbi ponit 
+      <lb ed="#B" n="82"/>Bern. differentiam inter contemplationem et con 
+      <lb ed="#B" n="83"/>siderationem: quia consideratio ad 
+      inquisitio<lb ed="#B" n="84" break="no"/>nem se habet: contemplatio autem est verus 
+      <lb ed="#B" n="85"/>certusque animi intuitus. Ubi innuit / quod con 
+      <lb ed="#B" n="86"/>templatio in quiete est / non discursu: habet 
+      <lb ed="#B" n="87"/>intelligi pro patria / non pro via: vel femiple 
+      <lb ed="#B" n="88"/>ne inquantum contemplantes aliqualiter hic 
+      <lb ed="#B" n="89"/>fiunt deo consimiles: ex. 10. ethicorum. Et pa 
+      <lb ed="#B" n="90"/>tet vltra / quod defecit sanctus Tho. qui art 
+      <lb ed="#B" n="91"/>culo primo. q. 2. posuit principaliter vitam 
+      <lb ed="#B" n="92"/>contemplatiuam non in affectu sed in 
+      intelle<lb ed="#B" n="93" break="no"/>ctu: patet satis oppositum ex praedictis.
+</p>
+               <p xml:id="WuV37d-f46667-d1e967">
+¶ Ter 
+      <lb ed="#B" n="94"/>tia conclusio est de vita actiua: et est haec. 
+      <lb ed="#B" n="95"/>Uita actiua scientia ordinata / sic aspicit 
+      <lb ed="#B" n="96"/>ad proximum / vt contemplatiuae non 
+      repu<lb ed="#B" n="97" break="no"/>gnet. Dicit prima pars conclusionis / quod vi 
+      <lb ed="#B" n="98"/>ta actiua dicitur ad proximum. Prohatur. Haec 
+      <!--652.xml-->
+      <pb ed="#B" n="318-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>extat viae actiue fecunditas vt filios procre 
+      <lb ed="#B" n="2"/>et modo lye. Unde et isid. in li. differarum dicit. Actiua 
+      <lb ed="#B" n="3"/>vita est in operibus iusticiae: et proximi vti 
+      <lb ed="#B" n="4"/>litate versatur: non tamen nego quin etiam 
+      <lb ed="#B" n="5"/>sit actiua vita in ordine ad seipsum: dum 
+      <lb ed="#B" n="6"/>se disponit ad contemplationem: sicut per 
+      <lb ed="#B" n="7"/>caste viuere: quod maxime ad hoc facit: vt 
+      ha<lb ed="#B" n="8" break="no"/>bet commentator in. 7. philosophicorum. Et si 
+      obii<lb ed="#B" n="9" break="no"/>ciatur quod vita contemplatiua etiam ad alium 
+      <lb ed="#B" n="10"/>est et ita non actiua: cum sint diuersae vitae. 
+      <lb ed="#B" n="11"/>Patet assumptum: docere enim proximum est. 
+      <lb ed="#B" n="12"/>actus contemplatiuae vitae. Dicendum quod 
+      <lb ed="#B" n="13"/>docere dicitur quis vel propter veritatem 
+      <lb ed="#B" n="14"/>et tunc est actus contemplatiuae vitae: vt 
+      argu<lb ed="#B" n="15" break="no"/>mentum obiicit: vel propter bonos mores 
+      <lb ed="#B" n="16"/>et tunc est actus actiuae vitae: et ita patet non 
+      <lb ed="#B" n="17"/>eodem modo proximum inspicere vitam 
+      con<lb ed="#B" n="18" break="no"/>templatiuam et actiuam. Et ita patet quod 
+      acti<lb ed="#B" n="19" break="no"/>ua vita scientia ordinatur: capta scientia pro 
+      <lb ed="#B" n="20"/>cognitione aeternorum ex prima conclusione. 
+      <lb ed="#B" n="21"/>Sed habet secunda pars conclusionis quod 
+      <lb ed="#B" n="22"/>stant simul vita contemplatiua et actiua: pa 
+      <lb ed="#B" n="23"/>tet in beata Maria quae fuit viatrix: et tamen 
+      <lb ed="#B" n="24"/>simul vtramque habuit vitam. Haec enim est ra 
+      <lb ed="#B" n="25"/>tio apud beatm Ansel. quare in eius assumpti 
+      <lb ed="#B" n="26"/>one legitur euangelium de martha et maria: 
+      <lb ed="#B" n="27"/>quia in his duabus mulieribus vtraque vita 
+      <lb ed="#B" n="28"/>notatur: quae fuerunt in Maria. Unde et 
+      <lb ed="#B" n="29"/>Breg. super emech. dicit: quod plerumque a 
+      con<lb ed="#B" n="30" break="no"/>templatiua vita ad actiuam vtiliter animus 
+      <lb ed="#B" n="31"/>reflectitur: quod non esset nisi simul starent 
+      <lb ed="#B" n="32"/>Et si dicatur quia contemplatiua occupatur 
+      <lb ed="#B" n="33"/>studio lectionis: actiua operi laborum: quae 
+      <lb ed="#B" n="34"/>non videntur simul stare. Dicendum quod similis 
+      <lb ed="#B" n="35"/>stant secundum habitum: licet quo ad opus in no 
+      <lb ed="#B" n="36"/>bis diuersa exigant tempora: nec obuiat vitae 
+      <lb ed="#B" n="37"/>actiue turbatio quia dicitur. Martha martha 
+      <lb ed="#B" n="38"/>lolicita es et tur. erga plu. turbatio autem con 
+      <lb ed="#B" n="39"/>templationi repugnat. nempe haec turba 
+      <lb ed="#B" n="40"/>tio est vite actiuae in suo genie imperfecte non 
+      <lb ed="#B" n="41"/>perfecte: quae stat cum contemplatione: prima autem 
+      <lb ed="#B" n="42"/>requiritur ad ascendendum ad contemplationem. 
+      <lb ed="#B" n="43"/>Unde Breg. Qui ad arcem contemplatio 
+      <lb ed="#B" n="44"/>nis ascendere desiderat: prius necesse est: 
+      <lb ed="#B" n="45"/>vt in causapo actionis se exerceat: contempla 
+      <lb ed="#B" n="46"/>tione autem existente non stat illa imperfecta actio 
+      <lb ed="#B" n="47"/>sed perfecta. quia Bern. teste iam 
+      tenen<lb ed="#B" n="48" break="no"/>ti solium scalam non oportet 
+      <!--652.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="49"/>Quo ad tertium articulum sunt 
+      <lb ed="#B" n="50"/>cres difficu 
+      <lb ed="#B" n="51"/>tates.
+</p>
+               <p xml:id="WuV37d-f46667-d1e1102">
+¶ Prima quomodo accipitur illa phi 
+      <lb ed="#B" n="52"/>losophi diuisio in primo ethicorum: vbi 
+      di<lb ed="#B" n="53" break="no"/>uidit vitam in tria membra in contemplati 
+      <lb ed="#B" n="54"/>dum: actiuum: et bestiale. Respondet romanus 
+      egi<lb ed="#B" n="55" break="no"/>dius in lib. de regimine principum: homo 
+      <lb ed="#B" n="56"/>enim habet ad tria comparari. Primo ad su 
+      <lb ed="#B" n="57"/>um superius: et sic copetit sibi 
+      contemplati<lb ed="#B" n="58" break="no"/>ua: qua efficitur deiformis. Secundo conside 
+      <lb ed="#B" n="59"/>ratur quo ad aequale: et sic sibi competit 
+      vi<lb ed="#B" n="60" break="no"/>ta actiua qua efficitur vir politicus. 
+      Ter<lb ed="#B" n="61" break="no"/>tio comparatur quo ad suum inferius: et sic 
+      <lb ed="#B" n="62"/>competit vita bestialis et brutalis nomina 
+      <lb ed="#B" n="63"/>tur: haec autem vita nominari non debet inter 
+      <lb ed="#B" n="64"/>vitas humanas quae mors potius dicenda 
+      <lb ed="#B" n="65"/>est quam vita.
+</p>
+               <p xml:id="WuV37d-f46667-d1e1135">
+¶ Secunda difficultas. 
+      <lb ed="#B" n="66"/>vtrum omnis scientia possit dici 
+      contempla<lb ed="#B" n="67" break="no"/>tiua? Dicendum quod sic. maxime quando ordi 
+      <lb ed="#B" n="68"/>nat vt expeditius postmodum primam 
+      contem<lb ed="#B" n="69" break="no"/>plemur veritatem et bonitatem: secundum quod 
+      reci<lb ed="#B" n="70" break="no"/>tat Thom. q. 2. arti. primi. antiquos sapi 
+      <lb ed="#B" n="71"/>entes in iuuentute aliis insudare scientiis  
+      <lb ed="#B" n="72"/>vt senili in aetate melius diuine insudarent the 
+      <lb ed="#B" n="73"/>oriae.
+</p>
+               <p xml:id="WuV37d-f46667-d1e1156">
+¶ Tertia difficultas. Quid est 
+      pro<lb ed="#B" n="74" break="no"/>prie opus scientiae quae dirigit vitam actiuam 
+      <lb ed="#B" n="75"/>Dicit doctor deuotus: quaestione secunda: 
+      <lb ed="#B" n="76"/>quod est triplex actus huiusmodi scientiae. 
+      Pri<lb ed="#B" n="77" break="no"/>mus directio in agendis. Secundus 
+      co<lb ed="#B" n="78" break="no"/>gnitio eorum quae fidei sunt vt perfectius  
+      <lb ed="#B" n="79"/>dirigat. Tertius cognitio Iesu christi 
+      tan<lb ed="#B" n="80" break="no"/>quam exemplaris quo dirigat. Et in his tri 
+      <lb ed="#B" n="81"/>bus tam donum scientiae quam vita perficitur 
+      <lb ed="#B" n="82"/>actiua. Ex quo patet ad quaestionem: quod vide 
+      <lb ed="#B" n="83"/>e3 loquendo simplicitur vita contemplatiua quam 
+      <lb ed="#B" n="84"/>sapientia regit: potior est actiua quam 
+      scien<lb ed="#B" n="85" break="no"/>tia dirigit. Tunc ad argumenta.
+</p>
+               <p xml:id="WuV37d-f46667-d1e1185">
+¶ Ad 
+      pri<lb ed="#B" n="86" break="no"/>mum dicendum: quod sicut in quolibet homine 
+      <lb ed="#B" n="87"/>particulari consideratur vita actiua et con 
+      <lb ed="#B" n="88"/>templatiua: sic in toto corpore politico: 
+      <lb ed="#B" n="89"/>et ideo non probatur ex hoc meliorem fo 
+      <lb ed="#B" n="90"/>re actiuam quam contemplatiuam: cum vtraque sit 
+      <lb ed="#B" n="91"/>communis: quantum est de se omnibus 
+      ci<lb ed="#B" n="92" break="no"/>uibus. Uel dicendum secundo quod si actiua 
+      <lb ed="#B" n="93"/>sit communior quam contemplatiua: hoc non est 
+      <lb ed="#B" n="94"/>ex imperfectione contemplatiue: sed ciui 
+      <lb ed="#B" n="95"/>um qui ad eius altitudinem pertingere ne 
+      <lb ed="#B" n="96"/>queunt. Uel dicendum tertio quod si in 
+      com<lb ed="#B" n="97" break="no"/>munitate precedat actiua contemplatiuam: 
+      <!--653.xml-->
+      <pb ed="#B" n="318-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>in nobilioribus proprietatibus precedit 
+      <lb ed="#B" n="2"/>contemplatiua actiuam: vtputa in puritate: 
+      <lb ed="#B" n="3"/>duratione: et talibus multis: ideo 
+      argumen<lb ed="#B" n="4" break="no"/>tum minime concludit.
+</p>
+               <p xml:id="WuV37d-f46667-d1e1229">
+¶ Ad secundum 
+      di<lb ed="#B" n="5" break="no"/>cendum ad minorem: vt dicit philosophus in. 10. ethi 
+      <lb ed="#B" n="6"/>corum: quod videlicet pollitica non imperat 
+      sa<lb ed="#B" n="7" break="no"/>pientiae seu vitae contemplatiue: sed ad eam dis 
+      <lb ed="#B" n="8"/>ponentibus: quatenus sic homo: scilicet in 
+      ci<lb ed="#B" n="9" break="no"/>uitate disponatur: vt eam accipere possit 
+      <lb ed="#B" n="10"/>vel ad eam subleuari.
+</p>
+               <p xml:id="WuV37d-f46667-d1e1245">
+¶ Ad tertium 
+      di<lb ed="#B" n="11" break="no"/>cendum ad minorem: quod illa cooperatio ad  
+      <lb ed="#B" n="12"/>salutem proximi maxime ex igne descendit 
+      <lb ed="#B" n="13"/>contemplationis: scilicet amore dei qua 
+      <lb ed="#B" n="14"/>quis inflammatus proximum diligit inieolima 
+      <lb ed="#B" n="15"/>ginem aspiciens sui predilecti. ideo argu 
+      <lb ed="#B" n="16"/>mentum est in oppositum. Et tantum de 
+      praesen<lb ed="#B" n="17" break="no"/>ti quaestione. 
+</p>
+            </div>
+            <div xml:id="WuV37d-f46667-Dd1e1264" type="et-conclusiones">
+               <head xml:id="WuV37d-f46667-Hd1e1266">Conclusiones</head>
+               <p xml:id="WuV37d-f46667-d1e1269">
+  Ex praesenti etc. ¶ Prima 
+      <lb ed="#B" n="18"/>conclusio. De eternalibus est sapientia: de 
+      <lb ed="#B" n="19"/>temporalibus fertur scientia. Dicit conclusio: quod sapientia 
+      <lb ed="#B" n="20"/>differt a scientia: quia sapientia est aeternorum: sed  
+      <lb ed="#B" n="21"/>scientia temporalium. Et ponitur a principio 
+      dist<lb ed="#B" n="22" break="no"/>vsque ibi. Ostensa differa inter sapientiam etc. 
+      </p>
+               <p xml:id="WuV37d-f46667-d1e1282">
+                  <lb ed="#B" n="23"/>¶ Secunda conclusio. Scientia creature est. 
+      <lb ed="#B" n="24"/>sapere creatorum: sed intellectus mixture duo 
+      <lb ed="#B" n="25"/>rum est vi dulcorum. Dicit conclusio: quod in hoc dif 
+      <lb ed="#B" n="26"/>fert donum intellectus a dono sapientiae: quia 
+      <lb ed="#B" n="27"/>sapientiae solum est creatoris: sed intellectus est 
+      cre<lb ed="#B" n="28" break="no"/>atoris et creature: scientia autem solius creature. Et 
+      <lb ed="#B" n="29"/>ponsitur ab illo loco. Ostensa differa. etc. vsque ibi. 
+      <lb ed="#B" n="30"/>Et notandum quod intellectus etc.
+</p>
+               <p xml:id="WuV37d-f46667-d1e1302">
+¶ Tertia conclusio 
+      <lb ed="#B" n="31"/>Haec dona talia non sunt naturae: sed sunt stature 
+      <lb ed="#B" n="32"/>formata gratia. Dicit conclusio. quod haec dona sapie 
+      <lb ed="#B" n="33"/>tia et intellectus et scientia non sunt idem cum in 
+      <lb ed="#B" n="34"/>tellectu naturali: aut scientia vel sapientia 
+      <lb ed="#B" n="35"/>humanitus acquisita. Et ponitur ab illo ca. 
+      <lb ed="#B" n="36"/>Et notandum etc. vsque ad finem distinctionis. 
+</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

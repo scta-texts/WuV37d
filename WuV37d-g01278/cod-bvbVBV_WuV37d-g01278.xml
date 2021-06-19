@@ -1,0 +1,721 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 43</title>
+            <author ref="#WilliamDeVaurouillon">William de Vaurouillon</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 43</title>
+               <date when="2021-06-19">June 19, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-bvbVBV">Basel 1510</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-06-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="434-r"/>
+            <cb ed="#B" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="WuV37d-g01278"><!-- l4d43 -->
+            <head xml:id="WuV37d-g01278-Hd1e108">Distinctio 43</head>
+            <div xml:id="WuV37d-g01278-Dd1e111" type="circa-textum">
+               <head xml:id="WuV37d-g01278-Hd1e113">Circa textum</head>
+               <p xml:id="WuV37d-g01278-d1e116">
+                  <lb ed="#B" n="85"/>Distinctio. 43. huius quaerti. in quae magister 
+      <lb ed="#B" n="86"/>docet de secunda parte principali scilicet re 
+      <lb ed="#B" n="87"/>surrectione secundum id quod est.
+    </p>
+               <p xml:id="WuV37d-g01278-d1e125">
+                  <lb ed="#B" n="88"/>POstremo de 
+      <lb ed="#B" n="89"/>conditione resurrectionis 
+      <lb ed="#B" n="90"/> et modo resurgentium etc. 
+      <lb ed="#B" n="91"/>Hic signatur. 43. dist. hui 
+      <lb ed="#B" n="92"/>quarti Sententiarum quae ita 
+      <lb ed="#B" n="93"/>habet continuari ad praecedentes. In principio 
+      <lb ed="#B" n="94"/>siquidem quarti est totus quartus in tres par 
+      <lb ed="#B" n="95"/>tes diuisus principales. In quarum prima do 
+      <lb ed="#B" n="96"/>no sacramentorum caeli resplendet iter prae¬ 
+      <!--885.xml-->
+      <pb ed="#B" n="434-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>uium. Et ista pars diuino adiutorio fuit expe 
+      <lb ed="#B" n="2"/>dita agendo de singulo sacramentorum sigil 
+      <lb ed="#B" n="3"/>latim et per se. Nunc secunda pars huius quarti 
+      <lb ed="#B" n="4"/>incipit: in qua aurea beatorum attingitur et 
+      ple<lb ed="#B" n="5" break="no"/>num gaudium. Unde et doc. deuo. taliter hanc 
+      <lb ed="#B" n="6"/>partem praecedenti continuat. Inquit enim quod ma 
+      <lb ed="#B" n="7"/>gister prius egit de sanitate quam sacramen 
+      <lb ed="#B" n="8"/>ta conferunt: modo agere incipit de sanitate: ad 
+      <lb ed="#B" n="9"/>quam sacramenta disponunt. Prima est sani 
+      <lb ed="#B" n="10"/>tas gratuita: secunda gloriosa: prima est viae: 
+      <lb ed="#B" n="11"/>secunda est patriae: prima est a culpa: secunda 
+      <lb ed="#B" n="12"/>a miseria. Habet autem ista pars diuidi in 
+      <lb ed="#B" n="13"/>tres. In prima agit de ipsa hominium 
+      resurre<lb ed="#B" n="14" break="no"/>ctione. In secunda de animarum ante resurrectionem 
+      <lb ed="#B" n="15"/>perstatione. In tertia de iudicatorum 
+      remu<lb ed="#B" n="16" break="no"/>neratione. Prima est in principio. Secunda di. 45. 
+      <lb ed="#B" n="17"/>ibi: Praeterea sciendum est quod omnes animae etc. Ter 
+      <lb ed="#B" n="18"/>tia dist. 49. ibi: Post resurrectionem. Rur 
+      <lb ed="#B" n="19"/>sus prima particula in qua agit de ipsa hominum 
+      re<lb ed="#B" n="20" break="no"/>surrectione / in tres partes diuiditur. In prima re 
+      <lb ed="#B" n="21"/>surrectionis natura ponitur. In secunda resur 
+      <lb ed="#B" n="22"/>gentium modus exquiritur. In tertia de abortiuis 
+      <lb ed="#B" n="23"/>et monstris quaestio soluitur. Prima est in 
+      princi<lb ed="#B" n="24" break="no"/>Secunda ibi di. 44. Solent autem nonnulli percun 
+      <lb ed="#B" n="25"/>ctari. Tertia in fine eiusdem dist. ibi: Illud 
+      <lb ed="#B" n="26"/>etiam inuestigari oportet etc. Rursus 
+      pri<lb ed="#B" n="27" break="no"/>ma particula quae est praesens dist. in qua resurre 
+      <lb ed="#B" n="28"/>ctionis natura ponitur: in tres partes diuiditur. 
+      <lb ed="#B" n="29"/>In prima resurrectio notatur futura. In 
+      se<lb ed="#B" n="30" break="no"/>cunda assignatur hora illa dura. In tertia 
+      <lb ed="#B" n="31"/>dissoluit dubia obscura. Prima in princi 
+      <lb ed="#B" n="32"/>pio. Secunda ibi: Hedia autem nocte dicitur 
+      <lb ed="#B" n="33"/>venturus etc. Tertia ibi: hic quaeritur vtrum 
+      <lb ed="#B" n="34"/>electis assit tunc memoria etc. Haec est diui 
+      <lb ed="#B" n="35"/>sio praesentis dist. in generali. 
+      </p>
+            </div>
+            <div xml:id="WuV37d-g01278-Dd1e230">
+               <head xml:id="WuV37d-g01278-Hd1e232">Quaestio</head>
+               <p xml:id="WuV37d-g01278-d1e235">
+                  <lb ed="#B" n="36"/>¶ Quaestio ista declarat de 
+      resur<lb ed="#B" n="37" break="no"/>rectione hominum generali secundum se: et an 
+      <lb ed="#B" n="38"/>naturali industria possit probari. Et 
+      <lb ed="#B" n="39"/>quan fiat resurrectio: Scuo. ad longum et 
+      <lb ed="#B" n="40"/>multum subtiliter disputat de 
+      resur<lb ed="#B" n="41" break="no"/>rectioe in praesenti di. per quinque quaestiones. 
+      <lb ed="#B" n="42"/>Utrum resurre 
+      <lb ed="#B" n="43"/>ctio generalis hominium de sepulcbrem 
+      <lb ed="#B" n="44"/>i suis nocte sit futura: Et arg. quo. 
+      <lb ed="#B" n="45"/>non / tripliciter.
+</p>
+               <p xml:id="WuV37d-g01278-d1e259">
+¶ Primo sic. Non redibit eadem 
+      <lb ed="#B" n="46"/>vnio: ergo non idem homo. Antecedens patet: quia inter 
+      <lb ed="#B" n="47"/>rupta est: interruptum autem idem non redit: quia si 
+      <!--885.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="48"/>redit / iteratio est: iteratio autem identitati 
+      repu<lb ed="#B" n="49" break="no"/>gnat: quia iteratio ponit numerum / identitas pri 
+      <lb ed="#B" n="50"/>uat. Patet consequentia: quia totum requirit 
+      vni<lb ed="#B" n="51" break="no"/>onem partium: igitur idem totum eandem vnionem. 
+      </p>
+               <p xml:id="WuV37d-g01278-d1e279">
+                  <lb ed="#B" n="52"/>¶ Secundo arg. Iumenta non resurgent: ergo 
+      <lb ed="#B" n="53"/>nec homo. Consequentia tenet: nam dicitur. Unus est 
+      <lb ed="#B" n="54"/>interitus hominum et iumentorum. Antecedens patet: 
+      <lb ed="#B" n="55"/>quia anima eorum cum corpore moritur.
+</p>
+               <p xml:id="WuV37d-g01278-d1e290">
+¶ Tertio 
+      ar<lb ed="#B" n="56" break="no"/>guitur sic. Caelum numquam destruetur: ergo homo numquam re 
+      <lb ed="#B" n="57"/>surget. Antecedens patet: quia in aeternum caeli 
+      fun<lb ed="#B" n="58" break="no"/>dati sunt. Consequentia patet: quia scriptum est: 
+      <lb ed="#B" n="59"/>Hon cum dormierit non resurget: donec atte 
+      <lb ed="#B" n="60"/>ratur caelum non euigilabit.
+</p>
+               <p xml:id="WuV37d-g01278-d1e304">
+¶ In oppositum. 
+      <lb ed="#B" n="61"/>Tum primo dicitur. Scino quod in nouissimo die de 
+      <lb ed="#B" n="62"/>terra surrecturus sum. Tum secundo dicitur: Dens in 
+      <lb ed="#B" n="63"/>resurgemus etc. Tum tertio Auic. 9. 
+      meta<lb ed="#B" n="64" break="no"/>phy. ca. 7. diciti / quod anima habebit corpus apud 
+      <lb ed="#B" n="65"/>resurrectionem.
+</p>
+               <p xml:id="WuV37d-g01278-d1e317">
+¶ In ista quaestione sunt tres arti. 
+      <lb ed="#B" n="66"/>Primus est terminorum declaratiuus 
+      <lb ed="#B" n="67"/>Quorum Secundus est quaestionis responsiuus. 
+      </p>
+               <p xml:id="WuV37d-g01278-d1e324">
+                  <lb ed="#B" n="68"/>¶ Tertius est dubiorum motiuus  
+      <lb ed="#B" n="69"/>Quo ad primum articulum 
+      te<lb ed="#B" n="70" break="no"/>mini sunt: 
+      <lb ed="#B" n="71"/>resurrectio / sepulcbrum / nox.
+</p>
+               <p xml:id="WuV37d-g01278-d1e335">
+¶ Primus 
+      <lb ed="#B" n="72"/>terminus est resurrectio. Unde notandum 
+      vl<lb ed="#B" n="73" break="no"/>tra dicta de resurrectione. li. 3. di. 22. quod 
+      re<lb ed="#B" n="74" break="no"/>surrectio potest capi tripliciter. Primo modo dici 
+      <lb ed="#B" n="75"/>tur resurrectio actiue. Et sic dicit Iesus 
+      <lb ed="#B" n="76"/>marthae. Ego sum resurrectio et vita. Et lica 
+      <lb ed="#B" n="77"/>resurrectio sic sumpta communis sit tribus personis: 
+      <lb ed="#B" n="78"/>tamen aliquando patri appropriatur: sicut in praeclara 
+      <lb ed="#B" n="79"/>Iacob prophetia innuitur: dum in filio suo iuda 
+      <lb ed="#B" n="80"/>de domino iesu prophetauit. Ad praedam inquit ascen 
+      <lb ed="#B" n="81"/>disti fili mi. Haec est hodie illa dies flebilis 
+      <lb ed="#B" n="82"/>qua crucem ascendens pro nobis mortuus est. 
+      Re<lb ed="#B" n="83" break="no"/>quiescens accubuisti: dies est crastina seu 
+      <lb ed="#B" n="84"/>labbati / in qua in sepulcbro requieuit. Quis 
+      <lb ed="#B" n="85"/>suscitabit eum: et dies est dominica: et patrem 
+      in<lb ed="#B" n="86" break="no"/>nuit suscitantem. Sic Iesus ad patrem sun 
+      <lb ed="#B" n="87"/>dicit. Domine probasti me et cognouisti me: 
+      ec<lb ed="#B" n="88" break="no"/>ce dies hodierna. Tu cognouisti sessionem 
+      <lb ed="#B" n="89"/>meam: sabbatia. Et resurrectionem meam: 
+      domini<lb ed="#B" n="90" break="no"/>ca resurrectionis. Sic loquitur Petrus ad 
+      <lb ed="#B" n="91"/>popitulum. Quem deus suscitauit solutis dolo 
+      <lb ed="#B" n="92"/>ribus inferni. Aliquando appropriatur filio. 
+      <lb ed="#B" n="93"/>Unde ipse iudeis dicit. Soluite templum 
+      <lb ed="#B" n="94"/>hoc: et in tribus diebus excitabo illud. Se 
+      <lb ed="#B" n="95"/>quitur. Cum ergo resurrexisset a mortuis: re 
+      <lb ed="#B" n="96"/>cordati sunt discipuli eius / quia hoc dicebat 
+      <!--886.xml-->
+      <pb ed="#B" n="435-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>de corpore suo: et crediderunt in eum. Unde et de 
+      <lb ed="#B" n="2"/>Lagaro dicitur. Iesus ergo ante sex dies 
+      pa<lb ed="#B" n="3" break="no"/>schae venit bethaniam vbi fuerat Lagarus  
+      <lb ed="#B" n="4"/>mortuus quem fuscitauit iesus. Tertio 
+      ali<lb ed="#B" n="5" break="no"/>quando appropriatur spirituisancto: sicut exponitur 
+      <lb ed="#B" n="6"/>illud: Ecce ego aperiam tumulos vestros: 
+      <lb ed="#B" n="7"/>et educam vos de sepulcbris vestris popu 
+      <lb ed="#B" n="8"/>le meus: et inducam vos in terram israel: vnde et 
+      <lb ed="#B" n="9"/>totum paruum credo / sanctospiritui 
+      appropria<lb ed="#B" n="10" break="no"/>tur sicut magnum credo patri et filio: in quo 
+      <lb ed="#B" n="11"/>tamen dicitur carnis resurrectionem. Secundo dicitur 
+      <lb ed="#B" n="12"/>principalitur resurrectio surgere / siue surre 
+      <lb ed="#B" n="13"/>ctio a peccato. homon enim in statu innocentiae re 
+      <lb ed="#B" n="14"/>ctus conditus est / Salomone dicente. 
+      So<lb ed="#B" n="15" break="no"/>lummodo hoc inueni / quia fecerit dominus hominem 
+      <lb ed="#B" n="16"/>rectum: et ideo si ruat in peccata et emendet: non 
+      <lb ed="#B" n="17"/>tam surgit quam resurgit. Et alibi dicitur. haec est 
+      <lb ed="#B" n="18"/>resurrectio prima. Beatus et sanctus quo habet 
+      <lb ed="#B" n="19"/>partem in resurrectione prima. De ista nos 
+      ad<lb ed="#B" n="20" break="no"/>monet Paulus di. Surge qui dormis et ex 
+      <lb ed="#B" n="21"/>urge a mortuis: et illuminabit te christus. 
+      <lb ed="#B" n="22"/>Dicitur tertio resurrectio sicut capitur in propo 
+      <lb ed="#B" n="23"/>sito pro reunione animarum rationalium in sua 
+      cor<lb ed="#B" n="24" break="no"/>pora: de qua dicitur: Multa corpora 
+      sanctorum<lb ed="#B" n="25" break="no"/>qui dormierant surrexerunt: et introierunt in 
+      <lb ed="#B" n="26"/>sanctam ciuitatem. Et iterum. Qui manducai 
+      <lb ed="#B" n="27"/>meam carnem / et bibit meum sanguinem habet vitam 
+      <lb ed="#B" n="28"/>aeternam: et ego resuscitabo eum in nouissimo: 
+      <lb ed="#B" n="29"/>die. Ad vitam inquan / alios autem ad iudicium. 
+      </p>
+               <p xml:id="WuV37d-g01278-d1e461">
+                  <lb ed="#B" n="30"/>¶ Secundus terminus est sepulcbrum: et secundum 
+      <lb ed="#B" n="31"/>quod dicitur tripliciter / tripliciter accipitur. Primo modo 
+      <lb ed="#B" n="32"/>vt dicit Papias / dicitur a sepulto: et sic acci 
+      <lb ed="#B" n="33"/>pitur in Sen. dum patrem eorum filii Iacob se 
+      <lb ed="#B" n="34"/>deliunt: et portantes eum in terram chanaan: 
+      <lb ed="#B" n="35"/>sepelierunt eum in spelunca duplici / quam 
+      <lb ed="#B" n="36"/>emerat Abraam cum agro in possessionem se 
+      <lb ed="#B" n="37"/>pulchri: et sic accipitur in quaestione. 
+      Secun<lb ed="#B" n="38" break="no"/>do modo accipitur sepulcbrum vt dicitur quasi se 
+      <lb ed="#B" n="39"/>prsum a pulchro: et sic dicit propheta. 
+      Se<lb ed="#B" n="40" break="no"/>pulcbrum patens est guttur eorum: linguis 
+      <lb ed="#B" n="41"/>suis dolose agebant. Et sic mali dicuntur 
+      <lb ed="#B" n="42"/>sepulcbra: quibus nil est turpius. Tertio 
+      <lb ed="#B" n="43"/>dicitur sepulcbrum / quasi seorsum a pulsu: et sic 
+      <lb ed="#B" n="44"/>viri contemplatiui dicuntur esse in 
+      sepul<lb ed="#B" n="45" break="no"/>chro: vt declarat beatus Brego. in mora 
+      <lb ed="#B" n="46"/>libus: exponendo illud dictum. Qui expe 
+      <lb ed="#B" n="47"/>ctant mortem et non venit / quasi effodientes 
+      <lb ed="#B" n="48"/>thesaurum: gaudentque vehementer cum 
+      inue<lb ed="#B" n="49" break="no"/>nerint sepulcbrum: qui vtrumque expertusest: 
+      <!--886.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>videat et discernat haec gaudia seculi et com 
+      <lb ed="#B" n="51"/>templantis.
+</p>
+               <p xml:id="WuV37d-g01278-d1e516">
+¶ Tertius terminus est nox. 
+      <lb ed="#B" n="52"/>Quamuis nox possit multipliciter accipi: 
+      <lb ed="#B" n="53"/>tamen quia christus de se dicit: Sicut fuit ionas i 
+      <lb ed="#B" n="54"/>in ventre ceti tribus diebus et tribus 
+      no<lb ed="#B" n="55" break="no"/>ctibus: sic erit filius bomins in corde 
+      terrae<lb ed="#B" n="56" break="no"/>tribus diebus et tribus noctibus. Ideo im 
+      <lb ed="#B" n="57"/>praesentiarum nox accipitur tripliciter / secundum quod tri 
+      <lb ed="#B" n="58"/>pliciter deriuatur. Primo modo dicitur nox a 
+      ni<lb ed="#B" n="59" break="no"/>ctin graece quod nigrum est: et sic nox est 
+      diabo<lb ed="#B" n="60" break="no"/>lus: ita quod in caelo empireo quasi diuisus est 
+      <lb ed="#B" n="61"/>dies naturalis empireus / in dicit artificialem 
+      <lb ed="#B" n="62"/>et noctem: vt sint boni angeli dies / sed 
+      ma<lb ed="#B" n="63" break="no"/>li nox. Sic Aurelius Augustinus illud exponit 
+      <lb ed="#B" n="64"/>super Genesim ad litteram. Appellauitque 
+      lu<lb ed="#B" n="65" break="no"/>cem dieit / et tenebras noctem. Et sunt in 
+      ge<lb ed="#B" n="66" break="no"/>nerali tres noctes angelice: quia de triplici 
+      <lb ed="#B" n="67"/>hierarchia cum eorum principe ceciderunt. 
+      <lb ed="#B" n="68"/>Secundo dicitur nox a noceo noces: et sic 
+      <lb ed="#B" n="69"/>peccatum est nox. Nihil enim tantum nocet si 
+      <lb ed="#B" n="70"/>cut peccatum / et prima nox diabolica 
+      se<lb ed="#B" n="71" break="no"/>cundam noctem in paradiso terrestri per Adam 
+      <lb ed="#B" n="72"/>fieri procurauit: vt qui in paradiso caelesti 
+      <lb ed="#B" n="73"/>primam fecerat: in terrestri paradiso 
+      procu<lb ed="#B" n="74" break="no"/>raret et secundam. Inuidia enim diaboli mors 
+      <lb ed="#B" n="75"/>intrauit in orbem terrarum. Et sic dies ter 
+      <lb ed="#B" n="76"/>restris paradisi in dicit et noctem diuisa est. 
+      <lb ed="#B" n="77"/>De hac nocte dicit Paulus. Nox 
+      praeces<lb ed="#B" n="78" break="no"/>sit: dies autem appropinquabit. Et haec 
+      tri<lb ed="#B" n="79" break="no"/>plex in paradiso terrestri in exilio ante le 
+      <lb ed="#B" n="80"/>gem et sub lege vsque ad christum: qui est 
+      ple<lb ed="#B" n="81" break="no"/>nus dies. Tertio dicitur nox a noceo ces. 
+      <lb ed="#B" n="82"/>per contrarium: quia non noceat / sed iuuet. Et 
+      <lb ed="#B" n="83"/>isto modo aduersitates huius seculi dicuntur 
+      <lb ed="#B" n="84"/>noctes / et prosperitates dies. Et vere si bene 
+      <lb ed="#B" n="85"/>sufferuntur sunt verissima dies. De hac no 
+      <lb ed="#B" n="86"/>cte dicit propheta. Sed in lege domini 
+      volun<lb ed="#B" n="87" break="no"/>tas eius: et in lege eius meditabitur die ac 
+      <lb ed="#B" n="88"/>nocte id est in prosperis et aduersis. Haec 
+      dura<lb ed="#B" n="89" break="no"/>bit vsque ad finem seculi. Qui enim amicum in ad  
+      <lb ed="#B" n="90"/>uersis relinquit: amicus numquam fuit. 
+      <lb ed="#B" n="91"/>Quantum ad secundum 
+      arti<lb ed="#B" n="92" break="no"/>culum 
+      <lb ed="#B" n="93"/>sunt tres conclusiones. Prima est de resut 
+      <lb ed="#B" n="94"/>rectione in se. Secunda de resurrectione per 
+      <lb ed="#B" n="95"/>comparationem ad mentem nostram: tertia de tempore 
+      <lb ed="#B" n="96"/>resurrectionis.
+</p>
+               <p xml:id="WuV37d-g01278-d1e617">
+¶ Prima conclusio. Sic ge 
+      <lb ed="#B" n="97"/>neralis est possibilis omnium resurrectio vt de 
+      fa<lb ed="#B" n="98" break="no"/>cto veliat. Eius possibilitas patet ex hoc quod non 
+      <!--887.xml-->
+      <pb ed="#B" n="435-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>implicat contradictionem: tamen in modo ponendi et 
+      de<lb ed="#B" n="2" break="no"/>clarandi doctores variantur. De praesenti sunt 
+      <lb ed="#B" n="3"/>tres modi explicantes huiusmodi possibilitatem. 
+      <lb ed="#B" n="4"/>Primus est Tho. huius distin. 44. q. 1. vtrum sit 
+      <lb ed="#B" n="5"/>idem homo numero qui resurget: in solutione terti 
+      <lb ed="#B" n="6"/>argu. et imaginatur tres propositiones. Prima 
+      <lb ed="#B" n="7"/>est / quod in homine non sit nisi vna forma. Secun 
+      <lb ed="#B" n="8"/>da quod ista forma habet idem esse numero 
+      <lb ed="#B" n="9"/>quod totum communiunctum: quia si non: tunc forma 
+      vni<lb ed="#B" n="10" break="no"/>retur materiae per accidentia: quia illa quae habent di 
+      <lb ed="#B" n="11"/>stincta esse: si vniuntur per accidens faciunt vnum. 
+      <lb ed="#B" n="12"/>Tertia quod quia manet anima separata / manet esse 
+      <lb ed="#B" n="13"/>communiuncti: et per consequens non est difficile videre 
+      <lb ed="#B" n="14"/>quomodo redit idem numero: sed si poneretur in 
+      <lb ed="#B" n="15"/>homine alia forma quae corrumperetur / difficile 
+      es<lb ed="#B" n="16" break="no"/>set: quia esset impossibile corruptum idem nu 
+      <lb ed="#B" n="17"/>mero reparari. Contra istam opinionem ex 
+      fun<lb ed="#B" n="18" break="no"/>damentis doc. sub. prima quaestione praesentis di. 
+      <lb ed="#B" n="19"/>arg. tripliciter. Primo negat resurrectionem. 
+      <lb ed="#B" n="20"/>Resurrectio enim secundum Dam. 4. suarum snintarum 
+      <lb ed="#B" n="21"/>ca. 4. est eius quod cecidit surrectio et patet ex 
+      <lb ed="#B" n="22"/>terminis. Id enim proprie resurget quod perdit esse: 
+      <lb ed="#B" n="23"/>quod ergo non perdidit esse quod redeat non re 
+      <lb ed="#B" n="24"/>surget: vnde haec opinio licet non explicite: tamen 
+      <lb ed="#B" n="25"/>implicite resurrectionem negare videtur. 
+      Se<lb ed="#B" n="26" break="no"/>cundo sequeretur quod nec idem sanguis: nec eadem 
+      ri<lb ed="#B" n="27" break="no"/>sibilitas / nec eadem masclesinitas / nec idem ca 
+      <lb ed="#B" n="28"/>pillus possent redire idem in numero. 
+      Pro<lb ed="#B" n="29" break="no"/>batur consequentia: quia constat quod sanguis corrumpitur fa 
+      <lb ed="#B" n="30"/>cta incineratione: nec remanet esse eius: similite 
+      <lb ed="#B" n="31"/>risibilitas et masclesinitas et capilli relatio 
+      <lb ed="#B" n="32"/>etc. Falsitas patet: quia sancti ponunt ista re 
+      <lb ed="#B" n="33"/>disse eadem numero in christo: et de facto 
+      re<lb ed="#B" n="34" break="no"/>ducentur in omni homine. Tertio quia corruptio 
+      <lb ed="#B" n="35"/>est deperditio alicuius subae: ex. 5. physicorum: 
+      <lb ed="#B" n="36"/>sed eadem suba corrupta redit: alis non esset 
+      <lb ed="#B" n="37"/>resurrectio: ergo illud corruptum numero potest 
+      <lb ed="#B" n="38"/>reparari: alis non posset idem numero reparari 
+      <lb ed="#B" n="39"/>corruptum / cuius anima moriendo corrumpitur. 
+      Con<lb ed="#B" n="40" break="no"/>sequens est falsum: quia legimus plures sanctos 
+      <lb ed="#B" n="41"/>bruta eadem viuificasse. Non enim potes 
+      di<lb ed="#B" n="42" break="no"/>cere taurum quem suscitauit siluester non 
+      fuis<lb ed="#B" n="43" break="no"/>se eundem. Nec eorum ratio valet. Concedatur primi 
+      <lb ed="#B" n="44"/>suppositum / quod in homine non est nisi vnica 
+      for<lb ed="#B" n="45" break="no"/>ma scilicet anima rationalis: non est verum quod esse formae 
+      <lb ed="#B" n="46"/>sit esse totius: quia ad esse totius per se terminatur 
+      <lb ed="#B" n="47"/>generatio realis et non ad esse formae. Similiet 
+      <lb ed="#B" n="48"/>per corruptionem tollitur esse totius substantiae et 
+      <lb ed="#B" n="49"/>non formae. Cum dicis: si forma habet aliud 
+      <!--887.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>esse a coniuncto / non facit vnum cum materia: 
+      opu<lb ed="#B" n="51" break="no"/>positum est: immo eo quod forma est esse quod est 
+      <lb ed="#B" n="52"/>actus: et materia est esse quod est potentia / et con 
+      <lb ed="#B" n="53"/>positum: nec est hoc nec illud: sed causatum 
+      causa<lb ed="#B" n="54" break="no"/>litate intrinseca istorum / ex. 7. et. §. metaphy. 
+      <lb ed="#B" n="55"/>ideo ista duo faciunt vnum per se: vnde et dicere 
+      <lb ed="#B" n="56"/>idem corruptum numero non posse idem redire 
+      <lb ed="#B" n="57"/>numero: vt videtur sentire ista opinionem est infir 
+      <lb ed="#B" n="58"/>mare omnipotentiam dei. hoc patet per Aug. 
+      <lb ed="#B" n="59"/>22. de ciui. dei. c. 2. vbi quaerit: Caro 
+      come<lb ed="#B" n="60" break="no"/>sta et incinerata quomodo redibit eadem numero: 
+      <lb ed="#B" n="61"/>Et dicit quod non est difficile apud illum quao no 
+      <lb ed="#B" n="62"/>uit omnia / et potest cuncta. Dato enim quod non rema 
+      <lb ed="#B" n="63"/>neret de carne aliquid: sed omnibus modis 
+      pe<lb ed="#B" n="64" break="no"/>riret: ita vt eius materia in nullis naturae 
+      <lb ed="#B" n="65"/>atebris remansisset / vnde vellet reparatet eam 
+      <lb ed="#B" n="66"/>pnipotens altissimus. Et Dam. lib. 4. ca. vl 
+      <lb ed="#B" n="67"/>ti. Nonne inquit defectum et defluxum corpus 
+      <lb ed="#B" n="68"/>reparare poterit idem omnipotens. Secundus 
+      mo<lb ed="#B" n="69" break="no"/>dus ponendi est Egidii de roma theorema 
+      <lb ed="#B" n="70"/>te. 1. Quia enim natura et motum agit et 
+      mu<lb ed="#B" n="71" break="no"/>tationem: ideo non potest reducere idem nume 
+      <lb ed="#B" n="72"/>ro ex aduerso: igitur quia deus non agit per 
+      mo<lb ed="#B" n="73" break="no"/>tum aut per mutationem / sed vt quid aspicit ma 
+      <lb ed="#B" n="74"/>teriam et omnino indistinctam: potest impremere in 
+      <lb ed="#B" n="75"/>eam omnem formam: et sic potest redire idem nu 
+      <lb ed="#B" n="76"/>mero. Contra hunc modum tripliciter. Pri 
+      <lb ed="#B" n="77"/>mo in eo quod dicit quod deus non agit per 
+      mo<lb ed="#B" n="78" break="no"/>tum aut mutationem: quia in resuscitatione 
+      <lb ed="#B" n="79"/>materia fuit sub priuatione / et post sub for 
+      <lb ed="#B" n="80"/>ma: et est ibi natura completa mutationis ali 
+      <lb ed="#B" n="81"/>ter se habere nunc quam prius: ex sexto 
+      physi<lb ed="#B" n="82" break="no"/>corum. Nec valet ex modo arguendi: non est ea 
+      <lb ed="#B" n="83"/>dem mutatio: ergo non est eadem forma. Licem 
+      <lb ed="#B" n="84"/>enim ex alienitate formae sequatur alienitas 
+      <lb ed="#B" n="85"/>motus: non tamen ex alienitate motus 
+      sequi<lb ed="#B" n="86" break="no"/>tur alienitas formae: immo est fallacia 
+      conse<lb ed="#B" n="87" break="no"/>quentius: sicut ex diuersis motibus potest acqui 
+      <lb ed="#B" n="88"/>ri idem vbi: sicut patet in motu circulari ei 
+      <lb ed="#B" n="89"/>recto. Unde et Augutinus vult idem posse 
+      genera<lb ed="#B" n="90" break="no"/>ri aequiuoce et vniuoce. 3. de trini. ca. 9. 
+      Se<lb ed="#B" n="91" break="no"/>cundo in hoc quod diciti / quod mutatio non potest 
+      <lb ed="#B" n="92"/>redire eadem numero propter interruptionem 
+      <lb ed="#B" n="93"/>non valet: quia dato quod non sit continuitas partis  
+      <lb ed="#B" n="94"/>ad partem: quomodo loquitur facta interruptione 
+      <lb ed="#B" n="95"/>redibit tamen totum in se continuatum. 
+      Ter<lb ed="#B" n="96" break="no"/>tio in hoc quod dicit. Agens naturale non 
+      <lb ed="#B" n="97"/>attigere materiam vt quid: tunc enim 
+      materia<lb ed="#B" n="98" break="no"/>non informaretur immediate a forma: quod est ma¬ 
+      <!--888.xml-->
+      <pb ed="#B" n="436-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>nifeste falsum. Tertia opinionem est doc. sub. et di 
+      <lb ed="#B" n="2"/>cit tria. Primum quod possibilitas resurrecti 
+      <lb ed="#B" n="3"/>onis primo quaerenda est ex omnipotentia dei. 
+      <lb ed="#B" n="4"/>Secundum quod est quaerenda ex parte obiecti: quia 
+      <lb ed="#B" n="5"/>non implicat contradictionem. Tertium quod modicum est 
+      <lb ed="#B" n="6"/>ad propositum: aut illud inducatur per mutatio 
+      <lb ed="#B" n="7"/>nem / aut sine mutatione. Secunda pars conclusiois di 
+      <lb ed="#B" n="8"/>cit / quod resurrectio de facto veiet: probatur. Tum 
+      <lb ed="#B" n="9"/>primo auctoritate simboli apitulorum: carnis resurre 
+      <lb ed="#B" n="10"/>ctionem. Tum secundo simboli niceni: Expecto 
+      <lb ed="#B" n="11"/>resurrectionem mortuorum. Tum tartio auctoritate sim 
+      <lb ed="#B" n="12"/>boli athanasii: Onens homines resurgere habent 
+      <lb ed="#B" n="13"/>cum corporibus suis.
+</p>
+               <p xml:id="WuV37d-g01278-d1e882">
+¶ Secunda conclusio est haec. 
+      <lb ed="#B" n="14"/>Et si sint aliqua rationes ad resurrectionem 
+      na<lb ed="#B" n="15" break="no"/>turaliter probandam: non tamen sufficiunt quod aliquae 
+      <lb ed="#B" n="16"/>sint rationes hoc probantes: ex tribus patet satis 
+      <lb ed="#B" n="17"/>probationibus. Pria est: anima intellectiua est for 
+      <lb ed="#B" n="18"/>ma hominis. Secunda: anima intellectiua est 
+      immorta<lb ed="#B" n="19" break="no"/>lis. Tertia / quod non perpetuo remanebit anima 
+      <lb ed="#B" n="20"/>extra totum. De prima dicit Tho. prima parte 
+      <lb ed="#B" n="21"/>summae. q. 76. arti. I. est quod nota est naturalitur. Tunm 
+      <lb ed="#B" n="22"/>quia philosophi loquentes naturaliter hoc dixerunt. 
+      <lb ed="#B" n="23"/>Tum primo philosophus in principio. 2 de anima dicit / quod 
+      <lb ed="#B" n="24"/>anima est actus corporis phisici. Tum secundo 
+      au<lb ed="#B" n="25" break="no"/>ctoritate eiusdem in principio tertii. De 
+      per<lb ed="#B" n="26" break="no"/>te autem anime qua cognoscit et sapit. Tum 
+      ter<lb ed="#B" n="27" break="no"/>tio: quia in diffinitione hominis ponitur rationale quo 
+      <lb ed="#B" n="28"/>anima signatur intellectiua. Ex operatione vero 
+      <lb ed="#B" n="29"/>propria probat idem vbi supra tripliciter. Pri 
+      <lb ed="#B" n="30"/>mo sic. Intelligere est propria operatio: est igi 
+      <lb ed="#B" n="31"/>tur a propria forma: igitur anima intellectiua est 
+      <lb ed="#B" n="32"/>propria forma bomins. Sed ista ratio etiam 
+      <lb ed="#B" n="33"/>secundum eos non cogit: nisi Thomas sibi 
+      contra<lb ed="#B" n="34" break="no"/>dicat: quia intellectus secundum eum humanus in 
+      in<lb ed="#B" n="35" break="no"/>tellectione non se habet actiue / sed passiue: 
+      <lb ed="#B" n="36"/>parte eadem. q. 79. art. 2. igitur non oportet quod il 
+      <lb ed="#B" n="37"/>la intellectio sit a propria forma. Si autem ali 
+      <lb ed="#B" n="38"/>quis dicat negando quod homo proprie intelligat: 
+      <lb ed="#B" n="39"/>sed ponat intellectum quandam separatam 
+      sub<lb ed="#B" n="40" break="no"/>stantiam: sicut posuit Auerrois super. 3. de 
+      <lb ed="#B" n="41"/>anima / communiunctam mediantibus phantasmatibus na 
+      <lb ed="#B" n="42"/>ture humanae: et illa intelligat non homo: et 
+      <lb ed="#B" n="43"/>sit homo non rationale per essentiam / sed animal irra 
+      <lb ed="#B" n="44"/>tionale nobilissimum tantum: sicut dicit in libro 
+      <lb ed="#B" n="45"/>de animalibus Albertus magnus: quod pigmei non 
+      <lb ed="#B" n="46"/>sunt homines / sed genus nobilissimum simiarum. 
+      <lb ed="#B" n="47"/>Probat Tho. secundo / quod homo proprie intelli 
+      <lb ed="#B" n="48"/>gat. 1. parte summae. q. 75. artic. 2. Hon 
+      cogno<lb ed="#B" n="49" break="no"/>icit actu cognoscendi / non organico: igitur pro¬ 
+      <!--888.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>prie intelligit. Probatur assumptum: quia 
+      cog<lb ed="#B" n="51" break="no"/>nitio per organum limitatur ad certum genus 
+      cog<lb ed="#B" n="52" break="no"/>noscibilium: sicut patet in visu ad visibilia 
+      <lb ed="#B" n="53"/>et auditu ad audibilia: non sic est cognitio 
+      <lb ed="#B" n="54"/>pomnis secundum quod homo: sed diceretur quod dato quod 
+      cog<lb ed="#B" n="55" break="no"/>gnitio hominis secundum quod homo: non inesset 
+      ho<lb ed="#B" n="56" break="no"/>mini per aliquod organum: inest tamen primo: 
+      <lb ed="#B" n="57"/>toti homini: et ita non oportet quod 
+      transcen<lb ed="#B" n="58" break="no"/>dat genus potentiarum siue cognitionum sensiti 
+      <lb ed="#B" n="59"/>uarum. Ulterius diceretur quod haec cognitio inest 
+      <lb ed="#B" n="60"/>secundum actum phantasie: quia ea lesa leditur: sed hoc 
+      <lb ed="#B" n="61"/>secundum non impedit. hoc enim agit ordo 
+      po<lb ed="#B" n="62" break="no"/>tentiarum in agendo. Etiam primum non facit: quia 
+      <lb ed="#B" n="63"/>non solum per hanc cognitionem discernit homo sen 
+      <lb ed="#B" n="64"/>sibilia inter se / sed sensibilia ab alio insen 
+      <lb ed="#B" n="65"/>sibili: ideo oportet quod excedat cognitionem 
+      <lb ed="#B" n="66"/>omnium sensibilium. Aliter et tertio idem probat 
+      <lb ed="#B" n="67"/>parte eadem et. q. ar. quinto: quia aliqua 
+      cogni<lb ed="#B" n="68" break="no"/>tio immaterialis inest nobis: nulla sensitiua 
+      <lb ed="#B" n="69"/>potest esse immaterialis. Hic dicit doc. subti. 
+      <lb ed="#B" n="70"/>q. 2. quod hoc nomen immateriale frequens est 
+      <lb ed="#B" n="71"/>apud philosophum: et potest capi tripliciter. Primo modo vt 
+      <lb ed="#B" n="72"/>dicatur immaterialis cognitio / quae non est per 
+      orga<lb ed="#B" n="73" break="no"/>num. Secundo modo dicitur immaterialis quia non extensa: 
+      <lb ed="#B" n="74"/>nec est idem cum primo: quia dato quod esset totius  
+      <lb ed="#B" n="75"/>primo bene esset extensa / non tamen organica. 
+      Ter<lb ed="#B" n="76" break="no"/>tio modo dicatur immaterialis respectu obiecti. 
+      <lb ed="#B" n="77"/>Et vt dicit doctor: hic est modus fortior ad  
+      <lb ed="#B" n="78"/>probandum cognitionem intellectiuam non esse 
+      <lb ed="#B" n="79"/>ensitiuam. Tum primo: quia super se conuertitur. Tum 
+      <lb ed="#B" n="80"/>secundo: quia cognoscit sub ratione veliori quam 
+      qua<lb ed="#B" n="81" break="no"/>cumque sensus / vt sub ratione entis et veri. Tum 
+      <lb ed="#B" n="82"/>tertio: quia cognoscit relationes et entia 
+      ratio<lb ed="#B" n="83" break="no"/>nis. Secundam propositionem quod anima sit immorta 
+      <lb ed="#B" n="84"/>lis: probat frater Richar. de media villa li. 
+      <lb ed="#B" n="85"/>2. dist. 19. arti. 1. q. 1. Tum primo Arist. 1n. 3. de 
+      <lb ed="#B" n="86"/>anima. Intellectus separatur a caeteris / sicut perpe 
+      <lb ed="#B" n="87"/>tuum a corruptibili. Et in eodem tertio poni 
+      <lb ed="#B" n="88"/>tur differentia inter sensum et intellectum: quia 
+      <lb ed="#B" n="89"/>excellens sensibile corrumpit sensum: excel 
+      <lb ed="#B" n="90"/>lens intelligibile perficit intellectum. Tum 
+      <lb ed="#B" n="91"/>secundo. 12. metaphy. ca. 2. mouentes 
+      cau<lb ed="#B" n="92" break="no"/>sae etc. videtur dicere intellectum perpetuum. Tunm 
+      <lb ed="#B" n="93"/>ertio. 16 de animalibus: relinquitur solum intel 
+      <lb ed="#B" n="94"/>ectum de foris aduenire. Corroboratur tri 
+      <lb ed="#B" n="95"/>plici ratione. Prima: naturale desiderium non 
+      <lb ed="#B" n="96"/>est frustra: hoc est ad semper esse in nobis. Se 
+      <lb ed="#B" n="97"/>cunda: quia intellectus non habet materiam: quae est 
+      <lb ed="#B" n="98"/>causa corruptionis. Tertia: quia fortis debet se 
+      <!--889.xml-->
+      <pb ed="#B" n="436-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>morti exponere pro republica: quod verum non 
+      <lb ed="#B" n="2"/>esset si anima foret mortalis. Tho. 1. part e sum. 
+      <lb ed="#B" n="3"/>q. 75. arti. 6. Ad idem additi / quod anima rationalis 
+      <lb ed="#B" n="4"/>non habet contrarium vnde corrumpatur: nec ali 
+      <lb ed="#B" n="5"/>quod subiectum in quo sit de necessitate 
+      <lb ed="#B" n="6"/>exigit. Tum tertio: quia simplex est: ideo a se 
+      <lb ed="#B" n="7"/>separari non potest. Ex aduerso dicit Scndo. Da 
+      <lb ed="#B" n="8"/>to quod haec sint probabilia: non tamen 
+      demon<lb ed="#B" n="9" break="no"/>strant. Ipse enim philosophus in hac parte sibimet 
+      <lb ed="#B" n="10"/>contrariatur / aut dubius remanet: et probat 
+      <lb ed="#B" n="11"/>in littera: desiderium naturale non cogit: quia 
+      <lb ed="#B" n="12"/>diceretur quod ex apprehensione est erronea 
+      <lb ed="#B" n="13"/>quod intellectus non habeat materiam / 
+      transe<lb ed="#B" n="14" break="no"/>at: habet tamen subiectum habens materiam: 
+      <lb ed="#B" n="15"/>de forti magnus actus virtutis ipsum 
+      pre<lb ed="#B" n="16" break="no"/>miat. Ad primum Thomae diceret philosophus natu 
+      <lb ed="#B" n="17"/>ralis / quod anima rationalis corpus exigit vt sit. 
+      <lb ed="#B" n="18"/>Ad aliud dubium quod ad destructionem 
+      suffi<lb ed="#B" n="19" break="no"/>cit quod res vertatur in non esse: non quod separe 
+      <lb ed="#B" n="20"/>tur pars a parte. Tertia propositio / quod anima 
+      <lb ed="#B" n="21"/>rationalis non remanebit perpetuo extra to 
+      <lb ed="#B" n="22"/>tum. Probatur a Thoma in summa contra genti 
+      <lb ed="#B" n="23"/>les / libro. 4. ca. 70. per hoc quod pars extra 
+      <lb ed="#B" n="24"/>totum est imperfecta: forma autem tam nobilis 
+      <lb ed="#B" n="25"/>non remanebit imperfecta. Rursus quia nul 
+      <lb ed="#B" n="26"/>lum violentum perpetuum: separatio animae a 
+      cor<lb ed="#B" n="27" break="no"/>pore est violenta. Ista non cogunt. Pars 
+      <lb ed="#B" n="28"/>enim capiens perfectionem a toto / est 
+      imper<lb ed="#B" n="29" break="no"/>fecta separata a toto sed anima intellectiua 
+      <lb ed="#B" n="30"/>dat vt sit / et non accipit. Ad aliud diceretur / 
+      <lb ed="#B" n="31"/>quod violentia ad actum primum secundum philosophum 
+      nun<lb ed="#B" n="32" break="no"/>quam est perpetua: sed ad actum secundum non 
+      <lb ed="#B" n="33"/>est violentum proprie: nec est inconueniens si suspen 
+      <lb ed="#B" n="34"/>datur. Et tunc de illis tribus propositionibus 
+      <lb ed="#B" n="35"/>dicit Scotus. Prima est naturaliter no 
+      <lb ed="#B" n="36"/>ta: secunda pluribus: tertia paucioribus: vnde 
+      <lb ed="#B" n="37"/>concludetur ex parte hac / resurrectionem non pos 
+      <lb ed="#B" n="38"/>se demonstrari: vnde nec retributio / nec beati 
+      <lb ed="#B" n="39"/>tudo / nec resurrectio christi hoc 
+      demon<lb ed="#B" n="40" break="no"/>strant de necessitate: in actu enim bono fit gau 
+      <lb ed="#B" n="41"/>dium retribuens / et in malo poena puniens. In 
+      <lb ed="#B" n="42"/>quit Augustinus Fide igitur hanc tenemus 
+      veri<lb ed="#B" n="43" break="no"/>tatem / non coacti ratione naturali.
+</p>
+               <p xml:id="WuV37d-g01278-d1e1173">
+¶ Tertia 
+      <lb ed="#B" n="44"/>conclusio est. Puluerum collectio fiet in tempore: sed 
+      <lb ed="#B" n="45"/>informatio et vnio ad corpus in instanti. 
+      <lb ed="#B" n="46"/>Prima pars probatur: quia fiet ministerio 
+      an<lb ed="#B" n="47" break="no"/>gelico: ergo in tempore. Antecedens patet per 
+      <lb ed="#B" n="48"/>illud dictum. Mittet filius hominis angelos 
+      <lb ed="#B" n="49"/>suos cum tuba et voce magna: et congrega¬ 
+      <!--889.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>bunt electos eius a qua ttuor ventis a sum 
+      <lb ed="#B" n="51"/>mis caelorum vsque ad terminos eorum: quod 
+      <lb ed="#B" n="52"/>est dictu: Ubicunque fuerint dispersae 
+      par<lb ed="#B" n="53" break="no"/>tes materiae corporis: siue in ignem / siue in aquam 
+      <lb ed="#B" n="54"/>te: ram seu corpus medium: recolligentur et vni 
+      <lb ed="#B" n="55"/>entur. Patet consequentia ex his quae dicta 
+      <lb ed="#B" n="56"/>sunt libro. 2. distin. 2. Secunda pars probatur: 
+      <lb ed="#B" n="57"/>quia fiet immediate a primo agente: qui licem 
+      <lb ed="#B" n="58"/>possit inducere successiue: non tamen apparet 
+      <lb ed="#B" n="59"/>ratio. Dato enim quod sit forma substantialis: 
+      <lb ed="#B" n="60"/>nihilominus posset induci successiue: licet 
+      <lb ed="#B" n="61"/>Henricus de gandauo quol. 4. q. 15. 
+      senti<lb ed="#B" n="62" break="no"/>at oppositum. Ex quo infertur quod possibile 
+      <lb ed="#B" n="63"/>est motum localem fieri in instanti. Corpus 
+      <lb ed="#B" n="64"/>enim reparandum maiorem locum occupabit quam 
+      <lb ed="#B" n="65"/>eius cineres: aut forsan minus / secundum 
+      rari<lb ed="#B" n="66" break="no"/>us et densius. Exquo ergo formatio fiet in 
+      <lb ed="#B" n="67"/>instanti: sequitur quod dictum est. Et tunc for 
+      <lb ed="#B" n="68"/>san ad tempus erit vacuum: aut oportebit 
+      <lb ed="#B" n="69"/>etiam subito moueri aerem circumstantem 
+      <lb ed="#B" n="70"/>ocaliter: vt det locum formato corpori: aut 
+      <lb ed="#B" n="71"/>impleat vbi fuit aer ne detur vacuum. Aut 
+      <lb ed="#B" n="72"/>tertio quod sint duo corpora simul: elige quod 
+      <lb ed="#B" n="73"/>volueris. De tertia parte: scilicet vnione 
+      ani<lb ed="#B" n="74" break="no"/>mae ad corpus: Scotus dicit tria. Primum 
+      <lb ed="#B" n="75"/>fiet subito ex parte(primo) vnientis dei: 
+      <lb ed="#B" n="76"/>ecundo ex parte animae vnibilis / quae est 
+      <lb ed="#B" n="77"/>simplex / non extensa. Tertio ex parte 
+      cor<lb ed="#B" n="78" break="no"/>poris cui est vnienda: quod est primum 
+      anima<lb ed="#B" n="79" break="no"/>bile. Non dico totum corpus: vt 
+      comprehen<lb ed="#B" n="80" break="no"/>dantur manus et pedes etc. Tunc enim non est 
+      <lb ed="#B" n="81"/>necesse: sed voco primum animabile / vt cor: 
+      <lb ed="#B" n="82"/>quod de necessitate aeque primo animandum 
+      <lb ed="#B" n="83"/>est: reliquae tamen parres corporis simul ani 
+      <lb ed="#B" n="84"/>mabuntur: sed non ita de necessitate. Secun 
+      <lb ed="#B" n="85"/>dum principale quod dicit doctor est / quod in 
+      <lb ed="#B" n="86"/>eodem instanti in quo fiet corporis formatio. 
+      <lb ed="#B" n="87"/>fiet animae vnio: quia est dispositio necessitans / 
+      <lb ed="#B" n="88"/>non absolute / sed agentis voluntate. Tertium 
+      <lb ed="#B" n="89"/>quod formatio erit mutatio / non tamen vnio: quia 
+      <lb ed="#B" n="90"/>non est praecessio formationis ad vnionem quod 
+      <lb ed="#B" n="91"/>ad mutationem exigitur: ex sexto 
+      physico<lb ed="#B" n="92" break="no"/>rum. Sed dubium extat. Si omnes resurgent 
+      <lb ed="#B" n="93"/>n eodem instanti: Scotus ex verbis Augstin. 
+      <lb ed="#B" n="94"/>sentit: quod non primo in aduentu domini mortui 
+      <lb ed="#B" n="95"/>resurgent. Secundo viui morientur. 
+      Ter<lb ed="#B" n="96" break="no"/>tio resurgent. Unde et Paulus dicit. Mor 
+      <lb ed="#B" n="97"/>tui qui in christo sunt resurgent primi. Et tam 
+      <lb ed="#B" n="98"/>tum de secundo articulo. 
+      <!--890.xml-->
+      <pb ed="#B" n="437-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>Quantum ad tertium siticntiam 
+      <lb ed="#B" n="2"/>unt tres 
+      <lb ed="#B" n="3"/>difficultates.
+</p>
+               <p xml:id="WuV37d-g01278-d1e1312">
+¶ Prima difficultas. 
+      <lb ed="#B" n="4"/>Quae est aut cuius est illa tuba: de qua 
+      di<lb ed="#B" n="5" break="no"/>cit. 1. Thessa. 4. Paulus. Dicit frater fre 
+      <lb ed="#B" n="6"/>ciscus de maro. q. 1. 44. dist. huius quarti quae 
+      <lb ed="#B" n="7"/>erit vox christi et clamor vocantis ad 
+      iudi<lb ed="#B" n="8" break="no"/>cium: et dicit Paulus tria de christo. 
+      Ius<lb ed="#B" n="9" break="no"/>sus descendet in tuba dei in voce 
+      archange<lb ed="#B" n="10" break="no"/>li: tamen idem sunt tuba et vox et dei: et 
+      archange<lb ed="#B" n="11" break="no"/>li.
+</p>
+               <p xml:id="WuV37d-g01278-d1e1332">
+¶ Secunda diffi. de loco in quo fiet iu 
+      <lb ed="#B" n="12"/>dicium. Dicit frater landulphus in fine pratesu 
+      <lb ed="#B" n="13"/>tis distin. quod in valle iosaphat: iuxta illud. 
+      <lb ed="#B" n="14"/>Congregabo omnes gentes: et deducam eas in 
+      <lb ed="#B" n="15"/>vallem iosaphat.
+</p>
+               <p xml:id="WuV37d-g01278-d1e1343">
+¶ Tertia difficultas 
+      <lb ed="#B" n="16"/>Qua horafiet resurrectio ad iudicium: 
+      <lb ed="#B" n="17"/>Scotus. q. 5. praesentis distin. triplicem ponit 
+      <lb ed="#B" n="18"/>opinionem quamlibet probabilem. Prima est in 
+      <lb ed="#B" n="19"/>hora qua surrexit christus: vt sit conformitas 
+      <lb ed="#B" n="20"/>Secunda in hora qua fuit iudicatus a 
+      pila<lb ed="#B" n="21" break="no"/>to: vt qui male iudicatus est contendat se bene 
+      <lb ed="#B" n="22"/>iudicare. Tertia in hora qua mortuus est 
+      <lb ed="#B" n="23"/>vt suam ostendat mortem causam nostre 
+      re<lb ed="#B" n="24" break="no"/>surrectionis. Et sic patet ad quaestionem: quod 
+      <lb ed="#B" n="25"/>ve generalis resurrectio omnium hominium de su 
+      <lb ed="#B" n="26"/>is sepulcbris nocte id est incerto nobis tempo 
+      <lb ed="#B" n="27"/>re sit futura. Tunc ad argumenta.
+</p>
+               <p xml:id="WuV37d-g01278-d1e1373">
+¶ Ad pre 
+      <lb ed="#B" n="28"/>mum dicendum: quod redibit eadem vnio sicut ea 
+      <lb ed="#B" n="29"/>dem extrema: nec obstat interruptio aut ite 
+      <lb ed="#B" n="30"/>ratio: quia non est de ratione vnionis: immo 
+      <lb ed="#B" n="31"/>quasi ponit eiusdem reuersionem quid enim est 
+      <lb ed="#B" n="32"/>iteratio nisi quasi ideratio.
+</p>
+               <p xml:id="WuV37d-g01278-d1e1386">
+¶ Ad 
+      secun<lb ed="#B" n="33" break="no"/>dum dicendum quod salomon illud verbum dicit 
+      <lb ed="#B" n="34"/>ex parte stultorum non asserendo: est enim ibi com 
+      <lb ed="#B" n="35"/>cionator.
+</p>
+               <p xml:id="WuV37d-g01278-d1e1395">
+¶ Ad tertium dicendum quod iob in 
+      <lb ed="#B" n="36"/>telligit de illo caelo de quo petrus loquitur. 2 
+      <lb ed="#B" n="37"/>canonica. 3. ca. Caeli calore soluentur: quod non 
+      <lb ed="#B" n="38"/>intelligitur nisi de caelo elementari.
+</p>
+            </div>
+            <div xml:id="WuV37d-g01278-Dd1e1405" type="et-conclusiones">
+               <head xml:id="WuV37d-g01278-Hd1e1407">Conclusiones</head>
+               <p xml:id="WuV37d-g01278-d1e1410">
+¶ Ex 
+      <lb ed="#B" n="39"/>ista dist. sicut de perce. de mente magistri¬ 
+      </p>
+               <p xml:id="WuV37d-g01278-d1e1415">
+                  <lb ed="#B" n="40"/>¶ Prima conclusio. erit omnius resurrectio ad iu 
+      <lb ed="#B" n="41"/>dicium et vocatio. Dicit conclusio quod resurrectio 
+      <lb ed="#B" n="42"/>omnium est futura et vocatio ad iudicium. Et po 
+      <lb ed="#B" n="43"/>nitur a principio dist. vsque ad c. illud. HMe 
+      <lb ed="#B" n="44"/>dia autem nocte etc.
+</p>
+               <p xml:id="WuV37d-g01278-d1e1428">
+¶ Secunda conclusio. 
+      incer<lb ed="#B" n="45" break="no"/>to tempore iudex veniet et aperiet abdita 
+      prope<lb ed="#B" n="46" break="no"/>re. Dicit conclusio quod iudex veniet ad iudicium 
+      <lb ed="#B" n="47"/>incerto tempore: et tunc manifestabuntur consilia 
+      <lb ed="#B" n="48"/>cordium. Et ponitur ab illo c. Hedia autem non 
+      <lb ed="#B" n="49"/>cte. vsque ad illud c. Hic quaeritur vtrum electis. 
+      <!--890.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>etc.
+</p>
+               <p xml:id="WuV37d-g01278-d1e1448">
+¶ Tertia conclusio. In differentiis sunt re 
+      <lb ed="#B" n="51"/>surrecturi boni cum impiis et praemiaturi. Di 
+      <lb ed="#B" n="52"/>cit conclusio quod boni et mali resurgent tamen 
+      <lb ed="#B" n="53"/>differenter. Et ponitur ab illo loco. Hic quae 
+      <lb ed="#B" n="54"/>ritur etc. vsque ad finem distinctionis.
+</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

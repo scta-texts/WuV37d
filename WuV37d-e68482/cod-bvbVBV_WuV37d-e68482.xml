@@ -1,0 +1,776 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 7</title>
+            <author ref="#WilliamDeVaurouillon">William de Vaurouillon</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 7</title>
+               <date when="2021-06-19">June 19, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-bvbVBV">Basel 1510</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-06-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="148-v"/>
+            <cb ed="#B" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="WuV37d-e68482"><!-- l2d7 -->
+            <head xml:id="WuV37d-e68482-Hd1e108">Distinctio 7</head>
+            <div xml:id="WuV37d-e68482-Dd1e111" type="circa-textum">
+               <head xml:id="WuV37d-e68482-Hd1e113">Circa textum</head>
+               <p xml:id="WuV37d-e68482-d1e116">
+                  <lb ed="#B" n="74"/>Distinctio. 7. declarat quid 
+      profu<lb ed="#B" n="75" break="no"/>it bonis conuersio: et quid malis 
+      auer<lb ed="#B" n="76" break="no"/>sio: quia primis accessit confirmatio 
+      <lb ed="#B" n="77"/>aliis obstinatio. 
+    </p>
+               <p xml:id="WuV37d-e68482-d1e127">
+                  <lb ed="#B" n="78"/>Mpra dictu 
+      <lb ed="#B" n="79"/>est quod angeli quae 
+      perstite<lb ed="#B" n="80" break="no"/>runt per gratiam 
+      confirma<lb ed="#B" n="81" break="no"/>ti sut: et qui ceciderut 
+      <lb ed="#B" n="82"/>a gratia dei deserti sunt 
+      <lb ed="#B" n="83"/>etc. Hic signatur septima distinctio huius 
+      <lb ed="#B" n="84"/>secundi: quae sic continuatur ad praecedentes 
+      <lb ed="#B" n="85"/>Nam postquam in praecedenti distinctione omnensa est 
+      <lb ed="#B" n="86"/>casu celeri daemonis velox descensio: Nunc 
+      <lb ed="#B" n="87"/>ostenditur mali luciferi obstiatio. Et diuiditur 
+      <lb ed="#B" n="88"/>in tres partes principales. In prima 
+      bono<lb ed="#B" n="89" break="no"/>rum atque malorum ponitur confirmatio. In secun 
+      <lb ed="#B" n="90"/>da post obstinationem daemonum superborum 
+      <lb ed="#B" n="91"/>denotatur conditio. In tertia in homines horum 
+      <lb ed="#B" n="92"/>declaratur praelatio. prima in principio. secundan 
+      <lb ed="#B" n="93"/>ibi. Et licet mali angeli etc. tertia ibi. dist. 
+      <lb ed="#B" n="94"/>6. Solet etiam in quastione versari etc. 
+      Pri<lb ed="#B" n="95" break="no"/>ma rursus particula in quae daemonum bonorum 
+      <lb ed="#B" n="96"/>et malorum ponitur confirmatio: in tres partes di 
+      <lb ed="#B" n="97"/>uiditur. Prima onndit quod boni in gleia: mali 
+      <!--314.xml-->
+      <pb ed="#B" n="149-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>malicia plane confirmantur. In secunda one 
+      <lb ed="#B" n="2"/>dit quod in caelicuria libera arbitria et malis 
+      <lb ed="#B" n="3"/>seruantur. In tertia ostendit: quod plena 
+      gra<lb ed="#B" n="4" break="no"/>tia seu nequitia immobilitantur. prima in 
+      <lb ed="#B" n="5"/>principio. secunda ibi. Sed cum nec boni 
+      <lb ed="#B" n="6"/>etc. tertia ibi. Quod ergohiero. ait etc. Et tunc 
+      <lb ed="#B" n="7"/>sequitur illa particula: Et licet angeli mali etc. 
+      <lb ed="#B" n="8"/>In qua daemonum superborum denotatur con 
+      <lb ed="#B" n="9"/>ditio diuiditur in tres partes. In prima tam 
+      <lb ed="#B" n="10"/>gitur daemonis sola cognitiua. In 
+      secun<lb ed="#B" n="11" break="no"/>da eius exprimitur vis operatiua. In tertia 
+      <lb ed="#B" n="12"/>multum stringitur in executiua: prima in prin 
+      <lb ed="#B" n="13"/>cipio. secunda ibi. Quorum scientia atque virtute 
+      <lb ed="#B" n="14"/>Tertia ibi. Illud quoque sciendum est etc. Et 
+      <lb ed="#B" n="15"/>haec est diuisio etc. 
+    </p>
+            </div>
+            <div xml:id="WuV37d-e68482-Dd1e213">
+               <head xml:id="WuV37d-e68482-Hd1e215">Quaestio</head>
+               <p xml:id="WuV37d-e68482-d1e218">
+                  <lb ed="#B" n="16"/>¶ Quaestio de daemonum potestate 
+      <lb ed="#B" n="17"/>quantum ad opera miraculorum et 
+      vo<lb ed="#B" n="18" break="no"/>luntate de quo sco. li. 2. dist. 7. q. 
+      <lb ed="#B" n="19"/>vnica. 
+      <lb ed="#B" n="20"/>Ndemois opo 
+      <lb ed="#B" n="21"/>rantis miracula sic sint crimen irre 
+      <lb ed="#B" n="22"/>missibile: vt bene operari non liceat 
+      <lb ed="#B" n="23"/>o Et arguitur quod non triplici medio.
+</p>
+               <p xml:id="WuV37d-e68482-d1e238">
+¶ Primo 
+      <lb ed="#B" n="24"/>sic. Intellectus angelicus daemonum potest multa 
+      <lb ed="#B" n="25"/>vera intelligere. ergo et eius voluntas mul 
+      <lb ed="#B" n="26"/>ta bona velle et executiua operari. antecedens pa 
+      <lb ed="#B" n="27"/>tet auctoritate Isidori in libro de summo 
+      <lb ed="#B" n="28"/>bono: Praeuaricatores angeli etiam sanctita 
+      <lb ed="#B" n="29"/>te dimissa sensum angelice nature non 
+      ami<lb ed="#B" n="30" break="no"/>serunt. Sed probatur consequenta: tum ex illo verbo 
+      <lb ed="#B" n="31"/>philosophi. 2. philosophicorum: et septimo ethicorum. Sicut 
+      <lb ed="#B" n="32"/>principium in speculabilibus sic finis in 
+      mo<lb ed="#B" n="33" break="no"/>ralibus: tum quia tertio ethicorum scribitur dictum 
+      <lb ed="#B" n="34"/>pictaci vnius septem sapientum: Omnis 
+      mal<lb ed="#B" n="35" break="no"/>gnorans: ergo non est voluntas mala sine 
+      <lb ed="#B" n="36"/>errore intellectus.
+</p>
+               <p xml:id="WuV37d-e68482-d1e269">
+¶ Secundo arguitur sic: 
+      <lb ed="#B" n="37"/>diabolus habet immaginem dei. ergo pot bonum 
+      <lb ed="#B" n="38"/>velle: et per consequens operari. antecedens probatur. teste enim 
+      <lb ed="#B" n="39"/>dyon. quarto de diui. nomin. naturalia remanse 
+      <lb ed="#B" n="40"/>runt integra in daemonibus sunt enim per 
+      na<lb ed="#B" n="41" break="no"/>turam imago dei: in intellectu memoria et 
+      <lb ed="#B" n="42"/>voluntate. Sed probatur consequenta per illud Aug. 
+      <lb ed="#B" n="43"/>14. de ciuita. dei. ca. 6. Co enim ipso anima dei 
+      <lb ed="#B" n="44"/>imago est: quod capax et particeps eius esse 
+      <lb ed="#B" n="45"/>potest: capax / in intellectu: particepus in 
+      <lb ed="#B" n="46"/>voluntate: et per consequens bona velle. 
+      </p>
+               <p xml:id="WuV37d-e68482-d1e293">
+                  <lb ed="#B" n="47"/>¶ Tertio arguitur sic. Si daemon non 
+      <!--314.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="48"/>possit bene operari: immo semper male: 
+      <lb ed="#B" n="49"/>ergo crescit semper eius malicia: et cum: 
+      <lb ed="#B" n="50"/>nullum malum remaneat impunitum adhuc 
+      es<lb ed="#B" n="51" break="no"/>set in via merendi et demerendi: quod est 
+      con<lb ed="#B" n="52" break="no"/>tra Dama. dicentem. Quod est hominibus mors: hoc 
+      <lb ed="#B" n="53"/>est daemonibus casus. Et confirmatur: quia si ma 
+      <lb ed="#B" n="54"/>li possent demereri a simili et boni mereri: et 
+      <lb ed="#B" n="55"/>per consequens esset incerta bonorum felici 
+      <lb ed="#B" n="56"/>tas. In oppositum arguitur auctoritate glo. 
+      <lb ed="#B" n="57"/>super verbo illo. Quae conuentio christi ad 3 
+      <lb ed="#B" n="58"/>belial inquit glo. Sicut christus omnia bene 
+      fa<lb ed="#B" n="59" break="no"/>cit: ita diabolus omnia male. Item super illo 
+      <lb ed="#B" n="60"/>verbo. Diabolus ab initio peccat. glo. Ab in 
+      <lb ed="#B" n="61"/>initio suae creationis incipiens peccat 
+      conti<lb ed="#B" n="62" break="no"/>nue vsque in praesens. 
+      </p>
+               <p xml:id="WuV37d-e68482-d1e336">
+                  <lb ed="#B" n="63"/>¶ In ista quastione sunt tres articli declarandi 
+      <lb ed="#B" n="64"/>Primus est terminorum declaratiuus 
+      <lb ed="#B" n="65"/>Quorum Secundus est quaestionis responsiuus. 
+      <lb ed="#B" n="66"/>Tertius est terminorum motiuus. 
+      </p>
+               <p xml:id="WuV37d-e68482-d1e347">
+                  <lb ed="#B" n="67"/>¶ Quantum ad primum articu 
+      <lb ed="#B" n="68"/>lum: 
+      <lb ed="#B" n="69"/>termini sunt: miraculum: crimen: 
+      irremissibi<lb ed="#B" n="70" break="no"/>le: et bene operari.
+</p>
+               <p xml:id="WuV37d-e68482-d1e358">
+¶ Primus ergo ter 
+      <lb ed="#B" n="71"/>minus est miraculu: vnde miraculum secundum 
+      <lb ed="#B" n="72"/>btam Augustinus in. li. de vtilitate credendi est 
+      <lb ed="#B" n="73"/>aliquid arduum et insolitum supra spem et 
+      fa<lb ed="#B" n="74" break="no"/>cultatem admirantis: vbi tria dicit. Primo 
+      <lb ed="#B" n="75"/>quod miraculum est arduum: de his enim est 
+      miracu<lb ed="#B" n="76" break="no"/>lum quae natura tunc facere nequit: aut at 
+      <lb ed="#B" n="77"/>duum dicitur respectu operantis illud: scilicet dei 
+      <lb ed="#B" n="78"/>et maxime quando est verum miraculum. Secundo 
+      <lb ed="#B" n="79"/>dicit insolitum id est contra communem cursum 
+      na<lb ed="#B" n="80" break="no"/>turae: sicut est illuminatio ceci: non enim 
+      dici<lb ed="#B" n="81" break="no"/>tur miraculum insolitum: quia raro fiat: tunc 
+      <lb ed="#B" n="82"/>enim eclipsis solis vel lunae esset miraculum: 
+      <lb ed="#B" n="83"/>quia raro fit: sed quia contra cursum 
+      natu<lb ed="#B" n="84" break="no"/>re solitum: sicut patuit in exemplo: quia a 
+      pri<lb ed="#B" n="85" break="no"/>uatione ad habitum per naturam impossibilis 
+      <lb ed="#B" n="86"/>est regressus. Tertio dicit quod miraculum de 
+      <lb ed="#B" n="87"/>bet esse. supra. specie et facultatem admirantis. Et 
+      dif<lb ed="#B" n="88" break="no"/>ferunt hic spes et facultas: vt sit sensus: quod 
+      <lb ed="#B" n="89"/>admirans huiusmodi miraculum nec ha 
+      <lb ed="#B" n="90"/>beat spem posse tale operari: nec faculta 
+      <lb ed="#B" n="91"/>tem tale operandi. 
+</p>
+               <p xml:id="WuV37d-e68482-d1e406">
+¶ Noto vlterius: quod 
+      mi<lb ed="#B" n="92" break="no"/>raculorum tria sunt genera secundumAug. in 
+      <lb ed="#B" n="93"/>li. 93. q. Prima fiunt per publicam iusticiam 
+      <lb ed="#B" n="94"/>et ista sunt quae fiunt per impetrationem 
+      vi<lb ed="#B" n="95" break="no"/>rorum deuotorum: in quibus vere habitat 
+      <lb ed="#B" n="96"/>publica iusticia id est deus per gratiam. Secunda 
+      <!--315.xml-->
+      <pb ed="#B" n="149-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>fiunt per signa publice iusticiae: et ista sunt 
+      <lb ed="#B" n="2"/>miracula malorum hominum in quibus 
+      <lb ed="#B" n="3"/>licet non regnet per gratiam publica iusticia 
+      <lb ed="#B" n="4"/>ipsi tamen eam inuocant: et ob sui nominis reue 
+      <lb ed="#B" n="5"/>rentiam deus condescendit: sicut dicitur. Do 
+      <lb ed="#B" n="6"/>mine in nomine tuo daemonia eiecimus. 
+      <lb ed="#B" n="7"/>etc. Et dicit eis. Amen dico vobis nescio 
+      <lb ed="#B" n="8"/>vos. Tertia miracula fiunt per priuatos 
+      <lb ed="#B" n="9"/>contractus: et ista vocantur miracula daemo 
+      <lb ed="#B" n="10"/>num: quia sciunt priuatas rerum proprieta 
+      <lb ed="#B" n="11"/>tes seu contractus: et applicant ad 
+      inui<lb ed="#B" n="12" break="no"/>cem: et inde oritur effectus. Notat tamen 
+      <lb ed="#B" n="13"/>sanctus thomas et bene huius distinctionis arti. 
+      <lb ed="#B" n="14"/>3. q. 1. quod ista miracula daemonum a primis 
+      <lb ed="#B" n="15"/>duobus generibus miraculorum 
+      diffe<lb ed="#B" n="16" break="no"/>runt tripliciter. Primo ratione operantis 
+      <lb ed="#B" n="17"/>quia in primis operans est sanctissimis scilice 
+      <lb ed="#B" n="18"/>deus. in tertio operans est iniquissimus icem 
+      <lb ed="#B" n="19"/>dyabolus. Secunda differentia est: quia sem 
+      <lb ed="#B" n="20"/>per dei miracula sunt ad magnam ecclesiae 
+      <lb ed="#B" n="21"/>vtilitatem: vtputa: aut fidem augendam: aut infit 
+      <lb ed="#B" n="22"/>morum salutem. Sed daemonum miracula sunt 
+      <lb ed="#B" n="23"/>ad solam vanitatem et curiositatem: vt volita 
+      <lb ed="#B" n="24"/>re per aera: et sic de aliis: et ista differentia 
+      <lb ed="#B" n="25"/>tangitur in itinerario clementis inter mi 
+      <lb ed="#B" n="26"/>racula simonis petri: et simonis magi 
+      <lb ed="#B" n="27"/>Tertia differentia est: quia diuina 
+      mira<lb ed="#B" n="28" break="no"/>cula semper in optimum finem ordinantur de 
+      <lb ed="#B" n="29"/>se adminus: ad laudem dei ex intentione. 
+      <lb ed="#B" n="30"/>Miracula vero daemonis ex intentione 
+      fi<lb ed="#B" n="31" break="no"/>unt ad fraudem: sicuti de miraculis anti 
+      <lb ed="#B" n="32"/>christi dicitur. Ueniet in signis 
+      mendaci<lb ed="#B" n="33" break="no"/>bus: quia scilicet fallere intendit. Et differunt 
+      <lb ed="#B" n="34"/>ista tria. Signum: prodigium et 
+      miraculum<lb ed="#B" n="35" break="no"/>Signum quippe dicitur paruum miraculum 
+      <lb ed="#B" n="36"/>sicuti conuersio virgarum in serpentes. 
+      <lb ed="#B" n="37"/>Prodigium vero dicitur magnum miracu 
+      <lb ed="#B" n="38"/>lum sicuti suscitatio mortui: ideo dicitur 
+      <lb ed="#B" n="39"/>prodigium quasi procul a digito. 
+      Mira<lb ed="#B" n="40" break="no"/>culum vero commune et signo et prodigio est. 
+      </p>
+               <p xml:id="WuV37d-e68482-d1e512">
+                  <lb ed="#B" n="41"/>¶ Secundus terminus est crimen irremis 
+      <lb ed="#B" n="42"/>sibile: vnde primo noto quod ista tria dif 
+      <lb ed="#B" n="43"/>ferunt: peccatum: culpa: et crimen. 
+      Pec<lb ed="#B" n="44" break="no"/>catum enim loquendo communiter solum notat 
+      <lb ed="#B" n="45"/>vicium non deformitatem: nisi contraha 
+      <lb ed="#B" n="46"/>tur: vnde et philosophus 2. philosophicorum nominat monstra pec 
+      <lb ed="#B" n="47"/>cata in rerum naturis: vnde generaliter peccatum 
+      <lb ed="#B" n="48"/>idem est quod defectus. Culpa autem super vicium 
+      <lb ed="#B" n="49"/>seu peccatum addit deformitatem: aut venia 
+      <!--315.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>lem: aut mortalem: aut originalem. Crimen autem 
+      <lb ed="#B" n="51"/>addit culpae magnitudinem: et inde est quod 
+      <lb ed="#B" n="52"/>apostolus cum descripsit thimotheo episcopi mo 
+      <lb ed="#B" n="53"/>dum non dicit. Oportet episcopum sine 
+      pec<lb ed="#B" n="54" break="no"/>cato esse: aut culpa: sed dicit sine crimine 
+      <lb ed="#B" n="55"/>esse: quia prima duo non possumus de communi 
+      <lb ed="#B" n="56"/>euitare: sed tertium cum adiutorio. dei¬ 
+      </p>
+               <p xml:id="WuV37d-e68482-d1e554">
+                  <lb ed="#B" n="57"/>¶ Ultra noto: quod irremisibile dififter tripliciter 
+      <lb ed="#B" n="58"/>Uno modo privatiue: et sic quodlibet pecca 
+      <lb ed="#B" n="59"/>tum mortale dicitur irremissibile: quia 
+      quodli<lb ed="#B" n="60" break="no"/>bet negat et priuat gratiam per quam remittitur 
+      <lb ed="#B" n="61"/>peccatum. Secundo dicitur peccatum irremissi 
+      <lb ed="#B" n="62"/>bile: quia cum magna remittitur difficultate 
+      <lb ed="#B" n="63"/>hoc modo peccatum in spiritum sanctum dicitur irremis 
+      <lb ed="#B" n="64"/>sibile: quia magna valde vt remittatur requi 
+      <lb ed="#B" n="65"/>ritur contritio. Tertio dicitur irremissibile 
+      com<lb ed="#B" n="66" break="no"/>trarie quia scilicet est in statu opposito illi in 
+      <lb ed="#B" n="67"/>quo fit remissio: hoc modo peccatum damnato 
+      <lb ed="#B" n="68"/>rum homnium et angelorum dicitur irremissibile: et 
+      <lb ed="#B" n="69"/>sic capitur in quaestione.
+</p>
+               <p xml:id="WuV37d-e68482-d1e586">
+¶ Tertius ter 
+      <lb ed="#B" n="70"/>minus est bene operari: Unde notat do / ho 
+      <lb ed="#B" n="71"/>ctor subttlis hac dist. solutione principali itet 
+      <lb ed="#B" n="72"/>articulo primo: quod bene operari solet ca 
+      <lb ed="#B" n="73"/>pi tripliciter vltra bonitatem naturalem 
+      <lb ed="#B" n="74"/>scilicet in genere: in moribus et meritoriae. 
+      Be<lb ed="#B" n="75" break="no"/>ne operari in genere: est quando actus 
+      ca<lb ed="#B" n="76" break="no"/>dit supra debitam materiam: sicut est 
+      da<lb ed="#B" n="77" break="no"/>re elemosynam pauperi: dare est actus: 
+      <lb ed="#B" n="78"/>pauper est debita materia: bonum autem ex 
+      cir<lb ed="#B" n="79" break="no"/>cunmstantia est quando cum bonitate in 
+      gene<lb ed="#B" n="80" break="no"/>re concurrunt circunstantiae morales: sicuti 
+      <lb ed="#B" n="81"/>dare elemosynam pauperi propter debitum 
+      <lb ed="#B" n="82"/>finem loco et tempore oportunis: et sic de 
+      <lb ed="#B" n="83"/>aliis: bonum autem meritorium seu bene opera 
+      <lb ed="#B" n="84"/>ri ex merito addit quod actus ille exeat de for 
+      <lb ed="#B" n="85"/>nace charitatis: ita quod se habeant secundum 
+      sub<lb ed="#B" n="86" break="no"/>et supra: quia bene operari meritorie: 
+      in<lb ed="#B" n="87" break="no"/>cludit bene operari ex circunstantia. et bene 
+      <lb ed="#B" n="88"/>operari ex circunstantia bene operari ex genie. 
+      </p>
+               <p xml:id="WuV37d-e68482-d1e630">
+                  <lb ed="#B" n="89"/>¶ Quantum ad secundum articulum 
+      <lb ed="#B" n="90"/>sunt tres a 
+      <lb ed="#B" n="91"/>conclusiones. prima est de 
+      irremissibilita<lb ed="#B" n="92" break="no"/>te peccati diabolici. secunda de eius mala 
+      opera<lb ed="#B" n="93" break="no"/>tione. tertia de miraculis eius.
+</p>
+               <p xml:id="WuV37d-e68482-d1e643">
+¶ 
+      Pri<lb ed="#B" n="94" break="no"/>ma est haec. Sic crimen diabolicum extat iro 
+      <lb ed="#B" n="95"/>remissibile: vt ad remittendum seu ad merem 
+      <lb ed="#B" n="96"/>dum naturale liberum arbitrium habeat. 
+      Pri<lb ed="#B" n="97" break="no"/>ma pars dicit: quod peccatum daemonum est 
+      irremis<lb ed="#B" n="98" break="no"/>sibile. probatur: eadem est ratio conuersionis bo¬ 
+      <!--316.xml-->
+      <pb ed="#B" n="150-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>norum angelorum: et auersionis malorum: sed  
+      <lb ed="#B" n="2"/>boni angeli post plenam conuersionem 
+      ple<lb ed="#B" n="3" break="no"/>ne in bono sunt confirmati. ergo et mali post 
+      <lb ed="#B" n="4"/>plenam auersionem penitus sunt obstinati. vnde 
+      <lb ed="#B" n="5"/>Aug. in li. de fide ad petrum. Sic creauit 
+      <lb ed="#B" n="6"/>deus angelos: vt qui vellent perpetuo boni 
+      <lb ed="#B" n="7"/>essent: et qui nollent numquam eos diuio mumere 
+      re<lb ed="#B" n="8" break="no"/>pararet. Et si dicatur ad remissionem peccati sus 
+      <lb ed="#B" n="9"/>ficit misericordia dei: et peccatorum contritio. 
+      <lb ed="#B" n="10"/>Hisericordia autem domini sper presto est: quia mi 
+      <lb ed="#B" n="11"/>sericordia domini plena est terra: et diabolus 
+      <lb ed="#B" n="12"/>ex eo quod habet liberum arbitrium potest conteri. 
+      <lb ed="#B" n="13"/>igitur et peccatum suum dimitti. Huic dubio ad 
+      <lb ed="#B" n="14"/>planum respondet doc. sub. in hac distinctione 
+      <lb ed="#B" n="15"/>in solutione pricipali arti. 2. Primmo 
+      distin<lb ed="#B" n="16" break="no"/>guens triplicem potentiam. scilicet potentiam quae dicit ratio 
+      <lb ed="#B" n="17"/>nem principii: potentiam metaphicam quae dicit 
+      <lb ed="#B" n="18"/>ordinem ad actum: et potentiam logicam: quae 
+      di<lb ed="#B" n="19" break="no"/>cit non repugnantiam terminorum: loquendo 
+      <lb ed="#B" n="20"/>de his tribus potentiis in sensu diuisionis 
+      <lb ed="#B" n="21"/>non compositiouis: quia sic certum est: quod est irre 
+      <lb ed="#B" n="22"/>missibile: sicut album manens album: nequit esse 
+      <lb ed="#B" n="23"/>nigrum. Tunc dicit quod loquendo de potem 
+      <lb ed="#B" n="24"/>tia quae est principium: scilicet in proposito de 
+      <lb ed="#B" n="25"/>voluntate ex parte diaboli potest remitti 
+      pec<lb ed="#B" n="26" break="no"/>catum eius: potest enim inquit voluntas daemonis 
+      <lb ed="#B" n="27"/>considerari primo inquantum recipiens: cer 
+      <lb ed="#B" n="28"/>tum est autem quod illa eadem est voluntas quae in 
+      cae<lb ed="#B" n="29" break="no"/>lis empireis aliquando gratiam habuit: quia 
+      <lb ed="#B" n="30"/>naturalia manserunt integra: et ita adhuc 
+      <lb ed="#B" n="31"/>inquantum receptiua potest habere gratiam. 
+      <lb ed="#B" n="32"/>Rursus potest considerari inquantum actiua: 
+      <lb ed="#B" n="33"/>nunc autem inquantum libera esset principium 
+      <lb ed="#B" n="34"/>actus meritorii ex parte sui: sicut fuit in 
+      cae<lb ed="#B" n="35" break="no"/>lo: et ita ex parte sui potest mereri 
+      remissio<lb ed="#B" n="36" break="no"/>nem huius criminis. Sed vnde est ergo im 
+      <lb ed="#B" n="37"/>peditum: respondet ex parte gratiae. In pri 
+      <lb ed="#B" n="38"/>mo enim habitum est distinctione. 17. quod vo 
+      <lb ed="#B" n="39"/>luntas et charitas sunt vna causa totalis 
+      <lb ed="#B" n="40"/>actus meritorii: ita quod nec charitas sine 
+      vo<lb ed="#B" n="41" break="no"/>luntate nec voluntas sine charitate 
+      huius<lb ed="#B" n="42" break="no"/>modi causat actum: et quia diabolus non ha 
+      <lb ed="#B" n="43"/>bet charitatem: ideo licet habeat voluntatem 
+      <lb ed="#B" n="44"/>nequit mereri: patet ad sensum: si bomo 
+      <lb ed="#B" n="45"/>sit in tenebris licet habeat potentiam 
+      vi<lb ed="#B" n="46" break="no"/>siuam: nequit tamen in actu videre: quia 
+      <lb ed="#B" n="47"/>aliud requiritur scilicet medii illuminatio sic 
+      <lb ed="#B" n="48"/>in proposito. Et si dicatur potest atteri ex 
+      <lb ed="#B" n="49"/>puris naturalibus: et ita disponi ad contri¬ 
+      <!--316.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>tionem quae fit per charitatem. Dico quod nec 
+      <lb ed="#B" n="51"/>potest atteri: quia remota est sibi gratia 
+      <lb ed="#B" n="52"/>gratis data disponens ad huiusmodi 
+      at<lb ed="#B" n="53" break="no"/>tritionem: vnde legitur beatum macharium 
+      <lb ed="#B" n="54"/>semel deum pro diabolo orasse. Cui dixit 
+      <lb ed="#B" n="55"/>dominus: promptus sum misereri si promptus 
+      <lb ed="#B" n="56"/>sit veniam petere. Responso dato a viro 
+      <lb ed="#B" n="57"/>sancto daemoni daemon intulit: mihi debet 
+      <lb ed="#B" n="58"/>deus veniam petere: qui me tot temporibus 
+      <lb ed="#B" n="59"/>inferni ignibus sine causa cremauit. Sed  
+      <lb ed="#B" n="60"/>aliquis diceret: ista remotio gratiae gratis 
+      <lb ed="#B" n="61"/>date non videtur esse nisi a deo: et ita est 
+      de<lb ed="#B" n="62" break="no"/>us causa obstinationis daemonis. Responden 
+      <lb ed="#B" n="63"/>dum quod remotio illa non habet proprie 
+      <lb ed="#B" n="64"/>causam effectiuam: sed defectiuam: secundum 
+      ta<lb ed="#B" n="65" break="no"/>men quod habet causam: causa demeritoria 
+      <lb ed="#B" n="66"/>est ex parte daemonis peccantis: non a par 
+      <lb ed="#B" n="67"/>te dei iuste donum suum remouentis. Et si 
+      <lb ed="#B" n="68"/>quaeratur quare remouet hanc gratiam gra 
+      <lb ed="#B" n="69"/>tis datam daemonibus: et tamen. dimittit 
+      <lb ed="#B" n="70"/>in hoc mundo multis malis hominibus 
+      <lb ed="#B" n="71"/>qui post multa magna peccata emendan 
+      <lb ed="#B" n="72"/>tur. Respondit doctor deuotus huius distincti 
+      <lb ed="#B" n="73"/>onis parte prima articulo. 1. q. 1. quod ratio 
+      <lb ed="#B" n="74"/>est: quia dedit terminum merendi angelis 
+      <lb ed="#B" n="75"/>et hominibus: hominibus longum: quia sunt 
+      <lb ed="#B" n="76"/>corporei: et generatione propagantur: 
+      an<lb ed="#B" n="77" break="no"/>gelis autem modicum: quia sunt naturae 
+      spiritua<lb ed="#B" n="78" break="no"/>lis: et cito conuertibilis: et sapientia sua sta 
+      <lb ed="#B" n="79"/>tuit post statutum tempus merendi quod non 
+      <lb ed="#B" n="80"/>concurrit cum eis ad vllum meritum. Et quia 
+      <lb ed="#B" n="81"/>iam daemon est extra statum suum merendi 
+      <lb ed="#B" n="82"/>homo vero peccator non: ideo non est simile: sed  
+      <lb ed="#B" n="83"/>post mortem: nec potest homo malus mereri sicut 
+      <lb ed="#B" n="84"/>nec daemon. Et hoc est quod proprie dicit Dam. 
+      <lb ed="#B" n="85"/>Quod est homini mors: est diabolo casus. Sed  
+      <lb ed="#B" n="86"/>si secundo loquamur de potentia quae dicit 
+      or<lb ed="#B" n="87" break="no"/>dinem ad actum: dicit doctor subti. loco 
+      prae<lb ed="#B" n="88" break="no"/>allegato: quod peccatum suum potest remitti: lo 
+      <lb ed="#B" n="89"/>quendo de potentia remota: sed non propinqua: 
+      <lb ed="#B" n="90"/>hoc est dictu: quod daemon habet voluntatem 
+      <lb ed="#B" n="91"/>quae remote se habet ad merendum: non 
+      <lb ed="#B" n="92"/>propinque: quia sunt impedimenta quae 
+      <lb ed="#B" n="93"/>remouere nequit: sicuti est defectus 
+      gra<lb ed="#B" n="94" break="no"/>tiae. Si tertio loquamur de potentia logi 
+      <lb ed="#B" n="95"/>ca loquendo de impedimento intrinseco 
+      <lb ed="#B" n="96"/>nulla est impossibilitas: quia gratia et vo 
+      <lb ed="#B" n="97"/>luntas vt sic non sunt incompossibiles. Sed to 
+      <lb ed="#B" n="98"/>ta impossibilitas venit ex impedimento 
+      <!--317.xml-->
+      <pb ed="#B" n="150-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>extrinseco: quia scilicet deus non vult concurrere 
+      <lb ed="#B" n="2"/>propter legem positam: et statutum tempus meren 
+      <lb ed="#B" n="3"/>di: et ita daemonis crimen efficitur irremissibi 
+      <lb ed="#B" n="4"/>le: nec est causa deus: sed diabolus quae hoc 
+      <lb ed="#B" n="5"/>meruit. Sed secunda pars conclusionis 
+      di<lb ed="#B" n="6" break="no"/>cebat: quod diabolus habet liberum arbitrium 
+      <lb ed="#B" n="7"/>ad remittendum seu ad merendum. patet ex 
+      <lb ed="#B" n="8"/>prima parte. Et si obiiciatur: quia secundum ans. Li 
+      <lb ed="#B" n="9"/>berum arbitrium est potestas seruandi rectitudi 
+      <lb ed="#B" n="10"/>nem propter se: sed propter rectitudinem 
+      <lb ed="#B" n="11"/>operari bonorum est non malorum. Responden 
+      <lb ed="#B" n="12"/>dum quod ista potestas debet intelligi remote: et 
+      <lb ed="#B" n="13"/>ista est adhuc bene in daemonibus: vel 
+      di<lb ed="#B" n="14" break="no"/>catur quod diffinit solum liberum arbitrium gratia 
+      <lb ed="#B" n="15"/>informatum.
+</p>
+               <p xml:id="WuV37d-e68482-d1e918">
+¶ Ex ista parte conclusionis patet 
+      <lb ed="#B" n="16"/>defectus doctoris solennis: qui posuit: quad 
+      <lb ed="#B" n="17"/>ratio obstinationis daemionis est: quia ad quod 
+      <lb ed="#B" n="18"/>cumque se conuertit: immobiliter se conuertit: 
+      <lb ed="#B" n="19"/>vnde dicunt aliqui: triplex esse liberum 
+      arbi<lb ed="#B" n="20" break="no"/>trium. Primum est quod semper est determinatum 
+      <lb ed="#B" n="21"/>ad bonum: cuiusmodi est diuinum. Secun 
+      <lb ed="#B" n="22"/>dum est quod potest successiue in bonum et malum: si 
+      <lb ed="#B" n="23"/>cuti humanum: quod potest a malo ad bonum re 
+      <lb ed="#B" n="24"/>uerti et econtra. Tertium est in medio de se 
+      <lb ed="#B" n="25"/>quidem in principio indifferens ad bonum et 
+      <lb ed="#B" n="26"/>malum: sed post conuersionem ad bonum 
+      pe<lb ed="#B" n="27" break="no"/>nitus confirmatur in bonum: et post auersionem 
+      <lb ed="#B" n="28"/>penitus in malum. Sic dicit gandensis: quod per 
+      <lb ed="#B" n="29"/>auersionem penitus daemones sunt obstina 
+      <lb ed="#B" n="30"/>ti: sic quod etiam a parte sui nequeunt desistere 
+      <lb ed="#B" n="31"/>a malo. Et dat exemplum de ferro fortiter 
+      <lb ed="#B" n="32"/>in osse inclauato: et iterum repercusso: tale 
+      <lb ed="#B" n="33"/>enim non potest ab osse egredi. prius enim 
+      rum<lb ed="#B" n="34" break="no"/>peretur: patet ex conclusione: quod ista non est cau 
+      <lb ed="#B" n="35"/>sa. Et confirmatur clare: quia angeli vt patur 
+      <lb ed="#B" n="36"/>it distinctione. 5. habuerunt viam merendi: 
+      <lb ed="#B" n="37"/>et post primum peccatum potuissent 
+      habuis<lb ed="#B" n="38" break="no"/>se veniam: et per consequens obstinatio non habet 
+      or<lb ed="#B" n="39" break="no"/>tum illuc: rursus posterius non mutat prius 
+      <lb ed="#B" n="40"/>et maxime actus alicuius potentiae non vari 
+      <lb ed="#B" n="41"/>at rationem formalem illius potentiae. Cum igitur 
+      <lb ed="#B" n="42"/>voluntas daemonis ante illum actum 
+      auersio<lb ed="#B" n="43" break="no"/>nis sit libera: ergo etiam et post actum: ratio 
+      <lb ed="#B" n="44"/>quippe exigit: vt sicut aliquid in aliud 
+      tem<lb ed="#B" n="45" break="no"/>dit: ita in illo quiescat: sicut quia lapis 
+      tem<lb ed="#B" n="46" break="no"/>dit naturaliter in centrum: ita illic 
+      naturali<lb ed="#B" n="47" break="no"/>ter quiescit. A simili quia libere se auertit a 
+      <lb ed="#B" n="48"/>summo bono diabolus: ita libere in eo mo 
+      <lb ed="#B" n="49"/>ratur.
+</p>
+               <p xml:id="WuV37d-e68482-d1e994">
+¶ Secunda conclusio est de mala 
+      <!--317.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>operatione daemonum: et est haec. Sic continue 
+      <lb ed="#B" n="51"/>actu daemodo caret meriti: vt malum de gene 
+      <lb ed="#B" n="52"/>possit non operari.
+</p>
+               <p xml:id="WuV37d-e68482-d1e1007">
+¶ Prima pars dicit quod 
+      <lb ed="#B" n="53"/>daemon caret actu meritorio. patet 
+      mani<lb ed="#B" n="54" break="no"/>feste: quia iste actus meritorius elicitur 
+      medi<lb ed="#B" n="55" break="no"/>ante dono charitatis: non autem habet chari 
+      <lb ed="#B" n="56"/>tatem ex conclusione praecedenti. vnde articulo 
+      <lb ed="#B" n="57"/>primo huius dist. q. 2. notat doc. deuo. 
+      tri<lb ed="#B" n="58" break="no"/>plicitur voluntatem diaboli esse crimine fedatam 
+      <lb ed="#B" n="59"/>Primo quantum ad deformitemat: quia culpa 
+      <lb ed="#B" n="60"/>eius sper est in voluntate sua ipsam incredibi 
+      <lb ed="#B" n="61"/>li turpitudine fedans. Secundo quo ad 
+      pro<lb ed="#B" n="62" break="no"/>nitatem: quia promptus est semper in 
+      ma<lb ed="#B" n="63" break="no"/>lum.
+</p>
+               <p xml:id="WuV37d-e68482-d1e1034">
+¶ Sed hic quaeritur: vtrum adhuc lu / 
+      <lb ed="#B" n="64"/>cifer appetat aequalitatem dei. Dicitur quod sic: 
+      <lb ed="#B" n="65"/>sed differenter: quia antequam caderet appe 
+      <lb ed="#B" n="66"/>tiit cum quadam spe obtinendi: nunc autem scit 
+      <lb ed="#B" n="67"/>bene: quod numquam perueniet: appetit tamen semper 
+      <lb ed="#B" n="68"/>secundum illud patm. Superbia eorum qui 
+      teode<lb ed="#B" n="69" break="no"/>runt ascendit semper. Et est exemplum: ali 
+      <lb ed="#B" n="70"/>quis ambitiosus appetit episcopatum: alteri 
+      <lb ed="#B" n="71"/>datur: adhuc appetit: ita quod variatur mo 
+      <lb ed="#B" n="72"/>dus ambiendi: licet semper maneat 
+      ambi<lb ed="#B" n="73" break="no"/>tio. Tertio fedatur voluntas diaboli quantum 
+      <lb ed="#B" n="74"/>ad continuationem: quia adminus continue 
+      <lb ed="#B" n="75"/>vult male operari: licet vnum nunc peccatum nunc 
+      <lb ed="#B" n="76"/>aliud. Et si obiiciatur ex illo. Daemones cre  
+      <lb ed="#B" n="77"/>dunt et contremiscunt: ergo non semper sunt in 
+      <lb ed="#B" n="78"/>actu malo. Respondendum quod licet 
+      crede<lb ed="#B" n="79" break="no"/>re in se sit bonum: et timere bonum: tamen ex 
+      <lb ed="#B" n="80"/>adiuncto in daemone fiunt male: ita quod sunt 
+      <lb ed="#B" n="81"/>bona ex genere: sed mala ex circunstantia: cre 
+      <lb ed="#B" n="82"/>dere enim in eo est malum: quia non credit eo 
+      <lb ed="#B" n="83"/>modo quo debet. Rursus timere est 
+      ma<lb ed="#B" n="84" break="no"/>lum in eo: quia non timet: nisi ratione 
+      pae<lb ed="#B" n="85" break="no"/>ne: nec propter hoc dimittit malum facere: 
+      <lb ed="#B" n="86"/>veluti latro qui timet furcam: nec tamen 
+      <lb ed="#B" n="87"/>dimittit furari.
+</p>
+               <p xml:id="WuV37d-e68482-d1e1089">
+¶ Sed secunda pars con 
+      <lb ed="#B" n="88"/>clusionis: dicit quod daemon potest non 
+      ope<lb ed="#B" n="89" break="no"/>rari malum ex genere. probatur. Daemones 
+      <lb ed="#B" n="90"/>enim habent vermem conscientiae: seu sinderisim 
+      <lb ed="#B" n="91"/>semper malo repugnantem. Caeterum habent 
+      <lb ed="#B" n="92"/>voluntatem liberam. ergo videtur quod possit 
+      ca<lb ed="#B" n="93" break="no"/>dere voluntas: vt conformis sinderesi 
+      fie<lb ed="#B" n="94" break="no"/>ret: super hoc quod est nolle peccatum: et cum 
+      <lb ed="#B" n="95"/>non habeant simul duos actus: tunc non 
+      <lb ed="#B" n="96"/>vellent malum ex genere. Secundo quia secundum 
+      <lb ed="#B" n="97"/>Aug. 22. capitulo retractationum. Nihil est tam 
+      <lb ed="#B" n="98"/>in potestate voluntatis: quam ipsa voluntas. 
+      <!--318.xml-->
+      <pb ed="#B" n="151-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>id est ipse volendi actus ergo poterit vo 
+      <lb ed="#B" n="2"/>luntas daemonis vt videtur suspendere velle 
+      <lb ed="#B" n="3"/>omne malum ex genere per vnum non velle: 
+      <lb ed="#B" n="4"/>tamen secundum doctorem subtilem probabile est quod 
+      <lb ed="#B" n="5"/>secundum istam potentiam non exeunt in actum 
+      pro<lb ed="#B" n="6" break="no"/>pter vehementem maliciam: secundum quam magis 
+      <lb ed="#B" n="7"/>probabile est quod agant: quamuis secundum potesta 
+      <lb ed="#B" n="8"/>tem naturalem possent in actus aliquo mo 
+      <lb ed="#B" n="9"/>do oppositos.
+</p>
+               <p xml:id="WuV37d-e68482-d1e1141">
+¶ Ex quo patet defectus 
+      <lb ed="#B" n="10"/>sancti thome in secundo dicentis quod 
+      simplici<lb ed="#B" n="11" break="no"/>ter daemones non possunt bonum velle: cuius 
+      <lb ed="#B" n="12"/>ratio est: quia sicut est impossibile aliquem vll 
+      <lb ed="#B" n="13"/>timate coniunctum recto fini male operari: sic 
+      <lb ed="#B" n="14"/>pariformiter impossibile est aliquem vlti 
+      <lb ed="#B" n="15"/>mate auersum a recto fine bene operari: ma 
+      <lb ed="#B" n="16"/>xime applicando: quia philosophus dicit in. vii. 
+      ethi<lb ed="#B" n="17" break="no"/>corum quod agens ex habitu est impenitiuus: 
+      <lb ed="#B" n="18"/>cum igitur daemon sit ex habitu auersus a deo 
+      <lb ed="#B" n="19"/>nullo modo posset velle bonum. patet tamen 
+      <lb ed="#B" n="20"/>oppositum ex conclusione. Et confirmatur: habi 
+      <lb ed="#B" n="21"/>tus enim ille seu obstinatio est effectus 
+      ipsi<lb ed="#B" n="22" break="no"/>us voluntatis: ergo non mutat modum 
+      agen<lb ed="#B" n="23" break="no"/>di eius qui est vertibilitas in creata volum 
+      <lb ed="#B" n="24"/>tate: et quod dicit ex philosopho: quia agens ex habitu 
+      <lb ed="#B" n="25"/>est impenitiuus. ex. 7. ethicorum. Dicendum quod 
+      <lb ed="#B" n="26"/>debet intelligi id est cum vi et difficultate 
+      peni<lb ed="#B" n="27" break="no"/>tet: sicut cum dicitur quod peccatum in spiritum 
+      san<lb ed="#B" n="28" break="no"/>ctum est irremissibile / intelligitur: id est cum 
+      vi<lb ed="#B" n="29" break="no"/>remittitur. Et quod dicitur: quod exquo est auersus 
+      <lb ed="#B" n="30"/>a fine vltimo immediate nequit operari bo 
+      <lb ed="#B" n="31"/>num. Iam patuit ex prima conclusione: quia 
+      prin<lb ed="#B" n="32" break="no"/>cipalis ratio est: quia deus non concurrit licet 
+      <lb ed="#B" n="33"/>aemonis voluntas in se libera sit.
+</p>
+               <p xml:id="WuV37d-e68482-d1e1196">
+¶ Ter 
+      <lb ed="#B" n="34"/>tia conclusio est / de miraculis daemonum: 
+      <lb ed="#B" n="35"/>et est haec. Sic in demonibus virtus viget 
+      <lb ed="#B" n="36"/>atque cognitio vt vera miracula queant ope 
+      <lb ed="#B" n="37"/>rari. Prima pars diciti / quod in demonibus 
+      vi<lb ed="#B" n="38" break="no"/>get virtus et cognitio quod enim habeant 
+      cogni<lb ed="#B" n="39" break="no"/>tionem: probatur auctoritate dyon. 4. diuinorum 
+      <lb ed="#B" n="40"/>nominum / vbi loquens de demonibus dicit: 
+      <lb ed="#B" n="41"/>quod adhuc habent naturalia splendidissima: 
+      <lb ed="#B" n="42"/>per etiam virtutem: patet ex illo iob. Non est 
+      <lb ed="#B" n="43"/>potestas super terram que possit ei comparari 
+      <lb ed="#B" n="44"/>Et si obiiciatur: quia ibidem dyon. ait quod 
+      demo<lb ed="#B" n="45" break="no"/>nes habent fantasiam proteruam / amentem concu 
+      <lb ed="#B" n="46"/>piscentiam et irascibilem furiosam: et ita exquo 
+      <lb ed="#B" n="47"/>sunt fantastici amentes et furiosi: videtur quod 
+      <lb ed="#B" n="48"/>careant cognitione. Respondendum quod primo di 
+      <lb ed="#B" n="49"/>cuntur habere fantasiam proteruam: non quia habe¬ 
+      <!--318.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>ant organum fantasticum veluti nos: sed 
+      di<lb ed="#B" n="51" break="no"/>cuntur habere fantasiam proteruam: quia ponunt 
+      <lb ed="#B" n="52"/>intentionem suam ad nos decipiendum et 
+      duce<lb ed="#B" n="53" break="no"/>re in errorem: Sicut si vnus magnus 
+      cle<lb ed="#B" n="54" break="no"/>ricus studeret sophismata ad decipiendum 
+      <lb ed="#B" n="55"/>minus sapientes: ita hi dicuntur fantastici: 
+      <lb ed="#B" n="56"/>uia quaerunt rationes fantasticas: vt nos 
+      il<lb ed="#B" n="57" break="no"/>laqueent / dicuntur etiam habere scilicet concupisci. 
+      <lb ed="#B" n="58"/>pilem amentem: quia cum solum deberent honestum 
+      <lb ed="#B" n="59"/>biligere: diligunt maxime nociua sicut 
+      pec<lb ed="#B" n="60" break="no"/>care / dicuntur etiam habere irascibilem 
+      furio<lb ed="#B" n="61" break="no"/>sam: quia cum solis malis irasci deberent: 
+      ira<lb ed="#B" n="62" break="no"/>scuntur maxime contra bona: ita quod ista tria 
+      <lb ed="#B" n="63"/>fantasia: amentia et furor non ponunt 
+      igno<lb ed="#B" n="64" break="no"/>rantiam in demonibus: sed notant in eis 
+      per<lb ed="#B" n="65" break="no"/>uersissimum appetitum.
+</p>
+               <p xml:id="WuV37d-e68482-d1e1272">
+¶ Secunda pars 
+      co<lb ed="#B" n="66" break="no"/>clusionis / dicit quod demones aliquando faciunt 
+      <lb ed="#B" n="67"/>vera miracula: ista est expresse intentio 
+      be<lb ed="#B" n="68" break="no"/>ati aug. in li. q. veteris et noui testamenti 
+      <lb ed="#B" n="69"/>vbi exponit illud: Et fecerunt magi 
+      simili<lb ed="#B" n="70" break="no"/>ter dicit quod sicut moyses conuertit virgas 
+      <lb ed="#B" n="71"/>in veros serpentes ita magi. vnde glo. super 
+      <lb ed="#B" n="72"/>Exo. 7. de illa conuersione virgarum dicit quod 
+      <lb ed="#B" n="73"/>daemiones discurrunt per mundum: et colligunt 
+      <lb ed="#B" n="74"/>diuersas species rerum ex quibus varia fiunt. 
+      <lb ed="#B" n="75"/>Et si dicatur quod tempore antichristi maxime vige 
+      <lb ed="#B" n="76"/>bit potestas diaboli: et tamen dicit apostolus 
+      <lb ed="#B" n="77"/>pro veniet in signis mendacibus et ita a for 
+      <lb ed="#B" n="78"/>tiori nec modo facit vera miracula. Dicen 
+      <lb ed="#B" n="79"/>dum quod esse verum vel esse falsum potest capi 
+      <lb ed="#B" n="80"/>duplicitur: Uno modo absolute: et sic 
+      dici<lb ed="#B" n="81" break="no"/>tur verum aurum quando scilicet vere habet auri 
+      na<lb ed="#B" n="82" break="no"/>turam: et falsum quando habet auri apparentiam 
+      <lb ed="#B" n="83"/>solum: sicut auricalcum vel aurum malorum al 
+      <lb ed="#B" n="84"/>chimistarum. Secundo modo potest capi 
+      <lb ed="#B" n="85"/>verum vel falsum respectiue ad aliud: vt di 
+      <lb ed="#B" n="86"/>catur verum quod fit propter bonam intentionem et ma 
+      <lb ed="#B" n="87"/>nifestationem veritatis: et falsum quod fit propter 
+      <lb ed="#B" n="88"/>deceptionem: primo modo aliquotiens demon 
+      <lb ed="#B" n="89"/>facit vera miracula et antichristus etiam fa 
+      <lb ed="#B" n="90"/>ciet: sed non secundo modo: quia tam daemonis 
+      <lb ed="#B" n="91"/>quam antichristi miracula sunt propter 
+      dece<lb ed="#B" n="92" break="no"/>ptionem. vnde nec dico quod semper faciant: 
+      si<lb ed="#B" n="93" break="no"/>cuti loquitur aug. super illo verbo immissiones 
+      <lb ed="#B" n="94"/>per angelos malos. Ca quae mirabiliter fiunt 
+      <lb ed="#B" n="95"/>in creaturis attribuere malis angelis non 
+      <lb ed="#B" n="96"/>audemus: intelligitur de excellentibus 
+      mira<lb ed="#B" n="97" break="no"/>culis respectu quorum daemiones solummodo: 
+      <lb ed="#B" n="98"/>simeimant. Et tantum de secundoarticulo. 
+      <!--319.xml-->
+      <pb ed="#B" n="151-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>Quantum ad tertium artic 
+      <lb ed="#B" n="2"/>culum 
+      <lb ed="#B" n="3"/>sunt tres breves difficultates.
+</p>
+               <p xml:id="WuV37d-e68482-d1e1359">
+¶ Pri 
+      <lb ed="#B" n="4"/>ma. Si vnquam peccatum diaboli remittetur: 
+      <lb ed="#B" n="5"/>Dicendum quod non: vnde inter alios origenis 
+      <lb ed="#B" n="6"/>errores iste in suo periarchon repartus est 
+      <lb ed="#B" n="7"/>vbi ponit quod iterum christus morietur pro 
+      de<lb ed="#B" n="8" break="no"/>monibus in aere: sicuti pro nobis mortuus 
+      <lb ed="#B" n="9"/>est in terra et tunc saluabuntur. Est error: tum 
+      <lb ed="#B" n="10"/>quia dicit quod christus iterum morietur: quia mors 
+      <lb ed="#B" n="11"/>ei ultra non dominabitur: tum quia dicit daemiones 
+      <lb ed="#B" n="12"/>redimendos. Ite inquit in ignem aeternum qui 
+      <lb ed="#B" n="13"/>paratus est diabolo et angelis aeius.
+</p>
+               <p xml:id="WuV37d-e68482-d1e1384">
+¶ Se 
+      <lb ed="#B" n="14"/>cunda difficultas an daemon semper de 
+      <lb ed="#B" n="15"/>mereatur. Dicendum quod est meritum essentiale 
+      <lb ed="#B" n="16"/>et accidentale. Sicut igitur boni angeli 
+      no<lb ed="#B" n="17" break="no"/>bis ministrando non merentur praemium 
+      essen<lb ed="#B" n="18" break="no"/>tiale: scilicet visionem et fruitionem dei sed 
+      acci<lb ed="#B" n="19" break="no"/>dentale: Sic daemones peccando continus 
+      <lb ed="#B" n="20"/>non merentur paenam aeternam quam ex antiquo 
+      me<lb ed="#B" n="21" break="no"/>ruerunt: sed accidentalem demerentur: quia om 
+      <lb ed="#B" n="22"/>ne peccatum peccanti poena est.
+</p>
+               <p xml:id="WuV37d-e68482-d1e1406">
+¶ Tertia 
+      <lb ed="#B" n="23"/>difficultas. Si sit licitum aliquotiens 
+      in<lb ed="#B" n="24" break="no"/>uestigare aliquid a daemone: vel adiutorium 
+      <lb ed="#B" n="25"/>quirere per magicas artes: vel aliter. dicit 
+      <lb ed="#B" n="26"/>doctor deuotus huius distinctionis: par 
+      <lb ed="#B" n="27"/>te secunda. arti. 2. quaestione. 3. quod non: triplici ra 
+      <lb ed="#B" n="28"/>tione. Primo propter infidelitatem 
+      creden<lb ed="#B" n="29" break="no"/>do infidelissimo spiritui. Secundo propter ido 
+      <lb ed="#B" n="30"/>latriam: quia libentissime in huiusmodi artibus 
+      <lb ed="#B" n="31"/>magicis petit quod sibi sacrificetur. Tertio pro 
+      <lb ed="#B" n="32"/>pter praeceptum ecclesiae prohibentis. Et tantum 
+      <lb ed="#B" n="33"/>de tertio articulo. Ex quo patet ad quaestio 
+      <lb ed="#B" n="34"/>nem: quod scilicet daemonis miracula operantis 
+      <lb ed="#B" n="35"/>sic est crimen irremissibile vt bene 
+      opera<lb ed="#B" n="36" break="no"/>ri non liceat. Et tunc ad argumenta.
+</p>
+               <p xml:id="WuV37d-e68482-d1e1439">
+¶ Ad  
+      <lb ed="#B" n="37"/>primum negatur consequentia. Et ad probationem 
+      <lb ed="#B" n="38"/>sicut principium etc. Dico quod non intelligitur quod 
+      <lb ed="#B" n="39"/>si principia intelliguntur ab alio: quod finis dili 
+      <lb ed="#B" n="40"/>gatur ab eodem: hoc enim est falsum in quo 
+      <lb ed="#B" n="41"/>cunque peccato mortali: Sed intelligitur quod 
+      <lb ed="#B" n="42"/>sicut debito modo sciendo a principiis ve 
+      <lb ed="#B" n="43"/>nitur ad conclusiones: Sic debito modo 
+      <lb ed="#B" n="44"/>volendo a dilectione finis ad horum 
+      dile<lb ed="#B" n="45" break="no"/>ctionem quae sunt ad finem. Et de dicto pitaci 
+      <lb ed="#B" n="46"/>omnis malus ignorans quo ad praesens: 
+      di<lb ed="#B" n="47" break="no"/>co quod ignorans potest capi id est non approbans 
+      <lb ed="#B" n="48"/>sicut illud math. Nescio vos. Omnis autem 
+      <lb ed="#B" n="49"/>peccans non approbat bonum.
+</p>
+               <p xml:id="WuV37d-e68482-d1e1470">
+¶ Ad secundum 
+      <!--319.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>iam patuit qualiter daemodo potentia remota 
+      <lb ed="#B" n="51"/>potest velle bonum non propinqua: et hoc 
+      <lb ed="#B" n="52"/>sufficit ad imperfectam rationem imaginis. 
+      <lb ed="#B" n="53"/>perfecta autem insignitur charitate et virtutibus 
+      <lb ed="#B" n="54"/>et hanc non habet diabolus.
+</p>
+               <p xml:id="WuV37d-e68482-d1e1488">
+¶ Ad tertium 
+      <lb ed="#B" n="55"/>iam patuit qualiter daemones sunt in 
+      ter<lb ed="#B" n="56" break="no"/>mino demeriti principalis: quo autem ad ac 
+      <lb ed="#B" n="57"/>cidentale bene demerentur vsque ad dicit 
+      iu<lb ed="#B" n="58" break="no"/>dicii: et tunc retrudentur in locum tartareum 
+      <lb ed="#B" n="59"/>imperpetuum mansuri. Idem dico de me 
+      <lb ed="#B" n="60"/>rito essentiali et accidentali bonorum 
+      ange<lb ed="#B" n="61" break="no"/>lorum. Et sic patet ad quaestionem.
+</p>
+            </div>
+            <div xml:id="WuV37d-e68482-Dd1e1507" type="et-conclusiones">
+               <head xml:id="WuV37d-e68482-Hd1e1509">Conclusiones</head>
+               <p xml:id="WuV37d-e68482-d1e1512">
+¶ Ex 
+      prae<lb ed="#B" n="62" break="no"/>senti autem distinctione etc. Sunt in 
+      <lb ed="#B" n="63"/>gloria boni confirmati: et in nequitia mali 
+      <lb ed="#B" n="64"/>obstinati. Dicit prima conclusio / quod boni an 
+      <lb ed="#B" n="65"/>geli sunt confirmati in gloria: et mali obsti 
+      <lb ed="#B" n="66"/>nati in peccato: et ponitur a principio distin. 
+      <lb ed="#B" n="67"/>vsque ibi. Et licet mali angeli.
+</p>
+               <p xml:id="WuV37d-e68482-d1e1528">
+¶ 
+      Secun<lb ed="#B" n="68" break="no"/>da conclusio: magna scientia mali spiritus  
+      <lb ed="#B" n="69"/>hic vigent penitus atque astutia. Dicit 
+      se<lb ed="#B" n="70" break="no"/>cunda conclusio: quod daemones habent 
+      mag<lb ed="#B" n="71" break="no"/>nam scientiam et astutiam: et deducitur ab illo ca. 
+      <lb ed="#B" n="72"/>Et licet etc. vsque ibi. Quorum scientia.
+</p>
+               <p xml:id="WuV37d-e68482-d1e1541">
+¶ 
+      Ter<lb ed="#B" n="73" break="no"/>tia conclusio: angelice mentes non sunt crea 
+      <lb ed="#B" n="74"/>tores sed temptatores bene vel male en 
+      <lb ed="#B" n="75"/>tes. Dicit tertia conclusio: quod nec boni nec 
+      <lb ed="#B" n="76"/>mali angeli sunt creatores rerum sed 
+      qua<lb ed="#B" n="77" break="no"/>si agricole: et deducitur ab illo loco. 
+      Quo<lb ed="#B" n="78" break="no"/>rum scientia vsque ad finem distinctionis. 
+</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

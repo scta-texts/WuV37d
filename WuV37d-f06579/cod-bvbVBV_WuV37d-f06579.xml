@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 43</title>
+            <author ref="#WilliamDeVaurouillon">William de Vaurouillon</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 43</title>
+               <date when="2021-06-19">June 19, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-bvbVBV">Basel 1510</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-06-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="228-r"/>
+            <cb ed="#B" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="WuV37d-f06579"><!-- l2d43 -->
+            <head xml:id="WuV37d-f06579-Hd1e108">Distinctio 43</head>
+            <div xml:id="WuV37d-f06579-Dd1e111" type="circa-textum">
+               <head xml:id="WuV37d-f06579-Hd1e113">Circa textum</head>
+               <p xml:id="WuV37d-f06579-d1e116">
+                  <lb ed="#B" n="80"/>Distinctio. 43. in quo magister docet de 
+      <lb ed="#B" n="81"/>peccato abomiabili in spiritum sanctun.
+    </p>
+               <p xml:id="WuV37d-f06579-d1e123">
+                  <lb ed="#B" n="82"/>Stpreterea 
+      <lb ed="#B" n="83"/>quiddam genus peccati caeter 
+      <lb ed="#B" n="84"/>grauius et abominabili 
+      <lb ed="#B" n="85"/>quod dicitur in spiritum sanctum etc. 
+      <lb ed="#B" n="86"/>Hic signatur. 43. dist. huis 
+      <lb ed="#B" n="87"/>secundi quae sic continuat ad precedentem. Nam 
+      <lb ed="#B" n="88"/>postquam in praecedenti dist. posita est in 
+      commu<lb ed="#B" n="89" break="no"/>ni peccatorum multiplicitas: nunc in speciali 
+      cu<lb ed="#B" n="90" break="no"/>iusdam peccati quod dicitur peccatum in spiritum sanctum 
+      <lb ed="#B" n="91"/>tangitur abominabilitas. Et habet diuidi 
+      <lb ed="#B" n="92"/>in tres partes principales. In prima isti 
+      <lb ed="#B" n="93"/>us peccati nomen exprimitur. In secunda 
+      <lb ed="#B" n="94"/>ab aliis diuiditur etc. In tertia quid sit 
+      lati<lb ed="#B" n="95" break="no"/>us quaeritur. prima in principio. secunda 
+      <lb ed="#B" n="96"/>ibi. Qui enim peccat in patrem etc. tertia ibi. 
+      <!--473.xml-->
+      <pb ed="#B" n="228-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>Sed quaeritur quid sit illud peccatum. Duabus autem 
+      <lb ed="#B" n="2"/>partibus primariis indiuisis manentibus: sola 
+      <lb ed="#B" n="3"/>tertia pars in tres partes diuiditur. In prima hui 
+      <lb ed="#B" n="4"/>peccati species clarior palam cognoscitur. In secun 
+      <lb ed="#B" n="5"/>da peruersi acti sermo obscurior dictis 
+      ad<lb ed="#B" n="6" break="no"/>iungitur. In tertia talis mali paeti hinc 
+      co<lb ed="#B" n="7" break="no"/>piosior diuisio ponitur. prima in principio. 
+      se<lb ed="#B" n="8" break="no"/>cunda ibi. Est etiam alia huius peccati assignatio 
+      <lb ed="#B" n="9"/>etc. tertia ibi. De hoc autem peccato in spiritum sanctum 
+      <lb ed="#B" n="10"/>etc. Haec est diuisio praesentis dist. etc. 
+      </p>
+            </div>
+            <div xml:id="WuV37d-f06579-Dd1e187">
+               <head xml:id="WuV37d-f06579-Hd1e189">Quaestio</head>
+               <p xml:id="WuV37d-f06579-d1e192">
+                  <lb ed="#B" n="11"/>¶ Quaestio ista docet de peccato in spiritum 
+      <lb ed="#B" n="12"/>sanctu quatum ad conuenientiam: imputatiam 
+      <lb ed="#B" n="13"/>et malicia. et tangit ea sco. in isto loco 
+      <lb ed="#B" n="14"/>quaestione vnica. 
+      <lb ed="#B" n="15"/>rUtrum peccatum in spi 
+      <lb ed="#B" n="16"/>us ritum sanctum sic sit irremissibile vt 
+      <lb ed="#B" n="17"/>ex malicia veniat: Et arguitur 
+      <lb ed="#B" n="18"/>ad partem falsam tribus mediis.
+</p>
+               <p xml:id="WuV37d-f06579-d1e212">
+¶ Primo ar 
+      <lb ed="#B" n="19"/>guitur quod nullum sit peccatum in spiritum sanctum. Si ali 
+      <lb ed="#B" n="20"/>quod esset peccatum tale: aut esset directe contra 
+      perso<lb ed="#B" n="21" break="no"/>nam spiritus sancti: aut contra appropriatum sibi: sicuti 
+      <lb ed="#B" n="22"/>est bonitas. Sed nec sic nec sic. igitur. maior 
+      <lb ed="#B" n="23"/>patet per diuisionem sufficientem. Sed probatur 
+      mi<lb ed="#B" n="24" break="no"/>nor. primo quod non sit directe contra personam 
+      <lb ed="#B" n="25"/>spiritus sancti solum. quia scribitur. Qui me odit et pa 
+      <lb ed="#B" n="26"/>trem meum odit: ita quod nequit quis peccare contra 
+      <lb ed="#B" n="27"/>vnam personam et non in aliam. Nec secundo dicitur pec 
+      <lb ed="#B" n="28"/>catum in spiritum sanctum: quia sit contra bonitatem quae 
+      ap<lb ed="#B" n="29" break="no"/>propriatur spiritu sancto: quia omne peccatum mortale 
+      <lb ed="#B" n="30"/>repugnat bonitati et gratiae: et tamen non omne est 
+      <lb ed="#B" n="31"/>peccatum in spiritum sanctum.
+</p>
+               <p xml:id="WuV37d-f06579-d1e243">
+¶ Secundo arguitur quod 
+      <lb ed="#B" n="32"/>peccatum in spiritum sanctaum sit irremissibile: nullum 
+      <lb ed="#B" n="33"/>peccatum extat remissibile de quo non possit ha 
+      <lb ed="#B" n="34"/>beri contritio et prnia: sed peccatum in spiritum sanctaum 
+      <lb ed="#B" n="35"/>est huiusmodi. igitur. maior patem. quia ianua remis 
+      <lb ed="#B" n="36"/>sionis est contritio et proenia. sed probatur minor de 
+      <lb ed="#B" n="37"/>impraesentia quae ponitur species huius peccati: quae tamen negat 
+      <lb ed="#B" n="38"/>de directo posnniam. pariformiter de despe 
+      <lb ed="#B" n="39"/>ratione et obstinatione quae repugnant contritioni 
+      </p>
+               <p xml:id="WuV37d-f06579-d1e263">
+                  <lb ed="#B" n="40"/>¶ Tertio arguitur: quod non sit hoc peccatum ex 
+      ma<lb ed="#B" n="41" break="no"/>licia: si enim esset ex malicia: vel ita quod 
+      mali<lb ed="#B" n="42" break="no"/>cia pura moueret: et sub ratione maliciae: 
+      <lb ed="#B" n="43"/>vel secundo sub ratione apparentis boni: licem 
+      <lb ed="#B" n="44"/>non existentis: vel tertio ex mala complexione 
+      in<lb ed="#B" n="45" break="no"/>clinante qua diceretur malicia: sed neutrum est. 
+      <lb ed="#B" n="46"/>dicendum. igitur. maior patet manifesta diui 
+      <lb ed="#B" n="47"/>sione. Sed probatur minor per singula. Primo 
+      <!--473.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="48"/>quod non sit ex pura mouente malicia: quia dicit quar 
+      <lb ed="#B" n="49"/>to diuinorum nominm dyon. quod nullus operatur 
+      <lb ed="#B" n="50"/>ad malum aspiciens. Nec secundo sub ratione 
+      <lb ed="#B" n="51"/>apparentis boni. quia iam esset peccatum ex 
+      igno<lb ed="#B" n="52" break="no"/>rantia. Nec tertio ex mala complexione 
+      incli<lb ed="#B" n="53" break="no"/>nante: quia sic esset peccatum ex infirmitate. 
+      </p>
+               <p xml:id="WuV37d-f06579-d1e301">
+                  <lb ed="#B" n="54"/>¶ In oppositum primi est magister in principio  
+      <lb ed="#B" n="55"/>praesentis distin. Est praeterea quiddam genus peccaticae 
+      <lb ed="#B" n="56"/>teris abhominabilius quod dicitur in spiritum sanctum. In 
+      <lb ed="#B" n="57"/>oppositum secundi est aug. de verbis 
+      domi<lb ed="#B" n="58" break="no"/>ni: De nullo inquit desperandum est quamdiu 
+      <lb ed="#B" n="59"/>eum pacientia dei ad proniam adducit scilicet in via 
+      <lb ed="#B" n="60"/>In oppositum tertii est communis peccatorum 
+      di<lb ed="#B" n="61" break="no"/>uisio. Ex infirmitate contra patrem: ex ignorantia 
+      <lb ed="#B" n="62"/>contra filium: ex malicia contra spiritumsanctum 
+      <lb ed="#B" n="63"/>et ponitur in lit tera. 
+      </p>
+               <p xml:id="WuV37d-f06579-d1e325">
+                  <lb ed="#B" n="64"/>¶ In ista quaesti. sunt tres articuli declarandi 
+      <lb ed="#B" n="65"/>Primus est terminorum declaratiuus 
+      <lb ed="#B" n="66"/>Quorum Secundus est quaestionis responsiuus 
+      </p>
+               <p xml:id="WuV37d-f06579-d1e334">
+                  <lb ed="#B" n="67"/>¶ Tertius est dubiorum motiuus. 
+      <lb ed="#B" n="68"/>articulum 
+      <lb ed="#B" n="69"/>termini sunt 
+      <lb ed="#B" n="70"/>peccatum in spiritum sanctum: irremissibile: et ma 
+      <lb ed="#B" n="71"/>licia.
+</p>
+               <p xml:id="WuV37d-f06579-d1e347">
+¶ Primus igitur terminus est pec 
+      <lb ed="#B" n="72"/>catum in spiritum sanctu. Unde notandum 
+      <lb ed="#B" n="73"/>quod peccatum esse in spiritum sanctum potest intelligi tri 
+      <lb ed="#B" n="74"/>pliciter. Primo vt sit contra personam spiritus 
+      <lb ed="#B" n="75"/>sancti proprie. Sicut si aliquis haereticus 
+      cre<lb ed="#B" n="76" break="no"/>deret personam spiritus sancti esse creaturam: si 
+      <lb ed="#B" n="77"/>cut fecit macedonius vel aliquod tale: et hoc 
+      <lb ed="#B" n="78"/>modo locutus est Franciscus de marionis 
+      <lb ed="#B" n="79"/>q. 1. praesentis dist. de peccato contra spiritum sanctum 
+      <lb ed="#B" n="80"/>Et habet diuidi contra peccatum quod esset in 
+      <lb ed="#B" n="81"/>patrem: vt si non crederetur omprens. vel in 
+      fi<lb ed="#B" n="82" break="no"/>lium: vt si non crederetur sapiens. 
+      Secun<lb ed="#B" n="83" break="no"/>do dicitur peccatum in spiritumsanctum: quia extat 
+      con<lb ed="#B" n="84" break="no"/>tra bonitatem appropriatam sanctospiritur 
+      <lb ed="#B" n="85"/>seu charitatem: et hoc modo omne peccatum mor 
+      <lb ed="#B" n="86"/>tale est peccatum in spiritum sanctum: quia gra 
+      <lb ed="#B" n="87"/>tiae et charitatis meretur amissionem: sed hoc 
+      <lb ed="#B" n="88"/>modo non loquuntur doctores de peccato in 
+      <lb ed="#B" n="89"/>spiritum sanctum. Tertio modo accipitur peccatum in 
+      <lb ed="#B" n="90"/>spiritum sanctum: non quia sit contra bonitatem 
+      <lb ed="#B" n="91"/>sed quia fit ex malicia quae opponitur bonitati 
+      <lb ed="#B" n="92"/>quae est appropriatum spiritui sancto sicuti dicitur 
+      <lb ed="#B" n="93"/>peccatum ex infirmitate contra patrem cui 
+      <lb ed="#B" n="94"/>appropriatur potentia: et peccatum ex ignoram 
+      <lb ed="#B" n="95"/>tia contra filium cui attribuitur scientia: et isto 
+      <lb ed="#B" n="96"/>modo accipitur peccatum in spiritum sanctum. cuius peccati 
+      <!--474.xml-->
+      <pb ed="#B" n="229-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>secundum doctores sunt tres binarii specierum: et 
+      <lb ed="#B" n="2"/>accipiuntur: vt tangit doct. deuo. arti. 3. q. 
+      <lb ed="#B" n="3"/>1. praesentis dist. ex conformitate egroti vbi 
+      in<lb ed="#B" n="4" break="no"/>telliguntur tria: medicus: egrotus: et tertio 
+      <lb ed="#B" n="5"/>ministerium. Primus igitur binarius est 
+      praesum<lb ed="#B" n="6" break="no"/>ptio et desperatio et sunt contra deum de 
+      di<lb ed="#B" n="7" break="no"/>recto: qui est medicus noster spiritualis: qui 
+      <lb ed="#B" n="8"/>habet vinum et oleum: vt infirmum curet id est 
+      mi<lb ed="#B" n="9" break="no"/>sericordiam et iusticiam. Praesumptio est con 
+      <lb ed="#B" n="10"/>tra iusticiam: desperatio contra misericordi 
+      <lb ed="#B" n="11"/>am. Secundus binarius est impnia et 
+      obsti<lb ed="#B" n="12" break="no"/>natio et accipitur ex parte egroti spiritualis 
+      <lb ed="#B" n="13"/>qui debet detestari peccata praeterita: et contra 
+      <lb ed="#B" n="14"/>hoc est impenitentia: et habere propositum 
+      vl<lb ed="#B" n="15" break="no"/>tra non peccandi: et contra hoc est 
+      obstima<lb ed="#B" n="16" break="no"/>tio. Tertius binarius est impugnatio verita 
+      <lb ed="#B" n="17"/>tis agnite: et inuidentia fraternae gratiae: et 
+      ac<lb ed="#B" n="18" break="no"/>cipitur ex parte ministerii seu medicinae 
+      spi<lb ed="#B" n="19" break="no"/>ritualis in qua est primo cognitio et contra 
+      <lb ed="#B" n="20"/>hoc est impugnatio veritatis agnite. Se 
+      <lb ed="#B" n="21"/>cundo est dulcedo spiritualis: et contra hoc est 
+      <lb ed="#B" n="22"/>inuidentia fraternae gratiae.
+</p>
+               <p xml:id="WuV37d-f06579-d1e458">
+¶ Secundus ter 
+      <lb ed="#B" n="23"/>minus est irremi /sibile. vnde vltra dicta 
+      <lb ed="#B" n="24"/>de peccato irremissibili. dist. vii. huius secundi 
+      <lb ed="#B" n="25"/>Noto quod peccatum esse irremissibile: potest 
+      intel<lb ed="#B" n="26" break="no"/>ligi tripliciter: vt potest trahi ex dictis sancti 
+      <lb ed="#B" n="27"/>tho. dist. ista. q. 4. Primo ex parte dei re 
+      <lb ed="#B" n="28"/>mittentis: et hoc modo nullum peccatum extat irremis 
+      <lb ed="#B" n="29"/>sibile ei qui potest potentia absoluta iudam dam 
+      <lb ed="#B" n="30"/>tum saluare. Secundo modo dicitur peccatum 
+      irremissi<lb ed="#B" n="31" break="no"/>bile ratione status. et hoc modo post mortemus 
+      <lb ed="#B" n="32"/>peccata mortalia dicuntur irremissibilia homini: 
+      <lb ed="#B" n="33"/>Dicente dam. Quod angelis casus. hoc hominibus 
+      <lb ed="#B" n="34"/>mors. Dixi autem peccatum mortale: quia in. 4. 
+      <lb ed="#B" n="35"/>dyalogorum legitur: tam quo ad culpam quam poenan 
+      <lb ed="#B" n="36"/>peccatum veniale fuisse dimissum. Tertio modo 
+      <lb ed="#B" n="37"/>dicitur irremissibile peccatum ex gene ipsius peccati 
+      <lb ed="#B" n="38"/>1. quia nullam habet causam vnde remittatur: et hucumodo 
+      <lb ed="#B" n="39"/>peccatum in spitum sanctum: dicitur irremissibile: per id 
+      <lb ed="#B" n="40"/>Qui dixerit verbum in spiritum sanctum: non 
+      dimit<lb ed="#B" n="41" break="no"/>tetur ei: nec in hoc seculo: nec infuturo.
+</p>
+               <p xml:id="WuV37d-f06579-d1e502">
+¶ Ter 
+      <lb ed="#B" n="42"/>tius terminus est malicia: vnde malicia quae 
+      <lb ed="#B" n="43"/>ad praesens potest capi tri oliciter. vltra de 
+      ma<lb ed="#B" n="44" break="no"/>lo dicta disti. 34. huius secundi. Primo modo 
+      <lb ed="#B" n="45"/>dicitur malicia quaedam poena inflicta propter peccatum 
+      <lb ed="#B" n="46"/>originale: et sic accipit venerabilis beda enu 
+      <lb ed="#B" n="47"/>merando illas paen is quae sunt: infirmitas: igno 
+      <lb ed="#B" n="48"/>rantia: concupiscentia et malicia. Secundo dicitur 
+      <lb ed="#B" n="49"/>malicia: vt limitatur ad habitum malum: solum 
+      <!--474.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>modo qui apud philosophum in. 4. ethi. Non continuo qui fa 
+      <lb ed="#B" n="51"/>cit malum extat malus: sed qui est hituatus. 
+      Ter<lb ed="#B" n="52" break="no"/>tio modo dicitur malicia: pro quacunque deformitate 
+      <lb ed="#B" n="53"/>voluntatis excusatione postposita: aut 
+      in<lb ed="#B" n="54" break="no"/>firmitatis: aut ignorantiae. Et isto modo dicitur pec 
+      <lb ed="#B" n="55"/>catum in spiritum sanctum: non lolum ex malicia: sed ex 
+      <lb ed="#B" n="56"/>certa malicia: quia non praecedit ignorantia. 
+      <lb ed="#B" n="57"/>qu articulum  
+      <lb ed="#B" n="58"/>sunt tres 
+      <lb ed="#B" n="59"/>conclusiones. Prima est de peccato in spiritum sanctum 
+      <lb ed="#B" n="60"/>in comparatione ad alia peccata. Secunda de re 
+      <lb ed="#B" n="61"/>missibilitate: vel irremissibilitate eius. 
+      Ter<lb ed="#B" n="62" break="no"/>tia de malicia specirum huius peccati.
+</p>
+               <p xml:id="WuV37d-f06579-d1e555">
+¶ Prima 
+      <lb ed="#B" n="63"/>igitur conclusio est haec. peccatum in spiritum sanctum ab 
+      <lb ed="#B" n="64"/>aiiis distinctum peccatis: non sper aliud habet peccatum 
+      <lb ed="#B" n="65"/>praeuium. dicit prima pars quod peccatum in spiritum sanctum 
+      <lb ed="#B" n="66"/>distinguitur ab aliis peccatis. probatur. quod habet 
+      di<lb ed="#B" n="67" break="no"/>stinctas species a specibus aliorum peccatorum 
+      distin<lb ed="#B" n="68" break="no"/>guitur ab eis probatur. quia diuersae species non 
+      sub<lb ed="#B" n="69" break="no"/>alternatim posite sub diuersis gneribus 
+      <lb ed="#B" n="70"/>collocantur: sic est in proposito: vt patet ex primo 
+      <lb ed="#B" n="71"/>arti. igitur. Confirmatur: quia ex malicia certa hoc 
+      <lb ed="#B" n="72"/>venit peccatum: quod non est in aliis. vnde doc. 
+      de<lb ed="#B" n="73" break="no"/>uotus. q. 1. ar. 1. istius distin. ex radice tripli 
+      <lb ed="#B" n="74"/>ci venatur huius peccati ab aliis distiuctio. Pri 
+      <lb ed="#B" n="75"/>ma radix sumitur ex parte principii: alia enim 
+      <lb ed="#B" n="76"/>peccata ortum habent ex infirmitate seu ignorantia: 
+      <lb ed="#B" n="77"/>istud vero ex malicia. Secunda radix sumitur 
+      <lb ed="#B" n="78"/>ex parte oppositi scilicet gratiae. Et est triplex gratia 
+      <lb ed="#B" n="79"/>innocentiae: baptismalis: et proinimalis. gratiae 
+      inno<lb ed="#B" n="80" break="no"/>centiae opponitur peccatum originale: gratiae 
+      baptis<lb ed="#B" n="81" break="no"/>mali: alia peccata ab isto: sed gratie poeniali principa 
+      <lb ed="#B" n="82"/>liter opponitur istud peccatum: sicut patet in pronia 
+      <lb ed="#B" n="83"/>et aliis eius specibus. Tertia radix sumitur ex 
+      per<lb ed="#B" n="84" break="no"/>te actus spiritualis quem privat: alia enim peccata mul 
+      <lb ed="#B" n="85"/>ta etiam in carne exercentur: vt adulterium: for 
+      <lb ed="#B" n="86"/>nicatio: hoc vero peccatum in solo spiritu: vt patet in 
+      <lb ed="#B" n="87"/>suis specibus. Et si obiiciatur: quia dicit in listera magister. 
+      <lb ed="#B" n="88"/>quod peccatum in spiritum sanctum est peccatum ad mortem: cum 
+      <lb ed="#B" n="89"/>ergo peccatum omne mortale sit peccatum ad mortem: quia 
+      <lb ed="#B" n="90"/>puat gratiam quae extat vita animae. Peccatum enim in 
+      <lb ed="#B" n="91"/>quit iacobus cum consummatum fuerit genat mortem: 
+      <lb ed="#B" n="92"/>videtur quod non distinguitur ab aliis in h. 
+      Dicen<lb ed="#B" n="93" break="no"/>dum quod sicuti in morte corporali tria sunt scilicet 
+      <lb ed="#B" n="94"/>primo privatio vitae. secundo corruptio 
+      dispo<lb ed="#B" n="95" break="no"/>sitionis ad susceptionem animae. tertio per 
+      natu<lb ed="#B" n="96" break="no"/>ram non regre sus ad vitam: Sic in morte spiritua 
+      <lb ed="#B" n="97"/>li. Primo per peccatum mortale est separatio a deo 
+      <lb ed="#B" n="98"/>qui est vita nostra: et hoc omni conuenit peccato mortali. 
+      <!--475.xml-->
+      <pb ed="#B" n="229-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>Secundo corrumpitur dispon ad susceptionem 
+      <lb ed="#B" n="2"/>gratiae: et hoc maxime conuenit peccato in spiritum sanctum 
+      <lb ed="#B" n="3"/>carenti omni excusatione. Tertio intelligitur non 
+      <lb ed="#B" n="4"/>regressus simpliciter ad vitam spiritualem: et hoc 
+      com<lb ed="#B" n="5" break="no"/>uenit peccato damnatorum: vnde bene dixit tho. q. 2. 
+      <lb ed="#B" n="6"/>quod peccatum in spiritum sanctm habet modum 
+      egritu<lb ed="#B" n="7" break="no"/>dinis incurabilis ducentis ad mortem secundam 
+      <lb ed="#B" n="8"/>quae est damnatio aeterna. alia autem mortalia du 
+      <lb ed="#B" n="9"/>cunt principaliter ad mortem primam: quae est privatio 
+      <lb ed="#B" n="10"/>gratiae. Sed dicit secunda pars conclusionis: quod peccatum in 
+      <lb ed="#B" n="11"/>ipitum sanctum non sper habet peccatum praeuium. patet de 
+      im<lb ed="#B" n="12" break="no"/>pugnatione veritatis agnite: potest enim quis 
+      nul<lb ed="#B" n="13" break="no"/>lo praecedente peccato impugnare agnitam veritatem 
+      <lb ed="#B" n="14"/>Unde in summa tria sunt peccata in spiritum sanctum qua 
+      <lb ed="#B" n="15"/>non requirunt peccatum. Primum. scilicet ipugnatio vi 
+      <lb ed="#B" n="16"/>ritatis agnite: inuidentia fraternae gratiae. pos 
+      <lb ed="#B" n="17"/>sum enim inuidere saluti proximi sine peccato prae 
+      <lb ed="#B" n="18"/>uio. Tertio praesumptio. possum enim mihi pro 
+      <lb ed="#B" n="19"/>mittere impunitatem diuinae iusticiae: vt libe 
+      <lb ed="#B" n="20"/>rius peccem ante quadlibet peccatum.
+</p>
+               <p xml:id="WuV37d-f06579-d1e685">
+¶ Econtra tria 
+      <lb ed="#B" n="21"/>sunt qua non veniunt nisi peccato alio praeuio scilicet de 
+      <lb ed="#B" n="22"/>sparatio impnia et obstiatio: nemo enim 
+      de<lb ed="#B" n="23" break="no"/>sperat nisi propter peccata facta: nemo 
+      impeni<lb ed="#B" n="24" break="no"/>tens nisi quae de peccatis factis non conteritur: nemo 
+      <lb ed="#B" n="25"/>obstinatus nisi quae in malicia perseuerat: verum est 
+      <lb ed="#B" n="26"/>tamen quod doct. deuo. q. 2. arti. 1. Et sanctus tho. 
+      <lb ed="#B" n="27"/>q. 5. contradicere videntur. dixit enim doctor deuo. 
+      <lb ed="#B" n="28"/>quod desparatio non potest venire nisi peccato praeuio. 
+      <lb ed="#B" n="29"/>tho. vero dicit quod immo: et quod quis potest desparare 
+      si<lb ed="#B" n="30" break="no"/>ne peccato praeuio verum quod non est contradictio. Aliter enim 
+      <lb ed="#B" n="31"/>accipit desperationem vnus: aliter alius. 
+      Do<lb ed="#B" n="32" break="no"/>res 
+      accipi<lb ed="#B" n="33" break="no"/>quis propter criminum magnitudinem in despe 
+      <lb ed="#B" n="34"/>rationem venit salutis. sanctus vero tho. qua 
+      <lb ed="#B" n="35"/>quis dicat in principio apud se: Nimis ex 
+      <lb ed="#B" n="36"/>cellens est paradisus ego non possem illuc 
+      <lb ed="#B" n="37"/>peruenire: et hoc modo desperet non praeuio peccato: et 
+      <lb ed="#B" n="38"/>aperit istum modum in secunda quaestione: sicuti dum 
+      <lb ed="#B" n="39"/>aliquis proiicit speciaeterni praemii vertitur immedia 
+      <lb ed="#B" n="40"/>te in desperationem. Et si dicatur: quia hoc peccatum 
+      <lb ed="#B" n="41"/>ortum habet a malicia: et ita praesupponit aliud prae 
+      <lb ed="#B" n="42"/>uium peccatum: ambo respondent in secunda quaestione: quod 
+      <lb ed="#B" n="43"/>malicia non debet accipi pro aliquo praeuio 
+      <lb ed="#B" n="44"/>peccato: sed pro electione mala / siue excusatione. 
+      </p>
+               <p xml:id="WuV37d-f06579-d1e740">
+                  <lb ed="#B" n="45"/>¶ Secunda conclusio est: de remissibilitate vel ir 
+      <lb ed="#B" n="46"/>remissibilitate peccati in spiritum sanctum: et est haec. L3 
+      <lb ed="#B" n="47"/>peccatum contra spiritum scuntum iudicetur guissimum: potest tamen 
+      <lb ed="#B" n="48"/>censeri remissibile. Dicit prima pars: quod peccatum in 
+      <lb ed="#B" n="49"/>spiritum sanctum est guissimum peccatum probatur. illud super 
+      <!--475.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>alia peccata est guius quod minus habet excusationis: sed 
+      <lb ed="#B" n="51"/>peccatum in spiritum sanctum est huiusmodi probatur: alia enim 
+      <lb ed="#B" n="52"/>peccata excusant aut infirmitas: aut ignorantia: 
+      <lb ed="#B" n="53"/>hoc autem peccatum primo non excusat infirmitas: quia 
+      <lb ed="#B" n="54"/>fit ex electione mera: nec secundo ignorantia: quia 
+      <lb ed="#B" n="55"/>fit ex certitudine et inde est: quod hoc peccatum 
+      so<lb ed="#B" n="56" break="no"/>let habere tria nomina. Primo enim dicitur pec 
+      <lb ed="#B" n="57"/>catum ex electione. Secundo peccatum ex 
+      indu<lb ed="#B" n="58" break="no"/>stria. Tertio peccatum ex certa malicia: vt 
+      con<lb ed="#B" n="59" break="no"/>plectatur electionem in malicia: et industriam in 
+      <lb ed="#B" n="60"/>certitudine. vnde patet quod maxime est 
+      offensi<lb ed="#B" n="61" break="no"/>uum piorum oculorum dei: et in est quod magister dicit quod in 
+      <lb ed="#B" n="62"/>ter alia peccata est abhominabilius. vnde patet quod 
+      <lb ed="#B" n="63"/>grauius est hoc peccatum intensiue quam peccatum 
+      infide<lb ed="#B" n="64" break="no"/>litatis: licet extensiue peccatum infidelitatis gra 
+      <lb ed="#B" n="65"/>uius sit: quia privat cognitionem in intellectu: et 
+      <lb ed="#B" n="66"/>bonitatem in affectu: sed non tanta libidine 
+      quan<lb ed="#B" n="67" break="no"/>ta hoc peccatum: nec obuiat quod in peccato carnis est 
+      <lb ed="#B" n="68"/>maior libido delectationis quam in isto: quia plus 
+      <lb ed="#B" n="69"/>delectatur fornicator in peccato suo quam 
+      despe<lb ed="#B" n="70" break="no"/>ratus in suo: quia in isto est maior libido 
+      im<lb ed="#B" n="71" break="no"/>probitatis: et haec est quo facit peccatum. Et patet 
+      <lb ed="#B" n="72"/>quod non dicitur grauissimum peccatum: quia solum fit contra spitum 
+      <lb ed="#B" n="73"/>sanctum: et non contra patrem: aut filium cum eorum sit vna 
+      <lb ed="#B" n="74"/>maiestas: quae patri appropriatur. sed dicitur grauis 
+      <lb ed="#B" n="75"/>patmo. quod ha 
+      <lb ed="#B" n="76"/>cando. Et si obiiciatur per illud: conuertentur ad ve 
+      <lb ed="#B" n="77"/>speram etc. dicit glo. Nemo insanabilior est 
+      <lb ed="#B" n="78"/>eo qui sanus sibi videtur: cum sit eger: et ita est 
+      <lb ed="#B" n="79"/>grauius peccatum. Dicendum quod non dicitur grauius pro 
+      <lb ed="#B" n="80"/>pter maiorem contemptum: sed intelligitur nemo in 
+      <lb ed="#B" n="81"/>lanabilior etc. propter peariculum: quia ex eo quod 
+      ne<lb ed="#B" n="82" break="no"/>scit se infirmum medicum non quaerit. Sed dicit 
+      <lb ed="#B" n="83"/>secunda pars conclusiois: quod peccatum in spiritum sanctum potest 
+      <lb ed="#B" n="84"/>dici remissibile. probatur. quandiu homo extat vi 
+      <lb ed="#B" n="85"/>ator potest conteri: quia tempus merendi extat 
+      vs<lb ed="#B" n="86" break="no"/>que ad mortem. ergo licet homo sit in peccato contra spiritum scantum 
+      <lb ed="#B" n="87"/>adhuc est ei remissibile: verum est tamen quod non 
+      <lb ed="#B" n="88"/>Tres cause 
+      <lb ed="#B" n="89"/>peccati 
+      irre<lb ed="#B" n="90" break="no"/>missibilita 
+      <lb ed="#B" n="91"/>causas. Prima est: quia non habet causam 
+      remis<lb ed="#B" n="92" break="no"/>sibilitatis: quia fit pura electione carente 
+      excu<lb ed="#B" n="93" break="no"/>satione. Secunda causa est: quia non habet inclinans 
+      <lb ed="#B" n="94"/>ad hoc: et ita se figit in eo firmiter sicuti in 
+      <lb ed="#B" n="95"/>fine. Et dat exemplum. Brauius peccat in il 
+      <lb ed="#B" n="96"/>peratus: quo peccat sine passione quam incontinens 
+      <lb ed="#B" n="97"/>qui peccat mediante passione. Tertia 
+      cau<lb ed="#B" n="98" break="no"/>ia est: quia repellit a se de directo id vnde fit sa¬ 
+      <!--476.xml-->
+      <pb ed="#B" n="230-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>natio sicut desperatur de egroto: quando re 
+      <lb ed="#B" n="2"/>fugit remedia medici. Et ita patet quomodo est in 
+      <lb ed="#B" n="3"/>remissibile: licet possit dici remissibile. Et 
+      <lb ed="#B" n="4"/>si dicat quis impnina est species huius peccati: et tamen 
+      <lb ed="#B" n="5"/>non remittitur. quia esset oppositum in adiecto 
+      <lb ed="#B" n="6"/>scilicet poenitere et non poenitere. Dicendum quod 
+      im<lb ed="#B" n="7" break="no"/>posnnia solet accipi: aut pro duratione in peccato 
+      <lb ed="#B" n="8"/>mortali: vsque ad mortem inclusiue: et sic non 
+      <lb ed="#B" n="9"/>est species huius peccati: immo communitatur omne peccatum 
+      <lb ed="#B" n="10"/>nortale. Alio modo accipitur pro proposito non 
+      <lb ed="#B" n="11"/>poenitendi: et sic est species huius peccati: et gratia spe 
+      <lb ed="#B" n="12"/>nali dei potest dimitti. Unde et aug. illud verbum 
+      <lb ed="#B" n="13"/>retractauit in quo dicit in li. de sermone dei 
+      <lb ed="#B" n="14"/>in monte: Tanta est labes huius peccati: vt depre 
+      <lb ed="#B" n="15"/>andi humilitatem subire non possit.
+</p>
+               <p xml:id="WuV37d-f06579-d1e903">
+¶ Tertia 
+      <lb ed="#B" n="16"/>oclusio est: de malicia specirum hus peccati: et est haec 
+      <lb ed="#B" n="17"/>Peccatum in spiritum sanctum sex species in malicia gra 
+      <lb ed="#B" n="18"/>uissimas complectitur. vnde vt pateat numerus vl 
+      <lb ed="#B" n="19"/>tra tactam sufficientiam harum specirum in primo 
+      ar<lb ed="#B" n="20" break="no"/>ti. iuxta doct. deuo. tango sufficientiam sancti 
+      <lb ed="#B" n="21"/>tho. q. 3. Aliquis inquit operatur bonum propter 
+      ali<lb ed="#B" n="22" break="no"/>ud: aut ad vitandum supplicia: et contra hunc est 
+      prae<lb ed="#B" n="23" break="no"/>sumptio priuans timorem suppliciorum aut 
+      pro<lb ed="#B" n="24" break="no"/>pter praemia: et contra hunc est desperatio 
+      tol<lb ed="#B" n="25" break="no"/>lens spem praemiorum. vltra dicit. Aliquis operatur pro 
+      <lb ed="#B" n="26"/>pter bonum: et hoc vel propter bonum humanum 
+      fu<lb ed="#B" n="27" break="no"/>giendo malum: in quo est delectatio indebita 
+      <lb ed="#B" n="28"/>quam non curat obstiatio et deformitas quam 
+      <lb ed="#B" n="29"/>non curat impnia. Si uvltra quis operetur pro 
+      <lb ed="#B" n="30"/>pter bonum diuinum: vel est vt bonum dirigens 
+      <lb ed="#B" n="31"/>in quo impugnatio veritatis agnite 
+      pec<lb ed="#B" n="32" break="no"/>cat: vel vt ad bonum inclinans: in quo peccat 
+      <lb ed="#B" n="33"/>inuidentia fraternae gratiae. Et sic patet secundum tho. 
+      <lb ed="#B" n="34"/>tribus binariis has diuidi species. Notandum 
+      <lb ed="#B" n="35"/>tamen quo ad singulas species. Primo de 
+      de<lb ed="#B" n="36" break="no"/>speratione. Desperatio enim quaelibet non est 
+      <lb ed="#B" n="37"/>peccatum in spiritum sanctum. Si enim aliquis desperaret 
+      <lb ed="#B" n="38"/>de sua salute: et tristaretur de sua desperati 
+      <lb ed="#B" n="39"/>one: nec dum peccaret in spiritum sanctum: sed tunc 
+      <lb ed="#B" n="40"/>desperat absolute quando diffinit: maior est 
+      ini<lb ed="#B" n="41" break="no"/>quitas mea: quam vt veniam merear: et a facie 
+      <lb ed="#B" n="42"/>fugit diuinae misecundiae: sicut fecit cavn: et labi 
+      <lb ed="#B" n="43"/>tur in profundum. 
+</p>
+               <p xml:id="WuV37d-f06579-d1e966">
+¶ Noto secundo de praesum 
+      <lb ed="#B" n="44"/>ptione. Si enim aliquis praesumat de suis 
+      meri<lb ed="#B" n="45" break="no"/>tis non est peccatum in spirintum sanctum: sed est species su 
+      <lb ed="#B" n="46"/>perbiae. Sed tunc est peccatum in spiritum sanctum: quando ex 
+      <lb ed="#B" n="47"/>toto autert rigorem diuinae iusticiae dans totum 
+      <lb ed="#B" n="48"/>misecundae. Tertio noto de obstiatione. si enim 
+      <lb ed="#B" n="49"/>quis dicitur obstinatus. quia continue est in culpa 
+      <!--476.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>et nihil addatur aliud: adhuc non est peccatum 
+      <lb ed="#B" n="51"/>in spiritum sanctum: obstiatio enim tunc est 
+      pec<lb ed="#B" n="52" break="no"/>catum in spiritum sanctum: quando complacet in 
+      <lb ed="#B" n="53"/>culpa perpetrata: nec dolet de priore: sed 
+      ap<lb ed="#B" n="54" break="no"/>probat. Idem dico de impenitentia: non enim 
+      <lb ed="#B" n="55"/>differunt: nisi quia impenitentia est respectu prae 
+      <lb ed="#B" n="56"/>teriti: et obstinatio respectu futuri. Quar 
+      <lb ed="#B" n="57"/>to noto de impugnatione veritatis 
+      agni<lb ed="#B" n="58" break="no"/>te: si enim aliquis impugnet veritatem 
+      agni<lb ed="#B" n="59" break="no"/>tam simplici motu: vtputa propter ruborem 
+      <lb ed="#B" n="60"/>quia scilicet tenet vnam opinionem et conuincitur argumen 
+      <lb ed="#B" n="61"/>tis ab aliquo: et bene videt quod conuincunt non 
+      <lb ed="#B" n="62"/>tamen fatetur: sed semper impugnat: non dicitur pecca 
+      <lb ed="#B" n="63"/>tum in spiritum sanctum. Sed cum quis 
+      pertinaci<lb ed="#B" n="64" break="no"/>ter impugnat veritatem agnitam: aut in 
+      con<lb ed="#B" n="65" break="no"/>fusionem dicentis: aut sui excusationem: et 
+      ma<lb ed="#B" n="66" break="no"/>xime cum est veritas catholice religionis. 
+      No<lb ed="#B" n="67" break="no"/>to vltimo de inuidia fraterne gratiae: quod si 
+      <lb ed="#B" n="68"/>quis alicui inuideat: quia videtur sibi quod bo 
+      <lb ed="#B" n="69"/>num suum: suum bonum impediat: non est 
+      pec<lb ed="#B" n="70" break="no"/>catum in spiritum sanctum: sed est vnum capitale 
+      <lb ed="#B" n="71"/>vicium de septem quod dicitur inuidia. Si autem 
+      <lb ed="#B" n="72"/>inuideat alicuius bono: dato quod sibi non vi 
+      <lb ed="#B" n="73"/>deatur nocere: dicitur peccatum in 
+      spiritum<lb ed="#B" n="74" break="no"/>sanctum: ideo optime dicit tho. q. 3. quod non 
+      <lb ed="#B" n="75"/>dicitur inuidentia fratris: sed fraterne gra 
+      <lb ed="#B" n="76"/>tiae. Et. q. 2. arti. 3. doct. deuotus dat signum 
+      <lb ed="#B" n="77"/>ad cognoscendum tales valde notandum. 
+      il<lb ed="#B" n="78" break="no"/>li enim hoc videntur innodati pessimo pec 
+      <lb ed="#B" n="79"/>cato qui vix in aliquo homine possunt aut bonum 
+      <lb ed="#B" n="80"/>respicere aut reperire. 
+      <lb ed="#B" n="81"/>lumarticulum sunt 
+      <lb ed="#B" n="82"/>ltres difficul 
+      <lb ed="#B" n="83"/>tates.
+</p>
+               <p xml:id="WuV37d-f06579-d1e1060">
+¶ Prima est: vnde est quod in 
+      pro<lb ed="#B" n="84" break="no"/>fundum maliciae potest immediate mergi homo 
+      <lb ed="#B" n="85"/>non tamen immediate effici summus in virtu 
+      <lb ed="#B" n="86"/>tibus. Dicendum quod causa est: quia nequit homo nisi 
+      <lb ed="#B" n="87"/>ordinate ascendere in virtutibus. Unde 
+      <lb ed="#B" n="88"/>Bern. super canti. Nemo repente fit 
+      sun<lb ed="#B" n="89" break="no"/>mus: sed paulatiue procedere volo. In 
+      <lb ed="#B" n="90"/>malis vero potest immediate quis ab alto se 
+      <lb ed="#B" n="91"/>praecipitare: patet in turri: vbi quis cum 
+      <lb ed="#B" n="92"/>labore ascendit: et immediate praecipitatur. 
+      </p>
+               <p xml:id="WuV37d-f06579-d1e1083">
+                  <lb ed="#B" n="93"/>¶ Secunda difficitas: vtrum voluntas 
+      <lb ed="#B" n="94"/>nostra possit ferri in malum absolute non hito 
+      <lb ed="#B" n="95"/>respectu bomin. doc. subti. in praesenti dist. loqui 
+      <lb ed="#B" n="96"/>videtur dubie: si enim quis posset odire deum in 
+      <lb ed="#B" n="97"/>quo odio nulla est ratio boni habetur propo 
+      <lb ed="#B" n="98"/>situm. Scriptum est enim. Supbia eorum qui 
+      <!--477.xml-->
+      <pb ed="#B" n="230-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>E i 
+      <lb ed="#B" n="2"/>Nemo operatur ad malum aspiciens: intelligitur 
+      <lb ed="#B" n="3"/>de communi: vel nisi esset homo in malorum mersus pro 
+      <lb ed="#B" n="4"/>fundum: vt iam homo non dicatur sed diabolus: 
+      </p>
+               <p xml:id="WuV37d-f06579-d1e1114">
+                  <lb ed="#B" n="5"/>¶ Tertia difficultas: vnde est quod magister in 
+      <lb ed="#B" n="6"/>ra solum ponit quattuor species huius peccati in spiritum 
+      <lb ed="#B" n="7"/>sanctum scilicet desperationem: obstinationem: 
+      impu<lb ed="#B" n="8" break="no"/>gnationem agnite veritatis: et inuidentiam fra 
+      <lb ed="#B" n="9"/>ternae gratie: non autem praesumptionem et impniam. 
+      <lb ed="#B" n="10"/>Dicedum quod he duae continentur satis sub 
+      ob<lb ed="#B" n="11" break="no"/>stinatione: eo enim quod quis obstinatus est: nec 
+      ti<lb ed="#B" n="12"/> 
+                  <lb ed="#B" n="13"/>quod possunt elici ex textu subtiliter indaganti. Ex 
+      <lb ed="#B" n="14"/>quo patet ad quaestionem: quod vicem peccatum in spiritum sanctum 
+      <lb ed="#B" n="15"/>sic venit ex malicia: quod tamen potest dici 
+      remissi<lb ed="#B" n="16" break="no"/>bile.
+</p>
+               <p xml:id="WuV37d-f06579-d1e1143">
+¶ Ad primum argumentum. dicendum ad 
+      <lb ed="#B" n="17"/>minorem: quod est contra appropriatum spiritus sancti: 
+      <lb ed="#B" n="18"/>scilicet benignitatem: et dum probatur: quod etiam peccata cae 
+      <lb ed="#B" n="19"/>tera mortalia: quia privant gratiam. Dicendum quod 
+      <lb ed="#B" n="20"/>differenter: peccatum enim in spirintum sanctum est contra 
+      diui<lb ed="#B" n="21" break="no"/>nam bonitatem et ratioem principii: quia habet ortum a 
+      <lb ed="#B" n="22"/>malicia: et ratione finis: quia privat gratiam: alia 
+      <lb ed="#B" n="23"/>autem ratione priuationis gratae solum: ideo non est consimile. 
+      </p>
+               <p xml:id="WuV37d-f06579-d1e1161">
+                  <lb ed="#B" n="24"/>¶ Ad secundum dicendum ad minorem: quod impnia 
+      <lb ed="#B" n="25"/>no dicitur eo: quod non possit penitere quis: sed eo quod 
+      <lb ed="#B" n="26"/>proponit non poenitere: licet possit fieri 
+      opposi<lb ed="#B" n="27" break="no"/>tum. idem de obstinatione et desperatione: led non 
+      <lb ed="#B" n="28"/>frequenter eueniat.
+</p>
+               <p xml:id="WuV37d-f06579-d1e1174">
+¶ Ad tertium dicendum 
+      <lb ed="#B" n="29"/>primo quod tenerndo quod dictum est de doctore 
+      <lb ed="#B" n="30"/>subtili facilis est responsio: quo scilicet voluntas possit 
+      <lb ed="#B" n="31"/>ferri in malum: et sub ratione mali. Uel 
+      dicen<lb ed="#B" n="32" break="no"/>dum ad secundum membrum: quod sub modo apparentis 
+      <lb ed="#B" n="33"/>boni nec tamen sequitur: quod sit peccatum ex 
+      ignoran<lb ed="#B" n="34" break="no"/>tia: quia peccatum dicitur ex ignorantia: quando praecedit 
+      <lb ed="#B" n="35"/>gnorantia: vt causa: casu autem in isto solum 
+      ap<lb ed="#B" n="36" break="no"/>parentia concomitabitur actum peccati modo quo dicit 
+      <lb ed="#B" n="37"/>philosophus in. 3. ethorum. Omnis malus ignorans. Et 
+      <lb ed="#B" n="38"/>inatm de praesenti quae.
+</p>
+            </div>
+            <div xml:id="WuV37d-f06579-Dd1e1199" type="et-conclusiones">
+               <head xml:id="WuV37d-f06579-Hd1e1201">Conclusiones</head>
+               <p xml:id="WuV37d-f06579-d1e1204">
+¶ Ex praesenti autem etc. 
+      </p>
+               <p xml:id="WuV37d-f06579-d1e1207">
+                  <lb ed="#B" n="39"/>¶ Prima conclusio: iniquum peccatum est desparatio 
+      <lb ed="#B" n="40"/>et obstinatio in pneuma beatamum. Dicit conclusio 
+      <lb ed="#B" n="41"/>quod desperatio et obstinatio sunt species peccati 
+      <lb ed="#B" n="42"/>in spiritum sanctum. Et ponitur a principio dist. 
+      vs<lb ed="#B" n="43" break="no"/>quam ibi. Est etiam alia etc.
+</p>
+               <p xml:id="WuV37d-f06579-d1e1220">
+¶ Secunda conclusio: 
+      <lb ed="#B" n="44"/>agnita veritas dum impugnatur et fratrum cha 
+      <lb ed="#B" n="45"/>ritas hic malo notatur. Dicit conclusio. quod 
+      impu<lb ed="#B" n="46" break="no"/>gnatio veritatis agnite et inuidentia frater 
+      <lb ed="#B" n="47"/>ne gratie sunt peccata in spiritum sanctum. Et ponitur ab 
+      <lb ed="#B" n="48"/>illo loco. Est etiam alia: vsque ibi: De hoc quoe 
+      <lb ed="#B" n="49"/>peccato.
+</p>
+               <p xml:id="WuV37d-f06579-d1e1236">
+¶ Tertia conclusio. Solet infirmitas 
+      <!--477.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>trimen excusare atque peruersitas mala 
+      accu<lb ed="#B" n="51" break="no"/>sare. Dicit conclusio: quod infirmitas excusat 
+      pec<lb ed="#B" n="52" break="no"/>catum: sed malicia accusat. Et ponitur ab illo 
+      <lb ed="#B" n="53"/>loco. De hoc quoque peccato etc. vsque ad fi 
+      <lb ed="#B" n="54"/>nem distinctionis.
+</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

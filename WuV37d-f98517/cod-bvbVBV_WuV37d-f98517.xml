@@ -1,0 +1,726 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 41</title>
+            <author ref="#WilliamDeVaurouillon">William de Vaurouillon</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 41</title>
+               <date when="2021-06-19">June 19, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-bvbVBV">Basel 1510</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-06-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="428-v"/>
+            <cb ed="#B" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="WuV37d-f98517"><!-- l4d41 -->
+            <head xml:id="WuV37d-f98517-Hd1e108">Distinctio 41</head>
+            <div xml:id="WuV37d-f98517-Dd1e111" type="circa-textum">
+               <head xml:id="WuV37d-f98517-Hd1e113">Circa textum</head>
+               <p xml:id="WuV37d-f98517-d1e116">
+                  <lb ed="#B" n="22"/>Distinctio. 41. de impedimento 
+      <lb ed="#B" n="23"/>matrimonii respectu propinquita 
+      <lb ed="#B" n="24"/>tis: affinitatis. 
+      <lb ed="#B" n="25"/>Inc de affi 
+      <lb ed="#B" n="26"/>nitate videndum est: de 
+      <lb ed="#B" n="27"/>qua Oregorius. Hic 
+      <lb ed="#B" n="28"/>signatur. 41. distinctio 
+      hu<lb ed="#B" n="29"/> ius quarti sententiarum: quae 
+      <lb ed="#B" n="30"/>ita habet continuari ad praecedentes. Nam 
+      <lb ed="#B" n="31"/>postquam in praecedenti dis. seu. 40 proposita est 
+      <lb ed="#B" n="32"/>carnis consanguineitas: nunc in hac 
+      distin<lb ed="#B" n="33" break="no"/>ctione subiungitur affinitas. Et habet diui 
+      <lb ed="#B" n="34"/>di praesens distin. in tres partes principales 
+      <lb ed="#B" n="35"/>In prima impedimentum et ratio ponitur 
+      <lb ed="#B" n="36"/>affinitatis. In secunda in gradum 
+      prohibi<lb ed="#B" n="37" break="no"/>to modus additur separabilitatis. In 
+      ter<lb ed="#B" n="38" break="no"/>tia peccatorum numerus tangitur quo frangum 
+      <lb ed="#B" n="39"/>tur iura honestatis. Prima in principio. 
+      <lb ed="#B" n="40"/>Secunda ibi: Et sciendum quod ecclesia infra 
+      <lb ed="#B" n="41"/>etc. Tertia ibi: Hic dicendum est quod aliud est 
+      <lb ed="#B" n="42"/>fornicatio etc. Haec est diuisio praesentis 
+      di<lb ed="#B" n="43" break="no"/>stinctionis in generali etc.
+    </p>
+            </div>
+            <div xml:id="WuV37d-f98517-Dd1e167">
+               <head xml:id="WuV37d-f98517-Hd1e169">Quaestio</head>
+               <p xml:id="WuV37d-f98517-d1e172">
+                  <lb ed="#B" n="44"/>Questio haec docet de impedimen 
+      <lb ed="#B" n="45"/>to matrimonii inter affines: que 
+      ha<lb ed="#B" n="46" break="no"/>betur a Scoto in praesenti distincti 
+      <lb ed="#B" n="47"/>one. q. vnica. 
+      <!--873.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="48"/>Utrum 
+      consan<lb ed="#B" n="49" break="no"/>guinitatis linea vel affinitatis  
+      <lb ed="#B" n="50"/>ratio communiugium impediant. Et 
+      ar<lb ed="#B" n="51" break="no"/>guitur tripliciter quod non.
+</p>
+               <p xml:id="WuV37d-f98517-d1e196">
+¶ Primo sic: Cain 
+      <lb ed="#B" n="52"/>contraxit cum sorore: igitur non sunt querendi 
+      <lb ed="#B" n="53"/>gradus alii. Antecedens patet: quia aliam non 
+      <lb ed="#B" n="54"/>habuit cum qua contraheret et contrahere opor 
+      <lb ed="#B" n="55"/>tuit: ex praecepto dominico: Crescite et 
+      multipli<lb ed="#B" n="56" break="no"/>camini et replete terram. Patet consequen 
+      <lb ed="#B" n="57"/>tia: quia lex matrimonii multum bene fuit 
+      ser<lb ed="#B" n="58" break="no"/>uata aut seruanda in sui exordio et cum 
+      ma<lb ed="#B" n="59" break="no"/>tre non contraxisset. Sic enim praecipitur: Pro 
+      <lb ed="#B" n="60"/>pter hoc relinquet homo patrem et matrem 
+      <lb ed="#B" n="61"/>nec alia erat.
+</p>
+               <p xml:id="WuV37d-f98517-d1e220">
+¶ Secundo arguitur sic: Con 
+      <lb ed="#B" n="62"/>trahere cum sorore aut cum matre non est con 
+      <lb ed="#B" n="63"/>tra aliquod bonum matrimonii: igitur consun 
+      <lb ed="#B" n="64"/>guinitas non impedit. Antecedens patet: 
+      <lb ed="#B" n="65"/>discurrendo de bono prolis: de bono fidei: 
+      <lb ed="#B" n="66"/>de bono sacramenti. patet consequentia: quia 
+      <lb ed="#B" n="67"/>illis stantibus est verum matrimonium
+</p>
+               <p xml:id="WuV37d-f98517-d1e236">
+¶ Ter 
+      <lb ed="#B" n="68"/>tio arguitur de affinitate sic: Effectus non 
+      re<lb ed="#B" n="69" break="no"/>pugnat suae causae: igitur affinitas matrimo 
+      <lb ed="#B" n="70"/>nio non repugnat. Antecedens patet: calor 
+      <lb ed="#B" n="71"/>enim ignis non repugnat / sed nutrit ignem et 
+      <lb ed="#B" n="72"/>conseruat. Probat consequentia: quia affini 
+      <lb ed="#B" n="73"/>tas est effectus matrimonii.
+</p>
+               <p xml:id="WuV37d-f98517-d1e253">
+¶ In oppo 
+      <lb ed="#B" n="74"/>situm pro consanguinitate Orego. ad Augu. 
+      <lb ed="#B" n="75"/>anglorum episcoum (et habetur. 35. q. 3. c. Quedan 
+      <lb ed="#B" n="76"/>lex. et recitat magister in listra post medium 
+      <lb ed="#B" n="77"/>40. distin.)7 diciti / quod siue duorum fratrum ger 
+      <lb ed="#B" n="78"/>manorum seu duarum sororum filius et filia 
+      mi<lb ed="#B" n="79" break="no"/>sceantur experimento didicit ex tali 
+      communiu<lb ed="#B" n="80" break="no"/>gio sobolem non posse succrescere. Ex quo 
+      in<lb ed="#B" n="81" break="no"/>nuit quod consanguinitas impedit 
+      matrimo<lb ed="#B" n="82" break="no"/>nium et vnum eius bonum scilicet prolis. Pro 
+      affi<lb ed="#B" n="83" break="no"/>nitate arguitur. 35. q. 3. ca. De propinquis. 
+      <lb ed="#B" n="84"/>Equaliter vir coniugatur in matrimonio eis 
+      <lb ed="#B" n="85"/>quae sibi consanguineae sunt et vxoris siue 
+      <lb ed="#B" n="86"/>consanguineis post mortem vxoris suae. Ex 
+      <lb ed="#B" n="87"/>quo patet aeque affinitatem matrimonium 
+      <lb ed="#B" n="88"/>impedire: vt consanguinitas impedit. 
+      </p>
+               <p xml:id="WuV37d-f98517-d1e288">
+                  <lb ed="#B" n="89"/>¶ In ista quaesti. sunt tres articli declarandi 
+      <lb ed="#B" n="90"/>Primus est terminorum declaratiuus 
+      <lb ed="#B" n="91"/>Quorum Secundus est quaestionis responsiuus. 
+      </p>
+               <p xml:id="WuV37d-f98517-d1e297">
+                  <lb ed="#B" n="92"/>¶ Tertius est dubiorum motiuus. 
+      </p>
+               <p xml:id="WuV37d-f98517-d1e302">
+                  <lb ed="#B" n="93"/>¶ Quantum ad primum articu 
+      <lb ed="#B" n="94"/>ium ter 
+      <lb ed="#B" n="95"/>mini sunt: Consanguinitas: linea confan 
+      <!--874.xml-->
+      <pb ed="#B" n="429-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>guinitatis: affinitas. Et vt melius ista con 
+      <lb ed="#B" n="2"/>cipiantur triplex definitio est praenotanda: 
+      <lb ed="#B" n="3"/>et triplex regula / secundum mentem doctoris deuo 
+      <lb ed="#B" n="4"/>ti distin. 40. articu. 1. q. 1.
+</p>
+               <p xml:id="WuV37d-f98517-d1e326">
+¶ Primum de 
+      <lb ed="#B" n="5"/>finibile est consanguinitas. Et est vin 
+      <lb ed="#B" n="6"/>culum personarum ab eodem stipite descen 
+      <lb ed="#B" n="7"/>dentium / carnali propagatione contractum. 
+      <lb ed="#B" n="8"/>Ex qua descriptione tria sequuntur 
+      corre<lb ed="#B" n="9" break="no"/>laria. Primum quod consanguinitas formali 
+      <lb ed="#B" n="10"/>ter est respectus / patet: quia est vinculum 
+      <lb ed="#B" n="11"/>in recto: vinculum non dicit nisi respectum. 
+      <lb ed="#B" n="12"/>Secundum quod est respectus extrinsecus ad 
+      <lb ed="#B" n="13"/>ueniens: quia non oritur ex natura 
+      extre<lb ed="#B" n="14" break="no"/>morum in se positorum: is enim qui est filius 
+      ali<lb ed="#B" n="15" break="no"/>cuius potuit esse pater eius. Tertium quod 
+      <lb ed="#B" n="16"/>iudicatur consanguinitas ex stipite: secundum quod 
+      <lb ed="#B" n="17"/>maius aut minus appropinquat: vt ioan 
+      <lb ed="#B" n="18"/>nes de deo: natione hispanus pulchre in 
+      <lb ed="#B" n="19"/>arbore ostendit. Stipes enim dicitur 
+      per<lb ed="#B" n="20" break="no"/>sona a qua aliqui duxerunt originem a qua 
+      <lb ed="#B" n="21"/>descendentes sunt inter se consanguinei: et 
+      <lb ed="#B" n="22"/>illi etiam a quo sunt.
+</p>
+               <p xml:id="WuV37d-f98517-d1e368">
+¶ Secundum est 
+      li<lb ed="#B" n="23" break="no"/>pea consanguinitatis. Est autem linea con 
+      <lb ed="#B" n="24"/>sanguinitatis ordinata personarum 
+      colle<lb ed="#B" n="25" break="no"/>ctio consanguinitate iunctarum ab eodem 
+      sti<lb ed="#B" n="26" break="no"/>pite descendentium diuersos gradus con 
+      <lb ed="#B" n="27"/>tinens. Et notanter dicitur ordinata 
+      colle<lb ed="#B" n="28" break="no"/>ctio: quoniam sicut ordo est in linea 
+      predi<lb ed="#B" n="29" break="no"/>camentali secundum superius et inferius: sic in 
+      li<lb ed="#B" n="30" break="no"/>nea consanguinitatis secundum prius et posteri 
+      <lb ed="#B" n="31"/>Qui ordo tripliciter habet accipi: vel ad 
+      <lb ed="#B" n="32"/>id quod supra: vel ad id quod iuxta: vel ad  
+      <lb ed="#B" n="33"/>id quod infra. Et iuxta hunc triplicem: tres 
+      <lb ed="#B" n="34"/>solent lineae assignari. quedam ascendentium 
+      <lb ed="#B" n="35"/>quedam descendentium / quaedam transuersalium: 
+      <lb ed="#B" n="36"/>secundum lineam ascendentem computatur gradus: ita 
+      <lb ed="#B" n="37"/>pater et mater / auus et auia / proauus et 
+      pro<lb ed="#B" n="38" break="no"/>nuia / atauus et atauia: secundum lineam descenden 
+      <lb ed="#B" n="39"/>tem filius et filia / nepos et neptis / pronepos 
+      <lb ed="#B" n="40"/>et proneptis / atnepos et atneptis: secundum lineam 
+      <lb ed="#B" n="41"/>transuersalem duo fratres filii duorum 
+      fra<lb ed="#B" n="42" break="no"/>trum / nepotes duorum fratrum / 
+      pronepo<lb ed="#B" n="43" break="no"/>tes duorum fratrum: et ibi est status. Notan 
+      <lb ed="#B" n="44"/>dum autem quod vbi doctor deuotus dicit at 
+      <lb ed="#B" n="45"/>auus antauia: Aoannes de deo dicit in arbo 
+      <lb ed="#B" n="46"/>re sua: abauus abauia. Et vbi dicit 
+      Bo<lb ed="#B" n="47" break="no"/>nauentura atnepos et atneptis / dicit Ioan 
+      <lb ed="#B" n="48"/>nes de deo / abnepos et abueptis: magis 
+      <lb ed="#B" n="49"/>secundum veritatem loquens / vt dicamus doctorem 
+      <!--874.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>deuotum solum gratia exempli posuisse: vnde vt 
+      <lb ed="#B" n="51"/>in nullo erretur sic ordinat in linea ascen 
+      <lb ed="#B" n="52"/>dente: pater / auus / proauus / abauus / atauus / 
+      <lb ed="#B" n="53"/>tritauus / sunt tres binarii: et est finis ascen 
+      <lb ed="#B" n="54"/>dendo. Dicitur proauus: quia prope auum: sicut 
+      pa<lb ed="#B" n="55" break="no"/>tet. Dicitur abauus: quia abest auo ex 
+      oppo<lb ed="#B" n="56" break="no"/>sito proaui. Dicitur atauus: quia fini lineae 
+      ap<lb ed="#B" n="57" break="no"/>proximat: sicut. t. fini approximat latini al 
+      <lb ed="#B" n="58"/>phabeti: nec tamen est in fine. vel secundo dicitur quasi 
+      <lb ed="#B" n="59"/>tertius ab auo: vel tertio dicitur de ad mu 
+      <lb ed="#B" n="60"/>tata. t. in. d. sicut in compositione mutatur. d. i 
+      <lb ed="#B" n="61"/>t. quia mediante proauo et abauo ad auum 
+      re<lb ed="#B" n="62" break="no"/>ducitur. Tritauus deo dicitur / quia quartus est 
+      <lb ed="#B" n="63"/>ab auo: a tetra quod est quattuor: computa 
+      <lb ed="#B" n="64"/>sic inuenies: vt in viris sic feminis 
+      consi<lb ed="#B" n="65" break="no"/>stit. In linea descendente sic locantur: filius 
+      <lb ed="#B" n="66"/>nepos / pronepos / abnepos / atnepos / tri 
+      <lb ed="#B" n="67"/>nepos: exponantur vocabula vt dictum est. 
+      <lb ed="#B" n="68"/>sic in mulieribus.
+</p>
+               <p xml:id="WuV37d-f98517-d1e476">
+¶ Tertio definiendus est 
+      <lb ed="#B" n="69"/>gradus consanguinitatis. Est autem 
+      habitu<lb ed="#B" n="70" break="no"/>do distantium personarum qua cognoscitur 
+      quo<lb ed="#B" n="71" break="no"/>ta generationis distantia duae personae differunt 
+      <lb ed="#B" n="72"/>inter se. Ubi notandum hanc descriptionemu 
+      <lb ed="#B" n="73"/>secundum ius fore canonicum / non ciuile. Dicunt 
+      <lb ed="#B" n="74"/>autem legistae gradus accipi secundum personarum 
+      nume<lb ed="#B" n="75" break="no"/>rum collectarum in linea. secundum eos enim fratei 
+      <lb ed="#B" n="76"/>et soror duos gradus faciunt: sed decretista 
+      <lb ed="#B" n="77"/>quod vnum et primum gradum. Sed quae diuersitatis  
+      <lb ed="#B" n="78"/>ratio: vt sic pugnent ad inuicem de gradibus 
+      ci<lb ed="#B" n="79" break="no"/>uiles leges et canones? Dicit Bonauen. 
+      <lb ed="#B" n="80"/>haec: quia ius canonicum duorum extremorum 
+      di<lb ed="#B" n="81" break="no"/>cit vnicam esse habitudinem: vt patris ad filium 
+      <lb ed="#B" n="82"/>est vna habitudo: et econtra. et gradus est 
+      ha<lb ed="#B" n="83" break="no"/>bitudo: ideo dicunt vnum gradum. econuerso 
+      <lb ed="#B" n="84"/>seu econtrario dicunt legistae: duorum extre 
+      <lb ed="#B" n="85"/>morum duas fore habitudines dum ad 
+      terti<lb ed="#B" n="86" break="no"/>um comparantur: vt in proposito ad suum princi 
+      <lb ed="#B" n="87"/>pium. Alia est enim habitudo fratris ad 
+      pa<lb ed="#B" n="88" break="no"/>trem: alia habitudo sororis ad patrem: et gra 
+      <lb ed="#B" n="89"/>dus est habitudo: ideo sunt duo gradus. 
+      <lb ed="#B" n="90"/>In praequaestionario. 40. di. frater Richar. 
+      <lb ed="#B" n="91"/>aliter quodammodo dicit: ait enim quod duo extre 
+      <lb ed="#B" n="92"/>ma non solum habent habitudinem variam dum ad 
+      <lb ed="#B" n="93"/>principium referuntur / sed inter se: vnde vt ibidem 
+      <lb ed="#B" n="94"/>dicit / illa habitudo quae est fratris ad 
+      soro<lb ed="#B" n="95" break="no"/>rem / non est eadem cum illa quae est sororis ad fremm 
+      <lb ed="#B" n="96"/>Unde secundum Auicem. 3. metaph. ca. 10. Frater. 
+      <lb ed="#B" n="97"/>nitas quae est in vno fratre respectu alterius / 
+      <lb ed="#B" n="98"/>non est fraternitas quae est in alio respectu 
+      <!--875.xml-->
+      <pb ed="#B" n="429-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>illius: sed quis eorum dicit melius? Diceretur quod 
+      <lb ed="#B" n="2"/>de habitudine loquendo absolute / ius 
+      ci<lb ed="#B" n="3" break="no"/>uile melius considerauit. Nullus enim in na 
+      <lb ed="#B" n="4"/>tura expertus aut rerum cognitione 
+      dubi<lb ed="#B" n="5" break="no"/>tat quin duorum fratrum adinuicem aut ad 
+      pa<lb ed="#B" n="6" break="no"/>trem sint duae habitudines: quod si ius 
+      canoni<lb ed="#B" n="7" break="no"/>cum hoc negaret (quod non facitis simpliciter 
+      <lb ed="#B" n="8"/>ei non esset adhaerendum. hac de causa credo 
+      <lb ed="#B" n="9"/>doctorem deuotum et frem Richar. dixisse 
+      in<lb ed="#B" n="10" break="no"/>ter ea non esse contradictionem: quod satis primo 
+      <lb ed="#B" n="11"/>occursu durum videtur. hic dicit duos gradus 
+      <lb ed="#B" n="12"/>illud negat duos gradus: multum int se di 
+      <lb ed="#B" n="13"/>stant esse duo / et non esse duo. Sed dicit pla 
+      <lb ed="#B" n="14"/>nius Richar. non est contradictio realis: quia 
+      <lb ed="#B" n="15"/>teste philosopho in lib. elenchorum 1 et. 2. 
+      contra<lb ed="#B" n="16" break="no"/>dictio est vnius et eiusdem non nomins tantum: sed 
+      <lb ed="#B" n="17"/>rei et nomins: dum ignorantiam elenchi 
+      descri<lb ed="#B" n="18" break="no"/>beret. Est reuera vt concludam contradictio 
+      <lb ed="#B" n="19"/>nominalis non realis. Sunt equidem duae 
+      ha<lb ed="#B" n="20" break="no"/>bitudines fratris ad sororem / et econtra: sed 
+      <lb ed="#B" n="21"/>non valet: ergo sunt duo gradus. potest enim 
+      <lb ed="#B" n="22"/>multiplicari superius in diuersis inferiori 
+      <lb ed="#B" n="23"/>bus inferiori minime multiplicato: sic be 
+      <lb ed="#B" n="24"/>ne stat plura esse animalia: et tamen sit homo vnicus: 
+      <lb ed="#B" n="25"/>et si gradus sit habitudo / non tamen conuertibus 
+      <lb ed="#B" n="26"/>liter: multae sunt habitudines quae non existunt 
+      <lb ed="#B" n="27"/>gradus. Ex quo patet quod exemplum doctoris 
+      <lb ed="#B" n="28"/>deuoti de comparatione duorum fratrum ad idem 
+      <lb ed="#B" n="29"/>principium aut fratris et sororis melius est pro 
+      <lb ed="#B" n="30"/>iure ciuili quam exemplum fratris Richar 
+      <lb ed="#B" n="31"/>di de comparatione fratris et sororis ad se 
+      <lb ed="#B" n="32"/>inuicem. In secundo solam dico habitudinemus 
+      <lb ed="#B" n="33"/>sine gradum in primo: et dico habitudinem et 
+      <lb ed="#B" n="34"/>gradum in tertio et tamen iura canonica censent ad  
+      <lb ed="#B" n="35"/>patrem duos fratres constare in primo gra 
+      <lb ed="#B" n="36"/>du / et illum fore vnicum: quia confuse habitu 
+      <lb ed="#B" n="37"/>dinem gradualem intelligi quaestione sit vnica 
+      sim<lb ed="#B" n="38" break="no"/>plex propter aequidistantiam a stipite. Ciuilia 
+      <lb ed="#B" n="39"/>iura subtilius distinguunt vt non sine cau 
+      <lb ed="#B" n="40"/>sa ex iure ciuili sint ex parte magna glosae 
+      <lb ed="#B" n="41"/>confectae in iure canonico: nec tamen 
+      cotra<lb ed="#B" n="42" break="no"/>dicunt: quia quod vnum est confuse / duo sunt distin 
+      <lb ed="#B" n="43"/>cte. Tanta dicta sint de primis duobus 
+      ter<lb ed="#B" n="44" break="no"/>rnis / consanguinitas et consanguinitatis  
+      <lb ed="#B" n="45"/>linea in hoc primo ternario gradum addito. 
+      </p>
+               <p xml:id="WuV37d-f98517-d1e648">
+                  <lb ed="#B" n="46"/>¶ Secundus ternarius est de regula 
+      tripli<lb ed="#B" n="47" break="no"/>ci. Prima est: nulli licet contrahere cum 
+      ali<lb ed="#B" n="48" break="no"/>qua vsque ad quartum gradum inclusiue: et ta 
+      <lb ed="#B" n="49"/>lis est huiusmodi probibitio / quod si quas contra eam 
+      <!--875.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>praesumpserit copulari / nulla loginquitate 
+      <lb ed="#B" n="51"/>defendatur annorum: cum diuturnitas 
+      temporum<lb ed="#B" n="52" break="no"/>non minuat peccatum / sed augeat: et tanto 
+      graui<lb ed="#B" n="53" break="no"/>ora sunt crimina / quanto diutius infelicem 
+      <lb ed="#B" n="54"/>animam detinent alligatam. extra de confuetu 
+      <lb ed="#B" n="55"/>dine. c. Cum tanto. et. c. Cum in ecclesiis. de 
+      si<lb ed="#B" n="56" break="no"/>monia cum concor. Et hoc probatur extra de 
+      com<lb ed="#B" n="57" break="no"/>sanguinitate. c. Non oportet. Secunda 
+      re<lb ed="#B" n="58" break="no"/>gula: quod tanto gradu personae descendentes a 
+      <lb ed="#B" n="59"/>stipite differunt a seinuicem quanto distant a 
+      <lb ed="#B" n="60"/>stipite: et ideo si quius vult scire quoto gra 
+      <lb ed="#B" n="61"/>du aliqui sibi attineant / cum talis attinentia ori 
+      <lb ed="#B" n="62"/>ginem ducat a stipite / oportet ad illam perso 
+      <lb ed="#B" n="63"/>nam recurrere cui immediatius coniunguntur: vt 
+      <lb ed="#B" n="64"/>patere potest in exemplo. Tertia regula: quando 
+      <lb ed="#B" n="65"/>personae inequaliter distant a stipite: vtpote 
+      <lb ed="#B" n="66"/>quando vna in secundo gradu et altera in 
+      quin<lb ed="#B" n="67" break="no"/>to linea consanguinitatis: et gradus debet 
+      <lb ed="#B" n="68"/>computari secundum distantiam magis remoti: et 
+      <lb ed="#B" n="69"/>ista regula confirmatur per illud quod dicitur exim 
+      <lb ed="#B" n="70"/>de consanguin. in vlti. decretali / quae est grego 
+      <lb ed="#B" n="71"/>riana. Cuius ratio: quia tota causa proximitatis 
+      <lb ed="#B" n="72"/>ortum habet a stipite: ergo nullus 
+      proximi<lb ed="#B" n="73" break="no"/>or est alii collanterali quam stipiti: si ergo 
+      di<lb ed="#B" n="74" break="no"/>stat a stipite per quinque gradus / pari 
+      ratio<lb ed="#B" n="75" break="no"/>ne distat a colaterali: quod si amplius distat secundum 
+      <lb ed="#B" n="76"/>magis distantem oportet computari. Et ideo 
+      <lb ed="#B" n="77"/>ille qui distat in quinto gradum contrahere potest 
+      <lb ed="#B" n="78"/>cum eo qui distat in secundo. Ex quo infert 
+      <lb ed="#B" n="79"/>Secundo quod proprie gradus inuenitur in linea ascen 
+      <lb ed="#B" n="80"/>dente et descendente minus proprie in 
+      trans<lb ed="#B" n="81" break="no"/>uersali: et patet quia iudicium transuersalis ad  
+      <lb ed="#B" n="82"/>iudicium reducitur aliarum. Secundo dicit quod in 
+      li<lb ed="#B" n="83" break="no"/>nea ascendente et descendente tot sunt 
+      gra<lb ed="#B" n="84" break="no"/>dus a gradiendo / quot sunt personae vna 
+      dem<lb ed="#B" n="85" break="no"/>pta: dicatur aut ioachim aut ioseph / quacumque 
+      <lb ed="#B" n="86"/>interprintatione loquamur. Ex quo stipes 
+      <lb ed="#B" n="87"/>est non est gradus: stat enim vnde stipes non 
+      <lb ed="#B" n="88"/>graditur vnde gradus. Et patet in manibus 
+      <lb ed="#B" n="89"/>manus enim completa quinque habet digitos 
+      <lb ed="#B" n="90"/>solum quattuor aperturas: sic sunt quattuor 
+      <lb ed="#B" n="91"/>gradus ad quos resoluta est ecclesia: sed  
+      <lb ed="#B" n="92"/>in quinario personarum. Unde infert tertio quod 
+      <lb ed="#B" n="93"/>efficacior est gradus in linea descendente 
+      <lb ed="#B" n="94"/>quam transuersali: plus enim communiungitur proles pa 
+      <lb ed="#B" n="95"/>renti quam proles proli. Unde sequitur quod est 
+      ma<lb ed="#B" n="96" break="no"/>gis contra naturam communiungi in linea recta in 
+      <lb ed="#B" n="97"/>primo gradum quam in transuersali: vnde in linea 
+      <lb ed="#B" n="98"/>recta semper prohibitus fuit primus gradus 
+      <!--876.xml-->
+      <pb ed="#B" n="430-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>Et quia hic gradus habet duos graduellos: 
+      <lb ed="#B" n="2"/>vt ita loquar: magis est contra naturam ma 
+      <lb ed="#B" n="3"/>trem filio communiungi / quam patrem filiae: maior enim 
+      <lb ed="#B" n="4"/>irreuerentia est. De equo in octauo 
+      anima<lb ed="#B" n="5" break="no"/>lium narrat Aresto. quod postquam velatus matremu 
+      <lb ed="#B" n="6"/>cognouit / et discoopartus agnouit / se 
+      praeci<lb ed="#B" n="7" break="no"/>pitauit. Et de camelo ibi narrati / quod 
+      post<lb ed="#B" n="8" break="no"/>quam ingenio deceptus matrem cognouit inge 
+      <lb ed="#B" n="9"/>niatorem interimit. Et descendendo per 
+      sin<lb ed="#B" n="10" break="no"/>gulas leges in lege naturae fuit solum 
+      pro<lb ed="#B" n="11" break="no"/>hibitio secundum lineam rectam explicite in adam 
+      <lb ed="#B" n="12"/>ad filios et filias: implicite ad omnes 
+      contem<lb ed="#B" n="13" break="no"/>tos in linea recta / comparando suis 
+      superio<lb ed="#B" n="14" break="no"/>ribus: fuisset tamen forsan inquit etiam pro 
+      <lb ed="#B" n="15"/>hibitio in linea transuersali / si status inno 
+      <lb ed="#B" n="16"/>centiae stetisset: sed in principio non potuit: tunc 
+      <lb ed="#B" n="17"/>enim solum erant praeter stipitem soror et frater. 
+      <lb ed="#B" n="18"/>Secundo in lege mosaica in multis post 
+      fu<lb ed="#B" n="19" break="no"/>cit facta prohibitio: vt patet. Tertio in lege 
+      <lb ed="#B" n="20"/>euangelica aliquando vsque ad septimum gradum 
+      <lb ed="#B" n="21"/>fuit prohibitio: vt patet per magistrum distin. 
+      <lb ed="#B" n="22"/>46. sed sub Innocentio. 3. ad quartum gradum 
+      <lb ed="#B" n="23"/>restricta est. extra de consanguinita. c. Non 
+      <lb ed="#B" n="24"/>debet. Prohibitio copulae carnalis quartum 
+      <lb ed="#B" n="25"/>consanguinitatis gradum de caetero non 
+      exce<lb ed="#B" n="26" break="no"/>dat: et assignat rationem quoniam in vlterioribus 
+      <lb ed="#B" n="27"/>gradibus illam non potest absque graui 
+      dispen<lb ed="#B" n="28" break="no"/>dio obseruare: et approbat et ratificat pro 
+      <lb ed="#B" n="29"/>futuro. Cum igitur inquiens iam vsque ad quartum 
+      <lb ed="#B" n="30"/>gradum prohibitio coniugalis copulae sit re 
+      <lb ed="#B" n="31"/>stricta scilicet per nos hic in concilio: ita 
+      volu<lb ed="#B" n="32" break="no"/>mus eam esse perpetuam non obstantibus super 
+      <lb ed="#B" n="33"/>hoc constitutionibus dudum editis vel ab 
+      <lb ed="#B" n="34"/>aliis vel a nobis. Reucat etiam in eodem 
+      <lb ed="#B" n="35"/>ca. omnes prohibitiones de communiugio in 
+      secun<lb ed="#B" n="36" break="no"/>do et tertio gradum affinitatis: et de sobole 
+      <lb ed="#B" n="37"/>suscepta ex secundis nuptiis cognationi 
+      vi<lb ed="#B" n="38" break="no"/>ri non copulanda prioris: quae prohibitiones 
+      mul<lb ed="#B" n="39" break="no"/>tas difficultates inducebant: et vt dicit ali 
+      <lb ed="#B" n="40"/>quando periculum animarum.
+</p>
+               <p xml:id="WuV37d-f98517-d1e863">
+¶ Tertius ter 
+      <lb ed="#B" n="41"/>minus est affinitas. Et est hic loco 
+      ter<lb ed="#B" n="42" break="no"/>tii ternarii. Dicitur autem affinitas quasi 
+      adfi<lb ed="#B" n="43" break="no"/>nitas: mutatur enim in compositione. d. in scilicet vt 
+      <lb ed="#B" n="44"/>dulcius sonet: quia in affinitate venit vna car 
+      <lb ed="#B" n="45"/>nalis cognatio ad fines alterius. Et defi 
+      <lb ed="#B" n="46"/>nitur sic a Scoto in praesenti dist. Affinitas est 
+      <lb ed="#B" n="47"/>vinculum quoddam personae ad personam ex 
+      co<lb ed="#B" n="48" break="no"/>pula carnali cum persona alteri consangui 
+      <lb ed="#B" n="49"/>nea contractum: coniunctus enim carualiter alicui 
+      <!--876.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>de aliqua consanguinitate: per hoc accedit 
+      <lb ed="#B" n="51"/>ad fines illius consanguinitatis: et ideo ha 
+      <lb ed="#B" n="52"/>bet vinculum talis accessus ad omnes de 
+      il<lb ed="#B" n="53" break="no"/>la consanguinitate: in gradibus et lineis 
+      af<lb ed="#B" n="54" break="no"/>finitatis ambula sicut in consanguinitate: 
+      <lb ed="#B" n="55"/>sola nota sit vna notula: Quoto gradu 
+      <lb ed="#B" n="56"/>consanguinitatis distat aliquis ab aliquo 
+      <lb ed="#B" n="57"/>toto gradum affinitatis distat ab eodem illa 
+      <lb ed="#B" n="58"/>quae est ab isto carnaliter cognita: non 
+      di<lb ed="#B" n="59" break="no"/>co vxor: quia hoc non requiritur: non solum enim 
+      <lb ed="#B" n="60"/>cum vxore / sed cum concubina vel meretrice 
+      <lb ed="#B" n="61"/>contrahitur affimitas consanguineorum ipsius 
+      vi<lb ed="#B" n="62" break="no"/>ri / immo in incestu: nec sufficit ad affinitatem 
+      <lb ed="#B" n="63"/>quod sit vxor: sed requiritur carnalis commixtio 
+      <lb ed="#B" n="64"/>vt habetur. 35. q. vltima. ca. Fraternitatis. 
+      <lb ed="#B" n="65"/>Dicitur de communiugibus / quod si vna caro fuerint 
+      <lb ed="#B" n="66"/>non potest esse quod aliquis sit propinquus vni 
+      <lb ed="#B" n="67"/>eorum quin pertineat alteri: in quo datur intelli 
+      <lb ed="#B" n="68"/>gi affinitatem non contrahi / nisi mediante 
+      con<lb ed="#B" n="69" break="no"/>mixtione carnali. Est tamen notandum quod af 
+      <lb ed="#B" n="70"/>finitas dicitur tripliciter: proprie / 
+      communiter<lb ed="#B" n="71" break="no"/>communissime. Proprie non est sine 
+      commi<lb ed="#B" n="72" break="no"/>xtione carnali: vt dictum est. Communitur vero 
+      <lb ed="#B" n="73"/>contrahitur per matrimonium ratum / licet non 
+      <lb ed="#B" n="74"/>consummatum: et sic potest exponi illud. 36. 
+      <lb ed="#B" n="75"/>q. 3. c. De propinquis. equaliter vir coniun 
+      <lb ed="#B" n="76"/>gatur in matrimonio eis qui sibi 
+      consangui<lb ed="#B" n="77" break="no"/>nei sunt et vxoris suae consanguineis / post 
+      <lb ed="#B" n="78"/>mortem suae vxoris. Est autem vxor ante 
+      ma<lb ed="#B" n="79" break="no"/>trimonium consummatum. Tertio dicitur com 
+      <lb ed="#B" n="80"/>munissime: et sic contrahitur per publicae 
+      ho<lb ed="#B" n="81" break="no"/>nestatis iusticiam: de hoc libro. 6. de 
+      spon<lb ed="#B" n="82" break="no"/>salibus. 1. ca. Etiam ex sponsalibus: quae ipso 
+      <lb ed="#B" n="83"/>lure sunt nulla vel qualitercumque: dum tamen 
+      <lb ed="#B" n="84"/>non sint nulla ex defectu consensus. ex his 
+      <lb ed="#B" n="85"/>enim oritur impedimentum: et impediens con 
+      <lb ed="#B" n="86"/>trahendum / et dirimens contractum: et vnde 
+      <lb ed="#B" n="87"/>hoc nisi ex statuto ecclesiae sic illegittimam 
+      <lb ed="#B" n="88"/>tis personas. Et tantum de primo articulo. 
+      </p>
+               <p xml:id="WuV37d-f98517-d1e974">
+                  <lb ed="#B" n="89"/>¶ Quantum ad secundum arti 
+      <lb ed="#B" n="90"/>culum 
+      <lb ed="#B" n="91"/>dimissa materia consanguinitatis / quae sa 
+      <lb ed="#B" n="92"/>tis aperta est in praecedenti distinctione et 
+      <lb ed="#B" n="93"/>articulo primo huius quaestionis de 
+      affi<lb ed="#B" n="94" break="no"/>nitate tres breves erunt coclusionis. Pri 
+      <lb ed="#B" n="95"/>ma quod non solum ex carnali commixtione 
+      <lb ed="#B" n="96"/>contrahitur affinitas. Secunda / quod 
+      mo<lb ed="#B" n="97" break="no"/>do ex affinitate non nascitur affinitas. 
+      <!--877.xml-->
+      <pb ed="#B" n="430-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>certia / quod sic affinitas matrimonium impedit / 
+      <lb ed="#B" n="2"/>de in ea praescribi non potest.
+</p>
+               <p xml:id="WuV37d-f98517-d1e1007">
+¶ ¶ Pri 
+      <lb ed="#B" n="3"/>la conclusio ost: Sic per carnalem copu 
+      <lb ed="#B" n="4"/> contrahitur affinitas / quod non sola. 
+      Pro<lb ed="#B" n="5" break="no"/>atur prima pars. 35. q. 3. c. 
+      Fraternita<lb ed="#B" n="6" break="no"/>is. Dicitur de viro et muliere: si vna caro 
+      <lb ed="#B" n="7"/>erint / quomodo potest aliquis eorum propin 
+      <lb ed="#B" n="8"/>ius vni pertinere nisi pertineat alteri: 
+      <lb ed="#B" n="9"/>ninime posse fieri credendum est. Ex quo 
+      <lb ed="#B" n="10"/>fertur cum meretrice contrahi affinita 
+      <lb ed="#B" n="11"/>em: vnde apostolus dicit: Qui adhaeret 
+      <lb ed="#B" n="12"/>leretrici vnum corpus efficitur. vnde. 35 
+      <lb ed="#B" n="13"/>3. c. Si homo. Si homo fornicatus 
+      fue<lb ed="#B" n="14" break="no"/>t cum muliere / et frater eius nesciens eam du 
+      <lb ed="#B" n="15"/>erit vxorem. Sequitur: vsque ad mortem mu 
+      <lb ed="#B" n="16"/>ier poeniteat: et sine spe coniugii maneat. 
+      <lb ed="#B" n="17"/>ude non diceretur nisi per fornicationem cum 
+      <lb ed="#B" n="18"/>ratre esset contracta affinitas. Sed 
+      obii<lb ed="#B" n="19" break="no"/>eretur ex illo textu. 35. q. 3. c. 
+      Extraordina<lb ed="#B" n="20" break="no"/>a. Extraordinaria pollutio non nisi in 
+      na<lb ed="#B" n="21" break="no"/>uralibus admissa non videtur matrimonium 
+      <lb ed="#B" n="22"/>mpedire: huiusmodi est fornicatio: extraordi 
+      <lb ed="#B" n="23"/>laria enim est. Tum secundo / quia per carnalem 
+      <lb ed="#B" n="24"/>copulam extra matrimonium non incurritur 
+      ir<lb ed="#B" n="25" break="no"/>tegularitas: igitur a simili nec affinitas. Tum 
+      <lb ed="#B" n="26"/>ertio / quia huiusmodi fornicatio est causa odii ad 
+      <lb ed="#B" n="27"/>arentes mulieris: ergo non affinitatis. 
+      <lb ed="#B" n="28"/>Patet consequentia: quia idem non est causa oppo 
+      <lb ed="#B" n="29"/>sitorum. affinitas autem amorem designat. ante 
+      <lb ed="#B" n="30"/>cedens est manifestum. Ad primum dicendum quod 
+      <lb ed="#B" n="31"/>ibi non vocatur extraordinaria pollutio car 
+      <lb ed="#B" n="32"/>nalis concubitus fornicarius: sed pollutio 
+      <lb ed="#B" n="33"/>facta circa naturalia et non intra: ita quod non 
+      <lb ed="#B" n="34"/>attinguntur claustra pudoris. vnde vt notat 
+      <lb ed="#B" n="35"/>frater Richar. in praesenti di. ar. 1. q. 1. nec per 
+      <lb ed="#B" n="36"/>pollutionem factam in vase naturalitur ad illum 
+      <lb ed="#B" n="37"/>vsum non ordinato: nec secundo extra: nec 
+      <lb ed="#B" n="38"/>tertio per fractionem claustrorum sine seminis 
+      <lb ed="#B" n="39"/>effusione / efficiuntur vir et mulier vna caro 
+      <lb ed="#B" n="40"/>et ideo per tales actus non contrahitur 
+      affini<lb ed="#B" n="41" break="no"/>tas: nec obstat illud quod dicitur extra de spon 
+      <lb ed="#B" n="42"/>salibus. c. Iuuenis. quia illa decretalis loqui 
+      <lb ed="#B" n="43"/>tur de illo qui attentauit in naturalibus et 
+      <lb ed="#B" n="44"/>maritali affectu: vt dicit glosa ibidem: et eti 
+      <lb ed="#B" n="45"/>am quia vsquequaque non erat plene certum 
+      <lb ed="#B" n="46"/>vtrum extra vas naturale seminasset vel in 
+      <lb ed="#B" n="47"/>tus: vt etiam istra sonare videtur. Sed si act 
+      <lb ed="#B" n="48"/>fornicarius ita cito transit / quomodo potest re 
+      <lb ed="#B" n="49"/>linquere vinculum affinitatis ita forte. 
+      <!--877.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>Optime quidem: ex actu enim peccati quae brevis 
+      <lb ed="#B" n="51"/>est quis ad paenam ordinatur aeternam / nisi ad 
+      <lb ed="#B" n="52"/>remedium fugiat. Ad secundum dicendumi 
+      <lb ed="#B" n="53"/>quod carnalis copula intantum 
+      irregularita<lb ed="#B" n="54" break="no"/>tem inducit / inquantum est defectus sacramenit: et 
+      <lb ed="#B" n="55"/>ita aliquod esse praesupponit sacramenti: quod in 
+      <lb ed="#B" n="56"/>copula fornicaria nullum est: ideo no indu 
+      <lb ed="#B" n="57"/>citur irregularitas: sed bene tali copula sunt 
+      <lb ed="#B" n="58"/>effecti vna caro: ideo bene sequitur affini 
+      <lb ed="#B" n="59"/>tas. Ad tertium dicendum / quod nil prohibet 
+      <lb ed="#B" n="60"/>vnum et idem esse per se causam vnius 
+      opposi<lb ed="#B" n="61" break="no"/>ti per accidens alterius: sicut aqua per se est 
+      <lb ed="#B" n="62"/>causa frigiditatis per accidens caloris: quia 
+      <lb ed="#B" n="63"/>corpus humanum constringit: vnde calor 
+      cu<lb ed="#B" n="64" break="no"/>stoditur ne vaporet: vt patet in fabrorum 
+      sa<lb ed="#B" n="65" break="no"/>brica. Etiam dicendum quod alio modo actus 
+      car<lb ed="#B" n="66" break="no"/>nalis est causa amoris parentum: alio 
+      mo<lb ed="#B" n="67" break="no"/>do causa odii: vnde et Oratius dicit: Est 
+      mo<lb ed="#B" n="68" break="no"/>dus in rebus sunt certi denique fines: Quos 
+      <lb ed="#B" n="69"/>ultra citraque nequit consistere rectum. Est tamen 
+      <lb ed="#B" n="70"/>vnde sequatur sper affinitas vt diligant parem 
+      <lb ed="#B" n="71"/>tes aut odiant: primo propter ecclesie statutum 
+      <lb ed="#B" n="72"/>secundo vt honestas conseruetur: tertio vt parem 
+      <lb ed="#B" n="73"/>tes melius suas filias custodiant. 
+      Secun<lb ed="#B" n="74" break="no"/>da pars conclusionis diciti / quod non solum 
+      con<lb ed="#B" n="75" break="no"/>mixtione contrahitur affinitas: patet ex 
+      pri<lb ed="#B" n="76" break="no"/>mo artur. de matrimonio rato non 
+      consummato<lb ed="#B" n="77" break="no"/>Tum ex sponsalibus. Est tamen notandum tria esse 
+      <lb ed="#B" n="78"/>sponsalium genera. Prima quae tenent de iure: 
+      <lb ed="#B" n="79"/>secunda quae non tenent de iure propter 
+      consanguini<lb ed="#B" n="80" break="no"/>tatem aut affinitatem: tertia quae non tenent propter 
+      <lb ed="#B" n="81"/>defectum vsus rationis. Prima inducunt 
+      affi<lb ed="#B" n="82" break="no"/>nitatem communissimen dictam: vt dictum est in 1 ar. 
+      <lb ed="#B" n="83"/>aut aliquid simile affinitati: vt loquitur fratrum Ri 
+      <lb ed="#B" n="84"/>char. propter publice honestatis iusticiam. 
+      <lb ed="#B" n="85"/>extra de sponsalibus. c. Ad audientiam. in textu 
+      <lb ed="#B" n="86"/>et in glo. Similiter et secunda quae de iure non tenent 
+      <lb ed="#B" n="87"/>eadem ratione: sed non tertia quae non tenent propter 
+      <lb ed="#B" n="88"/>defectum vsus rationis: quia nec modicam appa 
+      <lb ed="#B" n="89"/>rentiam habent vt tenere debeant: vnde exirm de despon 
+      <lb ed="#B" n="90"/>satione impuberum. c. Lenas. dicitur de quodam 
+      <lb ed="#B" n="91"/>qui cum quadam puella in cunabulis contraxit 
+      <lb ed="#B" n="92"/>sponsalia: et postea matrem eius duxint vxorem: 
+      <lb ed="#B" n="93"/>quod potest manere cum vxore.
+</p>
+               <p xml:id="WuV37d-f98517-d1e1211">
+¶ Secunda co 
+      <lb ed="#B" n="94"/>clusio est haec: Sic ex copula carnali na 
+      <lb ed="#B" n="95"/>scitur affinitas / vt ex affinitate affinitas 
+      <lb ed="#B" n="96"/>non veniat. Prima pars iam probata est. 
+      <lb ed="#B" n="97"/>Propter secundam notandum est quod 
+      antiqui<lb ed="#B" n="98" break="no"/>tus erant tria affinitatis guma: sicut habetur. 35 
+      <!--878.xml-->
+      <pb ed="#B" n="431-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>q. 3. contradicimus. Primum genus 
+      affini<lb ed="#B" n="2" break="no"/>tatis quod adhuc manet: causatur ex carnali 
+      <lb ed="#B" n="3"/>commixtione: mediante consanguinitate. 
+      se<lb ed="#B" n="4" break="no"/>cundum oriebatur ex carnali commixtione 
+      me<lb ed="#B" n="5" break="no"/>diante affinitate. tertiu vero mediantibus 
+      <lb ed="#B" n="6"/>duobus primis generibus verbi gratia: a 
+      ma<lb ed="#B" n="7" break="no"/>ritus. b. vxor. c. consanguineus vxori. c. est 
+      <lb ed="#B" n="8"/> 
+                  <lb ed="#B" n="9"/>clarum exemplum: Si frater tuus contrahat 
+      <lb ed="#B" n="10"/>cum magdalena / magdalena est tibi affinis 
+      <lb ed="#B" n="11"/>primo genere affinitatis: si mortuo fratre 
+      <lb ed="#B" n="12"/>tuo contrahat cum petro / petrus est tibi affi 
+      <lb ed="#B" n="13"/>nis secundo gene affinitatis. Si tertio contra 
+      <lb ed="#B" n="14"/>hat (nagdalena mortua) petrus cum magda 
+      <lb ed="#B" n="15"/>lena / magdalena est tibi affinis tertio 
+      ge<lb ed="#B" n="16" break="no"/>nere affinitatis: ita quod ambulat affinitas 
+      <lb ed="#B" n="17"/>secundum genera: sed gradus iuxta 
+      generatio<lb ed="#B" n="18" break="no"/>nem: vnde quidam metrice dicit: Muta 
+      <lb ed="#B" n="19"/>nupta genus: sed generata gradum: sed mod 
+      <lb ed="#B" n="20"/>solum remanet primum genus affinitatis: vt di 
+      <lb ed="#B" n="21"/>citur extra de consanguinitate. c. Non debet. 
+      <lb ed="#B" n="22"/>Non debet reprehensibile iudicari si secundum 
+      va<lb ed="#B" n="23" break="no"/>rietatem temporum statuta quandoque variantur hu 
+      <lb ed="#B" n="24"/>mana: praesertim cum vrgens necessitas id ex 
+      <lb ed="#B" n="25"/>poscit.
+</p>
+               <p xml:id="WuV37d-f98517-d1e1286">
+¶ Tertia coclusio: Sic 
+      affini<lb ed="#B" n="26" break="no"/>tas impedit matrimonium quod praescriptio in 
+      <lb ed="#B" n="27"/> 
+                  <lb ed="#B" n="28"/>ture: aut diuinum non currit praescriptio: solum 
+      <lb ed="#B" n="29"/>enim inuenta est propter ius positiuum: vt dicitur 
+      <lb ed="#B" n="30"/>extra de praescriptionibus. c. Uigilanti. Ephe 
+      <lb ed="#B" n="31"/>sinus legislator solum propter vitandam misero 
+      <lb ed="#B" n="32"/>rum segniciem: et longi temporis errorem: prius 
+      <lb ed="#B" n="33"/>e 
+      <lb ed="#B" n="34"/>rem legis imposuit: matrimonium autem non est 
+      <lb ed="#B" n="35"/>de iure positiuo: sed diuino et naturali: igi 
+      <lb ed="#B" n="36"/> 
+                  <lb ed="#B" n="37"/>quamarticulum 
+      <lb ed="#B" n="38"/>Quantum ad tertil. sunt tres 
+      <lb ed="#B" n="39"/>difficultates.
+</p>
+               <p xml:id="WuV37d-f98517-d1e1319">
+¶ Prima: Si infidelis 
+      com<lb ed="#B" n="40" break="no"/>trahens cum infideli in gradum probibito 
+      com<lb ed="#B" n="41" break="no"/>sanguinitatis aut affinitatis post 
+      conuer<lb ed="#B" n="42" break="no"/>sionem amborum sit ab ea separandus. 
+      Fra<lb ed="#B" n="43" break="no"/>ter landulphus in praesenti dist. dicit quod non 
+      <lb ed="#B" n="44"/>extra de consangui. et affi. c. De infidelibus 
+      </p>
+               <p xml:id="WuV37d-f98517-d1e1332">
+                  <lb ed="#B" n="45"/>¶ Secunda difficultas: Si aequalis 
+      <lb ed="#B" n="46"/>est difficultas dispensandi in affinitate si 
+      <lb ed="#B" n="47"/>cut in consanguinitate: dicit frater Franci 
+      <lb ed="#B" n="48"/>scus de maronis in praesenti dist. quod non. nec 
+      <lb ed="#B" n="49"/>etiam aequalis potestas: confanguinitas enim in le 
+      <!--878.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>ge mosaica prohibita est / non autem affinitas 
+      <lb ed="#B" n="51"/>nec in lege naturali.
+</p>
+               <p xml:id="WuV37d-f98517-d1e1354">
+¶ Tertia difficu 
+      <lb ed="#B" n="52"/>tas: Si in caelo remaneat consanguinitas 
+      <lb ed="#B" n="53"/>aut affinitas? Dicendum primo quod de 
+      consan<lb ed="#B" n="54" break="no"/>guinltate non oportet dubitare quin 
+      ma<lb ed="#B" n="55" break="no"/>neat. Secundo de affinitate: ex quo iuxta consan 
+      <lb ed="#B" n="56"/>guinitatem fundata est remanebit. Tertio 
+      <lb ed="#B" n="57"/>non tamen impedient matrimonium cum ibi non 
+      <lb ed="#B" n="58"/>sit vacandum carnalibus amplexibus: sed  
+      <lb ed="#B" n="59"/>sanctis meditationibus. Ex his patet ad quae 
+      <lb ed="#B" n="60"/>stionem / quod videlicet consanguinitatis linea et 
+      <lb ed="#B" n="61"/>affinitatis raro matrimonium impediunt. Tunc 
+      <lb ed="#B" n="62"/>ad argumenta.
+</p>
+               <p xml:id="WuV37d-f98517-d1e1380">
+¶ Ad primum dicendum / quod fu 
+      <lb ed="#B" n="63"/>it necessarium caeteris in principio deficienti 
+      <lb ed="#B" n="64"/>bus.
+</p>
+               <p xml:id="WuV37d-f98517-d1e1387">
+¶ Ad secundum dicendum / quod ex 
+      anne<lb ed="#B" n="65" break="no"/>xo est primo contra bonum fidei seruare fideli 
+      <lb ed="#B" n="66"/>tatem: non eo modo quo vult ecclesia. Est se 
+      <lb ed="#B" n="67"/>cundo contra bonum prolis: quia inde diffamatur 
+      <lb ed="#B" n="68"/>et tertio contra bonum sacramenti: quia ex hinc 
+      <lb ed="#B" n="69"/>separantur.
+</p>
+               <p xml:id="WuV37d-f98517-d1e1401">
+¶ Ad tertium / quod alterius 
+      matri<lb ed="#B" n="70" break="no"/>monium est affinitas effectus: et alterum 
+      im<lb ed="#B" n="71" break="no"/>pedit: ideo argumentum non currit.
+</p>
+               <p xml:id="WuV37d-f98517-d1e1408">
+¶ Ex 
+      <lb ed="#B" n="72"/>ista distinctione sicut de praecedentibus 
+      <lb ed="#B" n="73"/>de mente magistri etc.
+</p>
+               <p xml:id="WuV37d-f98517-d1e1415">
+¶ Prima con 
+      <lb ed="#B" n="74"/>clusio: Ne sit colugium facit affinitas: nec 
+      <lb ed="#B" n="75"/>sit dubium: quia est veritas. Dicit conclusio quod 
+      <lb ed="#B" n="76"/>affinitate impeditur matrimonium. Et poni 
+      <lb ed="#B" n="77"/>tur a principio distin. vsque ad illud. ca. Est 
+      <lb ed="#B" n="78"/>sciendum quod ecclesia infra etc.
+</p>
+               <p xml:id="WuV37d-f98517-d1e1428">
+¶ Secunda 
+      <lb ed="#B" n="79"/>conclusio: Fit separatio dum probatur rite non 
+      <lb ed="#B" n="80"/>esse vnio / sed dolus irrite. Dicit 
+      conclu<lb ed="#B" n="81" break="no"/>sio quod quando probatur sufficienter non bene con 
+      <lb ed="#B" n="82"/>traxisse: vt contra consanguinitatem aut 
+      affi<lb ed="#B" n="83" break="no"/>nitatem / tunc separandi sunt modo qui in 
+      litte<lb ed="#B" n="84" break="no"/>ra ponitur. Et ponitur ista conclusio ab illo. c. 
+      <lb ed="#B" n="85"/>Et sciendum quod ecclesia etc. vsque ad. c. illud: 
+      <lb ed="#B" n="86"/>Hic dicendum est quod aliud est fornicatio etc. 
+      </p>
+               <p xml:id="WuV37d-f98517-d1e1448">
+                  <lb ed="#B" n="87"/>¶ Tertia conclusio: Diuersa peccata sunt actus 
+      <lb ed="#B" n="88"/>carnalis: nec sunt artata dicta facti talis. 
+      <lb ed="#B" n="89"/>Dicit conclusio quod sunt diuersa peccata 
+      car<lb ed="#B" n="90" break="no"/>nis: et quod vocabula in hac materia adhuc 
+      <lb ed="#B" n="91"/>non sunt bene aut sufficienter distincta. Et po 
+      <lb ed="#B" n="92"/>nitur ab illo. c. Hic dicendum est etc. vsque 
+      <lb ed="#B" n="93"/>ad finem distinctionis. 
+</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

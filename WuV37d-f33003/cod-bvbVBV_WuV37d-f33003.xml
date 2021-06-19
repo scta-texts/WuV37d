@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 21</title>
+            <author ref="#WilliamDeVaurouillon">William de Vaurouillon</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 21</title>
+               <date when="2021-06-19">June 19, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-bvbVBV">Basel 1510</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-06-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="287-v"/>
+            <cb ed="#B" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="WuV37d-f33003"><!-- l3d21 -->
+            <head xml:id="WuV37d-f33003-Hd1e108">Distinctio 21</head>
+            <div xml:id="WuV37d-f33003-Dd1e111" type="circa-textum">
+               <head xml:id="WuV37d-f33003-Hd1e113">Circa textum</head>
+               <p xml:id="WuV37d-f33003-d1e116">
+                  <lb ed="#B" n="38"/>Distinctio. 21. in cua magister deter 
+      <lb ed="#B" n="39"/>minat de statum christi in morte: et de 
+      <lb ed="#B" n="40"/>consequentibus corpus christi post 
+      <lb ed="#B" n="41"/>separationem anime. 
+      <lb ed="#B" n="42"/>Ost predicta 
+      <lb ed="#B" n="43"/>considerandum est vtrum in 
+      <lb ed="#B" n="44"/>§o morte christi a verbo 
+      <lb ed="#B" n="45"/>sit separata anima vel ca 
+      <lb ed="#B" n="46"/>ro? Hic signatur. 21. dis. hu 
+      <lb ed="#B" n="47"/>ius tertii quae sic continuatur ad praecedentes: Nam 
+      <!--591.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="48"/>postquam in praecedenti distin. passionis iesu posti 
+      <lb ed="#B" n="49"/>ta est congruitas: Nunc in praesenti dist. 
+      sequen<lb ed="#B" n="50" break="no"/>ti tangitur mortis acerbitas. Et habet ista 
+      <lb ed="#B" n="51"/>pars diuidi in tres partes principales. In 
+      pri<lb ed="#B" n="52" break="no"/>ma ostenditur per mortem a diuinitate carnis 
+      <lb ed="#B" n="53"/>vt animae non sit disiunctio. In secunda patet 
+      verita<lb ed="#B" n="54" break="no"/>te carnis ab anima tunc separatio. In tertia ex 
+      <lb ed="#B" n="55"/>subtilitate mortem sequentium fit indagatio. 
+      <lb ed="#B" n="56"/>Prima in principio. Secunda ibi. Recedente 
+      <lb ed="#B" n="57"/>vero anima mortua est caro xpiscoi. Tertia dis. 22. 
+      <lb ed="#B" n="58"/>Hic quaeritur vtrum in isto triduo etc. Duabus 
+      <lb ed="#B" n="59"/>vltimis partibus indiuisis manentibus. Rur 
+      <lb ed="#B" n="60"/>sus prima particula in qua ostenditur quod per mor 
+      <lb ed="#B" n="61"/>tem a diuinitate carnis aut animae non sit facta 
+      <lb ed="#B" n="62"/>disiunctio in tres partes diuiditur. In prima 
+      pro<lb ed="#B" n="63" break="no"/>ponitur obscuritas. In secunda adiungitur sancta 
+      <lb ed="#B" n="64"/>veritas. In tertia dissoluitur auctoritas 
+      <lb ed="#B" n="65"/>Prima in principio. Secunda ibi. Quibus 
+      re<lb ed="#B" n="66" break="no"/>spondemus illam etc. Tertia ibi. Alii quaem 
+      au<lb ed="#B" n="67" break="no"/>ctoritate innituntur etc. Haec est diuisio etc. 
+      </p>
+            </div>
+            <div xml:id="WuV37d-f33003-Dd1e189">
+               <head xml:id="WuV37d-f33003-Hd1e191">Quaestio</head>
+               <p xml:id="WuV37d-f33003-d1e194">
+                  <lb ed="#B" n="68"/>¶ Quaestio ista recitat de 
+      insepara<lb ed="#B" n="69" break="no"/>bilitate diuinitatis ab anima et corpore 
+      <lb ed="#B" n="70"/>ac animae impassibilitate cum corporis 
+      <lb ed="#B" n="71"/>mortalitate absque tanmen putrefactionis 
+      <lb ed="#B" n="72"/>contagionae Scodo in. 3. dis. 21. q. vnica 
+      <lb ed="#B" n="73"/>cum aliis multis. 
+</p>
+               <p xml:id="WuV37d-f33003-d1e210">
+                  <lb ed="#B" n="74"/>Utrum christi 
+      ca<lb ed="#B" n="75" break="no"/>ro ab animae vnione morte 
+      disiun<lb ed="#B" n="76" break="no"/>cta: putrefieri potuerit: Et 
+      ar<lb ed="#B" n="77" break="no"/>guitur quod sic triplici medio.
+</p>
+               <p xml:id="WuV37d-f33003-d1e221">
+¶ Primo sic. 
+      <lb ed="#B" n="78"/>Natura non incipit motum quem non potest 
+      perfi<lb ed="#B" n="79" break="no"/>cere seu terminare: sed terminus 
+      corrupti<lb ed="#B" n="80" break="no"/>onis viuentibus est putrefactio ergo exquo 
+      <lb ed="#B" n="81"/>in morte christi incepta est huiusmodi mutatio 
+      <lb ed="#B" n="82"/>quae dicitur corruptio sequitur quod corpus 
+      chri<lb ed="#B" n="83" break="no"/>sti fuisset putrefactum: nisi fuisset 
+      resurre<lb ed="#B" n="84" break="no"/>ctio eius accelerata. Maior est pilosophi 
+      <lb ed="#B" n="85"/>in. 3. methaphisice: et. 6. phisicorum in fine 
+      <lb ed="#B" n="86"/>et patet ratione: quia cum natura nihil agat frustra: 
+      <lb ed="#B" n="87"/>ex de caelo et mundo: nihil incipit quod non 
+      pos<lb ed="#B" n="88" break="no"/>sit complere. Minor vero est expresse in 
+      princi<lb ed="#B" n="89" break="no"/>pio metheororum.
+</p>
+               <p xml:id="WuV37d-f33003-d1e250">
+¶ Secundo arguitur sic. 
+      <lb ed="#B" n="90"/>Minus repugnat plenitudini sapientiae et 
+      <lb ed="#B" n="91"/>bonitatis posse incinerari et putrefieri: quam 
+      <lb ed="#B" n="92"/>timor seu tristicia: sed pisopus stante in eo 
+      sta<lb ed="#B" n="93" break="no"/>tu summe creatae sapientiae et bonitatis: et ti 
+      <lb ed="#B" n="94"/>muit et tristatus est: ergo et potuit caro eius 
+      <!--592.xml-->
+      <pb ed="#B" n="288-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>putrefieri. Maior patet ex eo quod tam timor 
+      <lb ed="#B" n="2"/>quam tristicia innuunt aliquid debilitatis spiritua 
+      <lb ed="#B" n="3"/>lis: quod non innuit posse putrefieri: quia solum 
+      <lb ed="#B" n="4"/>corpus non animam aspicit: timor autem et tri 
+      <lb ed="#B" n="5"/>sticia ipsam animam. Sed minor est nota 
+      <lb ed="#B" n="6"/>euangelico testimonio. Incepit enim inesus 
+      <lb ed="#B" n="7"/>opauere et tedere: et alibi. Tristis est anima 
+      <lb ed="#B" n="8"/>omea vsque ad mortem.
+</p>
+               <p xml:id="WuV37d-f33003-d1e288">
+¶ Tertio arguitur fic. 
+      <lb ed="#B" n="9"/>Humilitas est causa exaltationis: sed piscous 
+      <lb ed="#B" n="10"/>super omnes fuit exaltatus: ergo et infra omnes hu 
+      <lb ed="#B" n="11"/>miliatus: sed humilitas magis videtur posse 
+      <lb ed="#B" n="12"/>putrefieri et mori simul: quam solum posse mo 
+      <lb ed="#B" n="13"/>ri: igitur etc. Maior patet testimonio christi. 
+      <lb ed="#B" n="14"/>Qui se humiliauerit exaltabitur: et qui se 
+      ex<lb ed="#B" n="15" break="no"/>altat humiliabitur. Sed minor probatur ex 
+      il<lb ed="#B" n="16" break="no"/>lo verbo. Propter quod et deus exaltauit 
+      <lb ed="#B" n="17"/>illum: et dedit illi nomen quod est super omne no 
+      <lb ed="#B" n="18"/>mem.
+</p>
+               <p xml:id="WuV37d-f33003-d1e312">
+¶ In oppositum vero arguitur: ex illo ver 
+      <lb ed="#B" n="19"/>bo. Non dabis sanctum tuum videre corru 
+      <lb ed="#B" n="20"/>ptionem: et Slo. dicit: sanctum tuum id est a te 
+      san<lb ed="#B" n="21" break="no"/>ctificatum. Idem Damas. ca. 74. Domini inquit 
+      <lb ed="#B" n="22"/>corpus indestructibile et incorruptibile 
+      <lb ed="#B" n="23"/>per resolutionem in elementa fuit.
+</p>
+               <p xml:id="WuV37d-f33003-d1e325">
+¶ In ista 
+      <lb ed="#B" n="24"/>quaestione pariformiter etc. 
+      <lb ed="#B" n="25"/>Primus est terminorum declaratiuus 
+      <lb ed="#B" n="26"/>Quorum Secundus est quaestionis responsiuus 
+      <lb ed="#B" n="27"/>Tertius est terminorum motiuus  
+      <lb ed="#B" n="28"/>articulum 
+      <lb ed="#B" n="29"/>termini sunt 
+      <lb ed="#B" n="30"/>caro / vnio / et putrefactio.
+</p>
+               <p xml:id="WuV37d-f33003-d1e343">
+¶ Primus 
+      er<lb ed="#B" n="31" break="no"/>go terminus est caro. Unde caro solet 
+      ac<lb ed="#B" n="32" break="no"/>cipi tripliciter. Primo modo dicitur caro commimissi 
+      <lb ed="#B" n="33"/>me id quod ex quattuor elementis est compositum 
+      <lb ed="#B" n="34"/>hoc solo addito quod sit in viueute aut 
+      imme<lb ed="#B" n="35" break="no"/>diate fructus eius: et hoc modo dicunt medici 
+      <lb ed="#B" n="36"/>carnem in fructibus arborum: sicut dicitur caro 
+      <lb ed="#B" n="37"/>cottani pomi: seu piri. Secundo dicitur caro 
+      <lb ed="#B" n="38"/>minus communiter scilicet ex quattuor compositum elemen 
+      <lb ed="#B" n="39"/>tis solum repertum in animato anima sensibili: hoc 
+      <lb ed="#B" n="40"/>modo caro est in piscibus sed non in arboribus 
+      <lb ed="#B" n="41"/>esse dicitur: vnde dicunt carnem piscis vt 
+      salmo<lb ed="#B" n="42" break="no"/>nis etc. Tertio modo dicitur caro propriae: et tunc 
+      <lb ed="#B" n="43"/>non reperitur nisi in gradientibus animalibus sup 
+      <lb ed="#B" n="44"/>terram distinctis a piscibus et hoc modo commun 
+      <lb ed="#B" n="45"/>vsu hoc nomine caro vtimur: restringitur autem 
+      <lb ed="#B" n="46"/>aliquando solum quo ad hominem: et tunc illa facta 
+      <lb ed="#B" n="47"/>restrictione in homine caro accipitur tripiter 
+      <lb ed="#B" n="48"/>Primo modo dicitur caro vt sonat in culpam: 
+      <lb ed="#B" n="49"/>sicut illud. Caro concupiscit aduersus spi¬ 
+      <!--592.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>ritum: et spiritus aduersus carnem: et hoc mod 
+      <lb ed="#B" n="51"/>non fuit caro in christo. Secundo dicitur caro 
+      <lb ed="#B" n="52"/>vt solum sonat incorruptionem penalem: sed  
+      <lb ed="#B" n="53"/>non culpabilem: sicut est illud. Caro est 
+      spi<lb ed="#B" n="54" break="no"/>ritus vadens et non rediens: hoc modo secundum ali 
+      <lb ed="#B" n="55"/>quid fuit caro in christo: secundum aliud non: quia 
+      <lb ed="#B" n="56"/>non omnem nostram suscepit corruptionem: ex 
+      <lb ed="#B" n="57"/>dis. 195. Tertio modo dicitur caro vt solum 
+      <lb ed="#B" n="58"/>nominat partem materialem hominis instituti: sicut 
+      <lb ed="#B" n="59"/>est illud. Hoc nunc os ex ossibus meis: et 
+      <lb ed="#B" n="60"/>caro de carne mea: hoc modo sumitur in ti 
+      <lb ed="#B" n="61"/>tulo quaestionis. Et dicitur caro quasi cara: quia 
+      <lb ed="#B" n="62"/>nemo vnquam carnem suam odio habuit.
+</p>
+               <p xml:id="WuV37d-f33003-d1e419">
+¶ Se 
+      <lb ed="#B" n="63"/>cundus terminus est vnio. Unde secundum 
+      <lb ed="#B" n="64"/>docto. deuo. articu. 1. q. 3. vnio in proposito 
+      <lb ed="#B" n="65"/>potest accipi tripliciter. Uno modo dicitur vnio 
+      <lb ed="#B" n="66"/>actio vnientis: hoc modo vnio aut est in 
+      <lb ed="#B" n="67"/>praedicamento actionis: aut illud circumloquitur: 
+      <lb ed="#B" n="68"/>et potest vnio vniens vocari. Secundo dicitur 
+      <lb ed="#B" n="69"/>vnio passio vnibilis seu vnibilium: hoc modo 
+      <lb ed="#B" n="70"/>est vnio in praedicamento passionis. Tertio 
+      <lb ed="#B" n="71"/>dicitur vnio relatio vnitorum et ista sequitur tam 
+      <lb ed="#B" n="72"/>vnionem actionem quam vnionem passionem: 
+      maxi<lb ed="#B" n="73" break="no"/>me in actu: non autem in potentia: quia respectus 
+      <lb ed="#B" n="74"/>passiui ad agens in potentia praesupponitur 
+      ad<lb ed="#B" n="75" break="no"/>minus natura actioni et passioni. Ex quo 
+      <lb ed="#B" n="76"/>infertur quod vnio potest nominare aut solum vnibi 
+      <lb ed="#B" n="77"/>lium: aut secundus solam vniendi potentiam: aut 
+      ter<lb ed="#B" n="78" break="no"/>tio illam actualem relationem.
+</p>
+               <p xml:id="WuV37d-f33003-d1e456">
+¶ Tertius ter 
+      <lb ed="#B" n="79"/>minus est / putrefactio. Unde 
+      putre<lb ed="#B" n="80" break="no"/>factio secundum Aristo. in. 4. metheo. sic 
+      diffi<lb ed="#B" n="81" break="no"/>nitur. Putrefactio est corruptio quadam in vno 
+      <lb ed="#B" n="82"/>quoque humido proprie secundum naturam calidita 
+      <lb ed="#B" n="83"/>tis ab alia caliditate: haec autem quae est am 
+      <lb ed="#B" n="84"/>bientis. In qua diffinitione tria tanguntur 
+      <lb ed="#B" n="85"/>Primo genus putrefactionis: dum dicitur / 
+      <lb ed="#B" n="86"/>corruptio quaedam: non enim omnis corruptio est 
+      <lb ed="#B" n="87"/>putrefactio sed consummata: vnde finis cor 
+      <lb ed="#B" n="88"/>ruptionis secundum philosophum in eodem. 4. est putrefa 
+      <lb ed="#B" n="89"/>ctio. Ea propter bene dicit doc. subti. in praesenti 
+      <lb ed="#B" n="90"/>dist. quod sicut in generationis opere: proceditur a 
+      <lb ed="#B" n="91"/>minus perfecto seu ab imperfecto ad perfectum: 
+      <lb ed="#B" n="92"/>sic econtra in corruptione proceditur a perfecto 
+      <lb ed="#B" n="93"/>ad imperfectum. Secundo tangitur subiectum pu 
+      <lb ed="#B" n="94"/>trefactionis: dum dicitur: in vnoquoque 
+      hu<lb ed="#B" n="95" break="no"/>mido propriae secundum naturam caliditatis. Teste) 
+      <lb ed="#B" n="96"/>enim philosopho quae putrefiunt prius sunt 
+      <lb ed="#B" n="97"/>humida postea sicca virtute enim exterioris 
+      <lb ed="#B" n="98"/>caliditatis attrahitur interius humidum exterius: 
+      <!--593.xml-->
+      <pb ed="#B" n="288-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>et solum siccum remanet interius: et hoc modo 
+      <lb ed="#B" n="2"/>fit putrefactio et incineratio. Tertio tan 
+      <lb ed="#B" n="3"/>gitur causa efficiens putrefactionis dum dici 
+      <lb ed="#B" n="4"/>tur: ab alia caliditate: haec autem quae est 
+      ambi<lb ed="#B" n="5" break="no"/>entis: exterior enim caliditas vt ignis vel 
+      <lb ed="#B" n="6"/>aeris quae ambit totum putrefaciendum: humi 
+      <lb ed="#B" n="7"/>dum interius attrahit cum quo exalat proprium ca 
+      <lb ed="#B" n="8"/>lidum: et remanent partes dissolute: et fit putre 
+      <lb ed="#B" n="9"/>factio: huius signum extat manifestum quia in 
+      <lb ed="#B" n="10"/>montibus vbi sunt niues perpetue: et calor 
+      mo<lb ed="#B" n="11" break="no"/>dicus vix fit corporum putrefactio mortuorum 
+      <lb ed="#B" n="12"/>
+      arti<lb ed="#B" n="13" break="no"/>culum 
+      <lb ed="#B" n="14"/>sunt tres conclusiones. Prima conclusio est 
+      <lb ed="#B" n="15"/>de vnione tam carnis quam animae tempore mortis et 
+      <lb ed="#B" n="16"/>triduo cum diuinitate. Secunda est de morte 
+      <lb ed="#B" n="17"/>conuenienti carni xpisci in separatione animae ab ea. 
+      <lb ed="#B" n="18"/>Tertia est quod putrefactio carni xpiscpi non 
+      con<lb ed="#B" n="19" break="no"/>petebat.
+</p>
+               <p xml:id="WuV37d-f33003-d1e551">
+¶ Prima igitur conclusio est 
+      <lb ed="#B" n="20"/>per tempore mortis pisci tam caro quam anima cum 
+      diuini<lb ed="#B" n="21" break="no"/>tate fuerunt vnite: et est haec. Licet caro et 
+      <lb ed="#B" n="22"/>anima in piscopo per mortem sint separate: indiuisa 
+      <lb ed="#B" n="23"/>tamen a diuino verbo eorum fuit vnio. Premittit 
+      <lb ed="#B" n="24"/>ista conclusio / quod per mortem xpiscoi anima eius fuit 
+      se<lb ed="#B" n="25" break="no"/>parata a carne sua: patet vnico verbo: quia de 
+      <lb ed="#B" n="26"/>hoc in sequenti dis. Quia videlet anima xpisci de 
+      <lb ed="#B" n="27"/>scendit ad inferna iuxta fidei articulum 
+      cor<lb ed="#B" n="28" break="no"/>pore eius in sepulcbro remanente. Dicit igi 
+      <lb ed="#B" n="29"/>tur secunda pars conclusionis: quod caro non fuit 
+      <lb ed="#B" n="30"/>separata a diuinitate tempore mortis: sed sper 
+      vni<lb ed="#B" n="31" break="no"/>ta. Probatur: quia pisopus in triduo dictus est 
+      ia<lb ed="#B" n="32" break="no"/>cuisse in sepulcbro: hoc autem est solum ratione 
+      <lb ed="#B" n="33"/>corporis: ergo corpus seu caro semper remansit 
+      <lb ed="#B" n="34"/>diuinitati commiunctum. Confirmatur auctoritate 
+      leo<lb ed="#B" n="35" break="no"/>nis pape. Tanta inquit est vnio dei et hominis 
+      <lb ed="#B" n="36"/>vt nec supplicio posset dimitti: nec mor 
+      <lb ed="#B" n="37"/>te distingui. Unde egregie doc. deuo. q. 2. 
+      <lb ed="#B" n="38"/>arti. 1. tres innuit rationes: quare mortis tempore 
+      <lb ed="#B" n="39"/>a diuinitate caro non fuit seiuncta. Prima 
+      <lb ed="#B" n="40"/>ratio est liberalitas a parte assumentis: quia cum 
+      <lb ed="#B" n="41"/>deus dat aliquod donum non subtrahit illud 
+      <lb ed="#B" n="42"/>sine culpa: et ita caro quae non peccauerat 
+      di<lb ed="#B" n="43" break="no"/>mitti non debebat. Secunda ratio est dignitas 
+      <lb ed="#B" n="44"/>a parte assumptibilis: scilicet carnis tam nobilis: 
+      <lb ed="#B" n="45"/>in qua pisopus magnificentissima exercuerat. Ter 
+      <lb ed="#B" n="46"/>tia ratio est vtilitas ex parte assumptionis: quia nem 
+      <lb ed="#B" n="47"/>pe propter nos carnem assumpsit: dimittere 
+      <lb ed="#B" n="48"/>non congruit cum nulla obuiet ratio. Sed tunc 
+      quae<lb ed="#B" n="49" break="no"/>ritur ad quam vnitatem erat haec vnio: non natur 
+      <!--593.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>re: quia alia natura diuina: alia carnis: non 
+      per<lb ed="#B" n="51" break="no"/>sone: quia caro non potest esse persona. Et dicendum 
+      <lb ed="#B" n="52"/>quod ipostasis seu suppositi: ipostasis enim com 
+      <lb ed="#B" n="53"/>munior est persona: non tamen intelligendo quod caro 
+      <lb ed="#B" n="54"/>sic vnita loquendo propriae sit ipostasis: sed  
+      <lb ed="#B" n="55"/>ipostasi vnita: quia communicatio idiomatum non est 
+      <lb ed="#B" n="56"/>ad partem sed ad totum: nec obuiat quod caro deus 
+      <lb ed="#B" n="57"/>se sit insensibilis: potest enim diuinum verbum 
+      su<lb ed="#B" n="58" break="no"/>mere naturam insensibilem: vt patuit dist. 2. 
+      <lb ed="#B" n="59"/>huius tertii: licet Tho. et doc. deuo. tam in prae 
+      <lb ed="#B" n="60"/>senti passu: quam in praecedenti: dis. asseuerent 
+      op<lb ed="#B" n="61" break="no"/>positum. Ex quo infertur quod licet via naturae praein 
+      <lb ed="#B" n="62"/>telligatur vnio carnis ad animam huic vnioni 
+      <lb ed="#B" n="63"/>non tamen quan caro vnibilis sit deitati sine anima: 
+      <lb ed="#B" n="64"/>vnde nec proprie vnitur caro mediante anima: sed  
+      <lb ed="#B" n="65"/>ambe mediante humanitate ex dis. 2. Pri 
+      <lb ed="#B" n="66"/>mo enim terminata est haec vnio ad 
+      humani<lb ed="#B" n="67" break="no"/>tatem: loquor hic de medio non necessitatis  
+      <lb ed="#B" n="68"/>sed congruentiae. Sed dicit tertia pars 
+      conclu<lb ed="#B" n="69" break="no"/>sionis / quod anima cpisci nunquam fuit separata a 
+      diui<lb ed="#B" n="70" break="no"/>no verbo. Probatur: si enim fuit separata in 
+      mor<lb ed="#B" n="71" break="no"/>te: aut nolens: aut volens. Si nolens: iam erat 
+      <lb ed="#B" n="72"/>misera: et ita nunquam fuisset beata: de bono 
+      <lb ed="#B" n="73"/>enim nullus miser efficitur. Si volens iam fuisset 
+      <lb ed="#B" n="74"/>impia: volendo istam separationem. Confirmatur: 
+      <lb ed="#B" n="75"/>quia piscopus post mortem dictus est descendisse ad  
+      <lb ed="#B" n="76"/>inferos: et tamen sola anima ibi descendit. Ea propter 
+      <lb ed="#B" n="77"/>et Aug. et Dam. vnde dicunt. Anathema sit 
+      <lb ed="#B" n="78"/>qui dicit verbum deposuisse quod semel assum 
+      <lb ed="#B" n="79"/>psit: et habet intelligi quo ad partes 
+      principa<lb ed="#B" n="80" break="no"/>les: vt patebit in sequenti di. Nec enim deum 
+      <lb ed="#B" n="81"/>decebat animam dimittere: cum iam quasi 
+      matri<lb ed="#B" n="82" break="no"/>monio eam sibi indissolubiliter copulasset: 
+      <lb ed="#B" n="83"/>nec nob expediebat quos de limbo erat edu 
+      <lb ed="#B" n="84"/>ctura: nec tertio sibi congruebat cum beatissima 
+      <lb ed="#B" n="85"/>et innocentissima foret. Et si obiiciatur per illus 
+      <lb ed="#B" n="86"/>Potestatem habeo ponendi animam meam: est 
+      <lb ed="#B" n="87"/>verbum piscoi: et ita deposita est anima a 
+      verbo<lb ed="#B" n="88" break="no"/>Dicendum quod illud verbum innuit quod poterat 
+      <lb ed="#B" n="89"/>potentia absoluta deponere etiam animam a 
+      <lb ed="#B" n="90"/>diuinitate: non tamen omne ordinata. Ultra innu 
+      <lb ed="#B" n="91"/>nuit quod deposuit in morte non a se sed a cat 
+      <lb ed="#B" n="92"/>ne animam. Nec tamen oportet quod ista sit vera: 
+      <lb ed="#B" n="93"/>diuinum verbum est anima: quia ista communicatio (vt pa 
+      <lb ed="#B" n="94"/>tuit) non est respectu partium sed totius: anima autem 
+      <lb ed="#B" n="95"/>est pars humanitatis. Sed dicet quis: quia non 
+      <lb ed="#B" n="96"/>potuit anima vniri deitati quin ea frueretur et 
+      <lb ed="#B" n="97"/>summe delectaretur: hoc tamen non fuit in 
+      mor<lb ed="#B" n="98" break="no"/>te christi: sed calamitas. Unde quaedam glo. 
+      <!--594.xml-->
+      <pb ed="#B" n="289-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>super illud. Tristis est anima mea vsque ad mor 
+      <lb ed="#B" n="2"/>tem: dicit remota delectatione aeterne 
+      dei<lb ed="#B" n="3" break="no"/>tatis tedio humane calamitatis afficitur. 
+      <lb ed="#B" n="4"/>Dicendum / quod illa glo. intelligitur de 
+      portio<lb ed="#B" n="5" break="no"/>ne inferiori: in qua per dispensationem: glsia non 
+      <lb ed="#B" n="6"/>redundabat superioris portionis: vt acrior 
+      <lb ed="#B" n="7"/>esset eius passio: vnde et secundum illam clamabat: 
+      <lb ed="#B" n="8"/>Deus deus meus vt quid dereliquisti me: non 
+      <lb ed="#B" n="9"/>quidem ratione vnionis: sed tormento passionis. 
+      </p>
+               <p xml:id="WuV37d-f33003-d1e755">
+                  <lb ed="#B" n="10"/>¶ Secunda conclusio est / de morte 
+      com<lb ed="#B" n="11" break="no"/>uenienti carni cpisci in separatione ab anima: et 
+      <lb ed="#B" n="12"/>est haec. Anima xpiscpi in morte effecta 
+      impassi<lb ed="#B" n="13" break="no"/>bilis carnem relinquit mortuam. Dicit prima pars 
+      <lb ed="#B" n="14"/>quod anima christi in separatione mortis fuit 
+      fa<lb ed="#B" n="15" break="no"/>cta impassibilis: probatur. Omnis passio 
+      pe<lb ed="#B" n="16" break="no"/>nalis: de qua modo loquimur: aut fit a 
+      contra<lb ed="#B" n="17" break="no"/>rio et hanc non habuit post separationem anima 
+      <lb ed="#B" n="18"/>xpici quae caruit contrario aut propter peccatum ri 
+      <lb ed="#B" n="19"/>gore diuinae iusticiae: et hanc non habuit quia 
+      <lb ed="#B" n="20"/>peccatum non fecit: aut fit dispensatiue: et hanc 
+      <lb ed="#B" n="21"/>tunc non habuit: quia iam redemptionis nostrae prae 
+      <lb ed="#B" n="22"/>cium persolutum erat eo in cruce clamante: con 
+      <lb ed="#B" n="23"/>summatum est. Confirmatur: quia tota 
+      passibi<lb ed="#B" n="24" break="no"/>litas animae piscoi videtur ex vnione ad corpus tunc 
+      <lb ed="#B" n="25"/>autem non plus erat corpori vnita. Tum se 
+      <lb ed="#B" n="26"/>cundo quia caeterae animae post separationem 
+      imme<lb ed="#B" n="27" break="no"/>diate efficiuntur impassibiles: nisi peccatum 
+      <lb ed="#B" n="28"/>obuiet. Tum tertio quia passio non ponitur 
+      <lb ed="#B" n="29"/>in prisco nisi merendi tempore: quod iam transierat. 
+      <lb ed="#B" n="30"/>Nec est simile de corpore xpisci: debuit enim passi 
+      <lb ed="#B" n="31"/>bile vsque post triduum remanere vt verum 
+      <lb ed="#B" n="32"/>corpus non fantasticum probaretur. Et si 
+      obiicia<lb ed="#B" n="33" break="no"/>tur quia si anima christi iterum illi corpori in 
+      tri<lb ed="#B" n="34" break="no"/>duo vniretur nunquid esset passibilis? Dicen 
+      <lb ed="#B" n="35"/>dum quod licet posset vniri potentia 
+      absolu<lb ed="#B" n="36" break="no"/>ta dei: non tamen ordinata: nec ultra (vt 
+      vi<lb ed="#B" n="37" break="no"/>detur) sequitur quod esset passibilis: posset enim 
+      <lb ed="#B" n="38"/>anima beata de se esse in corpore passibili: et 
+      <lb ed="#B" n="39"/>tamen non pati: vnde patet illi animae colla 
+      <lb ed="#B" n="40"/>tam esse / tunc impassibilitatem. Sed dicit 
+      <lb ed="#B" n="41"/>secunda pars conclusionis / quod caro in 
+      mor<lb ed="#B" n="42" break="no"/>te christi relicta est mortua: patet: quia quod 
+      <lb ed="#B" n="43"/>prius viuebat et modo non viuit si sit in 
+      na<lb ed="#B" n="44" break="no"/>tura iudicatur mortuum: huiusmodi est caro 
+      chri<lb ed="#B" n="45" break="no"/>sti post separationem animae: igitur etc. Confirma 
+      <lb ed="#B" n="46"/>tur: quia resuscitata est quod non fuisset nisi prius 
+      <lb ed="#B" n="47"/>us fuisset mortua. Unde in simbolo apitulorum 
+      <lb ed="#B" n="48"/>dicitur. Mortuus et sepultus: ista autem sepultu 
+      <lb ed="#B" n="49"/>racapitur solum ratione caruis: nec obuiat quod 
+      <!--594.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>vniebatur verbo diuino viuenti: quia diuinum 
+      <lb ed="#B" n="51"/>verbum carnem non informabat: quod requiritur 
+      <lb ed="#B" n="52"/>ad rationem vitae. Ex quo liquido patet / quod 
+      <lb ed="#B" n="53"/>non est simile de anima et carne: quia anima 
+      be<lb ed="#B" n="54" break="no"/>ne dicitur viuere deo: quia informatur 
+      immedia<lb ed="#B" n="55" break="no"/>te amore et cognitione dei: quae sunt vita 
+      <lb ed="#B" n="56"/>animae: non ita corpus. Et si dicatur quod caro 
+      <lb ed="#B" n="57"/>christi in triduo erat nobilior omni alia 
+      car<lb ed="#B" n="58" break="no"/>ne: et tamen omne viuum nobilius est non viuo. 
+      <lb ed="#B" n="59"/>Dicendum quod omne viuum nobilius est non viuo 
+      <lb ed="#B" n="60"/>simpliciter: sed non ad tempus als quodcunque compa 
+      <lb ed="#B" n="61"/>ratum. Dat exemplum doctor deuotus 
+      quae<lb ed="#B" n="62" break="no"/>stio. 2. arti. 2. Nobilior est filius regis ca 
+      <lb ed="#B" n="63"/>ptiuatus et incarceratus filio rustici 
+      libe<lb ed="#B" n="64" break="no"/>ro: ita in proposito.
+</p>
+               <p xml:id="WuV37d-f33003-d1e881">
+¶ Tertia conclusio 
+      <lb ed="#B" n="65"/>est / quod putrefactio christi carni nullaten 
+      <lb ed="#B" n="66"/>competebat: et est haec. Nouo non antiquo 
+      <lb ed="#B" n="67"/>factum extat miraculo: vt christi caro pu 
+      <lb ed="#B" n="68"/>trefactione careret. Probatur breviter 
+      com<lb ed="#B" n="69" break="no"/>clusio medio docto. subti. in praesenti distin 
+      <lb ed="#B" n="70"/>ctione. actiuum sufficiens passiuo disposito 
+      <lb ed="#B" n="71"/>sufficienter approximatum naturaliter agens 
+      <lb ed="#B" n="72"/>in illud agit: sed solum dato antiquo 
+      mira<lb ed="#B" n="73" break="no"/>culo: scilicet quo gloria animae christi in 
+      cor<lb ed="#B" n="74" break="no"/>pus non redundabat: vel quodcumque sit 
+      il<lb ed="#B" n="75" break="no"/>lud in conceptione filii dei: caro christi in 
+      <lb ed="#B" n="76"/>morte est passiuum dispositum ad putrefacti 
+      <lb ed="#B" n="77"/>onem: et calor exterior est naturaliter 
+      acti<lb ed="#B" n="78" break="no"/>uus et sufficiens et approximatus: igitur pu 
+      <lb ed="#B" n="79"/>trefiet. Confirmatur: quia non obstante anti 
+      <lb ed="#B" n="80"/>quo miraculo potuit in via sua Iesus 
+      su<lb ed="#B" n="81" break="no"/>dare: et vngues radere: et similia. Ex quo 
+      <lb ed="#B" n="82"/>infertur: quod oportet ponere nouum 
+      mira<lb ed="#B" n="83" break="no"/>culum vt putrefactio carni xpisici non congruat. 
+      <lb ed="#B" n="84"/>Non obstante quod Henricus de gandauo 
+      <lb ed="#B" n="85"/>quols. 12. quaestione. 12. dicat quod sufficit 
+      anti<lb ed="#B" n="86" break="no"/>quum miraculum. 
+      <lb ed="#B" n="87"/>Quantum ad tertium 
+      arti<lb ed="#B" n="88" break="no"/>culum 
+      <lb ed="#B" n="89"/>sunt tres difficultates.
+</p>
+               <p xml:id="WuV37d-f33003-d1e938">
+¶ Prima. An 
+      <lb ed="#B" n="90"/>in morte christi fuerint alia vnio carnis 
+      <lb ed="#B" n="91"/>ad deitatem: alia animae? Dicendum quod sic: re 
+      <lb ed="#B" n="92"/>latio enim tripliciter numeratur. Aut ratio. 
+      <lb ed="#B" n="93"/>ne fundamenti solum. Aut secundo ratione 
+      <lb ed="#B" n="94"/>termini solum. Aut tertio ratione vtriusque 
+      <lb ed="#B" n="95"/>Ad propositum autem licet vnus sit terminus 
+      <lb ed="#B" n="96"/>scilicet diuinum verbum: sunt tamen duo 
+      funda<lb ed="#B" n="97" break="no"/>menta distincta: scilicet anima et caro.
+</p>
+               <p xml:id="WuV37d-f33003-d1e958">
+¶ Se 
+      <lb ed="#B" n="98"/>cunda difficultas. An diuinum verbum 
+      <!--595.xml-->
+      <pb ed="#B" n="289-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>sit fatendum mortuum ratione carnis mortuae: 
+      <lb ed="#B" n="2"/>Dicendum quod sic: vel verius vt videtur ratione hu 
+      <lb ed="#B" n="3"/>manitatis tunc destructe: vt patebit sequin 
+      <lb ed="#B" n="4"/>ti dis: quia mutuo communicant sibi proprietates: vt 
+      <lb ed="#B" n="5"/>diuinum verbum dicatur mortale et immortale 
+      di<lb ed="#B" n="6" break="no"/>uersarum naturarum ratione.
+</p>
+               <p xml:id="WuV37d-f33003-d1e982">
+¶ Tertia diffi 
+      <lb ed="#B" n="7"/>cultas. Unde est quod piscpi caro non est dimissa 
+      <lb ed="#B" n="8"/>utrefactioni: cum scriptum sit de piscopo: quod dece 
+      <lb ed="#B" n="9"/>bat eum per omnia fratribus assimilari. Dicendum quod 
+      <lb ed="#B" n="10"/>illa putrefactio sonasset in vituperium et non 
+      <lb ed="#B" n="11"/>in adiutorium fidei. Illa autem pauli 
+      auctori<lb ed="#B" n="12" break="no"/>tas intelligitur de tangentibus redemptionem qua 
+      fu<lb ed="#B" n="13" break="no"/>it completa in morte: ideo non oportuit quod in pu 
+      <lb ed="#B" n="14"/>trefactione nob similis efficeretur. Ex quo patet ad  
+      <lb ed="#B" n="15"/>q. quod videlet xpisci caro ab animae vnione morte 
+      <lb ed="#B" n="16"/>disiuncta putrefieri non potuerit. Tunc ad  
+      <lb ed="#B" n="17"/>argumenta.
+</p>
+               <p xml:id="WuV37d-f33003-d1e1009">
+¶ Ad primum dico ad maiorem: 
+      <lb ed="#B" n="18"/>quod est vera nisi veniat aliunde impedimentum. ve 
+      <lb ed="#B" n="19"/>nit autem in proposito ex nouo miraculo: vnde di 
+      <lb ed="#B" n="20"/>missa est corruptio incipre sed non termina 
+      <lb ed="#B" n="21"/>ri: quia fuisset derisio sine vtilitate carnem 
+      ie<lb ed="#B" n="22" break="no"/>su putrefieri.
+</p>
+               <p xml:id="WuV37d-f33003-d1e1022">
+¶ Ad secundum dicendum ad 
+      ma<lb ed="#B" n="23" break="no"/>iorem: quod habet veritatem quando timor et tristicia 
+      <lb ed="#B" n="24"/>capiuntur ex necessitate: non autem quando libere 
+      ca<lb ed="#B" n="25" break="no"/>piuntur et dispensatiue: sic in proposito: quia diui 
+      <lb ed="#B" n="26"/>non imperio glsia non redundabat in inferius 
+      animae<lb ed="#B" n="27" break="no"/>Ceterum nec timor nec tristicia impedientes 
+      <lb ed="#B" n="28"/>rationem ponuntur in xpisco sed subdite rationi: ideo 
+      <lb ed="#B" n="29"/>argumentum non obuiat.
+</p>
+               <p xml:id="WuV37d-f33003-d1e1040">
+¶ Ad tertium 
+      argu<lb ed="#B" n="30" break="no"/>mentum dicendum ad maiorem: quod humilitas acce 
+      <lb ed="#B" n="31"/>pta vt decet est causa exaltationis: summan 
+      <lb ed="#B" n="32"/>autem quam decebat assumpsit piscous: ideo merito 
+      <lb ed="#B" n="33"/>super omnes est exaltatus: sed non decebat vt pa 
+      <lb ed="#B" n="34"/>tuit carnem eius incimerari.
+</p>
+            </div>
+            <div xml:id="WuV37d-f33003-Dd1e1054" type="et-conclusiones">
+               <head xml:id="WuV37d-f33003-Hd1e1056">Conclusiones</head>
+               <p xml:id="WuV37d-f33003-d1e1059">
+¶ Ex praesenti 
+      <lb ed="#B" n="35"/>autem dis. etc. Prima conclusio. Non est dimis 
+      <lb ed="#B" n="36"/>sa vt clamat veritas caro vel missa viuens 
+      <lb ed="#B" n="37"/>humanitas. Dicit conclusio / quod diuinitas nunquam 
+      <lb ed="#B" n="38"/>dimisit assumptam carnem: nec homo viuens a deo 
+      <lb ed="#B" n="39"/>dimissus est. Et ponitur a principio dis. vsque 
+      <lb ed="#B" n="40"/>ibi. Alia quoque etc.
+</p>
+               <p xml:id="WuV37d-f33003-d1e1075">
+¶ Secunda conclusio. Caro 
+      <lb ed="#B" n="41"/>et spiritus bene separantur: sed non segregantur a 
+      <lb ed="#B" n="42"/>deo poenitus. Dicit conclusio / quod in morte xpiscopi ca 
+      <lb ed="#B" n="43"/>ro et anima bene separantur ab inuicem: sed non a 
+      di<lb ed="#B" n="44" break="no"/>uino verbo. Et ponitur ab illo ca. Alii quoque 
+      <lb ed="#B" n="45"/>vsque ibi. Recedente vero anima etc.
+</p>
+               <p xml:id="WuV37d-f33003-d1e1088">
+¶ Tertia 
+      <lb ed="#B" n="46"/>conclusio. Dei gemitus erat mortalis et 
+      im<lb ed="#B" n="47" break="no"/>mortalis vere poenitus. Dicit conclusio / quod 
+      <lb ed="#B" n="48"/>dei vnigenitus potest dici mortalis et immorta 
+      <lb ed="#B" n="49"/>lis: secundum diuersas naturas in eo repartas: et 
+      <!--595.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>sic de aliis. Et ponitur ab illo ca. Receden 
+      <lb ed="#B" n="51"/>te vero anima etc. vsque ad finem distin. 
+</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,729 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 10</title>
+            <author ref="#WilliamDeVaurouillon">William de Vaurouillon</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 10</title>
+               <date when="2021-06-19">June 19, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-bvbVBV">Basel 1510</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-06-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="157-v"/>
+            <cb ed="#B" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="WuV37d-e72754"><!-- l2d10 -->
+            <head xml:id="WuV37d-e72754-Hd1e108">Distinctio 10</head>
+            <div xml:id="WuV37d-e72754-Dd1e111" type="circa-textum">
+               <head xml:id="WuV37d-e72754-Hd1e113">Circa textum</head>
+               <p xml:id="WuV37d-e72754-d1e116">
+                  <lb ed="#B" n="53"/>Distinctio. 10. docet de angelorum 
+      <lb ed="#B" n="54"/>ministerio et missione.
+    </p>
+               <p xml:id="WuV37d-e72754-d1e123">
+                  <lb ed="#B" n="55"/>Oc etiam inue 
+      <lb ed="#B" n="56"/>stigandum est: vtrum omnes 
+      <lb ed="#B" n="57"/>illi caelestes spiritus ad 
+      <lb ed="#B" n="58"/>O exteriora nuncianda 
+      <lb ed="#B" n="59"/>mittantur etc. Hic signatur 
+      <lb ed="#B" n="60"/>10. distinctio huius secundi: quae sic continuatur 
+      <lb ed="#B" n="61"/>ad praecedentem. Nam postquam in praecedenti di 
+      <lb ed="#B" n="62"/>stinctione bonorum angelorum triplex est 
+      di<lb ed="#B" n="63" break="no"/>stincta hierarchia: In praesenti notantur eorum 
+      <lb ed="#B" n="64"/>ad nos sacra ministeria. Et partitur in tres 
+      <lb ed="#B" n="65"/>partes principales. In prima eorum circa nos 
+      <lb ed="#B" n="66"/>in generali panduntur plenius chara mini 
+      <lb ed="#B" n="67"/>steria. In secunda circa nos notatur clarius 
+      <lb ed="#B" n="68"/>horum custodia. In tertia magister se excusat 
+      <lb ed="#B" n="69"/>amplius effari talia: prima in principio: secunda 
+      <lb ed="#B" n="70"/>ibi dist. 11. Illud quoque sciendum est quod 
+      an<lb ed="#B" n="71" break="no"/>geli boni etc. tertia dis. 12. ibi: haec de 
+      an<lb ed="#B" n="72" break="no"/>gelicae naturae etc. Prima rursus 
+      particu<lb ed="#B" n="73" break="no"/>la quae est praesens distinctio: In qua in 
+      gene<lb ed="#B" n="74" break="no"/>rali angelorum circa nos ministeria 
+      pandum<lb ed="#B" n="75" break="no"/>tur chara: in tres partes diuiditur. In prima 
+      <lb ed="#B" n="76"/>opinio ponitur plane bifaria. In secunda 
+      loqui<lb ed="#B" n="77" break="no"/>la sequitur dubitatoria. In tertia vnio cani 
+      <lb ed="#B" n="78"/>tur concordatoria: prima in principio: secunda ibi 
+      <lb ed="#B" n="79"/>Hic oritur quaestio si omnes mittuntur etc. tertia 
+      <lb ed="#B" n="80"/>ibi. Alii vero dicunt tres ordines suprimos etc. 
+      <lb ed="#B" n="81"/>Et haec est diuisio etc. Circa quam quaeritur. 
+      </p>
+            </div>
+            <div xml:id="WuV37d-e72754-Dd1e185">
+               <head xml:id="WuV37d-e72754-Hd1e187">Quaestio</head>
+               <p xml:id="WuV37d-e72754-d1e190">
+                  <lb ed="#B" n="82"/>¶ Quaestio ista docet de missione an 
+      <lb ed="#B" n="83"/>gelorum et locutione mutua ac nobiscu 
+      <lb ed="#B" n="84"/>mirabili. de primo Sco. 10. di. et. q. 
+      <lb ed="#B" n="85"/>vnica de secundo vero. 9. dis. huius et 
+      <lb ed="#B" n="86"/>q. 2. Notat nihilominus thoma: 
+      <lb ed="#B" n="87"/>vt patebit. 
+      <lb ed="#B" n="88"/>Utrum inter an 
+      <lb ed="#B" n="89"/>gelos sic hierarchicorum actuum 
+      <lb ed="#B" n="90"/>distribuatur locutio: vt ad nostrum 
+      <lb ed="#B" n="91"/>mittantur ministerium. Et arguitur ad partem 
+      fal<lb ed="#B" n="92" break="no"/>sam tribus mediis.
+</p>
+               <p xml:id="WuV37d-e72754-d1e216">
+¶ Primo arguitur quod 
+      <lb ed="#B" n="93"/>non fiat locutio inter angelos. Si enim vnus 
+      <lb ed="#B" n="94"/>alteri loquitur: aut sunt sibi immediati: lo¬ 
+      <!--332.xml-->
+      <pb ed="#B" n="158-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>quens scilicet et ille cui fit locutio aut non: sed  
+      <lb ed="#B" n="2"/>cadit medium non primum: quia sequeretur quod tunc 
+      <lb ed="#B" n="3"/>gabriel stans in ordine seraphico non pos 
+      <lb ed="#B" n="4"/>set manifestare conceptum suum michaeli 
+      <lb ed="#B" n="5"/>stanti in ordine principatuum: et ita non essent 
+      <lb ed="#B" n="6"/>in caelis locutiones libere / nec secundum: quia 
+      <lb ed="#B" n="7"/>omne agens naturale prius agit in medium 
+      <lb ed="#B" n="8"/>quam in extrema: sicuti sol prius illuminat prius 
+      <lb ed="#B" n="9"/>mam aeris particulam quam sibi remotam: et ita 
+      <lb ed="#B" n="10"/>prius manifestaret medio conceptionem suam 
+      <lb ed="#B" n="11"/>oquens angelus quam angelo cui fieret locu 
+      <lb ed="#B" n="12"/>tio.
+</p>
+               <p xml:id="WuV37d-e72754-d1e255">
+¶ Secundo ad idem arguitur sic: cuilibet 
+      <lb ed="#B" n="13"/>naturae intimior est sua essentia quam operatio 
+      <lb ed="#B" n="14"/>sed cuiuslibet angeli essentia intuitiue ab 
+      <lb ed="#B" n="15"/>alio angelo est visibilis: ergo et intellectio 
+      <lb ed="#B" n="16"/>et ita non oportet fieri locutiones inter eos 
+      <lb ed="#B" n="17"/>maior patet. nihil enim tantum est alicui idem sicut 
+      <lb ed="#B" n="18"/>ipsae sibi: sed probatur minor: quia diuina 
+      essen<lb ed="#B" n="19" break="no"/>tia est perfectior in cognoscibilitate quam 
+      cu<lb ed="#B" n="20" break="no"/>iuscunque angeli: videtur tamen intuitiue a 
+      quo<lb ed="#B" n="21" break="no"/>libet angelo. Unde scribitur. Dico autem vo 
+      <lb ed="#B" n="22"/>bis quod angeli eorum semper vident faciem patris 
+      <lb ed="#B" n="23"/>mei qui est in caelis.
+</p>
+               <p xml:id="WuV37d-e72754-d1e281">
+¶ Tertio arguitur quod 
+      <lb ed="#B" n="24"/>non mittantur hic inferius propter nos in opoe 
+      <lb ed="#B" n="25"/>ribus dei: et maximae in tam excellenti natu 
+      <lb ed="#B" n="26"/>ra: nihil fit frustra sed frustra mitterentur 
+      <lb ed="#B" n="27"/>igitur etc. maior patet: Deus enim et natura 
+      ni<lb ed="#B" n="28" break="no"/>hil agunt frustra. Sed patet minor: quia cum sit 
+      <lb ed="#B" n="29"/>deus vbique videtur sufficere. Confirmatur: quia 
+      <lb ed="#B" n="30"/>aut omnes mitterentur et hoc non. Quia scribitur 
+      <lb ed="#B" n="31"/>Milia milium ministrabant ei: et decies 
+      cen<lb ed="#B" n="32" break="no"/>tena milia assistebant ei: et ita pars assistit 
+      <lb ed="#B" n="33"/>deo et non mittitur: aut pars vna mittitur: alia 
+      <lb ed="#B" n="34"/>non. Et hoc non: quia dicit apostolus. Omn 
+      <lb ed="#B" n="35"/>nes sunt administratorii spiritus. In opu 
+      <lb ed="#B" n="36"/>positum primi arguitur. Si linguis hominum lo 
+      <lb ed="#B" n="37"/>quar et angelorum. Et Dam. Non lingua et 
+      <lb ed="#B" n="38"/>auditu indigent angeli: nam sine sermone 
+      <lb ed="#B" n="39"/>voce prolato tradunt sibi suas 
+      illumina<lb ed="#B" n="40" break="no"/>tiones. In oppositum secundi arguitur 
+      <lb ed="#B" n="41"/>per illud. Hissus est gabriel angelus. 
+      </p>
+               <p xml:id="WuV37d-e72754-d1e324">
+                  <lb ed="#B" n="42"/>¶ In ista quaestione sunt tres articuli 
+      de<lb ed="#B" n="43" break="no"/>clarandi. 
+      <lb ed="#B" n="44"/>Primus est terminorum declaratiuus 
+      <lb ed="#B" n="45"/>Quorum Secundus est quaestionis responsiuus 
+      <lb ed="#B" n="46"/>Tertius est terminorum motiuus  
+      <lb ed="#B" n="47"/>Quo ad primum articu 
+      <lb ed="#B" n="48"/>lum 
+      ter<lb ed="#B" n="49" break="no"/>mini sunt hierarchia i actus hiexarchici: et 
+      <!--332.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>locutio.
+</p>
+               <p xml:id="WuV37d-e72754-d1e350">
+¶ Ultra praedicta: quo ad prius 
+      <lb ed="#B" n="51"/>mum terminu de hierarchia praecedenti 
+      <lb ed="#B" n="52"/>distinctione solet hierarchia sic diffiniri: 
+      <lb ed="#B" n="53"/>Hierarchia est ad deum quantum possibile est 
+      si<lb ed="#B" n="54" break="no"/>militudo et vnitas ipsum habens scientiae sanctem 
+      <lb ed="#B" n="55"/>et actionis ducem: et ad suum diuinissimum 
+      de<lb ed="#B" n="56" break="no"/>corem immutabiliter diffiniens: et quantum possibi 
+      <lb ed="#B" n="57"/>le est reformans suos laudatores. Et est 
+      <lb ed="#B" n="58"/>diffinitio hierarchiae caelestis secundum quod in suum 
+      <lb ed="#B" n="59"/>regreditur principium. Et ponit tria. Primo 
+      <lb ed="#B" n="60"/>regressum eius quantum ad habilitatem dum 
+      di<lb ed="#B" n="61" break="no"/>cit. Hierarchia est ad deum quantum possibile 
+      <lb ed="#B" n="62"/>est similitudo et vnitas. Secundo quantum ad actum 
+      <lb ed="#B" n="63"/>dum dicit ipsum habens scientiae sanctem et 
+      actio<lb ed="#B" n="64" break="no"/>nis ducem. Tertio quantum ad immutabilitatem 
+      <lb ed="#B" n="65"/>dum subiungitur: et ad suum diuinissimum deco 
+      <lb ed="#B" n="66"/>rem immutabiliter diffiniens: et ex praedictis 
+      eli<lb ed="#B" n="67" break="no"/>citur opus plenitudinis dum dicit: et quantum 
+      <lb ed="#B" n="68"/>possibile est reformans suos laudatores. 
+      <lb ed="#B" n="69"/>Ex plenitudine nempe glsiae est et gratiae vt alios 
+      <lb ed="#B" n="70"/>iuuet iam beatus existens.
+</p>
+               <p xml:id="WuV37d-e72754-d1e396">
+¶ Secundus termi 
+      <lb ed="#B" n="71"/>nus est actus hierarchicus. Et pos 
+      <lb ed="#B" n="72"/>sunt actus isti tripliciter assignari. Primo modo 
+      <lb ed="#B" n="73"/>vt isti tres actus / visio fruitio / et tentio 
+      di<lb ed="#B" n="74" break="no"/>cantur actus hierarchici: quia cuilibet ordini 
+      <lb ed="#B" n="75"/>trium hierarchiarum insunt et conuersionem ostem 
+      <lb ed="#B" n="76"/>dunt in deum. Secundo vt isti actus tres / 
+      loqui<lb ed="#B" n="77" break="no"/>audiri / et mitti: dicantur actus hierarchici: 
+      <lb ed="#B" n="78"/>quia cuilibet possunt competere ordini. Quili 
+      <lb ed="#B" n="79"/>bet enim alii loqui potest: quilibet etiam ab alio 
+      <lb ed="#B" n="80"/>audire: rursus quilibet mitti ab eo qui ange 
+      <lb ed="#B" n="81"/>los id est nuncios facit spiritus. Tertio assignantur 
+      <lb ed="#B" n="82"/>a dyonisio in de caelesti hierarchia isti tres 
+      <lb ed="#B" n="83"/>actus purgare / illuniare et perficere actus 
+      <lb ed="#B" n="84"/>hierarchici: et ita vtimur actu 
+      hierarchi<lb ed="#B" n="85" break="no"/>co et differunt secundum doctorem deuotum hac 
+      dis<lb ed="#B" n="86" break="no"/>q. 4. quia purgatio fit in initio et non debet 
+      <lb ed="#B" n="87"/>intelligi fieri a peccato: sed a nescientia: illumi 
+      <lb ed="#B" n="88"/>natio fit in medio sed perfectio in termino 
+      <lb ed="#B" n="89"/>sicuti aer prius intelligitur purgari tene 
+      <lb ed="#B" n="90"/>bris: secundo illuminari lumine: et tertio 
+      <lb ed="#B" n="91"/>herfici calore. Unde et dicunt alii quod 
+      pur<lb ed="#B" n="92" break="no"/>gatio est in remotione impedimentorum: 
+      <lb ed="#B" n="93"/>lluminatio in speculatione veritatis: et 
+      <lb ed="#B" n="94"/>perfectio in amore beatitudinis: Et 
+      di<lb ed="#B" n="95" break="no"/>euntur actus hierarchici: quia cuilibet conue 
+      <lb ed="#B" n="96"/>niunt angelo. Prima enim hierarchia 
+      an<lb ed="#B" n="97" break="no"/>gelorum purgatur / illuminatur et perficitur a hierar 
+      <lb ed="#B" n="98"/>ehia thearchica seu diuina Hedia a prima 
+      <!--333.xml-->
+      <pb ed="#B" n="158-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>purgatur / illuminatur et perficitur: et illa secunda 
+      <lb ed="#B" n="2"/>agit in tertiam: tertia autem in nobis de 
+      cur<lb ed="#B" n="3" break="no"/>su communi haec tria agit.
+</p>
+               <p xml:id="WuV37d-e72754-d1e472">
+¶ Tertius 
+      ter<lb ed="#B" n="4" break="no"/>minus est locutio. Unde notandum quod 
+      <lb ed="#B" n="5"/>locutio solet tripliciter fieri. Primo modo 
+      <lb ed="#B" n="6"/>quando loquens poenitus loquendo non mutatur: 
+      <lb ed="#B" n="7"/>sed tota mutatio fit in eo cui loquitur: et isto 
+      <lb ed="#B" n="8"/>modo loquitur deus nobis et spiritibus an 
+      <lb ed="#B" n="9"/>gelicis inspiratione et reuelatione: vel cau 
+      <lb ed="#B" n="10"/>sando nouum conceptum vel conceptum antiquum 
+      <lb ed="#B" n="11"/>ad aliquid de nouo fterminando. 
+      Secun<lb ed="#B" n="12" break="no"/>do fit locutio quando fit mutatio tam in loquem 
+      <lb ed="#B" n="13"/>te quam in eo cui loquitur: differenter tamen quia 
+      <lb ed="#B" n="14"/>in eo cui locutio fit causatur aliquid absolutum 
+      <lb ed="#B" n="15"/>veluti: aut species / aut actus / aut vtrumquaem 
+      <lb ed="#B" n="16"/>simul. Sed in loquente solus sufficit respe 
+      <lb ed="#B" n="17"/>ctus: scilicet actio: quia omne causatum de nouo 
+      <lb ed="#B" n="18"/>agens nouam requirit actionem: et hoc 
+      <lb ed="#B" n="19"/>innuit glo. super illo verbo. Si linguis 
+      <lb ed="#B" n="20"/>hominum loquar et angelorum dicit sic: 
+      <lb ed="#B" n="21"/>Angeli maiores significant minoribus quod 
+      <lb ed="#B" n="22"/>de voluntate domini praesentiunt: et hoc fit 
+      qui<lb ed="#B" n="23" break="no"/>busdam nutibus et signis. Istos nutus es 
+      <lb ed="#B" n="24"/>haec signa voco conceptum in audiente causatum 
+      <lb ed="#B" n="25"/>et istam actionem. Tertio modo fit 
+      locu<lb ed="#B" n="26" break="no"/>tio dum in loquente fit vocalis expressio 
+      <lb ed="#B" n="27"/>vt apprehendat audiens: sicuti est locutio 
+      <lb ed="#B" n="28"/>nostra. Unde plato in thimeo dicit. Ad hoc da 
+      <lb ed="#B" n="29"/>tus est nobis sermo: vt mutuos nostros 
+      con<lb ed="#B" n="30" break="no"/>ceptus valeamus exprimere. Ultra notor 
+      <lb ed="#B" n="31"/>quod in angelis ista tria differunt / intellectio/ 
+      <lb ed="#B" n="32"/>locutio / illuminatio. Intellectio enim solum 
+      <lb ed="#B" n="33"/>dicit absolutam rei noticiam. Locutio autem 
+      <lb ed="#B" n="34"/>addit quod illa cognitio alicui manifestetur: 
+      <lb ed="#B" n="35"/>Sed tertio illuminatio addit tam supra 
+      <lb ed="#B" n="36"/>intellectionem quam locutionem. Unde secundum docto. 
+      <lb ed="#B" n="37"/>subti. 9. dist. q. 1. in principio solutionis prin 
+      <lb ed="#B" n="38"/>cipalis: illuminatio est quaedam locutio de 
+      <lb ed="#B" n="39"/>vero perfectiuo in esse secundo: vbi dicit tria. 
+      <lb ed="#B" n="40"/>Primo ponit illuminationem speciem 
+      locu<lb ed="#B" n="41" break="no"/>tionis: dum dicit / illuminatio est quaedam 
+      lo<lb ed="#B" n="42" break="no"/>cutio Secundo ponit de quo est: dum addit 
+      <lb ed="#B" n="43"/>de vero perfectiuo: ex quo patet quod de 
+      ma<lb ed="#B" n="44" break="no"/>lis non fit illuminatio nisi per modum spe 
+      <lb ed="#B" n="45"/>culationis: quia repugnat quod angelicus intel 
+      <lb ed="#B" n="46"/>lectus talibus inficiatur. Tertio ponit in quo 
+      <lb ed="#B" n="47"/>quia in esse secundo: siue quia est in actione non 
+      <lb ed="#B" n="48"/>solum in habitu: seu secundo (quia est illumi 
+      <lb ed="#B" n="49"/>natio non de deo sed de effectibus qui se¬ 
+      <!--333.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>quuntur esse primum) seu tertio quia prius est 
+      <lb ed="#B" n="51"/>talis noticia in illuminante: et deinde in 
+      il<lb ed="#B" n="52" break="no"/>luminatio ideo dicitur in esse secundo. 
+      <lb ed="#B" n="53"/>Quantum ad secudum art 
+      <lb ed="#B" n="54"/>ti / s 
+      <lb ed="#B" n="55"/>culum sunt tres conclusiones: prima est de muc 
+      <lb ed="#B" n="56"/>tua locutione angelorum: secunda de missione 
+      <lb ed="#B" n="57"/>eorum ad nos: tertia de ipsorum ad nos locu 
+      <lb ed="#B" n="58"/>tione mirabili.
+</p>
+               <p xml:id="WuV37d-e72754-d1e598">
+¶ Prima igitur est haec 
+      <lb ed="#B" n="59"/>Sic angelus superior conceptum causando 
+      <lb ed="#B" n="60"/>inferiori loquitur vt secundus nisi velit not 
+      <lb ed="#B" n="61"/>audiat. Prima pars conclusionis dicit quod 
+      <lb ed="#B" n="62"/>angelus superior loquitur inferiori per 
+      cau<lb ed="#B" n="63" break="no"/>sationem conceptus noui in angelo audiente 
+      <lb ed="#B" n="64"/>probatur conclusio medio doc. subti. 
+      elegan<lb ed="#B" n="65" break="no"/>tissimo posito dis. 9. q. 2. in solutione 
+      prin<lb ed="#B" n="66" break="no"/>cipali. Omnis intellectualis natura loquens 
+      <lb ed="#B" n="67"/>alicui causaret si posset immediate in illo 
+      <lb ed="#B" n="68"/>cui loquitur conceptum illius rei de qua loquitur 
+      <lb ed="#B" n="69"/>Ideo nanque proferimus quia sine sermodoe au 
+      <lb ed="#B" n="70"/>dienti imprimere non possumus: sed ange 
+      <lb ed="#B" n="71"/>lus hoc potest: igitur loquendo imprimit com 
+      <lb ed="#B" n="72"/>ceptum nouum in audientis angeli antellectum 
+      <lb ed="#B" n="73"/>minor probatur: illud quod est sufficienter in 
+      <lb ed="#B" n="74"/>actu primo respectu alicuius effectus potest 
+      <lb ed="#B" n="75"/>illum causare in quocumque passo et 
+      proportio<lb ed="#B" n="76" break="no"/>nato et approximato. Angelus autem 
+      ha<lb ed="#B" n="77" break="no"/>bens noticiam habitualem: vtputa alicuius 
+      <lb ed="#B" n="78"/>a. est huiusmodi: et intellectus alterius angeli 
+      <lb ed="#B" n="79"/>non concipientis a. est sufficiens receptiuum hu 
+      <lb ed="#B" n="80"/>iusmodi noticiae: ergo et illam poterit in eo 
+      <lb ed="#B" n="81"/>primus angelus caulare: probatio maioris: 
+      <lb ed="#B" n="82"/>quia prima extrema actiui et passiui sunt vni 
+      <lb ed="#B" n="83"/>uersalissima: abstracta a quocumque actiuo 
+      <lb ed="#B" n="84"/>et passiuo: probatio minoris quia ex eo quod in 
+      <lb ed="#B" n="85"/>tellectus primi angeli habet a. sibi praesens 
+      <lb ed="#B" n="86"/>in ratione obiecti potest causare noticiam a. in 
+      <lb ed="#B" n="87"/>intellectu suo: et ita per consequens in intel 
+      <lb ed="#B" n="88"/>lectu alterius angeli: cum sit eiusdem rationis. 
+      <lb ed="#B" n="89"/>Et si dicatur quod ratio non concludit nisi quando ange 
+      <lb ed="#B" n="90"/>lus est prope angelum cui loquitur als non: quia 
+      <lb ed="#B" n="91"/>oportet mouens et motum esse simul: ex. 7. 
+      <lb ed="#B" n="92"/>phisicorum: et aristo. 2 de anima dicit quod si esset 
+      <lb ed="#B" n="93"/>vacuum vbi est modo aer quod non videremus 
+      <lb ed="#B" n="94"/>caelum: quia species non mouerent oculum. Re 
+      <lb ed="#B" n="95"/>spondetur quod ratio concludit tam de distante 
+      <lb ed="#B" n="96"/>angelo quam de proximo. Ratio autem quare vnum 
+      <lb ed="#B" n="97"/>agens nequit in extremum agere nisi prius 
+      <lb ed="#B" n="98"/>agat in medium: vel est primo quia medium est 
+      <!--334.xml-->
+      <pb ed="#B" n="159-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>eiusdem rationis cum extremo: et ita suscipit pri 
+      <lb ed="#B" n="2"/>us effectum eiusdem rationis: veluti sol prius il 
+      <lb ed="#B" n="3"/>luminat primam partem aeris quam remotam: quia 
+      <lb ed="#B" n="4"/>illuminatio est eiusdem rationis in vtroque. Uel 
+      <lb ed="#B" n="5"/>est secundo: quia causa habet duos effectus or 
+      <lb ed="#B" n="6"/>dinatos: et nata est prius causare vnum quam 
+      <lb ed="#B" n="7"/>alium: sicuti in proposito obiectum causat 
+      spe<lb ed="#B" n="8" break="no"/>cien in medio / et visionem in oculo: et prius 
+      na<lb ed="#B" n="9" break="no"/>tum est causare speciem quam visionem: et ita si non 
+      <lb ed="#B" n="10"/>causat speciem dato vacuo: nec poterit cau 
+      <lb ed="#B" n="11"/>sare visionem. Non sic in proposito. Primo: 
+      <lb ed="#B" n="12"/>quia non habet prius angelus duos effectus sic 
+      <lb ed="#B" n="13"/>ordinatos. Secundo: quia medium. scilicet locus 
+      me<lb ed="#B" n="14" break="no"/>dius / non est eiusdem ronis cum angelo audient 
+      <lb ed="#B" n="15"/>te. Sed dicet quis. Ponatur inter angelum lo 
+      <lb ed="#B" n="16"/>quentem et audientem angelus: vtputa inter 
+      <lb ed="#B" n="17"/>Babrielem loquentem / et raphaelem audientem 
+      <lb ed="#B" n="18"/>michaelem: michael est eiusdem rationis quo ad  
+      <lb ed="#B" n="19"/>intellectum: et ita secundum praedicta non poterit 
+      ga<lb ed="#B" n="20" break="no"/>briel loqui quaen michael audiat: propter hoc 
+      <lb ed="#B" n="21"/>addo tertium et dico / quod immo: quia licet medium 
+      <lb ed="#B" n="22"/>sit eiusdem rationis in intellectu: tamen 
+      lo<lb ed="#B" n="23" break="no"/>quens libere loquitur: et ita quo intellectu 
+      <lb ed="#B" n="24"/>vult / causat illum conceptum. Et quod adducitur: 
+      <lb ed="#B" n="25"/>quia oportet mouens et motum esse simul. 
+      Di<lb ed="#B" n="26" break="no"/>co quod mouens et motum possunt esse simul 
+      tripli<lb ed="#B" n="27" break="no"/>citer. Primo naturalitur: sicut intelligentia 
+      <lb ed="#B" n="28"/>mouet orbem. Secundo mathematice: sicuti est 
+      <lb ed="#B" n="29"/>quando duo corpora se mutuo mouent immediate. 
+      <lb ed="#B" n="30"/>Tertio virtualiter solum: sicuti generans dum 
+      <lb ed="#B" n="31"/>generat solum attingit superficien in qua est 
+      ta<lb ed="#B" n="32" break="no"/>ctus mathematicus: sed non rei intrinseca: et 
+      <lb ed="#B" n="33"/>tamen mouet: ita quod sufficit inter mouens et 
+      <lb ed="#B" n="34"/>motum huiusmodi praesentialitas: et talis est 
+      inter<lb ed="#B" n="35" break="no"/>loquentem angelum et audientem. Sicut enim in 
+      <lb ed="#B" n="36"/>primo dist. 37. dictum est: si per impossibile de 
+      <lb ed="#B" n="37"/>us esset omnipotens: et tamen non esset 
+      vbi<lb ed="#B" n="38" break="no"/>que: adhuc posset suo velle omnipotentissimo 
+      <lb ed="#B" n="39"/>agere vbi non esset. Et si tunc dicatur: sufficit 
+      <lb ed="#B" n="40"/>qraesentia virtualis: sequitur quod michael in 
+      cae<lb ed="#B" n="41" break="no"/>lo poterit loqui gabrieli in terra. Dico quod 
+      <lb ed="#B" n="42"/>non sequitur: licet enim inquantum mouens et 
+      <lb ed="#B" n="43"/>motum non requirant praesentiam naturalem aut 
+      <lb ed="#B" n="44"/>mathematicam / sed solum virtualem: tamen quia 
+      <lb ed="#B" n="45"/>sunt determinatae virtutis: est dandus 
+      ter<lb ed="#B" n="46" break="no"/>minus vltra quem vnus alteri loqui non 
+      pos<lb ed="#B" n="47" break="no"/>set. Sed quid gignit loquens in audiente 
+      <lb ed="#B" n="48"/>angelo? Dico primo quod potest gignere 
+      so<lb ed="#B" n="49" break="no"/>lum actum: si angelus cui sit locutio praehabuit 
+      <!--334.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>speciem: sicutl et nos multotiens loquimur de 
+      <lb ed="#B" n="51"/>his quae in habitu noscebamus / seu in spe 
+      <lb ed="#B" n="52"/>cie. Secundo dico quod potest gignere solam 
+      speci<lb ed="#B" n="53" break="no"/>emim: sicut si inferior angelus loquatur supe 
+      <lb ed="#B" n="54"/>riori: et superior sit conuersus ad aliud 
+      intel<lb ed="#B" n="55" break="no"/>ligibile: nulli dubium quod inferior non pote 
+      <lb ed="#B" n="56"/>rit eum auertere a cognitione: cum superior sit 
+      <lb ed="#B" n="57"/>fortioris intellectus: causabit tantum speciem pra 
+      <lb ed="#B" n="58"/>intellectu eius: sicut si aliquis loqueretur ho 
+      <lb ed="#B" n="59"/>mini fortiter in studio eleuato: certum est quod 
+      <lb ed="#B" n="60"/>studens non aduerteret quid diceret loquens: 
+      <lb ed="#B" n="61"/>impremeretur tamen species in phantasmate eius: vnde 
+      <lb ed="#B" n="62"/>et postinodum posset recordari. Dico 
+      ter<lb ed="#B" n="63" break="no"/>tio quod potest imprimere simul et actum et 
+      spe<lb ed="#B" n="64" break="no"/>cien: sicut si superior loquatur inferiori de 
+      ali<lb ed="#B" n="65" break="no"/>quo singulari de quo non habuit speciem 
+      pri<lb ed="#B" n="66" break="no"/>us illo: tunc causabit et actum et specie.
+</p>
+               <p xml:id="WuV37d-e72754-d1e841">
+¶ Sed 
+      <lb ed="#B" n="67"/>tunc quaeritur: qualis est actus iste intelligen 
+      <lb ed="#B" n="68"/>di in audiente causatus quae dicitur auditio: 
+      Re<lb ed="#B" n="69" break="no"/>spondendum / quod vltra cognitionem in verbo 
+      <lb ed="#B" n="70"/>potest vnus angelus alium tripliciter 
+      intelli<lb ed="#B" n="71" break="no"/>gere. Primo intuitiue in se. Secundo 
+      in<lb ed="#B" n="72" break="no"/>tuitiue in intellectu alterius angeli. Tertio 
+      <lb ed="#B" n="73"/>per speciem innatam aut acquisitam: et neutra ha 
+      <lb ed="#B" n="74"/>rum dicitur auditio. Unde noto quod ad intelle 
+      <lb ed="#B" n="75"/>ctionem qua dicitur auditio in angelo / secundum doc. 
+      <lb ed="#B" n="76"/>subtilem tria requiruntur. Primo quod intellectus 
+      <lb ed="#B" n="77"/>audientis se habeat pure passiue: ita quod 
+      so<lb ed="#B" n="78" break="no"/>lum recipiat et non agat. In aliis siquidem 
+      <lb ed="#B" n="79"/>dicitur / quod obiectum et potentia pariunt notici 
+      <lb ed="#B" n="80"/>am / hic non. Secundum requisitum est: quod 
+      in<lb ed="#B" n="81" break="no"/>tellectus loquentis sit causa totalis: demus 
+      <lb ed="#B" n="82"/>pto obiecto seu eius memoria fecunda hu 
+      <lb ed="#B" n="83"/>iusmodi intellectionis. Tertium quod causet 
+      <lb ed="#B" n="84"/>inquantum intelligens / non inquantum obiectum. Si 
+      <lb ed="#B" n="85"/>enim causaret inquantum obiectum: iam non causa 
+      <lb ed="#B" n="86"/>ret auditionem / sed vnam trium visionum 
+      predi<lb ed="#B" n="87" break="no"/>ctarum. Ex quo vlterius patet / quod voluntas 
+      lo<lb ed="#B" n="88" break="no"/>quentis concurrit ad huiusmodi auditionem causan 
+      <lb ed="#B" n="89"/>dam. Patet secundo / quod intelligendi actus loquen 
+      <lb ed="#B" n="90"/>tis non est causa huius auditionis. Ex quo 
+      in<lb ed="#B" n="91" break="no"/>fertur tertio / memoriam loquentis causare hanc 
+      <lb ed="#B" n="92"/>audientis intellectionem / tamquam eius effectum 
+      <lb ed="#B" n="93"/>equiuocum. Et patet vtilitas huiusmodi 
+      locuti<lb ed="#B" n="94" break="no"/>onis et auditionis. Loquitur enim michael 
+      pri<lb ed="#B" n="95" break="no"/>mo raphaeli impremendo actum. Tunc secundo 
+      <lb ed="#B" n="96"/>se conuertit raphael ad intellectum michaelis 
+      <lb ed="#B" n="97"/>vt videat clarius quod sibi impresserat: et 
+      <lb ed="#B" n="98"/>tandem eleuatur: tertio vsque ad illius rei in ver¬ 
+      <!--335.xml-->
+      <pb ed="#B" n="159-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>bo noticiam in quo consummatur noticia. Et 
+      <lb ed="#B" n="2"/>patet vlterius quod vnus angelus potest loqui vni 
+      <lb ed="#B" n="3"/>angelo / non alteri cui vult: sicut est in potesta 
+      <lb ed="#B" n="4"/>te angeli in sua memoria habenti plures 
+      <lb ed="#B" n="5"/>species vti vna non alia secundum voluntatis 
+      impe<lb ed="#B" n="6" break="no"/>rium: et si haberet in natura sua plures intel 
+      <lb ed="#B" n="7"/>ligentias in vna: vti posset vna specie / in 
+      <lb ed="#B" n="8"/>alia alia. Sic suo modo in proposito potest 
+      <lb ed="#B" n="9"/>huic loqui / non illi et duobus: aut forsan coem 
+      <lb ed="#B" n="10"/>tum simul vel vultra: et in quolibet causando 
+      <lb ed="#B" n="11"/>nouam intellectionem. Si enim vnus homo actu 
+      <lb ed="#B" n="12"/>potest loqui pluribus: non debet hoc 
+      dene<lb ed="#B" n="13" break="no"/>gari angelo: sed quod audientibus potest simul lo 
+      <lb ed="#B" n="14"/>qui. Dicendum quod secundum quod est perfectior 
+      pluri<lb ed="#B" n="15" break="no"/>bus potest: sed quod quilibet possit: solius dei 
+      <lb ed="#B" n="16"/>est nosse / aut in patria bonorum / vel cui 
+      re<lb ed="#B" n="17" break="no"/>uelauit. Ex quo satis patet de illumnare: 
+      <lb ed="#B" n="18"/>qui est actus secundus hierarchicus: cum sit qua 
+      <lb ed="#B" n="19"/>dam locutio: vnde illuminatio proprie est de 
+      <lb ed="#B" n="20"/>singulari reuelato: locutio autem communis 
+      <lb ed="#B" n="21"/>est ad cognitionem singularis reuelati et in 
+      <lb ed="#B" n="22"/>genere proprio: et patet quod reuelans nihil 
+      <lb ed="#B" n="23"/>causat in seipso: cum prius deus reuelet 
+      pri<lb ed="#B" n="24" break="no"/>mae hierarchiae: et tamen in seipso nihil cau 
+      <lb ed="#B" n="25"/>sat / sed in eo cui fit reuelatio: ita quod primo: 
+      <lb ed="#B" n="26"/>intelligitur quasi purgatio a nescientia per istud 
+      <lb ed="#B" n="27"/>reuelabile. Secundo tendit ex hoc ad vi 
+      <lb ed="#B" n="28"/>dendum in verbo vnde illuminatur / et exhino 
+      <lb ed="#B" n="29"/>perficitur: vnde proprie illuminatio per prius 
+      <lb ed="#B" n="30"/>mam hierarchiam venit ad mediam / de 
+      me<lb ed="#B" n="31" break="no"/>dia ad tertiam: licet posset deus vni 
+      ange<lb ed="#B" n="32" break="no"/>lo infimae hierarchiae reuelare quae postea 
+      <lb ed="#B" n="33"/>supremae reuelaret. Sed numquid potest 
+      bo<lb ed="#B" n="34" break="no"/>nus angelus malo angelo loqui et aliquid 
+      <lb ed="#B" n="35"/>reuelare? Dico quod sic: et modo praedicto ex par 
+      <lb ed="#B" n="36"/>te sui. Sed quia demodo ex peccato est 
+      obscura<lb ed="#B" n="37" break="no"/>tus: nequit in tanta limpiditate illum 
+      con<lb ed="#B" n="38" break="no"/>ceptum recipere in qua bonus: vnde nec meretur il 
+      <lb ed="#B" n="39"/>luminatio dici / sed solum reuelatio. Et ex ista 
+      <lb ed="#B" n="40"/>prima parte conclusionis infertur secunda clare: in 
+      <lb ed="#B" n="41"/>qua dicitur quod vnus angelus potest loqui alteri 
+      <lb ed="#B" n="42"/>angelo: absque hoc quod loquatur ei qui est in me 
+      <lb ed="#B" n="43"/>dio: patet iam. Ex quo patet defectus sanct 
+      <lb ed="#B" n="44"/>Tho. ponentis illuminationes angelicas fi 
+      <lb ed="#B" n="45"/>eri per confortationem luminis: quanm. scilicet 
+      superio<lb ed="#B" n="46" break="no"/>est quasi lumen respectu inferioris / ipsum 
+      <lb ed="#B" n="47"/>coadiuuans: sicut lumen in medio adiuuat 
+      <lb ed="#B" n="48"/>visum ad videndum: patet oppositum: maxi 
+      <lb ed="#B" n="49"/>me sicut dictum est: si inferiori aliquid primo 
+      <!--335.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>reuelaretur: non esset lumen superioris: et tamen 
+      <lb ed="#B" n="51"/>tunc illum illuminaret. Ceterum quae est ista 
+      con<lb ed="#B" n="52" break="no"/>fortatio non videtur: cum etiam in caelis angelus 
+      <lb ed="#B" n="53"/>inferior essentiam videat superioris: eaproptur 
+      <lb ed="#B" n="54"/>via doc. subtilis melior apparet.
+</p>
+               <p xml:id="WuV37d-e72754-d1e1042">
+¶ Secunda 
+      <lb ed="#B" n="55"/>conclusio est de missione angelorum ad nos: 
+      <lb ed="#B" n="56"/>et est haec. Sic de inferiori hierarchia ad 
+      <lb ed="#B" n="57"/>nos pro ministerio mittuntur spiritus: vt de aliis 
+      <lb ed="#B" n="58"/>mitti non repugnet. Prima pars diciti / quod 
+      <lb ed="#B" n="59"/>spiritus tertiae hierarchiae mittuntur ad nobis 
+      <lb ed="#B" n="60"/>ministrandum. Probatur sic. Angeli sunt 
+      me<lb ed="#B" n="61" break="no"/>dii inter nos et deum: et ita rationabile valde 
+      <lb ed="#B" n="62"/>est quod ferant praeces nostras ad deum: et de deo 
+      <lb ed="#B" n="63"/>nobis referant reuelationes. Si ergo quod 
+      ra<lb ed="#B" n="64" break="no"/>tionabilius est fecit deus / sequitur. Et si di 
+      <lb ed="#B" n="65"/>catur: tunc fieret eis praeiudicium: cum enim sint 
+      cre<lb ed="#B" n="66" break="no"/>ati et limitati: non videtur quod possent dum nob 
+      <lb ed="#B" n="67"/>ministrarent actum exercere contemplationis. 
+      <lb ed="#B" n="68"/>Dicendum quod licet de se non possent: tamen deus 
+      <lb ed="#B" n="69"/>facit quod possunt. Unde Heda diciti / quod in isto mi 
+      <lb ed="#B" n="70"/>nisterio semper currunt infra deum.
+</p>
+               <p xml:id="WuV37d-e72754-d1e1079">
+¶ Sed hoc 
+      <lb ed="#B" n="71"/>quaeritur: vtrum immediate in instanti de caelis 
+      <lb ed="#B" n="72"/>sint inferius? Dicendum quod non: cum 
+      mouean<lb ed="#B" n="73" break="no"/>tur motu continuo: ex. 6. dist. Sed quomodo: quia 
+      <lb ed="#B" n="74"/>non habent resistentiam in aere sicuti nos: et 
+      <lb ed="#B" n="75"/>tamen aer est causa velocitatis et 
+      tardita<lb ed="#B" n="76" break="no"/>tis motus: ex. 4. physicorum: quia vacuo 
+      da<lb ed="#B" n="77" break="no"/>to non esset motus. Hic dico / quod ratione 
+      ae<lb ed="#B" n="78" break="no"/>ris non habent resistentiam: sed dato vacuo 
+      <lb ed="#B" n="79"/>adhuc essent tres causae motus. Prima 
+      cau<lb ed="#B" n="80" break="no"/>sa mouens: dum. scilicet mouens est finitae 
+      poten<lb ed="#B" n="81" break="no"/>tie. Secunda causa mobile: quia non est vbique. 
+      <lb ed="#B" n="82"/>Tertia causa / distantia privatiua. Dato enim 
+      <lb ed="#B" n="83"/>vacuo / plus distaret adhuc a parrhysius 
+      <lb ed="#B" n="84"/>pontigara quam sanctus Dionysius. Et posset 
+      <lb ed="#B" n="85"/>his tribus causis adhuc fieri motus. Philosophus / 
+      <lb ed="#B" n="86"/>enim rationibus suis solum probat motum non esse in 
+      <lb ed="#B" n="87"/>vacuo ratione medii positiui: et ad hoc 
+      va<lb ed="#B" n="88" break="no"/>dunt sue rationes / non vltra: vt docet doc. 
+      de<lb ed="#B" n="89" break="no"/>uotus in primo suo / dist. 37. parte secunda / 
+      ar<lb ed="#B" n="90" break="no"/>ti. 2. et si amplius petit: suae rationes sunt 
+      <lb ed="#B" n="91"/>sophismata: vt innuit in suis phyficem 
+      ma<lb ed="#B" n="92" break="no"/>gister Nicolaus boneti ad longum eas 
+      sol<lb ed="#B" n="93" break="no"/>uens.
+</p>
+               <p xml:id="WuV37d-e72754-d1e1131">
+¶ Sed aliquis diceret: exquo misit 
+      <lb ed="#B" n="94"/>deus filium suum pro nobis misit et 
+      spiritumsan<lb ed="#B" n="95" break="no"/>ctum: ad quid rursus mittit angelos: 
+      Re<lb ed="#B" n="96" break="no"/>spondit doctor deuotus huius dist. q. 1. dans 
+      con<lb ed="#B" n="97" break="no"/>gruentiam triplicem. Competit inquit 
+      primo<lb ed="#B" n="98" break="no"/>charitati diuinae: in hoc enim innuit quantum nos 
+      <!--336.xml-->
+      <pb ed="#B" n="160-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>diligit / qui spiritus nobilissimos ad mistran 
+      <lb ed="#B" n="2"/>dum nobis mittit. Competit secundo charitati 
+      <lb ed="#B" n="3"/>angelicae: vt suos conciues a diabolo 
+      praeser<lb ed="#B" n="4" break="no"/>uent. Competit tertio charitati humanae: 
+      <lb ed="#B" n="5"/>quo quoniam paruula est: ideo foueri et nutriri 
+      de<lb ed="#B" n="6" break="no"/>bet diligenter. Secunda pars conclusionis 
+      di<lb ed="#B" n="7" break="no"/>cit: quod non repugnat superioribus angelis vs 
+      <lb ed="#B" n="8"/>que ad primam hierarchiam mitti pro nobis. 
+      <lb ed="#B" n="9"/>Omnes enim bene concedunt / quod mittuntur 
+      in<lb ed="#B" n="10" break="no"/>xterius: inquantum. scilicet disponunt et illuminant 
+      <lb ed="#B" n="11"/>iussu dei eos qui mittuntur exterius / non 
+      ta<lb ed="#B" n="12" break="no"/>men interius. Aliqui dicunt quod sola hierar 
+      <lb ed="#B" n="13"/>chia vltima mittitur inferius ad nos. 
+      Tho<lb ed="#B" n="14" break="no"/>autem hac dis. q. 2. dicit: quod quinque ordines 
+      <lb ed="#B" n="15"/>mittutr scilicet tres vltimae hierarchiae / et duo 
+      <lb ed="#B" n="16"/>mediae potestates et virtutes: alii 
+      quat<lb ed="#B" n="17" break="no"/>tuor non nisi interius: vbi primo manifeste vi 
+      <lb ed="#B" n="18"/>detur sibi contradicere. In praecedenti enim distin 
+      <lb ed="#B" n="19"/>ctione. q. 3. posuit potestatem primum ordinem 
+      <lb ed="#B" n="20"/>secundae hierarchiae / et dominationem vltimum: 
+      <lb ed="#B" n="21"/>nunc econtra dicit dominationem primum ordinem / et 
+      <lb ed="#B" n="22"/>potestatem vltimum: et dicit quod dominatio est 
+      vlti<lb ed="#B" n="23" break="no"/>mus: quae non mittitur exterius: et virtus prius 
+      <lb ed="#B" n="24"/>qui mittitur. Sed credo verius assentien 
+      <lb ed="#B" n="25"/>dum esse doctori subtili hac distin. dicenti: 
+      <lb ed="#B" n="26"/>probabile esse in casibus magnis aliquem 
+      <lb ed="#B" n="27"/>de principalibus / sicut cherubin et 
+      sera<lb ed="#B" n="28" break="no"/>phin mittendum: sicuti patet in incarnatio 
+      <lb ed="#B" n="29"/>ne filii dei. Si enim deus pater misit filium 
+      <lb ed="#B" n="30"/>suum in mundum pro nobis: mirum non est si vnus 
+      <lb ed="#B" n="31"/>ex seraphin / puta gabriel: missus est ad 
+      de<lb ed="#B" n="32" break="no"/>nunciandum hoc: sicuti patet in bono 
+      poli<lb ed="#B" n="33" break="no"/>tico quod in causis maximis mittuntur colla 
+      <lb ed="#B" n="34"/>terales regis.
+</p>
+               <p xml:id="WuV37d-e72754-d1e1224">
+¶ Tertia conclusio est 
+      <lb ed="#B" n="35"/>de angelorum ad nos locutione mirabili: et 
+      <lb ed="#B" n="36"/>est haec. Sic ad nos inflammandum mittuntur 
+      <lb ed="#B" n="37"/>spiritus: vt locutione nos doceant ampliori 
+      <lb ed="#B" n="38"/>Dicit prima pars: quod angeli mittuntur ad 
+      <lb ed="#B" n="39"/>nos / ad nos inflammandum. Probatur per 
+      il<lb ed="#B" n="40" break="no"/>lud quod dicitur: Hissus est ad me vnus de 
+      <lb ed="#B" n="41"/>seraph. Quod exponens Diony. dicit: quod 
+      di<lb ed="#B" n="42" break="no"/>ctus est seraph: non quod omne ordine esset sera 
+      <lb ed="#B" n="43"/>phico / sed quod incendebat charitate. Et si di 
+      <lb ed="#B" n="44"/>catur quod habemus liberum arbitrium: et ita non 
+      <lb ed="#B" n="45"/>potest nos nisi velimus inflammare. Dico 
+      <lb ed="#B" n="46"/>quod verum est: vnde solum disponit / vt scilicet de. 
+      <lb ed="#B" n="47"/>um capiamus: de quo dictum est: Deus 
+      cha<lb ed="#B" n="48" break="no"/>ritas est. Et alibi: Deus noster ignis con 
+      <lb ed="#B" n="49"/>sumens est. Sed quod angeli nos doceant am 
+      <!--336.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>pliori locutione / probatur: quia vltimus ordo 
+      ha<lb ed="#B" n="51" break="no"/>bet purgare / illuminare / et perficere: et non ha 
+      <lb ed="#B" n="52"/>bet respectu sequentis ordinis: ergo respe 
+      <lb ed="#B" n="53"/>ctu nostri. Et si quaeratur: qualis est ista 
+      locu<lb ed="#B" n="54" break="no"/>tio Extat opinio triplex. Primi dicunt quod 
+      <lb ed="#B" n="55"/>est ad modum luminis irradiantis: et ista non 
+      <lb ed="#B" n="56"/>videtur valde congrua: cum non irradiet su 
+      <lb ed="#B" n="57"/>per nos nisi lux vera / quae illuminat omnem  
+      <lb ed="#B" n="58"/>hominem. Secundi dicunt quod ad modum 
+      specu<lb ed="#B" n="59" break="no"/>li: et ista impropria est. Est quippe 
+      incon<lb ed="#B" n="60" break="no"/>gruum cognoscere in speculo / et non 
+      cogno<lb ed="#B" n="61" break="no"/>scere speculum. Doctor deuotus dicit: quod 
+      <lb ed="#B" n="62"/>haec locutio est per modum excitantis ad 
+      mo<lb ed="#B" n="63" break="no"/>dum quo doctor docet discipulum: et haec 
+      ve<lb ed="#B" n="64" break="no"/>rior videtur. 
+      <lb ed="#B" n="65"/>Quantum ad tertium articu 
+      <lb ed="#B" n="66"/>lum sunt 
+      <lb ed="#B" n="67"/>tres difficultates.
+</p>
+               <p xml:id="WuV37d-e72754-d1e1302">
+¶ Prima est. Utrum an 
+      <lb ed="#B" n="68"/>gelus quaetienscumque loquit impremat / aut actum 
+      <lb ed="#B" n="69"/>aut specien ei cui loquitur: Dico quod non: quia ali 
+      <lb ed="#B" n="70"/>quotiens leguntur angeli loqui deo. Unde 
+      <lb ed="#B" n="71"/>Prego. in mora. Uox angelorum in laude 
+      <lb ed="#B" n="72"/>conditoris est admiratio intimae 
+      contempla<lb ed="#B" n="73" break="no"/>tionis: et tamen certum est quod non imprimit 
+      ali<lb ed="#B" n="74" break="no"/>quid deo.
+</p>
+               <p xml:id="WuV37d-e72754-d1e1320">
+¶ Secunda difficultas. Quis 
+      <lb ed="#B" n="75"/>est maior numerus angelorum / aut assister 
+      <lb ed="#B" n="76"/>tium / aut ministrantium? Dicendum quod loquendo 
+      <lb ed="#B" n="77"/>de lege communi: plures sunt assistentes quam 
+      <lb ed="#B" n="78"/>ministrantes: quod sat/ innuit Dan. Milia mi 
+      <lb ed="#B" n="79"/>lium ministrabant ei: et decies centena milia 
+      <lb ed="#B" n="80"/>assistebant ei: ita quod decies plus numerat 
+      <lb ed="#B" n="81"/>assistentes quam ministrantes: quia ponitur in plura 
+      <lb ed="#B" n="82"/>li: nisi dicatur numerum exponi numero: et tunc 
+      <lb ed="#B" n="83"/>capiendo ministerium pro interiori officio ac 
+      <lb ed="#B" n="84"/>exteriori: omnes sunt administrorii spiritus: 
+      <lb ed="#B" n="85"/>vt habet apostolus.
+</p>
+               <p xml:id="WuV37d-e72754-d1e1347">
+¶ Tertia difficultas. 
+      <lb ed="#B" n="86"/>Si angelus loqueretur in persona dei / sicut 
+      <lb ed="#B" n="87"/>fecit in antiqua testamento: vtrum esset adorandus: 
+      <lb ed="#B" n="88"/>Respondet doc. deuotus. q. 6. quod si referimus 
+      <lb ed="#B" n="89"/>mentem ad angelum / in se potest adorari dulia. 
+      <lb ed="#B" n="90"/>Si autem ad deum immediate cuius est nuncius: 
+      <lb ed="#B" n="91"/>potest adorari latria / sicut fecit abraam. Ex 
+      <lb ed="#B" n="92"/>quo patet ad quaestionem / quod videlicet inter 
+      ange<lb ed="#B" n="93" break="no"/>los / sic fit hierarchicorum locutio actuum: vt 
+      <lb ed="#B" n="94"/>ad nostrum mittantur ministerium etc. Et tunc 
+      <lb ed="#B" n="95"/>ad argumenta.
+</p>
+               <p xml:id="WuV37d-e72754-d1e1371">
+¶ Ad primum dicendum / 
+      quod<lb ed="#B" n="96" break="no"/>potest / et sine medio et cum medio: nec 
+      causa<lb ed="#B" n="97" break="no"/>bit illum actum intelligendi in medio loco: nec 
+      <lb ed="#B" n="98"/>in alio angelo qui erit sibi proximior quam ille 
+      <!--337.xml-->
+      <pb ed="#B" n="160-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>cui loquitur: quia mere causat libere: vt 
+      pa<lb ed="#B" n="2" break="no"/>tuit in prima conclusione.
+</p>
+               <p xml:id="WuV37d-e72754-d1e1391">
+¶ Ad secundum 
+      <lb ed="#B" n="3"/>dicendum: quod licet posset cognosci actus eius: 
+      <lb ed="#B" n="4"/>non tamen ille cui semper aduertit: ideo summa 
+      <lb ed="#B" n="5"/>exigit liberalitas et charitatiua 
+      communi<lb ed="#B" n="6" break="no"/>catio: vt mutuo suas conceptiones multipli 
+      <lb ed="#B" n="7"/>tent.
+</p>
+               <p xml:id="WuV37d-e72754-d1e1404">
+¶ Ad tertium patet: quod licet deus posset 
+      <lb ed="#B" n="8"/>per se facere: tamen exigit lex diuinae sapinie: quam 
+      <lb ed="#B" n="9"/>diuinus docuit Diony. vt insima per media in 
+      <lb ed="#B" n="10"/>supriuma deducantur. Et ad confirmationem iam 
+      <lb ed="#B" n="11"/>patet / quia omnes mittuntur seu extaerius seu interi 
+      <lb ed="#B" n="12"/>us.
+</p>
+            </div>
+            <div xml:id="WuV37d-e72754-Dd1e1418" type="et-conclusiones">
+               <head xml:id="WuV37d-e72754-Hd1e1420">Conclusiones</head>
+               <p xml:id="WuV37d-e72754-d1e1423">
+¶ Ex praesenti autem distinctione tres 
+      <lb ed="#B" n="13"/>etc. Prima conclusio: quod omnis spiritus ad extra 
+      <lb ed="#B" n="14"/>mittatur aut non: sic penitus modo dubitatur. 
+      Di<lb ed="#B" n="15" break="no"/>cit conclusio / quod dubitatio est / an omnes spiritus 
+      <lb ed="#B" n="16"/>celestes mittantur in ministerium nostrum / aut 
+      <lb ed="#B" n="17"/>solum aliqui. Et ponitur a principio distinctio 
+      <lb ed="#B" n="18"/>nis vsque ibi: hic oritur quaestio etc.
+</p>
+               <p xml:id="WuV37d-e72754-d1e1439">
+¶ Secunda 
+      <lb ed="#B" n="19"/>conclusio. Extat opinio quod spirituum est extra 
+      <lb ed="#B" n="20"/>missio propter nos omnium. Dicit conclusio / quod est 
+      <lb ed="#B" n="21"/>vna opinio quae dicit: quod omnes spiritus mittumxur 
+      <lb ed="#B" n="22"/>extra propter nos ad ministerium. Et ponitur 
+      <lb ed="#B" n="23"/>ab illo loco: Hic oritur quaestio etc. vsque ibi: 
+      <lb ed="#B" n="24"/>Alii vero dicunt etc.
+</p>
+               <p xml:id="WuV37d-e72754-d1e1455">
+¶ Tertia conclusio. 
+      <lb ed="#B" n="25"/>Hissae interius sunt iupernae mentes / siue ex 
+      <lb ed="#B" n="26"/>terius et angeli entes. Dicit conclusio: quod omnes 
+      <lb ed="#B" n="27"/>ordines angelorum / aut mittuntur interius 
+      <lb ed="#B" n="28"/>aut exterius. Et deducitur ab illo loco: Alii 
+      <lb ed="#B" n="29"/>vero dicunt: vsque ad finem distinctionis.
+</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

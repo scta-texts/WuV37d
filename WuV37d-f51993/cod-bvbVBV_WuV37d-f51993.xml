@@ -1,0 +1,664 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 1</title>
+            <author ref="#WilliamDeVaurouillon">William de Vaurouillon</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 1</title>
+               <date when="2021-06-19">June 19, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-bvbVBV">Basel 1510</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-06-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="330-v"/>
+            <cb ed="#B" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="WuV37d-f51993"><!-- l4d1 -->
+            <head xml:id="WuV37d-f51993-Hd1e108">Distinctio 1</head>
+            <div xml:id="WuV37d-f51993-Dd1e111" type="circa-textum">
+               <head xml:id="WuV37d-f51993-Hd1e113">Circa textum</head>
+               <p xml:id="WuV37d-f51993-d1e116">
+      <!--678.xml-->
+                  <pb ed="#B" n="331-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>Distinctio prima docet sacramen 
+      <lb ed="#B" n="2"/>torum causam institutiua: in qua 
+      incidem<lb ed="#B" n="3" break="no"/>taliter agit de circucisione. 
+      <lb ed="#B" n="4"/>Amarita 
+      <lb ed="#B" n="5"/>nus enim 
+      vulnera<lb ed="#B" n="6" break="no"/>to appropians: 
+      <lb ed="#B" n="7"/>curationi eius 
+      sa<lb ed="#B" n="8" break="no"/>cramentorum 
+      alli<lb ed="#B" n="9" break="no"/>gamenta 
+      adhibu<lb ed="#B" n="10" break="no"/>it etc. Celestis 
+      me<lb ed="#B" n="11" break="no"/>dicus vnigenitus dei 
+      <lb ed="#B" n="12"/>optimi magisteri / patres atque caelicis a patre 
+      mis<lb ed="#B" n="13" break="no"/>sus a soliis: veniens in mundum humanum gen 
+      <lb ed="#B" n="14"/>iam languore praemortuum: visitare dignatus est / 
+      <lb ed="#B" n="15"/>carne nostra prius trabetaus: hincinde suauiss 
+      <lb ed="#B" n="16"/>misque pigmentorum collectis odoribus electu 
+      <lb ed="#B" n="17"/>arium saluificum infirmanti contribuit: nec prius 
+      <lb ed="#B" n="18"/>ad patrem ascendit / quae a patre exiuerat (A sum 
+      <lb ed="#B" n="19"/>mo inquit propheta / caelo egressio eius. Et oo 
+      <lb ed="#B" n="20"/>cursus eius vsque ad summum eius) donec vasa 
+      <lb ed="#B" n="21"/>gratiarum (quao sacramenta nomino) nobis 
+      possi<lb ed="#B" n="22" break="no"/>denda relinquiret: culmine de proximo digitis ex 
+      <lb ed="#B" n="23"/>arato spiritus linguis in igneis charitatesm. Sic 
+      <lb ed="#B" n="24"/>uoppe dudum Iesus alius quam syrach proferunt 
+      <lb ed="#B" n="25"/>i nostro de Iesu loquitur. Unguentarius faciet pi 
+      <lb ed="#B" n="26"/>gmenta suauitatis: et vnctiones conficiet sani 
+      <lb ed="#B" n="27"/>tatis. O vnguentarius mirabilis: o noster sa 
+      <lb ed="#B" n="28"/>maritanus / o splendor / o radius: o sapinia dei 
+      <lb ed="#B" n="29"/>patris. seminecem / semiuiuum a hierilisum in hie 
+      <lb ed="#B" n="30"/>richo descendentem: manibus propriis i vnguenti 
+      <lb ed="#B" n="31"/>variis: sanasti vulneribus / liuoribus / plagis 
+      <lb ed="#B" n="32"/>tumentibus: praetactis confectioni tuorum pigmento 
+      <lb ed="#B" n="33"/>rum sanitatem suauitati socians: vt sanitas 
+      su<lb ed="#B" n="34" break="no"/>auitatem amabilem redderet: et suauitas sani 
+      <lb ed="#B" n="35"/>tatem exornaret: simulque vtili dulcedo iunge 
+      <lb ed="#B" n="36"/>retur. Sic quippe noster Flaccus oracius: dum artim 
+      <lb ed="#B" n="37"/>poeticae praecepta describeret / intulit. Omne 
+      <lb ed="#B" n="38"/>tulit punctum / quo miscuit vtile dulci. Tanti 
+      <lb ed="#B" n="39"/>igitur medici eruditissimi magistri: quas scientiarum va 
+      <lb ed="#B" n="40"/>rius decorat cuneus: antidota mediciasque 
+      <lb ed="#B" n="41"/>mente lustraturi: quartum Sninarum librum 
+      ingre<lb ed="#B" n="42" break="no"/>di estimo oportunum: vt si in primo dei summi 
+      <lb ed="#B" n="43"/>apperuit maiestas: et in secundo nota est eius 
+      potem<lb ed="#B" n="44" break="no"/>tia: in tertioque dei saluatoris apperuit 
+      beni<lb ed="#B" n="45" break="no"/>gnitas: iam in hoc finali proclametur claementia 
+      <lb ed="#B" n="46"/>dei. Hic quippe quartus (vt de caeteris taceam 
+      <lb ed="#B" n="47"/>superne hierlisum aperit et ostendit viagium: vt iam 
+      <!--678.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="48"/>non deuia ambulantes: sacramentis 
+      conforta<lb ed="#B" n="49" break="no"/>ti / securi caelicas stationes adeamus. Hunc 
+      <lb ed="#B" n="50"/>igitur librum accipiens in manibus: ternas diui 
+      <lb ed="#B" n="51"/>dendum iudico in particulas. In prima dono 
+      sa<lb ed="#B" n="52" break="no"/>cramentorum caeli resplendet iter praeuium. In 
+      se<lb ed="#B" n="53" break="no"/>cunda aurea betorum hinc tangitur et plenum 
+      gau<lb ed="#B" n="54" break="no"/>dium. In tertia clausionem dictorum bene gratum 
+      <lb ed="#B" n="55"/>fert epilogum. Prima in principio. Secunda 
+      di<lb ed="#B" n="56" break="no"/>43. ibi. Postremo de conditione 
+      resurrecti<lb ed="#B" n="57" break="no"/>onis etc. Tertia in fine totius operis / ibi: Haec 
+      <lb ed="#B" n="58"/>de pedibus sedentis etc. Rursus prima 
+      particu<lb ed="#B" n="59" break="no"/>la in qua dono sacrorum etc. in tres partes diui 
+      <lb ed="#B" n="60"/>ditur. In prima determinatur de sacramentis / sed 
+      <lb ed="#B" n="61"/>generalitur. In secunda inuestigatur circuncisio 
+      in<lb ed="#B" n="62" break="no"/>cidentalitur. In tertia continuatur sacraendum christi 
+      <lb ed="#B" n="63"/>specialitur. Prima in principio. Secunda ibi: Fuit tamen 
+      <lb ed="#B" n="64"/>inter illa sacraendum quddam etc. Tertia di. 2. ibi: 
+      <lb ed="#B" n="65"/>Iam ad sacramenta nouae legis etc. Rursus prima 
+      <lb ed="#B" n="66"/>particula in qua determinatur de sacramentis 
+      ge<lb ed="#B" n="67" break="no"/>neralitur: in tres partes diuiditur. In prima praemit 
+      <lb ed="#B" n="68"/>titur sermo narratiuus. In secunda adiungitur 
+      te<lb ed="#B" n="69" break="no"/>xtus coniunctiuus. In tertia conseritur ordo 
+      colle<lb ed="#B" n="70" break="no"/>ctiuus. Prima in principio. Secunda ibi: De quibus 
+      <lb ed="#B" n="71"/>quattuor primum conside. etc. Tertia ibi: 
+      Sa<lb ed="#B" n="72" break="no"/>cramentum est sacrae rei signum etc. Cuius vlteri 
+      <lb ed="#B" n="73"/>or diuisio satis in promptu est: ideo dimittitur. 
+      <lb ed="#B" n="74"/>Ideo sequitur illa secunda pars principalis huius di. 
+      <lb ed="#B" n="75"/>Fuit tamen inter illa sacraendum etc. In qua 
+      inuesti<lb ed="#B" n="76" break="no"/>gatur circuncisio incidentaliter: et hec habet 
+      <lb ed="#B" n="77"/>diuidi in tres partes principales. In prima pa 
+      <lb ed="#B" n="78"/>tet circuncisionis efficacia. In secunda 
+      ad<lb ed="#B" n="79" break="no"/>est dubitationis materia. In tertia claret 
+      <lb ed="#B" n="80"/>vi sermonis eiusdem substantia. Prima in 
+      <lb ed="#B" n="81"/>principio. Secunda ibi: Queritur autem de viris 
+      <lb ed="#B" n="82"/>etc. Tertia ibi: Hic dicendum est in quo insti 
+      <lb ed="#B" n="83"/>tuta etc. Et haec est diuisio praesentis dist. in 
+      ge<lb ed="#B" n="84" break="no"/>nerali. Circa quam talis mouetur titulus 
+      quae<lb ed="#B" n="85" break="no"/>stionis in speciali / videlicet: 
+    </p>
+            </div>
+            <div xml:id="WuV37d-f51993-Dd1e315">
+               <head xml:id="WuV37d-f51993-Hd1e317">Quaestio</head>
+               <p xml:id="WuV37d-f51993-d1e320">
+                  <lb ed="#B" n="86"/>Questio haec tractat de 
+      sacramen<lb ed="#B" n="87" break="no"/>to in generali / et sacramentis veterius 
+      te<lb ed="#B" n="88" break="no"/>stamenti / praecipue circuncisione: Quae dif 
+      <lb ed="#B" n="89"/>fuse declaratur a Sco. in sex quaestionibus  
+      <lb ed="#B" n="90"/>specialiter Tho. notatur. 
+      <lb ed="#B" n="91"/>Ncerimonia vel 
+      <lb ed="#B" n="92"/> sacramentum circun isio coseatur: 
+      <lb ed="#B" n="93"/>Et arguitur quod fuerit cerimonia / 
+      <lb ed="#B" n="94"/>triplici medio.
+</p>
+               <p xml:id="WuV37d-f51993-d1e342">
+¶ Primo sic. Illud erat 
+      <!--679.xml-->
+      <pb ed="#B" n="331-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>legis mosaicae cerimonia: quod tempore 
+      moder<lb ed="#B" n="2" break="no"/>no nulla potest ratione seruari: sed huiusmodi est 
+      cir<lb ed="#B" n="3" break="no"/>cuncisio: igitur etc. Maior patet ex differentia 
+      <lb ed="#B" n="4"/>cerimoniarum ad iudicialia et moralia: 
+      mo<lb ed="#B" n="5" break="no"/>ralia enim semper sunt viua: quia manent etiam 
+      <lb ed="#B" n="6"/>sub lege christi / et perfectius quam in lege 
+      moy<lb ed="#B" n="7" break="no"/>si. Iudicialia verofmortua sunt: quia non ma 
+      <lb ed="#B" n="8"/>nem: non tamen sunt mortifera: quia possent a prin 
+      <lb ed="#B" n="9"/>cipibus institui. Cerimonialia vero mort 
+      <lb ed="#B" n="10"/>fera sunt: quia nequeunt bene fieri. Sed pates 
+      <lb ed="#B" n="11"/>minor apostoli smima dicentis: Si 
+      circuncidami<lb ed="#B" n="12" break="no"/>ni / christus vobis nihil proderit.
+</p>
+               <p xml:id="WuV37d-f51993-d1e377">
+¶ Secundo 
+      <lb ed="#B" n="13"/>arguitur sic. Non fuit perfectior circuncisio ob 
+      <lb ed="#B" n="14"/>seruatione sabbati: immo videtur econtra. Sed 
+      <lb ed="#B" n="15"/>obseruatio sabbati fuit cerimonialis: ergo 
+      <lb ed="#B" n="16"/>et circuncisio. Maior patet ex eo quod obser 
+      <lb ed="#B" n="17"/>uatio sabbati in mandatis decalogi conti 
+      <lb ed="#B" n="18"/>nebatur: quae erat totius legis summa. Tum quia 
+      <lb ed="#B" n="19"/>sepius recolitur in lege: Hemento vt diemu 
+      <lb ed="#B" n="20"/>sabbati sanctifices. Tum secundo: quia 
+      ma<lb ed="#B" n="21" break="no"/>xima transgredientibus poena dabatur. 
+      Pa<lb ed="#B" n="22" break="no"/>tet de colligente solum ligna in die sabba 
+      <lb ed="#B" n="23"/>ti: qui propter hoc fuit lapidatus. Sed pro 
+      <lb ed="#B" n="24"/>batur minor ex dictis doctorum dicentium: quod 
+      <lb ed="#B" n="25"/>ideo non remanet in noua lege: quia erat 
+      <lb ed="#B" n="26"/>cerimonialis.
+</p>
+               <p xml:id="WuV37d-f51993-d1e410">
+¶ Tertio arguitur sic. Omne 
+      <lb ed="#B" n="27"/>futuri figuratiuum in antiqua lege dicebatur 
+      <lb ed="#B" n="28"/>cerimonia. Sed circuncisio maxime erat hu 
+      <lb ed="#B" n="29"/>iusmodi: igitur etc. Maior patet: quia cers 
+      <lb ed="#B" n="30"/>moniae erant institutae ad signandum ventu 
+      <lb ed="#B" n="31"/>rum christum / aut caelestis regni gloriam. Sed 
+      <lb ed="#B" n="32"/>probatur minor. Unde in Sen. legitur 
+      da<lb ed="#B" n="33" break="no"/>ta in signum. Et ab apostolo vocatur signaculum. 
+      <lb ed="#B" n="34"/>Et patet: quia signabat remotionem superfluo 
+      <lb ed="#B" n="35"/>rum in gloria.
+</p>
+               <p xml:id="WuV37d-f51993-d1e433">
+¶ In oppositum tamen arguitur au 
+      <lb ed="#B" n="36"/>ctoritate magistri in littera nominantis 
+      circum<lb ed="#B" n="37" break="no"/>cisionem sacramentum. Cum igitur sacramenta a 
+      <lb ed="#B" n="38"/>cerimoniis distingui videantur / sequitur propo 
+      <lb ed="#B" n="39"/>situm.
+</p>
+               <p xml:id="WuV37d-f51993-d1e444">
+¶ In ista quaestione pariformiter ad 
+      <lb ed="#B" n="40"/>alias / sunt tres artituli declarandi 
+      <lb ed="#B" n="41"/>Primus est terminorum declaratiuus; 
+      <lb ed="#B" n="42"/>Quorum Secundus est quaestionis responsiuus. 
+      <lb ed="#B" n="43"/>Tertius est dubiorum motiuus. 
+      <lb ed="#B" n="44"/>Quo ad primum articulum 
+      ter<lb ed="#B" n="45" break="no"/>mini sunt: 
+      <lb ed="#B" n="46"/>Sacramentum / cerimonia et circuncisio¬ 
+      </p>
+               <p xml:id="WuV37d-f51993-d1e462">
+                  <lb ed="#B" n="47"/>¶ Primus igitur terminus est sacra 
+      <lb ed="#B" n="48"/>mentum: quasi sacrans mentem. Unde doctor 
+      <lb ed="#B" n="49"/>subtilis in persenti dist. q. 2. arti. 3. sacramenti 
+      <!--679.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>talem donat diffinitionem. Sancramentum est. 
+      <lb ed="#B" n="51"/>signum sensibilei gratiam dei vel effectum dei 
+      <lb ed="#B" n="52"/>gratuitum ex institutione diuina efficaciter 
+      <lb ed="#B" n="53"/>signans / ordinatum ad salutem hominis 
+      viato<lb ed="#B" n="54" break="no"/>ris. In qua diffinitione tria tanguntur. Pri 
+      <lb ed="#B" n="55"/>mo genus sacramenti / dum dicitur: signum sensi 
+      <lb ed="#B" n="56"/>bile. Multa enim signant qua non sunt 
+      sacramen<lb ed="#B" n="57" break="no"/>ta: sicut circulus ante tabernam ibi signat vi 
+      <lb ed="#B" n="58"/>num esse: non tamen nominatur sacramentum. Et quo 
+      <lb ed="#B" n="59"/>ad hoc noto triplex signu esse: memorati 
+      <lb ed="#B" n="60"/>uum demonstratiuum / pronosticum. Primum est. 
+      <lb ed="#B" n="61"/>praeteriti: secundum praesentis: tertium futuri. 
+      <lb ed="#B" n="62"/>Et horum trium sacramentum extat signum passio 
+      <lb ed="#B" n="63"/>nis christi praeteritae / gratiae modo collatae / et glo 
+      <lb ed="#B" n="64"/>riae future. Secundo tangitur causa 
+      effecti<lb ed="#B" n="65" break="no"/>ua sacramenti / dum dicit: ex institutione diui 
+      <lb ed="#B" n="66"/>na efficaciter significans. Causa enim 
+      effe<lb ed="#B" n="67" break="no"/>ctiua sacramentorum deus est. Dicitur vero ef 
+      <lb ed="#B" n="68"/>ficaciter: ad differentiam sacramentorum anti 
+      <lb ed="#B" n="69"/>quae legis: in quibus ex natura 
+      sacramen<lb ed="#B" n="70" break="no"/>ti non conferebatur gratia / dempta circuncist 
+      <lb ed="#B" n="71"/>one. Dicitur autem quod fignificat gratiam aut es 
+      <lb ed="#B" n="72"/>fectum dei gratuitum propter eucharistiae sacra 
+      <lb ed="#B" n="73"/>mentum. Illud enim proprie non signat gratiam sed 
+      <lb ed="#B" n="74"/>effectum gratuitum id est corpus christi verum aut 
+      <lb ed="#B" n="75"/>mysticum: vt patebit suo in loco. Tertio 
+      tan<lb ed="#B" n="76" break="no"/>gitur causa finalis sacramenti / dum dicitur: ordina 
+      <lb ed="#B" n="77"/>tum ad salutem hominis viatoris: vt scilicet per visibilia 
+      <lb ed="#B" n="78"/>ad inuisibilia ascendamus. Ex quo patet quod in 
+      cae<lb ed="#B" n="79" break="no"/>lo nulla erunt sacramenta. Et haec doctoris  
+      <lb ed="#B" n="80"/>nostri diffinitio satis concordat illi quam 
+      hu<lb ed="#B" n="81" break="no"/>go de sancto victo. in lib. suo de 
+      sacramen<lb ed="#B" n="82" break="no"/>tis ponit. Sacramentum est elementum cor 
+      <lb ed="#B" n="83"/>porale / oculis quidem superpositum ex institu 
+      <lb ed="#B" n="84"/>tione repraesentans / ex similitudine signans: ex sancti 
+      <lb ed="#B" n="85"/>ficatione inuisibilem gratiam conferens: vt patet 
+      <lb ed="#B" n="86"/>inspicienti. Caeterum noto / vt notat sam. Tho. 
+      <lb ed="#B" n="87"/>parte. 1. praesentis dist. q. 1. quod sacramentum dici 
+      <lb ed="#B" n="88"/>tur tripliciter. Primo modo dicitur sacramentum id 
+      <lb ed="#B" n="89"/>quod est veluti origo sacramenti. Hoc modo par 
+      <lb ed="#B" n="90"/>sio christi dicitur sacramentum: quia mors chri 
+      <lb ed="#B" n="91"/>sti nrorum sacramentorum est consummatio. Secundo 
+      <lb ed="#B" n="92"/>dicitur id quod solum sacramentum ostendit: et hoc 
+      <lb ed="#B" n="93"/>modo dicuntur fuisse sacramenta in antiqua 
+      le<lb ed="#B" n="94" break="no"/>ge. Tertio dicitur sacramentum id quod est ita si 
+      <lb ed="#B" n="95"/>gnum gratiae: quod etiam causa existit id est efficacitur 
+      re<lb ed="#B" n="96" break="no"/>praesentat: et hoc modo dicuntur sacramenta non 
+      <lb ed="#B" n="97"/>uae legis: et de istis dari videtur diffinitio 
+      prae<lb ed="#B" n="98" break="no"/>exposita. Et tantum de isto sacramentum tex¬ 
+      <!--680.xml-->
+      <pb ed="#B" n="332-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>mino.
+</p>
+               <p xml:id="WuV37d-f51993-d1e590">
+¶ Secundus terminus est cerimonia: 
+      <lb ed="#B" n="2"/>et dicitur a ceres / quod est dea bladi / seu frugum 
+      <lb ed="#B" n="3"/>secundum modum loquendi gentium: et mun seu mu 
+      <lb ed="#B" n="4"/>nus / quasi ceremunia: quia primitus cerimoniae. 
+      <lb ed="#B" n="5"/>fuerunt dictae: inquantum de blado aut aliis ter 
+      <lb ed="#B" n="6"/>rae nascentibus aut deo aut idolis munera 
+      of<lb ed="#B" n="7" break="no"/>ferebantur. Mon autem ampliatum est ad quemli 
+      <lb ed="#B" n="8"/>bet ornatum cultus diuini: vt sunt 
+      thurifica<lb ed="#B" n="9" break="no"/>tioigenuflexio / inclinatio. Uel vt dicit Ua 
+      <lb ed="#B" n="10"/>lerius maximus: dicitur cerimonia a cerere qua 
+      <lb ed="#B" n="11"/>dam opido: vbi primitus tales ortum 
+      habue<lb ed="#B" n="12" break="no"/>runt cerimoniae. Caeterum noto quod in lege anti 
+      <lb ed="#B" n="13"/>qua erant tria: iudicialiai cerimonialia / et 
+      <lb ed="#B" n="14"/>moralia. Moralia principalitur ordinabant / 
+      <lb ed="#B" n="15"/>vt homo honeste viueret / et quo ad se / et quo ad pro 
+      <lb ed="#B" n="16"/>ximum / et deum principalitur. Iudicialia ne dis 
+      <lb ed="#B" n="17"/>sensio insurgeret. Cerimonialia vero cultim 
+      <lb ed="#B" n="18"/>ordinabant dei / aut praesagiebant futura. Et 
+      <lb ed="#B" n="19"/>tantum de isto termino cerimonia.
+</p>
+               <p xml:id="WuV37d-f51993-d1e632">
+¶ Ter 
+      <lb ed="#B" n="20"/>tius terminus est circuncisio: a circum et 
+      <lb ed="#B" n="21"/>scindendo. Unde Ioam. dam. in lib. 4. suarum 
+      sumina<lb ed="#B" n="22" break="no"/>rum circuncisionem diffiniens dicit: Circumcisio 
+      <lb ed="#B" n="23"/>est signum determinans istlis a gentibus cum quae 
+      <lb ed="#B" n="24"/>bus conuersabatur. Et tanguntur tria. Primo 
+      <lb ed="#B" n="25"/>genus / dum dicitur: signum: erat enim signum remo 
+      <lb ed="#B" n="26"/>tionis originalis culpae: in qua est (vt tangit 
+      <lb ed="#B" n="27"/>Ansel. quasi quaedam circulus: quia primo persona 
+      in<lb ed="#B" n="28" break="no"/>fecit naturam: et rursus natura inficit perso 
+      <lb ed="#B" n="29"/>nam. Secundo tangitur subiectum in quo erat: quia i 
+      <lb ed="#B" n="30"/>israel: caeterae emim nationes ad illam non erant 
+      <lb ed="#B" n="31"/>obligati. Tertio tangitur finis circuncisionis 
+      <lb ed="#B" n="32"/>non quidem omnis / sed vnus / dum dicitur: determi 
+      <lb ed="#B" n="33"/>nans israel a gentibus cum quibus conuersabatur: 
+      <lb ed="#B" n="34"/>erat enim signum distinctionis ppituli dei a 
+      caete<lb ed="#B" n="35" break="no"/>ris populis. Ultra notat doctor deuot 
+      <lb ed="#B" n="36"/>parte. 2. praesentis dist. arti. 2. q. 2. quod in hoc 
+      <lb ed="#B" n="37"/>circuncisionis sacramento fuerunt tria scilicet effi 
+      <lb ed="#B" n="38"/>cacia: quia conferebatur gratia in eo. Secundo 
+      <lb ed="#B" n="39"/>significatio: quia figurabat gloriam aeternam: quae 
+      <lb ed="#B" n="40"/>aeterna est: sicut circulus finem non habet. Ter 
+      <lb ed="#B" n="41"/>tio obseruantia: et ibi (hugone teste in li 
+      <lb ed="#B" n="42"/>bro de sacramentis) tria fuerunt: sexus ma 
+      <lb ed="#B" n="43"/>sculinus / caro praeputii et dies octauus: quae 
+      <lb ed="#B" n="44"/>eliciuntur ex Sen. 17. Et tantum de primo: 
+      <lb ed="#B" n="45"/>articulo. 
+      <lb ed="#B" n="46"/>Quantum ad secundum arti 
+      <lb ed="#B" n="47"/>culum 
+      <lb ed="#B" n="48"/>sunt tres conclusiones. Prima est de sacramento in communi. 
+      <lb ed="#B" n="49"/>Et secunda est de sacramento veteris et nouae legis in 
+      <!--680.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>comparatione vnius ad aliud. Tertia est de sacra 
+      <lb ed="#B" n="51"/>mento circuncisionis.
+</p>
+               <p xml:id="WuV37d-f51993-d1e708">
+¶ Prima est haec. Sic 
+      <lb ed="#B" n="52"/>sacramenta institui congruit: vt nullam in seco 
+      <lb ed="#B" n="53"/>spiritualem causandi virtutem subiectiue 
+      accipe<lb ed="#B" n="54" break="no"/>rent. Dicit prima pars conclusionis / quod congruit sa 
+      <lb ed="#B" n="55"/>cramenta istitui. Probatur. Natura enim hu 
+      <lb ed="#B" n="56"/>mana tota erat lapsa et anima et corpore: et ita 
+      <lb ed="#B" n="57"/>totum dei filius assumpsit et inuisibilem animam et 
+      <lb ed="#B" n="58"/>visibile corpus. Ut igitur ei esiemus confor 
+      <lb ed="#B" n="59"/>mes: congruum erat vt per sacramenta quae eius 
+      <lb ed="#B" n="60"/>sunt effectus: et visibile haberent id est elementum: 
+      <lb ed="#B" n="61"/>et inuisibile id est gratiam / essemus dispositi. 
+      Cae<lb ed="#B" n="62" break="no"/>terum vt notat parte prima praesentis distin. doc. 
+      <lb ed="#B" n="63"/>subtilis. q. 3. cogruum est valde hominibus 
+      vni<lb ed="#B" n="64" break="no"/>us sectae seu modi viuendi habere signum 
+      <lb ed="#B" n="65"/>aliquod seu habitum / seu aliud: per quod ab 
+      <lb ed="#B" n="66"/>aliis cognoscantur hominibus / et mutuo dis 
+      <lb ed="#B" n="67"/>cernantur: et inter se magis se diligant. Unde 
+      <lb ed="#B" n="68"/>contra Faustum teste Augstin. Nulla religio / 
+      <lb ed="#B" n="69"/>nullus ritus vnquam fuit / quin sua sacramen 
+      <lb ed="#B" n="70"/>ta distincta haberet. Et ita nostra 
+      sacra<lb ed="#B" n="71" break="no"/>menta congrue nobis collata sunt: vt in hoc 
+      <lb ed="#B" n="72"/>ab aliis distinguamur. Unde et praeter hoc 
+      do<lb ed="#B" n="73" break="no"/>ctor deuotus triplicem ex parte dei ponit 
+      <lb ed="#B" n="74"/>rationem in huiusmodi sacramentis: parte prima. 
+      <lb ed="#B" n="75"/>q. 1. Prima est dei misericordia. Quia enim 
+      <lb ed="#B" n="76"/>labiles sumus a gratia: voluit dei misecundia 
+      <lb ed="#B" n="77"/>vt sacramenta haberemus ad quae recurrere 
+      <lb ed="#B" n="78"/>mus tempore oportuno ad percipiendam gratiam. 
+      <lb ed="#B" n="79"/>Secunda est dei iusticia: vt quia nimis 
+      diligen<lb ed="#B" n="80" break="no"/>do terrena peccamus: etiam si sanari 
+      cupi<lb ed="#B" n="81" break="no"/>amus / quasi sub eis nos humiliemus. 
+      Ma<lb ed="#B" n="82" break="no"/>teria enim sacramentorum est quoddam corporale 
+      <lb ed="#B" n="83"/>de communi. Tertia ratio est diuina sapientia: qua 
+      <lb ed="#B" n="84"/>mira in hoc apparuit: vt per id per quod homo pec 
+      <lb ed="#B" n="85"/>cauerati/ per illud met resurgeret: sicut et ca 
+      <lb ed="#B" n="86"/>nitur. Qui in ligno vincebat / in ligno 
+      quo<lb ed="#B" n="87" break="no"/>quam vinceretur. Et si dicatur / quod in creatione de 
+      <lb ed="#B" n="88"/>us nihil requisiuit: ergo nec in 
+      recreatio<lb ed="#B" n="89" break="no"/>ne. Dicendum quod non extat simile. Creatio 
+      <lb ed="#B" n="90"/>enim est simpliciter a nihilo in ens: ideo 
+      ni<lb ed="#B" n="91" break="no"/>hil praesupponit. Recreatio vero ab ente 
+      in<lb ed="#B" n="92" break="no"/>cipit: ideo de congruo praexigit dispositi 
+      <lb ed="#B" n="93"/>onem / quae perficitur sacramentis: vnde non de 
+      <lb ed="#B" n="94"/>bet deus dici frustra id facere: licet 
+      pos<lb ed="#B" n="95" break="no"/>set potentia absoluta immediate sine prae 
+      <lb ed="#B" n="96"/>uiis sacramentis animam charitate 
+      infor<lb ed="#B" n="97" break="no"/>mare. Melius enim sic disposuit / vt ad nos 
+      <lb ed="#B" n="98"/>iustificandos nosmetipsi ageremus: vt 
+      <!--681.xml-->
+      <pb ed="#B" n="332-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>dicit August. Qui creauit te sine te: non 
+      <lb ed="#B" n="2"/>iustificabit te sine te. Sacramenta quippe in 
+      <lb ed="#B" n="3"/>onus non veniunt aegrotis: quia datur gratia adiu 
+      <lb ed="#B" n="4"/>uans: nisi homo ponat obicem. Sed dicit secun 
+      <lb ed="#B" n="5"/>da pars conclusionis: quod sacramenta etiam no 
+      <lb ed="#B" n="6"/>uae legis / nullam habent effectiue 
+      causalita<lb ed="#B" n="7" break="no"/>tem ad gratiam. Probatur. Si enim aliquam (
+      su<lb ed="#B" n="8" break="no"/>per gratiam causandam vel effectum spiritualem 
+      <lb ed="#B" n="9"/>animae haberent) causalitatem: quaero quae esset 
+      <lb ed="#B" n="10"/>illa virtus / aut corporalis / aut spiritualis. Non 
+      <lb ed="#B" n="11"/>corporalis manifestum est: quia talis virtus non 
+      <lb ed="#B" n="12"/>agit in spiritum nisi forsan obiectiue. Sed 
+      pro<lb ed="#B" n="13" break="no"/>batur quod nec spiritualis: quia subiectum est corporale. 
+      <lb ed="#B" n="14"/>Habet autem Boetius: quod omne quod recipitur 
+      <lb ed="#B" n="15"/>in aliquo / recipitur ad modum rei rec: pientis / 
+      <lb ed="#B" n="16"/>et non rei receptae. Caeterum in sacramento duo 
+      <lb ed="#B" n="17"/>sunt scilicet verbum et elementum: quaero: in quo est 
+      <lb ed="#B" n="18"/>ista virtus subiectiue / vel in verbo / vel in 
+      <lb ed="#B" n="19"/>elemento: quia non potest vna simplex 
+      quali<lb ed="#B" n="20" break="no"/>tas esse in duobus subiectis disparat is. 
+      <lb ed="#B" n="21"/>Non est in elemento: patet: quia ante verbum non 
+      <lb ed="#B" n="22"/>dicitur habere causalitatem. Sed probatur quod nec 
+      <lb ed="#B" n="23"/>in verbo. Si enim sit in verbo: aut in toto 
+      <lb ed="#B" n="24"/>verbo / aut in parte. Non in toto verbo: quia to 
+      <lb ed="#B" n="25"/>tum verbum est extensum: vt verbi gratia / in 
+      sa<lb ed="#B" n="26" break="no"/>cramento altaris: hoc est corpus meum: 
+      <lb ed="#B" n="27"/>et ita virtus esset extensa: quod repugnat 
+      quali<lb ed="#B" n="28" break="no"/>tati spirituali: quam vocat pars aduersa. Si 
+      <lb ed="#B" n="29"/>autem sit in parte verbi: quaero in qua: aut prin 
+      <lb ed="#B" n="30"/>cipio / aut medio / aut fine: Primo non: quia 
+      <lb ed="#B" n="31"/>tunc esset sacramentum ante finem verborum quod non 
+      <lb ed="#B" n="32"/>conceditur. Si dicatur quod in fine: mirum est quod de 
+      <lb ed="#B" n="33"/>us tam nobilem fecerit qualitatem vt subito transe 
+      <lb ed="#B" n="34"/>at.
+</p>
+               <p xml:id="WuV37d-f51993-d1e893">
+¶ Ex quo patet defectus sancti Tho. qua 
+      <lb ed="#B" n="35"/>parte. 1. q. 4. praesentis dist. ponit: quod oportet in 
+      <lb ed="#B" n="36"/>sacramentis nouae legis ponere quandam 
+      vir<lb ed="#B" n="37" break="no"/>tutem per quam in sacramentis non iterabilibus in 
+      <lb ed="#B" n="38"/>anima gignitur character / et in sacramentis itera 
+      <lb ed="#B" n="39"/>bilibus dispositio ad gratiam: oppositum tamen 
+      <lb ed="#B" n="40"/>patet ex conclusione: vnde non immerito praeponitur 
+      <lb ed="#B" n="41"/>passu in isto doc. deuotus sancto Tho. quae parte 
+      <lb ed="#B" n="42"/>1. q. 4. ponit in praesenti dist. nullam talem poni 
+      <lb ed="#B" n="43"/>virtutem sed solam dei assistentiam: qui ex pacto 
+      <lb ed="#B" n="44"/>hoc voluit: vt quotiens sacramentum confertur / 
+      <lb ed="#B" n="45"/>donabit gratiam: nisi ex parte nostra impedi 
+      <lb ed="#B" n="46"/>mentum eueniat. Hoc idem tangit in dubiis 
+      <lb ed="#B" n="47"/>litteralibus. 40. distin. tertii. Et addit ibi / quod 
+      <lb ed="#B" n="48"/>dominus Guiller. episcopus parisien. praesente magnae 
+      <lb ed="#B" n="49"/>viro memoriae Alexam. de ales in schol fratrum 
+      <!--681.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>minorum: hanc se determinauit in partem. Datur 
+      exem<lb ed="#B" n="51" break="no"/>plum manifestum. Licet enim obediatur litteris 
+      <lb ed="#B" n="52"/>papae / aut regis: non tamen videtur aliqua virtus 
+      <lb ed="#B" n="53"/>in litteris ponenda: solummodo fit 
+      intima<lb ed="#B" n="54" break="no"/>tio regiae aut papalis voluntatis. Sic in 
+      pro<lb ed="#B" n="55" break="no"/>posito de sacramentis dat exemplum 
+      do<lb ed="#B" n="56" break="no"/>ctor subtilis / quaestione. 3. Dicat vir bone 
+      fi<lb ed="#B" n="57" break="no"/>dei alteri in tali signo: vtputa: pacis oscu 
+      <lb ed="#B" n="58"/>lo tale firmabitur negocium: credendum est. 
+      <lb ed="#B" n="59"/>ei. Sic quia pepigit nobiscum deus fedus 
+      <lb ed="#B" n="60"/>vt in sacramentis gratiam conferat / nisi obex 
+      <lb ed="#B" n="61"/>a nobis veniat. Et tantum de prima 
+      conclusi<lb ed="#B" n="62" break="no"/>one.
+</p>
+               <p xml:id="WuV37d-f51993-d1e961">
+¶ Secunda conclusio est de compa 
+      <lb ed="#B" n="63"/>ratione sacramentorum nouae legis ad 
+      sa<lb ed="#B" n="64" break="no"/>cramenta veteris legis: et est haec. Ex 
+      ope<lb ed="#B" n="65" break="no"/>re tam operato quam operante nostra sacra 
+      <lb ed="#B" n="66"/>menta gratiam conferunt: sed alia (dempta 
+      <lb ed="#B" n="67"/>circuncisione) solum vi operis operantur. Pro 
+      <lb ed="#B" n="68"/>declaratione conclusionis noto / quod opus 
+      ope<lb ed="#B" n="69" break="no"/>rans vocatur charitas / seu fides: sed opus 
+      <lb ed="#B" n="70"/>operatum / operatio exterior. Patet igituro 
+      <lb ed="#B" n="71"/>veriras conclusionis in nostris 
+      sacramen<lb ed="#B" n="72" break="no"/>tis: quo enim ad opus operans scilicet charitatem: 
+      <lb ed="#B" n="73"/>ipsa est quae per dilectionem operatur. Et 
+      Au<lb ed="#B" n="74" break="no"/>gustino teste ad Bonifacium: meretur 
+      auge<lb ed="#B" n="75" break="no"/>ri: vt aucta mereatur et perfici: sed quod etiam 
+      <lb ed="#B" n="76"/>ad opus operatum: patet ex differentia 
+      no<lb ed="#B" n="77" break="no"/>strorum sacramentorum ad sacramenta 
+      vete<lb ed="#B" n="78" break="no"/>ris legis communiter dicta: quia nostra effici 
+      <lb ed="#B" n="79"/>unt quod figurant: sua non: quod oportet 
+      <lb ed="#B" n="80"/>intelligi de opere operato. Unde dicebat 
+      <lb ed="#B" n="81"/>secunda pars conclusionis / quod 
+      sacramen<lb ed="#B" n="82" break="no"/>ta veteris legis / dempta circuncisione: quae 
+      <lb ed="#B" n="83"/>erat contra peccatum originale / solum confe 
+      <lb ed="#B" n="84"/>rebant gratiam ex opere operante. scilicet 
+      chari<lb ed="#B" n="85" break="no"/>tate. Probatur ex discursu quem ponit 
+      hu<lb ed="#B" n="86" break="no"/>go de sancto victore. Prius inquit in 
+      le<lb ed="#B" n="87" break="no"/>ge naturae victus est homo de ignorantia. 
+      <lb ed="#B" n="88"/>Secundo in lege Moysi de impotentia: 
+      <lb ed="#B" n="89"/>dum data est lex vetus sine gratia. Et tunc 
+      <lb ed="#B" n="90"/>venit christus: de quo in euangelio 
+      scri<lb ed="#B" n="91" break="no"/>bitur: Oratia et veritas per Iesum chri¬ et 
+      <lb ed="#B" n="92"/>stum facta est. Unde super illud apostoli. 
+      <lb ed="#B" n="93"/>Ex operibus legis. Dicit glo. Opera 
+      le<lb ed="#B" n="94" break="no"/>gis dicuntur / quae cum lege instituta et 
+      termi<lb ed="#B" n="95" break="no"/>nata sunt: quae numquam iustificare potuerunt: eti 
+      <lb ed="#B" n="96"/>am si in fide et sanctitate fierent. Ideo 
+      meri<lb ed="#B" n="97" break="no"/>to clamat dominus: Sanguinem hircorum nolui.  
+      <lb ed="#B" n="98"/>Ubi glo. desuper dicit. Praeterito vtens / omndit 
+      <!--682.xml-->
+      <pb ed="#B" n="333-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>se sacrificia iudeorum numquam amasse: quod 
+      intel<lb ed="#B" n="2" break="no"/>ligi habet ratione solum operis operati: aut etiam 
+      <lb ed="#B" n="3"/>ratione offerentium: quia iudei indigne 
+      offere<lb ed="#B" n="4" break="no"/>bant: tamen dum fiebant in charitate ratione 
+      <lb ed="#B" n="5"/>adiunctae charitatis: homo in eis poterat me 
+      <lb ed="#B" n="6"/>reri. Ex quo patetm defectus Bilberti porreta 
+      <lb ed="#B" n="7"/>ni episcopi pictaum: quem sequi videtur hoc magister 
+      <lb ed="#B" n="8"/>dicentis quod dato quod illa veteris legis sacrifi 
+      <lb ed="#B" n="9"/>cia homo ex charitate compleret: numque tamen in eis 
+      <lb ed="#B" n="10"/>mereri poterat. Patet tamen oppositum ex conclu 
+      <lb ed="#B" n="11"/>sione. Unde iudicatur hugo de sancto victore 
+      <lb ed="#B" n="12"/>illius tenens oppositum melius dicere: non tamen 
+      <lb ed="#B" n="13"/>sequitur illa sacramenta equae valere nostris 
+      <lb ed="#B" n="14"/>dato enim quod nullus foret charitatis motus: 
+      <lb ed="#B" n="15"/>ita tamen quod obex non veniret proficerent: non sic in 
+      <lb ed="#B" n="16"/>aliis.
+</p>
+               <p xml:id="WuV37d-f51993-d1e1083">
+¶ Tertia conclusio est: de sacramento 
+      <lb ed="#B" n="17"/>circuncisionis: et est haec. Sic abrae de 
+      cir<lb ed="#B" n="18" break="no"/>cuncisionis sacramento praeceptum contra origina 
+      <lb ed="#B" n="19"/>le confertur: vt conferat et gratiam. Dicit breviter 
+      <lb ed="#B" n="20"/>prima pars conclusionis. quod sacramentum circunci 
+      <lb ed="#B" n="21"/>sionis recte primo datum est abrae tanquam 
+      patri<lb ed="#B" n="22" break="no"/>fidei. Unde christus dicit circuncisionem non es 
+      <lb ed="#B" n="23"/>se ex lege sed patribus decebat enim ante dan 
+      <lb ed="#B" n="24"/>dam legemn populum peculiarem dei a caeteris hoc 
+      <lb ed="#B" n="25"/>signo distingui pposolus. Erat autem contra ori 
+      <lb ed="#B" n="26"/>ginale termino completo octo dierum. Sed  
+      <lb ed="#B" n="27"/>quid si ante diem octauum moreretur infans: 
+      <lb ed="#B" n="28"/>Dicendum quod in fide parentum saluabatur: ied ma 
+      <lb ed="#B" n="29"/>gister in praesenti distinctione dicat contra 
+      <lb ed="#B" n="30"/>rium: quod scilicet idem est sicuti de puero ante ba 
+      <lb ed="#B" n="31"/>ptismum: nec debebat terminus 
+      aliquate<lb ed="#B" n="32" break="no"/>nus praeueniri: patet manifesto exemplo. 
+      <lb ed="#B" n="33"/>dicit enim Salomon: Unigenitus fui coram 
+      <lb ed="#B" n="34"/>matre mea scilicet bersabee: et tamen certum est quod ber 
+      <lb ed="#B" n="35"/>sabeae alium a dauid habuit filium: sed quia mor 
+      <lb ed="#B" n="36"/>tuus est ante octauum dieit non fuit circuncisus: 
+      <lb ed="#B" n="37"/>nec per consequens nominatus: tum secundo: quia 
+      <lb ed="#B" n="38"/>nullum animal offerebatur deo in lege an 
+      <lb ed="#B" n="39"/>te octauum diem: tum tertio ex more 
+      iudeo<lb ed="#B" n="40" break="no"/>rum: quem adhuc hodie obseruant: nullum 
+      <lb ed="#B" n="41"/>enim ante dicit octauum circuncidunt hominem. 
+      <lb ed="#B" n="42"/>Sed quid de illis qui non fuerunt 
+      circum<lb ed="#B" n="43" break="no"/>cisi in deserto quadraginta annis: et tamen 
+      <lb ed="#B" n="44"/>multi mortui sunt. Dicit thomas hoc quod nul 
+      <lb ed="#B" n="45"/>lus incircuncisus ibi mortuus est: solum enim 
+      <lb ed="#B" n="46"/>in deserto mortui sunt qui egressi sunt de 
+      <lb ed="#B" n="47"/>egypto: et hii omnes fuerunt circuncisi in 
+      <lb ed="#B" n="48"/>egypto. Caeteri sub Iosue cultris 
+      lapide<lb ed="#B" n="49" break="no"/>is: licet modo cum nouaculis fiat a iude¬ 
+      <!--682.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>is: ita quod cultrus lapideus aut nouaculum 
+      <lb ed="#B" n="51"/>non sunt de essentia praecepti. Sed dicitur 
+      <lb ed="#B" n="52"/>secunda pars conclusionis quod in isto 
+      sacra<lb ed="#B" n="53" break="no"/>mento circuncisionis: nedum remouebatur 
+      <lb ed="#B" n="54"/>originalis culpa: sed conferebatur gratia 
+      <lb ed="#B" n="55"/>Patet ex dispositione diuina: quae nullius 
+      <lb ed="#B" n="56"/>vitat inimicitiam nisi capiendo amicitia: 
+      <lb ed="#B" n="57"/>potuit tamen vt dicit doctor subti. de 
+      ini<lb ed="#B" n="58" break="no"/>mico facere non amicum: dato quod non esset 
+      <lb ed="#B" n="59"/>amicus per charitatem: patet si poneretur homo in 
+      pu<lb ed="#B" n="60" break="no"/>ris naturalibus. Et tantum de secundo articulo. 
+      <lb ed="#B" n="61"/>Quo ad tertium articulum sun 
+      <lb ed="#B" n="62"/>tres difficu 
+      <lb ed="#B" n="63"/>tates.
+</p>
+               <p xml:id="WuV37d-f51993-d1e1192">
+¶ Prima difficultas. Quare 
+      <lb ed="#B" n="64"/>sacramenta noue legis nominantur vasa gra 
+      <lb ed="#B" n="65"/>tiae. Dicendum quod sicut quod est in vase non est 
+      <lb ed="#B" n="66"/>de ipso: nec ex ipso: sed cum ipso capitur: sic dum 
+      <lb ed="#B" n="67"/>homo accipit sacramentum accipit et gratiam: licet 
+      <lb ed="#B" n="68"/>non sit de ipso sacramento: nec ex ipso: et 
+      si<lb ed="#B" n="69" break="no"/>cut dum quis liquore indiget ad vas 
+      va<lb ed="#B" n="70" break="no"/>dit: sic dum gratia indigemus ad 
+      sacra<lb ed="#B" n="71" break="no"/>menta recurrimus.
+</p>
+               <p xml:id="WuV37d-f51993-d1e1212">
+¶ Secunda difficul 
+      <lb ed="#B" n="72"/>tas. vnde est quod circuncisio in antiqua lege 
+      <lb ed="#B" n="73"/>sola ex opere operato gratiam conferebat: 
+      <lb ed="#B" n="74"/>non alia sacramenta? Dicendum quod causa 
+      ef<lb ed="#B" n="75" break="no"/>ficiens erat diuina institutio causa finalis 
+      <lb ed="#B" n="76"/>christus quem praefigurabat: causa materia 
+      <lb ed="#B" n="77"/>lis locus: quia scriptum est de abraam. In 
+      se<lb ed="#B" n="78" break="no"/>mine tuo benedicentur omnes gentes: 
+      cau<lb ed="#B" n="79" break="no"/>sa formalis rotunditas: significans 
+      aeter<lb ed="#B" n="80" break="no"/>nitatem seu gratiam ad eam ducens.
+</p>
+               <p xml:id="WuV37d-f51993-d1e1234">
+¶ Ter 
+      <lb ed="#B" n="81"/>tia difficultas: Quale erat remedium 
+      <lb ed="#B" n="82"/>quo ad peccatum originale in lege naturi 
+      <lb ed="#B" n="83"/>ante circuncisionem? Dicendum quod in paruulis fides 
+      <lb ed="#B" n="84"/>tamen cum aliqua signo exteriori. Idem in adultis cum 
+      <lb ed="#B" n="85"/>decimatione oblatione vel sacrificio Obla 
+      <lb ed="#B" n="86"/>tio quippe reprtesentabat deum creatorem: 
+      sacri<lb ed="#B" n="87" break="no"/>ficium deum redemptorem: quia sacrificium fit in 
+      <lb ed="#B" n="88"/>morte animalium: et christus moriendo nos 
+      <lb ed="#B" n="89"/>redemit: sed decima deum glorificantem: quia 
+      <lb ed="#B" n="90"/>decem est numerus perfectus: vt patet in 
+      <lb ed="#B" n="91"/>arithmetica. Et tantum de tertio articulo. Ex 
+      <lb ed="#B" n="92"/>quo patet ad quaestionem: quod videlicet non 
+      <lb ed="#B" n="93"/>cerimonia: vt habet diuidi contra sacramtum sed sacra 
+      <lb ed="#B" n="94"/>mentum circuncisio nominatur. Si enim capiatur 
+      <lb ed="#B" n="95"/>large cerimonia vt proprie: habet diuidi 
+      <lb ed="#B" n="96"/>contra iudiciale et morale: nulli dubium 
+      <lb ed="#B" n="97"/>quin circumcisio fuerit cerimonialis: et non 
+      <lb ed="#B" n="98"/>solum sacramentalis. Et illo modo currunt 
+      <!--683.xml-->
+      <pb ed="#B" n="333-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>argumenta tria in pede quaestionis: ideo 
+      <lb ed="#B" n="2"/>conceduntur. Et tantum de praesenti quaestione 
+      </p>
+            </div>
+            <div xml:id="WuV37d-f51993-Dd1e1287" type="et-conclusiones">
+               <head xml:id="WuV37d-f51993-Hd1e1289">Conclusiones</head>
+               <p xml:id="WuV37d-f51993-d1e1292">
+                  <lb ed="#B" n="3"/>¶ Ex praesenti autem distin. de mente 
+      <lb ed="#B" n="4"/>magistri tres capiuntur coclusiones 
+      </p>
+               <p xml:id="WuV37d-f51993-d1e1299">
+                  <lb ed="#B" n="5"/>¶ Prima conclusio. Sacramenta pia in 
+      <lb ed="#B" n="6"/>nati criminis palam remedia dat fons 
+      re<lb ed="#B" n="7" break="no"/>giminis. Dicit conclusio quod fons totius 
+      bo<lb ed="#B" n="8" break="no"/>ni deus dat sacramenta contra peccatum 
+      <lb ed="#B" n="9"/>originale. Et ponitur a principio vsque ibi 
+      <lb ed="#B" n="10"/>Iam videre restat differentiam etc.
+</p>
+               <p xml:id="WuV37d-f51993-d1e1315">
+¶ 
+      Se<lb ed="#B" n="11" break="no"/>cunda conclusio. Ex lege veteri ornant 
+      sa<lb ed="#B" n="12" break="no"/>cramenta: sed grato federi nostra sunt 
+      at<lb ed="#B" n="13" break="no"/>tenta. Dicit conclusio quod sacramenta 
+      vete<lb ed="#B" n="14" break="no"/>ris legis differunt ab his noue legis: quia 
+      il<lb ed="#B" n="15" break="no"/>la solum signant: ista signant et efficiunt: quia 
+      iun<lb ed="#B" n="16" break="no"/>gunt grato federi id est amori. Et ponitur ab 
+      il<lb ed="#B" n="17" break="no"/>lo loco. Iam videri etc. vsque ibi. Fuit tamen 
+      in<lb ed="#B" n="18" break="no"/>ter illa etc.
+</p>
+               <p xml:id="WuV37d-f51993-d1e1335">
+¶ Tertia conclusio. Circuncisione 
+      <lb ed="#B" n="19"/>crimen mundabatur vt ablutione et vita daba 
+      <lb ed="#B" n="20"/>tur. Dicit conclusio quod in circuncisione sicut in 
+      <lb ed="#B" n="21"/>baptismo culpa originalis tollebatur et 
+      gra<lb ed="#B" n="22" break="no"/>tia conferebatur. Et ponitur ab illo loco 
+      <lb ed="#B" n="23"/>Fuit tamen inter etc. vsque ad finem distin. 
+</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

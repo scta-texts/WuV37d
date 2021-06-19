@@ -1,0 +1,727 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 37</title>
+            <author ref="#WilliamDeVaurouillon">William de Vaurouillon</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 37</title>
+               <date when="2021-06-19">June 19, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-bvbVBV">Basel 1510</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-06-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="320-v"/>
+            <cb ed="#B" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="WuV37d-f48987"><!-- l3d37 -->
+            <head xml:id="WuV37d-f48987-Hd1e108">Distinctio 37</head>
+            <div xml:id="WuV37d-f48987-Dd1e111" type="circa-textum">
+               <head xml:id="WuV37d-f48987-Hd1e113">Circa textum</head>
+               <p xml:id="WuV37d-f48987-d1e116">
+      <!--658.xml-->
+                  <pb ed="#B" n="321-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>Distinctio. 37. huius terrii in quae magister 
+      <lb ed="#B" n="2"/>agit de praeceptis decalogi. 
+      <lb ed="#B" n="3"/>Ed iam 
+      distri<lb ed="#B" n="4" break="no"/>butio decalogi quae in 
+      <lb ed="#B" n="5"/>duobus madatis co 
+      <lb ed="#B" n="6"/>pletur etc. Hic signatur 
+      <lb ed="#B" n="7"/>37. dist. huius tertii: quae sic 
+      <lb ed="#B" n="8"/>continuatur ad praecedentes. Nam postquam a. 23. 
+      <lb ed="#B" n="9"/>dist. inclusiue: vsque ad. 36. exclusiue: de do 
+      <lb ed="#B" n="10"/>nis et virtutibus sigillatim fuit habita con 
+      <lb ed="#B" n="11"/>sideratio: et secundo in. 36. distin. de earum 
+      <lb ed="#B" n="12"/>complexibus et nexu facta est 
+      inquisitio<lb ed="#B" n="13" break="no"/>Nunc tertio incipit de dei praeceptis et ius 
+      <lb ed="#B" n="14"/>sionibus fieri indagatio. Et habet 
+      diui<lb ed="#B" n="15" break="no"/>di praesens pars in tres partes 
+      principa<lb ed="#B" n="16" break="no"/>les. In prima praecepta notantur quae 
+      ta<lb ed="#B" n="17" break="no"/>bulae extant primariae. In secunda 
+      manda<lb ed="#B" n="18" break="no"/>ta signantur tabulae quae sunt secundariae. 
+      <lb ed="#B" n="19"/>In tertia culpae declarantur ad 
+      precepta<lb ed="#B" n="20" break="no"/>quae sunt varie. Prima in principio. Se 
+      <lb ed="#B" n="21"/>cunda ibi. In secunda vero tabula septem 
+      <lb ed="#B" n="22"/>etc. Tertia distinctio. 36. Sciendum est 
+      ta<lb ed="#B" n="23" break="no"/>men tria esse etc. Caeteris omissis pro 
+      prae<lb ed="#B" n="24" break="no"/>senti distinctione diuisionibus decalogi iu 
+      <lb ed="#B" n="25"/>xta mandata quae sunt tria in prima tabu 
+      <lb ed="#B" n="26"/>la: septem in secunda quarum in praesenti dist. 
+      <lb ed="#B" n="27"/>exequitur sufficiat iam facta diuisio pro 
+      te<lb ed="#B" n="28" break="no"/>xtu praesentis distin. Circa quam etc.
+    </p>
+            </div>
+            <div xml:id="WuV37d-f48987-Dd1e187">
+               <head xml:id="WuV37d-f48987-Hd1e189">Quaestio</head>
+               <p xml:id="WuV37d-f48987-d1e192">
+                  <lb ed="#B" n="29"/>Questio haec determinat quomodo 
+      prae<lb ed="#B" n="30" break="no"/>cepta vtriusque tabulae ordinatur ad le 
+      <lb ed="#B" n="31"/>ge nature et quo ad ea obligamur et 
+      <lb ed="#B" n="32"/>habetur a sco. in praesnti dist. q. vnica 
+      <lb ed="#B" n="33"/>rUtrum 
+      mandata<lb ed="#B" n="34" break="no"/>decalogi binariis contenta 
+      ta<lb ed="#B" n="35"/> bulis: lege censeantur naturae. Et 
+      <lb ed="#B" n="36"/>arguitur quod non triplici medio.
+</p>
+               <p xml:id="WuV37d-f48987-d1e212">
+¶ Primo sic 
+      <lb ed="#B" n="37"/>Nulla legis naturae mandata a deo sunt dis 
+      <lb ed="#B" n="38"/>pensabilia: sed in praeceptis decalogi fuit a 
+      <lb ed="#B" n="39"/>deo facta dispensatio. igitur. Maior pa 
+      <lb ed="#B" n="40"/>tet: ea enim quae legis sunt / naturae aut practi 
+      <lb ed="#B" n="41"/>ca sunt principia euidentiam habentia ex terminis 
+      <lb ed="#B" n="42"/>aut sunt illate conclusiones necessario ex 
+      <lb ed="#B" n="43"/>talibus principiis: siue sic siue sic: talia ex 
+      <lb ed="#B" n="44"/>tant necessario habentia veritatem: et ita 
+      <lb ed="#B" n="45"/>nequeunt immutari. Sed probatur minor 
+      <lb ed="#B" n="46"/>non occidere hominem est praeceptum deca¬ 
+      <!--658.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="47"/>logi: similiter non furari: pariformiter non 
+      <lb ed="#B" n="48"/>mechari. In primo tamen in abraam 
+      dispensa<lb ed="#B" n="49" break="no"/>uit deus in suo filio immolando. In secundo 
+      <lb ed="#B" n="50"/>vbi dictum est hebreis quod mutuarentur vasa ab 
+      <lb ed="#B" n="51"/>egiptiis: et eis insciis asportarent. In 
+      ter<lb ed="#B" n="52" break="no"/>tio dictum est. Accipe vxorem fornicariam etc.  
+      </p>
+               <p xml:id="WuV37d-f48987-d1e254">
+                  <lb ed="#B" n="53"/>¶ Secundo arguitur sic. Omne quod extat 
+      le<lb ed="#B" n="54" break="no"/>gi pertinens naturae menti extat notum humanae: 
+      <lb ed="#B" n="55"/>secluso alio praecepto. Sed praecepta quae 
+      <lb ed="#B" n="56"/>in decalogo continentur: aut in toto aut in 
+      <lb ed="#B" n="57"/>parte non erant nota ante prolatum 
+      man<lb ed="#B" n="58" break="no"/>datum. igitur. Maior patet ex illo quod ha 
+      <lb ed="#B" n="59"/>betur. Cum gentes quae legem non habent 
+      <lb ed="#B" n="60"/>ea quae sunt legis faciunt ipsi sibi sunt lex: 
+      <lb ed="#B" n="61"/>habent enim opus legis scriptum in 
+      cordi<lb ed="#B" n="62" break="no"/>bus suis. Sed probatur minor de 
+      manda<lb ed="#B" n="63" break="no"/>to concupiscentiae. Dicit enim apostolus. 
+      Concu<lb ed="#B" n="64" break="no"/>piscentiam nesciebam nisi lex dixisset: Non 
+      <lb ed="#B" n="65"/>concupisces.
+</p>
+               <p xml:id="WuV37d-f48987-d1e285">
+¶ Tertio arguitur sic. Quic 
+      <lb ed="#B" n="66"/>quid ad legem pertinet naturae: pro omni 
+      obli<lb ed="#B" n="67" break="no"/>gat statu: sed non omnia praecepta 
+      decalo<lb ed="#B" n="68" break="no"/>gi in quocumque obligauerunt statu. igitur. 
+      <lb ed="#B" n="69"/>Maior patet ex descriptione quam marcus 
+      <lb ed="#B" n="70"/>tullius iuri assignat naturae in antiqua 
+      rhe<lb ed="#B" n="71" break="no"/>torica. Ius naturae est non quod opinio 
+      ge<lb ed="#B" n="72" break="no"/>nuit: sed innata vis inseruit: et ita quemlibet 
+      <lb ed="#B" n="73"/>aspicit statum. Sed probatur minor ex eo 
+      <lb ed="#B" n="74"/>quod decalogus non fuit promulgatus in 
+      sta<lb ed="#B" n="75" break="no"/>tu innocentie nec post: vt videtur vsque ad 
+      <lb ed="#B" n="76"/>tempus moysi: lex autem non obligat 
+      vsque<lb ed="#B" n="77" break="no"/>quo promulgetur: vt habetur in decretis. 
+      di<lb ed="#B" n="78" break="no"/>stin. 4. 9. Leges instituuntur.
+</p>
+               <p xml:id="WuV37d-f48987-d1e317">
+¶ In 
+      opposi<lb ed="#B" n="79" break="no"/>tum vero arguitur auctoritate. Mandatum i 
+      <lb ed="#B" n="80"/>antiquum non nouum do vobis: quod habuistis 
+      <lb ed="#B" n="81"/>ab initio et ita ab exordio humanae institu 
+      <lb ed="#B" n="82"/>tionis fuerunt decalogi praecepta. Item potest 
+      <lb ed="#B" n="83"/>trahi ex decretis. dist. 6. ca. Quo iure 
+      de<lb ed="#B" n="84" break="no"/>fendis ecclesiam 
+      </p>
+               <p xml:id="WuV37d-f48987-d1e333">
+                  <lb ed="#B" n="85"/>¶ In ista quaestione sunt tres articli declarandi 
+      <lb ed="#B" n="86"/>Primus est terminorum declaratiuus 
+      <lb ed="#B" n="87"/>Quorum Secundus est quaestionis responsiuus. 
+      </p>
+               <p xml:id="WuV37d-f48987-d1e342">
+                  <lb ed="#B" n="88"/>¶ Tertius est terminorum motiuus. 
+      </p>
+               <p xml:id="WuV37d-f48987-d1e347">
+                  <lb ed="#B" n="89"/>¶ Quantum ad primum articu 
+      <lb ed="#B" n="90"/>lum ter 
+      <lb ed="#B" n="91"/>mini sunt Mandatum: decalogus et tabu 
+      <lb ed="#B" n="92"/>lae binariae.
+</p>
+               <p xml:id="WuV37d-f48987-d1e358">
+¶ Primus igitur terminus est i 
+      <lb ed="#B" n="93"/>mandatum quasi manu datum secundum Isido. in i 
+      <lb ed="#B" n="94"/>ethio. Unde notandum quod de vi vocabuli ista 
+      <lb ed="#B" n="95"/>tria differunt. mandatum praeceptum et probibi¬ 
+      <!--659.xml-->
+      <pb ed="#B" n="321-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>tio. Mandatum enim est commune tam ad praeceptum 
+      <lb ed="#B" n="2"/>quam ad probibitionem. vnde et omne praeceptum est manda 
+      <lb ed="#B" n="3"/>tum: et prohibitio omnis mandatum: non tamen econtra. 
+      <lb ed="#B" n="4"/>Praeceptum enim solum se extendit ad mandata 
+      <lb ed="#B" n="5"/>affirmatiua: vt est honor parentum: et sabba 
+      <lb ed="#B" n="6"/>ti sanctificatio. Prohibitio autem solum ad  
+      <lb ed="#B" n="7"/>mandata negatiua: vt est non occides: non 
+      <lb ed="#B" n="8"/>mechaberis: vt patet in differa posita in 
+      si<lb ed="#B" n="9" break="no"/>gnis diuinae voluntatis: inter 
+      prohibitio<lb ed="#B" n="10" break="no"/>nem et praeceptum quae habentur hoc metro. 
+      Prae<lb ed="#B" n="11" break="no"/>cipit et prohibet: permittit consulit implet. 
+      <lb ed="#B" n="12"/>Mandatum autem est tam de affirmatiuo 
+      <lb ed="#B" n="13"/>quam negatiuo: nisi extenderetur nomen 
+      praece<lb ed="#B" n="14" break="no"/>pti: quia aliquando sumus soliti dicere decen 
+      <lb ed="#B" n="15"/>praecepta decalogi: sed sic modo non fit ser 
+      <lb ed="#B" n="16"/>mo.
+</p>
+               <p xml:id="WuV37d-f48987-d1e408">
+¶ Secundus terminus est decalo 
+      <lb ed="#B" n="17"/>gus. a decas quod est decem: et logos sermo 
+      <lb ed="#B" n="18"/>quasi sermo decem verborum: seu mandatorum 
+      <lb ed="#B" n="19"/>quae hoc modo distinguuntur: vt notat doc. de 
+      <lb ed="#B" n="20"/>uotus arti. 2. q. 1. tria enim ordinant ad de 
+      <lb ed="#B" n="21"/>um: et septem ad proximum. Sufficientia autem 
+      <lb ed="#B" n="22"/>mandatorum ad deum ordinantium sumitur 
+      <lb ed="#B" n="23"/>tripliciter. Primo ratione obiecti: deo enim 
+      <lb ed="#B" n="24"/>debemus reuerentiam ratione maiestatis:  
+      <lb ed="#B" n="25"/>quae patri appropriatur: de qua est primum prae 
+      <lb ed="#B" n="26"/>ceptum. Non adorabis deos alienos. Se 
+      <lb ed="#B" n="27"/>cundo veritatem: quae filio appropriatur: de qua 
+      <lb ed="#B" n="28"/>est secundum praeceptum. Non assumes no 
+      <lb ed="#B" n="29"/>men dei tui in vanum. Tertio bonitatem: quae 
+      <lb ed="#B" n="30"/>appropriatur sanctospiritui: de qua est ter 
+      <lb ed="#B" n="31"/>tium praeceptum. Hemento vt diem sabbati 
+      <lb ed="#B" n="32"/>sanctifices. Secundo sumitur sufficientia ra 
+      <lb ed="#B" n="33"/>tione subiacti: in nobis enim sunt tres potentiae: 
+      <lb ed="#B" n="34"/>scilicet irascibilis quae tendit in arduum: et deo 
+      <lb ed="#B" n="35"/>reddit bonorem: iuxta primum praeceptum. 
+      <lb ed="#B" n="36"/>Rationalis quae tendit in veritatem iuxta 
+      <lb ed="#B" n="37"/>secundum. Concupiscibilis quae tendit in amo 
+      <lb ed="#B" n="38"/>rem et puritatem: iuxta tertium: quia dicitur: 
+      <lb ed="#B" n="39"/>sanctifices. Tertio sumitur sufficientia 
+      ratio<lb ed="#B" n="40" break="no"/>ne medii actus scilicet quia triplex est actus in 
+      no<lb ed="#B" n="41" break="no"/>bis scilicet operis: respectu primi mandati in 
+      <lb ed="#B" n="42"/>latria. Oris respectu secundi ne sumatur 
+      <lb ed="#B" n="43"/>nomen dei falso. Cordis respectu tertii. 
+      <lb ed="#B" n="44"/>Rursus sufficientia in septem mandatis 
+      <lb ed="#B" n="45"/>ad proximum ordinantibus sumitur tripliciter 
+      <lb ed="#B" n="46"/>Primo ratione obiecti: in proximo enim ali 
+      <lb ed="#B" n="47"/>quando relucet pater diuinus: et sic est il 
+      <lb ed="#B" n="48"/>lud mandatum: bonora patrem tuum etc. Se 
+      <lb ed="#B" n="49"/>cundo in eo relucet dei filius cui appro¬ 
+      <!--659.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>priatur veritas: et sic est illud. Non loqua 
+      <lb ed="#B" n="51"/>ris contra proximum tuum etc. Tertio in eo re 
+      <lb ed="#B" n="52"/>lucet spiritus sanctus cui attribuitur innocentia 
+      <lb ed="#B" n="53"/>nocemus enim proximo. Aliquando in propria 
+      <lb ed="#B" n="54"/>persona: contra quod est: non occides. Aliquand 
+      <lb ed="#B" n="55"/>in persona coniuncta: contra quod est: non me 
+      <lb ed="#B" n="56"/>chaberis. Aliquando in bonis fortunae: con 
+      <lb ed="#B" n="57"/>tra quod est: non furtum facies. Aliquando solo 
+      <lb ed="#B" n="58"/>motu animi seu in personam coniunctam seu 
+      <lb ed="#B" n="59"/>fortune bona: contra quae sunt duo vltima 
+      <lb ed="#B" n="60"/>mandata de concupiscentia: non concupisces. 
+      <lb ed="#B" n="61"/>etc. Secundo sumitur sufficientia respectu 
+      sub<lb ed="#B" n="62" break="no"/>iecti trium. scilicet animae potentiarum. Ratione enim 
+      ira<lb ed="#B" n="63" break="no"/>scibilis habet homo ordinari ad superiorem per 
+      <lb ed="#B" n="64"/>reuerentiam: et sic est illud: bonora patrem 
+      <lb ed="#B" n="65"/>etc. Et per pacem ad quemlibet: et sic est illud  
+      <lb ed="#B" n="66"/>non occides. Ratione vero rationalis 
+      ordi<lb ed="#B" n="67" break="no"/>natur homo ad proximum respectu 
+      verita<lb ed="#B" n="68" break="no"/>tis: ideo dicitur: Non falsum testimonium 
+      <lb ed="#B" n="69"/>dices. Ratione vero concupiscibilis 
+      ordina<lb ed="#B" n="70" break="no"/>tur ne inordinate appetat quae sunt proximi 
+      <lb ed="#B" n="71"/>vel actu exteriori: et sunt duo mandata de 
+      <lb ed="#B" n="72"/>furto scilicet et mechia: vel interiori: et sunt duo 
+      <lb ed="#B" n="73"/>alia scilicet de non concupiscere nec vxorem: nec 
+      <lb ed="#B" n="74"/>bona. Tertio sumitur sufficientia ex 
+      par<lb ed="#B" n="75" break="no"/>te actus: si enim sit actus beneficentiae est 
+      man<lb ed="#B" n="76" break="no"/>datum de honore parentum: si sit actus 
+      in<lb ed="#B" n="77" break="no"/>nocentiae tripliciter est: si enim sit actus 
+      ope<lb ed="#B" n="78" break="no"/>ris: aut quo ad esse proximi: sic est illud: non 
+      <lb ed="#B" n="79"/>occides: aut secundo contra debitam conserua 
+      <lb ed="#B" n="80"/>tionem speciei: sic est illud: non mechaberis. 
+      <lb ed="#B" n="81"/>aut tertio contra possessionem: sic non 
+      fur<lb ed="#B" n="82" break="no"/>tum facies. Secundo si actus sit oris: sic 
+      <lb ed="#B" n="83"/>est de falso in proximum testimonio. Tertio 
+      <lb ed="#B" n="84"/>si actus sit cordis. sic duo sunt de non 
+      com<lb ed="#B" n="85" break="no"/>cupiscentia: nec in vxorem nec bona.
+</p>
+               <p xml:id="WuV37d-f48987-d1e565">
+¶ Ter hoc 
+      <lb ed="#B" n="86"/>tius terminus est hinarie tabulae. Unde in 
+      <lb ed="#B" n="87"/>notandum quod tripliciter solent in bomine 
+      ta<lb ed="#B" n="88" break="no"/>bulae assignari. Primo vt vnica sit tabula 
+      <lb ed="#B" n="89"/>viae ad patriam: et haec nominatur gratia qua in 
+      <lb ed="#B" n="90"/>caelum deportamur. Secundo vt secundum varie 
+      <lb ed="#B" n="91"/>tatem statuum triplex assignetur. Et sic 
+      pri<lb ed="#B" n="92" break="no"/>ma dicitur tabula innocentiae: et accipitur 
+      <lb ed="#B" n="93"/>in sacramento baptismi. Secunda dicitur 
+      <lb ed="#B" n="94"/>tabula poenitentiae quae sumitur in illo 
+      sacramen<lb ed="#B" n="95" break="no"/>to: et dicitur a Hieronymo secunda tabula 
+      <lb ed="#B" n="96"/>post naufragium. Tertia dicitur tabula extre 
+      <lb ed="#B" n="97"/>me vnctionis: quae illo capitur sacramento 
+      <lb ed="#B" n="98"/>quo mediantae tuti ad caelum leuemur. In me¬ 
+      <!--660.xml-->
+      <pb ed="#B" n="322-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>dio harum sunt bine tabulae mandatorum dei 
+      <lb ed="#B" n="2"/>quae secundum triplicem opinionem sic distinguuntur: 
+      <lb ed="#B" n="3"/>quarum quaelibet est vera. Iosephus enim dicit 
+      <lb ed="#B" n="4"/>quod in qualibet tabula erant quinque manda 
+      <lb ed="#B" n="5"/>ta: duo cum dimidio a parte vna tabulae: et 
+      <lb ed="#B" n="6"/>duo cum alio dimidio a parte alia. Ita quod in 
+      <lb ed="#B" n="7"/>prima tabula erant tria praecepta 
+      ordinan<lb ed="#B" n="8" break="no"/>tia ad deum: et duo ad proximum. In 
+      secun<lb ed="#B" n="9" break="no"/>da autem tabula erant reliqua quinque: eodemus 
+      <lb ed="#B" n="10"/>modo sicut in prima disposita: et hic est mo 
+      <lb ed="#B" n="11"/>dus litteralis: quia sic fuerunt scripta in ta 
+      <lb ed="#B" n="12"/>bulis. Secunda opinio est origenis dicen 
+      <lb ed="#B" n="13"/>tis: quod prima tabula est respectu dei: secun 
+      <lb ed="#B" n="14"/>da tabula respectu proximi. In prima autem 
+      <lb ed="#B" n="15"/>tabula ponit quattuor mandata: quia 
+      pri<lb ed="#B" n="16" break="no"/>mum diuidit in duo: scilicet adorationem dei: dum 
+      <lb ed="#B" n="17"/>dicitur. Ego sum dominus deus tuus. Et fugan 
+      <lb ed="#B" n="18"/>idolatrie: dum dicitur. Non facies tibi 
+      scul<lb ed="#B" n="19" break="no"/>ptile. In secunda autem tabula non ponit 
+      ni<lb ed="#B" n="20" break="no"/>si sex: quia vnum dicit esse de 
+      prohibitio<lb ed="#B" n="21" break="no"/>ne tam concupiscentiae vxoris alienae quam 
+      bo<lb ed="#B" n="22" break="no"/>norum eius. Et patet quod haec opinio est 
+      pro<lb ed="#B" n="23" break="no"/>babilis. Tertia opino est Aug. et 
+      parifor<lb ed="#B" n="24" break="no"/>miter ponit primam tabulam in ordine ad 
+      <lb ed="#B" n="25"/>deum: secundam in ordine ad proximum: 
+      <lb ed="#B" n="26"/>sed solum in prima tabula ponit tria 
+      prae<lb ed="#B" n="27" break="no"/>cepta in secunda septem: vt potest pate 
+      <lb ed="#B" n="28"/>re ex secundo termino: et haec est opinio modo 
+      <lb ed="#B" n="29"/>communior: quamuis haee due vltime a prima differant 
+      <lb ed="#B" n="30"/>sicut misticum a listrali. 
+      <lb ed="#B" n="31"/>Quo ad secundum articulum sunt 
+      <lb ed="#B" n="32"/>tres conclusioes 
+      <lb ed="#B" n="33"/>etc. Prima est de mandatorum huiusmodi 
+      obli<lb ed="#B" n="34" break="no"/>gatione respectu nostri. Secunda est de eorum 
+      <lb ed="#B" n="35"/>ordine et numero adinuicem. Tertia est de 
+      co<lb ed="#B" n="36" break="no"/>aratione eorum ad legen naturae.
+</p>
+               <p xml:id="WuV37d-f48987-d1e680">
+¶ Prima est 
+      <lb ed="#B" n="37"/>haec. Diuina sapienia huiusmodi decalogi 
+      manda<lb ed="#B" n="38" break="no"/>ta disposuit licet non obliget vt 
+      complean<lb ed="#B" n="39" break="no"/>tur charitate. Dicit prima pars conclusiois: 
+      <lb ed="#B" n="40"/>quod diuina sapientia huiusmodi decenter disposuit 
+      <lb ed="#B" n="41"/>mandata decalogi. Probatur. Si enim cuncta 
+      <lb ed="#B" n="42"/>creata caetera legibus reguntur a deo sibi 
+      col<lb ed="#B" n="43" break="no"/>latis. vtique rationabile valde apparebat: 
+      <lb ed="#B" n="44"/>vt homo legi subiiceretur diuinae: non iam 
+      <lb ed="#B" n="45"/>cripto mentali: quod peccatum infecerat: sed  
+      <lb ed="#B" n="46"/>exteriori: vt iugis dei il eo esset memoria 
+      <lb ed="#B" n="47"/>et decor seruaretur iusticiae: et pacis amor: vt 
+      <lb ed="#B" n="48"/>ex his mandatis cuilibet quod debet homo 
+      <lb ed="#B" n="49"/>tribueret: peo reuerentiam vt summo pa 
+      <!--660.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>tri: aliisque secundum quod immaginem vel exemplum 
+      fe<lb ed="#B" n="51" break="no"/>runt dei: proximo amorem: nulli iniuriam: 
+      <lb ed="#B" n="52"/>secundum quod in digestis tria tanguntur 
+      precepta<lb ed="#B" n="53" break="no"/>iusticiae. ff. de iusti. et iure. Primum est bone 
+      <lb ed="#B" n="54"/>ste viuere: secundum neminem ledere. tertium 
+      <lb ed="#B" n="55"/>vnicuique quod suum est tribuere. His enim mam 
+      <lb ed="#B" n="56"/>datis dominus deus in suis subditis debitum 
+      <lb ed="#B" n="57"/>locat ordinem: et debitum sibi seruitium petit: 
+      <lb ed="#B" n="58"/>nosque excitat ad meritum vt implendo quod 
+      <lb ed="#B" n="59"/>iubet in caelis praemiemur. Et si obiiciatur 
+      <lb ed="#B" n="60"/>quia dicit apostolus. Peccatum occasione 
+      acce<lb ed="#B" n="61" break="no"/>pta per mandatum operatum est in me omnem 
+      <lb ed="#B" n="62"/>concupiscentiam. Et super illud quod dicit apostolus. 
+      <lb ed="#B" n="63"/>Uirtus vero peccati lex. dicit glosa. Lex 
+      <lb ed="#B" n="64"/>prohibendo auget peccati cupiditatem: cum 
+      <lb ed="#B" n="65"/>ergo deus non sit causa peccati: videtur quod 
+      <lb ed="#B" n="66"/>non debuit dare mandata. Dicendum quod 
+      <lb ed="#B" n="67"/>lex aut dei mandatum de se ad malum non 
+      <lb ed="#B" n="68"/>ordinabat. Lex enim sancta: et mandatum 
+      <lb ed="#B" n="69"/>sanctum: sed hoc peruersitas faciebat ho 
+      <lb ed="#B" n="70"/>minum: quai in vetitum veniunt: ideo auctoritas 
+      <lb ed="#B" n="71"/>prima non dicit causa: sed occasione 
+      acce<lb ed="#B" n="72" break="no"/>pta. et propter hoc nihil sequitur si enim 
+      <lb ed="#B" n="73"/>ex hoc verbo: Pater maior me est: 
+      erra<lb ed="#B" n="74" break="no"/>uit arrius credens filium patre minorem 
+      <lb ed="#B" n="75"/>lon ideo de euangelio tollendum est: sic 
+      <lb ed="#B" n="76"/>in proposito: nec illud obuiat Augustini 
+      <lb ed="#B" n="77"/>super Sen. ad litteram. Meliores 
+      iudi<lb ed="#B" n="78" break="no"/>cauit homines si ei liberaliter deseruirent: 
+      <lb ed="#B" n="79"/>non enim cogit nos deus sua per 
+      prece<lb ed="#B" n="80" break="no"/>pta: vt liberum tollat arbitrium: sed ad  
+      <lb ed="#B" n="81"/>psum nos conuertit et aufert peccandi 
+      <lb ed="#B" n="82"/>quantum in se est libertatem: vt liberi 
+      pec<lb ed="#B" n="83" break="no"/>cato: serui simus iusticiae: vt iam non onus 
+      <lb ed="#B" n="84"/>sed adiutorium veniendi ad caelum 
+      cense<lb ed="#B" n="85" break="no"/>antur. Sed dicit secunda pars conclusio 
+      <lb ed="#B" n="86"/>nis: quod non obligamur implere ex charita 
+      <lb ed="#B" n="87"/>te huiusmodi praecepta sub poena scilicet 
+      pec<lb ed="#B" n="88" break="no"/>cati mortalis. Probatur. aliquis enim filius 
+      <lb ed="#B" n="89"/>in peccato existens mortali: motus pieta 
+      <lb ed="#B" n="90"/>te naturali suos veneratur parentes: 
+      cer<lb ed="#B" n="91" break="no"/>tum est quod mandatum de bonore parentum 
+      <lb ed="#B" n="92"/>non implet ex charitate: nec tamen 
+      pec<lb ed="#B" n="93" break="no"/>cat mortaliter. Caeterum si mandata 
+      im<lb ed="#B" n="94" break="no"/>plere ex charitate teneremur: teneremur 
+      <lb ed="#B" n="95"/>et ad id quod ad hoc faciendum de necessita 
+      <lb ed="#B" n="96"/>te est annexum: huiusmodi est gratia: et cha 
+      <lb ed="#B" n="97"/>ritas et ita tam vigilando quam dormiendo tene 
+      <lb ed="#B" n="98"/>remur habere charitatem: et ita infini¬ 
+      <!--661.xml-->
+      <pb ed="#B" n="322-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>ties in die peccaremus: si charitate 
+      care<lb ed="#B" n="2" break="no"/>remus quod est manifesie falsum: rursus 
+      ne<lb ed="#B" n="3" break="no"/>mo sciret vtrum impleret mandata dei vel 
+      <lb ed="#B" n="4"/>non: quia nescit homo vtrum odio vel amo 
+      <lb ed="#B" n="5"/>re dignus sit. Ideo bene dicit Aug. et ha 
+      <lb ed="#B" n="6"/>betur in glosa super illo verbo. Declina 
+      <lb ed="#B" n="7"/>a malo et fac bonum. Decliare a malo 
+      sem<lb ed="#B" n="8" break="no"/>per vitat paenam: quamuis non semper prome 
+      <lb ed="#B" n="9"/>reatur palmam. Ex quo clare infertur quod 
+      <lb ed="#B" n="10"/>licet possimus implere mandata dei sine 
+      <lb ed="#B" n="11"/>charitate: non tamenvt prosint nobis ad  
+      <lb ed="#B" n="12"/>gloriam: hoc enim modo non solum est 
+      im<lb ed="#B" n="13" break="no"/>plendum quod iubet legislator deus: sed in 
+      <lb ed="#B" n="14"/>tentione qua iubet ex charitate ideo 
+      scri<lb ed="#B" n="15" break="no"/>bitur. Iuste quod iustum est persequeris: 
+      <lb ed="#B" n="16"/>vt iustum sit opus iustus modus operandi. 
+      <lb ed="#B" n="17"/>Et. Si vis ad vitam ingredi serua 
+      man<lb ed="#B" n="18" break="no"/>data scilicet ex charitate: Hoc enim modo ex prae 
+      <lb ed="#B" n="19"/>cedenti distinctione dicta sunt haec dece: 
+      <lb ed="#B" n="20"/>mandata ad duo reduci praecepta charita 
+      <lb ed="#B" n="21"/>tis dilectionem dei scilicet et proximi. Ex quo 
+      pa<lb ed="#B" n="22" break="no"/>tet quod deformatio in actu non est immedi 
+      <lb ed="#B" n="23"/>ate opposita informationi actus ex chari 
+      <lb ed="#B" n="24"/>tate: est nempe medium scilicet bonum ex gene 
+      <lb ed="#B" n="25"/>re et morali circunstantia quod haberet 
+      man<lb ed="#B" n="26" break="no"/>dati impletio sine charitate.
+</p>
+               <p xml:id="WuV37d-f48987-d1e884">
+¶ 
+      Secun<lb ed="#B" n="27" break="no"/>da conclusio est omne ordine mandatorum 
+      <lb ed="#B" n="28"/>dei et eorum numero: et est haec. Recte de 
+      <lb ed="#B" n="29"/>calogus duabus ordinatur tabulis: dena 
+      <lb ed="#B" n="30"/>rioque completur numero. Dicit prima pars 
+      <lb ed="#B" n="31"/>conclusionis: quod recte ordinatur decalog 
+      <lb ed="#B" n="32"/>in duabus tabulis. Probatur. Illa manda 
+      <lb ed="#B" n="33"/>ta debite ordinantur: quae secundum regulam fidei 
+      <lb ed="#B" n="34"/>ordinantur et iusticiae: ita sunt haec. igitur. 
+      <lb ed="#B" n="35"/>Probatur minor. Primo de regula fidei 
+      <lb ed="#B" n="36"/>ordinat enim vt primo ad deum: secundo 
+      <lb ed="#B" n="37"/>ad proximum nos habeamus: vt ad deum 
+      <lb ed="#B" n="38"/>primo in reuerentia respectu primi 
+      man<lb ed="#B" n="39" break="no"/>dati appropriati patri. Secundo ne ei a 
+      <lb ed="#B" n="40"/>nobis fiat iniuria respectu secundi appro 
+      <lb ed="#B" n="41"/>priati filio: Tertio in sanctificatione 
+      respe<lb ed="#B" n="42" break="no"/>ctu tertii appropriati spiritui sancto. Et hoc 
+      com<lb ed="#B" n="43" break="no"/>grue: quia pater a nullo: filius a patre solo. spiritus 
+      <lb ed="#B" n="44"/>sanctus ab vtroque. Ita quo ad proximum in 
+      <lb ed="#B" n="45"/>quantum habet ad deum conformitatem respe 
+      <lb ed="#B" n="46"/>ctu patris est quartum praeceptum bonor scilicet parem 
+      <lb ed="#B" n="47"/>tum: respectu filii sequentia quattuor praecepta 
+      <lb ed="#B" n="48"/>de adulterino: homicidio: furto: falso 
+      testi<lb ed="#B" n="49" break="no"/>monio: quia nobis est effectus in natura con¬ 
+      <!--661.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>similis: ideo iniuria nostra in eum vertitur ap 
+      <lb ed="#B" n="51"/>propriate: caro enim et frater noster est: 
+      re<lb ed="#B" n="52" break="no"/>spectu spiritus sancti cui appropriatur 
+      sanctifica<lb ed="#B" n="53" break="no"/>tio sunt duo de non concupiscere 
+      manda<lb ed="#B" n="54" break="no"/>ta et ita rectus ordo patet quo ad fidem. 
+      <lb ed="#B" n="55"/>Sed probatur minor eadem ex parte iusticiae 
+      <lb ed="#B" n="56"/>magis quippe obligamur deo quam proximo 
+      <lb ed="#B" n="57"/>ideo mandata respectu dei praecedunt pri 
+      <lb ed="#B" n="58"/>mo in opere ad quod magis obligamur ne 
+      <lb ed="#B" n="59"/>scilicet idolatre simus. secundo in verbo ad  
+      <lb ed="#B" n="60"/>quod postea plus: tertio in corde in tertio prae 
+      <lb ed="#B" n="61"/>cepto. Rursus quia plus est benefacere 
+      <lb ed="#B" n="62"/>quam non nocere: ideo praeponitur mandatum 
+      <lb ed="#B" n="63"/>de honore parentum: maius est nocere 
+      ite<lb ed="#B" n="64" break="no"/>rum in propria persona quam coniuncta: ma 
+      <lb ed="#B" n="65"/>gis furto quam falso testimonio: ideo sic 
+      ordi<lb ed="#B" n="66" break="no"/>nantur: sicut est maior concupiscentia respectu 
+      <lb ed="#B" n="67"/>vxoris quam boni temporalis: et ita tam fides 
+      <lb ed="#B" n="68"/>quam iusticia hunc ordinem debite poni arguunt 
+      <lb ed="#B" n="69"/>vnde licet per visibilia ad inuisibilia dei ascen 
+      <lb ed="#B" n="70"/>damus: tamen prior debet in nobis esse in 
+      <lb ed="#B" n="71"/>tentione amor dei quam proximi. Nec 
+      obui<lb ed="#B" n="72" break="no"/>at quod prior sit actus cordis quam operis. Et 
+      <lb ed="#B" n="73"/>ita videtur quod tertium mandatum deberet 
+      <lb ed="#B" n="74"/>poni primum: quia legissator deus plus 
+      in<lb ed="#B" n="75" break="no"/>tendit maioritatem actus quam originem:. plus 
+      <lb ed="#B" n="76"/>autem est peccare opere quam corde solum. Ex 
+      <lb ed="#B" n="77"/>eodem patet quod licet rationalis sit prior 
+      <lb ed="#B" n="78"/>lrascibili: nihil autem prohibet quo ad quid 
+      <lb ed="#B" n="79"/>irascibilis mandata: praecedere mandata 
+      <lb ed="#B" n="80"/>quae aspicit rationalis: sicut fit in prima 
+      ta<lb ed="#B" n="81" break="no"/>bula: in primo et secundo mandato: et in 
+      <lb ed="#B" n="82"/>secunda de homicidio et falso testimonio 
+      <lb ed="#B" n="83"/>ratione. scilicet maioritatis peccati. Et si 
+      dica<lb ed="#B" n="84" break="no"/>tur quia positio est ante negationem: et ita 
+      <lb ed="#B" n="85"/>mandatum tertium: quod est affirmatiuum 
+      <lb ed="#B" n="86"/>debuit poni primum non illud quod 
+      assigna<lb ed="#B" n="87" break="no"/>tur quod est negatiuum? Dicendum quod licet 
+      <lb ed="#B" n="88"/>sit negatiuum secundum nomen: tamen est 
+      affir<lb ed="#B" n="89" break="no"/>matiuum secundum rem: praecipitur enim in eo cul 
+      <lb ed="#B" n="90"/>tus dei. Sed dicit secunda pars 
+      conclu<lb ed="#B" n="91" break="no"/>sionis: quod haec praecepca recte denario 
+      com<lb ed="#B" n="92" break="no"/>plentur numero: hic enim numerus teste) 
+      <lb ed="#B" n="93"/>Augustinus in lib. musice: est numerus 
+      perfe<lb ed="#B" n="94" break="no"/>ctus: a quo dum ascenditur semper praecedentis 
+      <lb ed="#B" n="95"/>numeri fit repetitio. vnde et pictagoras huius 
+      <lb ed="#B" n="96"/>numeri motus affectu: decem caelos posuissa 
+      <lb ed="#B" n="97"/>refertur: ideo non immerito congruit 
+      man<lb ed="#B" n="98" break="no"/>datis diuinis. Et si obiiciatur quod tantum fuerit 
+      <!--662.xml-->
+      <pb ed="#B" n="323-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>octo in antiquo testamento: quia dicitur quod 
+      diffe<lb ed="#B" n="2" break="no"/>rentia euangelii et legis est: quia lex prohibebat 
+      <lb ed="#B" n="3"/>manum / non affectum: euangelium vero vtrumque 
+      <lb ed="#B" n="4"/>Dicendum quod illud intelligit quo ad 
+      puniti<lb ed="#B" n="5" break="no"/>onem: quia scilicet lex solum puniebat opus exterius: 
+      <lb ed="#B" n="6"/>licet prohiberet et interius: euangelium au 
+      <lb ed="#B" n="7"/>tem vtrumque punit: aut puniendum clarius 
+      osten<lb ed="#B" n="8" break="no"/>dit. Nec obuiat quod ista mandata 
+      implici<lb ed="#B" n="9" break="no"/>te reducantur ad dilectionis proximi mam 
+      <lb ed="#B" n="10"/>datum: iuxta illud apostoli. Qui diligit 
+      pro<lb ed="#B" n="11" break="no"/>ximum / legem impleuit: vel ad mandatum de 
+      <lb ed="#B" n="12"/>non concupiscere: iuxta glo. super illlud apo 
+      <lb ed="#B" n="13"/>stoli. Concupiscentiam nesciebam. Bona in 
+      <lb ed="#B" n="14"/>quit glo. est lex quae dum concupiscentiam 
+      <lb ed="#B" n="15"/>prohibet / omne malum prohibet. Explican 
+      <lb ed="#B" n="16"/>tur enim distinctius in Moysi decalogo. 
+      <lb ed="#B" n="17"/>Ceterum licet plus debeamus deo quam pro 
+      <lb ed="#B" n="18"/>ximo: sunt tamen plura mandata respectu 
+      <lb ed="#B" n="19"/>ad proximum quam deum. Cuius ratio: quia vita 
+      <lb ed="#B" n="20"/>contemplatiua ordinamur ad deum / vbi est ma 
+      <lb ed="#B" n="21"/>xima vnio: vita vero actiua ad proximum 
+      <lb ed="#B" n="22"/>vbi fit discretio et diuersitas: et eadem radi 
+      <lb ed="#B" n="23"/>ce sunt plura praecepta negatiua quam 
+      affir<lb ed="#B" n="24" break="no"/>matiua: quia bonum vno modo est / malum vero 
+      <lb ed="#B" n="25"/>multiphariam: principaliter tamen non oportei 
+      <lb ed="#B" n="26"/>omnia hic prohiberi peccata mortalia / nisi 
+      <lb ed="#B" n="27"/>reductiue: vt superbia in veneratione dei / in 
+      <lb ed="#B" n="28"/>uidia in falso testimonio / ira in homicidio 
+      <lb ed="#B" n="29"/>accidia in sabbati sanctificatione / auaricia 
+      <lb ed="#B" n="30"/>infurto / luxuria in mechia / et illic gula: quia 
+      <lb ed="#B" n="31"/>est dispositio ad peccatum carnis: vt in 
+      An<lb ed="#B" n="32" break="no"/>dria Terentius dicit: Tolle bacchum et 
+      ce<lb ed="#B" n="33" break="no"/>rerem / friget venus.
+</p>
+               <p xml:id="WuV37d-f48987-d1e1125">
+¶ Tertia coclusio 
+      <lb ed="#B" n="34"/>est de comparatione mandatorum dei ad legen 
+      <lb ed="#B" n="35"/>naturae: et est haec. Mandata primae tabulae de 
+      <lb ed="#B" n="36"/>lege simpliciter censentur naturae / non 
+      secun<lb ed="#B" n="37" break="no"/>dae. Dicit prima pars conclusionis / quod 
+      prae<lb ed="#B" n="38" break="no"/>cepta primae tabulae sunt / loquendo 
+      simpli<lb ed="#B" n="39" break="no"/>citer de lege naturae. Probatur. Illud enim 
+      <lb ed="#B" n="40"/>teste docto. subti. in praesenti distin. est de 
+      le<lb ed="#B" n="41" break="no"/>ge naturae / stricte loquendo de ea: quod ve 
+      <lb ed="#B" n="42"/>ritatem necessariam ex terminis habet: vel 
+      ne<lb ed="#B" n="43" break="no"/>cessario resoluitur in talia principia: huiusmodi 
+      <lb ed="#B" n="44"/>sunt tria mandata ordinantia ad deum maxime 
+      <lb ed="#B" n="45"/>duo prima / si intelligantur negatiue. scilicet non ha 
+      <lb ed="#B" n="46"/>bere deos alienos: et non sumere nomen 
+      <lb ed="#B" n="47"/>dei sui in vanum. De tertio autem sabbati. scilicet 
+      <lb ed="#B" n="48"/>sanctificatione quo ad taxationem temporis 
+      <lb ed="#B" n="49"/>figurale est et cerimoniale: et transiit: nec 
+      <!--662.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>erat legis nature: quo vero ad sanctificati 
+      <lb ed="#B" n="51"/>onem mentis aliquando deo exbibendam: bene fu 
+      <lb ed="#B" n="52"/>it: et est legis naturae: nec sequitur: lex 
+      natu<lb ed="#B" n="53" break="no"/>rae non dictabat / nec hoc tempore / nec illo: et 
+      <lb ed="#B" n="54"/>sic de aliis: deo se sanctificare: ergo nullo. 
+      <lb ed="#B" n="55"/>Est enim fallacia consequentis / a pluribus 
+      de<lb ed="#B" n="56" break="no"/>terminatis ad vnam indeterminatam: nisi li 
+      <lb ed="#B" n="57"/>nullo caperetur determinate. Sed dicebat 
+      <lb ed="#B" n="58"/>secunda pas conclusionis / quod praecepta 
+      se<lb ed="#B" n="59" break="no"/>cundae tabulae non sunt loquendo simpliciter 
+      <lb ed="#B" n="60"/>de lege naturae. Patet. Ea enim non sunt sim 
+      <lb ed="#B" n="61"/>pliciter legis naturae / sine quibus finis 
+      pro<lb ed="#B" n="62" break="no"/>prius potest acquiri: huiusmodi sunt praecepta 
+      <lb ed="#B" n="63"/>secundae tabulae: vt patet in 
+      dispensationi<lb ed="#B" n="64" break="no"/>bus tam Abraae de filio immolando quam Osee 
+      <lb ed="#B" n="65"/>de vxore fornicaria. Notandum tamen quod 
+      <lb ed="#B" n="66"/>dicit sanctus Tho. q. 3. quod sicut in natura ali 
+      <lb ed="#B" n="67"/>qua sunt quae semper eodem modo veniunt: sicut 
+      <lb ed="#B" n="68"/>est motus firmamenti. Alia sunt quae vt 
+      fre<lb ed="#B" n="69" break="no"/>quenter eodem modo eueniunt: tamen aliquando defi 
+      <lb ed="#B" n="70"/>ciunt: sicut non pluere sub cane. Tertia sunt 
+      <lb ed="#B" n="71"/>quae raro eueniunt vt casualia: vt pluere 
+      <lb ed="#B" n="72"/>sub cane. Sic in natura legum aliqua sunt in 
+      <lb ed="#B" n="73"/>legibus / quae simpliciter sunt necessaria: 
+      <lb ed="#B" n="74"/>vt sunt mandata in deum. Alia sunt quae non 
+      <lb ed="#B" n="75"/>sunt sic necessaria: tamen sepius sequuntur 
+      pri<lb ed="#B" n="76" break="no"/>ma: Hoc modo mandata secundae tabulae di 
+      <lb ed="#B" n="77"/>cuntur de lege nature: quia raro in eis fit 
+      dis<lb ed="#B" n="78" break="no"/>pensatio: et multum ei sunt consona. Tertia sunt 
+      <lb ed="#B" n="79"/>diuersa scita principum et canones: vel in lege 
+      <lb ed="#B" n="80"/>iudicialia et cerimonialia: secundum quod plus vel mi 
+      <lb ed="#B" n="81"/>nus faciunt ad seruandum ea quae sunt dei et 
+      <lb ed="#B" n="82"/>proximi. 
+      <lb ed="#B" n="83"/>Quantum ad tertium articu 
+      <lb ed="#B" n="84"/>lum: sunt 
+      <lb ed="#B" n="85"/>tres difficultates.
+</p>
+               <p xml:id="WuV37d-f48987-d1e1245">
+¶ Prima est. Utrum 
+      <lb ed="#B" n="86"/>eodem modo in omni statu fuerit obliga 
+      <lb ed="#B" n="87"/>tio ad obseruantiam huiusmodi mandatorum? 
+      Di<lb ed="#B" n="88" break="no"/>cit doc. deuotus. q. 3. arti. primo. Est enim consi 
+      <lb ed="#B" n="89"/>derare triplicem homnis statum. scilicet sub lege 
+      scri<lb ed="#B" n="90" break="no"/>pta / ante legen / et tempore naturae institute. In 
+      <lb ed="#B" n="91"/>primo statu sub lege. scilicet fuit obligatio 
+      peni<lb ed="#B" n="92" break="no"/>tus explicita: quia expressa et distincta fuerunt 
+      <lb ed="#B" n="93"/>huiusmodi mandata. In secundo statu scilicet ante 
+      le<lb ed="#B" n="94" break="no"/>gen fuit obligatio implicita scilicet quo ad 
+      pro<lb ed="#B" n="95" break="no"/>ximum. In his duobus mandatis quae tanguntur 
+      <lb ed="#B" n="96"/>in decretis dist. 1. c. humanum genus. Ne fa 
+      <lb ed="#B" n="97"/>cias aliis etc. Quo vero ad deum vt 
+      bonora<lb ed="#B" n="98" break="no"/>retur deus. In tertio autem statum scilicet naturae 
+      <!--663.xml-->
+      <pb ed="#B" n="323-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>institutae fuit partim implicita / partim ex 
+      <lb ed="#B" n="2"/>plicita: explicita in mandatis primae 
+      tabulae<lb ed="#B" n="3" break="no"/>implicita in eis secundae tabule: quia nec 
+      <lb ed="#B" n="4"/>dum stante statu innocentiae poterat quis co 
+      <lb ed="#B" n="5"/>gitare / aut de morte aut malo quocunque 
+      <lb ed="#B" n="6"/>pximi sui.
+</p>
+               <p xml:id="WuV37d-f48987-d1e1295">
+¶ Secunda difficultas. Cum 
+      <lb ed="#B" n="7"/>tres signentur concupiscentia. scilicet concupiscentia 
+      <lb ed="#B" n="8"/>pculorum / carnis / et vitae. Unde est quod duae in mam 
+      <lb ed="#B" n="9"/>datis prohibentur scilicet carnis / et oculorum / sed  
+      <lb ed="#B" n="10"/>non vitae. Respondendum: quia duae primae 
+      <lb ed="#B" n="11"/>magis sunt acres: et ad mala plus 
+      accen<lb ed="#B" n="12" break="no"/>dunt quam superbia vitae. Tum quia implicite satis 
+      <lb ed="#B" n="13"/>tam primo quam quarto mandato prohibetur 
+      <lb ed="#B" n="14"/>superbia.
+</p>
+               <p xml:id="WuV37d-f48987-d1e1316">
+¶ Tertia difficultas. Unde est 
+      <lb ed="#B" n="15"/>quod dies sabbati quo ad venerationem in diceit 
+      <lb ed="#B" n="16"/>dominicam mutata est: Respondit Francis. de 
+      <lb ed="#B" n="17"/>maronis / in sermone paschalis 
+      festiuita<lb ed="#B" n="18" break="no"/>tis / praeter rationem figuralem. Quia resurrectio 
+      <lb ed="#B" n="19"/>christi qua tali die ab antro viuus 
+      surre<lb ed="#B" n="20" break="no"/>xit sepulcbri: augmentat hoc natiuitas eis 
+      <lb ed="#B" n="21"/>die facta dominica. Cuius argumentum sumit 
+      <lb ed="#B" n="22"/>Augustinus 4. de trini. quia quotienscumque 
+      annunci<lb ed="#B" n="23" break="no"/>atio est die veneris sancta: natiuitas christi 
+      <lb ed="#B" n="24"/>est die dominico. Tertium est festiuitatis pete 
+      <lb ed="#B" n="25"/>costes. Die enim dominico / cuius cras festum 
+      cele<lb ed="#B" n="26" break="no"/>bratur spiritus sancti: linguis igneis super sanctos 
+      <lb ed="#B" n="27"/>venit discipulos. Cuius ignis participes 
+      <lb ed="#B" n="28"/>nos efficiat deus: Amen. Et tantum de 
+      ter<lb ed="#B" n="29" break="no"/>tio articulo. Ex quo patet ad quaestionem: 
+      <lb ed="#B" n="30"/>quod videlicet mandata decalogi binariis con 
+      <lb ed="#B" n="31"/>tenta tabulis / maxime quo ad primam 
+      ta<lb ed="#B" n="32" break="no"/>bulam: censentur legis naturae. Tunc ad 
+      argu<lb ed="#B" n="33" break="no"/>menta.
+</p>
+               <p xml:id="WuV37d-f48987-d1e1360">
+¶ Ad primum iam patet ad maiorem 
+      <lb ed="#B" n="34"/>responsio ex his quae dicta sunt. Est enim vera 
+      <lb ed="#B" n="35"/>de his quae sunt legis naturae stricte 
+      sum<lb ed="#B" n="36" break="no"/>pte / non large: pro eo scilicet quod multum consonat 
+      le<lb ed="#B" n="37" break="no"/>gi naturae: et hoc modo duo praecepta secundae 
+      <lb ed="#B" n="38"/>tabulae dicuntur legis naturae / non primo modo. 
+      </p>
+               <p xml:id="WuV37d-f48987-d1e1373">
+                  <lb ed="#B" n="39"/>¶ Ad secundum dicendum eodem modo ad 
+      mi<lb ed="#B" n="40" break="no"/>norem / quod concludit quod praecepta secundae tabu 
+      <lb ed="#B" n="41"/>lae non sunt de lege naturae stricte sumpta. 
+      <lb ed="#B" n="42"/>De concupiscentia enim in proximum loquitur dum 
+      <lb ed="#B" n="43"/>dicit: Concupiscentiam nesciebam esse etc. 
+      </p>
+               <p xml:id="WuV37d-f48987-d1e1386">
+                  <lb ed="#B" n="44"/>¶ Ad tertium dicendum primo de statu inno 
+      <lb ed="#B" n="45"/>centiae / quod erat eis sufficienter promulgatus in 
+      <lb ed="#B" n="46"/>scriptura mentali: quia prediti erant ingenio: 
+      <lb ed="#B" n="47"/>et sciebant ad quid deo / ad quid proximo erant 
+      <lb ed="#B" n="48"/>obligandi. Caeterum de statu ante legen 
+      di<lb ed="#B" n="49" break="no"/>co: quod necdum erat euacuata totalis men 
+      <!--663.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>tis industria: quin aut memoria a 
+      patri<lb ed="#B" n="51" break="no"/>bus aut ingenio scire possent quid 
+      debe<lb ed="#B" n="52" break="no"/>rent implere. Sed dum peccati 
+      peruersi<lb ed="#B" n="53" break="no"/>tas legem naturae nimis aboleuit: scriptu 
+      <lb ed="#B" n="54"/>ra caepit occurrere: et facta est scripto et der 
+      <lb ed="#B" n="55"/>bo decalogi promulgatio vt nullus ab 
+      <lb ed="#B" n="56"/>eius obseruantia se excusare posset. Et tam 
+      <lb ed="#B" n="57"/>tum de praesenti quaestione.
+</p>
+            </div>
+            <div xml:id="WuV37d-f48987-Dd1e1424" type="et-conclusiones">
+               <head xml:id="WuV37d-f48987-Hd1e1426">Conclusiones</head>
+               <p xml:id="WuV37d-f48987-d1e1429">
+¶ Ex praesenti au 
+      <lb ed="#B" n="58"/>tem distinctione sicut de etc. Prima 
+      <lb ed="#B" n="59"/>conclusio. Decalogus fertur ad deum per tria 
+      <lb ed="#B" n="60"/>per septenaria proximo refertur. Dicit conclusio 
+      <lb ed="#B" n="61"/>quod decalogus habet tria praecepta 
+      ordinan<lb ed="#B" n="62" break="no"/>tia ad deum / et septem ad proximum. Et incipit in 
+      <lb ed="#B" n="63"/>principio distinctionis / vsque ibi: Primum 
+      <lb ed="#B" n="64"/>in prima tabula etc.
+</p>
+               <p xml:id="WuV37d-f48987-d1e1447">
+¶ Secusida 
+      conclu<lb ed="#B" n="65" break="no"/>sio. Sacro ternario in prima tabula 
+      sacra<lb ed="#B" n="66" break="no"/>tur vario modo mens sedula. Dicit 
+      con<lb ed="#B" n="67" break="no"/>clusio / quod tria mandata prime tabulae 
+      effi<lb ed="#B" n="68" break="no"/>ciunt mentem sacram in ordine ad deum. Et 
+      po<lb ed="#B" n="69" break="no"/>nitur in littera ab illo ca. Primum in prima 
+      <lb ed="#B" n="70"/>tabula etc. vsque ibi: In secunda vero 
+      tabu<lb ed="#B" n="71" break="no"/>la.
+</p>
+               <p xml:id="WuV37d-f48987-d1e1465">
+¶ Tertia conclusio. Honor / 
+      occisio<lb ed="#B" n="72" break="no"/>furtum / mechia et falsiloquium / sunt 
+      secunda<lb ed="#B" n="73" break="no"/>ria. Dicit conclusio / quod haec quinque 
+      manda<lb ed="#B" n="74" break="no"/>ta quae nominantur in conclusione / et clarius 
+      <lb ed="#B" n="75"/>in textu: pertinent ad secundam tabulam Et po 
+      <lb ed="#B" n="76"/>nitur ab illo capitulo: Secunda vero 
+      tabu<lb ed="#B" n="77" break="no"/>la: vsque adfinem dist. 
+</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

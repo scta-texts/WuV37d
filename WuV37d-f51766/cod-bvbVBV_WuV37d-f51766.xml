@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Collatio</title>
+            <author ref="#WilliamDeVaurouillon">William de Vaurouillon</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Collatio</title>
+               <date when="2021-06-19">June 19, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-bvbVBV">Basel 1510</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-06-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="330-r"/>
+            <cb ed="#B" n=""/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="WuV37d-f51766"><!-- l4collatio --><!-- not sure if this should be included-->
+            <head xml:id="WuV37d-f51766-Hd1e109">Collatio</head>
+            <p xml:id="WuV37d-f51766-d1e112">
+      <!--676.xml-->
+               <pb ed="#B" n="330-r"/>
+               <cb ed="#B" n=""/>
+               <lb ed="#B" n="1"/>operdtio pepoopntrxypaxyg 
+      <lb ed="#B" n="2"/>Qucpp pocssque xxperprxris qypparxquia 
+      <lb ed="#B" n="3"/>vopeLoPaLspxpe Oyexys 
+      faysraprii<lb ed="#B" n="4" break="no"/>crpetq. Type 
+      <lb ed="#B" n="5"/>UtpaxRootmar vxiemrurto Quod proi 
+      corx<lb ed="#B" n="6" break="no"/>tatur suprema trinitas rerum conditarum oe condibilium / alpha E 
+      <lb ed="#B" n="7"/>o / principium seu finis: circumspectissimi viri / patres optimi ma 
+      <lb ed="#B" n="8"/>gistri: eiua laudibus celehrandi perpetuis: hoc in ultimo finali 
+      <lb ed="#B" n="9"/>seu pexincipio: eremplar pro modulo atque typum secuturus: actum 
+      <lb ed="#B" n="10"/>hunc in triplices condiuido partes. Primo enim hetri laus 
+      decanta<lb ed="#B" n="11" break="no"/>bitur: pro quarto dententiarum. Secundo quaestio exxtricahitur 
+      opinio<lb ed="#B" n="12" break="no"/>num variarrem. HEt tertio gratia redonabitur pro cumulo gratiarum. Hico 
+      <lb ed="#B" n="13"/>igitur primo / quod actum in pranti hetri laus oeem. pro quo thema 
+      plu<lb ed="#B" n="14" break="no"/>ries hac in alma uniuersitate alihique a me passumpttum: nunc 
+      con<lb ed="#B" n="15" break="no"/>clusiue accipitur librans vrha grauitatis scilicet Urantes vallem venerunt ad portam ciuitatis: in 
+      <lb ed="#B" n="16"/>quo quidem Se als hreuis lingua declarauit ad tanti pontificis Petri harrbiy seorum 
+      praesufli<lb ed="#B" n="17" break="no"/>brum commendandum magnificum: iuxta libri quattuor sclismata quattuor inueta sunt ostendi. 
+      <lb ed="#B" n="18"/>Nempe primo ostenditur vigens interminabilitas neem. ut in aliis principiis / usque ibi: viator 
+      <lb ed="#B" n="19"/>bonis gestiens se iungit cotemplantibus / sanatus cura medici: in quarto sententiarum. Frihus pri 
+      <lb ed="#B" n="20"/>mis praecedentibus in tribus principiis diuino erempeditus suffragio de quarto coadiutore deo 
+      <lb ed="#B" n="21"/>aliquid eloqi mos me compellit consuetus. (n quo ut in mpresentiarm dicebatur / ostenditur amantis 
+      <lb ed="#B" n="22"/>sima unitas aditu patentioti reficiens solamine: quid probat bionestatis titulus apartior famo: 
+      <lb ed="#B" n="23"/>sior / insignitus maiestate / cum dicit thiema: ad portam ciuitatis: propter quidus viator bonio 
+      <lb ed="#B" n="24"/>Pestiens se iuigit contemplantibus sanatus cura medici. Quid patres disertissimi: qud verius 
+      clari<lb ed="#B" n="25" break="no"/>usue hiac potta fari potest in partliy seorum praesulis viri eleuatissimi totalis sui operis liber quartus 
+      <lb ed="#B" n="26"/>magnificus: quao ciuitas / cuius ianua introitusque censetur: praeter illam de qua admirans dauid canit: 
+      <lb ed="#B" n="27"/>Qliosa dicta sunt de tedeem. Naec igitur porta deni: iusti intrahunt in eam. Ohiuius 
+      porta<lb ed="#B" n="28" break="no"/>amantissima unitas: o praelectus tantus amor unitatis contemplationis praesangium / aditus mais 
+      <lb ed="#B" n="29"/>statis insignitus. Quid magistro nostro praieuvius tam lucidum / tam apertum tam exxiguo codice ciuita 
+      <lb ed="#B" n="30"/>tis hietlusm praesentauit aparturam. Nic qiope quartus sententiarm libex liliis vallatus corlicis: cum 
+      <lb ed="#B" n="31"/>viole pigmentarias ciuitatis dei summi redolet areolas aromatum: tantumque in stuporis 
+      <lb ed="#B" n="32"/>mentem contemplantis conuertit apicem: ut terrena corpre hiabitans / coelestia meditetur: raptu 
+      <lb ed="#B" n="33"/>qia extatico subleuatus: illud sepius Apot. gratulabundus replicet. idi scilicet ciuitatem 
+      san<lb ed="#B" n="34" break="no"/>Utam hieruluisum nouam descendentem de ccoelo: a deo paratam / sicut sponsam ornatam viro suo. a 
+      <lb ed="#B" n="35"/>motque protinus adiungatur: Ecce tahernaculum dei cum homnibus: oe hiabitabit cum eis: ut non 
+      <lb ed="#B" n="36"/>immerito hac de porta mystica hoc quarto sententiar opere: illud Alani inter poetao non 
+      <lb ed="#B" n="37"/>minimi: in de complanctu naturae affatur. Naec est sol per quam mentis diescit in tenebris cordis 
+      <lb ed="#B" n="38"/>oculus: haec est deliciosa anime paradisus: haec est quo in coeleste terrenum: in immortale cadum 
+      <lb ed="#B" n="39"/>cum: hiomninemain deum deificre mutationis auctoritate conuertit: fiac est vnum nostrae 
+      peregrina<lb ed="#B" n="40" break="no"/>tionis temedium. Et sequitur infra. Numanae noctis lucitex / singularis nostrae miseria re 
+      <lb ed="#B" n="41"/>demptio specialis: cuius aciennulla aeris rubigo confundit: non densitas terrae operam eiuo 
+      <lb ed="#B" n="42"/>ostendit: non aquae altitudo despectum eius obtundit: hiac ille. Gub nubilo quaque naso 
+      Oui<lb ed="#B" n="43" break="no"/>dius in. 1. metamor. Hum iter colicum describerem: atque supernos Aditus: hanc portam. hioc 
+      <lb ed="#B" n="44"/>scilicet oninarum volumen ulterius visus est aggredi / sic inquiens: Est via sublimis coelo ma 
+      <lb ed="#B" n="45"/>nifesta sereno. Lactea nomen hiabet caunadore notabius ipso. Noc iter est superis ad 
+      ma<lb ed="#B" n="46" break="no"/>peoni tecta tonantis. Legalemque domum: demtra leuaque deor. qtria nobilium valuis 
+      cele<lb ed="#B" n="47" break="no"/>brantur apertis. Bt sequitur paulopost. Nic locus est quem si detur audacia verbis. Naud 
+      <lb ed="#B" n="48"/>tetanni magni dicisse palacia regis. exeo optimi patres hioc in qua rteo subleuatus 
+      <!--677.xml-->
+      <pb ed="#B" n="330-v"/>
+               <cb ed="#B" n=""/>
+               <lb ed="#B" n="1"/>est in spiritu pontifem nosterpetrus parrhy seorum antistes: ut ciuitatis hierusalem in 
+      mu<lb ed="#B" n="2" break="no"/>ris aureis portas innouaret dispositione supermundiali in plagarum terre qualihet tres 
+      <lb ed="#B" n="3"/>denotans aparturas cumvasibus argenteis / lapide vario oe agni nomine insignitas: sicuti di 
+      <lb ed="#B" n="4"/>iuinus loanues apostolus in Apot. viderat iesum / insinuans ostensorem. Ostendit mihi ciuitatem san 
+      <lb ed="#B" n="5"/>ctam hierusalem descendentem de coelo / a deo paratam / habentem claritatem dei: Ee lumen eius 
+      <lb ed="#B" n="6"/>simile lapidi praecioso tanquam lapidi iaspidis sicut clirystallum: e habebat murum 
+      ma<lb ed="#B" n="7" break="no"/>gnum oe altum: habentem portas duodecim: oc in portis angelos duodecim: 6e nomina 
+      <lb ed="#B" n="8"/>lcripta: quae sunt nomina duodecim tribuum filiorum israel. Ub oriente portae tres: ab aqui 
+      <lb ed="#B" n="9"/>lone portae tres: ab austro portae tres: E ab occasu portae tres: Sic quppe quartus hic 
+      <lb ed="#B" n="10"/>in duodenarios cum binario partiatur / resultat qunquagesimus: quo numero hic extat 
+      <lb ed="#B" n="11"/>liber conflatus. Huo quippe amorem dei denonant ood prorimi: quo succinctus magister 
+      <lb ed="#B" n="12"/>noscitur scripsisse. Ab oriente tres portae scribuntur: quia libri excordio seu primo 
+      dicen<lb ed="#B" n="13" break="no"/>dum duodenario de tribus sacramentis / vel de coeli quhusdam aditibus: haptismo / 
+      confir<lb ed="#B" n="14" break="no"/>matione atque euchiaristia agitur. Baptismo quppe spiritualiter nascimur: confirmatione xo 
+      <lb ed="#B" n="15"/>horamur: sed eucharistia conducimur. Rursus a parte aquilonari tres portae sunt no 
+      <lb ed="#B" n="16"/>minatae: quia reliquo duodenario veluti quadratis in ternariis tota secunda post 
+      nau<lb ed="#B" n="17" break="no"/>fragitum tabula describitur cum ordinum ecclesiae principio: vt in hioc illud philosophi 1. 
+      ethi<lb ed="#B" n="18" break="no"/>corum compleatur: tethiragonismus sine vituperio. Recte quippe contritio / confesstio / ec satis 
+      <lb ed="#B" n="19"/>factio portae coeli nominantur: quae partem aquilonis / culpam dico aspiciunt: quae manifeste) 
+      <lb ed="#B" n="20"/>hoc in libro intimantur. Buccedunt australes portae ternariae: quia tertio in 
+      duodena<lb ed="#B" n="21" break="no"/>tio quamlucide ultra ordinum completum tractatum: de triphariis bonis communiugii: fide / prole at 
+      <lb ed="#B" n="22"/>que signo magister egerit: virem nullus emprimere sufficit. Gub austro situantur: quia ni 
+      <lb ed="#B" n="23"/>mia charitas sut diuinus clamat haulus) filium dei naturae nostrae uniuit: cuius 
+      ma<lb ed="#B" n="24" break="no"/>gnum sacramentum (idem refert) estimatur communiugium ultimis sermonibus. Quartus cutrit 
+      <lb ed="#B" n="25"/>duodenarius: in quo veluti in speculo clarissimo monstratur ultra comiugii 
+      supplemen<lb ed="#B" n="26" break="no"/>tum / mortuorum suxrectio / conditino in dotibus / fulgot exximius iesu / iudicantis qualitas 
+      <lb ed="#B" n="27"/>assistentium venerabilitas. An in iudicio diuinitas vel sola humanitas appareat. 
+      Hu<lb ed="#B" n="28" break="no"/>abus distinctionibus ultimis duarum ciuitatum / hierusalem one habylonis fit discretio: 
+      ha<lb ed="#B" n="29" break="no"/>bylonia miseris / sed beatis hierusalem cum fruitione perfecta tribuitur. He qua letus 
+      Ha<lb ed="#B" n="30" break="no"/>uid dicit: Uietusum quae cedificatur ut ciuitas: cuius participatio eius in indipsu. Ototalis li 
+      <lb ed="#B" n="31"/>her sententiarm mirificuo: in quo a rere deo principio transeundo. In secundo 
+      creatu<lb ed="#B" n="32" break="no"/>ras per uionem: In tertio verbi dei ad deum. Rursus in hioc quarto fit recursus / ut res cum 
+      <lb ed="#B" n="33"/>cte denotantur tunc complexi: cum ad suumunde veniunt reuertuntur principium. Nnde humdicit in 
+      <lb ed="#B" n="34"/>totius libri extordiis hoc compegisse volumen erem testimoniio veritatis in eternum 
+      fun<lb ed="#B" n="35" break="no"/>datis: finalique epilogo alis denum seraphicis conuelatum: commemorans opus suum: eius de 
+      <lb ed="#B" n="36"/>pedibus sumpsisse fatetur. dic 6e praedictae ciuitatis in figura loannes faciens fundamenta 
+      <lb ed="#B" n="37"/>dicebat: Et mutus ciuitatis habens duodecim fundameta: oc in ipsis duodecim nomina 
+      <lb ed="#B" n="38"/>apitulorum oe agni: oe hincinde in quadro locata ciuitate / onec lapides praeciosi addito de 
+      <lb ed="#B" n="39"/>duodenario / Ec mensura aurea / portis oe muro mensuratis. Nuius ciuitatis tesultat 
+      <lb ed="#B" n="40"/>decor fastigii: quam pro posse iam depinit stilus magistri. O gloriosissime praesul 
+      lom<lb ed="#B" n="41" break="no"/>bardorum gemma / italire fulgor: parrhy seorum radius francigenarum speculum hetre doctor 
+      <lb ed="#B" n="42"/>egregrie: perpetuus retxihuatur hic tibi pro labore triumphius in superna sancta ciuitate. Qum 
+      <lb ed="#B" n="43"/>quo cuncta per seclesa oe nos quae hic excilio manentem teste paulo / non habemus ciuitatem / sed futu 
+      <lb ed="#B" n="44"/>ram exepectamus: veniamus laetabundi. Amem.
+</p>
+            <p xml:id="WuV37d-f51766-d1e327">
+¶ Residuum hiuius principii super quarto oen 
+      <lb ed="#B" n="45"/>tentiarum / require in fine tahularum: quod sic incipit: Hcpeditus per dui gratiam Suace.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

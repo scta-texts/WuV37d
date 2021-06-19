@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 31</title>
+            <author ref="#WilliamDeVaurouillon">William de Vaurouillon</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 31</title>
+               <date when="2021-06-19">June 19, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-bvbVBV">Basel 1510</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-06-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="306-r"/>
+            <cb ed="#B" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="WuV37d-f41985"><!-- l3d31 -->
+            <head xml:id="WuV37d-f41985-Hd1e108">Distinctio 31</head>
+            <div xml:id="WuV37d-f41985-Dd1e111" type="circa-textum">
+               <head xml:id="WuV37d-f41985-Hd1e113">Circa textum</head>
+               <p xml:id="WuV37d-f41985-d1e116">
+                  <lb ed="#B" n="79"/>Dist. 31. huius tertii determinat 
+      <lb ed="#B" n="80"/>de charitatis perduratione. 
+      <lb ed="#B" n="81"/>Tludqum non 
+      prae<lb ed="#B" n="82" break="no"/>tereundum est quod quidam 
+      <lb ed="#B" n="83"/>asserunt charitatem etc. 
+      <lb ed="#B" n="84"/>Hic signatur. 31. dist. huius ter 
+      <lb ed="#B" n="85"/>tii. quae sic continuatur ad 
+      praece<lb ed="#B" n="86" break="no"/>dem. Nam postquam in. 27. dist. perquisita est 
+      <lb ed="#B" n="87"/>charitatis ratio. Et in tribus sequentibus 
+      <lb ed="#B" n="88"/>distinctionibus est adiuncta diligendorum 
+      <lb ed="#B" n="89"/>multiplicatio: Nunc autem in hac praesenti 
+      di<lb ed="#B" n="90" break="no"/>stinctione concluditur charitatis vigens 
+      dura<lb ed="#B" n="91" break="no"/>tio. Et habet diuidi ista pars in tres partes 
+      <lb ed="#B" n="92"/>principales. In prima exquiritur an sit pos 
+      <lb ed="#B" n="93"/>sibilis charitatis amissio. In secunda dis 
+      <lb ed="#B" n="94"/>ponitur in glesia charitatis exordinatio. In 
+      ter<lb ed="#B" n="95" break="no"/>tia coniungitur incidentur aeterna veraque dilectio 
+      <lb ed="#B" n="96"/>prima in principio. secunda ibi. Nunc super¬ 
+      <!--629.xml-->
+      <pb ed="#B" n="306-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>est inuesti. etc. Tertia ibi. dist. 32. Praemis 
+      <lb ed="#B" n="2"/>sis adiiciendum est etc. Rursus prima 
+      par<lb ed="#B" n="3" break="no"/>ticula aliis duabus indiuisis manentibus: 
+      <lb ed="#B" n="4"/>in qua exquiritur: an sit possibilis etc. intres 
+      <lb ed="#B" n="5"/>partes diuiditur. In prima falsidica patet 
+      <lb ed="#B" n="6"/>opinio. In secunda veridica est 
+      impugna<lb ed="#B" n="7" break="no"/>tio. In tertia autentica euacuatio. prima in 
+      <lb ed="#B" n="8"/>principio. secunda ibi. Hic innuere videtur 
+      <lb ed="#B" n="9"/>quod chari. etc. tertia ibi. Aduertendum etiam etc. 
+      </p>
+            </div>
+            <div xml:id="WuV37d-f41985-Dd1e185">
+               <head xml:id="WuV37d-f41985-Hd1e187">Quaestio</head>
+               <p xml:id="WuV37d-f41985-d1e190">
+                  <lb ed="#B" n="10"/>¶ Quaestio ista docet de charitate 
+      <lb ed="#B" n="11"/>remanente in paratria et quo quae 
+      ha<lb ed="#B" n="12" break="no"/>betur sco. ibide q. vnica. 
+      <lb ed="#B" n="13"/>Utrum 
+      ordocha<lb ed="#B" n="14" break="no"/>ritatis scientia et credere: seu 
+      fi<lb ed="#B" n="15" break="no"/>dei actus in patria remaneant 
+      <lb ed="#B" n="16"/>Et arguitur ad partem falsam tribus mediis. 
+      </p>
+               <p xml:id="WuV37d-f41985-d1e208">
+                  <lb ed="#B" n="17"/>¶ Primo arguitur quod non remaneat 
+      ordo<lb ed="#B" n="18" break="no"/>charitatis in patria. Si enim in patria 
+      ordo<lb ed="#B" n="19" break="no"/>remaneret charitatis: hoc ideo maxime 
+      <lb ed="#B" n="20"/>esset: quia plus seipsum quam proximum suum 
+      <lb ed="#B" n="21"/>quisque diligeret. Sed hoc est falsum: igitur 
+      <lb ed="#B" n="22"/>etc. Maior patet ex eo quod appetitu 
+      natu<lb ed="#B" n="23" break="no"/>rali quem perficere videtur charitas: vnusquis 
+      <lb ed="#B" n="24"/>que maxime seipsum diligit. Sed probatur mi 
+      <lb ed="#B" n="25"/>nor: quia in patria maior bonum amplius di 
+      <lb ed="#B" n="26"/>liget. Unde Aug. in li. de vera religi. 
+      Per<lb ed="#B" n="27" break="no"/>fecta iusticia haec est: vt plus potiora 
+      bo<lb ed="#B" n="28" break="no"/>na et minus minora diligamus: cum ergo 
+      vi<lb ed="#B" n="29" break="no"/>deat aliquos se meliores: sequitur quod 
+      ma<lb ed="#B" n="30" break="no"/>gis eos se diliget.
+</p>
+               <p xml:id="WuV37d-f41985-d1e241">
+¶ Secundo arguitut 
+      <lb ed="#B" n="31"/>quod scientia non manet in patria: quod plus 
+      ha<lb ed="#B" n="32" break="no"/>bet de lumine et veritate: minus est in 
+      pa<lb ed="#B" n="33" break="no"/>tria euacuabile quam id quod minus habet: sed  
+      <lb ed="#B" n="34"/>lumen fidei est maius lumine scientiae: et tamen i 
+      <lb ed="#B" n="35"/>patria fides euacuatur: ergo et scientia. 
+      Ma<lb ed="#B" n="36" break="no"/>ior patet: quia causa euacuationis est 
+      opposi<lb ed="#B" n="37" break="no"/>tio habituum viae ad gloriam non tantum autem 
+      oppo<lb ed="#B" n="38" break="no"/>nitur gloriae lumini maius lumen quam minus 
+      <lb ed="#B" n="39"/>immo magis approximat. Sed probatur 
+      <lb ed="#B" n="40"/>minor: ex eo quod lumen scientiae rationi inniti 
+      <lb ed="#B" n="41"/>naturali: lumen vero fidei eleuat hominis intel 
+      <lb ed="#B" n="42"/>lectum supra se: et prime conformat veritati. 
+      </p>
+               <p xml:id="WuV37d-f41985-d1e270">
+                  <lb ed="#B" n="43"/>¶ Tertio arguitur quod actus fidei seu credere 
+      <lb ed="#B" n="44"/>remaneat in patria: vbicumque remanet 
+      habi<lb ed="#B" n="45" break="no"/>tus: remanet et actus: sed fides quae est ha 
+      <lb ed="#B" n="46"/>bitus: actus credendi remanet in patria. erg 
+      <lb ed="#B" n="47"/>et ipse actus remanebit: maior patet: quia 
+      <!--629.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="48"/>alioquin habitus intelligeretur frustra si actum 
+      <lb ed="#B" n="49"/>non haberet: cum habitus ratio sit habilitare 
+      <lb ed="#B" n="50"/>potentiam ad agendum. Unde dicit auerrois. 
+      <lb ed="#B" n="51"/>in. 3. de anima: quod habitus est quo quis vtitur cum 
+      <lb ed="#B" n="52"/>voluerit. Sed minor probatur: quia fides est 
+      <lb ed="#B" n="53"/>virtus theologica: et ita perfectior quam virtu 
+      <lb ed="#B" n="54"/>tes cardinales: et tamen heae remanebunt: vt 
+      pa<lb ed="#B" n="55" break="no"/>tebit. 33. distinctione. igitur et fides.
+</p>
+               <p xml:id="WuV37d-f41985-d1e306">
+¶ In 
+      <lb ed="#B" n="56"/>oppositum primi arguitur ex illo 
+      verbo<lb ed="#B" n="57" break="no"/>Ordinauit in me charitatem. Ex quo igitur  
+      <lb ed="#B" n="58"/>de se ordinata est charitas in patria remanem 
+      <lb ed="#B" n="59"/>te charitate remanebit eius ordo. In 
+      op<lb ed="#B" n="60" break="no"/>positum secundi arguitur auctoritate anf. in li. 
+      <lb ed="#B" n="61"/>de simili. Tunc inquit iusti caetera scient 
+      <lb ed="#B" n="62"/>quae deus fecit scienda: ibi a singulis omnes: 
+      <lb ed="#B" n="63"/>ibi ab omnibus singuli cognoscentur: nec vn 
+      <lb ed="#B" n="64"/>quam omnino latebit: qua patria: qua gente 
+      <lb ed="#B" n="65"/>qua stirpe quis editus sit. In oppositum 
+      <lb ed="#B" n="66"/>tertii arguitur: ex illo verbo apostoli. Cum vene /  
+      <lb ed="#B" n="67"/>rit quod perfectum est: euacuabitur quod ex par 
+      <lb ed="#B" n="68"/>te est: tam autem fides quam credere sunt ex 
+      par<lb ed="#B" n="69" break="no"/>te: quia habent enigma adiunctum. 
+      </p>
+               <p xml:id="WuV37d-f41985-d1e339">
+                  <lb ed="#B" n="70"/>¶ In ista quaesti. sunt tres articuli declarandi 
+      <lb ed="#B" n="71"/>Primus est terminorum declaratiuus 
+      <lb ed="#B" n="72"/>Quorum Secundus est quaestionis responsiuus 
+      <lb ed="#B" n="73"/>Tertius est dubiorum motiuus. 
+      <lb ed="#B" n="74"/>Quo ad primum articulum 
+      <lb ed="#B" n="75"/>termini sunt 
+      <lb ed="#B" n="76"/>Ordo: scientia: et credere.
+</p>
+               <p xml:id="WuV37d-f41985-d1e357">
+¶ Primus igi 
+      <lb ed="#B" n="77"/>tur terminus est ordo. de quo li. 1. dist. 
+      <lb ed="#B" n="78"/>20. Unde aurelius aug. in. 19. de ciui. dei 
+      or<lb ed="#B" n="79" break="no"/>dinem diffiniens ait. Ordo est parium dispari 
+      <lb ed="#B" n="80"/>umquam sua cuilibet tribuens loca 
+      disposi<lb ed="#B" n="81" break="no"/>tio. In qua diffinitione tria tanguntur. 
+      Pri<lb ed="#B" n="82" break="no"/>mo genus ordinis: dum dicitur ordo est dispon. 
+      <lb ed="#B" n="83"/>Sicut enim dispositio relatio est quae dicitur 
+      <lb ed="#B" n="84"/>dispositio dispositi dispositio sic et 
+      ordo<lb ed="#B" n="85" break="no"/>non enim ad se: sed ad aliud dicitur: 
+      ordinabi<lb ed="#B" n="86" break="no"/>lium enim ordo dicitur. Secundo tangitur 
+      subie<lb ed="#B" n="87" break="no"/>ctum ordinis: dum dicitur: parium dispariumque. 
+      <lb ed="#B" n="88"/>Si nempe omnia essent paria non esset ordo. 
+      <lb ed="#B" n="89"/>Ideo secundum augustins. Si omnia essent aequalia: omnia 
+      <lb ed="#B" n="90"/>non essent omnia. Si enim luna soli foret aequa 
+      <lb ed="#B" n="91"/>lis: iam luna non esset: sed sol: ita de aliis. 
+      <lb ed="#B" n="92"/>Ideo ad ordinem in creaturis exigitur: vt cum 
+      <lb ed="#B" n="93"/>paribus sint disparia: vt gradus seu prius 
+      <lb ed="#B" n="94"/>et posterius ordo habeat. Tertio tangitur 
+      <lb ed="#B" n="95"/>modus ordinis: dum dicitur: quod ordo cuilibet 
+      <lb ed="#B" n="96"/>rei suum trihuit locum: et in hoc distinguitur 
+      <!--630.xml-->
+      <pb ed="#B" n="307-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>a confusione qua cuncta ordine semoto 
+      mi<lb ed="#B" n="2" break="no"/>scentur. In proposito autem dicitur ordo 
+      chari<lb ed="#B" n="3" break="no"/>tatis gradus sequens: aut Augustinus aut Am 
+      <lb ed="#B" n="4"/>bro. in. 26. aut. 29. tactos distin.
+</p>
+               <p xml:id="WuV37d-f41985-d1e418">
+¶ 
+      Se<lb ed="#B" n="5" break="no"/>cundus terminus est scientia. Unde scien 
+      <lb ed="#B" n="6"/>tia quo ad praesens potest accipi tripliciter. Primo 
+      <lb ed="#B" n="7"/>dicitur scientia quaelibet certa rei noticia: hoc 
+      <lb ed="#B" n="8"/>modo accipit philosophus scientiam in. 6. ethi. dum 
+      <lb ed="#B" n="9"/>dicit. Scientia est habitus quo 
+      determina<lb ed="#B" n="10" break="no"/>te verum dicimus: hoc modo capta scientia tam 
+      <lb ed="#B" n="11"/>principia quam conclusiones: tam necessaria quam 
+      <lb ed="#B" n="12"/>contingentia dicuntur sciri: hoc modo dicimus: 
+      <lb ed="#B" n="13"/>scio romam vel parisius magnam fore ciuita 
+      <lb ed="#B" n="14"/>tem. Secundo dicitur scientia vt habet diuidi con 
+      <lb ed="#B" n="15"/>tra sapientiam: sicut dicit apostolus. Aliis quidem 
+      <lb ed="#B" n="16"/>per spiritum datur sermo sapientiae aliis 
+      ser<lb ed="#B" n="17" break="no"/>mo scientiae: secundum eundem spiritum: quae tractans 
+      <lb ed="#B" n="18"/>verba Augustinus in. 14. de trini. diciti / quod sapien 
+      <lb ed="#B" n="19"/>tia est aeternorum: sed scientia temporalium. Hoc 
+      <lb ed="#B" n="20"/>uoppe modo capta scientia sola creata non 
+      <lb ed="#B" n="21"/>increatum bonum sciri dicuntur. Tertio modo di 
+      <lb ed="#B" n="22"/>citur scientia habitus conclusionis demonstrate 
+      <lb ed="#B" n="23"/>vel daemonstrabilis: sicut accipit philosophus scien 
+      <lb ed="#B" n="24"/>tiam in primo posteriorum dum dicit. Tunc 
+      <lb ed="#B" n="25"/>vnumquodque scire arbitramur per se et non so 
+      <lb ed="#B" n="26"/>phistico modo: quod est secundum accidens cum causas 
+      <lb ed="#B" n="27"/>illius cognoscimus: et quoniam illius sunt causae: 
+      <lb ed="#B" n="28"/>et quoniam non contingit alio modo se habere: vbi 
+      <lb ed="#B" n="29"/>tres scientiae conditiones tanguntur. Prima 
+      <lb ed="#B" n="30"/>conditio: quod effectuum est non causarum maxime 
+      <lb ed="#B" n="31"/>inquantum cause sunt: dum dicitur / cum causas 
+      il<lb ed="#B" n="32" break="no"/>lius cognoscimus: vnde intellectus est 
+      principio<lb ed="#B" n="33" break="no"/>rum: sicut scientia conclusionum. Secunda 
+      conditio<lb ed="#B" n="34" break="no"/>quod scientia acquiritur sillogistico discursu: dum dicitur  
+      <lb ed="#B" n="35"/>et quoniam illius sunt causae. Tertia conditio / quod 
+      <lb ed="#B" n="36"/>est solum necessariorum: dum dicitur / et quoniam 
+      im<lb ed="#B" n="37" break="no"/>possibile est alio modo se habere hoc modo 
+      ter<lb ed="#B" n="38" break="no"/>tio maximae in titulo quaestionis accipitur 
+      scien<lb ed="#B" n="39" break="no"/>tia licet possit et aliis.
+</p>
+               <p xml:id="WuV37d-f41985-d1e496">
+¶ Tertius termi 
+      <lb ed="#B" n="40"/>nus est credere. Unde notat magister dis. 23  
+      <lb ed="#B" n="41"/>huius tertii: quod haec tria differunti credere 
+      <lb ed="#B" n="42"/>deo / credere deum credere in deum. 
+      Crede<lb ed="#B" n="43" break="no"/>re enim deo / est credere his quae nobis 
+      reue<lb ed="#B" n="44" break="no"/>lat deus. Credere deum / est credere quod de 
+      <lb ed="#B" n="45"/>sit. Credere vero in deum / est side quae per 
+      dile<lb ed="#B" n="46" break="no"/>ttionem operatur in deum tendere. Ultra 
+      no<lb ed="#B" n="47" break="no"/>to secundum docto. subti. in praesenti distin. quod tria 
+      <lb ed="#B" n="48"/>suunt credibilium genera. Prima sunt 
+      quo<lb ed="#B" n="49" break="no"/>rum visio pertinet essentialiter ad beati¬ 
+      <!--630.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>tudinem: sicut est beata trinitas: et de his 
+      <lb ed="#B" n="51"/>credibilibus illud commune accipitur dictum: 
+      <lb ed="#B" n="52"/>visio succedit fidei. Secunda credibilia sunt 
+      <lb ed="#B" n="53"/>quorum visio aliqualiter non tamen 
+      essentia<lb ed="#B" n="54" break="no"/>liter pertinet ad beatitudinem sicut est 
+      hu<lb ed="#B" n="55" break="no"/>manitas christi: passio eius et mors: quae 
+      <lb ed="#B" n="56"/>in verbo videbuntur. Tertia sunt quae nec 
+      <lb ed="#B" n="57"/>principaliter nec concomitantur pertinent ad  
+      <lb ed="#B" n="58"/>beatitudinem sicut est credere actus huma 
+      <lb ed="#B" n="59"/>nos: et talia etiam creduntur in gloria et 
+      <lb ed="#B" n="60"/>nunquam intelliguntur. 
+      </p>
+               <p xml:id="WuV37d-f41985-d1e548">
+                  <lb ed="#B" n="61"/>¶ Quantum ad secundum arti.¬s 
+      <lb ed="#B" n="62"/>culum  
+      <lb ed="#B" n="63"/>sunt tres conclusiones iuxta etc. Prima est s 
+      <lb ed="#B" n="64"/>de permanentia tam charitatis quam ordinis 
+      <lb ed="#B" n="65"/>eius in patria. Secunda de permanentia 
+      ha<lb ed="#B" n="66" break="no"/>pitus scientiae. Tertia de euacuatione fidei 
+      <lb ed="#B" n="67"/>et actus credendi in gloria.
+</p>
+               <p xml:id="WuV37d-f41985-d1e567">
+¶ Prima est 
+      <lb ed="#B" n="68"/>haec. Nec in caelis euacuatur charitas nec 
+      <lb ed="#B" n="69"/>citra tertium gradum ordo eius immutatur. 
+      Di<lb ed="#B" n="70" break="no"/>cit prima pars conclusionis / quod charitas non 
+      <lb ed="#B" n="71"/>euacuatur in gloria. Probatur. Charitatis  
+      <lb ed="#B" n="72"/>enim est diligere deum propter se et super omnia 
+      <lb ed="#B" n="73"/>ex tota anima: et ex tota mente sua. Sed hoc 
+      <lb ed="#B" n="74"/>maxime erit in patria: igitur charitas in 
+      cae<lb ed="#B" n="75" break="no"/>lis perficitur et non euacuatur. Caeterum charita 
+      <lb ed="#B" n="76"/>tis est vnire. Unde in. 4. diuinorum 
+      nomi<lb ed="#B" n="77" break="no"/>num dyonisius nominat amorem vim vnitiuam. 
+      <lb ed="#B" n="78"/>Est etiam amoris assimilare. Unde hugo de 
+      <lb ed="#B" n="79"/>sancto victo. diciti / quod anima in eius 
+      similitu<lb ed="#B" n="80" break="no"/>dinem quem diligit transformatur: sed in patria 
+      <lb ed="#B" n="81"/>magis vniti erimus deo quam modo: magis 
+      <lb ed="#B" n="82"/>etiam similes. Unde. Cum apparuerit 
+      si<lb ed="#B" n="83" break="no"/>miles ei erimus: et ita in patria non desinit 
+      <lb ed="#B" n="84"/>charitas. Unde bene paulus dicit. 
+      Cha<lb ed="#B" n="85" break="no"/>ritas nunquam excidit. Et glo. ibi. Nec in hoc 
+      <lb ed="#B" n="86"/>eculo nec in futuro: et si opera eius cessenti 
+      <lb ed="#B" n="87"/>Cuius ratio triplex a docto. deuoto 
+      assi<lb ed="#B" n="88" break="no"/>gnata: arti. 3. q. 1. Prima ratio sumitur ex 
+      <lb ed="#B" n="89"/>parte charitatis habitus. Est enim charitas 
+      <lb ed="#B" n="90"/>tam absentis quam praesentis: et per consequens 
+      <lb ed="#B" n="91"/>tam in via vbi est deus: per modum absen 
+      <lb ed="#B" n="92"/>tis: quam in patria vbi est per modum praesentis 
+      <lb ed="#B" n="93"/>fides vero et spes sunt de obiecto per 
+      mo<lb ed="#B" n="94" break="no"/>dum absentis: quia fides est de non apparen 
+      <lb ed="#B" n="95"/>rentibus: spes vero de futuris: ideo praesen 
+      <lb ed="#B" n="96"/>tia adueniente obiecti in patria euacuantur 
+      <lb ed="#B" n="97"/>Et haec eadem ratio a doctore subti. in 
+      pre<lb ed="#B" n="98" break="no"/>senti signatur distinctione. Secunda ratio est: 
+      <!--631.xml-->
+      <pb ed="#B" n="307-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>ex parte potentiarum: nobilior est enim affectus 
+      <lb ed="#B" n="2"/>quam intellectus. Unde Bern. in libro de 
+      amo<lb ed="#B" n="3" break="no"/>re dei dicit. Ubi deficit intellectus: proficit ibi 
+      <lb ed="#B" n="4"/>affectus. Et idem habet Dyonisius in lib. 
+      <lb ed="#B" n="5"/>7. diuino. nominum. Et ita quia altior est po 
+      <lb ed="#B" n="6"/>tentia non mirum si habitus fidei: qui est in 
+      <lb ed="#B" n="7"/>intellectu non manet: charitas deo quae est 
+      <lb ed="#B" n="8"/>affectus non corrumpitur sed perficitur. Tertia 
+      <lb ed="#B" n="9"/>ratio est diuina largitas quae disposuit 
+      vi<lb ed="#B" n="10" break="no"/>ris deuotis quendam saporis gustum bonorum 
+      <lb ed="#B" n="11"/>gloriae tribuere: ne deficientes in hoc mundi 
+      <lb ed="#B" n="12"/>heremo prae ariditate: maxime autem hunc 
+      <lb ed="#B" n="13"/>saporem congruit eiusdem fore rationis cum 
+      il<lb ed="#B" n="14" break="no"/>lo qui erit in gloria: et huiusmodi est charitas. 
+      <lb ed="#B" n="15"/>Et si obiiciatur: quia cessante causa cessat effe 
+      <lb ed="#B" n="16"/>ctus: cum ergo fides sit causa charitatis: et 
+      <lb ed="#B" n="17"/>non maneat in patria videtur quod nec chari 
+      <lb ed="#B" n="18"/>tas. Dicitur primo / quod fides non est causa 
+      cha<lb ed="#B" n="19" break="no"/>ritatis. He enim tres virtutes fides / spes 
+      <lb ed="#B" n="20"/>charitas: simul infunduntur. Unde quod 
+      ha<lb ed="#B" n="21" break="no"/>bet glo super illo. Abraam genuit isaac. Isa 
+      <lb ed="#B" n="22"/>ac autem genuit etc. Fides genuit spem: 
+      <lb ed="#B" n="23"/>spes charitatem: habet intelligi non ratione 
+      <lb ed="#B" n="24"/>habituum: sed actuum. Ultra dico quod fides non 
+      <lb ed="#B" n="25"/>praexigitur charitati nisi propter cognitionem 
+      <lb ed="#B" n="26"/>non propter enigma. In patria autem visio 
+      <lb ed="#B" n="27"/>praiuiat charitati. Ex quo patet quod illud. Cum 
+      <lb ed="#B" n="28"/>venerit quod perfectum est euacuabitur quod ex 
+      <lb ed="#B" n="29"/>parte est habet locum pro fide: quia enigma quod 
+      <lb ed="#B" n="30"/>est quoddam imperfectum est de ratione fidei: 
+      <lb ed="#B" n="31"/>non autem pro charitate: quia licet charitas vie 
+      <lb ed="#B" n="32"/>sit imperfecta respectu charitatis patriae 
+      <lb ed="#B" n="33"/>tamen illa imperfectio non est de ratione eius: 
+      <lb ed="#B" n="34"/>ideo solum tollitur imperfectio charitate 
+      re<lb ed="#B" n="35" break="no"/>manente. Sed dicit secunda pars conclusio 
+      <lb ed="#B" n="36"/>nis: quod in patria non mutatur ordo charita 
+      <lb ed="#B" n="37"/>tis citra tertium gradum: hoc est dictu quod in 
+      <lb ed="#B" n="38"/>gloria plus diligemus nos quam quemcumque alium 
+      <lb ed="#B" n="39"/>post deum: in aliis autem gradibus quos po 
+      <lb ed="#B" n="40"/>nit Ambro. non manebit ordo: praeponetu 
+      <lb ed="#B" n="41"/>enim melior minus bono: siue sit consangui 
+      <lb ed="#B" n="42"/>neus siue non. Probatur haec pars: praecepta 
+      <lb ed="#B" n="43"/>enim charitatis hic incipiunt in via: vt perfe 
+      <lb ed="#B" n="44"/>ctius impleantur in patria. Cum ergo in praece 
+      <lb ed="#B" n="45"/>pto dilectionis proximi praeponatur diligens 
+      <lb ed="#B" n="46"/>proximo: dicitur enim. Diliges proximum tuum 
+      si<lb ed="#B" n="47" break="no"/>cut teipsum: ita quod primo diligente sequis 
+      <lb ed="#B" n="48"/>oppositum. Ex quo patet quod non satis est pro 
+      <lb ed="#B" n="49"/>babilis opinio docto. deuo. q. 3. articot. 3. 
+      <!--631.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>qui dicit / quod si velimus loqui vt plures: di 
+      <lb ed="#B" n="51"/>cemus quod quilibet magis diliget se quam proxi 
+      <lb ed="#B" n="52"/>mum. Si vero loquamur vt sapientes di 
+      <lb ed="#B" n="53"/>cemus: quod quilibet tantum diligit proximum 
+      <lb ed="#B" n="54"/>quantum se: et tantum gaudebit de bonis 
+      proxi<lb ed="#B" n="55" break="no"/>mi quantum de proprio bono / dicente Ansel 
+      <lb ed="#B" n="56"/>mo in prosolo. in capitulo vltimo. In illa perfe 
+      <lb ed="#B" n="57"/>cta charitate innumerabilium angelorum et 
+      <lb ed="#B" n="58"/>hominum bonorum: vbi nullus minus alium 
+      <lb ed="#B" n="59"/>quam seipsum diligit non aliter gaudebit 
+      quis<lb ed="#B" n="60" break="no"/>que pro singulis aliis quam pro seipo. Patet 
+      <lb ed="#B" n="61"/>tamen oppositum: vnde exquo charitas 
+      pri<lb ed="#B" n="62" break="no"/>mo reflectitur super actum suum ex dictis. 20. 
+      <lb ed="#B" n="63"/>distin. huius tertii oportet quod primo ad 
+      di<lb ed="#B" n="64" break="no"/>ligentem reflectatur post deum. Nec illud 
+      ob<lb ed="#B" n="65" break="no"/>uiat Anselmi qui innuit perfectionem 
+      chari<lb ed="#B" n="66" break="no"/>tatis in gloria non negando gradum: nec 
+      ob<lb ed="#B" n="67" break="no"/>uiat quod deus plus diligat meliores: quia 
+      <lb ed="#B" n="68"/>inseruit nobis hunc appetitum quem perficit 
+      <lb ed="#B" n="69"/>charitas vt post eum nosmet diligamus. 
+      </p>
+               <p xml:id="WuV37d-f41985-d1e797">
+                  <lb ed="#B" n="70"/>¶ Secunda conclusio est / de permanem 
+      <lb ed="#B" n="71"/>tia habitus scientiae: et est haec. In gloria ha 
+      <lb ed="#B" n="72"/>bitus manet scientiae: licet modus immutetur 
+      <lb ed="#B" n="73"/>cognoscendi. Unde quo ad totam communio 
+      <lb ed="#B" n="74"/>nem noto quod dicit sanctus Thomas arti. 2. 
+      <lb ed="#B" n="75"/>q. 4. In scientia nostra sunt tria: modus 
+      co<lb ed="#B" n="76" break="no"/>gnoscendiur qui scilicet est a phantasmatibus et 
+      per<lb ed="#B" n="77" break="no"/>discursum sillogisticum: et hic non manebit: 
+      <lb ed="#B" n="78"/>vnde dicit Augustinus quod in gloria non erunt vo 
+      <lb ed="#B" n="79"/>lubiles cogitationes. Et hoc modo illud in 
+      <lb ed="#B" n="80"/>apostoli. Siue prophetiae euacuabuntur: 
+      si<lb ed="#B" n="81" break="no"/>ue linguae cessabunt: siue scientia destruetur. 
+      <lb ed="#B" n="82"/>Secundo in nostra scientia consideratur ipse 
+      <lb ed="#B" n="83"/>actus qui dicitur cognitio: et hic 
+      remane<lb ed="#B" n="84" break="no"/>bit longe perfectior quam modo sit. Nec 
+      ob<lb ed="#B" n="85" break="no"/>uiat quod anima cognoscet omnia in verbo: 
+      <lb ed="#B" n="86"/>et ita non indigebit ista intellectione? 
+      Di<lb ed="#B" n="87" break="no"/>cendum / quod licet non indigeat simpliciter: 
+      ta<lb ed="#B" n="88" break="no"/>men perfectionis est vnum cognoscere plu 
+      <lb ed="#B" n="89"/>ribus modis. Ex quo patet quod illud quod 
+      <lb ed="#B" n="90"/>Hugo de sancto victore in didascalon quod 
+      <lb ed="#B" n="91"/>scilicet scientiae sunt inuente propter indigentias 
+      <lb ed="#B" n="92"/>et necessitates: non exprimit nisi vnam cau 
+      <lb ed="#B" n="93"/>sam scientiae et non omnem. Tertio in nostra 
+      <lb ed="#B" n="94"/>scientia consideratur habitus sciendi: et hic re 
+      <lb ed="#B" n="95"/>manebit simpliciter. Probatur: quia scien 
+      <lb ed="#B" n="96"/>tia non corrumpitur in nobis nisi tribus de 
+      <lb ed="#B" n="97"/>causis: scilicet aut propter corruptionem obiecti: 
+      <lb ed="#B" n="98"/>aut propter corruptionem medii: aut tertio 
+      <!--632.xml-->
+      <pb ed="#B" n="308-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>propter obliuionem: neutrum est in proposito 
+      <lb ed="#B" n="2"/>igitur. Confirmatur exemplo. Tum de piscopo qui erat 
+      <lb ed="#B" n="3"/>comprehensor: et tamen habuit habitum scientiae quo 
+      <lb ed="#B" n="4"/>res cognoscebat in genere proprio. Tum de 
+      <lb ed="#B" n="5"/>angelis quie simul habent matutinam et vesparti 
+      <lb ed="#B" n="6"/>nam cognitionem: et ita non repugnat habitui 
+      <lb ed="#B" n="7"/>scientiae remanere in glsia sicut quidam male sunt 
+      <lb ed="#B" n="8"/>suspicati: esset enim magnum quod homo toto tempore 
+      <lb ed="#B" n="9"/>vitae suae laboraret ad habendum scientiam: et pus 
+      <lb ed="#B" n="10"/>modum in istanti mortis totum perderet.
+</p>
+               <p xml:id="WuV37d-f41985-d1e890">
+¶ 
+      Ter<lb ed="#B" n="11" break="no"/>tia conclusio est / de euacuatione fidei et ita 
+      <lb ed="#B" n="12"/>actus credendi / et est haec. Fidei virtus et spei 
+      <lb ed="#B" n="13"/>in glsia non locantur. Probatur de fide: quia 
+      di<lb ed="#B" n="14" break="no"/>cit Paulus. Fides est argumentum rerum non 
+      <lb ed="#B" n="15"/>apparentium. Cum igitur in glesia sit certa 
+      mani<lb ed="#B" n="16" break="no"/>festatio relinquitur: quae enim apparent teste 
+      Breg<lb ed="#B" n="17" break="no"/>fidem non habent sed agnitionem. vnde Augustinus 5. 
+      <lb ed="#B" n="18"/>de trini. Mens quippe cum fidem suam videt qua 
+      <lb ed="#B" n="19"/>credit quod non videt: non aliquid sempiternum 
+      <lb ed="#B" n="20"/>videt: quando ei nos ad speciem per fidem perductos 
+      <lb ed="#B" n="21"/>esse gaudebimus iam no fides erit qua credantur 
+      <lb ed="#B" n="22"/>quae non videntur: sed species qua videantur qua 
+      cre<lb ed="#B" n="23" break="no"/>debantur. Et si dicatur quia plus repugnat ha 
+      <lb ed="#B" n="24"/>bitus fidei peccato quam glesiae: et tamen stat simul cum 
+      <lb ed="#B" n="25"/>peccato mortali? Dicendum quod licet plus 
+      repug<lb ed="#B" n="26" break="no"/>net fides peccato mortali inquantum virtus quam 
+      <lb ed="#B" n="27"/>glulie: non tamen inquantum est de non apparentibus: 
+      <lb ed="#B" n="28"/>ideo stant simul: nec dicitur fundamentum edi 
+      <lb ed="#B" n="29"/>ficii spiritualis nisi in via: immo visio in patria 
+      <lb ed="#B" n="30"/>est fundamentum edificii: vnde et licet matuti 
+      <lb ed="#B" n="31"/>na cognitio in angelis vespartinam non exclu 
+      <lb ed="#B" n="32"/>dat: bene tamen visio fidem. Ratio est: quia fides 
+      <lb ed="#B" n="33"/>dicit non apparere: visio apparere: non ita 
+      <lb ed="#B" n="34"/>est in matutina et vespertina cognitione: vt 
+      <lb ed="#B" n="35"/>patet clare. Idem censendum de spe. Unde 
+      di<lb ed="#B" n="36" break="no"/>cit. Spes quae videtur non est spes id est res 
+      <lb ed="#B" n="37"/>sperata quae videtur non est spes id est non est sub 
+      <lb ed="#B" n="38"/>iecta spei: spes enim est de futuro ideo 
+      me<lb ed="#B" n="39" break="no"/>rito euacuatur gloria habita. Unde illud. 
+      <lb ed="#B" n="40"/>Spes illorum immortalitate plena est: 
+      intel<lb ed="#B" n="41" break="no"/>gitur de re sperata: quia saluati sunt securi de 
+      <lb ed="#B" n="42"/>iua gloria. Noc oportet quod si damnati 
+      sem<lb ed="#B" n="43" break="no"/>per sunt in desperatione: quod per oppositum 
+      <lb ed="#B" n="44"/>saluati in spe: quia desperatio augmentat 
+      <lb ed="#B" n="45"/>malum in damnatis: non sic spes bonum in 
+      bea<lb ed="#B" n="46" break="no"/>tis vnde illud desiderium in beatis: de quo 
+      <lb ed="#B" n="47"/>In quem desiderant angeli prospicere non 
+      <lb ed="#B" n="48"/>est futuri: sed iam habiti. 
+      <!--632.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="49"/>Quantum ad tertium 
+      arti<lb ed="#B" n="50" break="no"/>culum 
+      <lb ed="#B" n="51"/>sunt tres difficultates.
+</p>
+               <p xml:id="WuV37d-f41985-d1e986">
+¶ Prima est. 
+      <lb ed="#B" n="52"/>Quae est ratio quare charitas amittitur in 
+      <lb ed="#B" n="53"/>via per peccatum: Dicit Tho. q. 1. artitcu. i. 
+      <lb ed="#B" n="54"/>quod stante scientia in vniuersali potest in par in 
+      <lb ed="#B" n="55"/>ticulari peccare appetitus sicut stante in 
+      <lb ed="#B" n="56"/>incontinente haec maior. Omnis luxuria est 
+      fu<lb ed="#B" n="57" break="no"/>gienda: peccabit in particulari incontinens 
+      <lb ed="#B" n="58"/>ita stante quod charitas praecipiat summum 
+      bo<lb ed="#B" n="59" break="no"/>num diligere: poterit tamen deficere appe 
+      <lb ed="#B" n="60"/>titus et peccare in particulari circa bonum 
+      <lb ed="#B" n="61"/>creatum. Ex quo clare innuitur esse de mente 
+      <lb ed="#B" n="62"/>sua quod stante scientia in vniuersali et particu 
+      <lb ed="#B" n="63"/>lari nequit peccare appetitus. Et contra 
+      <lb ed="#B" n="64"/>hoc dictum est articulus expressus: qui 
+      di<lb ed="#B" n="65" break="no"/>tit quod stante scientia in intellectu in genera 
+      <lb ed="#B" n="66"/>li et particulari non possit deficere 
+      volun<lb ed="#B" n="67" break="no"/>tas / error: ideo ratio aliunde sumenda est: 
+      <lb ed="#B" n="68"/>scilicet voluntas dei quae nobis in hoc 
+      manife<lb ed="#B" n="69" break="no"/>tis docetur exemplis: vt saul qui prius 
+      fu<lb ed="#B" n="70" break="no"/>it bonus: postmodum malus. Dauid prius 
+      <lb ed="#B" n="71"/>bonus post homicida: rursus bonus et sio 
+      <lb ed="#B" n="72"/>de consimilibus.
+</p>
+               <p xml:id="WuV37d-f41985-d1e1034">
+¶ Secunda difficultas 
+      <lb ed="#B" n="73"/>An in patria vnicus sit actus cuilibet 
+      cor<lb ed="#B" n="74" break="no"/>respondens habitui scientiae? Dicendum quod non 
+      <lb ed="#B" n="75"/>vnde licet non sit discursus temporalis a 
+      prin<lb ed="#B" n="76" break="no"/>cipiis ad conclusiones sicut modo sunt: tamen 
+      <lb ed="#B" n="77"/>varii actus secundum variationem obiectorum: cum 
+      <lb ed="#B" n="78"/>Augustinus teste: obiectum et potentia pariant 
+      no<lb ed="#B" n="79" break="no"/>ticiam.
+</p>
+               <p xml:id="WuV37d-f41985-d1e1052">
+¶ Tertia difficultas. Utrum 
+      <lb ed="#B" n="80"/>simul fides et spes euacuentur? Dicendum / 
+      <lb ed="#B" n="81"/>quod simul tempore: quia simul dotes eis cor 
+      <lb ed="#B" n="82"/>respondentes videntur: scilicet visio fidei et 
+      ten<lb ed="#B" n="83" break="no"/>tio spei: prius tamen natura fides quam spes. 
+      <lb ed="#B" n="84"/>Ex quo patet ad quaestionem: quod videlicet in 
+      <lb ed="#B" n="85"/>parte ordo charitatis: quia vsque ad tertium gra 
+      <lb ed="#B" n="86"/>dum et scientiae habitus: sed non fidei actus: scilicet 
+      <lb ed="#B" n="87"/>credere remanent in patria. Tunc ad argu 
+      <lb ed="#B" n="88"/>nenta.
+</p>
+               <p xml:id="WuV37d-f41985-d1e1075">
+¶ Ad primum negatur minor et dum 
+      pro<lb ed="#B" n="89" break="no"/>batur per Augstin. in li. de vera relig. perfecta 
+      iu<lb ed="#B" n="90" break="no"/>sticia etc. Dicendum / quod diligere plus 
+      maio<lb ed="#B" n="91" break="no"/>ra bona: potest intelligi extensiue: et tunc linus 
+      <lb ed="#B" n="92"/>plus diligit petrum quam seipsum id est ad plus: 
+      <lb ed="#B" n="93"/>quia petrus est in altiori gradum quam linus: et li 
+      <lb ed="#B" n="94"/>nus hoc valde diligit. Aut intensiue: et 
+      <lb ed="#B" n="95"/>tunc linus magis se diligit quam petrum: 
+      <lb ed="#B" n="96"/>hoc est dictu: intensius diligit sibi inesse 
+      <lb ed="#B" n="97"/>suam beatitudinem: quam diligat petro in¬ 
+      <!--633.xml-->
+      <pb ed="#B" n="308-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>esse suam. Primo autem modo intelligitur 
+      <lb ed="#B" n="2"/>auctoritas Aug. ideo non obuiat.
+</p>
+               <p xml:id="WuV37d-f41985-d1e1108">
+¶ Ad  
+      <lb ed="#B" n="3"/>secundum dicendum ad maiorem: quod ratio maio 
+      <lb ed="#B" n="4"/>ris luminis nihil facit ad propositum: sed so 
+      <lb ed="#B" n="5"/>lum oppositio ad statum gloriae. Et quia fides 
+      <lb ed="#B" n="6"/>habet oppositionem illi statui ratione 
+      eni<lb ed="#B" n="7" break="no"/>gmatis: non autem scientia: quia ei non repugnat 
+      <lb ed="#B" n="8"/>claritas: ideo non est ratio similis 
+      hincin<lb ed="#B" n="9" break="no"/>de.
+</p>
+               <p xml:id="WuV37d-f41985-d1e1126">
+¶ Ad tertium patet idem quia 
+      cardina<lb ed="#B" n="10" break="no"/>is virtus non includit imperfectionem 
+      op<lb ed="#B" n="11" break="no"/>positam gloriae sicut fides: licet fides in 
+      lu<lb ed="#B" n="12" break="no"/>mine praecedat scientiam: et in nobilitate 
+      vir<lb ed="#B" n="13" break="no"/>tutem cardinalem: tamen id non obuiat. Et tan 
+      <lb ed="#B" n="14"/>tum de praesenti quaestione.
+</p>
+            </div>
+            <div xml:id="WuV37d-f41985-Dd1e1140" type="et-conclusiones">
+               <head xml:id="WuV37d-f41985-Hd1e1142">Conclusiones</head>
+               <p xml:id="WuV37d-f41985-d1e1145">
+¶ Ex praesenti autem 
+      <lb ed="#B" n="15"/>distinctione etc. Prima conclusio: potest 
+      <lb ed="#B" n="16"/>amitti ipsa charitas: et hinc amitti est 
+      au<lb ed="#B" n="17" break="no"/>ctoritas. Dicit conclusio quod charitas 
+      po<lb ed="#B" n="18" break="no"/>test in via acquiri et perdi. Et ponitur a 
+      prin<lb ed="#B" n="19" break="no"/>cipio distin. vsque ibi. Aduertendum etiam 
+      <lb ed="#B" n="20"/>est etc.
+</p>
+               <p xml:id="WuV37d-f41985-d1e1161">
+¶ Secunda conclusio. Cuacuantur 
+      fi<lb ed="#B" n="21" break="no"/>des / scientia / spes / separanturque amicitia. 
+      <lb ed="#B" n="22"/>Dicit conclusio quod charitas differt ab his 
+      <lb ed="#B" n="23"/>tribus / fide / speet scientia: quia euacuantur in 
+      <lb ed="#B" n="24"/>patria: charitas non. Et ponitur ab illo 
+      caps<lb ed="#B" n="25" break="no"/>Aduertendum etc. vsque ibi. Nunc inam super 
+      <lb ed="#B" n="26"/>est etc.
+</p>
+               <p xml:id="WuV37d-f41985-d1e1177">
+¶ Tertia conclusio. Ordo charita 
+      <lb ed="#B" n="27"/>tis in christo patrie fuit: sed non vie lex est. 
+      <lb ed="#B" n="28"/>veritatis. Dicit conclusio: quod christus 
+      habu<lb ed="#B" n="29" break="no"/>it ordinem charitatis patriae non viae. Et 
+      po<lb ed="#B" n="30" break="no"/>nitur ab illo capitulo. Nunc iam superest etc. 
+      <lb ed="#B" n="31"/>vsque ad finem distinctionis.
+</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

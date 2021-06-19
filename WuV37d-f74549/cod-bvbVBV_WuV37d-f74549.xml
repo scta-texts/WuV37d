@@ -1,0 +1,742 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 19</title>
+            <author ref="#WilliamDeVaurouillon">William de Vaurouillon</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 19</title>
+               <date when="2021-06-19">June 19, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-bvbVBV">Basel 1510</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-06-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="378-r"/>
+            <cb ed="#B" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="WuV37d-f74549"><!-- l4d19 -->
+            <head xml:id="WuV37d-f74549-Hd1e108">Distinctio 19</head>
+            <div xml:id="WuV37d-f74549-Dd1e111" type="circa-textum">
+               <head xml:id="WuV37d-f74549-Hd1e113">Circa textum</head>
+               <p xml:id="WuV37d-f74549-d1e116">
+                  <lb ed="#B" n="53"/>Distinctio. 19. libri quarti: in qua 
+      <lb ed="#B" n="54"/>agit magister de vsu clauiu: et 
+      qui<lb ed="#B" n="55" break="no"/>bus dentur.
+    </p>
+               <p xml:id="WuV37d-f74549-d1e125">
+                  <lb ed="#B" n="56"/>Ostque ostensum 
+      <lb ed="#B" n="57"/>quo est quae sunt claues apo 
+      <lb ed="#B" n="58"/>I stolice: et quis earum 
+      <lb ed="#B" n="59"/>vsus etc. Hic signatur. 19. 
+      <lb ed="#B" n="60"/>dist. quarti sminarum: quae ita 
+      <lb ed="#B" n="61"/>habet continuari ad praecedentes. Nam postquam 
+      <lb ed="#B" n="62"/>in praecedenti dist. primo potestas clauis in se est an 
+      <lb ed="#B" n="63"/>notata: et secundo mentis macula in peccante 
+      <lb ed="#B" n="64"/>extat declarata: Nunc tertio in praesenti di. 
+      <lb ed="#B" n="65"/>ad suscipientem clauis est comparata. Et habet di 
+      <lb ed="#B" n="66"/>uidi in tres partes principales. In prima 
+      de<lb ed="#B" n="67" break="no"/>terminat de collatione clauis scientie. In secunda 
+      <lb ed="#B" n="68"/>de collatione clauis potentiae. In tertia de 
+      il<lb ed="#B" n="69" break="no"/>lorum quibus dantur manerie. Prima in 
+      princi<lb ed="#B" n="70" break="no"/>pio. Secunda ibi: Cumque iam constat non omnes 
+      <lb ed="#B" n="71"/>sacerdotes etc. Tertia ibi: Qualem autem 
+      <lb ed="#B" n="72"/>oportuit etc. Et haec diuisio etc. Circa quam 
+      <lb ed="#B" n="73"/>et partem vltimam praecedentis dist. talis 
+      moue<lb ed="#B" n="74" break="no"/>tur titulus quaestionis / videlicet.
+      </p>
+            </div>
+            <div xml:id="WuV37d-f74549-Dd1e170">
+               <head xml:id="WuV37d-f74549-Hd1e172">Quaestio</head>
+               <p xml:id="WuV37d-f74549-d1e175">
+                  <lb ed="#B" n="75"/>Questio haec docet dae excommunicatio 
+      <lb ed="#B" n="76"/>ne maiori quaes possit excoicare: et quis 
+      <lb ed="#B" n="77"/>debeat excomunicari. 
+      <lb ed="#B" n="78"/>N dei ecclesia 
+      </p>
+               <p xml:id="WuV37d-f74549-d1e186">
+                  <lb ed="#B" n="79"/>¶ Hhc sic aliquis maiori debeat 
+      exconi<lb ed="#B" n="80" break="no"/>tione ferire / vt a sua clausura 
+      <lb ed="#B" n="81"/>remoueat. Et arguitur quod non / tripliciter.
+</p>
+               <p xml:id="WuV37d-f74549-d1e195">
+¶ Pri  
+      <lb ed="#B" n="82"/>mo modo. Nullus potest iuste alium a 
+      charita<lb ed="#B" n="83" break="no"/>te separare: ergo nullus potest alium excommunicare 
+      <lb ed="#B" n="84"/>maxime excoicatione maiori. Assumptum 
+      <lb ed="#B" n="85"/>patet. Tum quia charitatem nullus perdit inuitus. 
+      <lb ed="#B" n="86"/>Tum quia nullus est dum viuit / quae non sit ex 
+      chari<lb ed="#B" n="87" break="no"/>tate diligendus: patet consequentia: quia excommunicatio 
+      <lb ed="#B" n="88"/>vt vocabulum dicit) a communione separat 
+      fideli<lb ed="#B" n="89" break="no"/>um: quae communio est charitas: etiam a communione 
+      <lb ed="#B" n="90"/>sacrorum.
+</p>
+               <p xml:id="WuV37d-f74549-d1e217">
+¶ Secundo ar. sic. Ex communicatio aut est  
+      <lb ed="#B" n="91"/>morbus / aut est medicina: ergo nulli est in 
+      <lb ed="#B" n="92"/>ferenda / aut omnibus. Assumptum patet: quia 
+      <lb ed="#B" n="93"/>si est morbus / nulli est appetenda aut aptan 
+      <lb ed="#B" n="94"/>da: si est medicina / omnibus est appetenda et aptan¬ 
+      <!--773.xml-->
+      <pb ed="#B" n="378-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>da: quia omnes egemus medico.
+</p>
+               <p xml:id="WuV37d-f74549-d1e238">
+¶ Tertio arg. 
+      <lb ed="#B" n="2"/>sic. Nullus est tradendus sathanae: ergo nul 
+      <lb ed="#B" n="3"/>lus debet excommunicari. Antecedens patet: quia aut 
+      <lb ed="#B" n="4"/>traderetur quantum ad corpus / aut quantum ad animam. 
+      <lb ed="#B" n="5"/>Non. quantum ad corpus: videmus enim tales non 
+      <lb ed="#B" n="6"/>vexari a daemone in corpore. Nec quantum ad 
+      <lb ed="#B" n="7"/>animam: quia hoc facere nullus nec debet nec 
+      <lb ed="#B" n="8"/>potest. Patet consequentia: quia in excommunicatione 
+      maio<lb ed="#B" n="9" break="no"/>li traditur aliquis potestati sathanae.
+</p>
+               <p xml:id="WuV37d-f74549-d1e258">
+¶ In oppo 
+      <lb ed="#B" n="10"/>intum primo autortate christi. Si peccauerit in 
+      te<lb ed="#B" n="11" break="no"/>frater tuus etc. vsque ibi: Quod si ecclesiam non 
+      <lb ed="#B" n="12"/>audierit: sit tibi sicut ethnicus et 
+      publica<lb ed="#B" n="13" break="no"/>nus. Et post sequitur. Amen dico tibi: quodcum 
+      <lb ed="#B" n="14"/>que ligaueris etc. Tum secundo: dicit apostolus. Ex quo 
+      <lb ed="#B" n="15"/>bus est hymeneus et alexander / quas tradidi 
+      sa<lb ed="#B" n="16" break="no"/>thane. Tum tertio idem apostolus. Si quis non amat 
+      <lb ed="#B" n="17"/>dominum iesum christum / anathema sit. Ecce ma 
+      <lb ed="#B" n="18"/>gister: ecce discipulus excommunicationem 
+      appro<lb ed="#B" n="19" break="no"/>bantes.
+</p>
+               <p xml:id="WuV37d-f74549-d1e282">
+¶ In ista quaestione sunt tres articuli. 
+      <lb ed="#B" n="20"/>Primus est terminorum declaratiuus 
+      <lb ed="#B" n="21"/>Quorum Secundus est quaestionis responsiuus. 
+      <lb ed="#B" n="22"/>Tertius est dubiorum motiuus. 
+      <lb ed="#B" n="23"/>Quo ad primii articulum 
+      ter<lb ed="#B" n="24" break="no"/>mini sunt: 
+      <lb ed="#B" n="25"/>excommunicatio / maior / clausura.
+</p>
+               <p xml:id="WuV37d-f74549-d1e298">
+¶ Primus 
+      pri<lb ed="#B" n="26" break="no"/>minus est excommunicatio. quasi extra communionem posi 
+      <lb ed="#B" n="27"/>tio: habet autem tria nomina: excommunicatio / anathabea et 
+      <lb ed="#B" n="28"/>separatio et dicitur excommunicatio vt dictum est: et est tri 
+      <lb ed="#B" n="29"/>plex. Excommunicatio maior: et dicitur maior: quia a 
+      <lb ed="#B" n="30"/>pitlulibus separat: separat enim a communione fidelium et a per 
+      <lb ed="#B" n="31"/>ceptione sacrorum: et poena est guissima quam 
+      ec<lb ed="#B" n="32" break="no"/>clesia potest inferre. Unde. 11. q. 3. neno: anat habea est 
+      <lb ed="#B" n="33"/>aeternae morteis damnatio. et. 24. q. 3. 
+      corripi<lb ed="#B" n="34" break="no"/>antur / dicitur: quod excommunicatione nulla est maior poena in 
+      <lb ed="#B" n="35"/>ecclesia. Secunda excommunicatio dicitur excommunicatio mi 
+      <lb ed="#B" n="36"/>nor a iure: quia scilicet non separat a tot sicut maior: so 
+      <lb ed="#B" n="37"/>lum enim separat a perceptione sacrorum / non a communione 
+      <lb ed="#B" n="38"/>fidelium: et sepius incurritur a iure per participatioem 
+      <lb ed="#B" n="39"/>cum excommunicato maiori excommunicatione. ex de sen. 
+      <lb ed="#B" n="40"/>excon. Nuper. Tertia dicitur ex communicatio minor ab 
+      <lb ed="#B" n="41"/>homine: quae non contrahitur a iure sed infligitur ab homine 
+      <lb ed="#B" n="42"/>tantum: et separat a communione fidelium aliquirum / et non 
+      sa<lb ed="#B" n="43" break="no"/>crorum. 5. q. 2. praesenti. 2. q. 4. in loco. et. 19. dis. 
+      <lb ed="#B" n="44"/>placuit vt quotienscumque. et. 34. dist. 
+      quorum<lb ed="#B" n="45" break="no"/>dam et. 55. distin. si quis de alterius. Quis etiam 
+      <lb ed="#B" n="46"/>prima excommunicatio minor: quae tantum separat a sacra 
+      <lb ed="#B" n="47"/>mentis / aliquando infligatur ab homine. 5. q. 1. c. 2. 
+      <lb ed="#B" n="48"/>Ex quo patet quidam notabilis ternarius. Excommuni 
+      <lb ed="#B" n="49"/>catio minor a iure / separat tantum a sacramenis. Ex¬ 
+      <!--773.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>communicatio minor ab homine vt in pluribus separat 
+      <lb ed="#B" n="51"/>ab aliquibus hominibus tantum / non a sacramenis. Dixi au 
+      <lb ed="#B" n="52"/>tem / vt in pluribus propter illud quod dictum est 
+      imme<lb ed="#B" n="53" break="no"/>diate quod prima excommunicatio minor aliquando infertur 
+      <lb ed="#B" n="54"/>ab homine. Excommunicatio maior separat ab 
+      vtro<lb ed="#B" n="55" break="no"/>que / et sacramenis et homine. Ex quo primo infertur ali 
+      <lb ed="#B" n="56"/>um forum secretum poenitentiae / alium forum istum: illum 
+      <lb ed="#B" n="57"/>secretum / istum publicum: in illo idem accusator et 
+      <lb ed="#B" n="58"/>reus: in isto alius accusator / alius reus. Ex quo 
+      sequi<lb ed="#B" n="59" break="no"/>tur secundo / quod sunt distincta iudicia. Ex quo ter 
+      <lb ed="#B" n="60"/>tio patet quod sunt distincti iudices / aut vnus 
+      <lb ed="#B" n="61"/>quasi duo: quia secundum vnum modum iudicat hici 
+      <lb ed="#B" n="62"/>secundum aliud illic. Ex quo patet quod sunt distinctae 
+      <lb ed="#B" n="63"/>claues hic et ibi: et patet: quia aliquando aliquis 
+      <lb ed="#B" n="64"/>pas habet claues qui nullatenus est sacerdos / vt 
+      <lb ed="#B" n="65"/>archidiaconus: et qui habent inrisditionem sine 
+      <lb ed="#B" n="66"/>sacerdotio in hoc foro: clauditur ecclesia per 
+      <lb ed="#B" n="67"/>excommunicationem / et aperitur per 
+      absolutio<lb ed="#B" n="68" break="no"/>nem: sic econtra: simplices facerdotes 
+      cla<lb ed="#B" n="69" break="no"/>ues habent primarias / non istas: quia 
+      iurisditi<lb ed="#B" n="70" break="no"/>onem non habent. Sed posito: aliquis episcopus suum 
+      <lb ed="#B" n="71"/>subditum excommunicat / et intimat in publico 
+      <lb ed="#B" n="72"/>ita esse: teneor ne qui sum frater minor / non 
+      <lb ed="#B" n="73"/>subditus episcopo / illum euitare? Dico quod non 
+      <lb ed="#B" n="74"/>si sua auctoritate excommunicat: solum enim in 
+      <lb ed="#B" n="75"/>subditos habet imperium. Sed si 
+      auctori<lb ed="#B" n="76" break="no"/>tate illius cui subiicior / excommumicat / vt domini 
+      <lb ed="#B" n="77"/>pape: sum obligatus euitare: ideo sequitur / 
+      <lb ed="#B" n="78"/>quod si quas simpliciter excommunicat / illius au 
+      <lb ed="#B" n="79"/>ctoritate excommumicat / cui omnes tenentur obe 
+      <lb ed="#B" n="80"/>dire. Ex quo doctor subtilis. inferti / quod istud 
+      <lb ed="#B" n="81"/>cadit sub illa regula iuris: Quod non est 
+      con<lb ed="#B" n="82" break="no"/>cessum / est prohibitum. Illa enim regula vera est de 
+      <lb ed="#B" n="83"/>his quae non conueniunt regulariter alicui / sed 
+      <lb ed="#B" n="84"/>ex aliqua concessione speciali: et tunc 
+      aucto<lb ed="#B" n="85" break="no"/>ritate eiusdem tenentur generaliter 
+      christia<lb ed="#B" n="86" break="no"/>ni vitare excommumicatu / cuius auctoritate in 
+      <lb ed="#B" n="87"/>currunt paenam excommunicationis minoris / si 
+      <lb ed="#B" n="88"/>non vitant: vnde incurrunt illam auctoritatem legis 
+      <lb ed="#B" n="89"/>latoris: non autortoritate huius iudicis. Est et 
+      <lb ed="#B" n="90"/>alia regula iuris / quae videtur praecedenti oppo 
+      <lb ed="#B" n="91"/>sita: sed non est. Quod non est prohibitum / videtur 
+      <lb ed="#B" n="92"/>esse concessum. Capitur enim ista regula in his quae 
+      <lb ed="#B" n="93"/>regulariter conueniunt. Ex quo sequitur quod 
+      cu<lb ed="#B" n="94" break="no"/>rati parochiales non possunt excommunicare ni 
+      <lb ed="#B" n="95"/>si in casibus eis expresse concessis: quod est eui 
+      <lb ed="#B" n="96"/>tatio multorum periculorum apud multos far 
+      <lb ed="#B" n="97"/>tuos. Frequens prochdolor in ecclesia est 
+      per<lb ed="#B" n="98" break="no"/>cussio huius gladii: quae in iure diuino. rarissi¬ 
+      <!--774.xml-->
+      <pb ed="#B" n="379-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>ma est extracta ab apostolis. Paulus enim in su 
+      <lb ed="#B" n="2"/>is epistolis solum ter inuenitur excommunicasse. 
+      <lb ed="#B" n="3"/>Primo. Omnino inquit inter vos auditur 
+      <lb ed="#B" n="4"/>fornicatio et talis fornicatio qualis nec 
+      in<lb ed="#B" n="5" break="no"/>ter gentes: ita vt vxorem patris sui quis 
+      ha<lb ed="#B" n="6" break="no"/>beat. Et post pauca subdit: Ego absens 
+      <lb ed="#B" n="7"/>corpore / praesens autem spiritu iam iudicaui: vt 
+      prae<lb ed="#B" n="8" break="no"/>sens eum quis sic operatus est in nomine domini 
+      <lb ed="#B" n="9"/>nostri iesu christi congregatis vobis in vnum: 
+      <lb ed="#B" n="10"/>et nimio spiritu cum virtute domini Iesu trade 
+      <lb ed="#B" n="11"/>dere huiusmodi hominem sathanae in interitum 
+      car<lb ed="#B" n="12" break="no"/>nis: vt spiritus saluus sit in die domini nostri 
+      ie<lb ed="#B" n="13" break="no"/>su christi. Secundo idem apostolus. Quidam 
+      cir<lb ed="#B" n="14" break="no"/>ca fidem naufragauerunt: ex quibus est 
+      hy<lb ed="#B" n="15" break="no"/>meneus et alexander: quos tradidi satha 
+      <lb ed="#B" n="16"/>nae / vt discant non blasphemare. Tertio di 
+      <lb ed="#B" n="17"/>cit. Si quis vobis euangeligauerit praeter 
+      <lb ed="#B" n="18"/>id quod accepistis / anathema sit. Sunt et 
+      <lb ed="#B" n="19"/>tria loca in Paulo / in quibus prohibet bo 
+      <lb ed="#B" n="20"/>nos habitare cum malis: quasi sit 
+      excommunica<lb ed="#B" n="21" break="no"/>tio minor ab homine / non numero. Unum locum 
+      <lb ed="#B" n="22"/>vbi dicit. Si is qui frater nominatur inter vos 
+      <lb ed="#B" n="23"/>est fornicator / aut auarus / aut idolis 
+      ser<lb ed="#B" n="24" break="no"/>uiens / aut maledicus / aut ebriosus / aut 
+      ra<lb ed="#B" n="25" break="no"/>pax: cum huiusmodi nec cibum sumere: quia iam 
+      alle<lb ed="#B" n="26" break="no"/>gatum est illud ca. de primo excommunicationis ma 
+      <lb ed="#B" n="27"/>ioris modo. Primus locus est vbi dicit. 
+      De<lb ed="#B" n="28" break="no"/>nunciamus vobis fratres in nomine domini no 
+      <lb ed="#B" n="29"/>stri iesu christi: vt subtrahatis vos ab omni 
+      <lb ed="#B" n="30"/>fratre inordinate ambulante. Et post pau 
+      <lb ed="#B" n="31"/>ca subdit ibidem. Si quis non obedierit ver 
+      <lb ed="#B" n="32"/>bis nostris per epistolam hanc / notate: et non 
+      <lb ed="#B" n="33"/>commisceamini cum illo vt confundatur. Se 
+      <lb ed="#B" n="34"/>cundus locus eiusdem apostoli est. Erunt 
+      <lb ed="#B" n="35"/>homines sese amantes. Et post mala 
+      re<lb ed="#B" n="36" break="no"/>citata ait: Et hos deuita. Tertius locus 
+      <lb ed="#B" n="37"/>apostoli est. Haereticum hominem post vnam 
+      <lb ed="#B" n="38"/>et secunlam monitionem deuita. Ioannes vero 
+      <lb ed="#B" n="39"/>nec ad ternarium nec ad binarium venit / sed  
+      <lb ed="#B" n="40"/>in vnitate vnus stetit. In epistola enim sua 
+      <lb ed="#B" n="41"/>canonica ait. Si quis venit ad vos: et hanc 
+      <lb ed="#B" n="42"/>doctrinam non affert: nolite eum recipere in do 
+      <lb ed="#B" n="43"/>mo /nec aue ei dixeritis. Qui enim dicit 
+      il<lb ed="#B" n="44" break="no"/>li / aue: communicat operibus eius malignis. 
+      <lb ed="#B" n="45"/>Ulterius notandum / quod exconcatio solet dici 
+      <lb ed="#B" n="46"/>tripliciter. Uno modo seu primo a gratia: et sic 
+      <lb ed="#B" n="47"/>quicumque est in peccato mortali est ex 
+      communi<lb ed="#B" n="48" break="no"/>catus. Secundo ex communicatio dicitur a 
+      cae<lb ed="#B" n="49" break="no"/>testi paradiso: quomodo loquitur Augustinus in sermone. 
+      <!--774.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>Uniem bene viuens ab illo caelesti conuiuio 
+      <lb ed="#B" n="51"/>excommunicari non timebit Tertio dicitur ex 
+      <lb ed="#B" n="52"/>communicatio / quomodo iura loquuntur: et iam de 
+      <lb ed="#B" n="53"/>ea dictum est. Secundo dicitur anathema / ab 
+      <lb ed="#B" n="54"/>ana quod est rectum / et thomos diuisio: quast 
+      <lb ed="#B" n="55"/>recta diuisio: quia numquam sine magna causa debet 
+      <lb ed="#B" n="56"/>quis excommunicari. Quod autem ana significet 
+      re<lb ed="#B" n="57" break="no"/>ctum / dicit Braecismus in greco. Quattuor 
+      <lb ed="#B" n="58"/>ana notat: re / sursum / equaleque rectum. Sicit 
+      <lb ed="#B" n="59"/>anadiplos / anatheosis / anathema. Et iu 
+      <lb ed="#B" n="60"/>xta physicos ana duos scrupulos. Et 
+      di<lb ed="#B" n="61" break="no"/>cit apostolus. Si quis non amat dominum nostrum iesum  
+      <lb ed="#B" n="62"/>christum sit anathema. Maranatha non est 
+      <lb ed="#B" n="63"/>existimandum manatha esse nomen 
+      excommunica<lb ed="#B" n="64" break="no"/>tionis: sed paulus incutere voluit 
+      timo<lb ed="#B" n="65" break="no"/>rem / vt timeremus excommunicationem ex aduentu 
+      <lb ed="#B" n="66"/>domini. Maranatha enim ex siro verbum compo 
+      <lb ed="#B" n="67"/>situm et greco: signat / dominus venit. Tertio di 
+      <lb ed="#B" n="68"/>citur separatio: et patet ex iam dictis.
+</p>
+               <p xml:id="WuV37d-f74549-d1e621">
+¶ Secun 
+      <lb ed="#B" n="69"/>dus terminus est maior: et patet ex di 
+      <lb ed="#B" n="70"/>ctis de maiori et minori.
+</p>
+               <p xml:id="WuV37d-f74549-d1e628">
+¶ Tertius ter 
+      <lb ed="#B" n="71"/>minus est clausuram. Unde nota triplicem 
+      <lb ed="#B" n="72"/>esse clausuram: bonam / meliorem / et optiman. 
+      <lb ed="#B" n="73"/>Clausura in mundo ad praeliandum quomodo 
+      clau<lb ed="#B" n="74" break="no"/>duntur milites ad pugnandum: et haec est 
+      bo<lb ed="#B" n="75" break="no"/>na. Sic in claustro sancti victoris prope 
+      par<lb ed="#B" n="76" break="no"/>rhysius scriptum est. Claustrum nolenti mors 
+      <lb ed="#B" n="77"/>est / sed vita volenti. Per claustri sedem / 
+      cae<lb ed="#B" n="78" break="no"/>i mercaberis edem. Ut vadat homo de 
+      clau<lb ed="#B" n="79" break="no"/>tro mundi ad claustrum paradisi. Secunda 
+      clau<lb ed="#B" n="80" break="no"/>sura in purgatorio ad purgandum: et haec me 
+      <lb ed="#B" n="81"/>lior: non ratione poenae / sed certitudinis. Clau 
+      <lb ed="#B" n="82"/>sura caeli ad regnandum: et sic sunt tria clau 
+      <lb ed="#B" n="83"/>tra. A primo in proposito excommunicatus excluditur: 
+      <lb ed="#B" n="84"/>sed qualiter / in conclusionibus videbitur. 
+      <lb ed="#B" n="85"/>Quantum ad secundum arti. sunt 
+      <lb ed="#B" n="86"/>tres con 
+      <lb ed="#B" n="87"/>clusiones. Prima est de possibilitate excommuni 
+      <lb ed="#B" n="88"/>cationis. Se dea de potente ex communicare. Ter 
+      <lb ed="#B" n="89"/>tia de iteratione et absolutione.
+</p>
+               <p xml:id="WuV37d-f74549-d1e673">
+¶ Prima est 
+      <lb ed="#B" n="90"/>haec. Et si quis excommunicari quat: non tamen nisi gui 
+      <lb ed="#B" n="91"/>trimine extat excommuieandus. Ista conclusio habet tres 
+      <lb ed="#B" n="92"/>partes in virtute. Prima / quod excommunicatio est 
+      possi<lb ed="#B" n="93" break="no"/>bilis: sed quae iure: iure diuino ex iesu christo 
+      <lb ed="#B" n="94"/>primo: secundo ex paulo: tertio ex ioamne: vt in pri 
+      <lb ed="#B" n="95"/>mo dictum est art. Ubi primo notandum excommunica 
+      <lb ed="#B" n="96"/>tionem non esse peccatum / sed paenam peccati: patet: quia ab 
+      <lb ed="#B" n="97"/>extrinseco est: et infertur in paenam facinoris. 
+      <lb ed="#B" n="98"/>Secundo quod non dicit formam realem sed rationist 
+      <!--775.xml-->
+      <pb ed="#B" n="379-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>patet: quia causatur a sola voluntate alicuius di 
+      <lb ed="#B" n="2"/>stantis. Unde papa existens romae potest 
+      excommuni<lb ed="#B" n="3" break="no"/>care aliquem in damiano: et ita est respectus 
+      <lb ed="#B" n="4"/>rationis. Ex quo sequitur quod est ens respecti 
+      <lb ed="#B" n="5"/>uum: vnde communicare dicit respectum / et excommunicare 
+      <lb ed="#B" n="6"/>similiter: quia ad idem genus reducuntur priuatio cum 
+      <lb ed="#B" n="7"/>suo habitu /secundum Augustinus 5. de trini. Tertio 
+      <lb ed="#B" n="8"/>est poena privatiua: quia privat communionem / prout omnia 
+      <lb ed="#B" n="9"/>membra ecclesiae sunt iuncta in charitate influem 
+      <lb ed="#B" n="10"/>te. scilicet christo in vita spirituali. Sed cuius est 
+      pae<lb ed="#B" n="11" break="no"/>nax peccati mortalis: eo modo solum quae est statutum. 
+      <lb ed="#B" n="12"/>Unde in primitiua ecclesia ad incutiendum 
+      timo<lb ed="#B" n="13" break="no"/>rem / excommunicatus arripiebatur a daemone: 
+      nul<lb ed="#B" n="14" break="no"/>lus tamen modo excommunicatur pro culpa enormi / nisi 
+      <lb ed="#B" n="15"/>habeat annexam contumaciam: quod non sper factum 
+      <lb ed="#B" n="16"/>est in primitiua ecclesia. Secunda pars 
+      conclusio<lb ed="#B" n="17" break="no"/>nis diciti / quod excommunicatio est possibilis fieri in 
+      <lb ed="#B" n="18"/>aliquem etiam iuste: patet: pater enim familias 
+      <lb ed="#B" n="19"/>secundum rectum ordinem filium inobedientem extra do 
+      <lb ed="#B" n="20"/>mum ad trimpopus eiicit: vt saltem sic corrigatur: ergo 
+      si<lb ed="#B" n="21" break="no"/>mili ratione qui praest in domo dei: potest et debet com 
+      <lb ed="#B" n="22"/>similem eiicere extra domum: et haec est excommunica 
+      <lb ed="#B" n="23"/>tio. Secundo in arte medicinae videmus membrum 
+      <lb ed="#B" n="24"/>ordinatum ad infectionem aliorum membrorum 
+      re<lb ed="#B" n="25" break="no"/>cte eiici a corpore: ergo similiter in spiritualibus tres puni 
+      <lb ed="#B" n="26"/>tiones malorum fiunt / etiam publice ad conforta 
+      <lb ed="#B" n="27"/>tionem bonorum: vnde sicut sunt primo argumenta 
+      <lb ed="#B" n="28"/>in logica ostensiua et ad impossibile: et secundo in 
+      <lb ed="#B" n="29"/>medicina medicamina lenitiua et aspara: et 
+      <lb ed="#B" n="30"/>tertio dulces monitiones et asparae in 
+      morali<lb ed="#B" n="31" break="no"/>bus ita reddendo singula singulis in ecclesiasti 
+      <lb ed="#B" n="32"/>cis iudiciis sunt haec tria. Instructio / 
+      cura<lb ed="#B" n="33" break="no"/>tioi correctio. Instructiones quasi syllogismi 
+      <lb ed="#B" n="34"/>ostensiui quae non obtemperant ducuntur ad 
+      impossi<lb ed="#B" n="35" break="no"/>bile: curationes lenitiue: quae curari aut nequi 
+      <lb ed="#B" n="36"/>unt aut negligunt / curantur asperem: et qui non 
+      <lb ed="#B" n="37"/>corriguntur dulcibusi corriguntur flagellis. 
+      <lb ed="#B" n="38"/>Tertia pars conclusionis dicit / quod solum pro gui 
+      cri<lb ed="#B" n="39" break="no"/>mine est excommunicandus: loquimur autem hic de excommuni 
+      <lb ed="#B" n="40"/>catione maiori quae aliquando est a iure: et est 
+      praeserua<lb ed="#B" n="41" break="no"/>tiua ne peccet homo: aliquando a iudice: et est 
+      cura<lb ed="#B" n="42" break="no"/>tiua: nec haec vt dictum est imponi debet nisi 
+      <lb ed="#B" n="43"/>pro contumacia: vnde debet monitio praemitti: 
+      <lb ed="#B" n="44"/>vt sic de contumacia conuicatur. Contumax autem dicitur 
+      <lb ed="#B" n="45"/>quo bis et selis monitus / tertio peremptorie 
+      cita<lb ed="#B" n="46" break="no"/>tus non comparet: aut secundo si comparet non vult 
+      <lb ed="#B" n="47"/>stare iuri: vel quando offensa est manifesta: vel ter 
+      <lb ed="#B" n="48"/>tio iussus a iudice non vult emendare. Et si 
+      <lb ed="#B" n="49"/>dicatur: christus non excommunicauit: ergo nec ecclesia de¬ 
+      <!--775.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>bet excommunicare: cum ipse fit exemplum nostrum. Dicen 
+      <lb ed="#B" n="51"/>dum quod licet ipse in persona non excommunicauit: tamen de 
+      <lb ed="#B" n="52"/>dit et modum et auctoritate excommunicandi. Sed diceret 
+      <lb ed="#B" n="53"/>forsan quis: non sunt coram caeco ponenda 
+      offen<lb ed="#B" n="54" break="no"/>dicula: sed excommunicationes sunt offendicula. Di 
+      <lb ed="#B" n="55"/>tendum quod non: immo sunt medicina praeseruatiua. 
+      <lb ed="#B" n="56"/>Frater hugo de nouo castro praesenti distin. 
+      <lb ed="#B" n="57"/>q. 1. ponit tres conclusiones istius materiae aperiti 
+      <lb ed="#B" n="58"/>uas. Prima est. Ecclesia non potest excommunicare nisi 
+      <lb ed="#B" n="59"/>pro peccato mortali: quod potest benet male intelligi: 
+      <lb ed="#B" n="60"/>quia in excommunicatione tria sunt. Primo enim excommunica 
+      <lb ed="#B" n="61"/>tio excludit a perceptione sacrorum: secundo a 
+      communi<lb ed="#B" n="62" break="no"/>one fidelium. tertio est quasi intrusio intur daemo 
+      <lb ed="#B" n="63"/>nes: modo licem quo ad tertium non debeat fieri 
+      ni<lb ed="#B" n="64" break="no"/>si propter peccatum mortale: tamen non videtur quo ad 
+      pri<lb ed="#B" n="65" break="no"/>mum et secundum quin possit ferri pro alio peccato quam 
+      <lb ed="#B" n="66"/>mortali: sicut praelatus in aliqua religione potest 
+      sul<lb ed="#B" n="67" break="no"/>pendere a communione fratrum ad tempus sine peccato 
+      <lb ed="#B" n="68"/>mortali. Item in excommunicatione debet esse 
+      confor<lb ed="#B" n="69" break="no"/>mitas diuine voluntati: sed deus nullum intru 
+      <lb ed="#B" n="70"/>dit intur demones nisi pro peccato mortali. Dico 
+      <lb ed="#B" n="71"/>secundo quod non potest hunc absolute et in particulari 
+      <lb ed="#B" n="72"/>excommunicare sine accusatione sui vel alterius: 
+      <lb ed="#B" n="73"/>quia non potest ferre excommunicationem nisi pro peccato 
+      <lb ed="#B" n="74"/>euidenti aliquo modo. Dico tertio quod ecclesia in 
+      <lb ed="#B" n="75"/>generali et sub conditione potest ferre 
+      excommunica<lb ed="#B" n="76" break="no"/>tionem maiorem nulla denunciatione praeuia: vt 
+      <lb ed="#B" n="77"/>puta: excommunico omnem furem vel homicidam: et 
+      <lb ed="#B" n="78"/>sic excommunicatur aliquis sub s. scilicet si fecerit hoc / 
+      ex<lb ed="#B" n="79" break="no"/>communicetur. Ratio huius est: quia quicunque separat se ab 
+      <lb ed="#B" n="80"/>ecclesia triumphante / potest sub si separari ab 
+      ec<lb ed="#B" n="81" break="no"/>clesia militante.
+</p>
+               <p xml:id="WuV37d-f74549-d1e881">
+¶ Secunda conclusio ess 
+      <lb ed="#B" n="82"/>de potente excommunicare: et est haec. Et si cuncti  
+      <lb ed="#B" n="83"/>sacerdotes claues habent sacerdotii: non tamen 
+      <lb ed="#B" n="84"/>quique possunt excommunicare nisi iurisditionem habe 
+      <lb ed="#B" n="85"/>ant. Ista conclusio habet tres partes in virtute. 
+      <lb ed="#B" n="86"/>Prima patet ex praece. dist. quod omnes 
+      sacerdo<lb ed="#B" n="87" break="no"/>tes habent claues sacerdotii: sic equidem 
+      com<lb ed="#B" n="88" break="no"/>formes sunt petro: dato quod non habeant 
+      exe<lb ed="#B" n="89" break="no"/>cutionem. Secunda pars diciti / quod non omnes possunt 
+      ex<lb ed="#B" n="90" break="no"/>communicare: patet: quia non omnes habent popistulum 
+      sub<lb ed="#B" n="91" break="no"/>ditum. Ideo tertia diciti / quod possunt quo habent iu 
+      <lb ed="#B" n="92"/>risditionem: dato etiam quod non sint sacerdotes 
+      <lb ed="#B" n="93"/>vt archidiaconus: vnde hic voluit doc. deuo 
+      <lb ed="#B" n="94"/>tus. q. 3. praesentis distin. quod potestas excommunicandi 
+      <lb ed="#B" n="95"/>plus debet: immo dici debet simpliciter 
+      gladi<lb ed="#B" n="96" break="no"/>us / non clauis: claues enim secundum eum solum sunt sa 
+      <lb ed="#B" n="97"/>cerdotum: quia proprie sunt ad aperiendum: vnde 
+      <lb ed="#B" n="98"/>ista potestas est arbitrandi inter deum et hominem: 
+      <!--776.xml-->
+      <pb ed="#B" n="380-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>alia inter hominem et hominem: ideo haec est or 
+      <lb ed="#B" n="2"/>dinis / illa praelationis: licet doctor noster 
+      di<lb ed="#B" n="3" break="no"/>cat claues / vt patuit: et hac excommunicare aliqu 
+      <lb ed="#B" n="4"/>de iure / aliqui de consuetudine possunt: sed qui nu 
+      <lb ed="#B" n="5"/>merus est maiorum excommunicationum a iure aui 
+      <lb ed="#B" n="6"/>canone? Dicit doctor noster / quod numerus 
+      <lb ed="#B" n="7"/>iam non est quasi determinatus verum est quod spi 
+      <lb ed="#B" n="8"/>ritualis homo euadit omnia. Aliquando emim fuit pos 
+      <lb ed="#B" n="9"/>sibile dicere numerum: sed modo cum crescant 
+      <lb ed="#B" n="10"/>ad nutum capitum / non est valde facile 
+      nume<lb ed="#B" n="11" break="no"/>rare. Dicit tamen frater Astexanus astensis in 
+      sun<lb ed="#B" n="12" break="no"/>ma sua / quod numerus excommunicationum latarum a 
+      <lb ed="#B" n="13"/>iure sunt. 10i. et forsan vnitas vltra centum 
+      <lb ed="#B" n="14"/>vt arguatur superfluum: hic sit deus iustus iudex. 
+      <lb ed="#B" n="15"/>Ex conclusione igitur infertur / quod omnes habentes 
+      <lb ed="#B" n="16"/>ecclesiasticam auctoritatem in foro 
+      contentioso<lb ed="#B" n="17" break="no"/>possunt ex communicare: quia huic est annexa. Et ideo 
+      <lb ed="#B" n="18"/>episcopus / abbas / prior / et omnes tales habentes iu 
+      <lb ed="#B" n="19"/>risditionem / possunt excommumicare. Infertur post 
+      <lb ed="#B" n="20"/>modum / quod non habentes huiusmodi iurisditionem 
+      <lb ed="#B" n="21"/>nequeunt excommunicare. Ulterius nullus 
+      <lb ed="#B" n="22"/>excommunicatus potest excommunicare: quia 
+      excommunica<lb ed="#B" n="23" break="no"/>re est aliquid pertinens ad communitatem eccle 
+      <lb ed="#B" n="24"/>siae: sed talis est extra ecclesiam. Ex quo 
+      vl<lb ed="#B" n="25" break="no"/>tra sequitur / quod aliqui irregulares / vt 
+      biga<lb ed="#B" n="26" break="no"/>mi: possunt excommunicare cum fiunt officiales: quia 
+      <lb ed="#B" n="27"/>haec potestas non est annexa ordini. Sed quas 
+      <lb ed="#B" n="28"/>possunt excommunicantes excommunicare. Primum di 
+      <lb ed="#B" n="29"/>ctum. Innocens non potest excommunicari: tamen tam 
+      <lb ed="#B" n="30"/>diu deberet tenere sententiam / donec 
+      diffi<lb ed="#B" n="31" break="no"/>nitum sit per superiorem. Secundum: dum interposita 
+      <lb ed="#B" n="32"/>est legittima appellatio / non tenet. 
+      Terti<lb ed="#B" n="33" break="no"/>um dictum: quod vnus non potest ex communicari pro 
+      <lb ed="#B" n="34"/>peccato alterius: quia excommunicatio est poena 
+      <lb ed="#B" n="35"/>peccati. Unde quando participantes 
+      excon<lb ed="#B" n="36" break="no"/>municantur: non fit propter peccatum 
+      excommu<lb ed="#B" n="37" break="no"/>nicati / sed propter proprium: vt quia contra 
+      obe<lb ed="#B" n="38" break="no"/>dientiam participant cum eo. Ex quo sequitur / 
+      <lb ed="#B" n="39"/>quod infidelis non potest excommunicari: quia non 
+      <lb ed="#B" n="40"/>fuit de communitate ecclesiae: nec percipit aliquid de 
+      <lb ed="#B" n="41"/>bonis ecclesie: ideo eis priuvari non potest. Se 
+      <lb ed="#B" n="42"/>quitur ultra / quod damnati excommunicari non possunt: 
+      <lb ed="#B" n="43"/>quia nullum influxum habent ab ecclesia. Sequi 
+      <lb ed="#B" n="44"/>tur vltra / quod exempti ab aliquo iudice 
+      ex<lb ed="#B" n="45" break="no"/>communicari non possunt: tamen aliquis qui non est de 
+      iu<lb ed="#B" n="46" break="no"/>risditione: propter delictum quod committit in 
+      il<lb ed="#B" n="47" break="no"/>la regione vel dominio / potest excommunicari. Ul 
+      <lb ed="#B" n="48"/>tra sequitur / quod communitas aliqua tota non 
+      <lb ed="#B" n="49"/>potest excommunicari: quia non est praesumendum / quod in illa 
+      <!--776.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>vniuersitate non sint aliqui boni: potest tamen in 
+      <lb ed="#B" n="51"/>terdici. Unde vltra sequitur / quod illi quae sunt in 
+      <lb ed="#B" n="52"/>paradiso excommunicari non possunt. Ultra qui 
+      partici<lb ed="#B" n="53" break="no"/>pant cum excommunicato maiori excommunicatione 
+      <lb ed="#B" n="54"/>incurrunt excommunicationem minorem. 
+      Exci<lb ed="#B" n="55" break="no"/>piuntur tamen quae sunt de familia / vt 
+      domesti<lb ed="#B" n="56" break="no"/>ci. Ultra quae propter correctionem aut 
+      emen<lb ed="#B" n="57" break="no"/>dam eis loquuntur: uvltra propter necitatem vt eis 
+      <lb ed="#B" n="58"/>obligatus: vltra quando ignoratur 
+      excommunica<lb ed="#B" n="59" break="no"/>tus. Unde versus. 
+      <lb ed="#B" n="60"/>Utile / lex / humile / res ignorata / necesse. 
+      <lb ed="#B" n="61"/>Utile propter salutem excommunicati: lex / vt vxor: 
+      <lb ed="#B" n="62"/>humile / filiae / serui et ancillae: res ignorata: ne 
+      <lb ed="#B" n="63"/>scitur excommunicatus: necesse: petit elemosynam 
+      <lb ed="#B" n="64"/>qua indiget. Ultra participans cum 
+      excon<lb ed="#B" n="65" break="no"/>municato maiori excommuniaatione cum 
+      per<lb ed="#B" n="66" break="no"/>ticipantibus suis: vt citius redeat ad 
+      obe<lb ed="#B" n="67" break="no"/>dientiam / est excommunicatus maiori 
+      excommunica<lb ed="#B" n="68" break="no"/>tione. Notandum tamen / quod si aliquis sit secreto 
+      <lb ed="#B" n="69"/>excommunicatus: non debet vitari in publico / sed 
+      <lb ed="#B" n="70"/>in secreto. Sed numquid sacerdos recipiens 
+      <lb ed="#B" n="71"/>oblationem ab excommunicatis peccat? 
+      Di<lb ed="#B" n="72" break="no"/>cendum / quod in ecclesia non debet recipere / sed in 
+      <lb ed="#B" n="73"/>domo sicut alia debita. Sed quo poena 
+      excommunica<lb ed="#B" n="74" break="no"/>ti: Priuatus est omni actu legittimo: nec eli 
+      <lb ed="#B" n="75"/>gere potest / nec eligi. Est priuatus omnibus bonis 
+      <lb ed="#B" n="76"/>spiritualibus ecclesiae: quia separatus est a corpore: 
+      <lb ed="#B" n="77"/>nec influentiam recipit a capite. Est priua 
+      <lb ed="#B" n="78"/>tus ecclesiastica sepultura: est priuatus om 
+      <lb ed="#B" n="79"/>nibus bonis temporalibus: et tenetur restitu 
+      <lb ed="#B" n="80"/>ere quae percepit. Et si exerceat actum alicui 
+      <lb ed="#B" n="81"/>ordinis vel sacramenti alterius / erit irregu 
+      <lb ed="#B" n="82"/>laris: et nullus sibi tenetur obedire: nec 
+      prin<lb ed="#B" n="83" break="no"/>cipes tenentur ei subiici: quia nullam 
+      conne<lb ed="#B" n="84" break="no"/>xionem habent cum ipso / qui non est connexus cum 
+      <lb ed="#B" n="85"/>ecclesia.
+</p>
+               <p xml:id="WuV37d-f74549-d1e1115">
+¶ Tertia conclusio est de itera 
+      <lb ed="#B" n="86"/>tione et absolutione: et est haec. Excommunicat 
+      <lb ed="#B" n="87"/>iterum potest excommunicari / et ab vna excon 
+      <lb ed="#B" n="88"/>municatione absolui / et postmodum ab 
+      alia<lb ed="#B" n="89" break="no"/>Ista conclusio tres habet partes. Prima dicit 
+      <lb ed="#B" n="90"/>quod ex communicatus potest rursum excommunicari: patet primo 
+      <lb ed="#B" n="91"/>ex vsu ecclesiae: quae errare non potest. Sic 
+      vide<lb ed="#B" n="92" break="no"/>mus in poenis aliis impositis: quia super vnum 
+      <lb ed="#B" n="93"/>ieiunium potest imponi aliud ieiunium / et 
+      su<lb ed="#B" n="94" break="no"/>per vnam vigiliam alia vigilia. Tanmen secundo vbi 
+      <lb ed="#B" n="95"/>est nouus morbus / debet esse remedium 
+      no<lb ed="#B" n="96" break="no"/>uum. Uidemus autem quod aliquando idem homo est 
+      <lb ed="#B" n="97"/>incendiarius etc. ergo necesse est 
+      replica<lb ed="#B" n="98" break="no"/>ri remedium. Tum tertio: si non possent ex¬ 
+      <!--777.xml-->
+      <pb ed="#B" n="380-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>communicari: cum non excommunicati possint excommunicari: 
+      <lb ed="#B" n="2"/>essent ex peccato melioris conditionis quam inno 
+      <lb ed="#B" n="3"/>centes quo ad hoc. Secunda pars dicit / quod ex 
+      <lb ed="#B" n="4"/>communicatus potest absolui ab vna ex communicatione in 
+      <lb ed="#B" n="5"/>patet: et addit quod postmodum ab alia etiam 
+      <lb ed="#B" n="6"/>patet. Sed a quo absoluetur excommunicatus? 
+      Di<lb ed="#B" n="7" break="no"/>co primo: ab illo a quo est excommunicatus / si 
+      fece<lb ed="#B" n="8" break="no"/>rit propria auctoritate: quia promptiores sunt leges 
+      <lb ed="#B" n="9"/>ad soluendum quam ad ligandum. Dico vltra quod 
+      <lb ed="#B" n="10"/>aliquis de iurisditione vnius non potest ab 
+      <lb ed="#B" n="11"/>solui ab alio qui non est eius iudex. Sed si 
+      <lb ed="#B" n="12"/>a iure sit excommunicatus: numquid potest ab 
+      <lb ed="#B" n="13"/>solui ab vno sicut ab alio in diuersis 
+      iu<lb ed="#B" n="14" break="no"/>risditionibus? Dicitur quod ita potest vnus si 
+      <lb ed="#B" n="15"/>cut alter qui excommunicauit: velit aut 
+      no<lb ed="#B" n="16" break="no"/>lit potest eum absoluere. Sed si sit a iure: 
+      <lb ed="#B" n="17"/>cum non nisi pro peccato incurrat: non potest 
+      ab<lb ed="#B" n="18" break="no"/>solui nisi poeniteat. Ex quo sequitur quod ab 
+      <lb ed="#B" n="19"/>sens et ignorans non potest absolui. Sed si sit 
+      <lb ed="#B" n="20"/>a iure: dico quod non deberet absolui / nisi eo 
+      <lb ed="#B" n="21"/>modo quo fit a iure. Et notandum quod hae probati 
+      <lb ed="#B" n="22"/>ones pro magna parte sunt abbreviatae de. 15. 
+      <lb ed="#B" n="23"/>di. fris Rich. de media vil. et multae captae 
+      <lb ed="#B" n="24"/>in forma propterlabbreviationem operis / ex. 4. fris 
+      <lb ed="#B" n="25"/>Fram. de maro. di. 19. et quia sufficiebat. 
+      <lb ed="#B" n="26"/>Quo ad tertium articulum sun 
+      <lb ed="#B" n="27"/>ltres difficul 
+      <lb ed="#B" n="28"/>tates.
+</p>
+               <p xml:id="WuV37d-f74549-d1e1213">
+¶ Prima est. Quis potest 
+      absolue<lb ed="#B" n="29" break="no"/>te ab excommunicatione lata a canone? Dicit fratur 
+      <lb ed="#B" n="30"/>Hugo noui castri praesentis dis. q. 1. quod papa: 
+      <lb ed="#B" n="31"/>cuius voluntas est illius excommunicatio vel is cui con 
+      <lb ed="#B" n="32"/>misit / vt episcopis. ex de sen. ex. nuper: nisi in ter 
+      <lb ed="#B" n="33"/>duobus casibus id est sex / quas sibi retinuit. Pri 
+      <lb ed="#B" n="34"/>mus quando aliquis est ex communicatus ex graui 
+      iniecti<lb ed="#B" n="35" break="no"/>one in clericum vel religiosum. 17. q. 4. si quis. 
+      <lb ed="#B" n="36"/>Secundo quando quis incendit ecclesiam: et est 
+      denuncia<lb ed="#B" n="37" break="no"/>tus: ex de sen. ex. tua nos. Tertius quando aliquis 
+      <lb ed="#B" n="38"/>fregit ecclesiam: et est denunciatus eo. ti. conqui 
+      <lb ed="#B" n="39"/>sti. Quartus quando aliquis communicat scienter cum ex 
+      <lb ed="#B" n="40"/>communicato nominatim a papa: ibi de. significauit. 
+      <lb ed="#B" n="41"/>Quintus quando aliquis falsificat listeras sedis apostoli 
+      <lb ed="#B" n="42"/>cae. ex de crimine falsi. dura. Sextis cum aliquis 
+      <lb ed="#B" n="43"/>communicat in crimine cum excommunicato ex communicatone 
+      <lb ed="#B" n="44"/>maiori in casu cum dominus papa absolutionem re 
+      <lb ed="#B" n="45"/>tinuit: et hoc inquit non quatat doc. noster.
+</p>
+               <p xml:id="WuV37d-f74549-d1e1252">
+¶ Secunda 
+      <lb ed="#B" n="46"/>diffi. doc. sub. dicit excommunicationum numerum 
+      <lb ed="#B" n="47"/>tempore suo esse multum difficilem. Fratur astexanus 
+      <lb ed="#B" n="48"/>tempore suo redegit ad. 101. vt patet in summa sua 
+      <lb ed="#B" n="49"/>Frater Fram. de maro. in praesenti di. quod ad ter¬ 
+      <!--777.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>quattuor vel quater tria id est duodecim reducun 
+      <lb ed="#B" n="51"/>tur. Quis eorum dicit verius de his quae 
+      inferum<lb ed="#B" n="52" break="no"/>tur a canone: ponam brevitemr. 12. illos 
+      mo<lb ed="#B" n="53" break="no"/>dos. Primus est contra haeresis fautores et defen 
+      <lb ed="#B" n="54"/>sores / consentientes et auxilium ferentes. Secundus 
+      <lb ed="#B" n="55"/>onta schismaticos et fautores eorum. Tertius e 
+      <lb ed="#B" n="56"/>vm ferentes ecclesis / clericem et religiosis quam 
+      <lb ed="#B" n="57"/>tumcumque laicis et bonis ecclesiarum. Sed si aliquem 
+      <lb ed="#B" n="58"/>de istis percutit ex correctione / sicut magister 
+      di<lb ed="#B" n="59" break="no"/>scipulum / vel als: non incurrit excommunicationem: 
+      <lb ed="#B" n="60"/>nec si ex surreptione dat alapam: quia non est pec 
+      <lb ed="#B" n="61"/>catum mortale ex actu surrepticio: bene tamen 
+      <lb ed="#B" n="62"/>esset irregularis si sic interficeret. Similiter si se 
+      <lb ed="#B" n="63"/>defendit modo debito: vt si clericus inuadit lai 
+      <lb ed="#B" n="64"/>cum: et ille modo debito defendit se. Quartus qua 
+      <lb ed="#B" n="65"/>cumque rapit bona ecclesie contra libertates et immu 
+      <lb ed="#B" n="66"/>nitates / et huiusmodi. Quintus si religiosus non 
+      <lb ed="#B" n="67"/>portat habitum suae religionis quem debet por 
+      <lb ed="#B" n="68"/>tare intra claustrum. Sed quid si sub veste 
+      su<lb ed="#B" n="69" break="no"/>periori: et super habitum portat alia vestimen 
+      <lb ed="#B" n="70"/>ta: Credo quod sit excommunicatus: quia non portat 
+      ha<lb ed="#B" n="71" break="no"/>bitum proprium illo modo quo debet eum portare: si 
+      <lb ed="#B" n="72"/>tamen honestum habitum portat supra / sicut capam 
+      <lb ed="#B" n="73"/>nigram / quod licet credo. Sextis si religiosus et 
+      <lb ed="#B" n="74"/>benficiatus audit physicam id i. medicinam / et 
+      iu<lb ed="#B" n="75" break="no"/>ra ciuilia extra modoasterium seu domum. 
+      Se<lb ed="#B" n="76" break="no"/>ptimus de falsariis. Octauus de incendiariis.  
+      <lb ed="#B" n="77"/>Nonus de piratis quae depriendantur christianos in 
+      <lb ed="#B" n="78"/>mari. Decimus quo procreat achiuos / vel mittit 
+      <lb ed="#B" n="79"/>vel fauet. Undecimus de sortilegis / quo docent 
+      <lb ed="#B" n="80"/>vel faciunt incantationes et diuinationes. 
+      Duo<lb ed="#B" n="81" break="no"/>decimus de his qui dant vsurariis licentiam fene 
+      <lb ed="#B" n="82"/>randi / et recipiunt eos. Notandum autem proptrer 
+      ca<lb ed="#B" n="83" break="no"/>sum decimum ex communicationis: quod hoc genus hominum 
+      <lb ed="#B" n="84"/>quos vocat frater Francis. de maro. 
+      achi<lb ed="#B" n="85" break="no"/>uos aut achimos: trinomii sunt: de quibus fa 
+      <lb ed="#B" n="86"/>cit mentionem Iacobus de vitriaco / in lib. quae 
+      <lb ed="#B" n="87"/>dicitur de terra sancta: et incipit: Postquam dieit: a 
+      <lb ed="#B" n="88"/>iuuentute enim sunt inbuti huiusmodi homines falsis 
+      <lb ed="#B" n="89"/>opinioibus: vt sint parati propater lucrum christianos 
+      <lb ed="#B" n="90"/>interficere: et non curant si post occidantur. 
+      <lb ed="#B" n="91"/>Hi primo dicuntur assisini: quia assistunt ad 
+      occi<lb ed="#B" n="92" break="no"/>dendum. De his frater Bartho. pisanus in sum 
+      <lb ed="#B" n="93"/>ma sua. c. de assisinis: et extra li. 6. ti. de ho 
+      <lb ed="#B" n="94"/>mitut. c. pro humani. Dicuntur secundo achimi: 
+      <lb ed="#B" n="95"/>quia sunt parati ad interimendum. Achim enim 
+      <lb ed="#B" n="96"/>paratus dicitur / vt dicit Papias. Uel 
+      di<lb ed="#B" n="97" break="no"/>citur ab a quod est sine / et chimus humor: quasi si 
+      <lb ed="#B" n="98"/>ne humore propter crudelitatem. Dicitur tertio 
+      <!--778.xml-->
+      <pb ed="#B" n="381-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>achiui forte quia descendunt ab acheo filio ino 
+      <lb ed="#B" n="2"/>uis: vnde oui. in epistolis. Quicquid delirant 
+      <lb ed="#B" n="3"/>reges plectuntur achiui. Tertia 
+      diffi<lb ed="#B" n="4" break="no"/>cultas est de sacrilegis. Si omnes sunt ex 
+      <lb ed="#B" n="5"/>communicatis dicitur quod non sunt excommunicati: quia hoc 
+      <lb ed="#B" n="6"/>expresse non habetur. sed de veneficiis: 
+      di<lb ed="#B" n="7" break="no"/>cit quod habetur expresse. Sed quid si quis 
+      in<lb ed="#B" n="8" break="no"/>iecit manum in clericum et post ingreditur in re 
+      <lb ed="#B" n="9"/>ligionem numquid potest absolui per praelatum: 
+      di<lb ed="#B" n="10" break="no"/>citur quod si non sit enormis iniectio potest: si ve 
+      <lb ed="#B" n="11"/>ro sit enormis non potest. Sed quid si duo 
+      <lb ed="#B" n="12"/>religiosi percusserint se: dicitur quod si non sit 
+      <lb ed="#B" n="13"/>enormis percussio quod praelatus vtriusque 
+      po<lb ed="#B" n="14" break="no"/>test absoluere eos: si vero sit enormis non 
+      <lb ed="#B" n="15"/>potest. Sed si religiosus percusserit clericum 
+      <lb ed="#B" n="16"/>lecularem. dicitur quod tunc praelatus absolue 
+      <lb ed="#B" n="17"/>re non potest sed papa. Ex his omnibus patet ad  
+      <lb ed="#B" n="18"/>questionem: quod vet ecclesia dei sic aliquos det 
+      <lb ed="#B" n="19"/>maiori excommunicatione ferire vt a sua clausu 
+      <lb ed="#B" n="20"/>ra remoueat. Et tunc ad argumenta.
+</p>
+               <p xml:id="WuV37d-f74549-d1e1424">
+¶ Ad  
+      <lb ed="#B" n="21"/>primum triplex est communio. Pure spiriualis 
+      <lb ed="#B" n="22"/>vt dilectio: pure corporalis vt 
+      conuersa<lb ed="#B" n="23" break="no"/>tio exterior: media vt sacramentorum sumptio: a 
+      <lb ed="#B" n="24"/>prima nullus in via separatur: a duobus aliis  
+      <lb ed="#B" n="25"/>bene propter melius.
+</p>
+               <p xml:id="WuV37d-f74549-d1e1438">
+¶ Ad secundum dicitur quod 
+      ex<lb ed="#B" n="26" break="no"/>ommunicatio est medicina his quas alio modo non 
+      <lb ed="#B" n="27"/>potest corrigere ecclesia ideo etc.
+</p>
+               <p xml:id="WuV37d-f74549-d1e1445">
+¶ Ad tertium di 
+      <lb ed="#B" n="28"/>cendum quod excommunicati nunc traduntur 
+      satha<lb ed="#B" n="29" break="no"/>ne: quia suffragia ecclesie remouentur eis per quo 
+      de<lb ed="#B" n="30" break="no"/>sendebantur a sathana: ideo non currit 
+      argu<lb ed="#B" n="31" break="no"/>mentum. Ex ista quaestione sicut de praecedem. 
+      <lb ed="#B" n="32"/>de mente magistri. tres eliciuntur conclusiones. 
+      </p>
+            </div>
+            <div xml:id="WuV37d-f74549-Dd1e1459" type="et-conclusiones">
+               <head xml:id="WuV37d-f74549-Hd1e1461">Conclusiones</head>
+               <p xml:id="WuV37d-f74549-d1e1464">
+                  <lb ed="#B" n="33"/>¶ Prima est clauis scientie vere asseritur esse 
+      <lb ed="#B" n="34"/>noticiae si magistro creditur. Dicit conclusio quod si nos 
+      <lb ed="#B" n="35"/>credimus magistro clauis scientie est habitus scientiae 
+      <lb ed="#B" n="36"/>et discretio. Et ponitur a principio dist. vsque 
+      <lb ed="#B" n="37"/>ad illud c. Cumque iam constat non omnes etc.
+</p>
+               <p xml:id="WuV37d-f74549-d1e1477">
+¶ Se 
+      <lb ed="#B" n="38"/>cunda conclusio. Omni sacerdoti clauis potentiae 
+      <lb ed="#B" n="39"/>collata est piae vt resistat morti. Dicit conclusio 
+      <lb ed="#B" n="40"/>quod omnes sacerdotes boni et mali clauem habent 
+      <lb ed="#B" n="41"/>potentiae vt possint eripere et vita et opere 
+      <lb ed="#B" n="42"/>populum de morte perditionis. Et ponitur ab 
+      <lb ed="#B" n="43"/>illo capitulo. Cumque etc. vsque ad illud capitulum. 
+      <lb ed="#B" n="44"/>Qualem autem oportuit esse etc.
+</p>
+               <p xml:id="WuV37d-f74549-d1e1495">
+¶ Tertia 
+      <lb ed="#B" n="45"/>conclusio est viuat iustius qui praeest popu 
+      <lb ed="#B" n="46"/>lo atque sincerius animo sedulo. Dicit conclusio: 
+      <lb ed="#B" n="47"/>sacerdos debet esse sanctus multum coram domino. 
+      <lb ed="#B" n="48"/>Et ponitur ab illo capitulo. Qualem autem 
+      <lb ed="#B" n="49"/>opor. etc. vsque ad finem distinctionis. 
+</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

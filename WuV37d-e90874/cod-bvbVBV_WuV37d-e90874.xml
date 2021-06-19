@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 27</title>
+            <author ref="#WilliamDeVaurouillon">William de Vaurouillon</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 27</title>
+               <date when="2021-06-19">June 19, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-bvbVBV">Basel 1510</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-06-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="195-v"/>
+            <cb ed="#B" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="WuV37d-e90874"><!-- l2d27 -->
+            <head xml:id="WuV37d-e90874-Hd1e108">Distinctio 27</head>
+            <div xml:id="WuV37d-e90874-Dd1e111" type="circa-textum">
+               <head xml:id="WuV37d-e90874-Hd1e113">Circa textum</head>
+               <p xml:id="WuV37d-e90874-d1e116">
+                  <lb ed="#B" n="46"/>Distinctio. 27. in qua magister agit de 
+      <lb ed="#B" n="47"/>adiutorio gratiae quatum consideratur 
+      <lb ed="#B" n="48"/>eius habitus gratuitus qui est vil 
+      <lb ed="#B" n="49"/> 
+                  <!-- line coord error ?? -->
+                  <!--407.xml-->
+                  <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>Ac considera 
+      <lb ed="#B" n="51"/>dum cum predicium sit per 
+      <lb ed="#B" n="52"/>gratiam operantem et 
+      <lb ed="#B" n="53"/> preuenientem 
+      voluta<lb ed="#B" n="54" break="no"/>9 tem homins liberari acprae 
+      <lb ed="#B" n="55"/>parari etc. Hic signatur. 27. dist. huius secundi 
+      <lb ed="#B" n="56"/>quae sic continuatur ad praecedentes: Nam 
+      post<lb ed="#B" n="57" break="no"/>quam in praecedenti dist. egit magister de ipsa gra 
+      <lb ed="#B" n="58"/>tia quo ad arbitrium ingenitum in quo est 
+      sub<lb ed="#B" n="59" break="no"/>iectiue: nunc in praesenti distin. agit de 
+      ea<lb ed="#B" n="60" break="no"/>dem ad habitum gratuitum scilicet virtutes. 
+      <lb ed="#B" n="61"/>Et diuiditur in tres partes principales. 
+      <lb ed="#B" n="62"/>In prima gratiae operantis et cooperantis 
+      <lb ed="#B" n="63"/>notatur vnitas. In secunda gratiae in via me 
+      <lb ed="#B" n="64"/>rentis aperitur maioritas. In tertia 
+      vir<lb ed="#B" n="65" break="no"/>tutis decorantis perquiritur actiuitas. pri 
+      <lb ed="#B" n="66"/>ma in pricipio nostri textus vbi doctor 
+      de<lb ed="#B" n="67" break="no"/>uotus hanc incipit distin. secunda ibi. Si 
+      <lb ed="#B" n="68"/>vero quaeritur quomodo ipsa gratia etc. vbi sanctus 
+      <lb ed="#B" n="69"/>tho. praesentem incipit distin. tertia ibi. Hic 
+      <lb ed="#B" n="70"/>videndum est quid sit virtus etc. Ubi commu 
+      <lb ed="#B" n="71"/>nis opinio praesentem inchoat distinc. ita quod ista 
+      <lb ed="#B" n="72"/>27. distin. tria habet initia secundum diuersas 
+      <lb ed="#B" n="73"/>opiniones: videtur autem verior situatio doc. 
+      <lb ed="#B" n="74"/>deuoti quem ego hic sum secutus: quia inci 
+      <lb ed="#B" n="75"/>pit hic agere de gratia: inquantum continu 
+      <lb ed="#B" n="76"/>atur ad virtutes de quibus principaliter 
+      <lb ed="#B" n="77"/>est tota distinctio. vnde duabus partibus 
+      pri<lb ed="#B" n="78" break="no"/>mis indiuisis manentibus: rursus tertia 
+      <lb ed="#B" n="79"/>particula in qua virtutis decorantis etc. in 
+      <lb ed="#B" n="80"/>tres partes diuiditur. In prima virtutis 
+      poni<lb ed="#B" n="81" break="no"/>tur patens diffinitio. In secunda voluntatis  
+      <lb ed="#B" n="82"/>tangitur ex gratia grata curatio. In tertia bre 
+      <lb ed="#B" n="83"/>uis concluditur epilogatio. prima in principio.  
+      <lb ed="#B" n="84"/>secunda ibi. Si gitur gratia quae. etc. tertia ibi. Ex 
+      <lb ed="#B" n="85"/>praemissis iam innotescere etc. Rursus prima 
+      <lb ed="#B" n="86"/>particula indiuisa. secunda pars in qua volunta 
+      <lb ed="#B" n="87"/>tis tangitur ex gratia gratis curatio: in tres partes 
+      <lb ed="#B" n="88"/>diuiditur. In prima esse sanitatis ex gratia dicit 
+      <lb ed="#B" n="89"/>principium. In secunda ostendit: quod meritum 
+      <lb ed="#B" n="90"/>sanctitatis ex fonte hic habet initium. In 
+      ter<lb ed="#B" n="91" break="no"/>tia ostendit: quod decor venustatis virtusque 
+      <lb ed="#B" n="92"/>hic capit fastigium. prima in principio. secunda 
+      <lb ed="#B" n="93"/>ibi. Cum ergo ex gratia dimintur esse bona mexita. 
+      <lb ed="#B" n="94"/>tertia ibi. Ex mumeribus itaque virtutum etc. Et se 
+      <lb ed="#B" n="95"/>quitur vltima particula. Ex praemissis iam 
+      innote<lb ed="#B" n="96" break="no"/>scere etc. In qua brevis ponitur epilogatio. 
+      <lb ed="#B" n="97"/>Et hoc in tres diuiditur. In prima denotatur finis 
+      <!--408.xml-->
+      <pb ed="#B" n="196-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>prouerbii. In secunda actus venatur virtutis at 
+      <lb ed="#B" n="2"/>que arbitrii. In tertia sermo segregatur 
+      assum<lb ed="#B" n="3" break="no"/>parti dubii. prima in principio. secunda ibi. Idem 
+      <lb ed="#B" n="4"/>nempe vsus bonus etc. tertia ibi. Praemissis 
+      <lb ed="#B" n="5"/>aliisque rationibus etc. Haec est diuisio 
+      prae<lb ed="#B" n="6" break="no"/>sentis distinctionis. Circa quam etc.
+    </p>
+            </div>
+            <div xml:id="WuV37d-e90874-Dd1e258">
+               <head xml:id="WuV37d-e90874-Hd1e260">Quaestio</head>
+               <p xml:id="WuV37d-e90874-d1e263">
+                  <lb ed="#B" n="7"/>Questio praesens docet de gratia 
+      <lb ed="#B" n="8"/>sub cosideratione virtutis et meriti 
+      <lb ed="#B" n="9"/>prout respicit gloriam et gratiam primam: 
+      <lb ed="#B" n="10"/>notat thoma de distinctione gratiae 
+      <lb ed="#B" n="11"/>et virtutis: et habetur a scoto in isto lo 
+      <lb ed="#B" n="12"/>coq. vnica. 
+      <lb ed="#B" n="13"/>Utrum gratie vir 
+      <lb ed="#B" n="14"/>tus primam possit mereri merenti 
+      <lb ed="#B" n="15"/>gratiam. Et arguitur quod sic triplici 
+      <lb ed="#B" n="16"/>medio.
+</p>
+               <p xml:id="WuV37d-e90874-d1e287">
+¶ Primo sic. Omne potens in ma 
+      <lb ed="#B" n="17"/>ius potest in minus: sed quis potest per gratiam 
+      mere<lb ed="#B" n="18" break="no"/>ri glusiam sibi quae est maior prima gratia: igitur et 
+      <lb ed="#B" n="19"/>poterit primam mereri gratiam. maior patet 
+      <lb ed="#B" n="20"/>ex regula thopica a maiori ad minus. Si 
+      <lb ed="#B" n="21"/>enim potest rex ciuitatem expugnare: ergo et 
+      <lb ed="#B" n="22"/>castrum. Sed minor patet auctoritate apostoli 
+      <lb ed="#B" n="23"/>In reliquo reposita est mihi corona iusti 
+      <lb ed="#B" n="24"/>ciae quam reddet mihi dominus in illa die iustus 
+      <lb ed="#B" n="25"/>iudex: et ita exquo redditur modo iudicii 
+      <lb ed="#B" n="26"/>videtur mereri.
+</p>
+               <p xml:id="WuV37d-e90874-d1e311">
+¶ Secundo arguitur sic. 
+      <lb ed="#B" n="27"/>Non est minus efficax vsus rei 
+      spiritua<lb ed="#B" n="28" break="no"/>lis quam corporalis: immo efficatior. Sed in 
+      <lb ed="#B" n="29"/>corporalibus potest quis mereri iam 
+      ha<lb ed="#B" n="30" break="no"/>bitum. ergo et in spiritualibus. maior patet 
+      <lb ed="#B" n="31"/>ex eo quod nobiliora sunt spiritualia 
+      corporali<lb ed="#B" n="32" break="no"/>bus: et per consequens eorum vsus magis expeditior 
+      <lb ed="#B" n="33"/>sed minor probatur exemplo. Potest enim miles 
+      me<lb ed="#B" n="34" break="no"/>reri equum iam sibi a rege donatum: seu aliud per 
+      <lb ed="#B" n="35"/>ieruitia exhibita seu exhibenda
+</p>
+               <p xml:id="WuV37d-e90874-d1e333">
+¶ Tertio 
+      <lb ed="#B" n="36"/>arguitur sic: plus est efficax meritum in ordine 
+      <lb ed="#B" n="37"/>ad illum cuius est: quam ad alium: sed quis potest 
+      mere<lb ed="#B" n="38" break="no"/>ri alteri primam gratiam. ergo et sibi. maior patet 
+      <lb ed="#B" n="39"/>quia videtur idem sibi intimius vnde et glo. sup illo 
+      <lb ed="#B" n="40"/>verbo. Uidens iesus fidem illorum etc. dicit Quam 
+      <lb ed="#B" n="41"/>tum ve vnicuique fides propria si tantum valuit 
+      <lb ed="#B" n="42"/>aliena. q. d. multomagis. minor vero est 
+      <lb ed="#B" n="43"/>Aug. in li. de praedestinatione sanctorum. In op 
+      <lb ed="#B" n="44"/>positum est illud apostoli. ad roma. Si enim 
+      <lb ed="#B" n="45"/>inquit ex operibus esset gratia: iam gratia non 
+      <lb ed="#B" n="46"/>esset gratia: et ita si primam gratiam nobis me 
+      <lb ed="#B" n="47"/>remur iam prima gratia gratia non diceretur. 
+      <!--408.xml-->
+      <cb ed="#B" n="b"/>
+               </p>
+               <p xml:id="WuV37d-e90874-d1e367">
+                  <lb ed="#B" n="48"/>¶ In ista quaestione sunt tres articli declarandi 
+      <lb ed="#B" n="49"/>Primus est terminorum declaratiuus 
+      <lb ed="#B" n="50"/>Quorum Secundus est quaestionis responsiuus. 
+      <lb ed="#B" n="51"/>Tertius est dubiorum motiuus. 
+      <lb ed="#B" n="52"/>articu 
+      <lb ed="#B" n="53"/>lum 
+      ter<lb ed="#B" n="54" break="no"/>mini sunt virtus: meritum: et prima gratia.
+</p>
+               <p xml:id="WuV37d-e90874-d1e385">
+¶ Pri 
+      <lb ed="#B" n="55"/>mus igitur terminus est virtus vnde virtus so 
+      <lb ed="#B" n="56"/>let accipi tripliciter: communissime: communiter 
+      <lb ed="#B" n="57"/>et proprie. Communissime primo modo capiendo 
+      <lb ed="#B" n="58"/>virtutem se extendit etiam ad naturam: vnde 
+      dicun<lb ed="#B" n="59" break="no"/>tur virtutes naturales: sicut philosophus in lib 
+      <lb ed="#B" n="60"/>de caelo et mundo diffinit virtutem. Uirtus inquit 
+      <lb ed="#B" n="61"/>est vltimum de potentia et complexibus: quia in 
+      or<lb ed="#B" n="62" break="no"/>dine ad finem in. 7. philosophicorum. Uirtus inquit est dis 
+      <lb ed="#B" n="63"/>positio perfecti ad optimum. Secundo accipi 
+      <lb ed="#B" n="64"/>tur communiter: et sic complectitur virtutem 
+      mo<lb ed="#B" n="65" break="no"/>ralem et politicam: et diffinitur a philosopho in. 2. ethico 
+      <lb ed="#B" n="66"/>rum. Uirtus est hitus qui habentem perficit: et eius opus 
+      <lb ed="#B" n="67"/>bonum reddit. Et complexius in eodem secundo: quia per 
+      <lb ed="#B" n="68"/>respectum ad principium dirigens. Ultra dicta 
+      <lb ed="#B" n="69"/>virtus est hitus electiuus in medio consistens: re 
+      <lb ed="#B" n="70"/>cta ratione determinatus prout sapiens 
+      deter<lb ed="#B" n="71" break="no"/>minabit. Tertimo accipitur propse: et sic sola vir 
+      <lb ed="#B" n="72"/>tus theologica vel theologicis associata 
+      <lb ed="#B" n="73"/>dicitur virtus. Et sic capitur in quaestione nostra quam 
+      <lb ed="#B" n="74"/>diffiniens aug. in li. soliloquiorum dicit: Uirtus 
+      <lb ed="#B" n="75"/>est ratio recta ad summum finem perueniens: vel 
+      com<lb ed="#B" n="76" break="no"/>plexius diffinitur ab eodem aug: et ponitur in istra 
+      <lb ed="#B" n="77"/>Uirtus est bona qualitas mentis qua recte viuitr 
+      <lb ed="#B" n="78"/>qua nullus male vtitur: quam deus operatur in nobis 
+      <lb ed="#B" n="79"/>sine nob. In qua diffinitione tria tangit. 
+      Pri<lb ed="#B" n="80" break="no"/>mo genus virtutis: dum dicit quod virtus est 
+      bo<lb ed="#B" n="81" break="no"/>na qualitas mentis. Est enim virtus in praedicamen 
+      <lb ed="#B" n="82"/>to qualitatis: et in prima specie quo ad essentiam: et in 
+      <lb ed="#B" n="83"/>mente quo ad subiectum: et debet hoc mens accipi 
+      <lb ed="#B" n="84"/>non pro memoria: vt dicitur a meminisse: sed pro 
+      in<lb ed="#B" n="85" break="no"/>tellectu et voluntate: vt dicitur ab eminere: quia 
+      in<lb ed="#B" n="86" break="no"/>tellectus et voluntas sunt eminentiores animae po 
+      <lb ed="#B" n="87"/>tentiae: et in his collocantur omnes animae virtutes:  
+      <lb ed="#B" n="88"/>vt patebit in tertio. Secundo tangit effectum 
+      <lb ed="#B" n="89"/>virtutis dum dicit: quod est qua recte viuiter scilicet primo 
+      <lb ed="#B" n="90"/>in his quae sunt ad finem recte referendo. Secundo 
+      <lb ed="#B" n="91"/>ipso fine recte eum diligendo: virtus enim quadam est 
+      <lb ed="#B" n="92"/>rectitudo seu ordo. Unde aug. in li. de 
+      mori<lb ed="#B" n="93" break="no"/>bus ecclesie diffiniens virtutem dicit: Uirtus est 
+      <lb ed="#B" n="94"/>ordo amoris: seu amor ordinatus. Additur 
+      <lb ed="#B" n="95"/>qua nemo male vtitur: et debet intelligi de per se 
+      <lb ed="#B" n="96"/>licem per occasionem dicantur aliquotiens virtutes 
+      <!--409.xml-->
+      <pb ed="#B" n="196-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>inflante dum ex dei donis quis in superbiam erigitur 
+      <lb ed="#B" n="2"/>Tertio principaliter dicitur quam operatur in nobis de 
+      <lb ed="#B" n="3"/>us sine nob: et tangitur causa efficiens: et patet clare 
+      <lb ed="#B" n="4"/>quod loquitur de virtute infusa non 
+      acquisi<lb ed="#B" n="5" break="no"/>ta. Et debet capi sine nobis effectiue non 
+      <lb ed="#B" n="6"/>subiectiue: qui sumus subiectum virtutum 
+      <lb ed="#B" n="7"/>vt concludatur: quod virtus est bona qualitas mem 
+      <lb ed="#B" n="8"/>tis qua recte viuitur: qua nemo male vtitur: quam 
+      <lb ed="#B" n="9"/>operatur deus in nobis sine nobis.
+</p>
+               <p xml:id="WuV37d-e90874-d1e505">
+¶ Secun 
+      <lb ed="#B" n="10"/>dus terminus est meritum: vnde vltra di 
+      <lb ed="#B" n="11"/>cta de merito dist. 17. primi vbi data fuit 
+      <lb ed="#B" n="12"/>cius diffinitio. Et. 41. vbi diuisum fuit in me 
+      <lb ed="#B" n="13"/>ritum condigni: digni et congrui: Noto ot 
+      <lb ed="#B" n="14"/>ad praesens: quod meritum congrui potest accipus 
+      <lb ed="#B" n="15"/>tripliciter. Primo vt sola sit congruitas 
+      <lb ed="#B" n="16"/>cum indignitate: sicuti dum quis per opera bo 
+      <lb ed="#B" n="17"/>na ex genere extra charitatem facta meret 
+      <lb ed="#B" n="18"/>de congruo primam gratiam. Est enim congrui 
+      <lb ed="#B" n="19"/>tas ratione bonorum operum ex genere: sec 
+      <lb ed="#B" n="20"/>indignitas: quia inimicus extat dei: nec est 
+      <lb ed="#B" n="21"/>dignus pane quo vescitur. Secundo capus 
+      <lb ed="#B" n="22"/>tur meritum congrui quando est dignitas 
+      <lb ed="#B" n="23"/>cum indignitate: sicuti dum vir iustus 
+      me<lb ed="#B" n="24" break="no"/>retur peccatori primam gratiam. ratione viri 
+      <lb ed="#B" n="25"/>iusti est dignitas: ratione peccatoris indi 
+      <lb ed="#B" n="26"/>gnitas. Tertio capitur meritum congrur 
+      <lb ed="#B" n="27"/>quando est dignitas cum inferioritate: sicuti 
+      <lb ed="#B" n="28"/>dum quis ex minori gratia maiorem meretur 
+      <lb ed="#B" n="29"/>est quippe dignitas: quia is qui meretur est i 
+      <lb ed="#B" n="30"/>statu gratiae. Est rursus inferioritas: quia ei 
+      <lb ed="#B" n="31"/>minori ad maiorem proceditur charitatem. 
+      </p>
+               <p xml:id="WuV37d-e90874-d1e555">
+                  <lb ed="#B" n="32"/>¶ Tertius terminus est gratia prima: 
+      <lb ed="#B" n="33"/>et dicitur tripliciter: vno mo dicitur gratia pri 
+      <lb ed="#B" n="34"/>ma illud a quae caeterae profluunt gratiae: et sic deus dicitur 
+      <lb ed="#B" n="35"/>prima gratia. Dem enim donum perfectum desursum est 
+      <lb ed="#B" n="36"/>descendens a patre luminum. Secundo dicitur prima 
+      <lb ed="#B" n="37"/>gratia ipsa glia quae est summa gratia creata: et dicitur pr 
+      <lb ed="#B" n="38"/>ma ratione perfectionis: glia nempe nihil aliud est 
+      <lb ed="#B" n="39"/>nisi gratia consumata: adequabit inquit e3ach. gra 
+      <lb ed="#B" n="40"/>tiam etc. Tertio dicitur prima gratia primus habitus  
+      <lb ed="#B" n="41"/>gratuitus animam illuminans vel prioritate 
+      tem<lb ed="#B" n="42" break="no"/>poris vel naturae sicuti in peruulis gratia bapus 
+      <lb ed="#B" n="43"/>tismalis: et in adultis gratia in contritione ha 
+      <lb ed="#B" n="44"/>bita: et sic accipitur in titulo questionis. 
+      <lb ed="#B" n="45"/>articulum 
+      <lb ed="#B" n="46"/>sunt tres 
+      <lb ed="#B" n="47"/>conclusiones. prima est de identitate virtu 
+      <lb ed="#B" n="48"/>tis et gratiae. secunda de merito gratiae respectu 
+      <lb ed="#B" n="49"/>gluniae quae dicitur prima in perfectione. tertia de 
+      <!--409.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>merito gratiae respectu primae gratiae 
+      pro<lb ed="#B" n="51" break="no"/>prie sumpte.
+</p>
+               <p xml:id="WuV37d-e90874-d1e605">
+¶ Prima est haec. In anima 
+      <lb ed="#B" n="52"/>sic vnica gratia consistit: vt et ipsa 
+      charita<lb ed="#B" n="53" break="no"/>tis virtus nominetur. Dicit prima pars conclusionis: quod 
+      <lb ed="#B" n="54"/>vnica gratia gratum faciens est in anima probatur: si 
+      <lb ed="#B" n="55"/>enim in nobis pilres ponerentur gratiae hoc esset 
+      ma<lb ed="#B" n="56" break="no"/>xime: quia prima esset remouendo culpam. secunda 
+      <lb ed="#B" n="57"/>vero illunminando: sicut diuidere videtur aug. 
+      <lb ed="#B" n="58"/>gratiam in praeuenientem et subsequentem. Sed hoc 
+      <lb ed="#B" n="59"/>est falsum. igitur. probatur minor a fortiori. 
+      <lb ed="#B" n="60"/>In corporalibus enim idem lumen fugat tene 
+      <lb ed="#B" n="61"/>bras ab aere et aerem illuminat: ergo a 
+      for<lb ed="#B" n="62" break="no"/>tiori in spiritualibus eadem gratia peccatum 
+      re<lb ed="#B" n="63" break="no"/>mouebit: et animam perficiet. Ex quo patet quod 
+      <lb ed="#B" n="64"/>omnes iste diuisiones gratiae in 
+      cooperan<lb ed="#B" n="65" break="no"/>tem et operantem praeuenientem et subsequen 
+      <lb ed="#B" n="66"/>tem debent intelligi quo ad effectum: et non 
+      <lb ed="#B" n="67"/>essentiam gratiae. Et quod dicit apostolus 
+      <lb ed="#B" n="68"/>Diuisiones gratiarum sunt: loquitur 
+      de<lb ed="#B" n="69" break="no"/>gratiis gratis datis solum: sicut patet per 
+      <lb ed="#B" n="70"/>exempla sua: non autem de gratia gratum 
+      <lb ed="#B" n="71"/>faciente. Et quod ponunt medici ex parte 
+      cor<lb ed="#B" n="72" break="no"/>poris triplicem medicinam praeseruatiuam 
+      <lb ed="#B" n="73"/>curatiuam et restauratiuam non obuiat: quia 
+      <lb ed="#B" n="74"/>quod in corpore plura faciunt: vnica 
+      perfe<lb ed="#B" n="75" break="no"/>cta gratia in anima facit: nec obuiat quod 
+      cul<lb ed="#B" n="76" break="no"/>pae quibus gratia opponitur multe sunt: 
+      <lb ed="#B" n="77"/>et vno multiplicato oppositorum reliquum 
+      <lb ed="#B" n="78"/>dicitur multiplicari: hoc enim intelligi 
+      ha<lb ed="#B" n="79" break="no"/>bet dum vtrumque oppositum positionem dicit 
+      <lb ed="#B" n="80"/>non alis: culpa autem formaliter nominat solum 
+      <lb ed="#B" n="81"/>privationem. Unde quia bonum vno modo et ex in 
+      <lb ed="#B" n="82"/>tegra est causa: malum autem omnifariam: nihil 
+      <lb ed="#B" n="83"/>prohibet vni bono multa opponi mala: 
+      <lb ed="#B" n="84"/>et patet in moralibus vnam virtutem vtputa 
+      <lb ed="#B" n="85"/>fortitudinem duo habere opposita 
+      audaci<lb ed="#B" n="86" break="no"/>am et timiditatem. Unde recte vt habet 
+      <lb ed="#B" n="87"/>doct. deuo. q. 1. huius dist. congruit vnicam 
+      <lb ed="#B" n="88"/>esse in anima gratiam: tum primo quia a deo causatur 
+      <lb ed="#B" n="89"/>qui vnicus est: tum secundo: quia homo vnicus per eam 
+      <lb ed="#B" n="90"/>acceptatur: tum tertio. quia ad vnicum bonum 
+      <lb ed="#B" n="91"/>scilicet ad felicitatem per eam ordinatur. Secunda 
+      <lb ed="#B" n="92"/>pars dicit: quod ista gratia nominatur virtus cha 
+      <lb ed="#B" n="93"/>ritatis. probatur. in virtute argumento doct. 
+      <lb ed="#B" n="94"/>subti. in ista distinctione. deus et natura ni 
+      <lb ed="#B" n="95"/>hil faciunt frustra: ex de caelo et mundo. Sed  
+      <lb ed="#B" n="96"/>videretur superfluitas ponendo charitatem et 
+      <lb ed="#B" n="97"/>gratiam distingui. ergo non distinguuntur. minor 
+      <lb ed="#B" n="98"/>declaratur. Omnes enim effectus gratiae 
+      <!--410.xml-->
+      <pb ed="#B" n="197-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>conuenientes: charitati conueniunt. probatur. 
+      <lb ed="#B" n="2"/>Solent enim tres ternarii effectus attribui 
+      <lb ed="#B" n="3"/>gratiae a theologis: quorum primus 
+      ternari<lb ed="#B" n="4" break="no"/>us est recreare animam informare et 
+      viuifi<lb ed="#B" n="5" break="no"/>care: et patet quod aequae competit charitati. Secundus 
+      <lb ed="#B" n="6"/>ternarius est illuminare assimilare et 
+      vni<lb ed="#B" n="7" break="no"/>re: et patet quod competit charitati. Tertius 
+      <lb ed="#B" n="8"/>ternarius est stabilire: acceptabilem deo 
+      <lb ed="#B" n="9"/>reddere: et affectum sursum eleuare: et patet 
+      <lb ed="#B" n="10"/>quod aeque competit charitati. Et breviter 
+      ne<lb ed="#B" n="11" break="no"/>quit dari effectus quin sicut conuenit gra 
+      <lb ed="#B" n="12"/>tiae: ita et conueniat charitati. Ex quo relin 
+      <lb ed="#B" n="13"/>quitur quod si distinguerentur gratia et 
+      cha<lb ed="#B" n="14" break="no"/>ritas vna superflueret. Ex quo patet 
+      pri<lb ed="#B" n="15" break="no"/>modo quod gratia est habitus et virtus: et 
+      con<lb ed="#B" n="16" break="no"/>sistit in voluntate: sicut charitas: quia eadem est 
+      <lb ed="#B" n="17"/>patet secundo: quod hoc ponendo potest faciliter 
+      <lb ed="#B" n="18"/>sustineri opinio magistri: de qua dictum est 
+      <lb ed="#B" n="19"/>dist. 17. primi: ita vt dicatur quod intelligit quod 
+      <lb ed="#B" n="20"/>non per alium habitum a charitate monet nos 
+      <lb ed="#B" n="21"/>ad meritoriae operandum: quod non ita diceretur 
+      <lb ed="#B" n="22"/>si poneret gratiam distingui a charitate. 
+      <lb ed="#B" n="23"/>Et tertio patet: quod sine causa posuit sancti 
+      <lb ed="#B" n="24"/>Tho. gratiam distingui a virtute: et ita a 
+      <lb ed="#B" n="25"/>charitate: quia inquit ab ipsa gratia fluunt 
+      <lb ed="#B" n="26"/>virtutes quae differunt per essentiam: hac salua 
+      <lb ed="#B" n="27"/>sua reuerentia satis in superficie dictum est. Si 
+      <lb ed="#B" n="28"/>enim vt inquit ita profluerent virtutes ab ipsa 
+      <lb ed="#B" n="29"/>gratia velut a radice. ergo sicuti dum arbo 
+      <lb ed="#B" n="30"/>ris radix succiditur arbor deficit: et ea quae 
+      <lb ed="#B" n="31"/>in ea sunt: ita si quis perderet gratiam 
+      per<lb ed="#B" n="32" break="no"/>deret et fidem et spem: quod nullo modo 
+      vi<lb ed="#B" n="33" break="no"/>detur: non enim tunc oporteret distinguere 
+      <lb ed="#B" n="34"/>inter fidem informen et formatam. Et si 
+      obiici<lb ed="#B" n="35" break="no"/>atur: quia charitas videtur perfectio 
+      sim<lb ed="#B" n="36" break="no"/>pliciter non gratia: et ita non sunt idem. 
+      pro<lb ed="#B" n="37" break="no"/>batur assumptum: quia bene dicimus quod deus est 
+      <lb ed="#B" n="38"/>charus nobis non autem gratus: sed bene 
+      dici<lb ed="#B" n="39" break="no"/>mus quod sumus gratuito. Respondendum quod ista 
+      <lb ed="#B" n="40"/>differia solum venit ex communi loquentium vsu: 
+      <lb ed="#B" n="41"/>quia superiores dicuntur chari inferioribus 
+      <lb ed="#B" n="42"/>et inferiores igrati superioribus: licet a parte rei 
+      <lb ed="#B" n="43"/>idem sint: et gratia et charitas.
+</p>
+               <p xml:id="WuV37d-e90874-d1e809">
+¶ Secunda 
+      <lb ed="#B" n="44"/>conclusio est de merito gratie respectu gliae 
+      <lb ed="#B" n="45"/>quae dicitur prima gratia quo ad perfectionem 
+      <lb ed="#B" n="46"/>et est haec. Licet gratia et gloria eiusdem sint ratio 
+      <lb ed="#B" n="47"/>nis de condigno: tamen per gratiam quis meretur 
+      <lb ed="#B" n="48"/>et gloriam. Prima pars dicit: quod gratia viae 
+      <lb ed="#B" n="49"/>et gloria sunt eiusdem rationis. probatur 
+      <!--410.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>perfectum et imperfectum nisi aliunde 
+      dif<lb ed="#B" n="51" break="no"/>ferant eiusdem sunt rationis: sed gratia 
+      <lb ed="#B" n="52"/>et gloria differunt: sicuti perfectum et 
+      imper<lb ed="#B" n="53" break="no"/>fectum: nec alia occurrit distinctio. igit. Et 
+      <lb ed="#B" n="54"/>confirmatur: quia scribitur. quod charitas num 
+      <lb ed="#B" n="55"/>quam excidit: cum ergo idem sit: quod gratia ex 
+      <lb ed="#B" n="56"/>praecedenti conclusione sequitur etc. et cum 
+      <lb ed="#B" n="57"/>sit vita animae sequeretur: quod in patria anima 
+      <lb ed="#B" n="58"/>haberet duplicem vitam vltra vitam naturae: 
+      <lb ed="#B" n="59"/>quia certum est: quod in gloria extat vita. consequens 
+      <lb ed="#B" n="60"/>tamen est falsum. Secunda enim stola dicitur 
+      <lb ed="#B" n="61"/>corporis immortalitas: nec obuiat quod op 
+      <lb ed="#B" n="62"/>positum gloriae scilicet fides stat cum gratia: quia 
+      <lb ed="#B" n="63"/>hoc solu est ratione status: aut quod 
+      corrupti<lb ed="#B" n="64" break="no"/>bilis est gratia: et incorruptibilis glia et 
+      ta<lb ed="#B" n="65" break="no"/>lia secundum philosophum differunt plusquam gene: verum est 
+      <lb ed="#B" n="66"/>hoc quando ex sua natura hoc habent quod non 
+      <lb ed="#B" n="67"/>est in proposito: sed dono speciali dei est: 
+      <lb ed="#B" n="68"/>quod gloria est incorruptibilis. Et si dicatur 
+      <lb ed="#B" n="69"/>quia via differt a termino: gratia est via: 
+      <lb ed="#B" n="70"/>gloria terminus. igitur. iam dictum est quod 
+      <lb ed="#B" n="71"/>solus status sufficit ad saluandum talia. No 
+      <lb ed="#B" n="72"/>to tamen hic gloriam accipi pro habitu 
+      cha<lb ed="#B" n="73" break="no"/>titatis consumato non pro visione aut fru 
+      <lb ed="#B" n="74"/>itione dei. Sic enim in actibus secundis: et 
+      <lb ed="#B" n="75"/>non primis extat glesia beatorum. Sed dicebat 
+      <lb ed="#B" n="76"/>secunda pars conclusionis quod de condigno quis potest me 
+      <lb ed="#B" n="77"/>reri gloriam mediante gratia probatur. Qui vinci 
+      <lb ed="#B" n="78"/>tur dignus est ignominia: ergo qui vincit 
+      <lb ed="#B" n="79"/>gloria. Et patet: quia si malus male 
+      ope<lb ed="#B" n="80" break="no"/>rando meretur paenam: ergo et bonus bene 
+      ope<lb ed="#B" n="81" break="no"/>rando meretur gloriam. Et si obiiciatur 
+      <lb ed="#B" n="82"/>her illud. Non sunt condigne passiones 
+      <lb ed="#B" n="83"/>huius temporis ad futuram gloriam quae 
+      re<lb ed="#B" n="84" break="no"/>uelabitur in nobis. Et. 6. eiusdem. Stipen 
+      <lb ed="#B" n="85"/>dia peccati mors: gratia autem dei vita aeter 
+      <lb ed="#B" n="86"/>na: vbi glo. maluit dicere: gratia dei vita 
+      <lb ed="#B" n="87"/>aeterna: vt intelligeremus deum ad vitam 
+      aeter<lb ed="#B" n="88" break="no"/>nam pro sua miseratione nos perducere 
+      <lb ed="#B" n="89"/>et ita non meretur ex condigno. Egregie doc. 
+      <lb ed="#B" n="90"/>deuotus arti. 2. q. 3. respondet quod potest 
+      fie<lb ed="#B" n="91" break="no"/>ri comparatio in opere meritorio ad tria. 
+      <lb ed="#B" n="92"/>primo ad voluntatem merentem. secundo ad  
+      <lb ed="#B" n="93"/>deum acceptantem: et tertio ad operis statum. 
+      <lb ed="#B" n="94"/>Si primo fiat comparatio ad voluntatem me 
+      <lb ed="#B" n="95"/>rentem: aut ratione voluntatis libere: et sic 
+      <lb ed="#B" n="96"/>solum est meritum de congruo: aut ratione 
+      <lb ed="#B" n="97"/>gratiae: et sic de condigno: quia ad hoc est 
+      <lb ed="#B" n="98"/>ordinata charitas. Si secundo fit compara¬ 
+      <!--411.xml-->
+      <pb ed="#B" n="197-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>tio ad deum acceptantem: aut ratione 
+      libe<lb ed="#B" n="2" break="no"/>ralitatis maxime in eo: et sic est meritum com 
+      <lb ed="#B" n="3"/>grui: aut ratione promissionis: et sic est com 
+      <lb ed="#B" n="4"/>digni: quia promissum dei ex parte sui 
+      in<lb ed="#B" n="5" break="no"/>fallibile est. Si tertio fiat aspectus ad sta 
+      <lb ed="#B" n="6"/>tum in quo fit opus: vel ratione temporis: et sic 
+      <lb ed="#B" n="7"/>est congruitas: quia tunc tempus extat 
+      se<lb ed="#B" n="8" break="no"/>minandi vt postmodum colligamus: aut 
+      <lb ed="#B" n="9"/>ratione arduitatis operis in quo preponimus 
+      <lb ed="#B" n="10"/>bonum aeternum nobis et sic est condignitas 
+      <lb ed="#B" n="11"/>Et per hanc distinctionem patet solutio ad 
+      <lb ed="#B" n="12"/>auctoritates dicentes: quod non possumus 
+      me<lb ed="#B" n="13" break="no"/>reri de condiguo vitam beatam et qualiter 
+      <lb ed="#B" n="14"/>meremur. Unde inter opuis meritorium et 
+      <lb ed="#B" n="15"/>vitam aeternam non est proportio arithume 
+      <lb ed="#B" n="16"/>tica: seu eiusdem quantitatis: sicuti est in 
+      <lb ed="#B" n="17"/>iusticia commutatiua: cum longe sit 
+      perfecti<lb ed="#B" n="18" break="no"/>or gloria quam meritum: sed proportio geo 
+      <lb ed="#B" n="19"/>metrica quae solam requirit proportionem: vt 
+      <lb ed="#B" n="20"/>in iusticia distributiua: ex. 5. ethi. Quia 
+      <lb ed="#B" n="21"/>tuuc iudex equissimus vnicuique dabit secundum 
+      <lb ed="#B" n="22"/>opera sua.
+</p>
+               <p xml:id="WuV37d-e90874-d1e990">
+¶ Tertia conclusio est: de 
+      <lb ed="#B" n="23"/>merito respectu gratiae primae proprie 
+      sun<lb ed="#B" n="24" break="no"/>pte: et est haec. Sic quis alii primam potest 
+      <lb ed="#B" n="25"/>mereri de congruo gratiam: vt sibi eam 
+      me<lb ed="#B" n="26" break="no"/>reri non possit. Dicit prima pars 
+      conclusi<lb ed="#B" n="27" break="no"/>onis: quod vnus potest alteri mereri de 
+      con<lb ed="#B" n="28" break="no"/>gruo primam gratiam. probatur auctoritate 
+      <lb ed="#B" n="29"/>expressa. Aug. in li. de predestinatione san 
+      <lb ed="#B" n="30"/>ctorum. Unde scribitur. Orate pro inuicem vt 
+      <lb ed="#B" n="31"/>saluemini. vnde noto quod si quis non possit pro 
+      <lb ed="#B" n="32"/>alio mereri de congruo primam gratiam. 
+      <lb ed="#B" n="33"/>Ex vno trium est: vel quia est extra 
+      charita<lb ed="#B" n="34" break="no"/>tem: et opus tale debet fieri in merito vel 
+      <lb ed="#B" n="35"/>secundo: quia licet habeat charitatem 
+      ta<lb ed="#B" n="36" break="no"/>men modicam habet: et solum in ipso 
+      suffi<lb ed="#B" n="37" break="no"/>cit. sicut est in paruo igne solum comburen 
+      <lb ed="#B" n="38"/>te quae prope sunt: vel tertio: quia is pro 
+      <lb ed="#B" n="39"/>quo meretur est aggrauatus peccatis: sicut 
+      <lb ed="#B" n="40"/>licet applicetur ignis lignis valde 
+      humi<lb ed="#B" n="41" break="no"/>dis non conburet. Sed dicit secunda pars 
+      <lb ed="#B" n="42"/>conclusionis: quod nullus potest sibi mereri 
+      pri<lb ed="#B" n="43" break="no"/>mam gratsam. probatur gratuitum et debitum 
+      op<lb ed="#B" n="44" break="no"/>ponuntur. ergo quanto aliquid est magis 
+      <lb ed="#B" n="45"/>gratuitum tanto ab eo magis debitum 
+      elon<lb ed="#B" n="46" break="no"/>gatur. Sed meritum id quod meretur quodam 
+      <lb ed="#B" n="47"/>modo efficit debitum adminus ex diuina pro 
+      <lb ed="#B" n="48"/>missione quae bene laboranti praemium 
+      re<lb ed="#B" n="49" break="no"/>promisit. igitur etc. Confirmatur: quia prin¬ 
+      <!--411.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>cipium merendi et meritum relatiue 
+      oppo<lb ed="#B" n="51" break="no"/>nuntur: sicut pater et filius: ergo sicuti ne 
+      <lb ed="#B" n="52"/>quit pater filii filius esse: sic nec principium 
+      <lb ed="#B" n="53"/>merendi mereri a merito. 
+      <lb ed="#B" n="54"/>quam articulum sunt 
+      <lb ed="#B" n="55"/>xtres difficul 
+      <lb ed="#B" n="56"/>tates.
+</p>
+               <p xml:id="WuV37d-e90874-d1e1071">
+¶ Prima est: qualiter gratia 
+      di<lb ed="#B" n="57" break="no"/>catur mater virtutum. Dicendum quod dicitur 
+      fi<lb ed="#B" n="58" break="no"/>nis virtutum. Dicitur secundo forma. Di 
+      <lb ed="#B" n="59"/>citur tertio mater. Dicitur finis: quia omnes 
+      <lb ed="#B" n="60"/>virtutes tendunt: vt simus dispositi ad ha 
+      <lb ed="#B" n="61"/>bendum charitatem: qua diligamus deum. 
+      <lb ed="#B" n="62"/>finis inquit paulus praecepti charitas. Dici 
+      <lb ed="#B" n="63"/>tur secundo forma: quia virtutes in 
+      debi<lb ed="#B" n="64" break="no"/>tos dirigit actus. Dicitur tertio mater: quia 
+      <lb ed="#B" n="65"/>sicut mater nutrit paruulum: sic ipsa 
+      vir<lb ed="#B" n="66" break="no"/>tutes. Et ideo est quod perdita charitate mens 
+      <lb ed="#B" n="67"/>in diuersa ruit vicia.
+</p>
+               <p xml:id="WuV37d-e90874-d1e1097">
+¶ Secunda 
+      diffi<lb ed="#B" n="68" break="no"/>cultas: quae sunt stole: quae dicuntur esse in 
+      <lb ed="#B" n="69"/>gloria: et non suut in gratia praesenti. 
+      Di<lb ed="#B" n="70" break="no"/>cendum quod prima stola animae est securitas scilicet de 
+      <lb ed="#B" n="71"/>sua beatitudine. secunda corporis scilicet 
+      immor<lb ed="#B" n="72" break="no"/>talitas. tertia poni potest totius coniuncti. 
+      </p>
+               <p xml:id="WuV37d-e90874-d1e1110">
+                  <lb ed="#B" n="73"/>¶ Tertia difficultas: an aliquis 
+      exi<lb ed="#B" n="74" break="no"/>stens in gratia possit mereri per suas orones: vt 
+      <lb ed="#B" n="75"/>si cadat in peccatum mortale: quod postmodum re / / 
+      <lb ed="#B" n="76"/>surgat. Dicit tho. q. 4 huius dist. quod non: 
+      <lb ed="#B" n="77"/>quia opera sua per peccatum sunt mortificata. 
+      <lb ed="#B" n="78"/>Ex quo patet ad questionem: vicem quod gratiae virtus 
+      <lb ed="#B" n="79"/>nequit merenti primam gratiam mereri: sed bene 
+      <lb ed="#B" n="80"/>aliis. Tunc ad argumenta.
+</p>
+               <p xml:id="WuV37d-e90874-d1e1130">
+¶ Ad primum: 
+      <lb ed="#B" n="81"/>argumentum neganda est maior: et dum 
+      proba<lb ed="#B" n="82" break="no"/>tur: quia est regula thopica. Dico quod illud in 
+      <lb ed="#B" n="83"/>telligitur quando illud ordinatur ordinatione con 
+      <lb ed="#B" n="84"/>simili ad magis et minus: vt patet in 
+      exem<lb ed="#B" n="85" break="no"/>plo. Non sic est in proposito: quia merens seu 
+      <lb ed="#B" n="86"/>is qui meretur ordinatur ad gloriam: sicut ad prae 
+      <lb ed="#B" n="87"/>mium: sed ad primam gratiam: sicut ad 
+      me<lb ed="#B" n="88" break="no"/>rendi fundamentum.
+</p>
+               <p xml:id="WuV37d-e90874-d1e1150">
+¶ Ad secundum dico 
+      <lb ed="#B" n="89"/>in summa quod efficacia nihil faciat in 
+      proposi<lb ed="#B" n="90" break="no"/>to: sed ratio gratuiti: equus enim vel aliud 
+      cor<lb ed="#B" n="91" break="no"/>porale de ratione sua non habent rationem gratuiti: 
+      <lb ed="#B" n="92"/>ionpotest mereri gratia autem prima habet maxime rationem 
+      <lb ed="#B" n="93"/>gtuiti: ideo non est simile.
+</p>
+               <p xml:id="WuV37d-e90874-d1e1164">
+¶ Ad tertium negatur 
+      ma<lb ed="#B" n="94" break="no"/>ior quo ad meritum primae gratie: et ratio est: quia dum ali 
+      <lb ed="#B" n="95"/>quis meretur alteri primam gratiam: non perdit 
+      <lb ed="#B" n="96"/>gratia in alio rationem gratuiti: si autem sibi 
+      <lb ed="#B" n="97"/>mereretur videretur amittere: tum quia mereri 
+      <lb ed="#B" n="98"/>alteri primam gratiam procedit ex gratia: quod non est 
+      <!--412.xml-->
+      <pb ed="#B" n="198-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>si quis pro se ipsam primam mereretur 
+      gra<lb ed="#B" n="2" break="no"/>tiam. Et quod obiicit de illa glo. quod plus proficit 
+      <lb ed="#B" n="3"/>fides propria quam aliena non habet intelligi 
+      <lb ed="#B" n="4"/>quo ad haec: sed quo ad alia propter 
+      cau<lb ed="#B" n="5" break="no"/>sas predictas. Et sic patet ad quaestionem. 
+      </p>
+            </div>
+            <div xml:id="WuV37d-e90874-Dd1e1196" type="et-conclusiones">
+               <head xml:id="WuV37d-e90874-Hd1e1198">Conclusiones</head>
+               <p xml:id="WuV37d-e90874-d1e1201">
+                  <lb ed="#B" n="6"/>¶ Ex praesenti autem dist. etc. Prima con 
+      <lb ed="#B" n="7"/>clusio. Eadem censetur gratia operans atque 
+      co<lb ed="#B" n="8" break="no"/>operans et magna docetur. Dicit conclusio. quod ea 
+      <lb ed="#B" n="9"/>dem est in essentia gratia operans et cooperans: et 
+      <lb ed="#B" n="10"/>numeratur inter magna bona. Et incipit in prin 
+      <lb ed="#B" n="11"/>cipio dist. vsque ibi. Hic videndum est quid 
+      <lb ed="#B" n="12"/>sit virtus etc.
+</p>
+               <p xml:id="WuV37d-e90874-d1e1219">
+¶ Secunda conclusio. Henti in 
+      <lb ed="#B" n="13"/>funduntur bona gratuita: et hinc producuntur 
+      <lb ed="#B" n="14"/>diuersa merita. Dicit conclusio: quod dona gratiarum 
+      <lb ed="#B" n="15"/>sunt nobis collata a deo et ipsis medianti 
+      <lb ed="#B" n="16"/>bus operamur meritoriae. Et iucipit in il 
+      <lb ed="#B" n="17"/>lo ca. Uidendum est quid sit virtus etc. vsque 
+      <lb ed="#B" n="18"/>ibi. Quod autem virtutes sint motus.
+</p>
+               <p xml:id="WuV37d-e90874-d1e1235">
+¶ 
+      Ter<lb ed="#B" n="19" break="no"/>tia conclusio: an operatio sit virtus proprie: 
+      <lb ed="#B" n="20"/>vel sola motio relinquo dubie. Dicit con 
+      <lb ed="#B" n="21"/>clusio seu magister in hac conclusione quod re 
+      <lb ed="#B" n="22"/>linquit pro dubio: vtrum operationes virtutum 
+      <lb ed="#B" n="23"/>sint virtutes vel non. Et incipit in illo ca. 
+      <lb ed="#B" n="24"/>Quod autem etc. vsque ad finem distinctionis.
+</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

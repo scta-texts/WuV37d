@@ -1,0 +1,713 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 36</title>
+            <author ref="#WilliamDeVaurouillon">William de Vaurouillon</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 36</title>
+               <date when="2021-06-19">June 19, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-bvbVBV">Basel 1510</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-06-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="419-v"/>
+            <cb ed="#B" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="WuV37d-f94400"><!-- l4d36 -->
+            <head xml:id="WuV37d-f94400-Hd1e108">Distinctio 36</head>
+            <div xml:id="WuV37d-f94400-Dd1e111" type="circa-textum">
+               <head xml:id="WuV37d-f94400-Hd1e113">Circa textum</head>
+               <p xml:id="WuV37d-f94400-d1e116">
+                  <lb ed="#B" n="87"/>Distinctio. 36. docet de 
+      impedi<lb ed="#B" n="88" break="no"/>meto quantum ad conditionem. 
+      <lb ed="#B" n="89"/>CInc de codi 
+      <lb ed="#B" n="90"/>tione videamus / an va 
+      <lb ed="#B" n="91"/>leat coniugium 
+      diuide<lb ed="#B" n="92" break="no"/>re etc. Hic signatur. 36. 
+      di<lb ed="#B" n="93" break="no"/>E stinctio huius quarti: quae 
+      <lb ed="#B" n="94"/>ita habet continuari ad praece. Nam postquam in 
+      <lb ed="#B" n="95"/>distin. 34. actum est de impedimentis matri 
+      <lb ed="#B" n="96"/>monium contrahendum antecedentibus et in di¬ 
+      <!--856.xml-->
+      <pb ed="#B" n="420-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>35 seu praecedenti egit magister de 
+      impedi<lb ed="#B" n="2" break="no"/>mentis post contractum matrimonium super 
+      <lb ed="#B" n="3"/>nenientibus: Nunc tertio agit de impedi 
+      <lb ed="#B" n="4"/>mentis in actu matrimoniu incidentibus: 
+      <lb ed="#B" n="5"/>et habet haec praesens distinctio diuidi in tres 
+      <lb ed="#B" n="6"/>partes principates. In prima ostendit 
+      erro<lb ed="#B" n="7" break="no"/>rem seruilem impedire matrimonium. In secun 
+      <lb ed="#B" n="8"/> 
+                  <lb ed="#B" n="9"/>ri queat connubium. In tertia ad etatem pue 
+      <lb ed="#B" n="10"/> 
+                  <lb ed="#B" n="11"/>pio. Secunda ibi: Queritur etiam si seruus vn 
+      <lb ed="#B" n="12"/>us ancillam alterius. Tertia ibi: hoc etiam 
+      <lb ed="#B" n="13"/>sciendum si pueri ante annos. 14. Haec est diui 
+      <lb ed="#B" n="14"/>sio praesentis distinctionis etc. 
+    </p>
+            </div>
+            <div xml:id="WuV37d-f94400-Dd1e178">
+               <head xml:id="WuV37d-f94400-Hd1e180">Quaestio</head>
+               <p xml:id="WuV37d-f94400-d1e183">
+                  <lb ed="#B" n="15"/>Questio haec declarat de impedi 
+      <lb ed="#B" n="16"/>mento seruitus et puerilis etatis re 
+      <lb ed="#B" n="17"/>spectu matrimonii: et alludit Scuod 
+      <lb ed="#B" n="18"/>in duabus quaestionibus in praesenti dist. 
+      <lb ed="#B" n="19"/>m NUrum seruitus 
+      <lb ed="#B" n="20"/>aut aetas puerilis impediat communiu 
+      <lb ed="#B" n="21"/>gium: Et arguitur tripliciter.
+</p>
+               <p xml:id="WuV37d-f94400-d1e201">
+¶ Pri 
+      <lb ed="#B" n="22"/>mo sic. Corpus serui est domini: ergo ieruus 
+      <lb ed="#B" n="23"/>non potest contrahere matrimonium. 
+      Antece<lb ed="#B" n="24" break="no"/>dens est philosophi. 1. politis. ca. 3. Patet consequem 
+      <lb ed="#B" n="25"/>tia: quia nullus potest dare alienum.
+</p>
+               <p xml:id="WuV37d-f94400-d1e212">
+¶ Secun 
+      <lb ed="#B" n="26"/>do arguitur sic. Seruus nequit profiteri reli 
+      <lb ed="#B" n="27"/>gionem sine voluntate domini: ergo nec matrimo 
+      <lb ed="#B" n="28"/>nium contrahere. Antecedens patet ex iure. 
+      <lb ed="#B" n="29"/>Probatur consequentia: quia fauorabilior est. 
+      <lb ed="#B" n="30"/>professio religionis quam matrimonium.
+</p>
+               <p xml:id="WuV37d-f94400-d1e225">
+¶ Ter 
+      <lb ed="#B" n="31"/>tio arguitur / quod aetas puerilis non impediat 
+      <lb ed="#B" n="32"/>matrimonium. Aliquis potest accipere potesta 
+      <lb ed="#B" n="33"/>tem antequam possit in vsum: igitur in contractu ma 
+      <lb ed="#B" n="34"/>trimonii vbi est datio vsus et acceptio po 
+      <lb ed="#B" n="35"/>testatis: potest aliquis antequam possit in vsum. 
+      <lb ed="#B" n="36"/>Consequentia patet. Antecedens probatur: quia etas 
+      <lb ed="#B" n="37"/>puerilis non impedit susceptionem ordinis: 
+      <lb ed="#B" n="38"/>vt dictum est distinctione. 25. huius 
+      quar<lb ed="#B" n="39" break="no"/>ti: et tamen ibi recipit potestatem 
+      exequen<lb ed="#B" n="40" break="no"/>di actum ordinis: quem protunc non potest ex 
+      <lb ed="#B" n="41"/>equi.
+</p>
+               <p xml:id="WuV37d-f94400-d1e252">
+¶ In oppositum pro primo: extra de 
+      <lb ed="#B" n="42"/>coniugio seruorum / ca. primo.
+</p>
+               <p xml:id="WuV37d-f94400-d1e257">
+¶ In 
+      opposi<lb ed="#B" n="43" break="no"/>tum secundi: extra de frigi. et malefi. quod 
+      se<lb ed="#B" n="44" break="no"/>dem. Puer qui non potest reddere debi 
+      <lb ed="#B" n="45"/>tum / non est aptus communiugio.
+</p>
+               <p xml:id="WuV37d-f94400-d1e266">
+¶ In ista quae 
+      <lb ed="#B" n="46"/>stione pariformiter ad alias sunt tres ar 
+      <lb ed="#B" n="47"/>ticuli declarandi. 
+      <!--856.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="48"/>Primus est terminorum declaratiuus 
+      <lb ed="#B" n="49"/>Quorum Secundus est quaestionis responsiuus. 
+      <lb ed="#B" n="50"/> Tertius est dubiorum motiuus 
+      <lb ed="#B" n="51"/>Quo ad primii articulum 
+      <lb ed="#B" n="52"/>termini sunt 
+      <lb ed="#B" n="53"/>Seruus aetas / puer.
+</p>
+               <p xml:id="WuV37d-f94400-d1e290">
+¶ Primus igitur 
+      <lb ed="#B" n="54"/>terminus est seruus. Et secundum quod seruus 
+      <lb ed="#B" n="55"/>triplicem habet ortum: secundum hoc seruus tripli 
+      <lb ed="#B" n="56"/>citer dicitur. Uno modo seruus a seruiendo: 
+      <lb ed="#B" n="57"/>et isto modo dicit dominus malo seruo. 
+      Ser<lb ed="#B" n="58" break="no"/>ue nequam / omne debitum dimisi tibi / quoni 
+      <lb ed="#B" n="59"/>am rogasti me. Et de vehemot aut behe 
+      <lb ed="#B" n="60"/>mot ad Iob deus loquitur. Numquid feriet 
+      <lb ed="#B" n="61"/>tecum pactum: et accipies eum seruum sempi 
+      <lb ed="#B" n="62"/>ternum: Secundo modo dicitur seruus a seruan 
+      <lb ed="#B" n="63"/>do. Qui enim in hoc mundo iuste et innocen 
+      <lb ed="#B" n="64"/>ter ambulant / serui domini. hoc modo dicuntur. 
+      <lb ed="#B" n="65"/>Nil boni enim agerent / nisi a domino constituti 
+      <lb ed="#B" n="66"/>seruarentur. De hoc dominus ad sathan dicit: 
+      <lb ed="#B" n="67"/>Numquid considerasti seruum meum Iob / quod 
+      <lb ed="#B" n="68"/>non sit ei similis in terra / homo simplex et re 
+      <lb ed="#B" n="69"/>ctusi ac timens deum / et recedens a malo 
+      <lb ed="#B" n="70"/>Et de Moyse dicitur. Mortuus est ergo 
+      <lb ed="#B" n="71"/>ibi Movses seruus dumi in terra 
+      moab<lb ed="#B" n="72" break="no"/>Tertio dicitur seruus simul a seruiendo et 
+      <lb ed="#B" n="73"/>a seruando: et hoc modo praelati sunt serui suo 
+      <lb ed="#B" n="74"/>rum subditorum / eorum quaerendo bonum: non solum 
+      <lb ed="#B" n="75"/>lanam appetentes: nec iam sint solum mercem 
+      <lb ed="#B" n="76"/>narii et non boni: vnde et summus pontifex Bre 
+      <lb ed="#B" n="77"/>go. scilicet quem dicunt primo hoc apposuisse se 
+      <lb ed="#B" n="78"/>seuum seruorum dei numcupat. Sed quare hoc: 
+      <lb ed="#B" n="79"/>vt eis seruiat / et seruet eos / plus amans 
+      <lb ed="#B" n="80"/>ouem quam lanam. Et in regula fratrum minorum 
+      be<lb ed="#B" n="81" break="no"/>atus Franciscus dicit. Nam ita debet esse quod mi 
+      <lb ed="#B" n="82"/>nistri sint serui omnium fratrum. Et notan 
+      <lb ed="#B" n="83"/>dum secundo / quod de vi vocabulorum haec tria 
+      <lb ed="#B" n="84"/>differunt: mancipium / seruus seu famulus / 
+      <lb ed="#B" n="85"/>vernaculus. Mancipium enim dicitur qui bello ca 
+      <lb ed="#B" n="86"/>pitur et adiicitur vt seruiat: vt faciunt saraceni 
+      <lb ed="#B" n="87"/>christianis: a mamu et captum. Seruus vero aut 
+      <lb ed="#B" n="88"/>famulus qui precio conducitur vt domino famu 
+      <lb ed="#B" n="89"/>letur aut seruiat: vernaculus seruus non 
+      <lb ed="#B" n="90"/>iam empticius: sed in domo vernans id est flo 
+      <lb ed="#B" n="91"/>rens / quia in domo nutritus: quales habuit 
+      <lb ed="#B" n="92"/>abraam / cum Loth suum nepotem de suis inimi 
+      <lb ed="#B" n="93"/>cis liberauit. Unde dicitur / quod cum audisse abra 
+      <lb ed="#B" n="94"/>am captum videlicet Loth fratrem suum: 
+      nume<lb ed="#B" n="95" break="no"/>rauit expeditos vernaculos suos. 3 i6. No 
+      <lb ed="#B" n="96"/>tandum autem tertio secundum fratrem hugonem de 
+      <!--857.xml-->
+      <pb ed="#B" n="420-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>nouo castro praesentis distin. q. vnica / quod sunt 
+      <lb ed="#B" n="2"/>tres gradus seruitutis. Primus est subiectio 
+      <lb ed="#B" n="3"/>obedientialis vnius ad alterum in actibus decenti 
+      <lb ed="#B" n="4"/>bus: et talis seruitus est filii ad patrem: et fuisset 
+      <lb ed="#B" n="5"/>in statu innocentiae. Secundus gradus est obliga 
+      <lb ed="#B" n="6"/>tio et subiectio vnius ad alterum ad actus viles 
+      <lb ed="#B" n="7"/>et seruiles: remanente tamen pro loco et tempore 
+      libe<lb ed="#B" n="8" break="no"/>ro accessu ad conseruationem speciei et 
+      indi<lb ed="#B" n="9" break="no"/>uidui: et ista seruitus habuit ortum statim 
+      <lb ed="#B" n="10"/>post peccatum / quando dictum fuit Ade. 
+      Male<lb ed="#B" n="11" break="no"/>dicta terra in opere tuo: in laboribus come 
+      <lb ed="#B" n="12"/>des ex ea. Haec autem contrahitur a stipite nostrae 
+      <lb ed="#B" n="13"/>originis: statim enim post peccatum Adam fuit 
+      <lb ed="#B" n="14"/>obligatus ad istos actus seruiles: modo possi 
+      <lb ed="#B" n="15"/>bile est quod filiis progenitis pater ex causa exem 
+      <lb ed="#B" n="16"/>ptus fuit a talibus actibus: quia oportuit quod 
+      <lb ed="#B" n="17"/>haberet sollicitudinem domus: quo mortuo 
+      <lb ed="#B" n="18"/>primogenitus agens in domo vicem patrem fu 
+      <lb ed="#B" n="19"/>it exemptus ab illis actibus sicut patr. Alii vero 
+      <lb ed="#B" n="20"/>remanserunt obligati ad actus seruiles: et sic 
+      <lb ed="#B" n="21"/>succedente tempore filii eorum redacti sunt in serui 
+      <lb ed="#B" n="22"/>tutem eorum qui a primogenito sunt procreati: et 
+      <lb ed="#B" n="23"/>hoc videtur satis probabile: potest etiam hu 
+      <lb ed="#B" n="24"/>iusmodi secunda seruitus a legissatore 
+      intro<lb ed="#B" n="25" break="no"/>duci propter diuersitatem dispositionis corpo 
+      <lb ed="#B" n="26"/>rum. Uidet enim in ciuitate aliquos corpore ro 
+      <lb ed="#B" n="27"/>bustos / et rudes mente: et illos deputat ad  
+      <lb ed="#B" n="28"/>actus seruiles et grossos: alios autem videt 
+      <lb ed="#B" n="29"/>minus potentes corpore / subtiles tamen mente: et 
+      <lb ed="#B" n="30"/>illlos deputat ad studium / et ad alios 
+      labo<lb ed="#B" n="31" break="no"/>res spirituales. Unde Aristo. 1. politis. dicit: quod 
+      <lb ed="#B" n="32"/>ille qui potest mente praeuidere / debet esse 
+      prin<lb ed="#B" n="33" break="no"/>cipans natura id est secundum rationem naturalem. Ter 
+      <lb ed="#B" n="34"/>tius gradus seruitutis est obligatio et 
+      sub<lb ed="#B" n="35" break="no"/>iectio totalis ad actus seruiles: per quam potest ali 
+      <lb ed="#B" n="36"/>quis facere de suo seruo sicut de bestia: ita 
+      <lb ed="#B" n="37"/>quod homo non habeat libertatem super 
+      conseruatio<lb ed="#B" n="38" break="no"/>nem speciei vel indiuidui absque voluntate 
+      <lb ed="#B" n="39"/>domini. De ista seruitute petit quaestio. Prima 
+      <lb ed="#B" n="40"/>dicitur filialis: secunda politica: tertia misera: a 
+      <lb ed="#B" n="41"/>fratre Landulpho / et a doctore extrema. 
+      </p>
+               <p xml:id="WuV37d-f94400-d1e481">
+                  <lb ed="#B" n="42"/>¶ Secundus terminus est aetas. Et sicut hoc 
+      <lb ed="#B" n="43"/>nomen aetas secundum vocabulum descendit ab aeuo 
+      <lb ed="#B" n="44"/>quasi aeuitas: ita secundum rem loquendo proprie etas 
+      <lb ed="#B" n="45"/>est duratio aeuum consequens. De his duratio 
+      <lb ed="#B" n="46"/>nibus dictum est lib. 1 distin. 9. et. 31. et libro 
+      <lb ed="#B" n="47"/>secundo / distin. 2. Et lib. quarto / secunda parte. 3. 
+      <lb ed="#B" n="48"/>dist. Nunc autem specialiter de aetate primo 
+      <lb ed="#B" n="49"/>occurriti / quod pro tempore moderuo triplex 
+      <!--857.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>assignatur aetatis terminus. Primus est 
+      cen<lb ed="#B" n="51" break="no"/>tenarius: sicut dicit de Nestore. 14. 
+      meta<lb ed="#B" n="52" break="no"/>morpho. Quidius. Iam tertia viuitur etas. 
+      <lb ed="#B" n="53"/>Uixerat enim ducentis annis: et erat in 
+      ter<lb ed="#B" n="54" break="no"/>tio centenario. Secundus terminus 
+      huma<lb ed="#B" n="55" break="no"/>ne etatis est septuaginta anni: iuxta illud 
+      <lb ed="#B" n="56"/>prophete. Septuaginta anni. Tertius 
+      ter<lb ed="#B" n="57" break="no"/>minus est octogita anni / quando sunt fortes: 
+      <lb ed="#B" n="58"/>sicut patet in his metris. 
+      <lb ed="#B" n="59"/>deps tribus annis stat: viuit totidemqua 
+      <lb ed="#B" n="60"/>canis 
+      ter<lb ed="#B" n="61" break="no"/>Fer totidem fit equus: ter totidem fit hiomo. 
+      <lb ed="#B" n="62"/>Fres coruus fiomines: quercus tres su 
+      <lb ed="#B" n="63"/>perat coruos. 
+      <lb ed="#B" n="64"/>Quercorumque trium ceruus hiabet spacitum. 
+      </p>
+               <p xml:id="WuV37d-f94400-d1e538">
+                  <lb ed="#B" n="65"/>¶ Sunt autem tres binarii aetatis humanae:. 
+      <lb ed="#B" n="66"/>et sunt contenti in his metris. 
+      <lb ed="#B" n="67"/>Unsans inde puer: adolescens: post iuue 
+      <lb ed="#B" n="68"/>nis vir. 
+      <lb ed="#B" n="69"/>Dicitur inde senerm: postea decrepitus. 
+      </p>
+               <p xml:id="WuV37d-f94400-d1e552">
+                  <lb ed="#B" n="70"/>¶ Prima pars dicitur infantia: et durat vsque 
+      <lb ed="#B" n="71"/>ad. 7. annos. Secunda pars est puericia: et addit 
+      <lb ed="#B" n="72"/>supra infantiam vnum septenarium: ita quod 
+      termi<lb ed="#B" n="73" break="no"/>natur in. 14. anno in masculis: et tunc incipit 
+      pu<lb ed="#B" n="74" break="no"/>bertas: citius in faeminis quia. 12. anno. Ecce 
+      <lb ed="#B" n="75"/>primus binarius. Tertia pars est adolescentia: 
+      <lb ed="#B" n="76"/>ab adoleo: quod floritionem significat et 
+      aug<lb ed="#B" n="77" break="no"/>mentum: et addit supra puericiam duos 
+      septe<lb ed="#B" n="78" break="no"/>narios: ita quod terminatur in. 25. anno. Quar 
+      <lb ed="#B" n="79"/>ta aetatis pars dicitur iuuentis / a iuuando patrem / 
+      <lb ed="#B" n="80"/>et regendo totam domum: et additisupra adole 
+      <lb ed="#B" n="81"/>scentiam tres septenarios: ita quod terminatur 
+      <lb ed="#B" n="82"/>in. 50. anno: secundus binarius. Quinta etatis 
+      <lb ed="#B" n="83"/>pars dicitur tripliciter: in nostris metris dicitur viri 
+      <lb ed="#B" n="84"/>litas. Doc. deuo. lib. 4. dist. 46. dubio. 3. 
+      <lb ed="#B" n="85"/>listerali dicit: quod dicitur grauitas seu senectus. 
+      <lb ed="#B" n="86"/>Frater Ia. ianuen. dicit quod dicitur senior. Nam 
+      <lb ed="#B" n="87"/>apud graecos seniores (21. di. c. cleros) di 
+      <lb ed="#B" n="88"/>cuntur praesbri et senes geronte. Haec autem etas 
+      <lb ed="#B" n="89"/>in greco praesb vter dicitur: bene tamen conueniunt quod 
+      am<lb ed="#B" n="90" break="no"/>bulat ista aetas vsque ad annum septuagesimum 
+      <lb ed="#B" n="91"/>declinans a iuuentute. Sexta etatis pars secundum 
+      <lb ed="#B" n="92"/>frem I0. bonauem. dicitur senium seu decrepita 
+      <lb ed="#B" n="93"/>aetas: secundum autem metra et ianuem sen (quibus in ista per 
+      <lb ed="#B" n="94"/>te plus assentiendum est dicitur senectus: et durat 
+      vs<lb ed="#B" n="95" break="no"/>que ad terminum vitae: et eius vltimus terminus de 
+      <lb ed="#B" n="96"/>senium / a senus na. num: quia finis est sextae etatis ; 
+      <lb ed="#B" n="97"/>vnde propheta. Usque ad senectam et senium / deus 
+      <lb ed="#B" n="98"/>ne derelinquis me: eni tertius binarius. Secundo 
+      <!--858.xml-->
+      <pb ed="#B" n="421-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>notandum quo ad hoc quod licet dicantur partes 
+      <lb ed="#B" n="2"/>etatis totalis in obliquia: tamen etiam aliquando dicuntur aetas 
+      <lb ed="#B" n="3"/>in recto: vt aetas infantiae aetas pueritiae etc. 
+      <lb ed="#B" n="4"/>Tertio notandum quod et mundus habet. 3. 
+      <lb ed="#B" n="5"/>etatum binarios id est sex: qui comprehensi sunt 
+      <lb ed="#B" n="6"/>in metris quae ponit Alexander de villa dei 
+      <lb ed="#B" n="7"/>in massa compoti. 
+      <lb ed="#B" n="8"/>incipiens ab adam: quam formauit deus etas 
+      <lb ed="#B" n="9"/>Ad noe transiuit: prima sequens ab abram 
+      <lb ed="#B" n="10"/>Qd dauid etendit: etas se tertia quarta 
+      <lb ed="#B" n="11"/>Ad transmigrantes in habylone fuit 
+      <lb ed="#B" n="12"/>Quinta facit cursum: episcopi venientis ad ortum 
+      <lb ed="#B" n="13"/>Ad finem mundi: curtere sexta parat 
+      </p>
+               <p xml:id="WuV37d-f94400-d1e652">
+                  <lb ed="#B" n="14"/>¶ Tertius terminus est puer. et deriuatur 
+      <lb ed="#B" n="15"/>tripliciter. Primo iuxta nonium 
+      marcel<lb ed="#B" n="16" break="no"/>lum: a punio punis: quia in illa etate in mul 
+      <lb ed="#B" n="17"/>tis veiunt puniendi. Secundo dicitur a pus purem 
+      <lb ed="#B" n="18"/>quod est custodia quia sub tutoribus et acto 
+      <lb ed="#B" n="19"/>ribus sunt pueri vsque ad praefinitum tempus a 
+      <lb ed="#B" n="20"/>patre: vt dicit Paulus Tertio. dicitur a 
+      <lb ed="#B" n="21"/>puritate: nondum enim seculi malicias sunt 
+      <lb ed="#B" n="22"/>experti. Dicitur autem vt inquit papias 
+      puer<lb ed="#B" n="23" break="no"/>tripliciter natiuitate: vt puer natus est 
+      no<lb ed="#B" n="24" break="no"/>bis: aetate vt octenis. Officio. sicut dicit 
+      <lb ed="#B" n="25"/>Hieremias de seipso. Ego nescio loque quia 
+      <lb ed="#B" n="26"/>puer ego sum.
+</p>
+               <p xml:id="WuV37d-f94400-d1e683">
+¶ In oppositum autem accipi 
+      <lb ed="#B" n="27"/>tur aut primo aut secundo modo. 
+      <lb ed="#B" n="28"/>Quantum ad secundum 
+      articu<lb ed="#B" n="29" break="no"/>ium sunt 
+      <lb ed="#B" n="30"/>tres conclusiones. Prima est de ortum 
+      serui<lb ed="#B" n="31" break="no"/>tutis. Secunda est de obligatione serui in 
+      respe<lb ed="#B" n="32" break="no"/>ctu ad matrimonium. Tertia est de contra 
+      <lb ed="#B" n="33"/>ctu puerorum.
+</p>
+               <p xml:id="WuV37d-f94400-d1e701">
+¶ Prima conclusio est haec. 
+      <lb ed="#B" n="34"/>Seruitus miserabilis non naturae iure: sed 
+      <lb ed="#B" n="35"/>altero triplici extitit introducta. Prima 
+      <lb ed="#B" n="36"/>pars probatur. Natura hominium libera est: 
+      <lb ed="#B" n="37"/>vnde in statu naturae ante noe libertas perman 
+      <lb ed="#B" n="38"/>sit inconcussa. dist. 35. capitulo. Sexto die: vnde 
+      <lb ed="#B" n="39"/>inquit doctor subtilis. q. 1. Lege naturae omnes 
+      <lb ed="#B" n="40"/>nascuntur liberi: tamen seruitus vel magim 
+      <lb ed="#B" n="41"/>filialis subiectio ad patrem est de lege naturae: 
+      <lb ed="#B" n="42"/>puta obedientia filialis pertinens ad disci 
+      <lb ed="#B" n="43"/>plinam: filius enim a patre habet tria: esse / 
+      edu<lb ed="#B" n="44" break="no"/>cari: disciplinam: ex. 6. ethicorum. haec autem mise 
+      <lb ed="#B" n="45"/>ria ex natura bene instituta ortum habere 
+      <lb ed="#B" n="46"/>non potuit: vnde ergo primo: secundum 
+      ratio<lb ed="#B" n="47" break="no"/>nem triplex est modus dicendi. Primus 
+      <lb ed="#B" n="48"/>videtur esse fratris Hugonis de nouo ca 
+      <lb ed="#B" n="49"/>stro praesentis distin. quia in fine dicit: si autem 
+      <!--858.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>propter aliam causam est introducta: 
+      vi<lb ed="#B" n="51" break="no"/>detur esse contra rationem: dicit ergo quod 
+      <lb ed="#B" n="52"/>haec introducta est: quia quando homo in 
+      <lb ed="#B" n="53"/>iusto bello capitur interimi potest: si 
+      ve<lb ed="#B" n="54" break="no"/>ro non interimitur sed viuus seruatur ex 
+      ser<lb ed="#B" n="55" break="no"/>uatione seruus seruantis efficitur: et hoc in 
+      <lb ed="#B" n="56"/>institutis de libertis ponitur: et hoc probat 
+      <lb ed="#B" n="57"/>sic. Quia in quocunque casu potest ei 
+      face<lb ed="#B" n="58" break="no"/>re maius damnum: potest ei facere minus 
+      <lb ed="#B" n="59"/>damnum: quia in hoc facit sibi gratiam: 
+      <lb ed="#B" n="60"/>sed in isto casu in quo potest eum iuste oc 
+      <lb ed="#B" n="61"/>cidere potest sibi facere maius damnum 
+      <lb ed="#B" n="62"/>ergo potest eum in talem seruitutem 
+      redi<lb ed="#B" n="63" break="no"/>gere quod videtur esse minus malum: quia non 
+      <lb ed="#B" n="64"/>perditur tale esse. Sed contra istum modum 
+      <lb ed="#B" n="65"/>arguit frater landulphus. q. 1. praesentis dist. 
+      <lb ed="#B" n="66"/>Contra inquit istum modum est ratio naturalis: 
+      <lb ed="#B" n="67"/>impium enim videtur et contra rectam rationem 
+      <lb ed="#B" n="68"/>quod cessante pertinatia et duritia quae est in 
+      ho<lb ed="#B" n="69" break="no"/>ste non cesset poena debita huic pertinatie 
+      <lb ed="#B" n="70"/>Cum ergo quis capitur in bello et cessat a 
+      per<lb ed="#B" n="71" break="no"/>tinacia rebellandi: non videtur quod iuste 
+      debe<lb ed="#B" n="72" break="no"/>at plecti poena illius miserabilis 
+      seruitu<lb ed="#B" n="73" break="no"/>tis: et maxime ex quo cessat inimicus esse: et 
+      <lb ed="#B" n="74"/>vult amicus fieri: quod ex hoc vendi debeat 
+      <lb ed="#B" n="75"/>sicut pecus: nec valet dicere quod iste 
+      indul<lb ed="#B" n="76" break="no"/>sit sibi vitam: ideo est totum ex gratia quicquid 
+      <lb ed="#B" n="77"/>sibi facit. Argumentum est totum in 
+      opposi<lb ed="#B" n="78" break="no"/>tum licet enim possit iuste occidem durante iniusta 
+      <lb ed="#B" n="79"/>inimicitia ex parte hostis contra quem ge 
+      <lb ed="#B" n="80"/>rit iustum bellum: maxime se defendendo: tamen 
+      <lb ed="#B" n="81"/>cessante ista causa non est rectum tantam ser 
+      <lb ed="#B" n="82"/>uitutem in eo inducere: quae morti 
+      equiua<lb ed="#B" n="83" break="no"/>iet: et sic patet solutio ad rationem hugonis. 
+      <lb ed="#B" n="84"/>Audit scotus leo hos duos suos leuncu 
+      <lb ed="#B" n="85"/>los disputantes ante eum: vt tirones ante 
+      <lb ed="#B" n="86"/>militem emeritum laudat bellum: sed 
+      coronan<lb ed="#B" n="87" break="no"/>dum landulphum iudicat: et arguit vt doce 
+      <lb ed="#B" n="88"/>at. Sed haec extrema seruitus est contra 
+      le<lb ed="#B" n="89" break="no"/>gem nature: numquam enim iuste potuit introduci 
+      <lb ed="#B" n="90"/>antiquitas enim temporis non ratificat 
+      crimi<lb ed="#B" n="91" break="no"/>na: sed magis condemnat: iniustum est igitur 
+      <lb ed="#B" n="92"/>tale dominium: vnde difficile estimat huiusmodi 
+      <lb ed="#B" n="93"/>seruitutem excusari: nisi altero duorum 
+      mo<lb ed="#B" n="94" break="no"/>dorum qui statim aperientur. Sed tunc quae 
+      <lb ed="#B" n="95"/>rit quare apostolus praecipit tales seruos suis 
+      <lb ed="#B" n="96"/>dominis obedire. Respondet continuo multas 
+      <lb ed="#B" n="97"/>obligationes fore iniustas respectu 
+      illo<lb ed="#B" n="98" break="no"/>rum quorum fiunt: et tamen exquo facte sunt: sunt cu¬ 
+      <!--859.xml-->
+      <pb ed="#B" n="421-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>stodiende. apostolus enim ostendens talem 
+      seruitu<lb ed="#B" n="2" break="no"/>tem non esse landabilem nec multomagis 
+      domini<lb ed="#B" n="3" break="no"/>um tale ait. Seruus vocatus es non sit 
+      ti<lb ed="#B" n="4" break="no"/>bi curae: sed si potes magis liber fieri vte 
+      <lb ed="#B" n="5"/>re. Ex quo infertur quod illa glosa super. 1. dist. 
+      <lb ed="#B" n="6"/>ius gentium: non videtur verum dicere. scilicet quod ser 
+      <lb ed="#B" n="7"/>uitus sit a iure naturali inducta: sed a iure 
+      <lb ed="#B" n="8"/>gentium est approbata. Contra est 
+      expres<lb ed="#B" n="9" break="no"/>le textus canonis. 12. q. 2. Cum redempto: 
+      <lb ed="#B" n="10"/>vbi dicitur quod redemptor noster conditor 
+      to<lb ed="#B" n="11" break="no"/>tius humanae nature: ideo carnem assumere 
+      <lb ed="#B" n="12"/>voluit: vt remoto vinculo seruitutis 
+      pri<lb ed="#B" n="13" break="no"/>stine redderetur libertati: homines enim ab 
+      ini<lb ed="#B" n="14" break="no"/>tio naturae liberos protulit: et ius gentium 
+      <lb ed="#B" n="15"/>iugo subdidit seruitutis: ecce clare 
+      serui<lb ed="#B" n="16" break="no"/>tutem a natura non esse: sed iure gentium 
+      <lb ed="#B" n="17"/>Unde et dist. 35. sexto die. dicitur quod ante noe 
+      <lb ed="#B" n="18"/>in statu naturae manebat omnibus 
+      inconcus<lb ed="#B" n="19" break="no"/>sa libertas: nemo sciebat a consorte natu 
+      <lb ed="#B" n="20"/>rae suae obsequia seruitutis exigere: non es 
+      <lb ed="#B" n="21"/>set hodie seruitus si ebrietas non fuisset 
+      <lb ed="#B" n="22"/>vnde ergo secundum rationem venit ista serui 
+      <lb ed="#B" n="23"/>tus Ueniat secundus modus qui est do 
+      <lb ed="#B" n="24"/>ctorem subtilis: et loquatur forsan aliquis vo 
+      <lb ed="#B" n="25"/>luntariae se huic misere subiecit seruituti: 
+      <lb ed="#B" n="26"/>vt si vendat se in seruum: aut donet: simpli 
+      <lb ed="#B" n="27"/>citer renuncians iuri suo: et si talis ita fecit 
+      <lb ed="#B" n="28"/>tenenda est et seruanda: quia hoc est iustum 
+      <lb ed="#B" n="29"/>Ueniat et tertius modus fandi qui est eti 
+      <lb ed="#B" n="30"/>am scoti: iuste quis dominans communitati: 
+      ali<lb ed="#B" n="31" break="no"/>quos ita videt viciosos quod sibi nocent et 
+      con<lb ed="#B" n="32" break="no"/>munitati: hic hos libertate potest priuare: 
+      <lb ed="#B" n="33"/>et in seruos redigere: sicut et in aliquibus 
+      <lb ed="#B" n="34"/>casibus occidere. Ex quo primo intulit fra 
+      <lb ed="#B" n="35"/>ter Nicolaus boneti turon. in notulis super 
+      <lb ed="#B" n="36"/>tertium sninarum: quod si aliquis fidem in aliquo 
+      re<lb ed="#B" n="37" break="no"/>gno violari ex toto leges dei: et praesiden 
+      <lb ed="#B" n="38"/>tem non curare: hic si mouetur 3elo solo dei: 
+      <lb ed="#B" n="39"/>et potest illud regnum conquirere: et 
+      con<lb ed="#B" n="40" break="no"/>quirendo ad cultum dei et honorem reuo 
+      <lb ed="#B" n="41"/>care et inibi regnare licite. Et sic credo 
+      fa<lb ed="#B" n="42" break="no"/>ctum esse quando dux normanorum guillus 
+      <lb ed="#B" n="43"/>nothus angliam conquisiuit. Ex quo secundo 
+      <lb ed="#B" n="44"/>patet: quod illo iure introducti sunt filii 
+      isra<lb ed="#B" n="45" break="no"/>elin terram chanaam. Ex quo patet tertio 
+      <lb ed="#B" n="46"/>probabile terram galliae sic possessam a 
+      fran<lb ed="#B" n="47" break="no"/>cis baptimato primo eorum rege christiano 
+      <lb ed="#B" n="48"/>clodoueo: qui et ludouicus dictus est a bton 
+      re<lb ed="#B" n="49" break="no"/>migio remensi archiepo. De hoc aimonius ab 
+      <!--859.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>bom abbati floriacu. lib. de ortum 
+      francorum<lb ed="#B" n="51" break="no"/>et hoc modo tertio si quis efficitur seruus 
+      <lb ed="#B" n="52"/>potest in eo praescribi cum eius posteritate: 
+      con<lb ed="#B" n="53" break="no"/>currentibus legibus praescriptionis. Sed 
+      <lb ed="#B" n="54"/>dicebat secunda pars conclusionis quod haec 
+      <lb ed="#B" n="55"/>extrema seruitus altero triplici iurae est 
+      in<lb ed="#B" n="56" break="no"/>troducta. Primo a iure gentium. dist. 1. Ius 
+      <lb ed="#B" n="57"/>gentium. et. 12. q. 2. Cum redemptor. 
+      Secun<lb ed="#B" n="58" break="no"/>do a iure diuino. vnde. 35. dist. Sexto die. 
+      <lb ed="#B" n="59"/>vbi dicitur: quod noe maledicens cham: fecit eum 
+      <lb ed="#B" n="60"/>seruum. et Si emeris seruum hebreum etc. Ter 
+      <lb ed="#B" n="61"/>tio a iure canonico est seruitus 
+      approba<lb ed="#B" n="62" break="no"/>ca. 17. q. 4. id constituimus. vbi dicitur quod ser 
+      <lb ed="#B" n="63"/>uus ad seruicium domini sui redire cogatur: 
+      se<lb ed="#B" n="64" break="no"/>quitur in fine et dominum suum contemnere et eius 
+      <lb ed="#B" n="65"/>ministerium destituere non debet.
+</p>
+               <p xml:id="WuV37d-f94400-d1e1000">
+¶ 
+      Se<lb ed="#B" n="66" break="no"/>cunda conclusio est haec: volente domino. 
+      <lb ed="#B" n="67"/>aut inuito potest seruus cum ancilla aut 
+      <lb ed="#B" n="68"/>libera matrimonium contrahere. Prima 
+      <lb ed="#B" n="69"/>pars probatur: quia dominus potest eum ex 
+      to<lb ed="#B" n="70" break="no"/>to manumittere: ergo ad hunc actum 
+      li<lb ed="#B" n="71" break="no"/>centiare et si post impediret data licentia 
+      <lb ed="#B" n="72"/>eum dominus eius ne actus impleret coniugales 
+      <lb ed="#B" n="73"/>ex toto: vt mittendo eum ad partes alienas 
+      <lb ed="#B" n="74"/>aut occupando eum ex toto laboribus: vt ali 
+      <lb ed="#B" n="75"/>quando vxorem visitare nequiret: peccaret 
+      mor<lb ed="#B" n="76" break="no"/>taliter: et in manifestis veniret per ecclesiam 
+      <lb ed="#B" n="77"/>corrigendus. Ex quo primo infertur quod 
+      ser<lb ed="#B" n="78" break="no"/>uitus non impedit simpliciter coniugium 
+      <lb ed="#B" n="79"/>Secundo sequitur: quod non potest seruus simpli 
+      <lb ed="#B" n="80"/>citer absolute contrahere matrimonium 
+      in<lb ed="#B" n="81" break="no"/>uito domino: quia matrimonium a seruitute non 
+      <lb ed="#B" n="82"/>absoluit: extra de communiugio seruorum. ca. i 
+      <lb ed="#B" n="83"/>Et per consequens posset dominus eius eum 
+      occupa<lb ed="#B" n="84" break="no"/>re in aliis: et sic non redderet debitum actus 
+      <lb ed="#B" n="85"/>matrimonialis. Tertio quod si seruus contra 
+      <lb ed="#B" n="86"/>hit inuito domino: ita quod coniunx contentetur de 
+      <lb ed="#B" n="87"/>tam modico tempore quanto seruus potest cum 
+      <lb ed="#B" n="88"/>ea esse propter occupationes domini matrimo 
+      <lb ed="#B" n="89"/>nium vere contrahitur: extra de communiugio 
+      seruo<lb ed="#B" n="90" break="no"/>rum ca. 1. et per consequens potest dominus eius eum occupare. 
+      <lb ed="#B" n="91"/>Sed quae ratio est quod seruus possit contra 
+      <lb ed="#B" n="92"/>here inuito domino: cum sit in domini dominio. Tho 
+      <lb ed="#B" n="93"/>in praesenti dist. q. 2. dicit quod ratio est quia 
+      <lb ed="#B" n="94"/>matrimonium est de lege naturae: seruitus non 
+      <lb ed="#B" n="95"/>sed magis contra legen naturae: quod autem est de 
+      <lb ed="#B" n="96"/>lege naturae non tollitur propt aliud: quod tantum 
+      <lb ed="#B" n="97"/>est de lege positiua. Alia ratio eiusdem ibidem 
+      <lb ed="#B" n="98"/>est etiam et fratris richar. de media villa prsun¬ 
+      <!--860.xml-->
+      <pb ed="#B" n="422-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>ti dist. arti. 4. q. 1. quia seruus non est ita domini 
+      <lb ed="#B" n="2"/>quin sit sui iuris quantum ad actus 
+      natura<lb ed="#B" n="3" break="no"/>les particulares ad conseruationem indiuidui. 
+      <lb ed="#B" n="4"/>patet quia potest vti necessariis ad vitam 
+      <lb ed="#B" n="5"/>igitur a simili quantum ad actus 
+      particula<lb ed="#B" n="6" break="no"/>res quo ad conseruationem speciei. proba 
+      <lb ed="#B" n="7"/>tur consequentia: quia conseruatio speciei 
+      <lb ed="#B" n="8"/>cum sit magis necessaria et magis bonum na 
+      <lb ed="#B" n="9"/>turale magis est de lege naturae. Prima 
+      <lb ed="#B" n="10"/>ratio non concludit: quia aliqua obligatio quae 
+      <lb ed="#B" n="11"/>non est de lege naturae: bene tollit eam libet 
+      <lb ed="#B" n="12"/>tatem quae est de lege nature. Exemplum de lege 
+      <lb ed="#B" n="13"/>nature: nil tibi debeo: tamen si voueo obedien 
+      <lb ed="#B" n="14"/>tiam debeo tibi obedire. Rursus matrimonium 
+      <lb ed="#B" n="15"/>non est de lege naturae nisi secundario. et equa 
+      <lb ed="#B" n="16"/>videtur esse reddere vnicuique quod suum est. 
+      <lb ed="#B" n="17"/>immo primariae: exquo ergo seruus debet 
+      <lb ed="#B" n="18"/>domino seruitium: reddere habet: nec debet in 
+      <lb ed="#B" n="19"/>compatibile capere ne reddat. Similiter se 
+      <lb ed="#B" n="20"/>cundum non concludit: quia manifestum est. 
+      <lb ed="#B" n="21"/>quod non omnis qui tenetur seruare 
+      indiui<lb ed="#B" n="22" break="no"/>quum tenetur multiplicare speciem. Et si dicas 
+      <lb ed="#B" n="23"/>licitum est: verum est nisi aliud impediat: et 
+      <lb ed="#B" n="24"/>sunt satis alii intendentes huic operi. Et 
+      <lb ed="#B" n="25"/>patet quod si seruus inuito domino contraheret 
+      <lb ed="#B" n="26"/>non faceret ei do minus suus iniuriam si eum 
+      <lb ed="#B" n="27"/>elongaret a sua coniuge mittendo eum 
+      vs<lb ed="#B" n="28" break="no"/>tra mare pro suis obsequiis. Ex quo enim in 
+      <lb ed="#B" n="29"/>uito domino contraxit: dominus non perdit ius suum 
+      <lb ed="#B" n="30"/>quin libere vtatur eo: extra de communiugio 
+      ser<lb ed="#B" n="31" break="no"/>uorum. ca. 1. moneri tamen debet ne faci 
+      <lb ed="#B" n="32"/>at: quia fauorabilis est matrimonii causa 
+      <lb ed="#B" n="33"/>vnde vltra satis patet: dicendo quod seruus po 
+      <lb ed="#B" n="34"/>test contrahere cum libera dum tamen ipsa sciat 
+      <lb ed="#B" n="35"/>conditionem eius et consentiat in eum talis 
+      <lb ed="#B" n="36"/>conditionis: quia tunc commutat potestatem 
+      corpo<lb ed="#B" n="37" break="no"/>ris quam habet pro illo modico quod habet 
+      <lb ed="#B" n="38"/>seruus potestatis in corpore suo. Et patet quod 
+      <lb ed="#B" n="39"/>cum ancilla: et tunc quod vnus habet dat alteri 
+      <lb ed="#B" n="40"/>et debet conuenire quando domino suorum seruicia 
+      <lb ed="#B" n="41"/>eosdem non impediunt: vnde vltra patet: quod si 
+      <lb ed="#B" n="42"/>aliquis intendat ducere liberam et ducit an 
+      <lb ed="#B" n="43"/>cillam non tenet: error enim peioris 
+      conditio<lb ed="#B" n="44" break="no"/>nis impedit: sed non melioris: vt si quis in 
+      <lb ed="#B" n="45"/>tendat contrahere cum ancilla et contrahit 
+      <lb ed="#B" n="46"/>cum libera non impedit: quia plus intentione 
+      <lb ed="#B" n="47"/>accipit nec equalis: quia quantum intendit tantum 
+      ac<lb ed="#B" n="48" break="no"/>cipit. Sic hic error triplex in melius: in pei 
+      <lb ed="#B" n="49"/>in aequale te faciet expertum in istis. 
+      <!--860.xml-->
+      <cb ed="#B" n="b"/>
+               </p>
+               <p xml:id="WuV37d-f94400-d1e1191">
+                  <lb ed="#B" n="50"/>¶ Tertia conclusio. pueri et si possuni 
+      <lb ed="#B" n="51"/>sponlalia contrahere non tantum matrimonium. 
+      <lb ed="#B" n="52"/>Patet prima particula: quia iura canoni 
+      <lb ed="#B" n="53"/>ca per totum clamant: extra de sponsa: impu s 
+      <lb ed="#B" n="54"/>berum quod si sponsalia contrahuntur ante 
+      septem<lb ed="#B" n="55" break="no"/>nium nibil sunt ergo a contrario sensu si post 
+      <lb ed="#B" n="56"/>septennium robur accipiunt: cuius ratio 
+      <lb ed="#B" n="57"/>est: quia tunc quodammodo pueri veniunt ad 
+      co<lb ed="#B" n="58" break="no"/>gnitionem: et maxime huius actus ad quem 
+      <lb ed="#B" n="59"/>natura inclinat et promouet non ita ante 
+      se<lb ed="#B" n="60" break="no"/>ptsenium vt communiter loquimur: non tamen sunt 
+      <lb ed="#B" n="61"/>tunc habiles ad matrimonium contrahendum: 
+      <lb ed="#B" n="62"/>patet quia sunt impotentes ad perficiendum 
+      <lb ed="#B" n="63"/>vnde sicut dicit doctor deuo. praesenti dist. arti. 
+      <lb ed="#B" n="64"/>2. q. 1. matrimonium in tribus est: in officium 
+      <lb ed="#B" n="65"/>propter prolem: in remedium propter 
+      concupi<lb ed="#B" n="66" break="no"/>scentiam: in sacramentum propter 
+      indissolubili<lb ed="#B" n="67" break="no"/>tatem: pueri autem contra primum non possunt ge 
+      <lb ed="#B" n="68"/>nerare: non excitantur libidine contra secundum 
+      <lb ed="#B" n="69"/>non sunt stabiles contra tertium: ideo non 
+      pos<lb ed="#B" n="70" break="no"/>sunt contrahere matrimonium. Si quaeras 
+      <lb ed="#B" n="71"/>tempus contractus. 14. anni in masculo. 12. in 
+      <lb ed="#B" n="72"/>faemina. Dico autem vt communiter: quia aliquando 
+      <lb ed="#B" n="73"/>malicia supplet etatem: et complexio tempors 
+      prae<lb ed="#B" n="74" break="no"/>uenit regulare: et tunc ex quo potestatem illam habet 
+      <lb ed="#B" n="75"/>et discretionem sufficientem ad consensum de 
+      <lb ed="#B" n="76"/>bitum potest contrahere: quia et habet quod de 
+      <lb ed="#B" n="77"/>bet et consensum sufficientem et signa. Et tantum 
+      <lb ed="#B" n="78"/>de secundo articulo. 
+      <lb ed="#B" n="79"/>Quantum ad tertium articu 
+      <lb ed="#B" n="80"/>lum: sunt 
+      <lb ed="#B" n="81"/>tres difficultates.
+</p>
+               <p xml:id="WuV37d-f94400-d1e1264">
+¶ Prima. si vir potest 
+      <lb ed="#B" n="82"/>se in seruum vendere sine consensu vxoris. Di 
+      <lb ed="#B" n="83"/>cit frater Richar. arti. 5. praesentis dist. q. 1. quod 
+      <lb ed="#B" n="84"/>sic: seruato iure debitum reddendi vxori: in 
+      <lb ed="#B" n="85"/>aliis enim est sui iuris: nec hoc soluit matri 
+      <lb ed="#B" n="86"/>monium: aut quantum ad vinculum: aut 
+      quan<lb ed="#B" n="87" break="no"/>tum ad thorum: et si tunc simul praecipiat dominus vnum 
+      <lb ed="#B" n="88"/>et vxor petat debitum: vxori prius 
+      obediai<lb ed="#B" n="89" break="no"/>cui primo est ligatus.
+</p>
+               <p xml:id="WuV37d-f94400-d1e1284">
+¶ Secunda dit 
+      <lb ed="#B" n="90"/>ficultas. Liber contrahit cum serua vel an 
+      <lb ed="#B" n="91"/>cilla. quam liberam esse credit: post ipsa 
+      ma<lb ed="#B" n="92" break="no"/>numittitur: vtrum sit matrimonium. fra 
+      <lb ed="#B" n="93"/>ter franciscus de maronis in praesenti dist. 
+      vi<lb ed="#B" n="94" break="no"/>detur dicere quod sic: sed salua sua reuerentia hoc 
+      <lb ed="#B" n="95"/>non videtur: nisi nouus consensus 
+      adueni<lb ed="#B" n="96" break="no"/>at: consensus enim primus nullus erat quo in aliam 
+      <lb ed="#B" n="97"/>consensit: quae in eum consentire non potuit: quia 
+      <lb ed="#B" n="98"/>erat peioris conditionis: de hoc satis facit 
+      <!--861.xml-->
+      <pb ed="#B" n="422-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>fermo habitus in praecedenti dist. conclusione 
+      <lb ed="#B" n="2"/>secunda.
+</p>
+               <p xml:id="WuV37d-f94400-d1e1317">
+¶ Tertia difficultas. quare 
+      <lb ed="#B" n="3"/>mulier citius est nubilis viro. Doc. deuotus 
+      <lb ed="#B" n="4"/>in praefenti dist. arti. 2. q. 1. in fine: dat tripli 
+      <lb ed="#B" n="5"/>cem rationem. Prima quia citius soluitur viscositas per 
+      <lb ed="#B" n="6"/>meatus laxiores. Secunda quia difficilius est 
+      <lb ed="#B" n="7"/>agere quam pati. Tertia quoniam natura imperfe 
+      <lb ed="#B" n="8"/>ctior in muliere appetit virum: sicut 
+      mate<lb ed="#B" n="9" break="no"/>ria appetit formam: vnde propter maiorem 
+      ap<lb ed="#B" n="10" break="no"/>petitum naturae maior fit acceleratio. Et sic 
+      <lb ed="#B" n="11"/>patet ad quaestionem: quod vet seruitus et etas 
+      <lb ed="#B" n="12"/>buerilis impediunt matrimonium et qualiter. 
+      <lb ed="#B" n="13"/>Tunc ad argumenta.
+</p>
+               <p xml:id="WuV37d-f94400-d1e1343">
+¶ Ad primum dicen 
+      <lb ed="#B" n="14"/>dum: quod seruus non est ita domini quan habeat aliquis 
+      <lb ed="#B" n="15"/>actus sui iuris: vt dormirei comedere / bi 
+      <lb ed="#B" n="16"/>bere / et reliquos non impedientes a 
+      serui<lb ed="#B" n="17" break="no"/>cio domini sui: cuiusmodi est iste pro loco et 
+      tem<lb ed="#B" n="18" break="no"/>pore.
+</p>
+               <p xml:id="WuV37d-f94400-d1e1356">
+¶ Ad secundum dicendum: quod non est si 
+      <lb ed="#B" n="19"/>mile quia profitens religionem submittit se ex to 
+      <lb ed="#B" n="20"/>to religioni et ita remouet se ex toto a dominio 
+      <lb ed="#B" n="21"/>consequent sui: non sic in matrimonio vt dicum est 
+      </p>
+               <p xml:id="WuV37d-f94400-d1e1365">
+                  <lb ed="#B" n="22"/>¶ Ad tertium dicendum: quod bene verum est quod 
+      <lb ed="#B" n="23"/>aliquis potest accipre potestatem antequam possit vti: et hoc 
+      <lb ed="#B" n="24"/>modo fit in ordinibus: sed nequit dare 
+      po<lb ed="#B" n="25" break="no"/>testatem antequam habeat: et in matrimonio 
+      <lb ed="#B" n="26"/>oportet dare potestatem: ideo non est simile. 
+      </p>
+            </div>
+            <div xml:id="WuV37d-f94400-Dd1e1379" type="et-conclusiones">
+               <head xml:id="WuV37d-f94400-Hd1e1381">Conclusiones</head>
+               <p xml:id="WuV37d-f94400-d1e1384">
+                  <lb ed="#B" n="27"/>¶ Ex ista distin. sicut de 
+      praecedenti<lb ed="#B" n="28" break="no"/>bus de mente etc.
+</p>
+               <p xml:id="WuV37d-f94400-d1e1391">
+¶ Prima conclusio. Non 
+      <lb ed="#B" n="29"/>est ingenua cogenda penitus ad serui mutua 
+      <lb ed="#B" n="30"/>quem nescit primitus. Dicit conclusio quod libera 
+      capi<lb ed="#B" n="31" break="no"/>ens seruum quem credit liberum non est cogenda 
+      <lb ed="#B" n="32"/>adimplere matrimonium. Et ponitur a 
+      prin<lb ed="#B" n="33" break="no"/>cipio dist. vsque illud ca. Quaeritur etiam si 
+      ser<lb ed="#B" n="34" break="no"/>uus vnius ancillam alterius etc.
+</p>
+               <p xml:id="WuV37d-f94400-d1e1407">
+¶ Secunda 
+      <lb ed="#B" n="35"/>conclusio. Rata communiugia sunt bene seruorum 
+      <lb ed="#B" n="36"/>nec viri vicia frangunt nexum horum. Dicit 
+      com<lb ed="#B" n="37" break="no"/>clusio quod inter seruum et ancillam est bene con 
+      <lb ed="#B" n="38"/>iugium: et quod fraudes viri non frangunt 
+      matri<lb ed="#B" n="39" break="no"/>monium. Et ponitur ab illo ca. Quaeritur etiam 
+      <lb ed="#B" n="40"/>si seruus etc. vsque ad illud capitulum. Hoc eti 
+      <lb ed="#B" n="41"/>am sciendum quod pueri etc.
+</p>
+               <p xml:id="WuV37d-f94400-d1e1425">
+¶ Tertia 
+      conclu<lb ed="#B" n="42" break="no"/>sio. Tempus limitatum habent connubia 
+      <lb ed="#B" n="43"/>sic habent artatum ipsa sponsalia. Dicit 
+      <lb ed="#B" n="44"/>conclusio quod tam matrimonium quam sponsalia 
+      <lb ed="#B" n="45"/>habent tempus limitatum a iure. Et 
+      po<lb ed="#B" n="46" break="no"/>nitur ab illo loco. Hoc etiam etc. vsque etc.
+</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

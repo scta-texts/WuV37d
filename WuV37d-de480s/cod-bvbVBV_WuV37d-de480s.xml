@@ -1,0 +1,836 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dubietas</title>
+            <author ref="#WilliamDeVaurouillon">William de Vaurouillon</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Dubietas</title>
+               <date when="2021-06-19">June 19, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-bvbVBV">Basel 1510</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0"
+                    url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-06-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="3-r"/>
+            <cb ed="#B" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="WuV37d-de480s"><!-- l1dubietas -->
+            <head>Dubietas</head>
+            <p>
+      <!--22.xml-->
+               <pb ed="#B" n="3-r"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>Dubietas collatiua 
+      <lb ed="#B" n="2"/>in qua redarguit opinionem sancti 
+      <lb ed="#B" n="3"/>Tho. in. 4. scrpto: di. 41. ar. i. q. i. 
+      <lb ed="#B" n="4"/>N Guil. 
+      <lb ed="#B" n="5"/>lermi frequens in 
+      <lb ed="#B" n="6"/>naturalibus 
+      gira<lb ed="#B" n="7" break="no"/>tio seu studium ad 
+      <lb ed="#B" n="8"/>salutem 
+      supernatura<lb ed="#B" n="9" break="no"/>lem sufficiat 
+      conse<lb ed="#B" n="10" break="no"/>quendam: hoc est 
+      <lb ed="#B" n="11"/>querere. Utrum pos 
+      <lb ed="#B" n="12"/>sit homo scientiis humanitus adinuentis sufficien 
+      <lb ed="#B" n="13"/>ter se ad salutem ordinare: Arguitur primo quod 
+      <lb ed="#B" n="14"/>sic. Omnis potentia habens aliquod commune pro 
+      <lb ed="#B" n="15"/>primo obiecto adaequato: potest in quodlibet 
+      <lb ed="#B" n="16"/>contentum sub illo obiecto primario sed 
+      ob<lb ed="#B" n="17" break="no"/>iectum naturale intellectus nostri adequatum 
+      <lb ed="#B" n="18"/>et primarium est ens inquantum ens: igitur in quod 
+      <lb ed="#B" n="19"/>libet intelligibile potest homo per naturam. 
+      Ma<lb ed="#B" n="20" break="no"/>ior patet exemplo et ratione. Exemplo sic. 
+      <lb ed="#B" n="21"/>Si enim color seu lux corporalis (ad praesens 
+      <lb ed="#B" n="22"/>non curo) sit obiectum adequatum visus: potest 
+      <lb ed="#B" n="23"/>visus in quodlibet contentum sub colore seu 
+      <lb ed="#B" n="24"/>luce. Ratione sic. Quia adaequatum dicitur ob 
+      <lb ed="#B" n="25"/>iectum quia in nullo excedit potentiam. Sed si 
+      <lb ed="#B" n="26"/>potentia in aliquo sub eo contento non 
+      pos<lb ed="#B" n="27" break="no"/>iet: iam non esset adaequatum sed obiectum 
+      po<lb ed="#B" n="28" break="no"/>tentiam excederet. Minor patet auctorita 
+      <lb ed="#B" n="29"/>te Auicem. i. metaph. Ens et res inquit prius 
+      <lb ed="#B" n="30"/>ma impressione in animam imprimuntur: nec possunt 
+      <lb ed="#B" n="31"/>ex aliis manifestari. Confirmatur: quia actiuo 
+      <lb ed="#B" n="32"/>et passiuo sufficienter approximatis / et non 
+      <lb ed="#B" n="33"/>impeditis: sequitur semper actio / si sint causae 
+      <lb ed="#B" n="34"/>naturales. Sed intellectus possibilis est 
+      cau<lb ed="#B" n="35" break="no"/>sa naturalis passiua: agens causa naturalis 
+      <lb ed="#B" n="36"/>actiua: et non semper impediuntur: igitur de se 
+      <lb ed="#B" n="37"/>possunt in quodlibet intelligibile. Unde philosophus 
+      <lb ed="#B" n="38"/>3 de anima dicit: Quod intellectus possibilis est / 
+      <lb ed="#B" n="39"/>quo est omnia fieri: et agens quo est omnia facere. 
+      </p>
+            <p>
+               <lb ed="#B" n="40"/>¶ In oppositum vero et pro parte negatiua 
+      <lb ed="#B" n="41"/>arguitur sic. Omni agenti per cognitionem 
+      neces<lb ed="#B" n="42" break="no"/>saria est cognitio sui finis distincta. Sed  
+      <lb ed="#B" n="43"/>homo non potest ex naturalibus habere cogni 
+      <lb ed="#B" n="44"/>tionem sui finis distincte. Igitur necesse est 
+      ali<lb ed="#B" n="45" break="no"/>am illabi specialem doctrinam. Maior 
+      pa<lb ed="#B" n="46" break="no"/>tet: quia omne agens propter finem agit ex appe 
+      <!--22.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="47"/>titu finis. Igitur sicut per naturam agenti 
+      neces<lb ed="#B" n="48" break="no"/>sarius est appetitus finis: sic et per 
+      cognitio<lb ed="#B" n="49" break="no"/>nem agenti. Omne vero volitum praecognitum. Mi 
+      <lb ed="#B" n="50"/>nor vero probatur: quia philosophus sequendo viam 
+      natura<lb ed="#B" n="51" break="no"/>lem: aut errabit in cognitione finis in 
+      particu<lb ed="#B" n="52" break="no"/>lari: sicut ponere videtur felicitatem in 
+      cogni<lb ed="#B" n="53" break="no"/>tione substantiarum separatarum: in 1 et. 10. ethi 
+      <lb ed="#B" n="54"/>corum aut dubius remanebit. Unde in 1. eth. 
+      <lb ed="#B" n="55"/>dubitando: si quid est deorum donum: 
+      rationa<lb ed="#B" n="56" break="no"/>bile est felicitatem esse. Confirmatur 
+      aucto<lb ed="#B" n="57" break="no"/>ritate apostoli ad Thim. dicentis: Omnis scriptu 
+      <lb ed="#B" n="58"/>ra diuinitus inspirata vtilis est ad 
+      docen<lb ed="#B" n="59" break="no"/>dum ad arguendum / ad corripiendum / ad erudi 
+      <lb ed="#B" n="60"/>endum. Et Baruth. Dedit illam iacob 
+      pue<lb ed="#B" n="61" break="no"/>ro suo / et israel dilecto suo. Post haec in ter 
+      <lb ed="#B" n="62"/>ris visus est: et cum homnibus conuersatus est. Et 
+      <lb ed="#B" n="63"/>sic latitat quaestio sub dubio
+</p>
+            <p>
+¶ Antequam 
+      vl<lb ed="#B" n="64" break="no"/>terius progrediari / reuerendi magistri 
+      opti<lb ed="#B" n="65" break="no"/>mique patres / more huius almae facultatis  
+      <lb ed="#B" n="66"/>matris meae tbeologiae: protestor / quod in 
+      praesen<lb ed="#B" n="67" break="no"/>ti actu / seu in quocumque alio dei gratia 
+      im<lb ed="#B" n="68" break="no"/>posterum per me fiendo: non intendo aliquid 
+      dice<lb ed="#B" n="69" break="no"/>re quod sit contra determinationem sacrosanctae 
+      <lb ed="#B" n="70"/>matris ecclesie: aut contra determinationem 
+      docto<lb ed="#B" n="71" break="no"/>rum ab ea approbatorum quod cedat in fauorem 
+      <lb ed="#B" n="72"/>articulorum in hac alma vniuersitate 
+      condem<lb ed="#B" n="73" break="no"/>natorum quod sit contra bonos mores: seu quo 
+      <lb ed="#B" n="74"/>uis modo valeat offendere pias aures. Quia 
+      <lb ed="#B" n="75"/>si oppositum contingeret (quod deus per suam 
+      <lb ed="#B" n="76"/>piissimam misericordiam auertere dignetur) 
+      <lb ed="#B" n="77"/>ex nunc prout extunc: et ex tunc prout ex nunc: 
+      cas<lb ed="#B" n="78" break="no"/>so / reuoco / retracto: et habeo pro non dicto: 
+      <lb ed="#B" n="79"/>paratus reucare / cassare: et annullare: ad  
+      <lb ed="#B" n="80"/>insinuationem cuiuslibet charitatiue super 
+      <lb ed="#B" n="81"/>hoc me monentis: et specialiter illius vel 
+      il<lb ed="#B" n="82" break="no"/>lorum: ad quem vel ad quos spectat huiusmodi 
+      de<lb ed="#B" n="83" break="no"/>uiantes ad viam reducere veritatem.
+</p>
+            <p>
+¶ 
+      Spe<lb ed="#B" n="84" break="no"/>cialiter tamen de praesenti protestor: quod multa quae 
+      <lb ed="#B" n="85"/>dicturus sum: intendo solum dicere probabiliter 
+      <lb ed="#B" n="86"/>et collatiue: vt cum reuerendis magistris 
+      me<lb ed="#B" n="87" break="no"/>is (cum quibus in lectura sententiarum indignus 
+      <lb ed="#B" n="88"/>concurro) valeam proficere: quorum dicta 
+      promit<lb ed="#B" n="89" break="no"/>to iuxta vires fideliter repetere. Suppli 
+      <lb ed="#B" n="90"/>cans humillime (eorum exercitatus ingeniis) 
+      <lb ed="#B" n="91"/>quod si tantam reuerentiam non habeam in ore / qua 
+      <lb ed="#B" n="92"/>liter decet tantos viros: vt mihi 
+      indulge<lb ed="#B" n="93" break="no"/>re dignenter: quia in corde semper habere inten 
+      <lb ed="#B" n="94"/>do.
+</p>
+            <p>
+¶ His protestationibus praemissis quibus ad  
+      <lb ed="#B" n="95"/>haereo et adhaerere intendo: quamdiu vitam du¬ 
+      <!--23.xml-->
+      <pb ed="#B" n="3-v"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>xero in humanis. Pro decisione questio 
+      <lb ed="#B" n="2"/>nis fit vna fundamentalis conclusio talis. 
+      </p>
+            <p>
+               <lb ed="#B" n="3"/>¶ Sapientia creata quae summa est felicitas 
+      <lb ed="#B" n="4"/>inhaesiua naturaliter mentibus capitur: licet 
+      <lb ed="#B" n="5"/>supernaturalitur imprimatur. Ista conclusio tres ha 
+      <lb ed="#B" n="6"/>bet particulas. Prima est de 
+      impresso<lb ed="#B" n="7" break="no"/>Secunda de eo / quod imprimitur. Tertia de 
+      im<lb ed="#B" n="8" break="no"/>primitate.
+</p>
+            <p>
+¶ Prima pars dicit: quod sapien 
+      <lb ed="#B" n="9"/>tia creata summa est felicitas inhaesiua. Ubi 
+      <lb ed="#B" n="10"/>primo notandum: quod sapientia capitur 
+      triplici<lb ed="#B" n="11" break="no"/>ter. Uno modo pro habitu. vt in. 6. ethico 
+      <lb ed="#B" n="12"/>rum. Sapientia est quasi quoddam caput ha 
+      <lb ed="#B" n="13"/>bens intellectum et scientiam. Alio modo pro actu: 
+      <lb ed="#B" n="14"/>vnde aurelius augustinus illud apostoli. Alii per spiri 
+      <lb ed="#B" n="15"/>tum datur sermo scientiae. Alii sermo sapion 
+      <lb ed="#B" n="16"/>tiae: exponens dicit. Scientia est in cognitione 
+      <lb ed="#B" n="17"/>temporalium: sed sapientia in contemplatione aeter 
+      <lb ed="#B" n="18"/>norum. Tertio modo accipitur: vt vtrumque con 
+      <lb ed="#B" n="19"/>prehendat / tam primum actum quam secundum: et isto 
+      <lb ed="#B" n="20"/>modo capitur hic.
+</p>
+            <p>
+¶ Secundo notandum: quod 
+      <lb ed="#B" n="21"/>triplex est felicitas scilicet inhesiua / et obiecti 
+      <lb ed="#B" n="22"/>ua: inhaesiua in faelice: obiectiua se obiicit 
+      <lb ed="#B" n="23"/>contemplanti: tertia vtrique communis est. 
+      </p>
+            <p>
+               <lb ed="#B" n="24"/>¶ Tertio notandum: quod sapientia potest a tri 
+      <lb ed="#B" n="25"/>plici deriuari vocabulo scilicet vel a sapere: et 
+      <lb ed="#B" n="26"/>sic solum informat intellectum: vel a sapore: 
+      <lb ed="#B" n="27"/>et sic proprie dicit actum voluntatis: aut 
+      ter<lb ed="#B" n="28" break="no"/>tio dicitur: quasi sapida scientia: et hoc mo 
+      <lb ed="#B" n="29"/>do dicit tam actum intellectus: quasi preceden 
+      <lb ed="#B" n="30"/>tis quam voluntatis sequentis: et isto modo capitur 
+      <lb ed="#B" n="31"/>in proposito. Hoc habito probatur conclusio 
+      <lb ed="#B" n="32"/>sic. Illud est summa felicitas inhaesiua: eon 
+      <lb ed="#B" n="33"/>habito maxime suprima portio animae conqui 
+      <lb ed="#B" n="34"/>escit: sed huiusmodi est sapinia accipiendo sapienti 
+      <lb ed="#B" n="35"/>am pro actibus: vt dictum est: ergo pars conclusio 
+      <lb ed="#B" n="36"/>nis vera. Maior patet ex ratione beatitudis: 
+      <lb ed="#B" n="37"/>btitudo enim secundum Boe. iii. de consolatione. 
+      <lb ed="#B" n="38"/>Est status omnium bonorum aggregatione perfectus: 
+      <lb ed="#B" n="39"/>status vero quietem dicit. Item philosophus in. 1 
+      <lb ed="#B" n="40"/>ethicorum. Felicitas est operatio in vita 
+      perfe<lb ed="#B" n="41" break="no"/>cta et continua / secundum optimam virtutem: optima 
+      <lb ed="#B" n="42"/>vero virtus in portione constat superiori. 
+      <lb ed="#B" n="43"/>Minor patet: primo de actu intellectus. 
+      <lb ed="#B" n="44"/>Unde apostolus. Haec est vita aeterna: vt cogno 
+      <lb ed="#B" n="45"/>scant te deum: et quem misisti iesum christum. 
+      <lb ed="#B" n="46"/>Et Augustinus Uisio est tota merces. Et in pato. 
+      <lb ed="#B" n="47"/>Satiabor cum apparuerit gloria tua. De 
+      <lb ed="#B" n="48"/>actu vero voluntatis dicit Augustinus Frui est 
+      <lb ed="#B" n="49"/>alicui rei amore inherere propter se. De am 
+      <!--23.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="50"/>bobus actibus: perfectam complentibus 
+      feli<lb ed="#B" n="51" break="no"/>citatem dicit: idem Augustius. Fruimur 
+      co<lb ed="#B" n="52" break="no"/>gnitis in quibus voluntas propter se dele 
+      <lb ed="#B" n="53"/>ctata conquiescit: ecce actus voluntatis. Con 
+      <lb ed="#B" n="54"/>firmatur ratio: in eo est perfecta felicitas 
+      <lb ed="#B" n="55"/>inhaesiua: per quod clare et secure vltimo 
+      bo<lb ed="#B" n="56" break="no"/>no iungimur: ceu fini vltimato: 
+      huiusmo<lb ed="#B" n="57" break="no"/>di est sapientia: ergo etc. Maior patet ex ra in 
+      <lb ed="#B" n="58"/>tione felicitatis in secura tentione / visione / 
+      <lb ed="#B" n="59"/>et fruitione existentis. Minor patet de se. 
+      </p>
+            <p>
+               <lb ed="#B" n="60"/>¶ Secunda pars conclusionis dicit: quod sapien 
+      <lb ed="#B" n="61"/>tia creata naturaliter mentibus capitur. Et 
+      <lb ed="#B" n="62"/>tertia: quod ab agente supernaturaliter 
+      impremi<lb ed="#B" n="63" break="no"/>tur. Ad euidentiam ambarum partium est no 
+      <lb ed="#B" n="64"/>tanda quaedam distinctio scilicet quod recipiens potest 
+      <lb ed="#B" n="65"/>comparari: aut ad formam quam recipit: aut ad 
+      <lb ed="#B" n="66"/>agens a quo recipit. Primo modo dicitur po 
+      <lb ed="#B" n="67"/>tentia / naturalis / violenta / vel neutra: dicitur 
+      <lb ed="#B" n="68"/>naturalis: si naturaliter inclinatur: violenta: 
+      <lb ed="#B" n="69"/>si sit contra inclinationem naturalem: neutra: 
+      <lb ed="#B" n="70"/>si neque inclinetur naturaliter ad illam forman 
+      <lb ed="#B" n="71"/>neque ad oppositum. In hac autem comparatione 
+      <lb ed="#B" n="72"/>nulla est supernaturalitas: sed comparando 
+      re<lb ed="#B" n="73" break="no"/>ceptiuum ad agens / a quo recipit: tunc est 
+      na<lb ed="#B" n="74" break="no"/>turalitas: quando receptiuum comparatur ad tale 
+      <lb ed="#B" n="75"/>agens: quod natum est naturaliter imprimere 
+      <lb ed="#B" n="76"/>talem formam in tali passo. Supernaturalitas 
+      <lb ed="#B" n="77"/>autem: quando comparatur ad agens: quod non est 
+      naturali<lb ed="#B" n="78" break="no"/>ter impressiuum illius formae: hoc habito pro 
+      <lb ed="#B" n="79"/>batur prima particula sic: Unde aliquid re 
+      <lb ed="#B" n="80"/>ceptiuum habet aliquod commune: in quod 
+      natu<lb ed="#B" n="81" break="no"/>raliter tendit: et eo perficitur: etiam naturaliter 
+      <lb ed="#B" n="82"/>inclinatur in quodlibet sub eo contentum: sicut si 
+      <lb ed="#B" n="83"/>auditus inclinetur naturaliter in sonum: ita 
+      <lb ed="#B" n="84"/>in sonis contentis sub eo: sed intellectus 
+      na<lb ed="#B" n="85" break="no"/>turaliter inclinatur et formatur cognitione 
+      en<lb ed="#B" n="86" break="no"/>tis: quasi quodam communi sibi obiecto: igitur na 
+      <lb ed="#B" n="87"/>turaliter receptibilis est noticiae cuiuslibet 
+      <lb ed="#B" n="88"/>obiecti sub ente contenti: et cognitionis di 
+      <lb ed="#B" n="89"/>uinae: cum deus ens includat quidditatiue. Quo 
+      <lb ed="#B" n="90"/>ad secundam partem patet: quia deus qui est 
+      obie<lb ed="#B" n="91" break="no"/>ctum beatificum: non est naturaliter motiuum 
+      intel<lb ed="#B" n="92" break="no"/>lectus nostri. Confirmatur theologia viae non 
+      <lb ed="#B" n="93"/>naturaliter acquiritur: ergo nec patriae: consequenta 
+      <lb ed="#B" n="94"/>patet per locum a maiori. Probatur antecedens 
+      <lb ed="#B" n="95"/>sic. Omni agenti per cognitionem necessaria est 
+      <lb ed="#B" n="96"/>tripertita cognitio sui finis. Primo quo  
+      <lb ed="#B" n="97"/>et qualiter acquiratur talis finis. Secundo q 
+      <lb ed="#B" n="98"/>cognitio omnium quae sunt ad illum finem necessaria. 
+      <!--24.xml-->
+      <pb ed="#B" n="4-r"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>Tertio quod illa sufficiant ad illum finem. Pri 
+      <lb ed="#B" n="2"/>mum probatur: quia si nesciat qualiter / et quomodo fi 
+      <lb ed="#B" n="3"/>nis acquiratur: nesciret quomodo ad consecutionem 
+      <lb ed="#B" n="4"/>illius finis se disponeret. Secundum patet: quia 
+      <lb ed="#B" n="5"/>si nesciat omnia necessaria ad ipsum: propter 
+      igno<lb ed="#B" n="6" break="no"/>rantiam vnius poterit deficere: si etiam quo ad 
+      <lb ed="#B" n="7"/>tertium non sciat illa sufficete ex dubitatione: 
+      <lb ed="#B" n="8"/>quam habet circa illa non efficaciter prose 
+      <lb ed="#B" n="9"/>quitur. Sed haec tria non potest viator per 
+      <lb ed="#B" n="10"/>naturam ergo etc. Probatio minoris quo ad 
+      <lb ed="#B" n="11"/>primum. Beatitudo enim confertur 
+      tan<lb ed="#B" n="12" break="no"/>quam praemium quoddam pro mexitis / a deo 
+      <lb ed="#B" n="13"/>voluntarie / non necessario acceptante. 
+      <lb ed="#B" n="14"/>In hoc etiam errauerunt philosophi: ponem 
+      <lb ed="#B" n="15"/>tes omnia a deo produci naturaliter.
+</p>
+            <p>
+¶ Quo 
+      <lb ed="#B" n="16"/>vero ad secundum et tertium membrum planum est: 
+      <lb ed="#B" n="17"/>quis enim potest scire naturaliter omnia 
+      necessa<lb ed="#B" n="18" break="no"/>ria ad salutem: et quod illa sufficiant cum 
+      depende<lb ed="#B" n="19" break="no"/>ant ex mera voluntate dei. Infero ex prima 
+      <lb ed="#B" n="20"/>parte conclusionis: quod felicitas nostra 
+      inhae<lb ed="#B" n="21" break="no"/>siua non est solum quaedam immutatio vitalis 
+      <lb ed="#B" n="22"/>sequestrando actum absolutum. Probatur. Il 
+      <lb ed="#B" n="23"/>la enim immutatio sic accepta: non est nisi qui 
+      <lb ed="#B" n="24"/>dam respectus de predicamento passionis. 
+      <lb ed="#B" n="25"/>Felicitas vero nostra consistit: vt patuit 
+      <lb ed="#B" n="26"/>in absolutis actibus.
+</p>
+            <p>
+¶ Secundo infero: pro 
+      <lb ed="#B" n="27"/>batur solum / quod perfectissimus actus / est act 
+      <lb ed="#B" n="28"/>sapientiae: vt a sapore dicitur. Probatur. Quia 
+      <lb ed="#B" n="29"/>in perfectissimo actu consistit felicitas. 
+      </p>
+            <p>
+               <lb ed="#B" n="30"/>¶ Tertio infero: quod sapientia vt includit 
+      <lb ed="#B" n="31"/>charitatem atque intellectus noticiam: perfectior 
+      <lb ed="#B" n="32"/>est charitate. Probatur eodem medio. Con 
+      <lb ed="#B" n="33"/>firmatur: quia quando aliqua duo se habent ex 
+      <lb ed="#B" n="34"/>additione adinuicem: ita quod vnum super aliud ad 
+      <lb ed="#B" n="35"/>dit: illud quod addit semper est perfectius: ma 
+      <lb ed="#B" n="36"/>xime si additum sit perfectio sicuti quia ho 
+      <lb ed="#B" n="37"/>mo addit super animal rationale: ideo perfe 
+      <lb ed="#B" n="38"/>ctior est homo quam animal: sed sapientia 
+      su<lb ed="#B" n="39" break="no"/>per charitatem gustum addit: vt innuere 
+      vi<lb ed="#B" n="40" break="no"/>detur beatus Bern. vbi dicit: quod ascensus 
+      <lb ed="#B" n="41"/>est ab amore / siue charitate in sapientiae 
+      do<lb ed="#B" n="42" break="no"/>num.
+</p>
+            <p>
+¶ Quarto infero: quod sapientia non so 
+      <lb ed="#B" n="43"/>lum dicit actum intellectus: sed etiam voluntatis. 
+      <lb ed="#B" n="44"/>patet ex supradictes. Coroboratur in textu: 
+      <lb ed="#B" n="45"/>vbi enumeratis donis / quae intellectum dis 
+      <lb ed="#B" n="46"/>ponunt: vt est intellectus / consilium / et scientia: 
+      <lb ed="#B" n="47"/>de perfectiuo intellectus et voluntatis dicit. 
+      <lb ed="#B" n="48"/>Replebit eum spiritus sapientiae.
+</p>
+            <p>
+¶ Quinto 
+      <lb ed="#B" n="49"/>infero: quod magis completiuae est lapientia in 
+      <!--24.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="50"/>voluntate quam in intellectu. Et ne sit equiuo 
+      <lb ed="#B" n="51"/>catio / de hoc nomine sapientia. Nota quod sapr 
+      <lb ed="#B" n="52"/>entia quadrupliciter accipitur. Uno modo di 
+      <lb ed="#B" n="53"/>citur sapientia: prudentia: vt in. 2. aethicorum: 
+      <lb ed="#B" n="54"/>dum diffinit philosophus virtutem. Uirtus est in 
+      me<lb ed="#B" n="55" break="no"/>dio consistens prout sapiens determinabit id es 
+      <lb ed="#B" n="56"/>prudens. Secundo modo dicitur sapientia 
+      <lb ed="#B" n="57"/>pro cognitione causarum vniuersalium: sicut 
+      <lb ed="#B" n="58"/>loquitur philosophus in. 1 methaphisicae: vbi 
+      di<lb ed="#B" n="59" break="no"/>cit quod sapiens quodammodo omnia nouit id est in 
+      <lb ed="#B" n="60"/>vniuersali. Tertio modo dicitur sapientia pro 
+      <lb ed="#B" n="61"/>sola aeternorum cognitione. Haec est sapien 
+      <lb ed="#B" n="62"/>tia vestra: et intellectus coram ppostulis: 
+      intelle<lb ed="#B" n="63" break="no"/>ctus de imis: sed sapinia de aeternis. Hiis 
+      <lb ed="#B" n="64"/>tribus modis non capitur hic. Sed quarto 
+      <lb ed="#B" n="65"/>modo dicitur voluntatis affectus cognitione 
+      pri<lb ed="#B" n="66" break="no"/>ma inflammatus. Sapinia enim doctrinae secundum 
+      <lb ed="#B" n="67"/>nomen est eius: et non est multis manifesta etc. 
+      <lb ed="#B" n="68"/>sed hoc nomen eius est a sapore. Tunc pro 
+      <lb ed="#B" n="69"/>corollario arguitur sic. Unde aliquid habet 
+      <lb ed="#B" n="70"/>duplex esse: vnum in dispositione: reliquum 
+      <lb ed="#B" n="71"/>in termino perfectius habet esse / vbi in ter 
+      <lb ed="#B" n="72"/>mino quam vbi in dispositione. Sed 
+      sapien<lb ed="#B" n="73" break="no"/>tia in intellectu est: vt in dispositione: vt 
+      <lb ed="#B" n="74"/>scilicet per cognitionem: videat voluntas quem 
+      <lb ed="#B" n="75"/>diligat. quia aureo. Aug. teste. Nihil voli 
+      <lb ed="#B" n="76"/>tum nisi praecognitum. In voluntate vero est / 
+      <lb ed="#B" n="77"/>vt in termino etc.
+</p>
+            <p>
+¶ Infero sexto quod sapi 
+      <lb ed="#B" n="78"/>entia sic dicta: non est vnum per se: sed per 
+      ac<lb ed="#B" n="79" break="no"/>cidens: quia complectitur duos actus singulares 
+      <lb ed="#B" n="80"/>duarum potentiarum: qui non faciunt vnum per se 
+      </p>
+            <p>
+               <lb ed="#B" n="81"/>¶ Infero septimo probabiliter solum / quod in 
+      <lb ed="#B" n="82"/>visione dei non est ratio maxime particepus 
+      <lb ed="#B" n="83"/>aeternitatis: seud in dilectione. Hoc 
+      corol<lb ed="#B" n="84" break="no"/>larium pono contra reuerendum magistrum 
+      <lb ed="#B" n="85"/>meum praeceptorem et amicum singularem 
+      ba<lb ed="#B" n="86" break="no"/>chalarium. N. qui in suo soleni principio  
+      <lb ed="#B" n="87"/>oppositum posuit in forma. Contra quem 
+      <lb ed="#B" n="88"/>sic procedam. Primo enim probabo meum 
+      <lb ed="#B" n="89"/>corollarium reprobando suum. Secundo  
+      <lb ed="#B" n="90"/>pro viribus ad suas validissimas 
+      respon<lb ed="#B" n="91" break="no"/>debo rationes. Probo igitur 
+      corollari<lb ed="#B" n="92" break="no"/>um meum primo sic: vbi maxime est 
+      ra<lb ed="#B" n="93" break="no"/>tio meriti illic collocanda est maxime 
+      ra<lb ed="#B" n="94" break="no"/>tio praemii: sed in voluntate maxime est 
+      ra<lb ed="#B" n="95" break="no"/>tio meriti: igitur et praemii: et per 
+      conse<lb ed="#B" n="96" break="no"/>quens plus est beatitudo in dilectione quam 
+      <lb ed="#B" n="97"/>sit in visione. Maior probatur tali medio 
+      <!--25.xml-->
+      <pb ed="#B" n="4-v"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>Meritum enim non est nisi quedam dispositio 
+      <lb ed="#B" n="2"/>ad praemium: et ita quod magis disponitur magis 
+      <lb ed="#B" n="3"/>praemiatur. Minor patet per Aug. li. de libero 
+      <lb ed="#B" n="4"/>arbitrio. Et confirmatur: quia in eo est 
+      ma<lb ed="#B" n="5" break="no"/>xime ratio meriti: quod sibi nomen imponit 
+      <lb ed="#B" n="6"/>Huiusmodi est voluntas. vnde Oreg. Non 
+      <lb ed="#B" n="7"/>quantum: sed ex quanto dominus ponderat. Secundo ar 
+      <lb ed="#B" n="8"/>guitur. Secundm ordinem perfectibilium est ordo 
+      per<lb ed="#B" n="9" break="no"/>fectionum: sed perfectior est voluntas quam intellect 
+      <lb ed="#B" n="10"/>ergo perfectiorem capit perfectionem. Maior 
+      patet<lb ed="#B" n="11" break="no"/>quia actus actiuorum secundum philosophum sunt in patien 
+      <lb ed="#B" n="12"/>te et bene disposito. Sed minor probatur: quia 
+      <lb ed="#B" n="13"/>quanto aliquid magsis ad deum approximat: 
+      <lb ed="#B" n="14"/>tanto extat perfectius: sic enim suo modo in pri 
+      <lb ed="#B" n="15"/>mo de animalibus: mensurat animalia philosophus per 
+      <lb ed="#B" n="16"/>comparationem: ad hominem vt ad metrum. Et 
+      <lb ed="#B" n="17"/>tertio topicorum dicit: quod quanto similius aliquid 
+      <lb ed="#B" n="18"/>est optimo / tanto melius est: sed voluntas 
+      ma<lb ed="#B" n="19" break="no"/>gis similatur deo quam intellectus: quia intellectus est 
+      po<lb ed="#B" n="20" break="no"/>tentia naturalis mobilis ab alio: voluntas 
+      ve<lb ed="#B" n="21" break="no"/>ro libera contingenter se habens ad volita si 
+      <lb ed="#B" n="22"/>cut deus se habet contingenter ad extra. Con 
+      <lb ed="#B" n="23"/>firmatur: quia perfectior est charitas / quae est 
+      <lb ed="#B" n="24"/>perfectio voluntatis hic in via: quam fides quae est 
+      <lb ed="#B" n="25"/>perfectio intellectus: igitur et in patria. Secundo 
+      <lb ed="#B" n="26"/>ergo sic confirmatur: Secundm ordinationem angelicae 
+      <lb ed="#B" n="27"/>hierarchiae mens nostra est disponenda / tam 
+      <lb ed="#B" n="28"/>in via quam patria: vt potest trahi ex 
+      Dionysi<lb ed="#B" n="29" break="no"/>in lib. de ecclesiastica hierarch. sed in 
+      an<lb ed="#B" n="30" break="no"/>gelis supremus est ordo seraphicus: cui in 
+      <lb ed="#B" n="31"/>cendium amoris tribuitur quod est voluntatis 
+      <lb ed="#B" n="32"/>actus: igitur in hierarchia mentis nostrae: in 
+      <lb ed="#B" n="33"/>qua est tentio / visio fruitio: perfectior est. 
+      <lb ed="#B" n="34"/>rruitio quam actus caeteri. Unde abbas 
+      vercel<lb ed="#B" n="35" break="no"/>larum super diony. diuinum dicit: quod vbi scientia fo 
+      <lb ed="#B" n="36"/>ris stat / charitas intrat: gradusque vltimus 
+      <lb ed="#B" n="37"/>contemplationis requies est: quae in volunta 
+      <lb ed="#B" n="38"/>te quammaxime consistit. Tunc ad rationes. 
+      <lb ed="#B" n="39"/>magistri mei. Ad primam quando dicit (Quod patet 
+      <lb ed="#B" n="40"/>ex dictis) Legi principium magistri mei 
+      re<lb ed="#B" n="41" break="no"/>uerendi: et non inueni: ex quibus dictis: nisi quia dicit 
+      <lb ed="#B" n="42"/>quod in visione est quaedam assimilatio et quando est 
+      <lb ed="#B" n="43"/>dei: tunc intellectus fit deiformis: sed cum reuerem 
+      <lb ed="#B" n="44"/>tia sua / hoc non cogit: quia ita voluntas fit 
+      <lb ed="#B" n="45"/>deiformis deum diligendo: et fortius / vt videtur 
+      <lb ed="#B" n="46"/>vnde in vero amante vt dicit Bern. verius 
+      <lb ed="#B" n="47"/>est anima mea vbi amat quam vbi animat. 
+      Chari<lb ed="#B" n="48" break="no"/>tas enim et dilectio est maxime 
+      transforma<lb ed="#B" n="49" break="no"/>tiua: intantum vti multociens per signa extra pa 
+      <!--25.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="50"/>teat: sicut de stigmatibus patris nostri fran 
+      <lb ed="#B" n="51"/>cisci legitur. Sic transformatur cor amantis in 
+      <lb ed="#B" n="52"/>id quod amatur: vt per membra de foris vir 
+      <lb ed="#B" n="53"/>tus erumpat amoris. Ad secundam ration 
+      <lb ed="#B" n="54"/>vbi arguitur sic. Potentia et actus distinguum 
+      <lb ed="#B" n="55"/>tur per obiecta: obiectum autem predictae visi 
+      <lb ed="#B" n="56"/>onis est diuina essentia / secundum seipsam / non 
+      <lb ed="#B" n="57"/>secundum aliam similitudinem eius creatam: cum omnis talis 
+      si<lb ed="#B" n="58" break="no"/>militudo sit creata et finita: et per consequens nonsus 
+      <lb ed="#B" n="59"/>ficiat ad representandum diuinam essentiam in 
+      <lb ed="#B" n="60"/>finitam: nec ad faciendum capacitatem 
+      intelle<lb ed="#B" n="61" break="no"/>ctus creati: quae est infinitus obiectiue. Ad istam 
+      <lb ed="#B" n="62"/>rationem satis mihi difficilem: Respondeo primo 
+      <lb ed="#B" n="63"/>ad minorem: secundo ad maiorem. Ad 
+      mino<lb ed="#B" n="64" break="no"/>rem dico: quod sicut diuina essentia est obiectum 
+      <lb ed="#B" n="65"/>btificum intellectus / sic et voluntatis / et sub ea 
+      <lb ed="#B" n="66"/>dem ratione: et ita non sequitur propter hanc rati 
+      <lb ed="#B" n="67"/>onem: quod magis sit beatitudo in visione quam di 
+      <lb ed="#B" n="68"/>lectione. Ad maiorem dico: quod solum habet ve 
+      <lb ed="#B" n="69"/>ritatem in potentiis organicis: et ad id 
+      proposi<lb ed="#B" n="70" break="no"/>tum adducit eam philosophus: vt patet in secundo de anima. 
+      <lb ed="#B" n="71"/>Intellectus autem et voluntas non sunt potentiae 
+      <lb ed="#B" n="72"/>organicae: et qui ad hoc applicat excedit intem 
+      <lb ed="#B" n="73"/>tionem philosophi.
+</p>
+            <p>
+¶ Arguitur tertio auctoritate 
+      Au<lb ed="#B" n="74" break="no"/>gu. dicentis: quod visio est tota merces. Dico 
+      <lb ed="#B" n="75"/>quod verum est intelligendo: sic quod totaliter 
+      quie<lb ed="#B" n="76" break="no"/>tat intellectum: nec fit illic mentio de volunta 
+      <lb ed="#B" n="77"/>te. Uel aliter dico: quod duplex est visio: scilie 
+      <lb ed="#B" n="78"/>practica et speclsatiua. Augustinus vero loquitur 
+      <lb ed="#B" n="79"/>non de speculatiua: sed de practica quae habet 
+      <lb ed="#B" n="80"/>in se: et cognitionem et amorem.
+</p>
+            <p>
+¶ Quarto 
+      <lb ed="#B" n="81"/>arguitur sic. Btitudo consistit in nobilissima 
+      <lb ed="#B" n="82"/>operatione: sed operatio intellectus est 
+      huius<lb ed="#B" n="83" break="no"/>modi: igitur. Maior est philosophi primo et decimo 
+      <lb ed="#B" n="84"/>ethicorum. Respondeo cum reuerentia: quia minor est 
+      <lb ed="#B" n="85"/>falsa. Et cum probat: quia causa aequiuoca cuius 
+      <lb ed="#B" n="86"/>est operatio intellectus respectu actus 
+      volun<lb ed="#B" n="87" break="no"/>tatis est nobilior suo effectu. Dico hic: quod 
+      <lb ed="#B" n="88"/>actus intellectus non est causa actus voluntatis / sed 
+      so<lb ed="#B" n="89" break="no"/>lum obiectum / et voluntas intellectio solum: 
+      nem<lb ed="#B" n="90" break="no"/>pe praeexgitur / vt quaedam dispositio sicut 
+      ap<lb ed="#B" n="91" break="no"/>proximatio stupe ad ignem: quae tamen approxi 
+      <lb ed="#B" n="92"/>matio non est causa comnbustionis.
+</p>
+            <p>
+¶ Quinto 
+      <lb ed="#B" n="93"/>arguitur sic. Beatitudo consistit in actu: 
+      qua<lb ed="#B" n="94" break="no"/>consequimur finem vltimum / et communiungimur ei: 
+      <lb ed="#B" n="95"/>quia dicit apostolus. Finem vero vitam 
+      aeter<lb ed="#B" n="96" break="no"/>nam: sed actus intellectus est huiusmodi. 
+      <lb ed="#B" n="97"/>Haec est vita aeterna: vt cognoscant etc. 
+      Di<lb ed="#B" n="98" break="no"/>co sicut dixit: quod debet intelligi de visione 
+      <!--26.xml-->
+      <pb ed="#B" n="5-r"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>practica complente actum intellectus et volun 
+      <lb ed="#B" n="2"/>tatis: haec sunt modica et exigua tanti 
+      pa<lb ed="#B" n="3" break="no"/>tris in conspectu: cui me humiliter recommen 
+      <lb ed="#B" n="4"/>do.
+</p>
+            <p>
+¶ Infero vlterius ex secunda parte con 
+      <lb ed="#B" n="5"/>clusionis. Primo quod deus est ens 
+      intelli<lb ed="#B" n="6" break="no"/>gibile: patet: quia alias eius noticia non 
+      reci<lb ed="#B" n="7" break="no"/>pitur in intellectu.
+</p>
+            <p>
+¶ Secundo infero 
+      probabiliu<lb ed="#B" n="8" break="no"/>ter solum et collatiuae: quod includit primum 
+      ob<lb ed="#B" n="9" break="no"/>iectum adequatum intellectus quod est ens: ex 
+      <lb ed="#B" n="10"/>quo non est differentia ens contrahens / nec pas 
+      <lb ed="#B" n="11"/>sio eius / nec priuatio aliqua: patet: quia 
+      opor<lb ed="#B" n="12" break="no"/>tet aliquo istorum modorum se habere ad 
+      pri<lb ed="#B" n="13" break="no"/>mum obiectum adequatum / quod est ens. Confit 
+      <lb ed="#B" n="14"/>matur: quia omnis intellectus certus de vno / et du 
+      <lb ed="#B" n="15"/>bius de duobus: habet illum conceptum de quo 
+      <lb ed="#B" n="16"/>est certus: alium ab aliis de quibus est dubi 
+      <lb ed="#B" n="17"/>us. Ista confirmatio non est somnium 
+      docto<lb ed="#B" n="18" break="no"/>subti. vt quidam somniant: est enim qua si in 
+      ver<lb ed="#B" n="19" break="no"/>bis hisdem posita in maximo 
+      methaphisi<lb ed="#B" n="20" break="no"/>co Algamele Auicenae discipulo: sed 
+      fue<lb ed="#B" n="21" break="no"/>runt certi philosophi: de deo quod erat ens: dubita 
+      <lb ed="#B" n="22"/>bant vero / vtrum corporeus vel incorpore 
+      <lb ed="#B" n="23"/>sicut epicuri: sicut stoici. Igitur conceptus 
+      <lb ed="#B" n="24"/>entis in deo formaliter a deitate 
+      distin<lb ed="#B" n="25" break="no"/>guitur.
+</p>
+            <p>
+¶ Infero tertio quod in distinctis 
+      quid<lb ed="#B" n="26" break="no"/>ditatibus potest deus a mentibus nostris intel 
+      <lb ed="#B" n="27"/>ligi: patet ex iam dictis: quia alia quidditas est 
+      en<lb ed="#B" n="28" break="no"/>titas / alia deitas / alia distinctio formaliter: 
+      <lb ed="#B" n="29"/>nec est fingenda distinctio aut a parte nostri 
+      <lb ed="#B" n="30"/>intellectus vel diuini.
+</p>
+            <p>
+¶ Quarto infero: 
+      <lb ed="#B" n="31"/>intellectum nostrum et voluntatem tante esse 
+      per<lb ed="#B" n="32" break="no"/>fectionis: vt nisi in infinito obiectiue: licet fi 
+      <lb ed="#B" n="33"/>nito subiectiue satiari possint: cuius oppo 
+      <lb ed="#B" n="34"/>situm posuit auicem. 9. meth. Et algamel eius 
+      <lb ed="#B" n="35"/>abbreviator: posuerunt enim animas nostras in 
+      vi<lb ed="#B" n="36" break="no"/>sione intelligentiae terrenorum beatificari: quam 
+      <lb ed="#B" n="37"/>produci posuerunt per intelligentiam 
+      lunae<lb ed="#B" n="38" break="no"/>Contra hoc arguo vno medio sic. Poten 
+      <lb ed="#B" n="39"/>tia quae inclinatur ad multa obiecta per se non 
+      <lb ed="#B" n="40"/>quietatur in aliquo vno perfecte: nisi illud 
+      in<lb ed="#B" n="41" break="no"/>cludat omnia per se obiecta: quantum possunt 
+      <lb ed="#B" n="42"/>includi perfectissime in aliquo vno 
+      obie<lb ed="#B" n="43" break="no"/>cto: sed intellectus noster et voluntas inclia 
+      <lb ed="#B" n="44"/>tur ad omne ens: sicut ad per se obiecta: 
+      <lb ed="#B" n="45"/>igitur non perfecte quietatur in aliquo vno 
+      en<lb ed="#B" n="46" break="no"/>te: nisi illud includat omnia alia entia: quantum 
+      <lb ed="#B" n="47"/>possunt in aliquo includi: possunt autem perfectis 
+      <lb ed="#B" n="48"/>sime includi in aliquo ente infinito: igitur 
+      <lb ed="#B" n="49"/>possumus tantum ibi quietari.
+</p>
+            <p>
+¶ Quinto infe 
+      <!--26.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="50"/>ro sub diuersis conditionibus deum ab 
+      intel<lb ed="#B" n="51" break="no"/>lectu nostro apprehendi: nunc cognitione fi 
+      <lb ed="#B" n="52"/>dei in oenigmate in via: nunc visionis in pa 
+      <lb ed="#B" n="53"/>tria. Prima est modo abstractiue. Secunda 
+      <lb ed="#B" n="54"/>modo intuitiue.
+</p>
+            <p>
+¶ Infero sexto: quod res crea 
+      <lb ed="#B" n="55"/>ta in deo ab aeterno habent esse 
+      intelligibi<lb ed="#B" n="56" break="no"/>le. Istud corollarium probatur tripliciter. 
+      Pri<lb ed="#B" n="57" break="no"/>mo comparando intellectum diuinum ad 
+      distin<lb ed="#B" n="58" break="no"/>ctam cognitionem. Secundo coparando eum in 
+      <lb ed="#B" n="59"/>tellectui humano. Tertio comparando eum 
+      <lb ed="#B" n="60"/>operi producibili.
+</p>
+            <p>
+¶ Quo ad primum arguo 
+      <lb ed="#B" n="61"/>sic. Omne illud ab aeterno in alio habet 
+      <lb ed="#B" n="62"/>esse intelligibile: quod distincte et perfecte ab 
+      <lb ed="#B" n="63"/>aeterno ab eodem comprehenditur: sed res crea 
+      <lb ed="#B" n="64"/>tae sunt huiusmodi respectu mentis 
+      diui<lb ed="#B" n="65" break="no"/>ne: igitur etc. Probatio maioris. Nam 
+      distin<lb ed="#B" n="66" break="no"/>cte cognosci est esse per se cognitum: esse 
+      <lb ed="#B" n="67"/>vero cognitum et intellectum idem sunt: 
+      <lb ed="#B" n="68"/>esse vero intellectum praesupponit esse 
+      in<lb ed="#B" n="69" break="no"/>telligibile: ens autem intelligibile: est ens 
+      <lb ed="#B" n="70"/>rationis: quod recipit pro fundamento in 
+      <lb ed="#B" n="71"/>tellectum cognoscentis. Minor patet. alilas 
+      <lb ed="#B" n="72"/>enim sequeretur primum alio indigere in suis 
+      <lb ed="#B" n="73"/>operibus: cum nullus agens per intellectum 
+      <lb ed="#B" n="74"/>certe operetur / nisi certa cognitione habita: 
+      <lb ed="#B" n="75"/>quae requirit cognoscibile in ratione obie 
+      <lb ed="#B" n="76"/>cti sibi praesens.
+</p>
+            <p>
+¶ Secundo arguo sic. Non est 
+      <lb ed="#B" n="77"/>imperfectior intellectus diuinus quam humanus sed hu 
+      <lb ed="#B" n="78"/>manus rem cognoscendo producit rem in esse 
+      in<lb ed="#B" n="79" break="no"/>telligibili: quod est in ipso intelligente: igitui 
+      <lb ed="#B" n="80"/>et intellectus diuinus intelligendo producet 
+      <lb ed="#B" n="81"/>aut quasi: producet autem rem in esse 
+      intelligi<lb ed="#B" n="82" break="no"/>bili: quod manebit in mente diuina: nec 
+      va<lb ed="#B" n="83" break="no"/>let si dicatur: quod est imperfectionis 
+      intel<lb ed="#B" n="84" break="no"/>lectus nostri tale producere accidens: remo 
+      <lb ed="#B" n="85"/>ueatur enim ab esse intelligibili quod sit accidens: 
+      <lb ed="#B" n="86"/>et relinquatur solum: quod sit quasi produ 
+      <lb ed="#B" n="87"/>ctum iuxta viam cognitionis diuine: quam 
+      <lb ed="#B" n="88"/>beatus tangit Dionysius scilicet eminentiae. 
+      <lb ed="#B" n="89"/>Assumptum probatur: quia res cognita acci 
+      <lb ed="#B" n="90"/>pit esse cognitum: illud vero esse cum sit 
+      <lb ed="#B" n="91"/>spirituale: nequit esse in obiecto quod 
+      frequem<lb ed="#B" n="92" break="no"/>ter extat materiale.
+</p>
+            <p>
+¶ Tertio arguo sic. 
+      <lb ed="#B" n="93"/>Res producta ab aeterno fuit producibi 
+      <lb ed="#B" n="94"/>lis: ergo aliquod esse habuit ab aeterno: aliud 
+      <lb ed="#B" n="95"/>non videtur nisi esse intelligibile in deo: 
+      er<lb ed="#B" n="96" break="no"/>go ab aeterno illud habuit esse. Antecedens 
+      proba<lb ed="#B" n="97" break="no"/>tur: quia quod non est producibile impossibi 
+      <lb ed="#B" n="98"/>le est esse productum: vt trahi potest ex secundo 
+      <!--27.xml-->
+      <pb ed="#B" n="5-v"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>peri hermenias i et. 6. physicorum. Sed com 
+      <lb ed="#B" n="2"/>sequentia probatur: quia producibilitas est 
+      <lb ed="#B" n="3"/>quidam respectus: omnis vero respectus 
+      prae<lb ed="#B" n="4" break="no"/>supponit esse absolutum: in quo fundetur 
+      <lb ed="#B" n="5"/>iuxta dictum Augstin. septimo de trinitate. 
+      <lb ed="#B" n="6"/>Omne quod ad aliud dicitur prius est ad 
+      <lb ed="#B" n="7"/>se. Quod vero non sit improductum probatur. 
+      <lb ed="#B" n="8"/>Quia tunc essent plura aeterna. Unde hic 
+      <lb ed="#B" n="9"/>sunt tria signa. Primo diuinus intellectus 
+      <lb ed="#B" n="10"/>diuinam intelligit essentiam. In secundo 
+      la<lb ed="#B" n="11" break="no"/>pide in se et caetera creata producit in esse in 
+      <lb ed="#B" n="12"/>telligibili: et ea intelligit. In tertio compa 
+      <lb ed="#B" n="13"/>rat eam ad suam essentiam: et istam intelli 
+      <lb ed="#B" n="14"/>git comparationem. Istud etiam corollarium 
+      <lb ed="#B" n="15"/>tribusl corroboratur auctoritatibus. 
+      Pri<lb ed="#B" n="16" break="no"/>ma est Aug. libro octogintatrium 
+      quaesti<lb ed="#B" n="17" break="no"/>onum. Ideae sunt formae aeterne et 
+      immo<lb ed="#B" n="18" break="no"/>biles in mente diuina: idea vero est esse 
+      in<lb ed="#B" n="19" break="no"/>intelligibile. Secunda August. 5. 
+      super<lb ed="#B" n="20" break="no"/>Sen. Omnia in deo sunt vita. Et idem 
+      su<lb ed="#B" n="21" break="no"/>per Idannem. Quod factum est in ipso 
+      vi<lb ed="#B" n="22" break="no"/>ta erat. Quod non intelligitur nisi de hoc 
+      <lb ed="#B" n="23"/>esse intelligibili / vt videtur. Tertia est Aui 
+      <lb ed="#B" n="24"/>cennae. 6. metaphysicae: vbi concedit rela 
+      <lb ed="#B" n="25"/>tionem dei vt intelligentis ad formas 
+      intel<lb ed="#B" n="26" break="no"/>lectas. Si autem istae formae ponerent extra 
+      <lb ed="#B" n="27"/>se: ad aliud extra se referretur: quod negat 
+      <lb ed="#B" n="28"/>philosophus. 12. metaphysicae.
+</p>
+            <p>
+¶ Infero 
+      septi<lb ed="#B" n="29" break="no"/>mo: quod perfectior est cognitio facialis quam fi 
+      <lb ed="#B" n="30"/>dei: patet ex predictis. Confirmatur: quia 
+      <lb ed="#B" n="31"/>quando sunt duae cognitiones vnius 
+      ob<lb ed="#B" n="32" break="no"/>iecti: perfectior est ea quae apprehendit 
+      ob<lb ed="#B" n="33" break="no"/>iectum perfectius: quam ea quae non ita 
+      perfe<lb ed="#B" n="34" break="no"/>cte apprehendit. Huiusmodi sunt 
+      cog<lb ed="#B" n="35" break="no"/>nitio viae et patriae. Cognitio viae 
+      imper<lb ed="#B" n="36" break="no"/>fecta. Ex parte enim cognoscimus. 
+      Cogni<lb ed="#B" n="37" break="no"/>tio patriae perfecta: Tunc autem 
+      cogno<lb ed="#B" n="38" break="no"/>scam / sicut et cognitus sum: igitur etc. 
+      </p>
+            <p>
+               <lb ed="#B" n="39"/>¶ Infero octauo probabiliter solum et 
+      col<lb ed="#B" n="40" break="no"/>latiue: quod simul stare potest pro eodem instan 
+      <lb ed="#B" n="41"/>ti habitus fidei / cum clara visione dei. 
+      <lb ed="#B" n="42"/>Hoc corollarium pono contra reuerendum 
+      <lb ed="#B" n="43"/>magistrum meum et patrem singularem 
+      or<lb ed="#B" n="44" break="no"/>dinarium baccalaurium in scholis 
+      seucolle<lb ed="#B" n="45" break="no"/>gio fratrum predicatorum: contra quem sic pro 
+      <lb ed="#B" n="46"/>cedam. Primo enim ostendam quod in 
+      di<lb ed="#B" n="47" break="no"/>ctis suis variat. Secundo probabo 
+      co<lb ed="#B" n="48" break="no"/>rollarium meum / suum improbando. Ter 
+      <lb ed="#B" n="49"/>tio respondebo ad rationes suas validis 
+      <!--27.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="50"/>simas.
+</p>
+            <p>
+¶ Quo ad primum variat dicta sua 
+      <lb ed="#B" n="51"/>magister meus / vt videtur. In corollario 
+      <lb ed="#B" n="52"/>enim suo videtur loqui de visione et 
+      impro<lb ed="#B" n="53" break="no"/>batione de scientia: quasi idem sit visio et 
+      <lb ed="#B" n="54"/>scientia: quod non videtur: scientia nempe 
+      <lb ed="#B" n="55"/>habitum nominat / visio actum: ideo male 
+      <lb ed="#B" n="56"/>transponit terminos.
+</p>
+            <p>
+¶ Secundo probo 
+      <lb ed="#B" n="57"/>meum corollarium sic. Si visio non possit 
+      si<lb ed="#B" n="58" break="no"/>mul stare cum fide: aut hoc est / quia actus 
+      <lb ed="#B" n="59"/>fidei visionem impedit / aut ipsa fides in 
+      <lb ed="#B" n="60"/>actu primo. Non primum: quia suppono quod 
+      <lb ed="#B" n="61"/>stante visione non exeat in actum fides. Non 
+      <lb ed="#B" n="62"/>secundum: quia sicut species albedinis et 
+      <lb ed="#B" n="63"/>nigredinis simul stant in intellectu: nec mu 
+      <lb ed="#B" n="64"/>tuo se expellunt: sic possibile est quod 
+      stan<lb ed="#B" n="65" break="no"/>te ista qualitate quae est fides in actu 
+      pri<lb ed="#B" n="66" break="no"/>mo: sit visio in actu secundo. 
+      Confirma<lb ed="#B" n="67" break="no"/>tur: quia quando Paulus in raptu vidit 
+      <lb ed="#B" n="68"/>deum visione clara: vt dicit magister 
+      me<lb ed="#B" n="69" break="no"/>us: non est verisimile fidem quam habebat 
+      <lb ed="#B" n="70"/>destrui: vt iterum post raptum crearetur 
+      no<lb ed="#B" n="71" break="no"/>ua. Si enim natura non facit per plura quod 
+      <lb ed="#B" n="72"/>potest facere per pauciora: a fortiori deus 
+      <lb ed="#B" n="73"/>naturae institutor.
+</p>
+            <p>
+¶ Tunc tertio 
+      respon<lb ed="#B" n="74" break="no"/>deo ad rationes magistri mei. Ad priman 
+      <lb ed="#B" n="75"/>quando dicit. Impossibile est eidem inesse 
+      <lb ed="#B" n="76"/>opposita: sed scientia et fides sunt 
+      oppo<lb ed="#B" n="77" break="no"/>sita: igitur etc. Probat minorem: quia 
+      scien<lb ed="#B" n="78" break="no"/>tia est de euidenti et certo: fides vero de 
+      <lb ed="#B" n="79"/>certo / sed non euidenti. Hic dico primo: 
+      <lb ed="#B" n="80"/>quod non probat (sicut dixi) suum corollarium: 
+      <lb ed="#B" n="81"/>quia corollarium est de visione / et probatio de 
+      <lb ed="#B" n="82"/>fcientia.
+</p>
+            <p>
+¶ Secundo dico: quod scientiam 
+      sta<lb ed="#B" n="83" break="no"/>re cum side: prout de scientia loquitur philosophus 
+      <lb ed="#B" n="84"/>1. posteriorum: potest capi dupliciter. 
+      Pri<lb ed="#B" n="85" break="no"/>mo modo respectu diuersorum: et sic secundum met 
+      <lb ed="#B" n="86"/>sanctum Tho. secunda secundae: est possibile / 
+      <lb ed="#B" n="87"/>vt puta quod sit scientia / quod deus est vnus: et 
+      <lb ed="#B" n="88"/>fides / quod est trinus. Si vero dicatur 
+      respe<lb ed="#B" n="89" break="no"/>ctu eiusdem: sic nego / et cum doctore suo et 
+      <lb ed="#B" n="90"/>cum doctore subtili in tertio: dist. 24. opi. 
+      <lb ed="#B" n="91"/>3. Sic enim idem esset euidens et non 
+      eui<lb ed="#B" n="92" break="no"/>dens: certum et non certum fide ad 
+      contin<lb ed="#B" n="93" break="no"/>gentia limitata: et ita non cogit. Ad 
+      confir<lb ed="#B" n="94" break="no"/>mationem quando allegat Augstin. fidem 
+      diffi<lb ed="#B" n="95" break="no"/>nientem: Quid inquit est fides / nisi credere 
+      <lb ed="#B" n="96"/>quod non vides? Dico quod accipit hic fidem 
+      <lb ed="#B" n="97"/>pro actu secundo / et non primo. Fides enim ali 
+      <lb ed="#B" n="98"/>quando accipitur pro obiecto fidei: sicut dicit 
+      <!--28.xml-->
+      <pb ed="#B" n="6-r"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>Athanasius. Haec est fides catholica. Ali 
+      <lb ed="#B" n="2"/>quando pro habitu: sicut dicit aposto lus. 
+      <lb ed="#B" n="3"/>fides est substantia sperandarum rerum 
+      <lb ed="#B" n="4"/>argumentum non apparentium. Aliquando 
+      <lb ed="#B" n="5"/>pro actu / sicut hic: et sic repugnant ex toto 
+      <lb ed="#B" n="6"/>visio et credere. Allegat ad hoc 
+      vltima<lb ed="#B" n="7" break="no"/>te illud Bregorii. Fides non habet 
+      meri<lb ed="#B" n="8" break="no"/>tum / vbi ratio humana prebet e xperimen 
+      <lb ed="#B" n="9"/>tum. Respondeo: quod ista auctoritas non a li 
+      <lb ed="#B" n="10"/>ud cogit / nisi quod credens non debet inniti hu 
+      <lb ed="#B" n="11"/>manae rationi: in credendo: non quod cum fide po 
+      <lb ed="#B" n="12"/>tentia dei stare nequeat visio.
+</p>
+            <p>
+¶ Infero 
+      <lb ed="#B" n="13"/>nono: quod ad hoc quod intellectus diuinus obie 
+      <lb ed="#B" n="14"/>cta intelligat secundaria: oportet ea ima 
+      <lb ed="#B" n="15"/>ginari in aliquo esse obiectiue distincto a 
+      <lb ed="#B" n="16"/>diuina essentiam. Probatur sic. Omne 
+      pro<lb ed="#B" n="17" break="no"/>ductum aut quasi productum aliquod habet 
+      <lb ed="#B" n="18"/>esse aliqualiter distinctum a simpliciter im 
+      <lb ed="#B" n="19"/>producto. Sed obiecta secundaria habent 
+      <lb ed="#B" n="20"/>esse quasi productum vi diuini intellectus: es 
+      <lb ed="#B" n="21"/>sentia vero diuina simpliciter est 
+      improdu<lb ed="#B" n="22" break="no"/>cta: igitur etc. Maior patet ex primo pe: 
+      in<lb ed="#B" n="23" break="no"/>cipio de quolibet etc. Productum vero et 
+      <lb ed="#B" n="24"/>improductum se habent vt affirmatio et 
+      ne<lb ed="#B" n="25" break="no"/>gatio. Sed minor probatur primo: quod 
+      essen<lb ed="#B" n="26" break="no"/>tia sit simpliciter improducta: quia secundum 
+      <lb ed="#B" n="27"/>magistrum dist. 5. nec gignit. nec 
+      gignitur<lb ed="#B" n="28" break="no"/>Sed probatur pro prima parte: quia non fit 
+      <lb ed="#B" n="29"/>descensus ab extremo in extremum 
+      nisi<lb ed="#B" n="30" break="no"/>per aliquod medium: extrema sunt non 
+      <lb ed="#B" n="31"/>produci simpliciter et produci simplicitur seu 
+      <lb ed="#B" n="32"/>realiter: ergo non producit deus res ad ex 
+      <lb ed="#B" n="33"/>tra nisi per hoc medium / scilicet produci secundum 
+      <lb ed="#B" n="34"/>quid / seu in esse cognito. Confirmatur au 
+      <lb ed="#B" n="35"/>ctoritate Auicennae. 5. metaphysicae / 
+      di<lb ed="#B" n="36" break="no"/>stinguentis rationes dei intelligentis ad  
+      <lb ed="#B" n="37"/>formas intellectas: quod nihil esset dictum / 
+      <lb ed="#B" n="38"/>nisi istae formae essent a deo intellectae distin 
+      <lb ed="#B" n="39"/>cte: cum non sit relatio eiusdem ad se ex parte 
+      <lb ed="#B" n="40"/>rei. Haec sunt pauca / immo nulla tanti pa 
+      <lb ed="#B" n="41"/>tris in conspectu: cui me humiliter 
+      recon<lb ed="#B" n="42" break="no"/>mendo.
+</p>
+            <p>
+¶ Ex parte tertia conclusionis 
+      in<lb ed="#B" n="43" break="no"/>fero corollarium responsiuum ad titulum con 
+      <lb ed="#B" n="44"/>clusionis scilicet quod necesse est homini ad: 
+      salu<lb ed="#B" n="45" break="no"/>tem aliquam doctrinam specialiter reuelari: 
+      <lb ed="#B" n="46"/>et hoc maxime fit piis et corde humilibus: 
+      <lb ed="#B" n="47"/>dicente domino. Confiteor tibi pater do 
+      <lb ed="#B" n="48"/>mine caeli et terre: quia abscondisti haec a 
+      <lb ed="#B" n="49"/>sapientibus et prudentibus: et reuelasti 
+      <!--28.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="50"/>ea peruulis: ita patur: quoniam sic placitum etc. 
+      <lb ed="#B" n="51"/>Prologi diuisio tangentis cau 
+      <lb ed="#B" n="52"/>sas operis suscepti. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

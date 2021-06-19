@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 33</title>
+            <author ref="#WilliamDeVaurouillon">William de Vaurouillon</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 33</title>
+               <date when="2021-06-19">June 19, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-bvbVBV">Basel 1510</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-06-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="78-r"/>
+            <cb ed="#B" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="WuV37d-e36798"><!-- l1d33 -->
+            <head xml:id="WuV37d-e36798-Hd1e108">Distinctio 33</head>
+            <div xml:id="WuV37d-e36798-Dd1e111" type="circa-textum">
+               <head xml:id="WuV37d-e36798-Hd1e113">Circa textum</head>
+               <p xml:id="WuV37d-e36798-d1e116">
+      <!--172.xml-->
+                  <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>Distinctio. 33. in qua agit magister 
+      <lb ed="#B" n="51"/>de nominibus substantialibus et 
+      proprieta<lb ed="#B" n="52" break="no"/>tibus in eo quod coueniunt ta 
+      substan<lb ed="#B" n="53" break="no"/>tialibus quam relatiuis. 
+      <lb ed="#B" n="54"/>Ost 
+      supradi<lb ed="#B" n="55" break="no"/>l cta interius 
+      considera<lb ed="#B" n="56" break="no"/>yrgo riatque subtiliter inquiri 
+      <lb ed="#B" n="57"/>oportet: vtrum proprie 
+      <lb ed="#B" n="58"/>tates personarum quibus 
+      <lb ed="#B" n="59"/>ipsae personae determinantur etc. Hic si 
+      <lb ed="#B" n="60"/>gnatur distin. 33. huius primi quae sic continuatur ad  
+      <lb ed="#B" n="61"/>praecedentes. In qua postquam a distinctione. 22. in 
+      <lb ed="#B" n="62"/>clusiue hucusque de nomnibus diuinis tam substan 
+      <lb ed="#B" n="63"/>tialibus quam relatiuis per se et sigillatim tracta 
+      <lb ed="#B" n="64"/>tus est habitus: Nunc hac in parte eorundem no 
+      <lb ed="#B" n="65"/>ninum secundum conuenientiam et differentiam extat 
+      <lb ed="#B" n="66"/>ermo elicitus. Et partitur in tres partes prin 
+      <lb ed="#B" n="67"/>cipales. In prima ostenditur quod personalis 
+      <lb ed="#B" n="68"/>proprietas deitas vere dicitur. In secunda 
+      per<lb ed="#B" n="69" break="no"/>sonarum maiestas deus esse diffinitur. In 
+      ter<lb ed="#B" n="70" break="no"/>tia translatiua varietas brevissime 
+      conclu<lb ed="#B" n="71" break="no"/>ditur. prima in principio. secunda ibi. dist. 
+      <lb ed="#B" n="72"/>34. Predictis est adiiciendum quod quidam peruer 
+      <lb ed="#B" n="73"/>si homines etc. Tertia iuxta fine eiusdem 
+      distin<lb ed="#B" n="74" break="no"/>ctionis. Praeterea sciendum est quod in 
+      assigna<lb ed="#B" n="75" break="no"/>tione. Iterum prima pars quae est praesens distinctio 
+      <lb ed="#B" n="76"/>in qua ostenditur quod personalis proprietas 
+      <lb ed="#B" n="77"/>deitas vere dicitur: in tres partes diuiditur. In 
+      <lb ed="#B" n="78"/>prima patens veritas cunctis palam proponitur. 
+      <lb ed="#B" n="79"/>In secunda haeretica peruersitas reserata 
+      <lb ed="#B" n="80"/>cognoscitur. In tertia erronea falsitas es 
+      <lb ed="#B" n="81"/>se ceca conuincitur. prima in principio. 
+      se<lb ed="#B" n="82" break="no"/>cunda ibi. Hic autem antiqui negant dicentes. 
+      <lb ed="#B" n="83"/>tertia ibi. Ueruntam nondum desistunt etc. vlti 
+      <lb ed="#B" n="84"/>ma parte indiuisa manente. prima pars in qua 
+      <lb ed="#B" n="85"/>patens veritas cunctis palam proponitur diuiditur 
+      <lb ed="#B" n="86"/>in tres partes. In prima ratione aeternitatis perso 
+      <lb ed="#B" n="87"/>na affirmatur proprietas. In secunda hunc ser 
+      <lb ed="#B" n="88"/>monem veritatis summa monstrat 
+      simplici<lb ed="#B" n="89" break="no"/>tas. In tertia naturam fore deitatis sacra 
+      <lb ed="#B" n="90"/>clamat auctoritas. secunda incipit ibi. Cum 
+      <lb ed="#B" n="91"/>de simplicitate diuinitatis etc. tertia ibi: 
+      <lb ed="#B" n="92"/>quod enim propietas etiam natura diuina sit. Et se 
+      <lb ed="#B" n="93"/>quitur illa particula hoc autem aliqui negant dicen 
+      <lb ed="#B" n="94"/>tes etc. In qua haeretica peruersitas 
+      resera<lb ed="#B" n="95" break="no"/>ta cognoscitur. Et diuiditur in tres partes princi 
+      <lb ed="#B" n="96"/>pales. In prima ponitur ad haeresim docta re 
+      <lb ed="#B" n="97"/>sponsio. In secunda additur huic fidelis con¬ 
+      <!--173.xml-->
+      <pb ed="#B" n="78-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>firmatio. In tertia tante rei figitur nostra 
+      <lb ed="#B" n="2"/>quaesitio. secunda incipit ibi. Ceterum 
+      haere<lb ed="#B" n="3" break="no"/>ticorum improbitas. tertia ibi. Si forte 
+      qua<lb ed="#B" n="4" break="no"/>res cum he proprietates etc. Et haec est diui 
+      <lb ed="#B" n="5"/>sio praesentis distinctionis. 
+    </p>
+            </div>
+            <div xml:id="WuV37d-e36798-Dd1e245">
+               <head xml:id="WuV37d-e36798-Hd1e247">Quaestio</head>
+               <p xml:id="WuV37d-e36798-d1e250">
+                  <lb ed="#B" n="6"/>Questio ista docet distinctionem 
+      <lb ed="#B" n="7"/>inter essetiam diuina et proprietates 
+      <lb ed="#B" n="8"/>personales: in qua plures opinioes 
+      <lb ed="#B" n="9"/>et errores recitantur. Et ista quaestio pul 
+      <lb ed="#B" n="10"/>chre declaratur a scoto li. 1. dist. 33. 
+      <lb ed="#B" n="11"/>q. 2. in li. reportationum. 
+      <lb ed="#B" n="12"/>Arcaquamtalis 
+      <lb ed="#B" n="13"/>mouetur quaestionis titulus: vtrum 
+      <lb ed="#B" n="14"/> de personali proprietate diuina iden 
+      <lb ed="#B" n="15"/>tice predicetur essentia. Et arguo quod non tri 
+      <lb ed="#B" n="16"/>bus mediis gilberti porretani quibus pro 
+      <lb ed="#B" n="17"/>babat proprietatem personalem non esse 
+      per<lb ed="#B" n="18" break="no"/>sonam. Primo sic: vbicumque est determina 
+      <lb ed="#B" n="19"/>tum et determinans a parte rei: ibi est res 
+      <lb ed="#B" n="20"/>et res: sed diuina essentia vere determinal 
+      <lb ed="#B" n="21"/>ad esse personae per proprietatem: et proprietas vere 
+      <lb ed="#B" n="22"/>determinat a parte rei. igitur sunt due res: 
+      <lb ed="#B" n="23"/>et per consequens non sunt idem identice. maior patet 
+      <lb ed="#B" n="24"/>non capit enim mens aliquid volens: seipsum de 
+      <lb ed="#B" n="25"/>terminare. sed minor patet: quia sequestrato 
+      <lb ed="#B" n="26"/>omni opere intellectus vere est patrnitas: et ve 
+      <lb ed="#B" n="27"/>re diuina essentia. Secundo arguitur sic: vbi 
+      <lb ed="#B" n="28"/>cumque a parte rei est abstractum et concretum: ibi 
+      <lb ed="#B" n="29"/>est res et res: patet: aliud enim significat 
+      al<lb ed="#B" n="30" break="no"/>bum: aliud albedo: sed in diuinis reperitur 
+      pro<lb ed="#B" n="31" break="no"/>prietas in concreto et in abstracto: vt verbi 
+      <lb ed="#B" n="32"/>gratia: pater et paternitas: si igitur pater diui 
+      <lb ed="#B" n="33"/>nam significat essentiam: igitur patrnitas aliquid si 
+      <lb ed="#B" n="34"/>gnificat quod non est deus. Tertio arguitur 
+      <lb ed="#B" n="35"/>sic: vbicumque est absolutum et respectus: ibi est 
+      <lb ed="#B" n="36"/>res et res: sed diuina essentia est absoluta 
+      <lb ed="#B" n="37"/>proprietas vero respectus: igitur sunt res 
+      di<lb ed="#B" n="38" break="no"/>stincte: patet maior: quia aliud est esse 
+      abso<lb ed="#B" n="39" break="no"/>luti: quia ad se: aliud relationis: quia ad aliud 
+      <lb ed="#B" n="40"/>sed minor patet de se. In oppositum in 
+      praefa<lb ed="#B" n="41" break="no"/>tione trinitatis: in personis est proprietas: et in 
+      <lb ed="#B" n="42"/>essentia vnitas: exquo ergo personae sunt deus: sequitur quod 
+      <lb ed="#B" n="43"/>et proprietas cum deus sit quicquid habet ex 
+      <lb ed="#B" n="44"/>11. de ciuitate dei: excepto eo ad quod relati 
+      <lb ed="#B" n="45"/>ue dicitur. Et bernme contra gilbertum illam proprieta 
+      <lb ed="#B" n="46"/>tem quo deus non est: non mihi adorabilem credo. 
+      </p>
+               <p xml:id="WuV37d-e36798-d1e341">
+                  <lb ed="#B" n="47"/>¶ In ista questione ad praecedentes 
+      confor<lb ed="#B" n="48" break="no"/>miter sunt tres articuli declarandi 
+      <!--173.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="49"/>Primus est terminorum decla 
+      <lb ed="#B" n="50"/>Pratiuus. 
+      <lb ed="#B" n="51"/>Quorum § Secundus est quaestionis responsiuus. 
+      <lb ed="#B" n="52"/>Tertius est dubiorum motiuus.  
+      </p>
+               <p xml:id="WuV37d-e36798-d1e361">
+                  <lb ed="#B" n="53"/>¶ Quantum ad primum 
+      articu<lb ed="#B" n="54" break="no"/>ium ter  
+      <lb ed="#B" n="55"/>mini sunt Personalis proprietas: idem in 
+      <lb ed="#B" n="56"/>tica praedicatio et essentia: proprietas a quae pro 
+      <lb ed="#B" n="57"/>prium dicitur non est nisi quaedam rei (cuius est propetas 
+      <lb ed="#B" n="58"/>conditio rem sequens: vt sepius et eiusdem 
+      ma<lb ed="#B" n="59" break="no"/>nifestatiua: vnde et ertium praedicabile apud / 
+      Ari<lb ed="#B" n="60" break="no"/>sto. in 1. topicorum: et. 5. dicitur propum vbi per proprie 
+      <lb ed="#B" n="61"/>tates rei res inuestigatur: vnde noto: quod ad ratio 
+      <lb ed="#B" n="62"/>nem proprietatis secundum doctorem deuotum huius in 
+      <lb ed="#B" n="63"/>primi distinctionis. tria exiguntur. Primo 
+      <lb ed="#B" n="64"/>quod soli conueniat: si enim aliis et non per rationemus 
+      <lb ed="#B" n="65"/>suam insit: non vere habet nomen proprieta 
+      <lb ed="#B" n="66"/>tis nisi large. Secundo quod sit ratio 
+      innote<lb ed="#B" n="67" break="no"/>scendi id cuius est proprietas: et isto modo 
+      di<lb ed="#B" n="68" break="no"/>cit philosophus in primo de anima: quod accidentia 
+      ma<lb ed="#B" n="69" break="no"/>gnam partem conferunt ad cognoscendum quod quid est. 
+      <lb ed="#B" n="70"/>Tertio quod differat ab eo cuius est proprietas 
+      <lb ed="#B" n="71"/>aliquali differentia: vnde nibil suiipsius mo 
+      <lb ed="#B" n="72"/>dis omnibus idem extat proprietas. 
+</p>
+               <p xml:id="WuV37d-e36798-d1e407">
+¶ No 
+      <lb ed="#B" n="73"/>to vlterius: quod proprietatum in diuinis tres 
+      <lb ed="#B" n="74"/>sunt modi. Prime dicuntur essentiales: et 
+      <lb ed="#B" n="75"/>sunt ille quo in personis omnibus diuinis es 
+      <lb ed="#B" n="76"/>sentiam consecuntur cuiusmodi est communicabilitas 
+      <lb ed="#B" n="77"/>et iste sunt in triplici gradu. Primus gradus 
+      <lb ed="#B" n="78"/>est vt dicatur essentiam proprietas: quicad 
+      ex<lb ed="#B" n="79" break="no"/>tat extra rationem formalem essentiae: et hoc modo mo 
+      <lb ed="#B" n="80"/>di intrinseci sicut infinitas sunt 
+      proprieta<lb ed="#B" n="81" break="no"/>tes: vnde dicitur proprium est diuinae essentiae quoe 
+      <lb ed="#B" n="82"/>sit infinita. Secundus gradus vt solum 
+      di<lb ed="#B" n="83" break="no"/>cantur proprietates quae ab essentia distinguun 
+      <lb ed="#B" n="84"/>tur formaliter: sicut sunt attributa 
+      diuina<lb ed="#B" n="85" break="no"/>Tertius gradus vt vltra hoc proprietas quae 
+      <lb ed="#B" n="86"/>ad nomen in bilis terminetur: et sic dicitur 
+      <lb ed="#B" n="87"/>proprie proprietas: sicut inuisibilis intermina 
+      <lb ed="#B" n="88"/>bilis: incomprehensibilis: vnde apud 
+      gran<lb ed="#B" n="89" break="no"/>maticum dicitur. Osus plena notat: bundus 
+      <lb ed="#B" n="90"/>similis: bilis aptat. Secundus modus prin 
+      <lb ed="#B" n="91"/>cipalis proprietatum est proprietas perso 
+      <lb ed="#B" n="92"/>nalis: et hic est etiam triplex gradus. 
+      Pri<lb ed="#B" n="93" break="no"/>mus gradus est quando proprietas constituit id 
+      <lb ed="#B" n="94"/>cuius est proprietas: isto modo solum sunt in 
+      <lb ed="#B" n="95"/>diuinis tres proprietates personales: scilicet paterni 
+      <lb ed="#B" n="96"/>tas: filiatio et spiratio passiua quibus 
+      per<lb ed="#B" n="97" break="no"/>sonae tres constituuntur et dicuntur proprieta 
+      <!--174.xml-->
+      <pb ed="#B" n="79-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>tes personales constitutiue: vnde dam. li. i. 
+      <lb ed="#B" n="2"/>ca. 5. Omnia in diuinis sunt vnum praeter ge 
+      <lb ed="#B" n="3"/>nerationem: paternitatem: et processionem. 
+      Se<lb ed="#B" n="4" break="no"/>cundus gradus est proprietas vni soli personae. 
+      <lb ed="#B" n="5"/>conueniens: licet non constituat: isto modo 
+      inna<lb ed="#B" n="6" break="no"/>scibilitas est personalis proprietas in patre. 
+      <lb ed="#B" n="7"/>Tertius gradus est: quando proprietas 
+      <lb ed="#B" n="8"/>duabus personis conuenit: solum isto modo 
+      <lb ed="#B" n="9"/>spiratio actiua est personalis proprietas quae 
+      <lb ed="#B" n="10"/>solum patri conuenit et filio. Tertius 
+      mo<lb ed="#B" n="11" break="no"/>dus proprietatum est proprietas communis: 
+      <lb ed="#B" n="12"/>et iste sunt in triplicigradu: quia aut 
+      fundan<lb ed="#B" n="13" break="no"/>tur in identitate substantiae et sic dicuntur identi 
+      <lb ed="#B" n="14"/>tas: aut essentiae magnitudine: et sic dicun 
+      <lb ed="#B" n="15"/>tur aequalitas: aut attributis: et sic dicitur 
+      simili<lb ed="#B" n="16" break="no"/>tudo et oriuntur he communes propetates quae 
+      di<lb ed="#B" n="17" break="no"/>cuntur relationes communes post relationes 
+      <lb ed="#B" n="18"/>personales tantum de proprietate personali. 
+      <lb ed="#B" n="19"/>Secundus terminus est praedicatio 
+      <lb ed="#B" n="20"/>idetica. vnde noto quod in diuinis est triplex 
+      <lb ed="#B" n="21"/>modus predicandi. scilicet quidditatiue deno 
+      <lb ed="#B" n="22"/>minatiue: et identice. Quidditatiua 
+      predi<lb ed="#B" n="23" break="no"/>catio est quando predicatum est de quiddita 
+      <lb ed="#B" n="24"/>te subiecti: sicut dum dico. Deus est ens: 
+      de<lb ed="#B" n="25" break="no"/>us est spiritus: denominatiua autem est quando 
+      praedi<lb ed="#B" n="26" break="no"/>catum est extra rationem formalem subiecti et per 
+      <lb ed="#B" n="27"/>modum informantis: sicut dum dico: deus est 
+      <lb ed="#B" n="28"/>bonus: iustus pius etc. Predicatio autem idem 
+      <lb ed="#B" n="29"/>tica est triplex: aut primo quando vtrumque extremum 
+      <lb ed="#B" n="30"/>est formaliter infinitum: sicut dum dico: deus est 
+      <lb ed="#B" n="31"/>diuina essentia: aut solum praedicatum est infini 
+      <lb ed="#B" n="32"/>tum formaliter: sicut dicendo paternitas est 
+      <lb ed="#B" n="33"/>deus aut tertio quando subiectum est infinitum praedi 
+      <lb ed="#B" n="34"/>catum non formaliter: sicut deus est patrnitas. 
+      <lb ed="#B" n="35"/>Solet rursum accipi ista praedicatio: aut pri 
+      <lb ed="#B" n="36"/>modo quando vtrumque extremum est transcendens: sicut 
+      <lb ed="#B" n="37"/>ens est bonum: aut secundo solum praedicatum: sicut 
+      <lb ed="#B" n="38"/>sortes est ens: aut tertio solum subiecum: sicut 
+      <lb ed="#B" n="39"/>ens est substantia: magister Franc. de maro. 
+      com<lb ed="#B" n="40" break="no"/>flatus sui. addit quartum modum qui est prae 
+      <lb ed="#B" n="41"/>dicatio essentialis eo modo inquit quo 
+      dici<lb ed="#B" n="42" break="no"/>mus tres personae sunt idem in essentia: sed hoc 
+      <lb ed="#B" n="43"/>cum sua reuerentia salua: sine causa additur: 
+      <lb ed="#B" n="44"/>quaerat in vnam predicationem essentialem in di 
+      <lb ed="#B" n="45"/>uinis quae non sit: aut quidditatiua: aut deno 
+      <lb ed="#B" n="46"/>minatiua: aut identica: et credam ei: et cum 
+      repe<lb ed="#B" n="47" break="no"/>rire nequiuerit ternario sit contentus. 
+      Tan<lb ed="#B" n="48" break="no"/>tum de predicatione identica.
+</p>
+               <p xml:id="WuV37d-e36798-d1e575">
+¶ Tertius 
+      ter<lb ed="#B" n="49" break="no"/>minus est essentia: vum ista tria differunt: essetia: 
+      <!--174.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>ens: et esse. Essentia enim dicit quasi sor 
+      <lb ed="#B" n="51"/>mam: esse quasi actus est formalis essentiae 
+      <lb ed="#B" n="52"/>sicut album albedinis. Ens autem quasi egre 
+      <lb ed="#B" n="53"/>ditur ex essentia per esse: sicut suo modo est lux 
+      <lb ed="#B" n="54"/>lucens et lucere. Et hoc de primo articulo. 
+      </p>
+               <p xml:id="WuV37d-e36798-d1e595">
+                  <lb ed="#B" n="55"/>¶ Quantum ad secuduarticu 
+      <lb ed="#B" n="56"/>ium sunt 
+      <lb ed="#B" n="57"/>tres conclusiones.
+</p>
+               <p xml:id="WuV37d-e36798-d1e604">
+¶ Prima est de perso 
+      <lb ed="#B" n="58"/>nali proprietate respectu diuinae essentiae 
+      <lb ed="#B" n="59"/>secunda de personali proprietate respectu in 
+      <lb ed="#B" n="60"/>sonae: et tertia de esse personali ex diuina 
+      es<lb ed="#B" n="61" break="no"/>sentia et personali proprietate: prima est haec 
+      <lb ed="#B" n="62"/>licet identitate reali cum diuina essentia sit 
+      <lb ed="#B" n="63"/>eadem personalis proprietas: differt tamen 
+      <lb ed="#B" n="64"/>formaliter. prima pars dicit quod sunt idem 
+      <lb ed="#B" n="65"/>realiter personalis proprietas et diuina 
+      es<lb ed="#B" n="66" break="no"/>sentia: probatur sic. Undecumque est aliquod ens 
+      <lb ed="#B" n="67"/>infinitum intensiue quicquid extat ex eo 
+      idem<lb ed="#B" n="68" break="no"/>tificat sibi reali identitate. probatur ista: quia si 
+      <lb ed="#B" n="69"/>non aut poneretur in eo compositio rei et rei 
+      <lb ed="#B" n="70"/>aut si dicatur quod non sit ibi compositio 
+      admi<lb ed="#B" n="71" break="no"/>nus erit aggregatio rerum quod infinito 
+      re<lb ed="#B" n="72" break="no"/>pugnat: cum omnia contineat. Sed deus est infini 
+      <lb ed="#B" n="73"/>tus: Ansel. deus est quo nihil maius 
+      ex<lb ed="#B" n="74" break="no"/>cogitari potest: et personales 
+      proprieta<lb ed="#B" n="75" break="no"/>tes sunt in eo: quia essentia earum est fundamen 
+      <lb ed="#B" n="76"/>tum. igitur. Et si quaeratur: quomodo potest esse quod sint vna 
+      <lb ed="#B" n="77"/>essentia tres personae res relatiue. Dico quod 
+      <lb ed="#B" n="78"/>quia hoc abbas Ioachim videre non potuit: in 
+      <lb ed="#B" n="79"/>errorem prolapsus est vt in ca. damnamus: extra 
+      <lb ed="#B" n="80"/>de summa trinitate: et fide catho. licet enim sint 
+      <lb ed="#B" n="81"/>tres res: tamen he tres res vnica summa sunt 
+      <lb ed="#B" n="82"/>res secundum doctrinam beati aug. de doctrina chr 
+      <lb ed="#B" n="83"/>stiana. Ex quo patet error manifestus Bil 
+      <lb ed="#B" n="84"/>berti porretani dicentis: quod proprietates perso 
+      <lb ed="#B" n="85"/>nales non sunt deus sed sunt assistentes: et 
+      <lb ed="#B" n="86"/>fundabat se in dicto Boe. in libello de tri 
+      <lb ed="#B" n="87"/>ni. vbi dicit: quod relatio est ad aliud: et non 
+      po<lb ed="#B" n="88" break="no"/>nit quod sit in. Inde concludebat quod erat assistens 
+      <lb ed="#B" n="89"/>seu secundum verbum magistri in littera affira: vnde 
+      <lb ed="#B" n="90"/>et vsus est illo vocabitulo assistentie in libello 
+      <lb ed="#B" n="91"/>suo quem intitulauit sex principiorum in ca. 
+      <lb ed="#B" n="92"/>positionis: vnde dicit: maxime autem proprium 
+      vi<lb ed="#B" n="93" break="no"/>detur positionis substantie prorime assistere 
+      <lb ed="#B" n="94"/>patet falsum: vnde et hunc errorem tempore beati 
+      <lb ed="#B" n="95"/>Bern. in concilio ecclesiae remis 
+      congrega<lb ed="#B" n="96" break="no"/>to. ore proprio: vt hic inquit doctor deuotus 
+      <lb ed="#B" n="97"/>idem praesentialiter reuocauit: et referunt sibi 
+      di<lb ed="#B" n="98" break="no"/>ctum fuisse claude puteum id est igenii tui profun¬ 
+      <!--175.xml-->
+      <pb ed="#B" n="79-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>ditatem: fuit enim vir elegantissimi ingenii. vnde 
+      <lb ed="#B" n="2"/>scriptum est. Perscrutator maiestatis opus 
+      <lb ed="#B" n="3"/>primetur a gloria: nec cogit illud Boetii: quam 
+      <lb ed="#B" n="4"/>uis enim dicat quod relatio respectum habeat 
+      <lb ed="#B" n="5"/>ad terminum: non negat quin ad fundamentum 
+      <lb ed="#B" n="6"/>Secunda pars conclusionis dicit: quod propietas perso 
+      <lb ed="#B" n="7"/>nalis distinguitur formaliter a diuina essentia. 
+      <lb ed="#B" n="8"/>probatur. Et primo noto quod ad distinctionem secundum 
+      <lb ed="#B" n="9"/>doc. sub. in repartatis parrhysius hac dist. q. 
+      <lb ed="#B" n="10"/>2. tria requiruntur. Primo quod distincta non sint 
+      <lb ed="#B" n="11"/>solum in potentia: sicut sunt formae in 
+      poten<lb ed="#B" n="12" break="no"/>tia materiae. Secundo quod non sint solum in virtu 
+      <lb ed="#B" n="13"/>te sicut effectus in causa: et tertio quod non sint 
+      <lb ed="#B" n="14"/>mixta: hoc modo sunt propaetates in diuina 
+      es<lb ed="#B" n="15" break="no"/>sentia: quia actu sunt non virtute: aut potentia 
+      <lb ed="#B" n="16"/>olum: nec est ibi mixtio. Tuc probo istam partem 
+      <lb ed="#B" n="17"/>medio doctoris. q. 2. reportatorium. 
+      quandocun<lb ed="#B" n="18" break="no"/>que aliqua differunt et conueniunt a parte rei 
+      <lb ed="#B" n="19"/>alio conueniunt: et alio differunt. Sed personae 
+      <lb ed="#B" n="20"/>diuinae conueniunt in essentia diuina et differunt 
+      <lb ed="#B" n="21"/>in propietatibus. igitur diuina essentia et proprie 
+      <lb ed="#B" n="22"/>tates differunt non realiter: ergo formaliter 
+      <lb ed="#B" n="23"/>quia non sufficeret sola distinctio ex natura 
+      <lb ed="#B" n="24"/>rei cum siut quidditates: maior est primum 
+      <lb ed="#B" n="25"/>principium: impossibile enim est: quod eodem et se 
+      <lb ed="#B" n="26"/>cundum quod idem aliquid differat et conueniat: et hoc 
+      <lb ed="#B" n="27"/>est quod inquit aug. 7. de trini. Non est aliud deo 
+      <lb ed="#B" n="28"/>esse: aliud subsistere: sed aliud est deo esse 
+      <lb ed="#B" n="29"/>et patrem esse: et in eodem filius: eo verbum quo fili 
+      <lb ed="#B" n="30"/>us: sed non eo verbum quo sapinia. Ex quo patet 
+      <lb ed="#B" n="31"/>magnus defectus sancti thome qui in scripto suo 
+      <lb ed="#B" n="32"/>quaestionibus dicit: quod propetas solum differt 
+      ratio<lb ed="#B" n="33" break="no"/>ne ab essentiam. vnde dicit quod relatio habet con 
+      <lb ed="#B" n="34"/>parari et ad essetiam diuinam ex parte qua relatio 
+      <lb ed="#B" n="35"/>habet quod insit: et tunc penitus est idem quod diuina 
+      <lb ed="#B" n="36"/>essentia: aut ratione qua est ad: et tunc solum 
+      distin<lb ed="#B" n="37" break="no"/>guit a suo opposito: patet quod non potest esse: 
+      <lb ed="#B" n="38"/>et arguo contra eum ex dictis eius. Ipse enim in 
+      <lb ed="#B" n="39"/>i. questione huius distinctionis soluendo 
+      ar<lb ed="#B" n="40" break="no"/>gumentum primum dicit: quod esse dicitur tripliciter. 
+      <lb ed="#B" n="41"/>vno modo pro quidditate seu diffinitione vel na 
+      <lb ed="#B" n="42"/>tura rei. Secundo pro actu essentiae: sicut 
+      vi<lb ed="#B" n="43" break="no"/>uere viuentibus est esse. Tertio pro esse 
+      verita<lb ed="#B" n="44" break="no"/>tis propositionis quod signatur per copulam 
+      <lb ed="#B" n="45"/>et dicit quod relatio habet bene primum esse: scic 
+      <lb ed="#B" n="46"/>esse quidditatis vel diffinitionis seu 
+      natu<lb ed="#B" n="47" break="no"/>rae rei: tunc sic: sed distingui quidditatiue est 
+      <lb ed="#B" n="48"/>distingui formaliter. igitur a parte rei 
+      distin<lb ed="#B" n="49" break="no"/>guitur esseutia et proprtetas: quia per diffinitiones. 
+      <!--175.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>Confirmatur personae enim diuinae aut se totis  
+      <lb ed="#B" n="51"/>sunt idem: et redit error sabellii quae dicebat pa 
+      <lb ed="#B" n="52"/>trem et filium et spiritum sanctatum eandem esse personam 
+      <lb ed="#B" n="53"/>aut se totis distinguuntur: et redit error ar 
+      <lb ed="#B" n="54"/>rii: quae posuit filium puram creaturam: aut alio 
+      <lb ed="#B" n="55"/>conueniunt sicut diuina essentia: et alio distin 
+      <lb ed="#B" n="56"/>guuntur sicut proprietatibus et sic habetur verius 
+      <lb ed="#B" n="57"/>tas. vnde imaginor tres positiones. Primam 
+      <lb ed="#B" n="58"/>quo ponit solum rationis distinctionem proprieta 
+      <lb ed="#B" n="59"/>tum et diuinae essentiae. Tertiam quae ponit distin 
+      <lb ed="#B" n="60"/>ctionem rerum inter personam et essentiam: sicut id 
+      <lb ed="#B" n="61"/>achim. Et mediam quae est docto. nostri quo 
+      po<lb ed="#B" n="62" break="no"/>nit identitatem realem et distinctionem formalem. 
+      <lb ed="#B" n="63"/>Prima appropinquat quo ad me videtur 
+      <lb ed="#B" n="64"/>saluo meliori iudicio sabellio. tertia 
+      ar<lb ed="#B" n="65" break="no"/>rio. secunda via ambulat tutissima inter 
+      <lb ed="#B" n="66"/>scillam et caribdim: de quibus loquitur Aug. 
+      <lb ed="#B" n="67"/>super Ioh. et habita est auctoritas dist. 31. 
+      <lb ed="#B" n="68"/>vtramque peste. scilicet sabellium et arrium elidit verius 
+      <lb ed="#B" n="69"/>tas di. Ego et pater vnum sumus: vtrumque audi 
+      <lb ed="#B" n="70"/>et a scilla: et caribdi liberaberis.
+</p>
+               <p xml:id="WuV37d-e36798-d1e858">
+¶ Secun 
+      <lb ed="#B" n="71"/>da conclusio est: de personali proprietate 
+      respe<lb ed="#B" n="72" break="no"/>ctu personae: et est haec personalis propetas esse to 
+      <lb ed="#B" n="73"/>tum personale non nominat formalitur. probatur. 
+      Qnde<lb ed="#B" n="74" break="no"/>cumque aliqua duo vnum constituunt: neutrum eo 
+      <lb ed="#B" n="75"/>rum formaliter totum eius esse dicit: sed diuinae 
+      <lb ed="#B" n="76"/>persone constituuntur ex diuina essentia et pro 
+      <lb ed="#B" n="77"/>prietatibus personalibus. igitur etc. maior 
+      pa<lb ed="#B" n="78" break="no"/>tet: quia si sic: tunc alterum sufficiet. Sed minor 
+      <lb ed="#B" n="79"/>declaratur: si enim essent solum personae 
+      diui<lb ed="#B" n="80" break="no"/>ne formaliter diuina essentia: tunc no 
+      distin<lb ed="#B" n="81" break="no"/>guerentur. Si rursus essent sole propetates 
+      <lb ed="#B" n="82"/>neutra esset producta ab alia quod est contra 
+      <lb ed="#B" n="83"/>fidem. probatur consequenta: quia si sic: tunc genatio actiua 
+      <lb ed="#B" n="84"/>esset pater: genatio passiua esset filius: spiratio 
+      <lb ed="#B" n="85"/>passiua spiritus sanctus: geniatio autem non gignitur 
+      <lb ed="#B" n="86"/>nec processio procedit. quia teste philosopho in. 5. 
+      <lb ed="#B" n="87"/>philosophicorum. motus non est motus: nec actionis 
+      <lb ed="#B" n="88"/>actio.
+</p>
+               <p xml:id="WuV37d-e36798-d1e900">
+¶ Ex quo infertur defectus praepositiui era 
+      <lb ed="#B" n="89"/>ponentis diuinas personas solum dicere prope 
+      <lb ed="#B" n="90"/>tates personales cum sint ita simplices: sicut 
+      <lb ed="#B" n="91"/>diuina essentia: quod non esset inquit si 
+      inclu<lb ed="#B" n="92" break="no"/>derent diuinam essentiam: patet oppositum: et 
+      <lb ed="#B" n="93"/>confirmatur: quia in vna persona sunt plures pro 
+      <lb ed="#B" n="94"/>prietates: et vna communis omnibus nec 
+      ob<lb ed="#B" n="95" break="no"/>uiat quod dicit de simplicitate: quia 
+      simplici<lb ed="#B" n="96" break="no"/>tas non opponitur non identitati vt opinatur 
+      <lb ed="#B" n="97"/>falso: sed compositioni: et sicut non est 
+      compo<lb ed="#B" n="98" break="no"/>sita diuina essentia sic nec persona. 
+      <!--176.xml-->
+      <pb ed="#B" n="80-r"/>
+                  <cb ed="#B" n="a"/>
+               </p>
+               <p xml:id="WuV37d-e36798-d1e931">
+                  <lb ed="#B" n="1"/>¶ Tertia conclusio est de esse personali ex esse 
+      <lb ed="#B" n="2"/>tia diuina et personali propetate. Ex diuina esse 
+      <lb ed="#B" n="3"/>tia et propietate personali tertia non resultat enti 
+      <lb ed="#B" n="4"/>tas: voco hoc tertiam entitatem sicut ex corpore et anima 
+      <lb ed="#B" n="5"/>rationali resultat humanitas quae est quidditas distin 
+      <lb ed="#B" n="6"/>cta tam a corpore quam anima rationali. Et dicitur a 
+      <lb ed="#B" n="7"/>magistro Nicolao boneti primo suae metha 
+      <lb ed="#B" n="8"/>philosophice. Forma totius sicut anima forma partim 
+      <lb ed="#B" n="9"/>Tunc probo conclusionem: in diuis castissime est lo 
+      <lb ed="#B" n="10"/>quendum: nec ibi asserendum. Teste 
+      diony<lb ed="#B" n="11" break="no"/>nisi quod eloquia diuina efflagitant vel gra 
+      <lb ed="#B" n="12"/>uis mouet ratio: sed neutrum est hic: quid enim 
+      <lb ed="#B" n="13"/>faceret illa tertia entitas non videtur: vnde 
+      con<lb ed="#B" n="14" break="no"/>cluditur quod ad esse personale sufficit ipsa essen 
+      <lb ed="#B" n="15"/>tia diuina simul cum proprietate. Et si 
+      quaera<lb ed="#B" n="16" break="no"/>tur quae est potior: aut essentia diuina: aut pro 
+      <lb ed="#B" n="17"/>prietas. Dico quod loquendo simpliciter 
+      di<lb ed="#B" n="18" break="no"/>uina essentia: cum sit radix perfectissima: sed in 
+      <lb ed="#B" n="19"/>quantum persona ad aliud refertur. Dico quod pro 
+      <lb ed="#B" n="20"/>prietas: quia est id quo refertur. Et si quaeratur: 
+      <lb ed="#B" n="21"/>an ista proprietas dicat aliquam perfectionem 
+      <lb ed="#B" n="22"/>verbigratia: paternitas aut filiatio. Dico 
+      <lb ed="#B" n="23"/>quod ita loquendo identice: quia est idem cum diuina 
+      <lb ed="#B" n="24"/>essentia: nullam tamen loquendo formaliter: 
+      <lb ed="#B" n="25"/>quia tunc esset alia perfectio in patre quae non in fi 
+      <lb ed="#B" n="26"/>lio: et econtra: quia filiatio in filio non in patre: 
+      <lb ed="#B" n="27"/>et paternitas in patre non in filio. Ex quo 
+      infe<lb ed="#B" n="28" break="no"/>quod paulus de perusio qui dicit proprietates 
+      <lb ed="#B" n="29"/>infinitas formaliter: male dicit: patet ex 
+      di<lb ed="#B" n="30" break="no"/>ctis. Et hoc de secundo articulo. 
+      <lb ed="#B" n="31"/>Quatum ad tertium articulum 
+      <lb ed="#B" n="32"/>sunt tres 
+      <lb ed="#B" n="33"/>difficultates iuxta tres conclusiones. 
+      </p>
+               <p xml:id="WuV37d-e36798-d1e1006">
+                  <lb ed="#B" n="34"/>¶ Prima est: vtrum talis distinctio 
+      for<lb ed="#B" n="35" break="no"/>malis inter proprietatem et essentiam sit actuals 
+      <lb ed="#B" n="36"/>vel solum fundamentalis. Dicit magister Franc. 
+      <lb ed="#B" n="37"/>dist. 2. huius dist. dubio secundo: quod est solum 
+      <lb ed="#B" n="38"/>fundamentalis. Sed cum reuerentia non 
+      vi<lb ed="#B" n="39" break="no"/>detur quod sint actu distinctae essentia et proprie 
+      <lb ed="#B" n="40"/>tas nisi actuali distinctione: et addit quod do 
+      <lb ed="#B" n="41"/>ctor noster vti videtur negatiua: sunt non 
+      <lb ed="#B" n="42"/>idem. Dico hic quod doctor nostr prima questione 
+      <lb ed="#B" n="43"/>repartatorum huius distinctionis ponit 
+      distin<lb ed="#B" n="44" break="no"/>ctionem: verum est tamen quod dist. 33. et. 34. ordina 
+      <lb ed="#B" n="45"/>rii dicit: quod talia sunt non idem. Et dist. 2. 
+      <lb ed="#B" n="46"/>huius primi. q. 4. dicit quod potest concedi quod sunt 
+      <lb ed="#B" n="47"/>non idem: et tamen quod non distinguantur: quia esse non 
+      <lb ed="#B" n="48"/>idem in plus est quam distingui. Chimera enim 
+      <lb ed="#B" n="49"/>et homo: non sunt idem et tamen non distinguuntur 
+      <!--176.xml-->
+      <cb ed="#B" n="b"/>
+               </p>
+               <p xml:id="WuV37d-e36798-d1e1048">
+                  <lb ed="#B" n="50"/>¶ Secunda difficultas: quomodo dicimus 
+      <lb ed="#B" n="51"/>totum esse personale in diuinis cum in deo non 
+      <lb ed="#B" n="52"/>sit totum. Respondit doctor deuotus huius primi: 
+      <lb ed="#B" n="53"/>dist. 19. 2. parte. q. 2. Totum enim dicitur: aut relati 
+      <lb ed="#B" n="54"/>ue ad partes: et isto modo in deo non est totum 
+      <lb ed="#B" n="55"/>aut idem quod completum: sicut inquit philosophus: totum 
+      <lb ed="#B" n="56"/>et perfectum idem sunt: et sic ponitur in diuinis. 
+      <lb ed="#B" n="57"/>vnde Amb. In patre totus filius: et totus in 
+      ver<lb ed="#B" n="58" break="no"/>bo pater.
+</p>
+               <p xml:id="WuV37d-e36798-d1e1070">
+¶ Tertia difficultas: quomod dicitur per 
+      <lb ed="#B" n="59"/>sona diuina constituta si nibil resultet: vt 
+      <lb ed="#B" n="60"/>detur enim tunc nihil esse constitutum. Dico quod 
+      <lb ed="#B" n="61"/>alio modo est constitutum hic inferius: alio 
+      <lb ed="#B" n="62"/>modo in diuinis: hic enim inferius ex 
+      constituen<lb ed="#B" n="63" break="no"/>tibus tertia resultat entitas: quia vnum est in 
+      <lb ed="#B" n="64"/>potentia ad aliud. In diuinis autem non: quia 
+      es<lb ed="#B" n="65" break="no"/>sentia diuina non est in potentia ad paterni 
+      <lb ed="#B" n="66"/>tatem: immo solum secundum Dam. proprietas solum 
+      <lb ed="#B" n="67"/>est caracter personae non essentiae. Et sic 
+      pa<lb ed="#B" n="68" break="no"/>tet ad questionem: quod videlicet personalis 
+      pro<lb ed="#B" n="69" break="no"/>prietas identice idem est cum diuina essentiam: 
+      <lb ed="#B" n="70"/>sed non formaliter. Et tunc ad argumenta 
+      <lb ed="#B" n="71"/>porretani.
+</p>
+               <p xml:id="WuV37d-e36798-d1e1101">
+¶ Ad primum: ad maiorem dico: 
+      <lb ed="#B" n="72"/>quod sufficit quod sint aliqua distincta ex natura 
+      <lb ed="#B" n="73"/>rei licet non realiter: sicut patet in colore: 
+      <lb ed="#B" n="74"/>verbi gratia: quae habet genus et differentiam: et 
+      <lb ed="#B" n="75"/>differentia contrahit et determinat genus: et 
+      <lb ed="#B" n="76"/>tamen vnica res est. minor etiam est falsa: quia 
+      <lb ed="#B" n="77"/>proprietas non determinat essentiam.
+</p>
+               <p xml:id="WuV37d-e36798-d1e1117">
+¶ Ad se 
+      <lb ed="#B" n="78"/>cundum: per idem sufficit distinctio ex natura 
+      <lb ed="#B" n="79"/>rei: immo aliquotiens inter concretum et ab 
+      <lb ed="#B" n="80"/>stractum sola extat distinctio rationis: patet in 
+      <lb ed="#B" n="81"/>ter humanitatem et hominem.
+</p>
+               <p xml:id="WuV37d-e36798-d1e1128">
+¶ Ad tertium patet per 
+      <lb ed="#B" n="82"/>idem: Et sic patet ad quaestionem.
+</p>
+            </div>
+            <div xml:id="WuV37d-e36798-Dd1e1134" type="et-conclusiones">
+               <head xml:id="WuV37d-e36798-Hd1e1136">Conclusiones</head>
+               <p xml:id="WuV37d-e36798-d1e1139">
+¶ Ex ista vero 
+      di<lb ed="#B" n="83" break="no"/>stinctione sicut ex praecedentibus de mente magistri / 
+      <lb ed="#B" n="84"/>tres capiuntur conclusioes.
+</p>
+               <p xml:id="WuV37d-e36798-d1e1146">
+¶ Prima est: personalis in 
+      <lb ed="#B" n="85"/>propetas persona dicitur summa maiestas vt pie 
+      <lb ed="#B" n="86"/>creditur: dicit conclusio: quod propietates personales 
+      <lb ed="#B" n="87"/>sunt et personae diuinae: et diuina essentia: et 
+      po<lb ed="#B" n="88" break="no"/>nitur a principio distinctionis vsque ad 
+      il<lb ed="#B" n="89" break="no"/>lud capitulum. Hoc autem aliqui negant.
+</p>
+               <p xml:id="WuV37d-e36798-d1e1159">
+¶ Secun 
+      <lb ed="#B" n="90"/>da conclusio: aliter vsie inest proprietas: 
+      <lb ed="#B" n="91"/>aliter personae vt profert veritas. Dicit com 
+      <lb ed="#B" n="92"/>clusio quod aliter inest propietas personalis essen 
+      <lb ed="#B" n="93"/>tiae: quia sicut fundamento: aliter persone: quia sicut 
+      <lb ed="#B" n="94"/>determinans in determinato. Et ponitur ab 
+      <lb ed="#B" n="95"/>illo loco: hoc autem aliquia etc. vsque ibi: verum tamen 
+      <lb ed="#B" n="96"/>nondum desistunt.
+</p>
+               <p xml:id="WuV37d-e36798-d1e1177">
+¶ Tertia conclusio: sacra 
+      patr<lb ed="#B" n="97" break="no"/>nitas substantia ponitur vt fert auctoritas 
+      <lb ed="#B" n="98"/>sic verbum scribitur: dicit conclusio: quod tam patrnitas 
+      <!--177.xml-->
+      <pb ed="#B" n="80-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>quam verbum sunt identice substantia diuina. Et 
+      <lb ed="#B" n="2"/>ponitur ab illo capitulo: verumetiam nondum 
+      desi<lb ed="#B" n="3" break="no"/>stunt etc. vsque ad finem distinctionis.
+</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

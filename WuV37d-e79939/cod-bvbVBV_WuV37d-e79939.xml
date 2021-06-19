@@ -1,0 +1,801 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 17</title>
+            <author ref="#WilliamDeVaurouillon">William de Vaurouillon</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 17</title>
+               <date when="2021-06-19">June 19, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-bvbVBV">Basel 1510</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-06-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="172-v"/>
+            <cb ed="#B" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="WuV37d-e79939"><!-- l2d17 -->
+            <head xml:id="WuV37d-e79939-Hd1e108">Distinctio 17</head>
+            <div xml:id="WuV37d-e79939-Dd1e111" type="circa-textum">
+               <head xml:id="WuV37d-e79939-Hd1e113">Circa textum</head>
+               <p xml:id="WuV37d-e79939-d1e116">
+                  <lb ed="#B" n="65"/>Distinctio decima septima / in qua 
+      <lb ed="#B" n="66"/>docetur de principiis hominis 
+      costituti<lb ed="#B" n="67" break="no"/>uis / quae sunt corpus et anima: et primo: 
+      <lb ed="#B" n="68"/>de formatione viri. 
+      <lb ed="#B" n="69"/>Ac dmne 
+      origi<lb ed="#B" n="70" break="no"/>ne animae plura solent quaeri: 
+      <lb ed="#B" n="71"/>scilicet vnde creata fuerit: et 
+      <lb ed="#B" n="72"/>qund: et qua gratiam ha 
+      <lb ed="#B" n="73"/>buerit in creatioe. Hic 
+      <lb ed="#B" n="74"/>signat. 17. ditinctio huius secundi quae sic 
+      <lb ed="#B" n="75"/>continuatur praecedentibus. Nam postquam in 
+      <lb ed="#B" n="76"/>praecedenti distinctione hominis posita est 
+      <lb ed="#B" n="77"/>pductio: Nunc incipit inquirere ex 
+      qui<lb ed="#B" n="78" break="no"/>bus et qualiter sit in homine constitutio. 
+      <lb ed="#B" n="79"/>Et partitur in tres partes principales. In 
+      <lb ed="#B" n="80"/>prima animae creatio hominis ponitur. In 
+      <lb ed="#B" n="81"/>secunda eius locatio iparadisus dicitur. In 
+      <lb ed="#B" n="82"/>tertia mulieris productio vltimo sequitur. 
+      <lb ed="#B" n="83"/>Prima in principio. Secunda ibi: hominem 
+      <lb ed="#B" n="84"/>autem formatum etc. Tertia distinctione. 16. 
+      <lb ed="#B" n="85"/>ibi: In eadem quoque paradiso etc. Prima 
+      <lb ed="#B" n="86"/>rursus particula in qua animae creatio 
+      bo<lb ed="#B" n="87" break="no"/>minis ponitur: in tres partes diuiditur. In 
+      <lb ed="#B" n="88"/>prima ostendit magister animam 
+      differen<lb ed="#B" n="89" break="no"/>tes et diuinam essentiam. In secunda eam 
+      si<lb ed="#B" n="90" break="no"/>mul et corpus manentes quo ad coexisten 
+      <lb ed="#B" n="91"/>tiam. In tertia adam laudat creatum 
+      di<lb ed="#B" n="92" break="no"/>centes virilem impermanentiam. Prima in 
+      <lb ed="#B" n="93"/>principio. Secunda ibi: Sed vtrum in 
+      cor<lb ed="#B" n="94" break="no"/>pore vel extra corpus etc. Tertia ibi: So 
+      <lb ed="#B" n="95"/>let etiam quaeri: vtrum etc. Et sequitur illa 
+      <lb ed="#B" n="96"/>particula secunda. Hominem autem formatum:. 
+      <!--362.xml-->
+      <pb ed="#B" n="173-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>In quo bomins locatio paradisus dicitur. 
+      <lb ed="#B" n="2"/>Et partitur in tres partes principales. In 
+      pri<lb ed="#B" n="3" break="no"/>ma ostenditur quod extra paradisi spacium sit ho 
+      <lb ed="#B" n="4"/>mo conditus. In secunda ostendit huius loci gra 
+      <lb ed="#B" n="5"/>tum solacium terrenum funditus. In 
+      tertia<lb ed="#B" n="6" break="no"/>lignum cunctum atque pomerium panditur 
+      peni<lb ed="#B" n="7" break="no"/>tus. Prima in principio. Secunda ibi. 
+      Intel<lb ed="#B" n="8" break="no"/>ligitur autem paradisus localis etc. Tertia ibi. 
+      <lb ed="#B" n="9"/>In hoc autem paradiso erant ligna. Et haec 
+      <lb ed="#B" n="10"/>est diuisio etc. 
+      </p>
+            </div>
+            <div xml:id="WuV37d-e79939-Dd1e217">
+               <head xml:id="WuV37d-e79939-Hd1e219">Quaestio</head>
+               <p xml:id="WuV37d-e79939-d1e222">
+                  <lb ed="#B" n="11"/>¶ Quaestio ista docet de paradiso 
+      <lb ed="#B" n="12"/>terrestri in qua frater Guillermus 
+      <lb ed="#B" n="13"/>recedit a preceptore suo qui locutus est 
+      <lb ed="#B" n="14"/>vt prudes philosophus li. 2. di. 17. 
+      <lb ed="#B" n="15"/>vbi quaerit. Utrum paradisus sit loc 
+      <lb ed="#B" n="16"/>couenies habitationi humane. 
+      <lb ed="#B" n="17"/>rUtrum adam anima 
+      <lb ed="#B" n="18"/>eidem infusa in terrestri 
+      paradi<lb ed="#B" n="19" break="no"/>so positus fuerit. Et arguitur quod non 
+      <lb ed="#B" n="20"/>triplici medio.
+</p>
+               <p xml:id="WuV37d-e79939-d1e246">
+¶ Primo sic. Nullus est. 
+      <lb ed="#B" n="21"/>terrestris paradilus: igitur nequiuit homo ibi 
+      <lb ed="#B" n="22"/>collocari: consequentia patet. Sed probatur 
+      an<lb ed="#B" n="23" break="no"/>tecedens. Si enim esset iste terrestris 
+      para<lb ed="#B" n="24" break="no"/>disus quaero locum: aut esset uvltra tropocos: 
+      <lb ed="#B" n="25"/>aut secundo inter tropicos et equinoctialem: 
+      <lb ed="#B" n="26"/>aut tertio sub tropicis vel equiuoctiali 
+      neu<lb ed="#B" n="27" break="no"/>trum potest dici. Probatur primo quod non vltra 
+      <lb ed="#B" n="28"/>tropicos propter hiemes et frigora 
+      adue<lb ed="#B" n="29" break="no"/>nientia quod repugnat illi habitationi. Se 
+      <lb ed="#B" n="30"/>cundo quod non citra inter equiuoctialem et tropi 
+      <lb ed="#B" n="31"/>cum propter calorem nimium. Tertio non 
+      sub<lb ed="#B" n="32" break="no"/>tropicis aut equiuoctiali: quia homines illic 
+      mi<lb ed="#B" n="33" break="no"/>nime viuunt. Unde refert in li. de locis 
+      Al<lb ed="#B" n="34" break="no"/>bertus magnus quod ethiopes qui quaesi sunt 
+      <lb ed="#B" n="35"/>sub tropico cancri efficiuntur senes in 
+      eta<lb ed="#B" n="36" break="no"/>te triginta annorum.
+</p>
+               <p xml:id="WuV37d-e79939-d1e283">
+¶ Secundo arguitur sic 
+      <lb ed="#B" n="37"/>Si fuisset. paradisus terrestris: aut conser 
+      <lb ed="#B" n="38"/>uasset hominem in sanitate: aut non / sed nec 
+      <lb ed="#B" n="39"/>sic nec sic: igitur etc. Maior patet: sed 
+      proba<lb ed="#B" n="40" break="no"/>tur minor. Tum quia in paradiso fuerunt li 
+      <lb ed="#B" n="41"/>gna posita ad vescendum: et ita indigebat 
+      <lb ed="#B" n="42"/>homo pro sanitate comedere. Tum secundo 
+      <lb ed="#B" n="43"/>propter locum quem ponit Beda attingere 
+      lu<lb ed="#B" n="44" break="no"/>narem circulum: et per consequens ibi erat aer 
+      ni<lb ed="#B" n="45" break="no"/>mie raritatis quod repugnat vitae humanae: 
+      <lb ed="#B" n="46"/>seu sphera ignis qui locum comburebat. 
+      <lb ed="#B" n="47"/>o
+</p>
+               <p xml:id="WuV37d-e79939-d1e309">
+¶ Tertio arguitur sic. Si adam anima sibi infu 
+      <!--362.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="48"/>sa fuit in illo paradiso collocatus: tunc aut 
+      <lb ed="#B" n="49"/>fuit creatus extra paradisum: aut intra. 
+      <lb ed="#B" n="50"/>nullum est dicendum: igitur etc. Maior patet. 
+      <lb ed="#B" n="51"/>Sed minor probatur primo quod non extra: quia 
+      <lb ed="#B" n="52"/>non est maioris nobilitatis mulier quam vir: 
+      <lb ed="#B" n="53"/>Et tamen legitur mulier fuisse creata in pa 
+      <lb ed="#B" n="54"/>radiso in Ben. de costis adam. Edificauit 
+      <lb ed="#B" n="55"/>enim dominus costam quam tulerat de adam in mu 
+      <lb ed="#B" n="56"/>lierem. Nec secundo fuit intra creatus: quia 
+      scri<lb ed="#B" n="57" break="no"/>bit magister in hystoria quod fuit creatus in cam 
+      <lb ed="#B" n="58"/>po damasceno: seu prope damascum quae est 
+      <lb ed="#B" n="59"/>caput siriae.
+</p>
+               <p xml:id="WuV37d-e79939-d1e343">
+¶ In oppositum est magister in listera 
+      <lb ed="#B" n="60"/>Et partet. Plantauerat autem dominus deus para 
+      <lb ed="#B" n="61"/>disum voluptatis a principio: in quo posu 
+      <lb ed="#B" n="62"/>it hominem quem formauerat.
+</p>
+               <p xml:id="WuV37d-e79939-d1e352">
+¶ In ista autem 
+      <lb ed="#B" n="63"/>quaestione ad alias pariformiter etc. 
+      <lb ed="#B" n="64"/>Primus est terminorum declaratiuus 
+      <lb ed="#B" n="65"/>Quorum Secundus est quaestionis responsiuus 
+      <lb ed="#B" n="66"/>Tertius est dubiorum motiuus 
+      <lb ed="#B" n="67"/>Quo ad primii articulum 
+      <lb ed="#B" n="68"/>tmini sunt 
+      <lb ed="#B" n="69"/>paradisus terrestris anima et adam.
+</p>
+               <p xml:id="WuV37d-e79939-d1e370">
+¶ Pri 
+      <lb ed="#B" n="70"/>mus igitur terminus est paradisus 
+      terre<lb ed="#B" n="71" break="no"/>stris quasi parens dei visum. 
+</p>
+               <p xml:id="WuV37d-e79939-d1e377">
+¶ Noto autem 
+      <lb ed="#B" n="72"/>triplice paradisum. Primo enim dici 
+      <lb ed="#B" n="73"/>paradisus illa patria caelestis in qua 
+      bea<lb ed="#B" n="74" break="no"/>ti locantur: hoc modo loquitur Paulus. Scio 
+      <lb ed="#B" n="75"/>hominem / siue in corpore / siue extra corpus 
+      ra<lb ed="#B" n="76" break="no"/>ptum in paradisum: et audiuit archana ver 
+      <lb ed="#B" n="77"/>ba quae non licet homini loqui. Secundo modo 
+      <lb ed="#B" n="78"/>dicitur paradisus visio clara dei: et eius 
+      frui<lb ed="#B" n="79" break="no"/>tio vbicumque sit / seu in caelo seu in terra. Et 
+      <lb ed="#B" n="80"/>hoc modo inducit lucas dominum iesum latro 
+      <lb ed="#B" n="81"/>ni loquentem. Amen dico tibi: hodie 
+      me<lb ed="#B" n="82" break="no"/>cum eris in paradiso. Non dubium quod aut 
+      <lb ed="#B" n="83"/>loquebatur de visione diuina: aut loquibatur 
+      <lb ed="#B" n="84"/>de quiete mentis et vitae: non oportet autem 
+      <lb ed="#B" n="85"/>hoc exponere de paradiso terrestri: sicut 
+      <lb ed="#B" n="86"/>exponit euangelium nicodemi. Tertio 
+      di<lb ed="#B" n="87" break="no"/>citur paradisus locus amenissimus in 
+      ter<lb ed="#B" n="88" break="no"/>ra constitutus in quo adam ante 
+      pecca<lb ed="#B" n="89" break="no"/>tum constitutus fuerat. Et dicitur in greco 
+      <lb ed="#B" n="90"/>paradisus: in latino ortus: in hebreo eden: 
+      <lb ed="#B" n="91"/>quod interpretatur deliciae: et iungatur latinum 
+      <lb ed="#B" n="92"/>cum hebreo: et dicetur ortus deliciarum. 
+      <lb ed="#B" n="93"/>Et hic dicitur paradisus terrestris: de quo 
+      <lb ed="#B" n="94"/>sic dicit Damasce. Quia vero ex visibili et 
+      <lb ed="#B" n="95"/>inuisibili creatura conditurus erat deus 
+      <lb ed="#B" n="96"/>hominem secundum propriam immaginem et similitu¬ 
+      <!--363.xml-->
+      <pb ed="#B" n="173-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>dinem: sicut quendam regem et 
+      princi<lb ed="#B" n="2" break="no"/>pem omnis terrae et omnium quae sunt in 
+      <lb ed="#B" n="3"/>ipsa constituit ante euum: velut quandam 
+      <lb ed="#B" n="4"/>regiam in qua conuersans beatam et 
+      om<lb ed="#B" n="5" break="no"/>nium ditem habeat vitam. Et quod ille diui 
+      <lb ed="#B" n="6"/>nus paradisus dei manibus in eden 
+      plan<lb ed="#B" n="7" break="no"/>tatus esset gaudii et exultationis 
+      vniuer<lb ed="#B" n="8" break="no"/>sae promptuarium: et sequitur. In oriente 
+      qui<lb ed="#B" n="9" break="no"/>dem omni terra excelsior positus tempe 
+      <lb ed="#B" n="10"/>rato vero et tenuissimo aere circumfulgens: 
+      <lb ed="#B" n="11"/>plantis semper floridis ornatus: et bono 
+      <lb ed="#B" n="12"/>odore plenus: lumine repletus pulchriu 
+      <lb ed="#B" n="13"/>tudinis vniuersae et horae sensibilis 
+      super<lb ed="#B" n="14" break="no"/>excedens intelligentiam: haec ille. Et dicitur 
+      <lb ed="#B" n="15"/>terrestris: quia in terra est positus.
+</p>
+               <p xml:id="WuV37d-e79939-d1e473">
+¶ Se 
+      <lb ed="#B" n="16"/>cundus terminus est anima. Unde 
+      <lb ed="#B" n="17"/>anima ab animando dicitur: sicut spiritus a 
+      <lb ed="#B" n="18"/>spirando quammaxime in bona caelestia. 
+      Ro<lb ed="#B" n="19" break="no"/>go vos inquit apostolus vt spiritus et 
+      ani<lb ed="#B" n="20" break="no"/>ma integer seruetur. Unde noto quod anima 
+      <lb ed="#B" n="21"/>rationalis secundum Cassiodorum sic 
+      diffinitur<lb ed="#B" n="22" break="no"/>Anima est substantia spiritalis a deo crea 
+      <lb ed="#B" n="23"/>ta: proprii sui corporis viuificatrix. In qua 
+      <lb ed="#B" n="24"/>diffinitione tria patent. Primo enim consi 
+      <lb ed="#B" n="25"/>deratur secundum se dum dicit: quod anima est sub 
+      <lb ed="#B" n="26"/>stantia spiritalis: id est simplex. Unde 
+      Au<lb ed="#B" n="27" break="no"/>gusti. in li. de anima et spiritu: animam diffi 
+      <lb ed="#B" n="28"/>niens dicit. Anima est spiritus intellectua 
+      <lb ed="#B" n="29"/>lis: rationalis viuens semper in motu: bone 
+      <lb ed="#B" n="30"/>maleque voluntatis capax. Unde patet quod 
+      <lb ed="#B" n="31"/>anima est substantia: et quia non est mixtura 
+      <lb ed="#B" n="32"/>seu corporis dispositio sicut posuit 
+      Alex<lb ed="#B" n="33" break="no"/>an. peripatetur. In eo autem quod est spiritalis 
+      <lb ed="#B" n="34"/>patet quod non est potentia imaginatiua: quae 
+      <lb ed="#B" n="35"/>organo alligata est sicut posuit 
+      anempeche<lb ed="#B" n="36" break="no"/>Secundo dicit quod est a deo creata. Undi 
+      <lb ed="#B" n="37"/>et solet anima sic diffiniri. Anima est 
+      spi<lb ed="#B" n="38" break="no"/>b raculum vitae: et accipitur ex illo verbo. 
+      Spi<lb ed="#B" n="39" break="no"/>rauit in facien eius spri eculum vitae. Ex quo 
+      <lb ed="#B" n="40"/>patet quod non est deus diie substantia animae: 
+      <lb ed="#B" n="41"/>sicuti posuit parmenides: qui omnia 
+      po<lb ed="#B" n="42" break="no"/>suit vnum: quia non est eiusdem rationis crea 
+      <lb ed="#B" n="43"/>tor et creatura. Item Dauid de dinanto. 
+      <lb ed="#B" n="44"/>qui posuit tria rerum genera / corpora / 
+      ani<lb ed="#B" n="45" break="no"/>mas / et intelligentias: et posuit quod corpora 
+      <lb ed="#B" n="46"/>componebantur per athoma indiuisibilia 
+      <lb ed="#B" n="47"/>animae per diuersam noim et intelligentiae 
+      <lb ed="#B" n="48"/>per deum multiplicatum. Et ita cum noys 
+      <!--363.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="49"/>primaria sit deus ponebat consequenter deum 
+      <lb ed="#B" n="50"/>esse de substantia animae. 
+</p>
+               <p xml:id="WuV37d-e79939-d1e556">
+¶ Noto tamen 
+      <lb ed="#B" n="51"/>quod hic cum sit triplex anima / vegetatiua / 
+      <lb ed="#B" n="52"/>sensitiua / et intellectiua: solum loquor de 
+      in<lb ed="#B" n="53" break="no"/>tellectiua. Tertio dicit quod anima est 
+      pro<lb ed="#B" n="54" break="no"/>pria sui corporis viuificatrix. Unde sic 
+      dif<lb ed="#B" n="55" break="no"/>finitur ab Aug. in li. de spiritu et anima. 
+      <lb ed="#B" n="56"/>Anima est substantia quaedam rationis 
+      par<lb ed="#B" n="57" break="no"/>ticeps regendo corpori associata sic: scilicet 
+      <lb ed="#B" n="58"/>vt viuificet. Ex quo patet error platonis 
+      <lb ed="#B" n="59"/>qui posuit animas in corpore esse veluti 
+      <lb ed="#B" n="60"/>nautam in naui. Et patet etiam exquo est 
+      pro<lb ed="#B" n="61" break="no"/>pria anima cuilibet corpori error auerro 
+      <lb ed="#B" n="62"/>is: qui posuit omnium hominum eundem esse 
+      <lb ed="#B" n="63"/>intellectum agentem et possibilem: et solum in ho 
+      <lb ed="#B" n="64"/>minibus secundum aspectum fantasiarum fieri: aut 
+      <lb ed="#B" n="65"/>ignorantiam: aut scientiam.
+</p>
+               <p xml:id="WuV37d-e79939-d1e592">
+¶ Tertius 
+      ter<lb ed="#B" n="66" break="no"/>minus est adam. Unde adam in 
+      bib<lb ed="#B" n="67" break="no"/>lia capitur tripliciter. Uno modo dicitur 
+      <lb ed="#B" n="68"/>adam idem quod homo: sicut est illud. 
+      Uoca<lb ed="#B" n="69" break="no"/>uit nomen eorum adam in die qua creati sunt. 
+      <lb ed="#B" n="70"/>Et hiero. super matth. diciti / quod vbicumque in 
+      <lb ed="#B" n="71"/>veteri testamento apud nos scriptum est: Fi 
+      <lb ed="#B" n="72"/>lii bominum: in hebreo scriptum est filii adan 
+      <lb ed="#B" n="73"/>sicut in quarto psateo. Filii hominum in hebreo  
+      <lb ed="#B" n="74"/>scriptum est filii adam. Secundo dicitur adam 
+      <lb ed="#B" n="75"/>pro christo domino nostro qui dicitur secundus adam. 
+      <lb ed="#B" n="76"/>Tertio dicitur pro primo homine: qui dicitur 
+      <lb ed="#B" n="77"/>primus adam: et pro hoc sumitur in titulo 
+      <lb ed="#B" n="78"/>quaestionis: et de ambobus loquitur apostolus 
+      <lb ed="#B" n="79"/>Sicut primus adam de terra terrenus: sic. 
+      <lb ed="#B" n="80"/>secundus de caelo caelestis. 
+      </p>
+               <p xml:id="WuV37d-e79939-d1e627">
+                  <lb ed="#B" n="81"/>¶ Quatum ad secundum 
+      arti<lb ed="#B" n="82" break="no"/>culum l 
+      <lb ed="#B" n="83"/>sunt tres conclusiones. Prima est de 
+      pa<lb ed="#B" n="84" break="no"/>radiso terrestri. Secunda de anima adae. 
+      <lb ed="#B" n="85"/>Tertia de collocatione adae in paradiso 
+      <lb ed="#B" n="86"/>terrestri.
+</p>
+               <p xml:id="WuV37d-e79939-d1e643">
+¶ Prima est haec. Sic 
+      para<lb ed="#B" n="87" break="no"/>disus terrestris sub equinoctiali extat 
+      cir<lb ed="#B" n="88" break="no"/>culo vt ad lunarem vsque globum ascendat. 
+      <lb ed="#B" n="89"/>Prima pars dicit: quod est aliquis 
+      paradi<lb ed="#B" n="90" break="no"/>sus terrestris: patet autctoritate Isid. li. 
+      <lb ed="#B" n="91"/>xiiii. ethimo. ca. iii. Paradisus inquit est 
+      <lb ed="#B" n="92"/>locus in orientis partibus constitutus 
+      cu<lb ed="#B" n="93" break="no"/>ius vocabulum a greco in latinum vertitur 
+      or<lb ed="#B" n="94" break="no"/>tus. Et infra. Est enim omni genere ligni et 
+      <lb ed="#B" n="95"/>pomiferarum arborum consitus: habeus et 
+      <lb ed="#B" n="96"/>lignum vitae: non frigus ibi: non estus: sed  
+      <!--364.xml-->
+      <pb ed="#B" n="174-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>perpetua aeris temperies: cuius medio 
+      <lb ed="#B" n="2"/>fons prorumpens totum nemus irrigat. Et 
+      <lb ed="#B" n="3"/>iosephus: Deus ad orientem plantauit pa 
+      <lb ed="#B" n="4"/>radisum omni germinatione florentem: et 
+      <lb ed="#B" n="5"/>in hunc locum introduxit adam et eius vxo 
+      <lb ed="#B" n="6"/>rem praecipiens eis plantationum habere 
+      sol<lb ed="#B" n="7" break="no"/>licitudinem.
+</p>
+               <p xml:id="WuV37d-e79939-d1e689">
+¶ Ex quo patet defectus 
+      ori<lb ed="#B" n="8" break="no"/>genis qui voluit nullum talem paradisum 
+      <lb ed="#B" n="9"/>esse terrestrem sed omnia quae dicuntur de isto 
+      <lb ed="#B" n="10"/>paradiso allegorice debere intelligi. 
+      Un<lb ed="#B" n="11" break="no"/>de et epiphanius cipri episcopus in 
+      qua<lb ed="#B" n="12" break="no"/>dam epistola quam transtulit hiero. inter 
+      <lb ed="#B" n="13"/>origenis errores istum computat.
+</p>
+               <p xml:id="WuV37d-e79939-d1e705">
+¶ Sed 
+      <lb ed="#B" n="14"/>dicit secunda pars conclusionis: quod 
+      paradi<lb ed="#B" n="15" break="no"/>sus terrestris est sub equinoctiali circulo 
+      <lb ed="#B" n="16"/>scilicet sub cona torrida posita inter duos tro 
+      <lb ed="#B" n="17"/>picos estiualem et hyemalem: probatur: Illuc 
+      <lb ed="#B" n="18"/>est collocandus paradisus terrestris vbi 
+      <lb ed="#B" n="19"/>est maxima aeris temperies: sed sub equi 
+      <lb ed="#B" n="20"/>noctiali reperitur maxima aeris temperies: 
+      <lb ed="#B" n="21"/>igitur: maior patet: quia exquo dicitur ortus  
+      <lb ed="#B" n="22"/>deliciarum: maxime requirit aeris 
+      bonita<lb ed="#B" n="23" break="no"/>tem. Sed minor probatur: Tum 
+      autctori<lb ed="#B" n="24" break="no"/>tate ptholomei ponentis quandam optimam 
+      <lb ed="#B" n="25"/>ciuitatem sub equinoctio collocatam. Confit 
+      <lb ed="#B" n="26"/>matur: quia aer efficitur purior vbi solis 
+      <lb ed="#B" n="27"/>plus et planetarum aliorum viget vigor sed 
+      <lb ed="#B" n="28"/>sic est habitantibus sub equinoctio: quia bis 
+      <lb ed="#B" n="29"/>in anno cadit sol super cenith capitum eorum: 
+      <lb ed="#B" n="30"/>scilicet in principio arietis et libre. Unde bo 
+      <lb ed="#B" n="31"/>rum creduntur virtute planetarum ibidem 
+      na<lb ed="#B" n="32" break="no"/>sci herbe et arbores mire virtutis. Et si 
+      <lb ed="#B" n="33"/>dicatur primo videtur quod comburuntur calore 
+      <lb ed="#B" n="34"/>solis cum ibi sit amplior calor quam in 
+      tropi<lb ed="#B" n="35" break="no"/>tis: vbi tamen vi solis vix manent bomines. 
+      <lb ed="#B" n="36"/>Respondendum quod non est simile quia sub cona 
+      <lb ed="#B" n="37"/>torrida collocatur mare temperans per 
+      va<lb ed="#B" n="38" break="no"/>pores solis calorem quod non est sub tropicis. 
+      <lb ed="#B" n="39"/>imaginor enim cum platone in thimeo quod 
+      <lb ed="#B" n="40"/>mare occeanum totam circundat terram. Secundo 
+      <lb ed="#B" n="41"/>quod scindit terram per medium subgona torri 
+      <lb ed="#B" n="42"/>da et vocatur mare magnum: et dico quod bene 
+      <lb ed="#B" n="43"/>verum est quod nisi esset huiusmodi mare: ex quo 
+      <lb ed="#B" n="44"/>leuantur continuae vapores: et proiiciuntur hinc 
+      <lb ed="#B" n="45"/>et inde solis virtute esset inhabitabilis. 
+      <lb ed="#B" n="46"/>Ande recte fonti caloris respondet fons 
+      <lb ed="#B" n="47"/>humoris. Unde vbi nos habemus fons 
+      <lb ed="#B" n="48"/>ascendebat de terra etc. habet sermo 
+      he<lb ed="#B" n="49" break="no"/>breus. Nubes ascendebat de terra. Et 
+      <!--364.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>hoc est quod dicebat frater Alexan. in secunda 
+      <lb ed="#B" n="51"/>parte summe: collatione de habitatione ho 
+      <lb ed="#B" n="52"/>minis ponens tres causas huius temperiet 
+      <lb ed="#B" n="53"/>Primo noctem: quia calor diei per noctem 
+      tem<lb ed="#B" n="54" break="no"/>peratur quae semper est frigida. Secundo 
+      hu<lb ed="#B" n="55" break="no"/>iusmodi mare. Tertio aeris puritatem: 
+      <lb ed="#B" n="56"/>aer enim rarus non ita retinet caliditatem: 
+      <lb ed="#B" n="57"/>sicuti grossus: patet ad sensum: longius enim 
+      <lb ed="#B" n="58"/>retinet calorem lapis calidus quam aqua ca 
+      <lb ed="#B" n="59"/>lida. Non habent autem huiusmodi mare 
+      ha<lb ed="#B" n="60" break="no"/>bitantes in tropicis. Tertio dico quod in me 
+      <lb ed="#B" n="61"/>dio illius maris est mons quidam vndique 
+      <lb ed="#B" n="62"/>mari circundatus: et illum ego voco 
+      terre<lb ed="#B" n="63" break="no"/>strem paradisum. Ex quo primo patet / quod 
+      <lb ed="#B" n="64"/>terrestris paradisus est a parte orientis: et 
+      <lb ed="#B" n="65"/>licet hic doctor subtilis dicat valde 
+      sub<lb ed="#B" n="66" break="no"/>tiliter: quod quilibet punctus caeli potest 
+      di<lb ed="#B" n="67" break="no"/>ci oriens secundum quod diuersis apparet. Capio 
+      <lb ed="#B" n="68"/>tamen hic oriens secundum quod accipit philosophus in se 
+      <lb ed="#B" n="69"/>cundo caeli et mundi: dum vocat orientem 
+      <lb ed="#B" n="70"/>dextram caeli. Unde vbi habemus. Planta 
+      <lb ed="#B" n="71"/>uerat autem dominus deus paradisum 
+      volupta<lb ed="#B" n="72" break="no"/>tis a principio: hebreus habet in oriente: 
+      <lb ed="#B" n="73"/>patet secundo quod paradisus terrestris est in 
+      <lb ed="#B" n="74"/>medio terre: patet tertio quod est in medio 
+      <lb ed="#B" n="75"/>maris. Sed quaeritur tunc vnde est quod 
+      chro<lb ed="#B" n="76" break="no"/>nici gentilium non scripserunt de huiusmodi 
+      <lb ed="#B" n="77"/>paradiso: Respondendum primo quod eundo 
+      ver<lb ed="#B" n="78" break="no"/>sus equinoctium vt tangit Albertus mag 
+      <lb ed="#B" n="79"/>nus in libro de locis: sunt montes pleni 
+      <lb ed="#B" n="80"/>magnetibus attrahentibus bomines: 
+      sicu<lb ed="#B" n="81" break="no"/>ti his in partibus magnes trahit ferrum. 
+      <lb ed="#B" n="82"/>Et dicit quod in hoc tractu homines 
+      riden<lb ed="#B" n="83" break="no"/>do moriuntur. Secundo quia dehinc ad locum 
+      <lb ed="#B" n="84"/>illum sunt loca inaccessibilia: vt patet in descri 
+      <lb ed="#B" n="85"/>ptione mappe mundialis facta sub Iulio 
+      <lb ed="#B" n="86"/>cesare tribus philosophis et romano exercitu. Ter 
+      <lb ed="#B" n="87"/>tio quia est via per tropicos quae vt dictum est 
+      ni<lb ed="#B" n="88" break="no"/>mis habundant in calore et diluuiis per 
+      pulue<lb ed="#B" n="89" break="no"/>res arenarum: sicut onensum fuit sub cambise 
+      <lb ed="#B" n="90"/>rege persarum: cuius totus exercitus missus contra 
+      <lb ed="#B" n="91"/>hamonem inundatione puluerum submersus 
+      <lb ed="#B" n="92"/>est. Uerum est tamen quod philosophi et maximae poetae in 
+      <lb ed="#B" n="93"/>occeano ponunt insulas fortunatas maxi 
+      <lb ed="#B" n="94"/>ma repletas temperie et omnium lignorum 
+      gene<lb ed="#B" n="95" break="no"/>re: vnde hoc habuert: Credendum quod aut ratione 
+      <lb ed="#B" n="96"/>vt detur locus perfectus in terra: aut quibusdam 
+      <lb ed="#B" n="97"/>reuelationibus quibus propter nos deus 
+      <lb ed="#B" n="98"/>reuelauit. Et si hoc vocabant paradisum 
+      <!--365.xml-->
+      <pb ed="#B" n="174-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>terrestrem. Bene dicebant cum hoc occeanum 
+      <lb ed="#B" n="2"/>mare magnum capientes. Unde frater Alex 
+      <lb ed="#B" n="3"/>an. loco praedicto sanctus Tho. secundo scripti 
+      <lb ed="#B" n="4"/>hac distin. q. 2. ar. 3. doctur. deuotus in du 
+      <lb ed="#B" n="5"/>biis litteralibus huius distin. huius sunt 
+      <lb ed="#B" n="6"/>opinionis. Et principaliter doctor egre 
+      <lb ed="#B" n="7"/>gius nicolaus boneti super Sen. Nec va 
+      <lb ed="#B" n="8"/>let quod dicitur: quod motus solis illuc maxim 
+      <lb ed="#B" n="9"/>maximum generat calorem: sicuti in hac 
+      di<lb ed="#B" n="10" break="no"/>stinctione arguere videtur doctur. subtilis. 
+      <lb ed="#B" n="11"/>Cui non videtur possibile per naturam sub 
+      <lb ed="#B" n="12"/>equinoctio paradisum collocari fateor hoc 
+      <lb ed="#B" n="13"/>in loco eum non capio. Dum enim dicit quod 
+      <lb ed="#B" n="14"/>cursus solis est maximus sub equinoctio 
+      <lb ed="#B" n="15"/>et maior quam in tropicis vel citra fateor: quia 
+      <lb ed="#B" n="16"/>in aequali tempore maiorem perficit circulum: 
+      <lb ed="#B" n="17"/>scilicet in spacio. xxiiii. horarum. Tamen quod dicit 
+      <lb ed="#B" n="18"/>quod maior motus generat maiorem calorem 
+      <lb ed="#B" n="19"/>verum est subiectiue non autem obiectiue. 
+      <lb ed="#B" n="20"/>Sic intelligo subiectiue: id est si id quod mo 
+      <lb ed="#B" n="21"/>uetur sit caloris per motum susceptiuum: 
+      <lb ed="#B" n="22"/>tunc maior motus maiorem in eo generat 
+      <lb ed="#B" n="23"/>calorem. Non est autem verum in eo quod mobi 
+      <lb ed="#B" n="24"/>le aspicit obiectiue immo minorem: patet 
+      ex<lb ed="#B" n="25" break="no"/>emplo. Circumuoluatur circa ignem in veru 
+      <lb ed="#B" n="26"/>gallina quantocitius voluetur tanto minus 
+      <lb ed="#B" n="27"/>calefiet: sic in proposito.
+</p>
+               <p xml:id="WuV37d-e79939-d1e961">
+¶ Sed dicit 
+      ter<lb ed="#B" n="28" break="no"/>tia pars conclusionis: quod paradisus terre 
+      <lb ed="#B" n="29"/>stris ascendit vsque ad globum lunarem: patet au 
+      <lb ed="#B" n="30"/>ctoritate Bede in listra et strabi. Hic inqui 
+      <lb ed="#B" n="31"/>unt locus in oriente est positus interiecto 
+      <lb ed="#B" n="32"/>occeano et montibus oppositis a 
+      regio<lb ed="#B" n="33" break="no"/>nibus quas incolunt bomines secretus et 
+      <lb ed="#B" n="34"/>remotissimus pertingensque altitudine vsque 
+      <lb ed="#B" n="35"/>ad lunarem circulum. Unde aquae diluuii 
+      il<lb ed="#B" n="36" break="no"/>luc minime peruenerunt. Et hic dicit 
+      Al<lb ed="#B" n="37" break="no"/>bertus magnus secunda parte summae sue. q. 
+      <lb ed="#B" n="38"/>347. quod in libris antiquissimis inuenit istam 
+      <lb ed="#B" n="39"/>sententiam Bede et strabi a beato Thoma 
+      <lb ed="#B" n="40"/>apostolo dei processisse.
+</p>
+               <p xml:id="WuV37d-e79939-d1e993">
+¶ Ex quo primo 
+      <lb ed="#B" n="41"/>patet quod erat altior medio interstitio aeris 
+      <lb ed="#B" n="42"/>in quo sunt daemones. patet secundo: quod nulla 
+      <lb ed="#B" n="43"/>erat nox in illo paradiso: probatur. Testatur 
+      <lb ed="#B" n="44"/>magnus Albertus in li. metheororum esse 
+      <lb ed="#B" n="45"/>quendam montem in india qui dicitur caucasus 
+      <lb ed="#B" n="46"/>vbi quando est equinoctium tardius occidit 
+      <lb ed="#B" n="47"/>sol in eius cacumine quam inferius de quat 
+      <lb ed="#B" n="48"/>tuor horis: et citius oritur de quattuor: 
+      <lb ed="#B" n="49"/>ita quod dum habitantes in pede montis ha 
+      <!--365.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>bebant horas duodecim noctis solum: 
+      <lb ed="#B" n="51"/>superius erant quattuor. Cum igitur ex ista 
+      <lb ed="#B" n="52"/>positione longe sit altior paradisus: 
+      se<lb ed="#B" n="53" break="no"/>quitur. Ex quo patet tertio quod nec tempe 
+      <lb ed="#B" n="54"/>stas nec grando etc. ibi nascebantur: patet. 
+      <lb ed="#B" n="55"/>quia veniunt de medio aeris intersticio. 
+      <lb ed="#B" n="56"/>Et si quaeratur quomodo poterat esse ibi 
+      lo<lb ed="#B" n="57" break="no"/>cus habitabilis cum teste Solino quando 
+      <lb ed="#B" n="58"/>ibant philosophi ad montem olimpi qui tan 
+      <lb ed="#B" n="59"/>te non est altitudinis: eos oportebat habe 
+      <lb ed="#B" n="60"/>re spongias plenas aqua propter raritatem 
+      <lb ed="#B" n="61"/>aeris vt efficeretur spissior. Dico quod nonest 
+      <lb ed="#B" n="62"/>simile: in paradiso siquidem erant quattuor 
+      <lb ed="#B" n="63"/>flumina: vnde poterat satis aer spissari: 
+      <lb ed="#B" n="64"/>non autem legitur in illo monte olympi fluuium 
+      <lb ed="#B" n="65"/>fuisse. Caeterum adam in statu innocentiae 
+      <lb ed="#B" n="66"/>erat perfectior longe quam nos: ideo non est mi 
+      <lb ed="#B" n="67"/>rum si aere puriori viuere poterat. Sed 
+      <lb ed="#B" n="68"/>tunc est magnum dubium: quia in philosophia 
+      <lb ed="#B" n="69"/>est probatum quod super spheram aeris est 
+      sphe<lb ed="#B" n="70" break="no"/>ra ignis. Igitur si paradisus erat vsque ad 
+      <lb ed="#B" n="71"/>globum lunarem erat non in aere sed in igne. 
+      <lb ed="#B" n="72"/>Hic fateor opertet dicere quod priuilegio spe 
+      <lb ed="#B" n="73"/>ciali fuit isti homini locus conditus. Una 
+      <lb ed="#B" n="74"/>de circumquaque paradisum erat ignis 
+      sphe<lb ed="#B" n="75" break="no"/>ra non tamen intrans eum dono dei. Et hoc 
+      <lb ed="#B" n="76"/>innuitur ex hoc. Collocauit ante paradisum vo 
+      <lb ed="#B" n="77"/>luptatis cherubin: et flammeum gladium 
+      <lb ed="#B" n="78"/>atque versatilem id est spheram ignis. Et si 
+      <lb ed="#B" n="79"/>quaeratur: quid est supra hunc paradisum: et 
+      <lb ed="#B" n="80"/>quid subter. Dico quod subter per lineam 
+      <lb ed="#B" n="81"/>rectam est infernus proprie in centro ter 
+      <lb ed="#B" n="82"/>rae. Super paradisum est caelestis paradi 
+      <lb ed="#B" n="83"/>sus et luna immediate. Unde adam de illo 
+      <lb ed="#B" n="84"/>paradiso videre poterat eclipsim solis et 
+      <lb ed="#B" n="85"/>lune et ad oculum tangere lunam: si esset 
+      cor<lb ed="#B" n="86" break="no"/>pus tangibile: cognoscere caelorum distan 
+      <lb ed="#B" n="87"/>tiam / pulchritudinem stellarum / armonia 
+      <lb ed="#B" n="88"/>motus caeli replebantur aures eius: de quo 
+      <lb ed="#B" n="89"/>vt dicebatur praecedenti distinctione: dicebat 
+      <lb ed="#B" n="90"/>aphricanus. Quis est iste tam dulcis 
+      so<lb ed="#B" n="91" break="no"/>nus qui complet aures meas. Et si dica 
+      <lb ed="#B" n="92"/>tur quia iuxta dictum sapientis: sol maxi 
+      <lb ed="#B" n="93"/>me exurit montes. Dicendum quod verum est 
+      <lb ed="#B" n="94"/>in aliquibus partibus: non communiter: 
+      si<lb ed="#B" n="95" break="no"/>cuti patet in montibus vbi sunt niues 
+      per<lb ed="#B" n="96" break="no"/>petuae: et maximae quando montes sunt 
+      de<lb ed="#B" n="97" break="no"/>cliui non arescunt per radios solis: sed 
+      <lb ed="#B" n="98"/>proiiciunt cuiusmodi fuisset paradisus: tum 
+      <!--366.xml-->
+      <pb ed="#B" n="175-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>fluminum ratione. Ex quibus patet / quod licet 
+      <lb ed="#B" n="2"/>inferius sub aequinoctio fuissent duae 
+      esta<lb ed="#B" n="3" break="no"/>tes: vna in ariete / reliqua in libra: duae hy 
+      <lb ed="#B" n="4"/>emes: vna in cancro / reliqua in capricorno. 
+      <lb ed="#B" n="5"/>In paradiso tamen terrestri sper fuisset estas: 
+      <lb ed="#B" n="6"/>vnde bene verum est tamen / quod quattuor 
+      vm<lb ed="#B" n="7" break="no"/>bras habuissent. Occidentalem quando sol 
+      <lb ed="#B" n="8"/>fuisset in oriente. In occidente orientalemus 
+      <lb ed="#B" n="9"/>in meridie habuissent / perpendicularem su 
+      <lb ed="#B" n="10"/>per caput eorum: ex australi autem iacitur 
+      vm<lb ed="#B" n="11" break="no"/>pra ad septentrionem: econtra a 
+      septentrio<lb ed="#B" n="12" break="no"/>ne ad austrum.
+</p>
+               <p xml:id="WuV37d-e79939-d1e1158">
+¶ Secunda conclusio est 
+      <lb ed="#B" n="13"/>de anima adae: et est haec. Sic adae anima cum 
+      <lb ed="#B" n="14"/>suo corpore extat creata / vt prius creari po 
+      <lb ed="#B" n="15"/>tuerit. Prima pars diciti / quod anima adae fuit 
+      <lb ed="#B" n="16"/>creata cum corpore. Probatur. Si enim anima ade  
+      <lb ed="#B" n="17"/>fuit creata ante eius corpus: potuit mere 
+      <lb ed="#B" n="18"/>ri aut demereri. Probatur: quia habuit 
+      libe<lb ed="#B" n="19" break="no"/>rum arbitrium. Sed hoc dato / inconueniens fu 
+      <lb ed="#B" n="20"/>isset ipsam postea corpori vniri. Probatur: quia 
+      <lb ed="#B" n="21"/>si demeruisset: pari ratione meruit dam. 
+      <lb ed="#B" n="22"/>nari sicut angeli mali: si autem meruisset / sal 
+      <lb ed="#B" n="23"/>1. vari sicut boni. Et confirmatur ex illo: Inspi 
+      <lb ed="#B" n="24"/>rauit in faciem eius spiraculum vitae. Istud 
+      <lb ed="#B" n="25"/>autem inspirare non est aliud nisi animam 
+      cre<lb ed="#B" n="26" break="no"/>are. Et si quaeratur / an anima habeat propria 
+      <lb ed="#B" n="27"/>existentiam in corpore / aliam ab existentia corpo 
+      <lb ed="#B" n="28"/>ris? Dicit doctor subtilis. 10. dist. quod sic: in 
+      <lb ed="#B" n="29"/>anima intellectiua quae est immortalis: non 
+      <lb ed="#B" n="30"/>autem in anima sensitiua seu vegetatiua: ergo 
+      <lb ed="#B" n="31"/>simul cum corpore moriuntur. Sed quaeritur tunc: de 
+      <lb ed="#B" n="32"/>quo creauit deus animam ade? Dicendum quod de 
+      <lb ed="#B" n="33"/>nihilo. Nec obstat quod dicitur / ispirauit: 
+      <lb ed="#B" n="34"/>non est enim intelligendum quod aliquid de suba 
+      <lb ed="#B" n="35"/>sua conuerterit in adae animam: sed capitur 
+      effe<lb ed="#B" n="36" break="no"/>ctiue / inspirauit id est spirantem fecit: sicut illud  
+      <lb ed="#B" n="37"/>Flatum omnem ego facio.
+</p>
+               <p xml:id="WuV37d-e79939-d1e1215">
+¶ Ex quo patet 
+      er<lb ed="#B" n="38" break="no"/>ror manichaeorum: quae (vt refert Augustinus lis. de 
+      <lb ed="#B" n="39"/>duabus animabus) in homine posuerunt duas 
+      <lb ed="#B" n="40"/>animas: vnam bonorum / reliquam malorum principium: 
+      <lb ed="#B" n="41"/>dixerunt quod bona est de dei suba: patet 
+      oppo<lb ed="#B" n="42" break="no"/>situm ex conclusione. Et confirmatur: quia suba dei 
+      <lb ed="#B" n="43"/>non est partibilis neque mutabilis. Et si quaerat quis: 
+      <lb ed="#B" n="44"/>an anima adae habuerit materiam: Dicit Tho. 
+      <lb ed="#B" n="45"/>hac dist. arti. 1. q. 2. quod non. Et dicit quod 
+      dicen<lb ed="#B" n="46" break="no"/>dum est sicut dictum est de angelis. Cui dico 
+      <lb ed="#B" n="47"/>pariformiter quod dicatur sicut dictum est de 
+      an<lb ed="#B" n="48" break="no"/>gelis: quod scilicet sicut angeli sunt compositi ex 
+      <lb ed="#B" n="49"/>materia et forma / sic anima (capiendo vt. 3. di. 
+      <!--366.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>parte prima fuit dictum) materiam pro ente limi 
+      <lb ed="#B" n="51"/>tato. Sed ne anima sensitiua et vegetatiua 
+      <lb ed="#B" n="52"/>habent materiam: Dicit doctor deuotus 
+      hu<lb ed="#B" n="53" break="no"/>ius distinctionis arti. 1. q. 2. quod bene verum 
+      <lb ed="#B" n="54"/>est quod anima intellectiua est composita ex ma 
+      <lb ed="#B" n="55"/>teria et forma: quia habet materiae proprieta 
+      <lb ed="#B" n="56"/>tes: non tamen est verum de anima aut senst 
+      <lb ed="#B" n="57"/>tiua aut vegetatiua: sed sua salua reuerem 
+      <lb ed="#B" n="58"/>tia / aeque bene concludunt rationes de vna sicuti 
+      <lb ed="#B" n="59"/>de alia: aequi vna est ens limitatum sicut alia. 
+      <lb ed="#B" n="60"/>Unde tenendum est tam animam intellectiuam 
+      <lb ed="#B" n="61"/>sensitiuam quam vegetatiuam compositam ex 
+      mate<lb ed="#B" n="62" break="no"/>ria et forma modo praexposito. Et si quaeratur: 
+      <lb ed="#B" n="63"/>quae est ista materia / an spiritualis / an corpo 
+      <lb ed="#B" n="64"/>ralis?: Dico quod de se nec est haec / nec illa: ens 
+      <lb ed="#B" n="65"/>enim limitatum quod est fhaec materia prima: 
+      <lb ed="#B" n="66"/>praecedit tam spirituale quam corporale natura. 
+      <lb ed="#B" n="67"/>Secunda pars conclusionis diciti / quod anima 
+      <lb ed="#B" n="68"/>Adae potuit prius creari. Probatur. Omne 
+      <lb ed="#B" n="69"/>habens esse absolutum per se existens ab om 
+      <lb ed="#B" n="70"/>nipotentae / potest per se effici: patet ex 
+      termi<lb ed="#B" n="71" break="no"/>nis. Sed anima est per se existens separata 
+      <lb ed="#B" n="72"/>a corpore: igitur potuit per se effici. Ex quo 
+      <lb ed="#B" n="73"/>patet quod non defecit Augustinus / ponendo quod 
+      po<lb ed="#B" n="74" break="no"/>tuit effici anima Adae sine corpore eius: sed  
+      <lb ed="#B" n="75"/>in hoc quod dubitatiue locutus est: an simul 
+      <lb ed="#B" n="76"/>actu sit facta cum eius corpore. Et si dicat 
+      <lb ed="#B" n="77"/>quis. Omnis indiuiduatio est a materia: 
+      <lb ed="#B" n="78"/>Cum ergo anima non habeat materiam: non 
+      vi<lb ed="#B" n="79" break="no"/>detur posse fieri sine corpore per quod indiui 
+      <lb ed="#B" n="80"/>duatur. Sanctus Tho. innuit / quod nequit 
+      cre<lb ed="#B" n="81" break="no"/>ari sine corpore propter rationem indiuiduati 
+      <lb ed="#B" n="82"/>onis: potest tamen esse sine corpore postea 
+      <lb ed="#B" n="83"/>quia accipit esse signatum a corpore per quod 
+      <lb ed="#B" n="84"/>indiuiduatur in perpetuum / somnium est. 
+      Quae<lb ed="#B" n="85" break="no"/>ro enim ab eo / quid dicit hoc esse signatum: 
+      <lb ed="#B" n="86"/>aut nihil / aut aliquid. Si nihil: nihil dicit 
+      <lb ed="#B" n="87"/>sic loquens. Si autem dicat aliquid: quaero 
+      <lb ed="#B" n="88"/>quid / aut absolutum / aut respectiuum: Si re 
+      <lb ed="#B" n="89"/>spectiuum: tunc anima non erit vnum per se: 
+      in<lb ed="#B" n="90" break="no"/>cluderet enim res in suo esse diuersorum 
+      ge<lb ed="#B" n="91" break="no"/>nerum / non subalternatim positorum. Si 
+      au<lb ed="#B" n="92" break="no"/>tem dicat quid absolutum: poterit deus id 
+      <lb ed="#B" n="93"/>efficere sine corpore: vnde ista positio ve 
+      <lb ed="#B" n="94"/>luti falsa penitus est abscindenda. Et quod 
+      <lb ed="#B" n="95"/>diciti / quod omnis indiuiduatio est a materia: 
+      <lb ed="#B" n="96"/>articulus est parrh vsiensis: vt alis dictum 
+      <lb ed="#B" n="97"/>est in contrarium.
+</p>
+               <p xml:id="WuV37d-e79939-d1e1352">
+¶ Tertia conclusio 
+      <lb ed="#B" n="98"/>est de collocatione Adae in paradiso ter/ c 
+      <!--367.xml-->
+      <pb ed="#B" n="175-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>restri: et est haec. Sic extra paradisum adam 
+      <lb ed="#B" n="2"/>creari debuit / vt creatus intra poneretur. 
+      <lb ed="#B" n="3"/>Prima pars diciti / quod Adam debuit creari ex 
+      <lb ed="#B" n="4"/>tra paradisum. Probatur medio doc. irrefra 
+      <lb ed="#B" n="5"/>gabilis fratris Alexam. tali modo. Hon creari 
+      <lb ed="#B" n="6"/>debuit vt magis ad virtutes proficeret: sed  
+      <lb ed="#B" n="7"/>sic est creando eum extra paradisum: igitur. 
+      <lb ed="#B" n="8"/>Maior patet ex diuina bonitate / quae semper 
+      <lb ed="#B" n="9"/>largitur quod melius est. Sed probatur 
+      mi<lb ed="#B" n="10" break="no"/>nor: quia primo ex hoc prouocabatur ad gratiarum 
+      <lb ed="#B" n="11"/>actiones deo / qui de extra eum in tale 
+      addu<lb ed="#B" n="12" break="no"/>xerat palacium: secundo ad humilitatem in hoc 
+      <lb ed="#B" n="13"/>quod aduertebat non esse locum suae creationis: 
+      <lb ed="#B" n="14"/>tertio ad apicem contemplationis: quia 
+      humili<lb ed="#B" n="15" break="no"/>atio debita ad hoc prouebit: et quod non fuerit 
+      <lb ed="#B" n="16"/>de facto creatus in paradiso: patet ex glo. 
+      <lb ed="#B" n="17"/>super illud: Plantauerat autem dominus deus 
+      <lb ed="#B" n="18"/>etc. diciti / quod quia deus sciebat ipsum 
+      peccatu<lb ed="#B" n="19" break="no"/>rum / noluit eum facere in paradiso: fuisset 
+      <lb ed="#B" n="20"/>enim sibi maioris doloris occasio / dum cogi 
+      <lb ed="#B" n="21"/>tasset quod locus ille ex sua conditione sibi 
+      de<lb ed="#B" n="22" break="no"/>beretur. Et si dicatur / quod vir extat perfectior mu 
+      <lb ed="#B" n="23"/>liere: et tamen mulier ibidem fuit creata de 
+      <lb ed="#B" n="24"/>costis adae: vt patet ex textu. Dicendum quod 
+      <lb ed="#B" n="25"/>non fuit propter nobilitatem mulieris / sed 
+      so<lb ed="#B" n="26" break="no"/>lum vt sibi magis obediret: aduertens 
+      quanm<lb ed="#B" n="27" break="no"/>ta bona eidem fecisset / etiam in paradiso eam 
+      <lb ed="#B" n="28"/>creando: quod adae non fecerat. Et quare non 
+      <lb ed="#B" n="29"/>condidit angelos extra empireum: vt pronoca 
+      <lb ed="#B" n="30"/>ret ad humilitatem: sicut fecit hominem extra 
+      <lb ed="#B" n="31"/>paradisum? Dicendum quod non est simile: quia an 
+      <lb ed="#B" n="32"/>geli sunt perspicacioris nature: ideo habue 
+      <lb ed="#B" n="33"/>runt vnde magis conuerti debuerunt quam adam. 
+      <lb ed="#B" n="34"/>Sed dicit secunda pars quod debuit poni in para 
+      <lb ed="#B" n="35"/>disum illum postquam creatus fuit. Probatur. 
+      <lb ed="#B" n="36"/>Homini puro et innocenti locus debetur in 
+      <lb ed="#B" n="37"/>nocuus: huiusmodi erat adam quia innocens: huiusmodi 
+      <lb ed="#B" n="38"/>erat paradisus terestris / ex prima 
+      conclusio<lb ed="#B" n="39" break="no"/>ne: igitur. Et tantum de secundo articulo. 
+      <lb ed="#B" n="40"/>Quantum ad tertium 
+      articu<lb ed="#B" n="41" break="no"/>lum sunt 
+      <lb ed="#B" n="42"/>ttes difficultates.
+</p>
+               <p xml:id="WuV37d-e79939-d1e1454">
+¶ Prima. Qua die 
+      <lb ed="#B" n="43"/>fuit terrestris paradisus conditus? Dicen 
+      <lb ed="#B" n="44"/>dum quod tertia / quando dicit deus: Serminet terra 
+      <lb ed="#B" n="45"/>herbam virentem etc. et hoc est quod dicitur: Pla 
+      <lb ed="#B" n="46"/>tauerat autem etc. Istud a principio / debet in 
+      <lb ed="#B" n="47"/>telligi: a principio id est in tertia diei 
+      distinctio<lb ed="#B" n="48" break="no"/>nis.
+</p>
+               <p xml:id="WuV37d-e79939-d1e1470">
+¶ Secunda difficultas. Qua hora 
+      <lb ed="#B" n="49"/>diei sextae Adam fuit creatus? Dicendum quod 
+      <!--367.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>de mane quasi inter quartam et quaentam horas 
+      <lb ed="#B" n="51"/>post noctem mediam: quia tempore aequinoctii quasi il 
+      <lb ed="#B" n="52"/>la hora incipit dicit: adam vero fuit conditus 
+      cir<lb ed="#B" n="53" break="no"/>ca timpus equinoctii.
+</p>
+               <p xml:id="WuV37d-e79939-d1e1489">
+¶ Tertia difficultas 
+      <lb ed="#B" n="54"/>Quanta distantia est a loco creationis Adae 
+      <lb ed="#B" n="55"/>vsque ad terrestrem paradisum: Dicendum quod est 
+      <lb ed="#B" n="56"/>valde magna via: quod patet sic. Damascus 
+      <lb ed="#B" n="57"/>enim vbi adam fuit creatus est in quarto climate si 
+      <lb ed="#B" n="58"/>cuti hierilisum: quae dicitur medium terre habitabi 
+      <lb ed="#B" n="59"/>lis: sicut quartum clima est medium inter 
+      se<lb ed="#B" n="60" break="no"/>ptem climata: et ita versus paralellam aequinoctii 
+      <lb ed="#B" n="61"/>computando / adminus sunt adhuc tria integra 
+      <lb ed="#B" n="62"/>climata / et vna pars quarti. Si autem sumamus 
+      <lb ed="#B" n="63"/>climata ad paralellam tropici estiualis seu 
+      <lb ed="#B" n="64"/>aequinoctii: rursus paradisus proprie est in medio 
+      <lb ed="#B" n="65"/>illius paralellae quae non est indiuisibilis simpliciter: 
+      <lb ed="#B" n="66"/>vnde quasi de medio vel longe plus est quam de 
+      <lb ed="#B" n="67"/>hic hierusalem: et tamen subito fuit translatus 
+      il<lb ed="#B" n="68" break="no"/>luc. Et tantum de tertio articulo. Et sic patet ad  
+      <lb ed="#B" n="69"/>quaestionem / quod videlicet Adam anima eidem 
+      infu<lb ed="#B" n="70" break="no"/>la fuit in terrestri collocatus paradiso. Et 
+      <lb ed="#B" n="71"/>tunc ad argumenta.
+</p>
+               <p xml:id="WuV37d-e79939-d1e1531">
+¶ Ad primum: dicendum ad er 
+      <lb ed="#B" n="72"/>minorem / quod sub aequinoctiali. Et quod obiicit in 
+      <lb ed="#B" n="73"/>de tropico circulo: dico quod nequaquam est simile: 
+      <lb ed="#B" n="74"/>quia sub tropico est exalatio sine refrigerio 
+      <lb ed="#B" n="75"/>nisi modico valde sub aequinoctio non propter 
+      <lb ed="#B" n="76"/>iam dicta.
+</p>
+               <p xml:id="WuV37d-e79939-d1e1544">
+¶ Ad secundum dico ad minorem: pri  
+      <lb ed="#B" n="77"/>mo quod ligna erant ad comedendum. scilicet fructus 
+      li<lb ed="#B" n="78" break="no"/>gnorum / et maxime lignum vitae: vt patebit 
+      in<lb ed="#B" n="79" break="no"/>fra / nec tamen sequitur quin fuerit locus conueniens 
+      <lb ed="#B" n="80"/>eius statui: quia in promptu habebat sine 
+      tri<lb ed="#B" n="81" break="no"/>sticia: vnde sibi satisfacere poterat. Et quod 
+      <lb ed="#B" n="82"/>obiicit de aere et de igne / iam patuit.
+</p>
+               <p xml:id="WuV37d-e79939-d1e1560">
+¶ Ad  
+      <lb ed="#B" n="83"/>tertium iam patuiti quod extra: nec obstat de mu 
+      <lb ed="#B" n="84"/>liere / vt patuit.
+</p>
+            </div>
+            <div xml:id="WuV37d-e79939-Dd1e1568" type="et-conclusiones">
+               <head xml:id="WuV37d-e79939-Hd1e1570">Conclusiones</head>
+               <p xml:id="WuV37d-e79939-d1e1573">
+¶ Ex praesenti autem distin. 
+      <lb ed="#B" n="85"/>sicut etc. Prima coclusio. Corpus producitur 
+      <lb ed="#B" n="86"/>adae nobilitur: mens et infunditur tunc mirabilitur. 
+      <lb ed="#B" n="87"/>Dicit conclusio / quod anima et corpus adae fuerunt erg 
+      <lb ed="#B" n="88"/>creatae a deo mirabiliter. Et ponitur a 
+      princi<lb ed="#B" n="89" break="no"/>pio vsque ibi: Sed solet etc.
+</p>
+               <p xml:id="WuV37d-e79939-d1e1586">
+¶ Secunda conclusio. 
+      <lb ed="#B" n="90"/>Uirilis aetatis est adam productus / atque quantita 
+      <lb ed="#B" n="91"/>tis in esse deductus. Dicit conclusio / quod fuit Adam 
+      <lb ed="#B" n="92"/>creatus in aetate et quantitate virili. Et 
+      po<lb ed="#B" n="93" break="no"/>nitur a praedicto ca. vsque ibi: hominem autem etc. 
+      </p>
+               <p xml:id="WuV37d-e79939-d1e1597">
+                  <lb ed="#B" n="94"/>¶ Tertia conclusio. Est suauiffimus paradisus 
+      <lb ed="#B" n="95"/>positus et pulcherrimis fructibus consitus. Dicit 
+      <lb ed="#B" n="96"/>conclusio / quod terrestris paradisus est lignorum 
+      <lb ed="#B" n="97"/>et fructuum amenitate suauissimus. Et poni 
+      <lb ed="#B" n="98"/>tur a praedicto ca. vsque ad finem etc.
+</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

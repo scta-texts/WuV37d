@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 13</title>
+            <author ref="#WilliamDeVaurouillon">William de Vaurouillon</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 13</title>
+               <date when="2021-06-19">June 19, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-bvbVBV">Basel 1510</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-06-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="273-v"/>
+            <cb ed="#B" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="WuV37d-f26378"><!-- l3d13 -->
+            <head xml:id="WuV37d-f26378-Hd1e108">Distinctio 13</head>
+            <div xml:id="WuV37d-f26378-Dd1e111" type="circa-textum">
+               <head xml:id="WuV37d-f26378-Hd1e113">Circa textum</head>
+               <p xml:id="WuV37d-f26378-d1e116">
+                  <lb ed="#B" n="82"/>Distinctio. 13. determinat de pro 
+      <lb ed="#B" n="83"/>gressum christi quantum ad eius conuer 
+      <lb ed="#B" n="84"/>atione et operatione quatum ad 
+      ple<lb ed="#B" n="85" break="no"/>nitudine gratie et sapientiae.
+    </p>
+               <p xml:id="WuV37d-f26378-d1e127">
+                  <lb ed="#B" n="86"/>Preterea 
+      sci<lb ed="#B" n="87" break="no"/>Nendum est christum secundum 
+      <lb ed="#B" n="88"/> hominem ab ipa 
+      cocepti<lb ed="#B" n="89" break="no"/>one gratiae plenitudinem 
+      <lb ed="#B" n="90"/>recepisse etc. Hic signatur 
+      <lb ed="#B" n="91"/>13. dist. huius textii. quae sic continuatur ad praecedem 
+      <lb ed="#B" n="92"/>tem. Nam postquam in praecedenti dist. naturae 
+      posi<lb ed="#B" n="93" break="no"/>ta est assumpte entitas: Nunc in praesenti dist. 
+      <lb ed="#B" n="94"/>simul gratiae et sapientiae declaratur in christo 
+      <lb ed="#B" n="95"/>donata bonitas. Et habet diuidi praesens 
+      di<lb ed="#B" n="96" break="no"/>stinctio in tres partes principales. In pri¬ 
+      <!--564.xml-->
+      <pb ed="#B" n="274-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>ma determinatur veritas. In secunda illum ina 
+      <lb ed="#B" n="2"/>tur falsitas. In tertia manifestatur 
+      autctori<lb ed="#B" n="3" break="no"/>tas. prima in principio. secunda ibi. Huic 
+      <lb ed="#B" n="4"/>autem videtur obuiare etc. tertia ibi. Alibi tamen 
+      <lb ed="#B" n="5"/>scriptum reperitur. Et haec duabus primis par 
+      <lb ed="#B" n="6"/>tibus indiuisis manentibus: in tres partes 
+      di<lb ed="#B" n="7" break="no"/>uiditur. In prima ex auctoritate patet 
+      ob<lb ed="#B" n="8" break="no"/>iectio. In secunda ex subtilitate datur solu 
+      <lb ed="#B" n="9"/>tio. In tertia pro securitate est deculatio. prius 
+      <lb ed="#B" n="10"/>ma in principio. secunda ibi. Haec verba 
+      <lb ed="#B" n="11"/>Ambrosii. tertia ibi. Sed ex causa illius 
+      di<lb ed="#B" n="12" break="no"/>cti etc. Et haec est diuisio etc. 
+      </p>
+            </div>
+            <div xml:id="WuV37d-f26378-Dd1e187">
+               <head xml:id="WuV37d-f26378-Hd1e189">Quaestio</head>
+               <p xml:id="WuV37d-f26378-d1e192">
+                  <lb ed="#B" n="13"/>¶ Quaestio ista astruit primo 
+      chri<lb ed="#B" n="14" break="no"/>sto summam gratia esse collatam: et 
+      <lb ed="#B" n="15"/>quomodo extat summe fruitionis 
+      princi<lb ed="#B" n="16" break="no"/>piu: ea propter angelorum et hominum ca 
+      <lb ed="#B" n="17"/>put dicitur. secundo de gratia vnionis 
+      <lb ed="#B" n="18"/>a gratia singulsari et capitis 
+      separabili<lb ed="#B" n="19" break="no"/>tate. vide <ref xml:id="WuV37d-f26378-Rd1e209">
+                     <name xml:id="WuV37d-f26378-Nd1e211">sco.</name> ibidem</ref> contra <name xml:id="WuV37d-f26378-Nd1e215">Egi de ro.</name> 
+                  <lb ed="#B" n="20"/>et <re>hen. quat. 2. q. i. </re>
+               </p>
+               <p xml:id="WuV37d-f26378-d1e224">
+                  <lb ed="#B" n="21"/>Utrum singula 
+      <lb ed="#B" n="22"/>ris personae gratia vnionis et capitus in 
+      <lb ed="#B" n="23"/>christo iesu in supremo possit collo 
+      <lb ed="#B" n="24"/>o cari: Et arutut quod non triplici medio.
+</p>
+               <p xml:id="WuV37d-f26378-d1e235">
+¶ Priu 
+      <lb ed="#B" n="25"/>mo sic. Si gratia christi esset summa: ita 
+      <lb ed="#B" n="26"/>quod non posset ei fieri additio aut hoc esset 
+      <lb ed="#B" n="27"/>ex parte formae: aut secundo ex parte 
+      rece<lb ed="#B" n="28" break="no"/>ptium scilicet animae christi. aut tertio ex parte agen 
+      <lb ed="#B" n="29"/>tis dei: sed neutrum est dandum. igitur etc. 
+      <lb ed="#B" n="30"/>Maior patet per diuisionem sufficientem. 
+      <lb ed="#B" n="31"/>Sed probatur minor. Primo quod non sit ex 
+      <lb ed="#B" n="32"/>parte formae scilicet ipsius gratie: quia est 
+      par<lb ed="#B" n="33" break="no"/>ticipatio charitatis infinite: et ita nequit 
+      <lb ed="#B" n="34"/>tantum crescere quin adhuc distet ab ea in 
+      <lb ed="#B" n="35"/>infinitum: nec secundo est ex parte suscipientis 
+      <lb ed="#B" n="36"/>scilicet animae christi: quia forma augmentat 
+      <lb ed="#B" n="37"/>capacitatem suscipientis: et ita quanto 
+      for<lb ed="#B" n="38" break="no"/>ma est perfectior: tanto capacitas suscipien 
+      <lb ed="#B" n="39"/>tis amplior efficitur. Nec tertio est ex par 
+      <lb ed="#B" n="40"/>te dei agentis: cum infinite sit virtutis: et 
+      <lb ed="#B" n="41"/>per consequens nullo finito artatur.
+</p>
+               <p xml:id="WuV37d-f26378-d1e274">
+¶ Secundo  
+      <lb ed="#B" n="42"/>arguitur sic. Summo gratificabili solum 
+      sum<lb ed="#B" n="43" break="no"/>ma est conferibilis gratia. sed anima 
+      chri<lb ed="#B" n="44" break="no"/>sti non est summum gratificabile: ergo ei 
+      sum<lb ed="#B" n="45" break="no"/>ma nequit conferri gra. Maior patet ex eo quod 
+      <lb ed="#B" n="46"/>forma ad modum recipientis recipitur: vnde alia 
+      <lb ed="#B" n="47"/>species creatur in oculo: alia in intellectu: quia ali 
+      <!--564.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="48"/>ud est recipiens oculus aliud intellectus. Sed 
+      <lb ed="#B" n="49"/>minor probatur: quia angeli in naturalibus no 
+      <lb ed="#B" n="50"/>biliores sunt animabus: cum ergo anima christi non 
+      <lb ed="#B" n="51"/>exiuerit aliarum animarum naturam: relinquitur propo 
+      <lb ed="#B" n="52"/>situm.
+</p>
+               <p xml:id="WuV37d-f26378-d1e306">
+¶ Tertio arguitur sic. Summa 
+      natura<lb ed="#B" n="53" break="no"/>non est facta: ergo nec summa gratia: et per consequens 
+      <lb ed="#B" n="54"/>christo non est collata summa gratia. antecedens patet 
+      <lb ed="#B" n="55"/>quia quacumque natura data creata: illa est 
+      fi<lb ed="#B" n="56" break="no"/>nita: et per consequens gradus aliquis ei potest 
+      <lb ed="#B" n="57"/>fieri. Sed probatur consequenta. magis emim 
+      con<lb ed="#B" n="58" break="no"/>sistit vniuersi perfectio in speciebus quam in 
+      <lb ed="#B" n="59"/>indiuiduis: illa autem substantia creata se 
+      ha<lb ed="#B" n="60" break="no"/>beret in vniuerso ad modum speciei: 
+      gra<lb ed="#B" n="61" break="no"/>tia autem summa in christo vnicum solum 
+      fo<lb ed="#B" n="62" break="no"/>ret gratiae indiuiduum.
+</p>
+               <p xml:id="WuV37d-f26378-d1e330">
+¶ In oppositum 
+      ar<lb ed="#B" n="63" break="no"/>guitur auctoritate Aug. 13. de tri. ca. 19. 
+      <lb ed="#B" n="64"/>Summa gratia est in rebus per trimpus orteis: 
+      <lb ed="#B" n="65"/>vt deus homo fieret: et homo deus. Et magister in 
+      <lb ed="#B" n="66"/>littera. Credendum est deum tantam gratiam illi 
+      <lb ed="#B" n="67"/>animae contulisse quanta potuit conferri: potuit 
+      <lb ed="#B" n="68"/>autem conferri summa: alioquin iam maior 
+      <lb ed="#B" n="69"/>posset conferri quae esset summa. 
+      </p>
+               <p xml:id="WuV37d-f26378-d1e348">
+                  <lb ed="#B" n="70"/>¶ In ista quaestione sunt tres articli declarandi 
+      <lb ed="#B" n="71"/>Primus est terminorum declaratiuus 
+      <lb ed="#B" n="72"/>Quorum Secundus est quaestionis responsiuus. 
+      <lb ed="#B" n="73"/>Tertius est dubiorum motiuus; 
+      <lb ed="#B" n="74"/>articu 
+      <lb ed="#B" n="75"/>lum 
+      ter<lb ed="#B" n="76" break="no"/>mini sunt: gratia vnionis: gratia singula 
+      <lb ed="#B" n="77"/>ris personae: et gratia capitis.
+</p>
+               <p xml:id="WuV37d-f26378-d1e368">
+¶ Prim 
+      <lb ed="#B" n="78"/>ergo terminus est gratia vnionis. 
+      <lb ed="#B" n="79"/>Unde notandum quod gratia vnionis in christo 
+      <lb ed="#B" n="80"/>dicitur tripliciter. Primo dicitur gratia vnionis 
+      gra<lb ed="#B" n="81" break="no"/>tuita dei bonitas naturam humanam secum 
+      <lb ed="#B" n="82"/>vniens: et hoc modo accipiendo gratia vnio 
+      <lb ed="#B" n="83"/>nis nominat quid increatum. Secundo dicitur gratia 
+      <lb ed="#B" n="84"/>vnionis quadam relatio fundata in naturam 
+      hu<lb ed="#B" n="85" break="no"/>mana: quam diuinum verbum terminat: qua vnio 
+      <lb ed="#B" n="86"/>ne natura humana dicitur verbo vnita: et 
+      <lb ed="#B" n="87"/>verbum ei vnitum: sicut suo modo quis simili 
+      <lb ed="#B" n="88"/>tudine similis dicitur: verum est tamen quod aliqui 
+      <lb ed="#B" n="89"/>ponunt in diuino verbo quendam 
+      respe<lb ed="#B" n="90" break="no"/>ctu rationis quem nominant vnionem: et hoc 
+      <lb ed="#B" n="91"/>respectu dicunt dici verbum vnitum: vnio 
+      <lb ed="#B" n="92"/>nem autem in natura assumpta dicunt 
+      rela<lb ed="#B" n="93" break="no"/>tionem realem. Tertio dicitur gratia vni 
+      <lb ed="#B" n="94"/>onis quidam habitus supernaturalis: quae 
+      cha<lb ed="#B" n="95" break="no"/>ritas nominatur: qui de congruo hanc sequi 
+      <lb ed="#B" n="96"/>tur vnionem: decet enim hominem deum seu na¬ 
+      <!--565.xml-->
+      <pb ed="#B" n="274-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>turam assumptam charismatibus informari 
+      <lb ed="#B" n="2"/>charitatis.
+</p>
+               <p xml:id="WuV37d-f26378-d1e423">
+¶ Secundus terminus est 
+      <lb ed="#B" n="3"/>gratia singularis personae. Unde 
+      notan<lb ed="#B" n="4" break="no"/>dum quod gratia singularis personae in christo 
+      <lb ed="#B" n="5"/>dicitur tripliciter: vt potest trahi ex q. 2. 
+      ar<lb ed="#B" n="6" break="no"/>ticuli primi a doctore deuoto. Primo quam 
+      <lb ed="#B" n="7"/>tum ad habitum: hoc modo quippe fuit sin 
+      <lb ed="#B" n="8"/>gularis in christo gratia: qui omnes 
+      habi<lb ed="#B" n="9" break="no"/>tus habuit virtutum: semota imperfectione 
+      <lb ed="#B" n="10"/>Unde. Et vidimus gloriam eius gloriam qua 
+      <lb ed="#B" n="11"/>si vnigeniti a patre: plenum gratiae et verita 
+      <lb ed="#B" n="12"/>tis. Secunda gratia singularis in christo 
+      <lb ed="#B" n="13"/>est quantum ad vsus virtutum: quia omnes virtu 
+      <lb ed="#B" n="14"/>tes in christo habuerunt vsus suos semota 
+      <lb ed="#B" n="15"/>imperfectione: ideo dicitur habuisse omnes 
+      <lb ed="#B" n="16"/>sensus spirituales: alii sancti solum tactum. Ter 
+      <lb ed="#B" n="17"/>tia gratia singularis in christo dicitur 
+      quan<lb ed="#B" n="18" break="no"/>tum ad effectum: quia meritum christi a talibus 
+      <lb ed="#B" n="19"/>exiens virtutibus erat sufficiens quantum 
+      <lb ed="#B" n="20"/>in se fuit pro infinitis milibus hominum: et 
+      nul<lb ed="#B" n="21" break="no"/>la istarum trium in alia reperitur creatura: ideo 
+      <lb ed="#B" n="22"/>vocatur gratia singularem personae in christo 
+      </p>
+               <p xml:id="WuV37d-f26378-d1e469">
+                  <lb ed="#B" n="23"/>¶ Tertius terminus est gratia. ca. 
+      <lb ed="#B" n="24"/>pitis. Unde notandum quod gratia capitis in 
+      <lb ed="#B" n="25"/>christo dicitur tripliciter. Dicit enim sanctus 
+      <lb ed="#B" n="26"/>tho. arti. 2. q. 1. quod caput super omnia alia mem 
+      <lb ed="#B" n="27"/>bra tres habet conditiones. Prima est in 
+      <lb ed="#B" n="28"/>excellentia dignitatis: et hoc in tribus: in al 
+      <lb ed="#B" n="29"/>titudine situs: in nobilitate potentiarum: quia 
+      <lb ed="#B" n="30"/>nobiliores animae potentiae in ea sunt: veluti 
+      <lb ed="#B" n="31"/>imaginatio: memoria: et consimiles. In con 
+      <lb ed="#B" n="32"/>prehensione: quia in capite congregantur omnes 
+      <lb ed="#B" n="33"/>sensus. Ideo ab isiud. 10. ethimologen. 
+      di<lb ed="#B" n="34" break="no"/>ctum est caput a capio capis. Ex prima in 
+      <lb ed="#B" n="35"/>christo: secundum diuinitatem est gratia capitis.  
+      <lb ed="#B" n="36"/>Unde apostolus. Caput viri christus: caput chri 
+      <lb ed="#B" n="37"/>sti deus. Ex secunda et tertia secundum etiam 
+      huma<lb ed="#B" n="38" break="no"/>nitatem assumptam caput est omnium: quia super 
+      <lb ed="#B" n="39"/>habundat in nobilitate et capacitate. 
+      Secun<lb ed="#B" n="40" break="no"/>da conditio principalis capitis: quia caput in 
+      <lb ed="#B" n="41"/>fluit membris aliis sensum et motum: sensum 
+      <lb ed="#B" n="42"/>a parte anteriori capitis: sed motum a par 
+      <lb ed="#B" n="43"/>te posteriori: virtute motiua descendente in 
+      <lb ed="#B" n="44"/>michar: seu vicario cerebri: et quo ad hanc 
+      <lb ed="#B" n="45"/>proprietatem dicitur christus caput: quo ad 
+      di<lb ed="#B" n="46" break="no"/>uinitatem principaliter efficiendo: quo ad 
+      <lb ed="#B" n="47"/>humanitatem per modum meriti merendo fi 
+      <lb ed="#B" n="48"/>dem: per modum sensus et charitatem nobis 
+      <lb ed="#B" n="49"/>per modum motus. Tertia conditio est: quia 
+      <!--565.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>dirigit caetera membra: sic christus vtriusque 
+      <lb ed="#B" n="51"/>naturae ratione. Et secundum has tres conditiones 
+      <lb ed="#B" n="52"/>gratia capitis dicitur perfectione: sicut leo 
+      <lb ed="#B" n="53"/>dicitur caput animalium: quia est perfectius prin 
+      <lb ed="#B" n="54"/>cipio: sicut fons dicitur caput fluuii vel ca 
+      <lb ed="#B" n="55"/>put libri seu viae directione: sicut dicitur 
+      ca<lb ed="#B" n="56" break="no"/>put rector gregis. Ex quo ad has tres con 
+      <lb ed="#B" n="57"/>ditiones christus dicitur caput tam angelorum quam 
+      <lb ed="#B" n="58"/>hominum: habet autem quo ad homines ex speciali 
+      <lb ed="#B" n="59"/>conformitatem in natura: sicut caput ad caete 
+      <lb ed="#B" n="60"/>ra membra. Differunt autem he tres gratiae secundum 
+      <lb ed="#B" n="61"/>eundem thomam arti. 1. q. 2. qui a gratia 
+      sin<lb ed="#B" n="62" break="no"/>gularis personae aspicit magis causam for 
+      <lb ed="#B" n="63"/>malem: gratia capitis causam efficientem 
+      <lb ed="#B" n="64"/>gratia vnionis causam finalem. 
+      <lb ed="#B" n="65"/>Quo ad secundum articulum sunt 
+      <lb ed="#B" n="66"/>tres 
+      conclusio<lb ed="#B" n="67" break="no"/>nes. Prima conclusio est de gratia 
+      singu<lb ed="#B" n="68" break="no"/>laris personae in christo. Secunda de gra 
+      <lb ed="#B" n="69"/>tia capitis. Tertia de gratia vnionis. 
+      </p>
+               <p xml:id="WuV37d-f26378-d1e579">
+                  <lb ed="#B" n="70"/>¶ Prima igitur est haec. Christo 
+      col<lb ed="#B" n="71" break="no"/>lata summa gratia summe in eo create 
+      <lb ed="#B" n="72"/>fruitionis extat principium. Dicit prima 
+      <lb ed="#B" n="73"/>pars conclusionis: quod christo collata est 
+      sun<lb ed="#B" n="74" break="no"/>ma gratia singularis probatur. Si enim 
+      chri<lb ed="#B" n="75" break="no"/>sto summa collata non est gratia: quaero 
+      cau<lb ed="#B" n="76" break="no"/>sam. Aut enim ex eo est: quia summa gratia 
+      <lb ed="#B" n="77"/>non est creabilis: aut si est creabilis esset 
+      in<lb ed="#B" n="78" break="no"/>finita: et non posset recipi in anima christi: 
+      <lb ed="#B" n="79"/>quae est finita: aut tertio: quia non decet 
+      chri<lb ed="#B" n="80" break="no"/>stum summam habere gratiam: sed neutrum est 
+      <lb ed="#B" n="81"/>verum. igitur. primo non est verum: quod summa 
+      <lb ed="#B" n="82"/>gratia non est creabilis. Arguo sic. Detur 
+      <lb ed="#B" n="83"/>christi gratia: quaero an deus potest vltra 
+      <lb ed="#B" n="84"/>istam aliam creare: aut non: si non: ergo ista est 
+      <lb ed="#B" n="85"/>summa creabilis: si sic: quaero rursus de ista 
+      <lb ed="#B" n="86"/>et ita procedetur in infinitum Et uvltra infer 
+      <lb ed="#B" n="87"/>tur quod vna gratia poterit creari quae erit in 
+      <lb ed="#B" n="88"/>infinitum perfectior gratia christi: et ita intens 
+      <lb ed="#B" n="89"/>ue infinita. Rursus sequeretur quod aliquid erit 
+      <lb ed="#B" n="90"/>creabile quod creari non poterit: quia 
+      quam<lb ed="#B" n="91" break="no"/>tumcunque possit deus creare perfectius pote 
+      <lb ed="#B" n="92"/>rit. Et habet robur suum ista ratio ex dicto 
+      <lb ed="#B" n="93"/>philosophi in. 2. de anima. Cuiuslibet enim rei natura 
+      <lb ed="#B" n="94"/>lis constitutus est terminus augmenti. Unde 
+      <lb ed="#B" n="95"/>et auerro vs vult quod quando itur ad formam 
+      <lb ed="#B" n="96"/>est status: nec est procedendum in infinitum: bae 
+      <lb ed="#B" n="97"/>ne autem in ordine ad materiam. Charitas autem 
+      <lb ed="#B" n="98"/>extat forma. ex quo patet summam gratiam 
+      <!--566.xml-->
+      <pb ed="#B" n="275-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>esse creabilem. Ex quo secundo probatur / quod creata 
+      <lb ed="#B" n="2"/>gratia summa / non est infinita: et ita non obuiai 
+      <lb ed="#B" n="3"/>quan in anima christi recipi possit. Sed tertium. scilice 
+      <lb ed="#B" n="4"/>quod christum non deceat summam habere gratiam: 
+      im<lb ed="#B" n="5" break="no"/>probatur ex hoc quod etiam christus secundum humanita 
+      <lb ed="#B" n="6"/>tem in potioribus bonis dei sedet: et supra su 
+      <lb ed="#B" n="7"/>premum spicitum collocatur. Ex quo recte dicit 
+      do<lb ed="#B" n="8" break="no"/>ctor subti. 1. q. 2. praesentis dist. quod si contingat 
+      <lb ed="#B" n="9"/>deficere / aut minus laudando christum quantum 
+      <lb ed="#B" n="10"/>ad humanitatem aut nimis: melius est excedere 
+      <lb ed="#B" n="11"/>quam deficere. Ex quo primo patet / in anima christis 
+      <lb ed="#B" n="12"/>gratiam creatam esse ponendam. Nec est simile si 
+      <lb ed="#B" n="13"/>quis obiiciat: quia adueniente lumine solis non 
+      <lb ed="#B" n="14"/>videtur lumen stellae: et ita adueniente sole id est 
+      <lb ed="#B" n="15"/>diuinitate in humanitate christi: de nullo 
+      <lb ed="#B" n="16"/>videtur seruire ista creata charitas / tam lumen 
+      <lb ed="#B" n="17"/>enim solis quam stellae effectiue se habent influem 
+      <lb ed="#B" n="18"/>do: charitas autem informatiue se habet in anima: 
+      <lb ed="#B" n="19"/>nec est in christo ista gratia ratione personae: licet 
+      <lb ed="#B" n="20"/>dicatur singularis personae gratia / sed ratione 
+      as<lb ed="#B" n="21" break="no"/>sumptae naturae: vnde licet ita filius dei natura 
+      <lb ed="#B" n="22"/>lis sit christus / quod non adoptiuus: non tamen 
+      sequi<lb ed="#B" n="23" break="no"/>tur quod creatam non habeat gratiam: valde enim 
+      <lb ed="#B" n="24"/>distant dicere filium dei non habere ius ex se in 
+      hae<lb ed="#B" n="25" break="no"/>reditate dei patris quod dicit adoptio / et di 
+      <lb ed="#B" n="26"/>cere eum ratione humanitatis habere creatam ergo 
+      <lb ed="#B" n="27"/>tiam. Ex quo patet secundo / quod christi charitas est 
+      <lb ed="#B" n="28"/>finita. Et si dicatur: quia scribitur. Non est ei 
+      da<lb ed="#B" n="29" break="no"/>tus spiritus ad mensuram: exquo enim habet sine modo 
+      <lb ed="#B" n="30"/>suraigratia est infinita. Dicit doc. deuo. q. 2. 
+      <lb ed="#B" n="31"/>articuli primi / quod illa scilicet auctoritas potest intel 
+      <lb ed="#B" n="32"/>ligi de datione aeterna per ideomatum commu 
+      <lb ed="#B" n="33"/>nicationem: et sic est simpliciter verum quod ei 
+      <lb ed="#B" n="34"/>non est datus ad mensuram spiritus. Potest 
+      rur<lb ed="#B" n="35" break="no"/>sus capi pro dono creato: et sic est verum respe 
+      <lb ed="#B" n="36"/>ctiue quo ad nos / non autem simpliciter: quia 
+      <lb ed="#B" n="37"/>dona christo collata quasi sine proportione 
+      <lb ed="#B" n="38"/>excedunt dona collata nobis. Thomas 
+      <lb ed="#B" n="39"/>autem in eadem. q. dicit tres causas. Unde illa 
+      <lb ed="#B" n="40"/>auctoritas habet veritatem. Prima est pro 
+      <lb ed="#B" n="41"/>pter vnionem ad deum. Secunda / quia nihil 
+      fi<lb ed="#B" n="42" break="no"/>niretur vt inquit / nisi inquantum in alio recipitur: 
+      <lb ed="#B" n="43"/>vnde apud eum calor subs istens est in nitus / et 
+      <lb ed="#B" n="44"/>vniuersalia separata insnita. Et ita cum 
+      gra<lb ed="#B" n="45" break="no"/>tia in christo sit in supposito independen 
+      <lb ed="#B" n="46"/>te / habet quicquid ad rationem gratiae 
+      perti<lb ed="#B" n="47" break="no"/>net: et potest dici infinita quodammodo. Ter 
+      <lb ed="#B" n="48"/>tia causa: quia sufficit ad infinitos effectus quam 
+      <lb ed="#B" n="49"/>tum in se est. Sed sua salua reuerentia: ra¬ 
+      <!--566.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>tio secunda videtur falsa. Forma enim antequan 
+      <lb ed="#B" n="51"/>intelligatur in materia finita est ex ratione 
+      <lb ed="#B" n="52"/>propria: nec a materia aliquam habet 
+      finita<lb ed="#B" n="53" break="no"/>tem nisi solum extrinseam: ita color si per se 
+      subsi<lb ed="#B" n="54" break="no"/>steret / esset finitus ratione propria: et vniuersa 
+      <lb ed="#B" n="55"/>lia separata finita sunt: nec finiuntur ratione indi 
+      <lb ed="#B" n="56"/>uiduationis / nisi finitate extrinseca et qua 
+      <lb ed="#B" n="57"/>si per accidens. Ex quo tertio patet / quod gra 
+      <lb ed="#B" n="58"/>tia christi non est augmentabilis: vnde nec anima 
+      <lb ed="#B" n="59"/>christi ampliorem gratiam potest desidera 
+      <lb ed="#B" n="60"/>re: vnde et satiatur eius appetitus naturalis sic 
+      <lb ed="#B" n="61"/>deliberatiuus. Sed dicit secunda pars 
+      conclu<lb ed="#B" n="62" break="no"/>sionis quod summa gratia in christo creata 
+      <lb ed="#B" n="63"/>summae fruitionis extat principium / patet cla 
+      <lb ed="#B" n="64"/>re: quia exquo charitas ex dictis in primo lib. 
+      <lb ed="#B" n="65"/>distin. 16. est causa partialis fruitionis: per 
+      <lb ed="#B" n="66"/>fectior gratia est causa perfectioris et 
+      sum<lb ed="#B" n="67" break="no"/>ma summae. Nec valet si dicatur / quod 
+      ange<lb ed="#B" n="68" break="no"/>lus in natura est perfectior anima christi: et 
+      <lb ed="#B" n="69"/>ita perfectiorem poterit causare fruitionemis 
+      <lb ed="#B" n="70"/>supplet enim hoc summa gratia quae est in chri 
+      <lb ed="#B" n="71"/>sto: immo et augmentat. Uerum est tamen apud 
+      <lb ed="#B" n="72"/>doctorem subtilem. q. 3. praesentis distin. quod si tam 
+      <lb ed="#B" n="73"/>ta gratia collata esset angelo quanta 
+      chri<lb ed="#B" n="74" break="no"/>sto / non considerata diuinitate: perfectiorem 
+      <lb ed="#B" n="75"/>fruitionem eliceret angelus quam ille homo: vnde 
+      <lb ed="#B" n="76"/>si sit summa simpliciter fruitio creabilis 
+      <lb ed="#B" n="77"/>in christo: oportet dicere quod anima christi 
+      so<lb ed="#B" n="78" break="no"/>lum se habet passiue / recipiendo scilicet sicut 
+      reci<lb ed="#B" n="79" break="no"/>pit charitatem: verum est tamen quod adhuc 
+      da<lb ed="#B" n="80" break="no"/>to quod concurrat actiue / est de facto 
+      maxima<lb ed="#B" n="81" break="no"/>non tamen de possibili. Et si quaeratur: an 
+      se<lb ed="#B" n="82" break="no"/>mota per casum gratia ab anima christi posset 
+      <lb ed="#B" n="83"/>ne in tantam fruitionem? Dicendum quod sic / con 
+      <lb ed="#B" n="84"/>currente deo: cum omnis causalitas causae 
+      <lb ed="#B" n="85"/>secundae actiuae / possit suppleri a prima 
+      cau<lb ed="#B" n="86" break="no"/>sa actiua.
+</p>
+               <p xml:id="WuV37d-f26378-d1e841">
+¶ Secunda conclusio est de 
+      <lb ed="#B" n="87"/>gratia capitis in christo: et est haec. Ita 
+      gra<lb ed="#B" n="88" break="no"/>tia capitis hominum christus caput dicitur / 
+      <lb ed="#B" n="89"/>vt angelorum esse affirmetur. Dicit prima pars 
+      <lb ed="#B" n="90"/>conclusionis / quod christus dicitur esse caput 
+      ho<lb ed="#B" n="91" break="no"/>minum / probar. Illorum est caput christus  
+      <lb ed="#B" n="92"/>quibus sensum influit cognitionis / et 
+      mo<lb ed="#B" n="93" break="no"/>tum charitatis: et eisdem in natura 
+      confor<lb ed="#B" n="94" break="no"/>matur: sed huiusmodi omnes sunt homines respe 
+      <lb ed="#B" n="95"/>ctu christi: igitur etc. Maior patet ex simili 
+      <lb ed="#B" n="96"/>tudine capitis mystici ad caput verum / ex 
+      <lb ed="#B" n="97"/>primo articulo. Minor etiam de se nota est  
+      <lb ed="#B" n="98"/>De eius enim plenitudine nos omnes acce¬ 
+      <!--567.xml-->
+      <pb ed="#B" n="275-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>pimus et gratiam pro gratia. Unde glo. su 
+      <lb ed="#B" n="2"/>er illo verbo apostoli. Ipecundum caput 
+      dan<lb ed="#B" n="3" break="no"/>do. Nullum maius donum praestare posset 
+      <lb ed="#B" n="4"/>deus hominibus quam vt verbum suum per quod 
+      <lb ed="#B" n="5"/>condidit omnia faceret illis caput vt esset 
+      <lb ed="#B" n="6"/>filius dei et filius hominis: vnus deus cum pa 
+      <lb ed="#B" n="7"/>tre i vnus homo cum hominibus. Sed tunc 
+      <lb ed="#B" n="8"/>quaerit quis: qualiter est christus infidelium 
+      <lb ed="#B" n="9"/>caput / cum careant tam side quam gratia? 
+      Dicen<lb ed="#B" n="10" break="no"/>dum primo christum damnatorum seu hominum 
+      <lb ed="#B" n="11"/>seu daemonum non esse caput / prout hic de 
+      ca<lb ed="#B" n="12" break="no"/>pite loquitur. Dicendum vltra christum 
+      infide<lb ed="#B" n="13" break="no"/>lium esse caput solum in potentia: quia possunt 
+      <lb ed="#B" n="14"/>emendari et effici membra christi: ne plus sint 
+      <lb ed="#B" n="15"/>daemonis membra: fidelium autem non habentium 
+      <lb ed="#B" n="16"/>charitatem est caput christus ex parte sensus / 
+      <lb ed="#B" n="17"/>sed non motus: bonorum vero et ex parte 
+      sen<lb ed="#B" n="18" break="no"/>sus et ex parte motus: imperfecte tamen in 
+      <lb ed="#B" n="19"/>via: quia labi possunt / sed complete in patria. 
+      <lb ed="#B" n="20"/>Ex quo infertur christum esse caput tam anti 
+      <lb ed="#B" n="21"/>qui quam noui testamenti. Licet enim necdum 
+      <lb ed="#B" n="22"/>christus foret incarnatus: nullus tamen nisi in 
+      <lb ed="#B" n="23"/>fide christi extat saluatus: aut venturi. scilicet aut 
+      <lb ed="#B" n="24"/>iam nati.
+</p>
+               <p xml:id="WuV37d-f26378-d1e928">
+¶ Sed vnde est / cum cor sit principium 
+      <lb ed="#B" n="25"/>vitae / non caput: quod christus dicitur caput eccle 
+      <lb ed="#B" n="26"/>siae / non cor? Dicendum quod licet secundum mentem na 
+      <lb ed="#B" n="27"/>turalium (a quibus hac in parte dissonant 
+      me<lb ed="#B" n="28" break="no"/>dici) tor sit principium vitae et sensuum homi 
+      <lb ed="#B" n="29"/>nis: tamen manifestatur magis sensus in ca 
+      <lb ed="#B" n="30"/>pite: theologi autem ex apertis in occulta 
+      <lb ed="#B" n="31"/>et mystica deducuntur dei. Et patet quod eccle 
+      <lb ed="#B" n="32"/>sia antiqui testamenti non fuit acephala: 
+      <lb ed="#B" n="33"/>cum christum in fide haberet velut caput. Ex 
+      <lb ed="#B" n="34"/>quo infertur quod proprie in christo dicitur gratia 
+      <lb ed="#B" n="35"/>capitis effectiue ad membra mystica: et quod 
+      <lb ed="#B" n="36"/>christus est caputi tam hominum in via quam in 
+      <lb ed="#B" n="37"/>patria. Sed habet secunda pars 
+      conclusio<lb ed="#B" n="38" break="no"/>nis / quod christus est caput angelorum: non 
+      au<lb ed="#B" n="39" break="no"/>tem intelligendo secundum conformitatem 
+      natu<lb ed="#B" n="40" break="no"/>rae / sed influendo. Probatur per illud apostoli: Pro 
+      <lb ed="#B" n="41"/>posuit omnia instaurare in christo / quae in 
+      cae<lb ed="#B" n="42" break="no"/>lis sunt / et quae in terra. Ubi glo. In caelis: 
+      <lb ed="#B" n="43"/>id est angelorum numerum diminutum imple 
+      <lb ed="#B" n="44"/>re. Et infra. Ipsum dedit caput super omnem 
+      <lb ed="#B" n="45"/>ecclesiam. Ex quo patet christum esse caput / 
+      <lb ed="#B" n="46"/>tam militantis quam triumphantis ecclesiae. Nec 
+      <lb ed="#B" n="47"/>est mirum: cum lucifer nedum dicitur caput dae 
+      <lb ed="#B" n="48"/>monum / sed hominum peruersorum. Et patet 
+      <lb ed="#B" n="49"/>quod influit christus in angelis illuminatio 
+      <!--567.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>nes / purgationes et perfectiones. Licet enim 
+      <lb ed="#B" n="51"/>secundum humanam naturam angelis sit inferior: 
+      <lb ed="#B" n="52"/>eis tamen superior est gratia: secundum gratiam 
+      <lb ed="#B" n="53"/>autem fiunt huiusmodi influxus. Dicit tamen 
+      do<lb ed="#B" n="54" break="no"/>ctor deuotus. q. 3. articuli secundi / quod 
+      inquan<lb ed="#B" n="55" break="no"/>tum homo nullo modo influit angelis 
+      beatitu<lb ed="#B" n="56" break="no"/>dinem essentiale. scilicet visionem diuinae essentiae et 
+      <lb ed="#B" n="57"/>fruitionem / sed beatitudinem accidentalem. 
+      </p>
+               <p xml:id="WuV37d-f26378-d1e1006">
+                  <lb ed="#B" n="58"/>¶ Tertia concluisio est de gratia vnio 
+      <lb ed="#B" n="59"/>nis: et est haec. Oramenta vnionis sic ad esse 
+      ter<lb ed="#B" n="60" break="no"/>minatur: vt a gratia singulari et capitis 
+      que<lb ed="#B" n="61" break="no"/>at separari. Ista conclusio satis habita est 
+      <lb ed="#B" n="62"/>in virtute in praecedentibus distin. huius 
+      ter<lb ed="#B" n="63" break="no"/>tii: ideo probatur breviter vno verbo. Ut 
+      <lb ed="#B" n="64"/>enim habitum est distin. 2. Diuinum verbum po 
+      <lb ed="#B" n="65"/>test assumere naturam irrationalem aut 
+      li<lb ed="#B" n="66" break="no"/>gnum / aut lapidem: non quidem in vnitatem 
+      per<lb ed="#B" n="67" break="no"/>sone / sed suppositi. Ista quidem vnio tunc 
+      <lb ed="#B" n="68"/>facta ad esse terminaretur: et tamen tunc nec 
+      <lb ed="#B" n="69"/>esset gratia singularis naturae / nec gratia 
+      <lb ed="#B" n="70"/>capitis: quia talis natura non esset capax gra 
+      <lb ed="#B" n="71"/>tie: quod nominat gratia singularem personae: 
+      <lb ed="#B" n="72"/>nec influeret quod nominat gratia 
+      capi<lb ed="#B" n="73" break="no"/>tis. Ex quo patet quod etiam in christo possunt 
+      <lb ed="#B" n="74"/>abinuicem separari. Potuit nempe verbum 
+      di<lb ed="#B" n="75" break="no"/>uinum assumere humanitatem / non 
+      infunden<lb ed="#B" n="76" break="no"/>do ei gratiam. Rursum potuit illam naturam 
+      <lb ed="#B" n="77"/>sibi vnire et gratia decorare: et tamen quod nobis 
+      <lb ed="#B" n="78"/>non influeret: verum est tamen quod de facto 
+      in<lb ed="#B" n="79" break="no"/>uicem sunt: immo eadem possunt dici diuersa 
+      <lb ed="#B" n="80"/>intentione comparando. 
+      <lb ed="#B" n="81"/>
+      arti<lb ed="#B" n="82" break="no"/>culum 
+      <lb ed="#B" n="83"/>sunt tres difficultates.
+</p>
+               <p xml:id="WuV37d-f26378-d1e1065">
+¶ Prima: an 
+      sin<lb ed="#B" n="84" break="no"/>gularis in christo gratia fuerit cum 
+      plenitu<lb ed="#B" n="85" break="no"/>dine? Dicit doctor deuo. q. 3. articuli 
+      pri<lb ed="#B" n="86" break="no"/>mi quod sic. Unde ibi ponit tres plenitudines 
+      <lb ed="#B" n="87"/>super quas plenitudinem ponit christi. Est pri 
+      <lb ed="#B" n="88"/>mo plenitudo sufficientiae: de qua dicitur. 
+      Ste<lb ed="#B" n="89" break="no"/>phanus plenus gratia et for. etc. Secundo plenitu 
+      <lb ed="#B" n="90"/>do praerogatiuae / quae fuit in maria. Unde: Aue 
+      <lb ed="#B" n="91"/>maria gratia plena. Tertio plenitudo co 
+      <lb ed="#B" n="92"/>piae / quae est in numero ecclesiae. Unde dicitur: 
+      <lb ed="#B" n="93"/>Ascendit super omnes caelos / vt adimpleret 
+      <lb ed="#B" n="94"/>omnia. Plenitudo autem gratiae christi dici 
+      <lb ed="#B" n="95"/>tur superabundantiae. Unde. De eius 
+      plenitu<lb ed="#B" n="96" break="no"/>dine omnes accepimus.
+</p>
+               <p xml:id="WuV37d-f26378-d1e1096">
+¶ Secunda 
+      diffi<lb ed="#B" n="97" break="no"/>cultas. Utrum diuinum verbum posset 
+      rur<lb ed="#B" n="98" break="no"/>sus aliam humanitatem assumere / quae per¬ 
+      <!--568.xml-->
+      <pb ed="#B" n="276-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>suminam etiam gratiam diceretur caput homi 
+      <lb ed="#B" n="2"/>num. Dicit doctor subtilis. q. 1. quod sic: 
+      lo<lb ed="#B" n="3" break="no"/>quendo de potentia dei absoluta: et 
+      capi<lb ed="#B" n="4" break="no"/>endo summum negatiuae: quo scilicet nihil est com 
+      <lb ed="#B" n="5"/>munius: sicut dicuntur a Porphyrio decen 
+      <lb ed="#B" n="6"/>generalissima: et sic essent duo capita in ed 
+      <lb ed="#B" n="7"/>clesia eque prima: non autem affirmatiue: quia est 
+      <lb ed="#B" n="8"/>impossibile: quia sensus est hoc modo capien 
+      <lb ed="#B" n="9"/>do summum id est quod omnia alia excedit. Unde philosophu 
+      <lb ed="#B" n="10"/>hoc modo in. 5. thopicorum dicit / quod per superabum 
+      <lb ed="#B" n="11"/>dantiam dicitur / vni soli conuenit.
+</p>
+               <p xml:id="WuV37d-f26378-d1e1134">
+¶ Tertia 
+      <lb ed="#B" n="12"/>difficultas. Quae huius triplicis gratiae 
+      praeimn<lb ed="#B" n="13" break="no"/>telligitur in christo? Dicendum quod gratia vnionis: 
+      <lb ed="#B" n="14"/>praeintelligitur enim natura humana vnita diuine 
+      <lb ed="#B" n="15"/>secundum ordinem naturae / antequam intelligatur ha 
+      <lb ed="#B" n="16"/>bere gratiam singularis personae. Unde bene di 
+      <lb ed="#B" n="17"/>cit euangelis. Uidimus gloriam eius 
+      quasi<lb ed="#B" n="18" break="no"/>vnigeniti a patre. Et post. Plenum gratiae: 
+      <lb ed="#B" n="19"/>ita quod praemittit eum vnigenitum: vt sit plenus 
+      <lb ed="#B" n="20"/>gratia: gratia autem singularis personae 
+      praein<lb ed="#B" n="21" break="no"/>telligitur gratiae capitis: quia prima se ha 
+      <lb ed="#B" n="22"/>bet per modum esse: alia per modum 
+      opera<lb ed="#B" n="23" break="no"/>ri et influxus: prius autem quis intelligitur 
+      <lb ed="#B" n="24"/>sciens quam doceat: sic in proposito. Ex quo pa 
+      <lb ed="#B" n="25"/>tet ad quaestionem / quod videlicet singular 
+      <lb ed="#B" n="26"/>sonae gratia vnionis et capitis in christo po 
+      <lb ed="#B" n="27"/>test collocari. Tunc ad argumenta.
+</p>
+               <p xml:id="WuV37d-f26378-d1e1171">
+¶ Ad  
+      <lb ed="#B" n="28"/>primum neganda est minor ratione omnium suarum 
+      <lb ed="#B" n="29"/>partium. Primo ratione formae. Forma enim 
+      <lb ed="#B" n="30"/>exquo est participatio boni infiniti: debet 
+      <lb ed="#B" n="31"/>esse in mensura: licet illud bonum sit infini 
+      <lb ed="#B" n="32"/>tum. Idem secundo de deo agente: quod licet 
+      <lb ed="#B" n="33"/>sit omnipotentissimus: tamen id nequit 
+      effi<lb ed="#B" n="34" break="no"/>cere quod contradictionem includit: ex. 6. ethi 
+      <lb ed="#B" n="35"/>corum. Hoc solo priuatur deus / vt ingenita ni 
+      <lb ed="#B" n="36"/>possit facere quae genita sunt: huiusmodi est 
+      fa<lb ed="#B" n="37" break="no"/>cere charitatem infinitam: quia talis infinitas 
+      <lb ed="#B" n="38"/>creature re pugnat. Tertio est idem ex 
+      par<lb ed="#B" n="39" break="no"/>te capacitatis: quia est finita. Nec est 
+      ve<lb ed="#B" n="40" break="no"/>rum quod dicitur / quod c haritas adueniens 
+      am<lb ed="#B" n="41" break="no"/>pliat eam: licet Thomas. q. 2. articuli prie 
+      <lb ed="#B" n="42"/>mi id sentire videatur. Nec enim forma 
+      am<lb ed="#B" n="43" break="no"/>pliat capacitatem materiae / nec econtra: sic est 
+      <lb ed="#B" n="44"/>in proposito.
+</p>
+               <p xml:id="WuV37d-f26378-d1e1210">
+¶ Ad secundum negatur maior. 
+      <lb ed="#B" n="45"/>Praena enim vt perfectissimum aspicit perfectibile in 
+      <lb ed="#B" n="46"/>communi: secundum quod quodlibet est in potentia obedienti 
+      <lb ed="#B" n="47"/>ali dei: vnde ibi habet falsitatem illa 
+      proposi<lb ed="#B" n="48" break="no"/>tio secundum proportionem perfectibilium est ordo perfo 
+      <lb ed="#B" n="49"/>ctionum: quia totum est a parte dei dantis: verum 
+      <!--568.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>est tamen quod in naturalibus sepius habet 
+      verita<lb ed="#B" n="51" break="no"/>tem propter causalitatem limitatam causarum 
+      secunda<lb ed="#B" n="52" break="no"/>rum: non sic in proposito: ideo argumentum non cur 
+      <lb ed="#B" n="53"/>rit.
+</p>
+               <p xml:id="WuV37d-f26378-d1e1236">
+¶ Ad tertium dicit doc. subti. quod primo: 
+      <lb ed="#B" n="54"/>antecedens est dubium: et videtur contra Augustinus 3. de li 
+      <lb ed="#B" n="55"/>bero arbitrio. Secundo negat consequentiam: 
+      <lb ed="#B" n="56"/>et ratio: quia illa supriuma suba si esset / non influe 
+      <lb ed="#B" n="57"/>ret: quia deus influit immediate in omnia: christus 
+      <lb ed="#B" n="58"/>autem per hanc summam gratiam in omnem influit 
+      <lb ed="#B" n="59"/>intellectualem creaturam: vnde licet sit quod 
+      <lb ed="#B" n="60"/>dam charitatis indiuiduum multiformitur: 
+      <lb ed="#B" n="61"/>tamen ratione naturae decorat vniuersum. 
+      </p>
+            </div>
+            <div xml:id="WuV37d-f26378-Dd1e1257" type="et-conclusiones">
+               <head xml:id="WuV37d-f26378-Hd1e1259">Conclusiones</head>
+               <p xml:id="WuV37d-f26378-d1e1262">
+                  <lb ed="#B" n="62"/>¶ Ex praesenti autem dist. sicut de praecedenti 
+      <lb ed="#B" n="63"/>de mente magistri etc. Prima conclusio. Bon 
+      <lb ed="#B" n="64"/>plenitudo in christo fuit: nec vnquam defuit 
+      <lb ed="#B" n="65"/>haec beatitudo. Dicit conclusio / quod christus 
+      <lb ed="#B" n="66"/>fuit plenus bono gratiae. Et ponitur a principio. dist. 
+      <lb ed="#B" n="67"/>vsque ibi: huic autem videtur.
+</p>
+               <p xml:id="WuV37d-f26378-d1e1278">
+¶ Secunda con 
+      <lb ed="#B" n="68" break="no"/>clusio. Christi profectio dum mundo 
+      mane<lb ed="#B" n="69" break="no"/>bat / nostra instructio est: quia instruebat. 
+      <lb ed="#B" n="70"/>Dicit conclusio / quod dum dicitur christus proficere: 
+      <lb ed="#B" n="71"/>intelligitur / quia faciebat nos proficere. Et 
+      po<lb ed="#B" n="72" break="no"/>nitur ab illo ca. Huic autem etc. vsque ibi: 
+      <lb ed="#B" n="73"/>Alibi tamen scriptum etc.
+</p>
+               <p xml:id="WuV37d-f26378-d1e1294">
+¶ Tertia conclu 
+      <lb ed="#B" n="74" break="no"/>sio. In opinione crescere dicitur et cogni 
+      <lb ed="#B" n="75"/>tione christusque ponitur. Dicit conclusio / quod 
+      <lb ed="#B" n="76"/>christus dicitur proficere in cognitione quo ad 
+      <lb ed="#B" n="77"/>opinionem hominum qui id credebant. Et 
+      in<lb ed="#B" n="78" break="no"/>cipit: Alibi etc.
+</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 6</title>
+            <author ref="#WilliamDeVaurouillon">William de Vaurouillon</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 6</title>
+               <date when="2021-06-19">June 19, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-bvbVBV">Basel 1510</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-06-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="24-r"/>
+            <cb ed="#B" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="WuV37d-e10795"><!-- l1d6 -->
+            <head xml:id="WuV37d-e10795-Hd1e108">Distinctio 6</head>
+            <div xml:id="WuV37d-e10795-Dd1e111" type="circa-textum">
+               <head xml:id="WuV37d-e10795-Hd1e113">Circa textum</head>
+               <p xml:id="WuV37d-e10795-d1e116">
+                  <lb ed="#B" n="65"/>Distinctio sexta li. primi: quae 
+      do<lb ed="#B" n="66" break="no"/>cet de diuina 
+      potetia<lb ed="#B" n="67" break="no"/>Preterea quaeri 
+      <lb ed="#B" n="68"/>solet: 
+      <lb ed="#B" n="69"/>quae vtrum pater genuerit fi 
+      <lb ed="#B" n="70"/> lium voluntate an 
+      neces<lb ed="#B" n="71" break="no"/>sitate?: De hoc 
+      Oro<lb ed="#B" n="72" break="no"/>ius ad Augustinum 
+      <lb ed="#B" n="73"/>ita ait: Uoluntate genuit pater etc. 
+      <lb ed="#B" n="74"/>Superius duabus distinctionibus 
+      praece<lb ed="#B" n="75" break="no"/>dentibus mouit magister dubitationes. 
+      <lb ed="#B" n="76"/>circa diuinam essentiam. Nunc in ista sexta 
+      di<lb ed="#B" n="77" break="no"/>stinctione alias mouet circa potentiam. 
+      <lb ed="#B" n="78"/>Et diuiditur in tres partes / secundum tres 
+      quaesti<lb ed="#B" n="79" break="no"/>ones de potentia generandi. In prima 
+      in<lb ed="#B" n="80" break="no"/>quirit: si filius fuerit genitus necessario / 
+      <lb ed="#B" n="81"/>vel voluntaria ratione. In secunda: si 
+      fi<lb ed="#B" n="82" break="no"/>lius queat filium gignere ex propria 
+      notio<lb ed="#B" n="83" break="no"/>ne. In tertia inquirit: si potentia 
+      gignen<lb ed="#B" n="84" break="no"/>di patri et filio conueniat / et aequali 
+      condi<lb ed="#B" n="85" break="no"/>tione: infra distinctione septima: Hic quae 
+      <lb ed="#B" n="86"/>ri solet a quibusdam. Tertia in eadem / ibi: 
+      <lb ed="#B" n="87"/>Item quaeritur a quibusdam. Prima iterum par 
+      <lb ed="#B" n="88"/>ticula: quae est praesens distinctio: in qua 
+      in<lb ed="#B" n="89" break="no"/>quirit: si filius etc. in tres partes 
+      scindi<lb ed="#B" n="90" break="no"/>tur. Primo ostenditur gigni natura filium / 
+      <lb ed="#B" n="91"/>sed non voluntate. Secundo opponitur 
+      <lb ed="#B" n="92"/>contrarium vt ex falsitate. Tertio 
+      repeti<lb ed="#B" n="93" break="no"/>tur dictum primarium magna firmitate. 
+      <lb ed="#B" n="94"/>Secunda ibi: Sed contra hoc 
+      opponi<lb ed="#B" n="95" break="no"/>tur etc. Tertia ibi: Predicta tamen 
+      ver<lb ed="#B" n="96" break="no"/>ba. Et haec est diuisio praesentis 
+      distinctio<lb ed="#B" n="97" break="no"/>nis in generali.
+</p>
+            </div>
+            <div xml:id="WuV37d-e10795-Dd1e191">
+               <head xml:id="WuV37d-e10795-Hd1e193">Quaestio</head>
+               <p xml:id="WuV37d-e10795-d1e196">
+      <!--65.xml-->
+                  <pb ed="#B" n="24-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>¶ Quaestio ista explanat potentiam 
+      <lb ed="#B" n="2"/>generadi: cui Secundo correspondet li. 
+      <lb ed="#B" n="3"/>1. dist. 6. q. vnica: et impugnat 
+      hen<lb ed="#B" n="4" break="no"/>ricum de gan. in sum. ar. g6. q. 2. 
+      <lb ed="#B" n="5"/>Arca quam talis 
+      <lb ed="#B" n="6"/>mouetur titulus questionis. An 
+      <lb ed="#B" n="7"/> diuini verbi emanatio sacratis 
+      <lb ed="#B" n="8"/>sima necessitate natura seu libertate 
+      con<lb ed="#B" n="9" break="no"/>pleatur: Et arguo triplici medio ex vna 
+      per<lb ed="#B" n="10" break="no"/>te.
+</p>
+               <p xml:id="WuV37d-e10795-d1e227">
+¶ Primo quod non necessitate / arguo sic. 
+      <lb ed="#B" n="11"/>Unde aliqua duo principia productiua aliquod 
+      <lb ed="#B" n="12"/>commune diuidunt / habent etiam illa principia 
+      <lb ed="#B" n="13"/>principiandi modos oppositos. Sed 
+      li<lb ed="#B" n="14" break="no"/>bertas et natura hoc comune diuidunt 
+      prin<lb ed="#B" n="15" break="no"/>cipium: ergo modos oppositos habent 
+      prin<lb ed="#B" n="16" break="no"/>cipiandi. Sed necessitas conuenit 
+      liberta<lb ed="#B" n="17" break="no"/>ti. quia spiritus scilicet libere et necessario producitur: 
+      <lb ed="#B" n="18"/>igitur no conuenit principio naturali quo 
+      fi<lb ed="#B" n="19" break="no"/>lius producitur. Maior patet. Modi enim 
+      <lb ed="#B" n="20"/>principiandi ortum habent ex principiantibus: 
+      <lb ed="#B" n="21"/>et per consequens secundum quod diuersificantur 
+      producen<lb ed="#B" n="22" break="no"/>tia principia diuersificari debent modi: 
+      <lb ed="#B" n="23"/>quia multiplicata causa multiplicatur effectus. 
+      <lb ed="#B" n="24"/>Sed minor patet per philosophum in. 2. physi. vbi 
+      <lb ed="#B" n="25"/>diuidit duo agentia a natura et 
+      proposi<lb ed="#B" n="26" break="no"/>to. Et debet accipi a proposito: vt comple 
+      <lb ed="#B" n="27"/>ctitur et intellectum et voluntatem: vt patet ex 
+      <lb ed="#B" n="28"/>textu.
+</p>
+               <p xml:id="WuV37d-e10795-d1e269">
+¶ Secundo arguo quod non 
+      natura<lb ed="#B" n="29" break="no"/>Omne productum per naturam est mutabile: sed 
+      <lb ed="#B" n="30"/>diuina emanatio est immutabilis: ergo non 
+      <lb ed="#B" n="31"/>est / via nature. Maior patet auctoritate 
+      <lb ed="#B" n="32"/>philosophi. 2. phyficorum / naturam diffinientis. 
+      Na<lb ed="#B" n="33" break="no"/>tura inquit est principium motus et quie 
+      <lb ed="#B" n="34"/>tis eius: in quo est per se / et non secundum accidens. 
+      <lb ed="#B" n="35"/>Minor patet autctoritate Origenis super 
+      <lb ed="#B" n="36"/>Esaiam: et habetur in 1. dist. 9. vbi dicitur: quod 
+      fi<lb ed="#B" n="37" break="no"/>lius semper gignitur: vt ostendat generationem 
+      <lb ed="#B" n="38"/>esse immutabilem.
+</p>
+               <p xml:id="WuV37d-e10795-d1e293">
+¶ Tertio arguitur / quod ema 
+      <lb ed="#B" n="39"/>natio fit modo libertatis: vbi summa 
+      ex<lb ed="#B" n="40" break="no"/>tat beatitudo: ibi libere cuncta disponuntur. 
+      <lb ed="#B" n="41"/>Sed in deo summa est beatitudo: igitur 
+      cun<lb ed="#B" n="42" break="no"/>cta libere disponuntur: et ita filius 
+      liberta<lb ed="#B" n="43" break="no"/>te producitur. Maior patet. Nam beatitudo 
+      <lb ed="#B" n="44"/>nullam patitur seruitutem. Liber enim secundum philosophum: 
+      <lb ed="#B" n="45"/>est gratia sui: quod beato congruit: seruitus vero 
+      <lb ed="#B" n="46"/>gratia alterius: quod ei repugnat. Minor 
+      pa<lb ed="#B" n="47" break="no"/>tet autctoritate hermetis ad asclepium / de 
+      <!--65.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="48"/>fluxu et refluxu rerum in deum.
+</p>
+               <p xml:id="WuV37d-e10795-d1e323">
+¶ In 
+      opposi<lb ed="#B" n="49" break="no"/>tum vero arguitur: et primo quod producatur 
+      necessita<lb ed="#B" n="50" break="no"/>te: quia ea quae sunt in diuinis / 
+      impossibi<lb ed="#B" n="51" break="no"/>le est non esse: et ita necesse est esse: ex. 2. 
+      pe<lb ed="#B" n="52" break="no"/>ri hermenias.
+</p>
+               <p xml:id="WuV37d-e10795-d1e334">
+¶ Secundo probo quod natur 
+      <lb ed="#B" n="53"/>ra. Unde Damas. Seneratio est opus 
+      natu<lb ed="#B" n="54" break="no"/>re. Et Augustinus et habetur in littera. Dicamus 
+      <lb ed="#B" n="55"/>ergo verbum dei esse filium dei natura. 
+      Ter<lb ed="#B" n="56" break="no"/>tio probo quod libertate: quia omne 
+      inuoluntari<lb ed="#B" n="57" break="no"/>um est triste: ex. 5. metaph. In deo autem non 
+      <lb ed="#B" n="58"/>venit tristicia.
+</p>
+               <p xml:id="WuV37d-e10795-d1e350">
+¶ In ista quaestione sunt 
+      <lb ed="#B" n="59"/>tres articuli. 
+      <lb ed="#B" n="60"/>Primus est terminorum declaratiuus 
+      <lb ed="#B" n="61"/>Quorum Secundus est quaestionis responsiuus. 
+      </p>
+               <p xml:id="WuV37d-e10795-d1e359">
+                  <lb ed="#B" n="62"/>¶ Tertius est dubiorum motiuus 
+      </p>
+               <p xml:id="WuV37d-e10795-d1e364">
+                  <lb ed="#B" n="63"/>¶ Quantum ad primum articu 
+      <lb ed="#B" n="64"/>lum. Pri 
+      <lb ed="#B" n="65"/>mus terminus est necessitas.
+</p>
+               <p xml:id="WuV37d-e10795-d1e373">
+¶ 
+      Neces<lb ed="#B" n="66" break="no"/>sitas dicitur de non / et cesso cessas: 
+      qua<lb ed="#B" n="67" break="no"/>si non cessans esse. Unde noto / quod tripliciter 
+      <lb ed="#B" n="68"/>secundum doctorem deuotum solet dici necessitas 
+      <lb ed="#B" n="69"/>Quedam est ex principio disconueniente. 
+      Se<lb ed="#B" n="70" break="no"/>cunda ex principio deficiente. Tertia ex prin 
+      <lb ed="#B" n="71"/>cipio conueniente et sufficiente simul: et harum 
+      <lb ed="#B" n="72"/>quaelibet multiplicatur. Prima enim quae est 
+      <lb ed="#B" n="73"/>ex principio disconueniente: aut mouet 
+      com<lb ed="#B" n="74" break="no"/>tra naturam: et sic est necessitas violentiae: aut 
+      <lb ed="#B" n="75"/>contra voluntatem: et sic dicitur necessitas 
+      co<lb ed="#B" n="76" break="no"/>actionis. Similiter ea quae est ex principio de 
+      <lb ed="#B" n="77"/>ficiente est multiplex. Aut enimest respectu 
+      <lb ed="#B" n="78"/>eius quo res nata est compleri: et haec dicit 
+      <lb ed="#B" n="79"/>necessitas indigentiae: aut ex respectu eius 
+      <lb ed="#B" n="80"/>quod ex ipso incurritur defectu: et haec est 
+      neces<lb ed="#B" n="81" break="no"/>sitas ineuitabilitatis: sicut est in primis 
+      <lb ed="#B" n="82"/>motibus. Unde in psatso. De necessitatibus me 
+      <lb ed="#B" n="83"/>is erne me. Tertia etiam quae est ex principio 
+      <lb ed="#B" n="84"/>conueniente et sufficiente simul multiplicatur: 
+      <lb ed="#B" n="85"/>aut est enim ex principio sufficiente in dispo 
+      <lb ed="#B" n="86"/>nendo / siue respectu materiae dispositae: et 
+      <lb ed="#B" n="87"/>haec vocatur necessitas exigentiae: aut in 
+      com<lb ed="#B" n="88" break="no"/>plendo: et haec est necessitas immutabilitatis:  
+      <lb ed="#B" n="89"/>et haec sola in deo est: quam compatitur filii 
+      prin<lb ed="#B" n="90" break="no"/>cipium productiuum.
+</p>
+               <p xml:id="WuV37d-e10795-d1e431">
+¶ Sequitur terminus 
+      se<lb ed="#B" n="91" break="no"/>cundus natura. Natura secundum philosophum: 
+      Li<lb ed="#B" n="92" break="no"/>cet nomen naturae de his tribus / materia / in 
+      <lb ed="#B" n="93"/>forma et composito dicatur: principalius tamen de  
+      <lb ed="#B" n="94"/>forma. vnde et huiusmodi ratione generatio 
+      natu<lb ed="#B" n="95" break="no"/>ralis dicitur: vt patet in. 2. physicorum. Unde 
+      <lb ed="#B" n="96"/>noto: vt potest haberi ex Auicenna ex primo 
+      <!--66.xml-->
+      <pb ed="#B" n="25-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>naturalium: quod ista tria differunt: natura / 
+      na<lb ed="#B" n="2" break="no"/>turale / et secundum naturam seu naturalitur. Natu 
+      <lb ed="#B" n="3"/>ra enim dicitur rei fundamentum / seu illud vnde cae 
+      <lb ed="#B" n="4"/>tera effluunt scilicet rei essentia. Unde Auerrois in 
+      <lb ed="#B" n="5"/>antiqua translatione: loquens ad propositum de ma 
+      <lb ed="#B" n="6"/>teria / dicit: In fundamento naturae nihil di 
+      <lb ed="#B" n="7"/>stinctum est. Naturale vero dicitur proprietas ex 
+      <lb ed="#B" n="8"/>huiusmodi exiens fundamento: sicut quod naturale est 
+      <lb ed="#B" n="9"/>hominrisibilitas. Secundum naturam vero dicitur 
+      opera<lb ed="#B" n="10" break="no"/>tio ex huiusmodi progrediens principiis / sicut praeter 
+      <lb ed="#B" n="11"/>naturam: aut supra naturam dicitur: quod aliunde 
+      <lb ed="#B" n="12"/>capit sua principia. Unde noto quod natura dicitur 
+      <lb ed="#B" n="13"/>tripliciter. Uno modo dicitur natura largissime: pro 
+      <lb ed="#B" n="14"/>eo quod cum sit quodammodo ab intellectu capus 
+      <lb ed="#B" n="15"/>potest: et sic ome ens dicitur natura: et sic loquis 
+      <lb ed="#B" n="16"/>de natura Boe. Secundo modo dicitur natura pro in 
+      <lb ed="#B" n="17"/>i modo omni artifice. Et fic loquitur quadam glo. su 
+      <lb ed="#B" n="18"/>per apostolum: super illud: Contra naturam insertus 
+      <lb ed="#B" n="19"/>es in bonam oliuam: et sic dicitur natura naturans 
+      <lb ed="#B" n="20"/>Tertio modo dicitur natura pro omni alio ente a 
+      <lb ed="#B" n="21"/>deo: et isto modo solus deus est supernaturalis  
+      <lb ed="#B" n="22"/>caetera vero naturalia: et vocatur natura na 
+      <lb ed="#B" n="23"/>turata.
+</p>
+               <p xml:id="WuV37d-e10795-d1e503">
+¶ Sequitur tertius terminus liber 
+      <lb ed="#B" n="24"/>tate. Libertas dicitur a libet: quia libitu 
+      <lb ed="#B" n="25"/>et placitum ipsius sunt voluntatis. Unde noto 
+      <lb ed="#B" n="26"/>quod tria ista se habent per ordinem et differunt. Li 
+      <lb ed="#B" n="27"/>berum simpliciter / liberum arbitrium / et licitum 
+      <lb ed="#B" n="28"/>Liberum enim simpliciter est indifferens ad 
+      necessi<lb ed="#B" n="29" break="no"/>tatem et contingentiam: sicut patet in diuinis. Ea 
+      <lb ed="#B" n="30"/>dem enim voluntate dei spiritus sanctus necessario 
+      <lb ed="#B" n="31"/>producitur / et creature contingenter. Liberum vero 
+      <lb ed="#B" n="32"/>arbitrium coartatur ad contingentia: vnde proprie 
+      <lb ed="#B" n="33"/>liberum arbitrium duo aspicit: intellectum et vo 
+      <lb ed="#B" n="34"/>luntatem: vt ratione liberi voluntatem: ratione 
+      ar<lb ed="#B" n="35" break="no"/>bitrii intellectum notet: qui est arbiter et 
+      iu<lb ed="#B" n="36" break="no"/>dex: ostendens quid faciendum / et quod non: quod so 
+      <lb ed="#B" n="37"/>lum est in contingentibus. Nullus enim 
+      arbitra<lb ed="#B" n="38" break="no"/>tur aliquid impossibile si sit sapiens. Tertio 
+      <lb ed="#B" n="39"/>dicitur licitum. Unde licitum proprie est in contin 
+      <lb ed="#B" n="40"/>gentibus / sed non omnibus / sicut liberum arbitrium: 
+      <lb ed="#B" n="41"/>sed in rectis et bonestis: nisi large capiatur: 
+      <lb ed="#B" n="42"/>et tunc etiam necessaria licita sunt. Et hoc de 
+      <lb ed="#B" n="43"/>primo articulo. 
+      </p>
+               <p xml:id="WuV37d-e10795-d1e549">
+                  <lb ed="#B" n="44"/>¶ Quantum ad secundum articulum 
+      <lb ed="#B" n="45"/>sunt tres 
+      <lb ed="#B" n="46"/>breves conclusiones. Prima in ratione agon 
+      <lb ed="#B" n="47"/>tis / sed non agendi ratione filius dei necessario 
+      <lb ed="#B" n="48"/>producitur. Probatur haec conclusio tribus 
+      me<lb ed="#B" n="49" break="no"/>diis. Primo. Illa pars quae dicit quod filius neces¬ 
+      <!--66.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>sario producitur in ratione agentis. Arguitur sic 
+      <lb ed="#B" n="51"/>Omne producens ad intra est necessario produ 
+      <lb ed="#B" n="52"/>ctiuum. Probatur: quia si non aliquid in deo esset 
+      <lb ed="#B" n="53"/>contingens: et sic cum quodlibet quod in deo sit deus  
+      <lb ed="#B" n="54"/>deus esset contingens: quod est impossibile. Sed 
+      pro<lb ed="#B" n="55" break="no"/>ductio filii est ad intra: immo est prima: igitur 
+      ratio<lb ed="#B" n="56" break="no"/>ne agentis necessario producitur. Hic enim ratio 
+      <lb ed="#B" n="57"/>nem agentis voco illud quod ipsum constituit. Se 
+      <lb ed="#B" n="58"/>cundo sic. Si patur necessario non produceret 
+      <lb ed="#B" n="59"/>filium: pater posset mutari: ergo non esse: sed hoc 
+      <lb ed="#B" n="60"/>est impossibile: igitur etc. Maior probatur. Si potest 
+      <lb ed="#B" n="61"/>em non producere filium: ponatur quod non producat 
+      <lb ed="#B" n="62"/>et prius producebat: igit de producente fit non 
+      pro<lb ed="#B" n="63" break="no"/>ducens: et sic mutatur: immo non erit: cum produ 
+      <lb ed="#B" n="64"/>ctio actiua ipsum constituat. Nec est simile: cum de 
+      <lb ed="#B" n="65"/>creante fit non creans: quia non refertur ad extra 
+      <lb ed="#B" n="66"/>relatione reali sicut ad intra.
+</p>
+               <p xml:id="WuV37d-e10795-d1e606">
+¶ Secunda vero 
+      <lb ed="#B" n="67"/>pars conclusionis scilicet quod necessitas non est ratio agen 
+      <lb ed="#B" n="68"/>di in productione filii. Probatur sic. Nullus 
+      <lb ed="#B" n="69"/>modus intrinsecus productiui principii est ratio agen 
+      <lb ed="#B" n="70"/>di illi principio. Sed necessitas est modus 
+      in<lb ed="#B" n="71" break="no"/>trinsecus omnium diuinorum et ita memoriae 
+      fe<lb ed="#B" n="72" break="no"/>cunde: quae superius vocata est principium 
+      produ<lb ed="#B" n="73" break="no"/>ctiuum filii: igitur etc Maior probatur. Modus  
+      <lb ed="#B" n="74"/>enim intrinsecus ex suo principio ortum habet: 
+      <lb ed="#B" n="75"/>et ita in quodam signo est posterior: 
+      poste<lb ed="#B" n="76" break="no"/>rius autem priori non est ratio agendi / sed econ 
+      <lb ed="#B" n="77"/>tra: priora enim sicut dant esse sequentibus / sic 
+      <lb ed="#B" n="78"/>et modum.
+</p>
+               <p xml:id="WuV37d-e10795-d1e635">
+¶ Ex isto patet error Arrii: qui 
+      <lb ed="#B" n="79"/>posuit filium dei puram creaturam et in modo 
+      con<lb ed="#B" n="80" break="no"/>tingenti non necessario produci: cum omnis 
+      creatu<lb ed="#B" n="81" break="no"/>ra sit contingens. Sed dubitatur: an omnia diui 
+      <lb ed="#B" n="82"/>na sint vna necessitate necessaria / aut plu 
+      <lb ed="#B" n="83"/>ribus? Dico quod vna. Sicut enim vnica 
+      exi<lb ed="#B" n="84" break="no"/>stunt existentia: ita vnica sunt necessitate ne 
+      <lb ed="#B" n="85"/>cessaria: maxime si necessitas sit conditio 
+      <lb ed="#B" n="86"/>existentiae vel concomitans eam. Quod dico 
+      pro<lb ed="#B" n="87" break="no"/>pter esse quidditatiuum: quod loquendo proprie 
+      <lb ed="#B" n="88"/>abstrahit a necessario et contingenti.
+</p>
+               <p xml:id="WuV37d-e10795-d1e659">
+¶ 
+      Se<lb ed="#B" n="89" break="no"/>cunda conclusio. Naturali principio origi 
+      <lb ed="#B" n="90"/>nantis primarii verbum procedit diuinum. 
+      Pro<lb ed="#B" n="91" break="no"/>batur tripliciter. Primo quod sit a naturali 
+      prin<lb ed="#B" n="92" break="no"/>cipio. Arguo sic. Omne illud naturali 
+      pro<lb ed="#B" n="93" break="no"/>cedit principio: quod solum retinet modum natu 
+      <lb ed="#B" n="94"/>raliter procedentis. Sed huiusmodi est filius: igitur. 
+      <lb ed="#B" n="95"/>Maior patet: quia ex principio productiuo 
+      <lb ed="#B" n="96"/>accipit esse productum: et ita modum essendi. 
+      <lb ed="#B" n="97"/>Ab eodem est enim res et modus rei. Sed 
+      mi<lb ed="#B" n="98" break="no"/>nor probatur. Filius enim est nomen naturae: sic 
+      <!--67.xml-->
+      <pb ed="#B" n="25-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>imago / sic verbum.
+</p>
+               <p xml:id="WuV37d-e10795-d1e693">
+¶ Secundo arguo auctoritate 
+      <lb ed="#B" n="2"/>Hilarii. de sinod. Omnibus creaturis 
+      sub<lb ed="#B" n="3" break="no"/>stantiam dei voluntas attulit: sed filio natu 
+      <lb ed="#B" n="4"/>ra dedit.
+</p>
+               <p xml:id="WuV37d-e10795-d1e702">
+¶ Tertio arguo sic. Quod origi 
+      <lb ed="#B" n="5"/>netur ab originante primario: primum originans est 
+      <lb ed="#B" n="6"/>pater: sed hic filium originat seu producit: igitur etc. 
+      <lb ed="#B" n="7"/>Ex hoc patet errorseubomii: quem errorem de 
+      <lb ed="#B" n="8"/>ore nostro euomat dominus: qui posuit filium dei non 
+      <lb ed="#B" n="9"/>natura produci / sed voluntate: sicut innuit 
+      <lb ed="#B" n="10"/>magister in littera.
+</p>
+               <p xml:id="WuV37d-e10795-d1e718">
+¶ Sed oritur difficultas: quia in 
+      <lb ed="#B" n="11"/>quodam signo naturae deus intelligitur prior quam 
+      <lb ed="#B" n="12"/>pater: quia est quod adequatum diuinitati: et in isto 
+      <lb ed="#B" n="13"/>priori competunt sibi actus aliqui / vt videtur: vt 
+      <lb ed="#B" n="14"/>generare. Dicitur enim / deus generat: et etiam ad 
+      <lb ed="#B" n="15"/>extra: dicitur enim / deus creat: deus gubernat: et 
+      <lb ed="#B" n="16"/>ita videtur quod pater non sit primum originans. 
+      <lb ed="#B" n="17"/>Dico ad istud / quod verum est quod deus praeintelligitur 
+      <lb ed="#B" n="18"/>in quodam signo patri: sed tamen non generat: 
+      <lb ed="#B" n="19"/>quia oportet generans distingui a genito 
+      re<lb ed="#B" n="20" break="no"/>aliter: deus vero est idem realitur / et cum generante 
+      <lb ed="#B" n="21"/>et cum genito. Et si dicatur: intelligit ne in illo 
+      <lb ed="#B" n="22"/>priori? Dico quod sic: sed intellectio non est 
+      pro<lb ed="#B" n="23" break="no"/>prie originata: ideo non currit 
+      argumentum<lb ed="#B" n="24" break="no"/>Et quando obiicitur: deus creat / deus gubernat. 
+      <lb ed="#B" n="25"/>Rnmn. Unde aliquod agens habet duos effectus 
+      essen<lb ed="#B" n="26" break="no"/>tialiter ordinatos: non producit secundum nisi 
+      pri<lb ed="#B" n="27" break="no"/>mo producto. Sicut patet in sole: qui habet lucere 
+      <lb ed="#B" n="28"/>et illuminare: et lucere praecedit illuminare: quia 
+      <lb ed="#B" n="29"/>numquam causat illuminationem / nisi prius luce 
+      <lb ed="#B" n="30"/>causata. Sic in proposito sunt productiones in 
+      <lb ed="#B" n="31"/>deo ad intra et extra: et numquam fit productio ad  
+      <lb ed="#B" n="32"/>extra nisi facta ad intra: et ita quamuis 
+      crea<lb ed="#B" n="33" break="no"/>tio competat deo inquantum deus / non inquantum pater: 
+      <lb ed="#B" n="34"/>tamen quia est ad extra: oportet quod fiat prius 
+      produ<lb ed="#B" n="35" break="no"/>ctio ad intra.
+</p>
+               <p xml:id="WuV37d-e10795-d1e775">
+¶ Tertia conclusio e. Li 
+      <lb ed="#B" n="36"/>bertate antecedente vel concomitante non elici 
+      <lb ed="#B" n="37"/>ente producitur verbum dei. Probatur haec conclu 
+      <lb ed="#B" n="38"/>sio tripliciter / secundum tres partes eius. Prima est: quod fi 
+      <lb ed="#B" n="39"/>lius dei producitur libertate antecedente. Uocatur 
+      <lb ed="#B" n="40"/>autem libertas antecedens: quae in quadam signo prior est 
+      <lb ed="#B" n="41"/>generatione filii: hoc habito probatur: omnia essen 
+      <lb ed="#B" n="42"/>tialia in diuinis quae respectum non dicunt / ad ex 
+      <lb ed="#B" n="43"/>tra praecedunt notionalia: sed libertas est 
+      essen<lb ed="#B" n="44" break="no"/>tialis: et non dicit respectum ad extra: gene 
+      <lb ed="#B" n="45"/>ratio vero notionalis: igitur etc. Maior est beati 
+      <lb ed="#B" n="46"/>Diony. Dixi tamen notanter: quae non dicunt respe 
+      <lb ed="#B" n="47"/>ctum ad extra: quia secundum docto. subtilem in. 1. q. 
+      <lb ed="#B" n="48"/>quolibetorum: in huiusmodi ratione respectus sunt po 
+      <lb ed="#B" n="49"/>steriora. Sed patet minor: quia libertas est 
+      <!--67.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>communis tribus personis.
+</p>
+               <p xml:id="WuV37d-e10795-d1e814">
+¶ Secunda pars conclusionis 
+      <lb ed="#B" n="51"/>est: quod filius producitur libertate concomitante: et 
+      <lb ed="#B" n="52"/>vocatur libertas concomitans / quae sper est cum 
+      gene<lb ed="#B" n="53" break="no"/>ratione. Hoc habito probatur. Illud alio 
+      produ<lb ed="#B" n="54" break="no"/>citur concomitanter a qua est inseparabile: sed gene 
+      <lb ed="#B" n="55"/>ratio diuina est inseparabilis a libertate: igitur 
+      <lb ed="#B" n="56"/>producitur ea concomitanter. Maior patet: quia 
+      <lb ed="#B" n="57"/>isto modo nihil aliud est alio produci / quam ipsum com 
+      <lb ed="#B" n="58"/>comitari ab eo. Sed minor est nota: cum diui 
+      <lb ed="#B" n="59"/>na omnia sint necessaria.
+</p>
+               <p xml:id="WuV37d-e10795-d1e836">
+¶ Tertia pars conclu 
+      <lb ed="#B" n="60"/>sionis dicit: quod non producitur filius dei voluntate 
+      <lb ed="#B" n="61"/>eliciente: voco autem voluntatem elicientem volun 
+      <lb ed="#B" n="62"/>tatem quae est principium productiuum. Probatur sic. 
+      <lb ed="#B" n="63"/>Nullum productum duabus productionibus totali 
+      <lb ed="#B" n="64"/>bus producitur: quia tunc aliquo produceretur: quae non 
+      po<lb ed="#B" n="65" break="no"/>sito non minus produceretur: sed filius producitur na 
+      <lb ed="#B" n="66"/>tura vt principio productiuo: vt patuit in praece 
+      <lb ed="#B" n="67"/>denti conclusione: igitur nequit produci voluntate. 
+      <lb ed="#B" n="68"/>Sed dubitatur: quomodo potest poni in diuinis 
+      vo<lb ed="#B" n="69" break="no"/>luntas antecedens: cum ista voluntas dicatur ab 
+      <lb ed="#B" n="70"/>ante: in deo autem non sit ante: quia ante est temporis differem 
+      <lb ed="#B" n="71"/>tia? Dico quod ante dicitur tripliciter. Uno modo 
+      <lb ed="#B" n="72"/>proprie: et sic est temporis driesentia: nec est in deo ad in 
+      <lb ed="#B" n="73"/>tra. Secundo modo vt solum dicit ordinem naturae 
+      <lb ed="#B" n="74"/>seu perfectionis: et sic est in deo. Tertio modo 
+      <lb ed="#B" n="75"/>large: et sic dicit prius secundum quemcumque ordinem 
+      <lb ed="#B" n="76"/>seu naturae seu originis: et sic bene reparitur in di 
+      <lb ed="#B" n="77"/>uinis. Et hoc de secundo articulo. 
+      <lb ed="#B" n="78"/>Quantum ad tertium 
+      articu<lb ed="#B" n="79" break="no"/>lum sunt 
+      <lb ed="#B" n="80"/>tres difficultates secundum tres conclusiones. Pri 
+      <lb ed="#B" n="81"/>ma est: qualiter intelligitur quod filius producitur 
+      neces<lb ed="#B" n="82" break="no"/>sario / videlicet an necessitate naturali: sicut 
+      <lb ed="#B" n="83"/>ignis calefacit qualicumque sequestrata volunta 
+      <lb ed="#B" n="84"/>te. Dicit doc. subtilis: quod pater non necessario 
+      <lb ed="#B" n="85"/>sed volens producit filium. Unde noto secundum eumn 
+      <lb ed="#B" n="86"/>duo signa originis. Primum in quo sunt 
+      essenti<lb ed="#B" n="87" break="no"/>alia. Secundum in quae sunt notionalia. Et in primo 
+      si<lb ed="#B" n="88" break="no"/>gno originis sunt duo signa qua ad praesens 
+      na<lb ed="#B" n="89" break="no"/>ture. Primum in quo intellectus intelligit. Se 
+      <lb ed="#B" n="90"/>cundum / in quo voluntas vult. Sic in secundo 
+      si<lb ed="#B" n="91" break="no"/>gno originis sunt duo signa naturae. 
+      Pri<lb ed="#B" n="92" break="no"/>mum: in quao deus pater producit filium per intellectum. 
+      <lb ed="#B" n="93"/>Secundum: in quo ambo producunt per voluntatem 
+      <lb ed="#B" n="94"/>spiritum sanctum: ita quod in neutro actu intellectus vo 
+      <lb ed="#B" n="95"/>luntas concurrit vt eliciens. Et vt breviter di 
+      <lb ed="#B" n="96"/>cam: in quolibet horum signorum duorum tria 
+      consi<lb ed="#B" n="97" break="no"/>dero secundum mentem eius. Primo occurrit 
+      intel<lb ed="#B" n="98" break="no"/>lectus et voluntas absolute. Secundo: intelle¬ 
+      <!--68.xml-->
+      <pb ed="#B" n="26-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>ctu pater intelligit. Tertio voluntate vulti 
+      <lb ed="#B" n="2"/>Sic in secundo signo originis. Primo 
+      occur<lb ed="#B" n="3" break="no"/>rit intellectus et voluntas. Secundo intellectu 
+      <lb ed="#B" n="4"/>producit pater filium. Tertio voluntate pater et 
+      <lb ed="#B" n="5"/>filius spitum sanctum. Sed tunc magnum occurrit 
+      <lb ed="#B" n="6"/>dubium: quia sequentes doctorem nostrum dicunt/ 
+      <lb ed="#B" n="7"/>quod pater producit filium in primo signo originis. 
+      <lb ed="#B" n="8"/>Et tamen in ista distinctione doctor dicti / quod pro 
+      <lb ed="#B" n="9"/>ducit in secundo: quia in primo intelligit et vult. 
+      <lb ed="#B" n="10"/>Rampon. quod ista signa originis possunt capi dupli 
+      <lb ed="#B" n="11"/>citer. Uno modo comparando signa originis 
+      <lb ed="#B" n="12"/>notionalia essentialibus: quomodo loquitur in ista 
+      <lb ed="#B" n="13"/>distinctione et in. xii. Et. 1. q. 2. Et sic dico quod 
+      <lb ed="#B" n="14"/>pater in secundo signo et non in primo producit 
+      fili<lb ed="#B" n="15" break="no"/>um: quia essentialia sunt in primo signo / et 
+      no<lb ed="#B" n="16" break="no"/>tionalia in secundo. Secundo modo capitur signum 
+      <lb ed="#B" n="17"/>originis / vt essentialia personae considerantur / 
+      <lb ed="#B" n="18"/>et notionalia per se: et sic dicitur primum signum 
+      <lb ed="#B" n="19"/>originis esse a se. Et sic in primo signo pro 
+      <lb ed="#B" n="20"/>ducit filium pater / quia a se: sic loquitur 
+      magi<lb ed="#B" n="21" break="no"/>ster Ioam. scoti. dist. 1. q. 2. arti. 2. et sic non 
+      <lb ed="#B" n="22"/>est oppositio.
+</p>
+               <p xml:id="WuV37d-e10795-d1e978">
+¶ Secuda difficultas: 
+      <lb ed="#B" n="23"/>vtrum habitus intellectus omnes: vtputa intelleci 
+      <lb ed="#B" n="24"/>sapicia / scientia et ars: concurrant ad productionem fi 
+      <lb ed="#B" n="25"/>lii: maxime cum dicat Augustinus quod filius est ars 
+      <lb ed="#B" n="26"/>plena omnium rationum viuentium. Dicit magi 
+      <lb ed="#B" n="27"/>ster Francis. in ista distinctione. q. 2. quod sola 
+      <lb ed="#B" n="28"/>sapientia elicitiue concurrit / caeteri habitus  
+      <lb ed="#B" n="29"/>non: quia verbum diuinum dicitur verbum essentiae 
+      <lb ed="#B" n="30"/>diuine solum. Cum igitur sapientia solum sit respe 
+      <lb ed="#B" n="31"/>ctu huius obiecti: sequetur etc. Scientia enim re 
+      <lb ed="#B" n="32"/>spectu temporalium / ars respectu factibilium pru 
+      <lb ed="#B" n="33"/>dentia vero respectu agibilium.
+</p>
+               <p xml:id="WuV37d-e10795-d1e1004">
+¶ Sed 
+      com<lb ed="#B" n="34" break="no"/>tra hoc arguo vnico medio. Habitus 
+      po<lb ed="#B" n="35" break="no"/>nuntur elicitiui in potentiis / vt potentiae faci 
+      <lb ed="#B" n="36"/>lius eliciant: patet ex. 2. ethicorum. Sed in 
+      <lb ed="#B" n="37"/>tellectus diuinus est infinitus: et obiectum habet 
+      <lb ed="#B" n="38"/>infinitum. scilicet essentiam diuinam: igitur videtur quod so 
+      <lb ed="#B" n="39"/>lum intellectus et diuina essentia sunt 
+      eliciti<lb ed="#B" n="40" break="no"/>uum principium filii / et non cum eis sapientia 
+      <lb ed="#B" n="41"/>Et ista est mens doctoris subtilis / ponen 
+      <lb ed="#B" n="42"/>tis memoriam integram solum fecundam integrari 
+      <lb ed="#B" n="43"/>ex obiecto et potentia.
+</p>
+               <p xml:id="WuV37d-e10795-d1e1028">
+¶ Tertia 
+      diffi<lb ed="#B" n="44" break="no"/>cultas / est propter verbum Augsin. 9. de trini. 
+      <lb ed="#B" n="45"/>ca. 6. Uerbum amore concipitur. Et. 21. ca. 
+      <lb ed="#B" n="46"/>Noticia placita digneque amata verbum est: 
+      <lb ed="#B" n="47"/>quia ex his videtur quod verbum producatur volum 
+      <lb ed="#B" n="48"/>tate eliciente. Dico quod istae auctoritates lo 
+      <lb ed="#B" n="49"/>quuntur de verbo nostro quod imparatur a 
+      <!--68.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>voluntate praecipiente intellectum / vt aliquid 
+      <lb ed="#B" n="51"/>cogitet / et non de verbo diuino: quia 
+      intelle<lb ed="#B" n="52" break="no"/>ctus diuinus vno actu intelligendi omne 
+      <lb ed="#B" n="53"/>cognoscit cognoscibile. Unde iste 
+      ordo<lb ed="#B" n="54" break="no"/>est. Primo est essentia: secundo intellectus: 
+      <lb ed="#B" n="55"/>tertio actus intelligendi. In nobis autem 
+      <lb ed="#B" n="56"/>propter actuum intelligendi multiplicationem 
+      <lb ed="#B" n="57"/>additur voluntas: cuius ad imperium ad 
+      di<lb ed="#B" n="58" break="no"/>uersa intelligibilia intellectus se 
+      conuer<lb ed="#B" n="59" break="no"/>tit. Et sic patet quid dicendum ad 
+      quaestio<lb ed="#B" n="60" break="no"/>nem: quod scilicet libertate vt antecedente 
+      necessi<lb ed="#B" n="61" break="no"/>tate vt ratione agentis: et natura vt eliciti 
+      <lb ed="#B" n="62"/>uo principio diuini verbi completur emana 
+      <lb ed="#B" n="63"/>tio. Et tunc ad argumenta.
+</p>
+               <p xml:id="WuV37d-e10795-d1e1078">
+¶ Ad primum. 
+      <lb ed="#B" n="64"/>Ad maiorem dico / quod modi principiandi sunt 
+      <lb ed="#B" n="65"/>duo / communis et proprius. Proprius est: si 
+      <lb ed="#B" n="66"/>cut contingentia voluntati / et naturalis 
+      in<lb ed="#B" n="67" break="no"/>tellectui. Et sic dico quod isti variantur secundum 
+      <lb ed="#B" n="68"/>variationem principiorum. Communis est qui 
+      <lb ed="#B" n="69"/>sequitur ambo: nec habet ortum ex ratione 
+      <lb ed="#B" n="70"/>alterius eorum: huiusmodi est necessitas: et 
+      <lb ed="#B" n="71"/>de isto non oportet quod varietur secundum variata 
+      <lb ed="#B" n="72"/>principia. Et sic primo modo maior est 
+      ve<lb ed="#B" n="73" break="no"/>ra / secundo modo falsa.
+</p>
+               <p xml:id="WuV37d-e10795-d1e1102">
+¶ Ad secundum ne 
+      <lb ed="#B" n="74"/>gatur maior. Ad probationem dico: quod philosophus 
+      <lb ed="#B" n="75"/>loquitur de natura naturata / non 
+      naturan<lb ed="#B" n="76" break="no"/>te: cuiusmodi est natura diuina: vt patur 
+      <lb ed="#B" n="77"/>it in declaratione terminorum.
+</p>
+               <p xml:id="WuV37d-e10795-d1e1113">
+¶ Ad tertium 
+      <lb ed="#B" n="78"/>dico / quod in diuinis omnia sunt libera: vt 
+      liber<lb ed="#B" n="79" break="no"/>tas opponitur seruituti. Nec tamen sequitur / quod 
+      <lb ed="#B" n="80"/>productio filii sit per modum libertatis. 
+      Suf<lb ed="#B" n="81" break="no"/>ficit enim quod liber producat / vt beatitudo ei 
+      <lb ed="#B" n="82"/>non impediatur. Et haec de quaestione.
+</p>
+            </div>
+            <div xml:id="WuV37d-e10795-Dd1e1127" type="et-conclusiones">
+               <head xml:id="WuV37d-e10795-Hd1e1129">Conclusiones</head>
+               <p xml:id="WuV37d-e10795-d1e1132">
+¶ Ex 
+      <lb ed="#B" n="83"/>hac vo distin. de mente magistri tres 
+      <lb ed="#B" n="84"/>eli ciuntur conclusiones. Prima. Non necessita 
+      <lb ed="#B" n="85"/>te gignitur filius vel voluntate: vt fert Eno 
+      <lb ed="#B" n="86"/>mius. Et debet intelligi de necessitate 
+      co<lb ed="#B" n="87" break="no"/>actionis: et de voluntate non vt est principi 
+      <lb ed="#B" n="88"/>um productiuum: et ponitur a principio distin. 
+      <lb ed="#B" n="89"/>vsque ad illum textum: Dicamus ergo dei ver 
+      <lb ed="#B" n="90"/>bum etc.
+</p>
+               <p xml:id="WuV37d-e10795-d1e1152">
+¶ Secunda conclusio. De natura 
+      <lb ed="#B" n="91"/>semper producitur sacra genitura: nec incipitur. 
+      <lb ed="#B" n="92"/>Et dicit conclusio quod natura est principium 
+      <lb ed="#B" n="93"/>generationis in diuinis: quae est sine princi 
+      <lb ed="#B" n="94"/>pio et fine. Et ponitur ab illo textu: 
+      Di<lb ed="#B" n="95" break="no"/>camus etc. vsque ad illud ca. Predicta 
+      ta<lb ed="#B" n="96" break="no"/>men verba etc.
+</p>
+               <p xml:id="WuV37d-e10795-d1e1168">
+¶ Tertia conclusio. Pa 
+      <lb ed="#B" n="97"/>ter vt potens gignit filium: ita et volens 
+      pro<lb ed="#B" n="98" break="no"/>ducit pium. Dicit conclusio quod licet vo¬ 
+      <!--69.xml-->
+      <pb ed="#B" n="26-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>luntate pater non generet filium: tamen generat 
+      <lb ed="#B" n="2"/>eum volens sicut potens et sapiens et bonus et 
+      <lb ed="#B" n="3"/>sic de aliis. Et ponitur a ca. illo: Predicta tamen 
+      <lb ed="#B" n="4"/>verba vsque ad finem distinctionis. 
+</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

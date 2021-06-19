@@ -1,0 +1,740 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 45</title>
+            <author ref="#WilliamDeVaurouillon">William de Vaurouillon</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 45</title>
+               <date when="2021-06-19">June 19, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-bvbVBV">Basel 1510</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-06-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="105-v"/>
+            <cb ed="#B" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="WuV37d-e50129"><!-- l1d45 -->
+            <head xml:id="WuV37d-e50129-Hd1e108">Distinctio 45</head>
+            <div xml:id="WuV37d-e50129-Dd1e111" type="circa-textum">
+               <head xml:id="WuV37d-e50129-Hd1e113">Circa textum</head>
+               <p xml:id="WuV37d-e50129-d1e116">
+                  <lb ed="#B" n="93"/>Distinctio quadragesimaquin 
+      <lb ed="#B" n="94"/>ta in qua magister postquam 
+      determi<lb ed="#B" n="95" break="no"/>nauit superius per nouem 
+      distincti<lb ed="#B" n="96" break="no"/>ones de scientia et potentia dei: hic 
+      <lb ed="#B" n="97"/>docet de voluntate: et primo de 
+      <!--228.xml-->
+      <pb ed="#B" n="106-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>A eius quidditate. 
+      <lb ed="#B" n="2"/>gronoessn 
+      <lb ed="#B" n="3"/>tate dei pro sensus nostri 
+      <lb ed="#B" n="4"/>imbecillitate dicendum 
+      <lb ed="#B" n="5"/>est. Sciendum est ergo 
+      <lb ed="#B" n="6"/>quia voluntas / siue vo 
+      <lb ed="#B" n="7"/>lens de deo secundum essentiam dicitur etc. 
+      <lb ed="#B" n="8"/>Hic signatur distinctio. 45. huius primi: quae 
+      <lb ed="#B" n="9"/>sic continuatur ad praecedentes. Nam postquam 
+      <lb ed="#B" n="10"/>a. 55. dist. inclusiue egit magister primo de 
+      <lb ed="#B" n="11"/>diuinae scientiae infallibilitate: vsque ad. 43. 
+      <lb ed="#B" n="12"/>distinctionem. Secundo de omnipotentiae sum 
+      <lb ed="#B" n="13"/>ma maiestate: a. 43. exclusiue vsque huc: 
+      <lb ed="#B" n="14"/>Nunc tertio hac. 45. distinctione: vsque ad  
+      <lb ed="#B" n="15"/>primi huius complementum de sanctissima 
+      <lb ed="#B" n="16"/>dei agit voluntate. Et diuiditur ista pars ter 
+      <lb ed="#B" n="17"/>tia huius tertii tractatus in tres partes 
+      prin<lb ed="#B" n="18" break="no"/>cipales. In prima diuinae voluntatis 
+      po<lb ed="#B" n="19" break="no"/>nitur ratio. In secunda summae potestatis pa 
+      <lb ed="#B" n="20"/>tet impletio. In tertia nostrae paruitatis  
+      <lb ed="#B" n="21"/>secumn vnitio scilicet quomodo debet volnntas 
+      no<lb ed="#B" n="22" break="no"/>stra suae conformari et vniri. Prima in prin 
+      <lb ed="#B" n="23"/>cipio. Secunda ibi / distin. 46. Hic oritur 
+      <lb ed="#B" n="24"/>questio dictum est etc. Tertia ibi / distin. 46. 
+      <lb ed="#B" n="25"/>Sciendum quoque est quod aliquando etc. 
+      Pri<lb ed="#B" n="26" break="no"/>ma iterum particula quae est praesens distinctio 
+      <lb ed="#B" n="27"/>in qua diuinae voluntatis ponitur ratio: in 
+      <lb ed="#B" n="28"/>tres partes diuiditur. In pma diuina essen 
+      <lb ed="#B" n="29"/>tia voluntas dicitur. In secunda reficiens omnia 
+      <lb ed="#B" n="30"/>sancte proponitur. In tertia nomina varia 
+      <lb ed="#B" n="31"/>habere scribitur. Prima in principio. Secun 
+      <lb ed="#B" n="32"/>da ibi: Itaque summe bona voluntas. Ter 
+      <lb ed="#B" n="33"/>tia ibi: Hic non est praetermittendum nobis: du 
+      <lb ed="#B" n="34"/>abus primis partibus indiuisis manentibus; 
+      <lb ed="#B" n="35"/>Tertia pars in qua voluntas diuina 
+      no<lb ed="#B" n="36" break="no"/>mina varia habere scribitur: in tres scinditur 
+      <lb ed="#B" n="37"/>partes. In prima aperitur veritas 
+      volun<lb ed="#B" n="38" break="no"/>tatis de beneplacito. In secunda sequi pin 
+      <lb ed="#B" n="39"/>quidditas signi in sensu mystico. In 
+      ter<lb ed="#B" n="40" break="no"/>tia additur brevitas dicto epilogico. Se 
+      <lb ed="#B" n="41"/>cunda ibi: Aliquando vero secundum quandam dicen 
+      <lb ed="#B" n="42"/>di figuram etc. Tertia ibi: Quinque igitur su 
+      <lb ed="#B" n="43"/>pra posita sunt. Et haec diuisio praesentis 
+      di<lb ed="#B" n="44" break="no"/>stinctionis in generali.
+    </p>
+            </div>
+            <div xml:id="WuV37d-e50129-Dd1e232">
+               <head xml:id="WuV37d-e50129-Hd1e234">Quaestio</head>
+               <p xml:id="WuV37d-e50129-d1e237">
+                  <lb ed="#B" n="45"/>Questio haec declarat de volun 
+      <lb ed="#B" n="46"/>tate diuina rerum aliarum causatiua 
+      <lb ed="#B" n="47"/>in esse volitos signo et hbemplacito: in 
+      <!--228.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="48"/>qua opiniones et haereses impugnat. 
+      <lb ed="#B" n="49"/>Et habetur a sco. li. 1. dis. 26. q. vnica. 
+      <lb ed="#B" n="50"/>
+               </p>
+               <p xml:id="WuV37d-e50129-d1e257">
+¶ Arca quammo 
+      <lb ed="#B" n="51"/>uetur talis quaestio: Utrum dei 
+      vo<lb ed="#B" n="52" break="no"/>luntas sanctissima signo et 
+      be<lb ed="#B" n="53" break="no"/>neplacito rectissime diuidatur: Et arguilu 
+      <lb ed="#B" n="54"/>quod non / triplici medio.
+</p>
+               <p xml:id="WuV37d-e50129-d1e268">
+¶ Primo sic. Nul 
+      <lb ed="#B" n="55"/>lum signum debet in nomine cum signato 
+      conueni<lb ed="#B" n="56" break="no"/>re: sed dei praeceptio seu probibitio / et sic de 
+      <lb ed="#B" n="57"/>aliis: quae sunt signa: conueniunt in nomine cum 
+      di<lb ed="#B" n="58" break="no"/>uina voluntate: igitur non sunt eius signa: et 
+      <lb ed="#B" n="59"/>ita non diuiditur in ea. Maior patet: quia 
+      cir<lb ed="#B" n="60" break="no"/>culus ante tabernam / qui dicitur signum vini: 
+      <lb ed="#B" n="61"/>non dicitur vinum. Sed minor probatur ex illo 
+      <lb ed="#B" n="62"/>dicto. Quicumque fecerit voluntatem patris in 
+      <lb ed="#B" n="63"/>mei qui in caelis est: ipse meus frateri et 
+      so<lb ed="#B" n="64" break="no"/>ror et inater est. Certum est quod hic accipit 
+      <lb ed="#B" n="65"/>voluntatem pro eo quod praecipitur aut prohibe 
+      <lb ed="#B" n="66"/>tur.
+</p>
+               <p xml:id="WuV37d-e50129-d1e297">
+¶ Secundo arguitur sic. Quando sunt 
+      <lb ed="#B" n="67"/>aliquae due differentiae aliquod commune 
+      diui<lb ed="#B" n="68" break="no"/>dentes: numquam contentum in vna doraintia seu 
+      ipsa<lb ed="#B" n="69" break="no"/>met differentia: debet sub alia repariri 
+      diffe<lb ed="#B" n="70" break="no"/>rentia: sed voluntas bemplaciti reparitur in 
+      volun<lb ed="#B" n="71" break="no"/>tate signi: igitur non diuidunt diuinam 
+      volun<lb ed="#B" n="72" break="no"/>tatem. Maior patet exemplo: quia enim animal 
+      di<lb ed="#B" n="73" break="no"/>uiditur in rationale et irrationale: nunquam aliquid 
+      <lb ed="#B" n="74"/>contentum sub rationali / reparietur sub irrationali. 
+      <lb ed="#B" n="75"/>Minor probatur: alioquin si diuinae voluntati 
+      <lb ed="#B" n="76"/>non placeret bene: signum diuinae voluntatis  
+      <lb ed="#B" n="77"/>esset falsum: sicut vrina extat falsa qua 
+      mor<lb ed="#B" n="78" break="no"/>bum non repraesentat.
+</p>
+               <p xml:id="WuV37d-e50129-d1e327">
+¶ Tertio arguitur sic. 
+      <lb ed="#B" n="79"/>Nullum simpliciter indiuisibile potest 
+      di<lb ed="#B" n="80" break="no"/>uidi: sed diuina voluntas est simpliciter in 
+      <lb ed="#B" n="81"/>diuisibilis: igitur nequit diuidi in signum et 
+      <lb ed="#B" n="82"/>beneplacitum. Maior ertat de se nota. Est 
+      <lb ed="#B" n="83"/>nempe oppositum in adiecto / quod sit aliquid 
+      sim<lb ed="#B" n="84" break="no"/>plicitur indiuisibile: et quod diuidatur. Sed probatur 
+      <lb ed="#B" n="85"/>minor: quia ita simplex est diuina essentia si 
+      <lb ed="#B" n="86"/>cut voluntas / et econtra. Cum igitur diuina 
+      es<lb ed="#B" n="87" break="no"/>sentia sit simpliciter indiuisibilis: igitur et diuina 
+      <lb ed="#B" n="88"/>voluntas.
+</p>
+               <p xml:id="WuV37d-e50129-d1e351">
+¶ In oppositum est magister in 
+      lit<lb ed="#B" n="89" break="no"/>tera: diuidens voluntatem diuinam in 
+      volun<lb ed="#B" n="90" break="no"/>tatem signi / et voluntatem beneplaciti. Unde 
+      <lb ed="#B" n="91"/>de voluntate beneplaciti scribit 
+      aposto<lb ed="#B" n="92" break="no"/>lus. Uoluntati eius quis resistet: Iterum 
+      <lb ed="#B" n="93"/>de voluntate signi regius propheta dicit: 
+      <lb ed="#B" n="94"/>Magna opera domini exquisita in omnes 
+      <!--229.xml-->
+      <pb ed="#B" n="106-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>voluntates eius.
+</p>
+               <p xml:id="WuV37d-e50129-d1e375">
+¶ In ista quaestione ad alias 
+      <lb ed="#B" n="2"/>pariformiter sunt tres articuli declarandi 
+      <lb ed="#B" n="3"/>Primus est terminorum 
+      decla<lb ed="#B" n="4" break="no"/>Quorum Oratiuus. 
+      <lb ed="#B" n="5"/>Secundus est quaestionis responsiuus. 
+      <lb ed="#B" n="6"/>Tertius est dubiorum motiuus.  
+      </p>
+               <p xml:id="WuV37d-e50129-d1e388">
+                  <lb ed="#B" n="7"/>¶ Quantum ad primum artic 
+      <lb ed="#B" n="8"/>culum 
+      <lb ed="#B" n="9"/>termini sunt: voluntas / beneplacitum seu volum 
+      <lb ed="#B" n="10"/>tas benemplaciti / et voluntas signi.
+</p>
+               <p xml:id="WuV37d-e50129-d1e399">
+¶ Primus 
+      <lb ed="#B" n="11"/>igitur terminus est voluntas. Unde vltra ea 
+      <lb ed="#B" n="12"/>quae de voluntate. 10. dist. dicta sunt: voluntas 
+      <lb ed="#B" n="13"/>dicitur tripliciter. Uno modo dicitur voluntas 
+      quicun<lb ed="#B" n="14" break="no"/>que appetitus / seu sensitiuus siue rationalis / seu 
+      <lb ed="#B" n="15"/>creatus seu increatus: quomodo accipit voluntatem 
+      <lb ed="#B" n="16"/>doc. subtilis in. 3. di. 17. vbi distinguit 
+      tripli<lb ed="#B" n="17" break="no"/>cem voluntatem in christo scilicet voluntatem increa 
+      <lb ed="#B" n="18"/>tam / voluntatem rationalem et creatam / et appetitum 
+      <lb ed="#B" n="19"/>sensitiuum: quem quandoque vocat voluntatem. Hoc 
+      <lb ed="#B" n="20"/>enim modo et habet vsus: dicimus enim: hic canis 
+      <lb ed="#B" n="21"/>vult comedere: cum tamen non habeat nisi appe 
+      <lb ed="#B" n="22"/>titum sensitiuum. Secundo dicitur voluntas appe 
+      <lb ed="#B" n="23"/>titus rationalis creatus solum: et hoc modo diffi 
+      <lb ed="#B" n="24"/>nit Augutinus voluntatem in li. de libero arbitrio. 
+      <lb ed="#B" n="25"/>Uoluntas enim inquit est rationalis motus sensui 
+      <lb ed="#B" n="26"/>praesidens et appetitui. Hoc enim modo voluntas 
+      <lb ed="#B" n="27"/>est animae nostrae regina: imperans caeteris 
+      po<lb ed="#B" n="28" break="no"/>tentiis / vt prosequantur aliquid aut fugiant. Unde 
+      <lb ed="#B" n="29"/>idem Augustinus aliter voluntatem istam diffiniens in li 
+      <lb ed="#B" n="30"/>bro de duabus animabus / dicit. Uoluntas 
+      <lb ed="#B" n="31"/>est animi motus ad aliquid prosequendum vl 
+      <lb ed="#B" n="32"/>fugiendum: ideo dicitur voluntas a 
+      volubili<lb ed="#B" n="33" break="no"/>tate: quia nunc voluitur in fuga / nunc in prose 
+      <lb ed="#B" n="34"/>cutione. Tertio modo dicitur voluntas pro quo 
+      <lb ed="#B" n="35"/>dam communi appetitu vniuoco deo et 
+      cre<lb ed="#B" n="36" break="no"/>aturis. Et hoc modo diffinit voluntatem 
+      do<lb ed="#B" n="37" break="no"/>ctor irrefragabilis in prima parte 
+      summae<lb ed="#B" n="38" break="no"/>collatione de voluntate. Uoluntas est vis 
+      <lb ed="#B" n="39"/>cognoscens / domina sui actus. Per hoc enim 
+      <lb ed="#B" n="40"/>quod dicitur vis cognoscens: differt voluntas a 
+      <lb ed="#B" n="41"/>tota parte sensitiua / in qua nulla extat 
+      cog<lb ed="#B" n="42" break="no"/>nitio licet aliqualis sui obiecti perceptio. 
+      <lb ed="#B" n="43"/>Per hoc autem quod dicitur domina sui actus: 
+      dif<lb ed="#B" n="44" break="no"/>tert ab intellectu: qui mere naturaliter in 
+      <lb ed="#B" n="45"/>obiectum suum mouetur ex parte sui: non sic vo 
+      <lb ed="#B" n="46"/>luntas / seu nostra / seu diuina / sed libere. 
+      <lb ed="#B" n="47"/>Licet nempe voluntas diuina sit principi 
+      <lb ed="#B" n="48"/>um producendi necessario spiritum sanctum / non 
+      <lb ed="#B" n="49"/>tamen naturaliter. 
+</p>
+               <p xml:id="WuV37d-e50129-d1e486">
+¶ Nota rursus quod vo¬ 
+      <!--229.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>luntas potest dici tripliciter. Uno modo pro 
+      <lb ed="#B" n="51"/>ipsa virtute volitiua / quae distinguitur contra in 
+      <lb ed="#B" n="52"/>tellectum. Secundo pro ipsa operatione respectu 
+      <lb ed="#B" n="53"/>finis: hoc modo accipit voluntatem Aristotur. 
+      <lb ed="#B" n="54"/>in. 3. ethicorum / vbi distinguit ista tria: 
+      ele<lb ed="#B" n="55" break="no"/>ctionem / consilium et voluntatem. Consilium enim 
+      <lb ed="#B" n="56"/>actus est intellectus: et vbi desinit 
+      consi<lb ed="#B" n="57" break="no"/>lium / incipit electio vnde electio secundum ipsum 
+      <lb ed="#B" n="58"/>est acceptio praeconsiliati. Rursus vbi dest 
+      <lb ed="#B" n="59"/>nit electio / incipit voluntas. Clectio enim est 
+      <lb ed="#B" n="60"/>entium ad finem: sed voluntas est finis. Li 
+      <lb ed="#B" n="61"/>cet enim finis prior sit intentione: vltimus est 
+      <lb ed="#B" n="62"/>tamen in executione. Tertio dicitur volun 
+      <lb ed="#B" n="63"/>tas ipsum obiectum volitum: hoc modo 
+      volun<lb ed="#B" n="64" break="no"/>tas signi dicitur voluntas / sicut praecepta et 
+      pro<lb ed="#B" n="65" break="no"/>hibita.
+</p>
+               <p xml:id="WuV37d-e50129-d1e529">
+¶ Secundus terminus est 
+      vo<lb ed="#B" n="66" break="no"/>luntas benplaciti. Unde noto quod volum 
+      <lb ed="#B" n="67"/>tas bemplaciti in diuinis potest capi 
+      tripli<lb ed="#B" n="68" break="no"/>citer. Uno modo dicitur voluntas 
+      bemplaci<lb ed="#B" n="69" break="no"/>ti amor cuiuscumque in diuina entis essentia: 
+      <lb ed="#B" n="70"/>seu sit essentiale / seu notionale / seu in esse 
+      <lb ed="#B" n="71"/>simpliciter / seu in esse secundum quid: sicut esse 
+      <lb ed="#B" n="72"/>volitum et cognitum operatione voluntatis 
+      <lb ed="#B" n="73"/>seu intellectus productum. In his nempeio 
+      <lb ed="#B" n="74"/>cundissima extat dei felicitas / secundum Richar. 
+      <lb ed="#B" n="75"/>in libro de trinitate: quae non fit sine 
+      bene<lb ed="#B" n="76" break="no"/>placito voluntatis. Secundo dicitur 
+      volun<lb ed="#B" n="77" break="no"/>tas besmplaciti in deo: quando aliquid extra 
+      <lb ed="#B" n="78"/>se vult efficaciter: et hoc modo 
+      distingui<lb ed="#B" n="79" break="no"/>tur contra voluntatem signi: sicut voluit 
+      ef<lb ed="#B" n="80" break="no"/>ficaciter creationem caeli / aut saluationem 
+      pe<lb ed="#B" n="81" break="no"/>tri / seu damnationem iude: Et de ista 
+      volunm<lb ed="#B" n="82" break="no"/>tate benmplaciti dicit tapostolus. Ut probetis 
+      <lb ed="#B" n="83"/>quae sit voluntas dei bona / benmemplacens et 
+      <lb ed="#B" n="84"/>perfecta: vnde tante extat perfectionis vt 
+      im<lb ed="#B" n="85" break="no"/>pediri nequeat. Tertio dicitur voluntas be 
+      <lb ed="#B" n="86"/>neplaciti omne quod in mundo agi soleti 
+      <lb ed="#B" n="87"/>et hoc modo voluntas bemplaciti continet 
+      <lb ed="#B" n="88"/>voluntatem signi / et voluntatem beneplaciti 
+      <lb ed="#B" n="89"/>proprie acceptam. Isto modo omne quod  
+      <lb ed="#B" n="90"/>agitur: aut voluntate diuina fit 
+      permitten<lb ed="#B" n="91" break="no"/>te / aut operante. Unde Augustinus n Enchiri 
+      <lb ed="#B" n="92"/>dion. Non fit aliquid nisi omnipotens 
+      fie<lb ed="#B" n="93" break="no"/>ri velit: vel sinendo vt fiat / vel ipse 
+      facien<lb ed="#B" n="94" break="no"/>do.
+</p>
+               <p xml:id="WuV37d-e50129-d1e594">
+¶ Tertius terminus est volun  
+      <lb ed="#B" n="95"/>tas signi. Unde de ista signi voluntate 
+      <lb ed="#B" n="96"/>tres extant famosae opiniones. Prima est e 
+      <lb ed="#B" n="97"/>Francisci de maro. Secunda est hugo. d 
+      <lb ed="#B" n="98"/>sancto victore. Tertia magistri. Prima 
+      <!--230.xml-->
+      <pb ed="#B" n="107-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>scilicet Francisci / tres ponit ternarios huius vo 
+      <lb ed="#B" n="2"/>luntatis. Primus ternarius est praeceptum 
+      <lb ed="#B" n="3"/>probibitio et operatio. Secundus ternarius: con 
+      <lb ed="#B" n="4"/>silium / monitio et permissio. Tertius 
+      ternari<lb ed="#B" n="5" break="no"/>us: promissio / punitio et remuneratio. Et 
+      <lb ed="#B" n="6"/>differunt hoc modo. Sunt nempe tria 
+      tem<lb ed="#B" n="7" break="no"/>pora: praeteritum / praesens / et futurum. Respectu 
+      <lb ed="#B" n="8"/>praeteriti non sumitur aliquod diuine voluntat 
+      <lb ed="#B" n="9"/>signum: quia iam in rem transiuit iudicatam. Ista 
+      <lb ed="#B" n="10"/>igitur differunt: quia sunt vel respectu temporis prae 
+      <lb ed="#B" n="11"/>sentis vel futuri. Si respectu temparis 
+      praesen<lb ed="#B" n="12" break="no"/>tis / sunt duo membra: operatio et permissio: et 
+      <lb ed="#B" n="13"/>differunt: quia permissio est de malo / et 
+      ope<lb ed="#B" n="14" break="no"/>ratio de bono. Si autem sunt respectu 
+      fu<lb ed="#B" n="15" break="no"/>turi: aut per modum dirigentis ad finem:. aut 
+      <lb ed="#B" n="16"/>per modum finis his respondentis. Si 
+      pri<lb ed="#B" n="17" break="no"/>mo modo sunt quinque: probibitio / praeceptio / 
+      mo<lb ed="#B" n="18" break="no"/>nitio / consilium / et promissio et differunt: quia 
+      <lb ed="#B" n="19"/>probibitio et monitio sunt respectu mali fu 
+      <lb ed="#B" n="20"/>giendi: sed probibitio est de peccato morta 
+      <lb ed="#B" n="21"/>li / monitio de veniali: praeceptio vero consili 
+      <lb ed="#B" n="22"/>um et promissio respectu boni prosequendi: 
+      <lb ed="#B" n="23"/>sed praeceptio de bono simpliciter 
+      necessa<lb ed="#B" n="24" break="no"/>rio ad lalutem: consilium de bono supereroga 
+      <lb ed="#B" n="25"/>tionis: sed promissio ad vtrumque se habet per 
+      <lb ed="#B" n="26"/>modum allicientis. Si autem sint ipsius finis 
+      <lb ed="#B" n="27"/>vel respectu mali: sic est punitio / quae est finis 
+      <lb ed="#B" n="28"/>malorum: vel remuneratio / quae est finis 
+      bo<lb ed="#B" n="29" break="no"/>norum. Ad punitionem nempe malorum et lau 
+      <lb ed="#B" n="30"/>dem bonorum cunctae leges ordinantur: vt nota 
+      <lb ed="#B" n="31"/>tur in decre. dist. 3. c. Omnis autem lex. Ei 
+      <lb ed="#B" n="32"/>enim praemio aut poena vita moderatur hu 
+      <lb ed="#B" n="33"/>mana.
+</p>
+               <p xml:id="WuV37d-e50129-d1e683">
+¶ Secunda opinio famosa est 
+      hu<lb ed="#B" n="34" break="no"/>gonis de sancto victo. et hic huius signi vo 
+      <lb ed="#B" n="35"/>luntatis tantum ponit quattuor membra: 
+      permissi<lb ed="#B" n="36" break="no"/>onem et operationem de praesenti: sed operatio est 
+      <lb ed="#B" n="37"/>in bono / et permissio de malo: et prohibitio 
+      <lb ed="#B" n="38"/>nem et praeceptionem de futuro: sed probibi 
+      <lb ed="#B" n="39"/>tio de malo / et praeceptio de bono: et dicitur 
+      <lb ed="#B" n="40"/>voluntas signi: quia signum est diuine 
+      vo<lb ed="#B" n="41" break="no"/>luntatis: quando nobis aliquid aut 
+      prohibet<lb ed="#B" n="42" break="no"/>aut praecipit.
+</p>
+               <p xml:id="WuV37d-e50129-d1e705">
+¶ Tertia opinio est magistri 
+      <lb ed="#B" n="43"/>littera: et extat conformis opinioni 
+      hugo<lb ed="#B" n="44" break="no"/>nis / nisi quod addit quintum. scilicet consilium / quod est 
+      <lb ed="#B" n="45"/>de maiori bono: et ista est opinio communi 
+      <lb ed="#B" n="46"/>or et melior: ita quod sunt quinque signa volum 
+      <lb ed="#B" n="47"/>tatis signi: scilicet prohibitio / praeceptio / 
+      per<lb ed="#B" n="48" break="no"/>missio / operatio et consilium. Et continentur 
+      <lb ed="#B" n="49"/>in isto versu. Praecipit et prohibet: permit¬ 
+      <!--230.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>tit / consulit / implet. Ex quo patet quod volum 
+      <lb ed="#B" n="51"/>tas beneplaciti et signi: sufficienter diuinan 
+      <lb ed="#B" n="52"/>diuidunt voluntatem. 
+      </p>
+               <p xml:id="WuV37d-e50129-d1e734">
+                  <lb ed="#B" n="53"/>¶ Quantum ad secundum 
+      arti<lb ed="#B" n="54" break="no"/>culum 
+      <lb ed="#B" n="55"/>sunt tres conclusiones. Prima de diuina 
+      <lb ed="#B" n="56"/>voluntate in se. Secunda de voluntate bemplaciti 
+      <lb ed="#B" n="57"/>Et tertia de voluntate signi.
+</p>
+               <p xml:id="WuV37d-e50129-d1e747">
+¶ Prima est 
+      <lb ed="#B" n="58"/>haec: quod diuina voluntas sit contingentium / pri 
+      <lb ed="#B" n="59"/>ma extat regula: vt ab aeterno rebus omnibus 
+      <lb ed="#B" n="60"/>det esse volitum. Prima pars conclusionis diciti / quod 
+      <lb ed="#B" n="61"/>diuina voluntas est prima regula contingen 
+      <lb ed="#B" n="62"/>tium. Probatur ista pars. Solum creata contigen 
+      <lb ed="#B" n="63"/>tia aspiciunt: aut quammaxime ista tria 
+      attribu<lb ed="#B" n="64" break="no"/>ta: potentiam / scientiam / seu intellectum et volunta 
+      <lb ed="#B" n="65"/>tem. Sed nec potentia nec intellectus sunt pri 
+      <lb ed="#B" n="66"/>ma contingentium regula: igitur voluntas. Ma 
+      <lb ed="#B" n="67"/>ior patet ex ordine magistri: quae rerum creatione 
+      <lb ed="#B" n="68"/>seu secundo suo lib. solum ista proposuit attribu 
+      <lb ed="#B" n="69"/>ta. Sed probatur minor: primo quod non scientia seu 
+      <lb ed="#B" n="70"/>intellectus: quia intellectus est potentia 
+      natu<lb ed="#B" n="71" break="no"/>ralis: et mere agit necessario: et ita nequit 
+      <lb ed="#B" n="72"/>esse prima regula contingentium. Secundo 
+      pro<lb ed="#B" n="73" break="no"/>batur quod non potentia: nam dei potentia executi 
+      <lb ed="#B" n="74"/>ua non agit nisi dei voluntate praeuia ex vi vo 
+      <lb ed="#B" n="75"/>cabuli: exequitur enim quod praeiudicatum est: et 
+      <lb ed="#B" n="76"/>ita a sufficienti diuisione relinquitur 
+      volun<lb ed="#B" n="77" break="no"/>tatem contingentium primam regulam: ita quod sit 
+      <lb ed="#B" n="78"/>iste ordo. In primo signo offert diuinus in 
+      <lb ed="#B" n="79"/>tellectus sanctissimae suae voluntati omnia cog 
+      <lb ed="#B" n="80"/>nita necessaria scilicet et contingentium 
+      complexio<lb ed="#B" n="81" break="no"/>nes neutras. In secundo signo diuina 
+      vo<lb ed="#B" n="82" break="no"/>luntas dat esse volitum omnibus necessariis. 
+      <lb ed="#B" n="83"/>Et in tertio determinat contingenter vnam 
+      <lb ed="#B" n="84"/>partem harum contingentium veritatum. Et si obii 
+      <lb ed="#B" n="85"/>citur: ex dicto famoso Augn. Nihil volitum 
+      <lb ed="#B" n="86"/>nisi praecognitum: et ita oportet quod prima 
+      de<lb ed="#B" n="87" break="no"/>terminatio veniat ex intellectu dante esse 
+      <lb ed="#B" n="88"/>cognitum: alioquin in incognitum ferretur 
+      volun<lb ed="#B" n="89" break="no"/>tas. Hic dico quod illa auctoritas intelligitur quo 
+      <lb ed="#B" n="90"/>ad obiectum primarium / non quo ad productum 
+      <lb ed="#B" n="91"/>ipsa voluntate. Et est exemplum: diligo pla 
+      <lb ed="#B" n="92"/>tonem: non oportet quod praenoscam dilectionem 
+      <lb ed="#B" n="93"/>quam produco / sed platonem quem diligo: sic in 
+      <lb ed="#B" n="94"/>proposito. Dilectioni diuinae essentiae 
+      prae<lb ed="#B" n="95" break="no"/>supponitur eius cognitio sed non cognitio 
+      <lb ed="#B" n="96"/>esse voliti istorum obiectorum 
+      secundariorum<lb ed="#B" n="97" break="no"/>productorum a diuina voluntate. Secunda 
+      <lb ed="#B" n="98"/>pars dicit: quod diuina voluntas ab aeterno 
+      <!--231.xml-->
+      <pb ed="#B" n="107-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>omnibus rebus dat esse volitum. Probatur. 
+      <lb ed="#B" n="2"/>Ab aeterno voluit res diuersas: igitur ab 
+      <lb ed="#B" n="3"/>aeterno habent res esse volitum. Probatur 
+      com<lb ed="#B" n="4" break="no"/>sequentia: quia implicat quod aliquis velit / et 
+      <lb ed="#B" n="5"/>nihil sit volitum. Et probatur antecedens: quia si non 
+      <lb ed="#B" n="6"/>voluit ab aeterno / et modo vulti/ mutatur: quia ne 
+      <lb ed="#B" n="7"/>quit esse in alio mutatio: quia illo esse volitum 
+      <lb ed="#B" n="8"/>est in ea. Noto tamen quod licet ab aeterno 
+      <lb ed="#B" n="9"/>voluerit res et eas produxerit in esse 
+      voli<lb ed="#B" n="10" break="no"/>to: tamen non voluit eas pro aeterno / sed pro cer 
+      <lb ed="#B" n="11"/>to tempore: sicut vnus nostrum potest velle 
+      <lb ed="#B" n="12"/>ab ista hora pro cras ire ad missam sua non 
+      <lb ed="#B" n="13"/>mutata voluntate. Ex quo patet defect 
+      <lb ed="#B" n="14"/>illius saraceni Auerrois: qui nequiuit 
+      vi<lb ed="#B" n="15" break="no"/>dere deum immutabiliter se habere: et ta 
+      <lb ed="#B" n="16"/>men quod res produceret contingenter: et 
+      ex<lb ed="#B" n="17" break="no"/>quo voluit ab aeterno / quin res fuissent ab 
+      <lb ed="#B" n="18"/>aeterno. Sed ad intelligendum haec: valde 
+      <lb ed="#B" n="19"/>facile reducenda est memoriae quaedam 
+      do<lb ed="#B" n="20" break="no"/>ctoris deuoti distinctio huius primi. Di 
+      <lb ed="#B" n="21"/>cit enim / quod causam immediatam esse potest 
+      <lb ed="#B" n="22"/>capi tripliciter: aut respectu substantiae / aut 
+      <lb ed="#B" n="23"/>respectu dispositionis / aut tertio respectu 
+      <lb ed="#B" n="24"/>actus. Si loquamur de deo respectu sub 
+      <lb ed="#B" n="25"/>stantiae: ab ae terno fuit causa rerum 
+      immedi<lb ed="#B" n="26" break="no"/>ata: quia nulla mediabat substantia inter eum 
+      <lb ed="#B" n="27"/>et opus eius. Si secundo de dispositione: 
+      <lb ed="#B" n="28"/>sic iterum ex se erat dispositissimus. Sed si 
+      <lb ed="#B" n="29"/>loquamur respectu actus: non quia ipse 
+      aeter<lb ed="#B" n="30" break="no"/>nus effectus temporalis: ipse tamen immutabils/ effe 
+      <lb ed="#B" n="31"/>ctum ordinauit facere mutabilem tempore 
+      deter<lb ed="#B" n="32" break="no"/>minato. Et si quaeratur: an istud esse volitum 
+      <lb ed="#B" n="33"/>sit ens rationis vel reale: Et videtur reale: quia 
+      <lb ed="#B" n="34"/>producitur per voluntatem: et ens rationis solum est 
+      <lb ed="#B" n="35"/>intellectus: et per consequens videtur quod deus re 
+      <lb ed="#B" n="36"/>feratur relatione reali ab aeterno ad 
+      creatu<lb ed="#B" n="37" break="no"/>ram. Dicendum quod ens rationis sumitur tripliciter. 
+      <lb ed="#B" n="38"/>Uno modo pro ratione quidditatiua: et sic sunt 
+      <lb ed="#B" n="39"/>entia volita / entia rationis: quia habent propriam 
+      <lb ed="#B" n="40"/>quidditatem. Alio modo dicitur ens rationis pro 
+      <lb ed="#B" n="41"/>ente solum fabricato opere intellectus: et sic 
+      <lb ed="#B" n="42"/>non sunt entia rationis. Tertio dicitur ens 
+      <lb ed="#B" n="43"/>rationis pro producto secundum quid cuiuslibet 
+      ver<lb ed="#B" n="44" break="no"/>tute potentiae collatiuae: vt innuit doctor 
+      <lb ed="#B" n="45"/>subtilis in hac distinctioe: et isto modo tam 
+      <lb ed="#B" n="46"/>voluntas quam imaginatiua potentia 
+      produ<lb ed="#B" n="47" break="no"/>cunt ens rationis. Ex quo infert quod illa diui 
+      <lb ed="#B" n="48"/>sio entis: aliud reale / aliud rationis: non est bo 
+      <lb ed="#B" n="49"/>na: capiendo rationis pro ente fabricato opere 
+      <!--231.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>intellectus: quia isto modo ens volitum formali 
+      <lb ed="#B" n="51"/>ter: nec est hoc / nec illud.
+</p>
+               <p xml:id="WuV37d-e50129-d1e961">
+¶ Ex prima 
+      par<lb ed="#B" n="52" break="no"/>te conclusionis ego infero / quod defecit 
+      san<lb ed="#B" n="53" break="no"/>ctus Tho. in suo scripto / dist. 36. q. 3. 
+      po<lb ed="#B" n="54" break="no"/>nendo intellectum diuinum omnia nosse per ideas 
+      <lb ed="#B" n="55"/>seu contingentia seu necessaria: patet oppo 
+      <lb ed="#B" n="56"/>situm: sequeretur enim diuinum intellectum esse 
+      pri<lb ed="#B" n="57" break="no"/>mam regulam contingentium: quod improbatum est. 
+      <lb ed="#B" n="58"/>Et si quaeratur: quid est regula necessariorum: 
+      <lb ed="#B" n="59"/>Dicitur quod diuina essentiam virtualiter / et 
+      diui<lb ed="#B" n="60" break="no"/>nus intellectus formaliter. Ex quo patet / quod 
+      <lb ed="#B" n="61"/>regula in diuinis habet tria signa. Prima 
+      <lb ed="#B" n="62"/>enim regula est diuina essentia: et est solum 
+      ver<lb ed="#B" n="63" break="no"/>tualis. Secunda regula est diuinus 
+      intel<lb ed="#B" n="64" break="no"/>lectus: et est regula necessariorum. Tertia 
+      re<lb ed="#B" n="65" break="no"/>gula est diuina voluntas: et est regula 
+      contin<lb ed="#B" n="66" break="no"/>gentium formaliter.
+</p>
+               <p xml:id="WuV37d-e50129-d1e996">
+¶ Secunda conclusio est 
+      <lb ed="#B" n="67"/>de voluntate bemplaciti: et est haec. Tanti viq 
+      <lb ed="#B" n="68"/>goris insuperabilis beneplaciti extat volunm 
+      <lb ed="#B" n="69"/>tas / vt visibilium et inuisibilium causa perfecta con 
+      <lb ed="#B" n="70"/>sistat. Prima pars dicit: quod voluntas 
+      hbempla<lb ed="#B" n="71" break="no"/>citi extat vigoris insuperabilis. Probatur. 
+      <lb ed="#B" n="72"/>Omnia quippe quecumque voluit dominus fecit ince  
+      <lb ed="#B" n="73"/>lo et in terra: in mari / et in omnibus abvssis. Et 
+      <lb ed="#B" n="74"/>probatur sic ratione. Si besmemplaciti voluntas pos 
+      <lb ed="#B" n="75"/>set superari: aut hoc esset a superiori / aut ab 
+      <lb ed="#B" n="76"/>aequali / aut ab inferiori. Non a superiori: quia 
+      <lb ed="#B" n="77"/>non habet: est enim deus cuius est ipsa 
+      volun<lb ed="#B" n="78" break="no"/>tas ens primum rerum princeps: ex. 12. 
+      meta<lb ed="#B" n="79" break="no"/>phy. Entia nolunt male regi: vnus ergo 
+      prin<lb ed="#B" n="80" break="no"/>ceps. Non ab aequali: quia non habet alium 
+      de<lb ed="#B" n="81" break="no"/>um secum equalem. Audi israel: dominus deus tui 
+      <lb ed="#B" n="82"/>us vnus est. Nec apud philosophum principatuum 
+      <lb ed="#B" n="83"/>pluralitas in eodem gradum laudatur. Nec 
+      <lb ed="#B" n="84"/>ab inferiori: quia nequit inferior voluntatem 
+      <lb ed="#B" n="85"/>sisperioris immutare. Et si obiiciatur: Deus 
+      <lb ed="#B" n="86"/>vult platonem facere bonum: et plato 
+      pec<lb ed="#B" n="87" break="no"/>cat: igitur. Uidetur quod plato superet 
+      volunta<lb ed="#B" n="88" break="no"/>tem beneplaciti. Dico quod voluntas qua de 
+      <lb ed="#B" n="89"/>us vult platonem facere bonum est voluntas 
+      <lb ed="#B" n="90"/>signi: et antecedens nec est beneplaciti: 
+      alio<lb ed="#B" n="91" break="no"/>quin si vellet platonem operari bonum 
+      vo<lb ed="#B" n="92" break="no"/>luntate bemplaciti / plato operaretur: sed non 
+      <lb ed="#B" n="93"/>est sic: et addo quod non implendo voluntatem 
+      <lb ed="#B" n="94"/>dei de eo fit voluntas dei: cadit enim sic pec 
+      <lb ed="#B" n="95"/>cans ab ordine misericordiae in ordinem 
+      iu<lb ed="#B" n="96" break="no"/>sticiae: nec potest a facie voluntatis 
+      diui<lb ed="#B" n="97" break="no"/>ne fugere: et dat exempum Ansel. Si quis 
+      <lb ed="#B" n="98"/>ex oriente ad occidentem veniat: caelum non 
+      <!--232.xml-->
+      <pb ed="#B" n="108-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>fugit quod omnia continet: sed ordinem caeli mutat 
+      <lb ed="#B" n="2"/>sic in proposito. Secunda pars dicit: quod est 
+      cau<lb ed="#B" n="3" break="no"/>sa visibilium et inuisibilium articulus est 
+      fi<lb ed="#B" n="4" break="no"/>dei. Creatorem caeli et terrae. visibilium omnium 
+      <lb ed="#B" n="5"/>et inuisibilium. Et corroboratur. In 
+      quoli<lb ed="#B" n="6" break="no"/>bet genere est dare vnum primum a quo 
+      cae<lb ed="#B" n="7" break="no"/>tera effluunt: ergo est dare vnam primam 
+      <lb ed="#B" n="8"/>causam efficientem a qua conduntur: et visibi 
+      <lb ed="#B" n="9"/>lia et inuisibilia. Et si quaeratur: ex quo creat 
+      <lb ed="#B" n="10"/>omnia ista voluntas beneplaciti videntur 
+      caete<lb ed="#B" n="11" break="no"/>re causae ociose: quod est contra Aug. super Sen. 
+      <lb ed="#B" n="12"/>Sic deus res quas condidit administrat 
+      <lb ed="#B" n="13"/>vt eos proprios motus agere sinat. 
+      Responden<lb ed="#B" n="14" break="no"/>dum quod causatio diuinae voluntatis non impe 
+      <lb ed="#B" n="15"/>dit aliarum causarum causationem: quia causat in 
+      <lb ed="#B" n="16"/>suo ordine et aliae in suo. Sed tunc cum secundum 
+      <lb ed="#B" n="17"/>actorem de causis propositione prima. Omnis 
+      <lb ed="#B" n="18"/>causa prima plus est influens super causatum 
+      <lb ed="#B" n="19"/>suum quam causa secunda: et per consequens totum causat: 
+      <lb ed="#B" n="20"/>et ita causae caetere nihil causabunt. Dicendum 
+      <lb ed="#B" n="21"/>quod totum causat: et tamen caeterae causae causant: 
+      <lb ed="#B" n="22"/>imaginatur enim argumentum istud: quod causatio 
+      <lb ed="#B" n="23"/>ista sit successiua: ita quod causa prima primo 
+      cau<lb ed="#B" n="24" break="no"/>set in vno instanti: et causae aliae in alio 
+      instan<lb ed="#B" n="25" break="no"/>ti. Sed non est sic: immo omnes in eodemu 
+      <lb ed="#B" n="26"/>instanti causant: ita quod sunt signa permanentia 
+      <lb ed="#B" n="27"/>Et est exemplum. Pater et filius sunt vnum 
+      <lb ed="#B" n="28"/>principium spiritus sancti: et pater prius origine pro 
+      <lb ed="#B" n="29"/>ducit spiritum sanctum quam filius: nec tamen tollitur quin 
+      <lb ed="#B" n="30"/>eum producat filius. Et si obiicitur: quia no 
+      vi<lb ed="#B" n="31" break="no"/>detur quod concurrat diuina voluntas ad 
+      pec<lb ed="#B" n="32" break="no"/>catum. Dicendum quod si sit peccatum commissionis 
+      <lb ed="#B" n="33"/>concurrit ad substratum peccati: et non ad 
+      de<lb ed="#B" n="34" break="no"/>formitatem: immo ipsa deformitas est a vo 
+      <lb ed="#B" n="35"/>luntate creata. Et si dicatur quod sunt alia secundum 
+      <lb ed="#B" n="36"/>Aristo. in secundo ethicorum: quae mox nomina 
+      <lb ed="#B" n="37"/>ta habent annexam maliciam sicut mentiri: et 
+      <lb ed="#B" n="38"/>in theologia odire deum.
+</p>
+               <p xml:id="WuV37d-e50129-d1e1157">
+¶ Hic dicit 
+      <lb ed="#B" n="39"/>Guilb. oclian in suo centilogio quod posset 
+      <lb ed="#B" n="40"/>quis meritoriae odire deum: sicut si deus 
+      prae<lb ed="#B" n="41" break="no"/>ciperet seipsum odire. sed hoc est tantum 
+      <lb ed="#B" n="42"/>piarum offensiuum aurium: vt impugnari non 
+      <lb ed="#B" n="43"/>debeat. In prima tabula non cadit dispen 
+      <lb ed="#B" n="44"/>satio: vt patebit in tertio vnde dicendum quod 
+      <lb ed="#B" n="45"/>licet deus ad totum tunc concurrat non 
+      ta<lb ed="#B" n="46" break="no"/>men peccat: quia illa deformitas ex 
+      par<lb ed="#B" n="47" break="no"/>te est voluntatis create. De hoc in secundo 
+      </p>
+               <p xml:id="WuV37d-e50129-d1e1179">
+                  <lb ed="#B" n="48"/>¶ Ex quo patet peccatum impii manes: a quae 
+      <lb ed="#B" n="49"/>sunt manichei dicti: vt habetur in decre¬ 
+      <!--232.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>tis. 24. q. 3. ca. quidam autem haeretici: hii 
+      po<lb ed="#B" n="51" break="no"/>nunt vnum creatorem visibilium: alium 
+      inuisibili<lb ed="#B" n="52" break="no"/>um: patet oppositum ex conclusione: omnia enim 
+      <lb ed="#B" n="53"/>ex deo condita sunt.
+</p>
+               <p xml:id="WuV37d-e50129-d1e1199">
+¶ Tertia conclusio est 
+      <lb ed="#B" n="54"/>de voluntate signi et est hec: perfecta signi 
+      <lb ed="#B" n="55"/>voluntas voluntati beneplaciti est eadem 
+      <lb ed="#B" n="56"/>ex parte rei et ab ea sola est ratione 
+      diffe<lb ed="#B" n="57" break="no"/>rens. Ista conclusio declaratur exemplo: 
+      <lb ed="#B" n="58"/>sit aliquis princeps qui inquantum potest 
+      labo<lb ed="#B" n="59" break="no"/>ret ad faciendum aliquid tunc dicemus quod il 
+      <lb ed="#B" n="60"/>lud vult voluntate efficaci et benmemplaciti quod 
+      <lb ed="#B" n="61"/>idem est. Rursus: idem priceps dicat suis 
+      of<lb ed="#B" n="62" break="no"/>ficialibus facite hoc: aut dimittite hoc: sed 
+      <lb ed="#B" n="63"/>non prosequatur vt fiat: aut non fiat toto 
+      <lb ed="#B" n="64"/>posse: haec est voluntas signi ex quo enim 
+      praeci<lb ed="#B" n="65" break="no"/>pit aut prohibet signum est quod vult: sed quia id 
+      <lb ed="#B" n="66"/>non prosequitur toto posse non vult efficaciter 
+      <lb ed="#B" n="67"/>sic in deo illa quae deus actu facit vult vo 
+      <lb ed="#B" n="68"/>luntate beneplaciti: id autem quod praecipit faci 
+      <lb ed="#B" n="69"/>endum aut consulit: et sic de aliis vult volun 
+      <lb ed="#B" n="70"/>tate signi: signum est enim velle dare 
+      prece<lb ed="#B" n="71" break="no"/>pta et consimilia: et ita eadem est voluntas 
+      so<lb ed="#B" n="72" break="no"/>um differens ratione secundum diuersa volita. 
+      <lb ed="#B" n="73"/>Quantum ad tertium 
+      articu<lb ed="#B" n="74" break="no"/>lum: sunt 
+      <lb ed="#B" n="75"/>tres difficultates.
+</p>
+               <p xml:id="WuV37d-e50129-d1e1249">
+¶ Prima quare non di 
+      <lb ed="#B" n="76"/>citur deus ita omniuolens sicut omnisciens vel e 
+      <lb ed="#B" n="77"/>omnipotens. Respondit doctor deuotus hac lin 
+      <lb ed="#B" n="78"/>dist. q. 2. quod ratio est: quia quando dico 
+      omni<lb ed="#B" n="79" break="no"/>sciens aut omnipotens: non pono scibilia actu aut 
+      <lb ed="#B" n="80"/>possibilia: scit enim deus multa quae numquam 
+      fi<lb ed="#B" n="81" break="no"/>ent: et potest multa quae numquam euenient: quam 
+      <lb ed="#B" n="82"/>do autem dico omniuolens: pono volitum actu: 
+      <lb ed="#B" n="83"/>aut in dispositione aut essendum: et hoc est 
+      fal<lb ed="#B" n="84" break="no"/>sum: quia multa sunt in potentia dei quae nec 
+      <lb ed="#B" n="85"/>sunt in dispositione dei ad essendum: iodeo non 
+      <lb ed="#B" n="86"/>conceditur ista: deus est omniuolens: sicut ista: 
+      <lb ed="#B" n="87"/>deus est omnipotens: aut omnisciens 
+      </p>
+               <p xml:id="WuV37d-e50129-d1e1279">
+                  <lb ed="#B" n="88"/>¶ Secunda difficultas. vnde est quod magis 
+      <lb ed="#B" n="89"/>tractando de his tribus attributis: primo 
+      <lb ed="#B" n="90"/>egit de scientia. secundo de potentia. tertio 
+      <lb ed="#B" n="91"/>de voluntate: et doctor irrefragabilis. primo 
+      <lb ed="#B" n="92"/>de potentia. secundo de scientia: tertio de 
+      <lb ed="#B" n="93"/>voluntate prima parte sum:ne dico quod 
+      di<lb ed="#B" n="94" break="no"/>uerse considerationes hoc fecerunt. Conside 
+      <lb ed="#B" n="95"/>rauit enim magister quod amplioris latitudis 
+      <lb ed="#B" n="96"/>est scientia quo ad obiectum quam potentia: quia dei 
+      <lb ed="#B" n="97"/>scientia bona et mala: et tamen solum potest bona 
+      <lb ed="#B" n="98"/>Rursus. amplior est potentia quam voluntas 
+      <!--233.xml-->
+      <pb ed="#B" n="108-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>quia multa potest quae non vult actu esse: ideo prae 
+      or<lb ed="#B" n="2" break="no"/>dinauit scientiam: consequenr potentiam: vltimo volun 
+      <lb ed="#B" n="3"/>tatem. Doctor autem irrefragabilis aspexit 
+      di<lb ed="#B" n="4" break="no"/>ctum Rich. in de trinitate dicentis: multa 
+      ha<lb ed="#B" n="5" break="no"/>bet posse quae non habent scire: sicut arbores 
+      <lb ed="#B" n="6"/>multa scire quae non velle: ideo praeordinauit 
+      <lb ed="#B" n="7"/>potentiam: secundo scientiam: tertio 
+      volunta<lb ed="#B" n="8" break="no"/>tem: ita quod magister aspexit obiectum: sed 
+      do<lb ed="#B" n="9" break="no"/>ctor alexam: subiectum: ideo vterque diuersis 
+      <lb ed="#B" n="10"/>viis bene dixerunt.
+</p>
+               <p xml:id="WuV37d-e50129-d1e1333">
+¶ Tertia difficultas 
+      <lb ed="#B" n="11"/>vbi apparuit primo voluntas signi. Dico 
+      <lb ed="#B" n="12"/>quod in caelo dum in mente angeli lux creata fu 
+      <lb ed="#B" n="13"/>it dictans deum venerandum a qua recessit lu 
+      <lb ed="#B" n="14"/>cifer et angeli eius. secundo in paradiso ter 
+      <lb ed="#B" n="15"/>restri in prohibitione ligni vitae: a qua rece 
+      <lb ed="#B" n="16"/>sit adam et eua eius vxor misera. tertio in hac 
+      <lb ed="#B" n="17"/>valle miseriae: a qua recedunt peccatores  
+      <lb ed="#B" n="18"/>Et sic patet ad quaestionem: quod perfectissima 
+      <lb ed="#B" n="19"/>dei voluntas signo et beneplacito rectissi 
+      <lb ed="#B" n="20"/>me diuiditur. Tunc ad argumenta.
+</p>
+               <p xml:id="WuV37d-e50129-d1e1357">
+¶ Ad  
+      <lb ed="#B" n="21"/>primum: nego maiorem: et dum probat de 
+      circu<lb ed="#B" n="22" break="no"/>lo ante tabernam. Dico quod non sufficit vnum 
+      <lb ed="#B" n="23"/>indiuiduum ad verificandum vnam vnibilem: vri 
+      <lb ed="#B" n="24"/>na enim est signum sanitatis: et tamen dicitur sana: 
+      <lb ed="#B" n="25"/>sic in proposito praeceptum dei dicitur signum 
+      <lb ed="#B" n="26"/>voluntatis dei: et dicitur voluntas dei sicut 
+      <lb ed="#B" n="27"/>obiectum participat nomen illius cuius extat 
+      <lb ed="#B" n="28"/>obiectum: sicut principia dicuntur intellectus 
+      <lb ed="#B" n="29"/>um quia sunt obiectum intellectus.
+</p>
+               <p xml:id="WuV37d-e50129-d1e1379">
+¶ Ad secundum 
+      <lb ed="#B" n="30"/>dico: quod equocat de voluntate beneplacit 
+      <lb ed="#B" n="31"/>Uno modo enim vt dictum est in primo articulo 
+      <lb ed="#B" n="32"/>dicitur voluntas beneplaciti: voluntas dei 
+      <lb ed="#B" n="33"/>efficax: et sic capitur vt diuiditur contra volunta 
+      <lb ed="#B" n="34"/>tem signi. Alio modo dicitur voluntas bempla 
+      <lb ed="#B" n="35"/>citi: vt se habet in communi ad id totum quod 
+      <lb ed="#B" n="36"/>non impedit: et sic est communis tam volunta 
+      <lb ed="#B" n="37"/>ti signi quam beneplaciti proprie sumpti: sed non 
+      <lb ed="#B" n="38"/>capitur sic in diuisione.
+</p>
+               <p xml:id="WuV37d-e50129-d1e1401">
+¶ Ad tertium 
+      di<lb ed="#B" n="39" break="no"/>cendum: quod est diuisio ex parte rei in se: et 
+      <lb ed="#B" n="40"/>isto modo vnica simplicissima est dei volun 
+      <lb ed="#B" n="41"/>tas non diuisa: nec diuisibilis. Alio modo est di 
+      <lb ed="#B" n="42"/>uisio ex parte modi significandi: et sic nihil 
+      <lb ed="#B" n="43"/>probibet diuinam voluntatem diuersimode si 
+      <lb ed="#B" n="44"/>gnificari: secundum quod aliter et aliter nobis 
+      ma<lb ed="#B" n="45" break="no"/>nifestatur: sicut in proposito. Et sic patet ad 
+      <lb ed="#B" n="46"/>quaestionem.
+</p>
+            </div>
+            <div xml:id="WuV37d-e50129-Dd1e1422" type="et-conclusiones">
+               <head xml:id="WuV37d-e50129-Hd1e1424">Conclusiones</head>
+               <p xml:id="WuV37d-e50129-d1e1427">
+¶ Ex praesenti autem 
+      distin<lb ed="#B" n="47" break="no"/>ctione tres capiuntur conclusiones. 
+      Pri<lb ed="#B" n="48" break="no"/>ma dei essentia voluntas dicitur atque 
+      concedi<lb ed="#B" n="49" break="no"/>tur sicut scientia: dicit conclusio quod sicut con 
+      <!--233.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>ceditur: quod diuina scientia sit diuina 
+      essen<lb ed="#B" n="51" break="no"/>tia: ita concaditur: quod diuina voluntas sit 
+      di<lb ed="#B" n="52" break="no"/>uina essentiam. Et ponitur a principio 
+      distin<lb ed="#B" n="53" break="no"/>ctionis vsque ibi: haec itaque summe bona etc. 
+</p>
+               <p xml:id="WuV37d-e50129-d1e1449">
+                  <lb ed="#B" n="54"/>Secunda conclusio dei volitio est super omnia 
+      <lb ed="#B" n="55"/>causa primaria et semper ratio. Dicit con 
+      <lb ed="#B" n="56"/>clusio quod diuina voluntas est causa prima 
+      <lb ed="#B" n="57"/>ria omnium entium. Et ponitur ab illo loco: Hec 
+      <lb ed="#B" n="58"/>itaque etc. vsque ibi: hic non est 
+      praetermitten<lb ed="#B" n="59" break="no"/>dum etc.
+</p>
+               <p xml:id="WuV37d-e50129-d1e1465">
+  Tertia conclusio. In beneplacitum 
+      <lb ed="#B" n="60"/>velle dei dicitur: et signum positum vt hic scri 
+      <lb ed="#B" n="61"/>bitur. Dicit conclusio quod voluntas diuina 
+      diui<lb ed="#B" n="62" break="no"/>ditur sufficienter in voluntatem signi et 
+      be<lb ed="#B" n="63" break="no"/>neplaciti. Et ponitur ab illo capitulo. Hic non 
+      <lb ed="#B" n="64"/>est praeter. etc. vsque ad finem distinctionis. 
+</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

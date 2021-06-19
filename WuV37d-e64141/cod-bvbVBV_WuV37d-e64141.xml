@@ -1,0 +1,783 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 4</title>
+            <author ref="#WilliamDeVaurouillon">William de Vaurouillon</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 4</title>
+               <date when="2021-06-19">June 19, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-bvbVBV">Basel 1510</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-06-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="139-v"/>
+            <cb ed="#B" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="WuV37d-e64141"><!-- l2d4 -->
+            <head xml:id="WuV37d-e64141-Hd1e108">Distinctio 4</head>
+            <div xml:id="WuV37d-e64141-Dd1e111" type="circa-textum">
+               <head xml:id="WuV37d-e64141-Hd1e113">Circa textum</head>
+               <p xml:id="WuV37d-e64141-d1e116">
+                  <lb ed="#B" n="58"/>Distinctio. 4. li. 2. in quo magister agit 
+      <lb ed="#B" n="59"/>de angelorum creatione quantum ad 
+      <lb ed="#B" n="60"/>habitum beatitudinis et miseriae prius 
+      <lb ed="#B" n="61"/>tamen de primo.
+    </p>
+               <p xml:id="WuV37d-e64141-d1e127">
+                  <lb ed="#B" n="62"/>Ost haec videm 
+      <lb ed="#B" n="63"/>dum est vtrum perfectos 
+      <lb ed="#B" n="64"/>et beatos creauit de 
+      <lb ed="#B" n="65"/>angelos an miseros: 
+      <lb ed="#B" n="66"/>et imperfectos etc. Hic si 
+      <lb ed="#B" n="67"/>gnatur quarta distinctio huius: secundiquae sic com 
+      <lb ed="#B" n="68"/>tinuatur ad praecedentes: Nam postquam in praecedenti 
+      <lb ed="#B" n="69"/>distinctione ostensum est quales fuerint 
+      ange<lb ed="#B" n="70" break="no"/>li conditi quo ad innocentiam: in praesenti distinctione 
+      <lb ed="#B" n="71"/>omnndit quales sint conditi ad summam gloriam 
+      <lb ed="#B" n="72"/>et diuiditur in tres partes. In prima ponitur du 
+      <lb ed="#B" n="73"/>bia quaestio. In secunda tangitur determina 
+      <lb ed="#B" n="74"/>tio. In tertia sequitur epilogatio. prima in 
+      prin<lb ed="#B" n="75" break="no"/>cipio: secunda ibi. Ad quod dici potest etc. tertia 
+      <lb ed="#B" n="76"/>ibi. Quales fuerunt. prima parte indiuisa ma 
+      <lb ed="#B" n="77"/>nente. Secunda pars in quae dubie quaestionis tangil 
+      <lb ed="#B" n="78"/>determinatio: in tres partes diuiditur. In 
+      pri<lb ed="#B" n="79" break="no"/>ma onndit angelos batos vel miseros non esse 
+      <lb ed="#B" n="80"/>conditos. In secunda imperfectos factos vel perfe 
+      <lb ed="#B" n="81"/>ctos fuisse editos. In tertia tres perfecti ca 
+      <lb ed="#B" n="82"/>ptos modos donat bene elicitos. prima in prin 
+      <lb ed="#B" n="83"/>cipio. secunda ibi. Ad hoc autem quod quaerebatur etc. 
+      <lb ed="#B" n="84"/>tertia ibi. Dicitur namque perfectum tribus modis 
+      <lb ed="#B" n="85"/>etc. Rursus prima particula: in quae docet magis 
+      <lb ed="#B" n="86"/>angelos beatos vel miseros non esse conditos: in 
+      <lb ed="#B" n="87"/>tres partes diuiditur. In prima sedulus 
+      malo<lb ed="#B" n="88" break="no"/>rum primo exponitur. In secunda titulus 
+      bono<lb ed="#B" n="89" break="no"/>rum exhic exprimitur. In tertia rotulus verorum 
+      <lb ed="#B" n="90"/>palam colligitur. prima in principio. secunda ibi. 
+      <lb ed="#B" n="91"/>Boni vero et qui perstiterunt. tertia ibi. Ex 
+      praedi<lb ed="#B" n="92" break="no"/>ctis consequitur etc. Et haec est diuisio praesentis etc. 
+      </p>
+            </div>
+            <div xml:id="WuV37d-e64141-Dd1e198">
+               <head xml:id="WuV37d-e64141-Hd1e200">Quaestio</head>
+               <p xml:id="WuV37d-e64141-d1e203">
+                  <lb ed="#B" n="93"/>¶ Quaestio ista determinat de mora 
+      <lb ed="#B" n="94"/>quo fuit inter creationem et beatitudinemus 
+      <lb ed="#B" n="95"/>aut danatione angelorum: in qua 
+      repro<lb ed="#B" n="96" break="no"/>bat opiniones sctorum bonaue. et 
+      tho<lb ed="#B" n="97" break="no"/>quae quaestio habter a sco. li. 2. di. 4. q. vnica. 
+      <!--296.xml-->
+      <pb ed="#B" n="140-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>Utrum angelus 
+      <lb ed="#B" n="2"/>noticia matutina ac vespertina 
+      <lb ed="#B" n="3"/>decoratus fuerit in beatitudine 
+      su<lb ed="#B" n="4" break="no"/>pernaturali conditus. Et arguitur quod sic tri 
+      <lb ed="#B" n="5"/>plici medio.
+</p>
+               <p xml:id="WuV37d-e64141-d1e234">
+¶ Primo sic. Angelus a sui 
+      <lb ed="#B" n="6"/>exordio fuit beatus beatitudine naturali. 
+      <lb ed="#B" n="7"/>igitur et supernaturali: antecedens probatur. quia a prin 
+      <lb ed="#B" n="8"/>cipio habuit illam speciem: de qua in praeceden 
+      <lb ed="#B" n="9"/>ti lectione dictum est: in qua diuina veluti in 
+      <lb ed="#B" n="10"/>speculo relucebat essentia: et intellectum 
+      ha<lb ed="#B" n="11" break="no"/>bebat non impeditum: et per consequens cum illa sup 
+      <lb ed="#B" n="12"/>alias species esset nobilior: sper per eam 
+      an<lb ed="#B" n="13" break="no"/>gelus diuinam intelligebat essentiam: in qua est 
+      <lb ed="#B" n="14"/>beatitudo: sed probatur consequenta: quia causa bea 
+      <lb ed="#B" n="15"/>titudinis supernaturalis non est minus 
+      po<lb ed="#B" n="16" break="no"/>tens quam beatitudinis naturalis: et ita si pri 
+      <lb ed="#B" n="17"/>ma a principio mouebat et secunda.
+</p>
+               <p xml:id="WuV37d-e64141-d1e263">
+¶ Se 
+      <lb ed="#B" n="18"/>cundo arguitur sic. vniuersum est perfectum 
+      <lb ed="#B" n="19"/>igitur angelus conditus est beatus. antecedens patet 
+      <lb ed="#B" n="20"/>Uidit deus cuncta quae fecerat: et erant val 
+      <lb ed="#B" n="21"/>de bona. Sed probatur consequenta: quia perfecto 
+      <lb ed="#B" n="22"/>nihil deest. ex. 5. metaph. et ita sicut aliqua 
+      <lb ed="#B" n="23"/>creatura intellectualis (sicut homo) a sui 
+      <lb ed="#B" n="24"/>principio condita est mutabilis: ita opor 
+      <lb ed="#B" n="25"/>tuit aliam intellectualem creari immutabi 
+      <lb ed="#B" n="26"/>lem in lib. arbitrio. alioquin defecisset hoc 
+      <lb ed="#B" n="27"/>gradus in rerum conditione.
+</p>
+               <p xml:id="WuV37d-e64141-d1e287">
+¶ Tertio 
+      ar<lb ed="#B" n="28" break="no"/>guitur sic: omne habens a sui exordio in 
+      ple<lb ed="#B" n="29" break="no"/>nitudine donum sapientiae: in beatitudine fu 
+      <lb ed="#B" n="30"/>it conditum: sed angeli fuerunt 
+      huiusmodi<lb ed="#B" n="31" break="no"/>gitur. maior patet. nam sapientia donum est ex 
+      <lb ed="#B" n="32"/>cellentissimum sanctis piritus: in qua consum 
+      <lb ed="#B" n="33"/>matio extat tam intellectus quam affectus. Sed  
+      <lb ed="#B" n="34"/>minor patet per Emech. vbi inquit ad lucife 
+      <lb ed="#B" n="35"/>rum. Tu plenus sapientia: et perfectus de 
+      <lb ed="#B" n="36"/>core in deliciis paradisi fuisti. In 
+      opposi<lb ed="#B" n="37" break="no"/>tum arguitur auctoritate magistri in littera dicen 
+      <lb ed="#B" n="38"/>tis: quod primo conditi sunt postea aliqui 
+      mi<lb ed="#B" n="39" break="no"/>seri: aliqui beati effecti sunt. Et Aug. super 
+      <lb ed="#B" n="40"/>Sen. dicit. quod angelus primo factus est 
+      in<lb ed="#B" n="41" break="no"/>formis secundo lux. 
+      </p>
+               <p xml:id="WuV37d-e64141-d1e321">
+                  <lb ed="#B" n="42"/>¶ In ista quaestione sunt tres articuli. 
+      <lb ed="#B" n="43"/>Primus est terminorum declaratiuus 
+      <lb ed="#B" n="44"/>Quorum Secundus est quaestionis responsiuus 
+      </p>
+               <p xml:id="WuV37d-e64141-d1e330">
+                  <lb ed="#B" n="45"/>¶ Tertius est dubiorum motiuus. 
+      <lb ed="#B" n="46"/>Quo ad primum articulum 
+      <lb ed="#B" n="47"/>termini sunt 
+      <lb ed="#B" n="48"/>batitudo: noticia matutia: et noticia vespti 
+      <!--296.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="49"/>na.
+</p>
+               <p xml:id="WuV37d-e64141-d1e348">
+¶ Primus igitur terminus est beati 
+      <lb ed="#B" n="50"/>tudo: vnde beatitudo secundum Boetium 
+      ter<lb ed="#B" n="51" break="no"/>tio de consolatione. Est status omnium bono 
+      <lb ed="#B" n="52"/>rum aggregatione perfectus. vbi boetius 
+      <lb ed="#B" n="53"/>tria notat. Primo vocat beatitudinem sta 
+      <lb ed="#B" n="54"/>tum. Unde alibi Boetius dicit Quid me feli 
+      <lb ed="#B" n="55"/>cem totiens iactastis amici: quae cecidit stabili non 
+      <lb ed="#B" n="56"/>erat ille gradum. Ex quo patet inuariabili 
+      <lb ed="#B" n="57"/>tatem de ratione fore beatitudinis. Secundo 
+      <lb ed="#B" n="58"/>notat in beatitudine omnium fore 
+      aggregatio<lb ed="#B" n="59" break="no"/>nem bonorum. ideo dicit omnium bonorum 
+      aggre<lb ed="#B" n="60" break="no"/>gatione: et ista aggregatio ad tria reducitur 
+      <lb ed="#B" n="61"/>ad visionem diuinae essentiae. ad fruitionem ipsi 
+      <lb ed="#B" n="62"/>us: et ad tentionem perfectam: vt tentoi sit 
+      <lb ed="#B" n="63"/>in memoria. visio in intelligentia. fruitio in 
+      <lb ed="#B" n="64"/>voluntate: vt dicitur in communi opinione. 
+      <lb ed="#B" n="65"/>Unde Bernt. Deus futurus est intellectui 
+      ple<lb ed="#B" n="66" break="no"/>nitudo lucis: voluntati multitudo pacis: 
+      <lb ed="#B" n="67"/>memoriae continuatio aeternitatis. 
+      Ter<lb ed="#B" n="68" break="no"/>tio notat: quod imperfecto extat beatitudo: ideo 
+      di<lb ed="#B" n="69" break="no"/>cit quod ille status est perfectus: cum scilicet nihil deest. 
+      <lb ed="#B" n="70"/>vnde et Aug. 13. de trinitate. ca. 55. Btam dif 
+      <lb ed="#B" n="71"/>finiens dicit. Beatus est qui habet quicquid vult 
+      <lb ed="#B" n="72"/>et nihil mali vult. Aristo. autem in 1. ethico. 
+      <lb ed="#B" n="73"/>conformen Boetio dat diffinitionem 
+      beati<lb ed="#B" n="74" break="no"/>tudinis: licet ipsam vocet felicitatem: vt 
+      <lb ed="#B" n="75"/>sit idem felix: quod beatus et beatitudo et fao 
+      <lb ed="#B" n="76"/>licitas: inquit enim. Felicitas est operatio 
+      <lb ed="#B" n="77"/>optimae potentiae secundum optimam virtutem 
+      <lb ed="#B" n="78"/>in vita continua et perfecta. In qua 
+      diffi<lb ed="#B" n="79" break="no"/>nitione illa tria boetii innuuntur. Primo 
+      <lb ed="#B" n="80"/>enim dicit: quod felicitas est operatio optime 
+      <lb ed="#B" n="81"/>potentie: quam voco voluntatem seu 
+      li<lb ed="#B" n="82" break="no"/>berum arbitrium: vt simul sit intellectus 
+      <lb ed="#B" n="83"/>et voluntas: quod autem apud Boetium dicitur 
+      <lb ed="#B" n="84"/>status apud philosophum dicitur operatio: 
+      feli<lb ed="#B" n="85" break="no"/>citas enim in opere stat quietis: quod nominat 
+      <lb ed="#B" n="86"/>status sicuti contemplatio. Secundo 
+      di<lb ed="#B" n="87" break="no"/>cit secundum optimam virtutem: optimam in 
+      pro<lb ed="#B" n="88" break="no"/>posito voco virtutem sapientiam quae 
+      illu<lb ed="#B" n="89" break="no"/>minat intellectum et dicitur a sapere et 
+      in<lb ed="#B" n="90" break="no"/>flammat affectum: et dicitur a sapore: et ita 
+      <lb ed="#B" n="91"/>totam perficit superiorem portionem: et 
+      <lb ed="#B" n="92"/>hoc inquit Boetius dum dicit omnium 
+      <lb ed="#B" n="93"/>bonorum aggregatione. Tertio dicit in 
+      <lb ed="#B" n="94"/>vita continua et perfecta: vita quoque 
+      con<lb ed="#B" n="95" break="no"/>tinua beata nequaquam interrumpitur: vnde 
+      <lb ed="#B" n="96"/>in eodem primo ethicorum dicitur: quod 
+      <lb ed="#B" n="97"/>vna hirundo ver non fatur: hoc innuit Boetius 
+      <!--297.xml-->
+      <pb ed="#B" n="140-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>ita dicens quod beatitudo est status 
+      perfe<lb ed="#B" n="2" break="no"/>ctus.
+</p>
+               <p xml:id="WuV37d-e64141-d1e465">
+¶ Ulterius noto quod beatitudo 
+      so<lb ed="#B" n="3" break="no"/>iet capi tripliciter. Primo modo dicitur 
+      <lb ed="#B" n="4"/>beatitudo pro sola dispositione remota 
+      <lb ed="#B" n="5"/>ad beatitudinem: et hoc modo dicit philosophus 
+      <lb ed="#B" n="6"/>in primo ethicorum: quod pueros bone 
+      indo<lb ed="#B" n="7" break="no"/>lis beatificamus: inquantum scilicet sunt dispo 
+      <lb ed="#B" n="8"/>siti ad beatitudinem. Secundo dicitur bea 
+      <lb ed="#B" n="9"/>titudo pro quadam elevata participatio 
+      <lb ed="#B" n="10"/>ne supraemae et supernaturalis 
+      beatitudi<lb ed="#B" n="11" break="no"/>nis per cognitionem et amorem: hoc 
+      mo<lb ed="#B" n="12" break="no"/>do felicitas actiua: de qua agit philosophus in 
+      pri<lb ed="#B" n="13" break="no"/>nio aethicorum: et contemplatiua de qua agit in 
+      <lb ed="#B" n="14"/>decimo dicuntur beatitudo: et sic in sua 
+      cre<lb ed="#B" n="15" break="no"/>atione dicit Aug. in li. de fide ad petrum bo 
+      <lb ed="#B" n="16"/>nos fuisse creatos angelos: vnde inquit An 
+      <lb ed="#B" n="17"/>gelici spiritus pro eo quod rationabiles sunt per 
+      <lb ed="#B" n="18"/>fecte aeternitatis et beatitudinis donum in 
+      <lb ed="#B" n="19"/>ipsa naturae suae spirituali creatione diuini 
+      <lb ed="#B" n="20"/>tus acceperunt. Tertio dicitur beatitude 
+      <lb ed="#B" n="21"/>ille supremus status in quo deus reuela 
+      <lb ed="#B" n="22"/>ta facie aspicitur contemplandus. de qua dicitur 
+      <lb ed="#B" n="23"/>Haec est vita aeterna: vt cognoscant te deum 
+      <lb ed="#B" n="24"/>et quem misisti iesum christum.
+</p>
+               <p xml:id="WuV37d-e64141-d1e515">
+¶ Secundus 
+      <lb ed="#B" n="25"/>terminus est noticia matutina. Unde 
+      <lb ed="#B" n="26"/>noticia matutina a mane dicitur. solet autem 
+      <lb ed="#B" n="27"/>dici tripliciter noticia matutina. Primo 
+      <lb ed="#B" n="28"/>dicitur noticia matutina: vt opponitur con 
+      <lb ed="#B" n="29"/>tra acquisitam noticiam: et sic in angelis nomina 
+      <lb ed="#B" n="30"/>tur noticia matutina: quae ab ipsorum 
+      crea<lb ed="#B" n="31" break="no"/>tione in eis infunditur: et isto modo tam 
+      noti<lb ed="#B" n="32" break="no"/>cia verbi per illam speciem de qua dictum est: 
+      <lb ed="#B" n="33"/>quam rerum in verbo quam etiam per innatas spe 
+      <lb ed="#B" n="34"/>cies: et rerum aliquarum in proprio gene dicitur 
+      <lb ed="#B" n="35"/>noticia matutina. Secundo dicitur noticia 
+      <lb ed="#B" n="36"/>matutina quae est visorum in diuina essentia 
+      <lb ed="#B" n="37"/>siue videns habeat gloriam siue non: et hoc 
+      <lb ed="#B" n="38"/>modo aug. dicere videtur super Sen. ad 
+      lit<lb ed="#B" n="39" break="no"/>teram: an gelos in statu innocentiae habuisse 
+      <lb ed="#B" n="40"/>in verbo noticiam matutinam: et hoc satis in 
+      <lb ed="#B" n="41"/>vnuere videtur sacer textus Benes. 
+      Praemit<lb ed="#B" n="42" break="no"/>tit enim vespere ipsi mane dum dicit factum est 
+      <lb ed="#B" n="43"/>vespere et mane quod non esset nisi praesuppo 
+      <lb ed="#B" n="44"/>neret aliquam matutinam noticiam in angelis 
+      <lb ed="#B" n="45"/>ante statum gloriae. Tertio modo dicitur no 
+      <lb ed="#B" n="46"/>ticia matutina: noticia rerum in verbo in sta 
+      <lb ed="#B" n="47"/>tu glesiae: et hoc modo sequitur noticiam vespartinam: vt 
+      <lb ed="#B" n="48"/>prima sit noticia matutina: quae est rerum in 
+      ver<lb ed="#B" n="49" break="no"/>bo in statu innocentiae non considerato statu 
+      <!--297.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>gliae Secunda noticia vespartina qua est rerum: 
+      <lb ed="#B" n="51"/>aut per innatas species: aut in propeo genie. 
+      Ter<lb ed="#B" n="52" break="no"/>tia est ista matutia: quae est in statu glsie: ideo 
+      ve<lb ed="#B" n="53" break="no"/>spere praecedit et mane sequitur. vnde factum est. 
+      <lb ed="#B" n="54"/>vespere et mane dies vnus.
+</p>
+               <p xml:id="WuV37d-e64141-d1e587">
+¶ Tertius 
+      <lb ed="#B" n="55"/>terminus est noticia vespertina a vespe 
+      <lb ed="#B" n="56"/>re: vnde notat doctor deuotus hac dist. arti. 
+      <lb ed="#B" n="57"/>q. 2. dicit noticiam fore angelicam. In hac 
+      di<lb ed="#B" n="58" break="no"/>sunt tria lux: mane: et vespere. lux a mane in 
+      <lb ed="#B" n="59"/>cipit: et in vespere terminatur: lux igitur ipsa est 
+      <lb ed="#B" n="60"/>lux vera quae omnem hominem illuminat venien 
+      <lb ed="#B" n="61"/>tem in hunc mundum. Primo igitur angeli dies 
+      <lb ed="#B" n="62"/>incipit in mane id est in noticiam rerum in verbo a 
+      <lb ed="#B" n="63"/>quo prodeunt: sicut a mane reliqua diei par 
+      <lb ed="#B" n="64"/>ticula tendit: vt tandem in vespere finiatur id est 
+      <lb ed="#B" n="65"/>in noticia rerum in proprio genere. 
+</p>
+               <p xml:id="WuV37d-e64141-d1e614">
+¶ Noto 
+      <lb ed="#B" n="66"/>tamen quod noticia vespertina lolet capi triplio 
+      <lb ed="#B" n="67"/>ter. Primo modo pro noticia obscura: sicut et ion 
+      <lb ed="#B" n="68"/>hora vespertina: et hoc modo daemonum noticia 
+      <lb ed="#B" n="69"/>per species innatas dicitur vespartina: respectu 
+      <lb ed="#B" n="70"/>angelorum supernorum. Secundo dicitur in ange 
+      <lb ed="#B" n="71"/>lis bonis noticia vespertina simpliciter: vt 
+      <lb ed="#B" n="72"/>opponitur contra matutinam noticiam: et hoc modo 
+      <lb ed="#B" n="73"/>tam noticia rerum per innatas species: quam in proprio 
+      <lb ed="#B" n="74"/>genere dicitur vespartina: quia creatura eius vmus 
+      <lb ed="#B" n="75"/>bra dicitur: quae posuit tenebras latibulum 
+      suum<lb ed="#B" n="76" break="no"/>Tertio dicitur noticia vespartina: solum rerum 
+      <lb ed="#B" n="77"/>cognitio in proprio genere: et hoc modo cogni 
+      <lb ed="#B" n="78"/>tio rerum per species innatas non dicitur 
+      vesperti<lb ed="#B" n="79" break="no"/>na nisi secundum quid scilicet per comparationem ad matu 
+      <lb ed="#B" n="80"/>tinam in verbo. alia autem dicitur vespertina sim 
+      <lb ed="#B" n="81"/>pliciter: quia est creature in suo proprio esse qua 
+      <lb ed="#B" n="82"/>est vesper diei. Et tantum de primo articulo. 
+      <lb ed="#B" n="83"/>Quantum ad secudii 
+      arti<lb ed="#B" n="84" break="no"/>culum in 
+      <lb ed="#B" n="85"/>sunt tres conclusiones. prima est de angelica beati 
+      <lb ed="#B" n="86"/>tudine. secunda de praeuisione beatitudis. 
+      ter<lb ed="#B" n="87" break="no"/>tia de matutima noticia et vespertina ante ipsam 
+      <lb ed="#B" n="88"/>btitudinem. Prima est haec. Sic ante summum beati 
+      <lb ed="#B" n="89"/>tudinis apicem sunt angeli conditi: vt simu 
+      <lb ed="#B" n="90"/>in gratuitis formarentur.
+</p>
+               <p xml:id="WuV37d-e64141-d1e671">
+¶ Prima pars 
+      <lb ed="#B" n="91"/>dicit quod angeli sunt conditi per quandam moram 
+      <lb ed="#B" n="92"/>ante summum gradum beatitudinis: probatur: si 
+      <lb ed="#B" n="93"/>nempe fuissent beati conditi: aut omnes: aut aliqui 
+      eo<lb ed="#B" n="94" break="no"/>rum aliqui non. non primum: quia angeli 
+      apostati<lb ed="#B" n="95" break="no"/>ci numquam fuerunt beati: perseuerantia quippe 
+      <lb ed="#B" n="96"/>seu tencio pars est magna faelicitatis: quam hii 
+      <lb ed="#B" n="97"/>non habueft: nec secundum: quia tunc isti beati multo 
+      <lb ed="#B" n="98"/>clarior es fuissent lucifero: tum ratione batitudis 
+      <!--298.xml-->
+      <pb ed="#B" n="141-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>tum ratione nature: quia melioribus dedisset 
+      <lb ed="#B" n="2"/>in natura: vt videtur ipsam beatitudini: et 
+      <lb ed="#B" n="3"/>ita lucifer in natura non fuisset pulcherri 
+      <lb ed="#B" n="4"/>mus: cuius oppositum dicunt sancti: vt pate 
+      <lb ed="#B" n="5"/>bit infra. Et si quaeratur: an etiam mali angeli 
+      <lb ed="#B" n="6"/>sint mali conditi: vel per quandam moram 
+      prae<lb ed="#B" n="7" break="no"/>cesserit eorum natura: ipsorum actualem mali 
+      <lb ed="#B" n="8"/>ciam. Respondet magister praecedenti dist. quod 
+      <lb ed="#B" n="9"/>nec sunt ab optimo deo angeli mali condi 
+      <lb ed="#B" n="10"/>ti: quia eorum malicia in opificem redundaret 
+      <lb ed="#B" n="11"/>qui cuncta vidit quae fecerat: et erant valde 
+      <lb ed="#B" n="12"/>bona. Et dyon. dicit: quod optimi est optima 
+      <lb ed="#B" n="13"/>adducere: nec a principio fuerunt ex eorum 
+      <lb ed="#B" n="14"/>actuali malicia mali: sed per moram in bo 
+      <lb ed="#B" n="15"/>nosteterunt. vnde Aug. 11. de ciui. dei. ca. 15. 
+      <lb ed="#B" n="16"/>tractans illud: Plenus sapientia et perfectus 
+      <lb ed="#B" n="17"/>decore in delitiis paradisi dei fuisti: ita in 
+      <lb ed="#B" n="18"/>quit. In delitiis paradisi dei fuisti: tam 
+      la<lb ed="#B" n="19" break="no"/>pide praecioso ornatus es: vt aliquando sine 
+      <lb ed="#B" n="20"/>peccato viueres. Ad hoc etiam est articulus 
+      <lb ed="#B" n="21"/>facer a reuerendo patre episcopo parrhysien. 
+      <lb ed="#B" n="22"/>Dixi tamen notanter ante summum beati 
+      <lb ed="#B" n="23"/>tudinis gradum: intelliguntur nempe conditi in 
+      <lb ed="#B" n="24"/>beatitudine naturalim scilicet clari in natura: de 
+      <lb ed="#B" n="25"/>um per predictam speciem cognoscentes 
+      distin<lb ed="#B" n="26" break="no"/>cte: et eum super omnia naturali dilectione 
+      di<lb ed="#B" n="27" break="no"/>ligentes: et per species innatas rerum noti 
+      <lb ed="#B" n="28"/>ciam habentes. Unde beatitudo naturalis est 
+      <lb ed="#B" n="29"/>carere poena et culpa: et hic quod inquitAug. in 
+      <lb ed="#B" n="30"/>li. de ecclesiasticis dogmatibus: Angeli qua 
+      <lb ed="#B" n="31"/>in illa qua creati sunt beatitudine 
+      perseue<lb ed="#B" n="32" break="no"/>rant non natura possident quod non mutentur. 
+      <lb ed="#B" n="33"/>Et si alicubi occurrat: quod fuerunt creati beati 
+      <lb ed="#B" n="34"/>a principio docet doc. deuotus huius dist. 
+      <lb ed="#B" n="35"/>q. 2. triplicem solutionem. Prima est quae modo 
+      <lb ed="#B" n="36"/>dicta est scilicet quod intelligitur de beatitudine na 
+      <lb ed="#B" n="37"/>turali: non supernaturali. Secunda quod 
+      intel<lb ed="#B" n="38" break="no"/>liguntur beati a principio: quia statim post sui 
+      <lb ed="#B" n="39"/>exordium: illa enim morula fuit parua: sicut et 
+      <lb ed="#B" n="40"/>de dyabolo legitur. quod ab initio in veritate 
+      <lb ed="#B" n="41"/>non stetit id est statim post initium: quia modi 
+      <lb ed="#B" n="42"/>cum in caelis mansit.
+</p>
+               <p xml:id="WuV37d-e64141-d1e788">
+¶ Tertia solutio quod 
+      in<lb ed="#B" n="43" break="no"/>telliguntur beati a principio dispositiue: 
+      <lb ed="#B" n="44"/>quia in tanta claritate naturae conditi sunt: vt 
+      <lb ed="#B" n="45"/>nullum ad malum impedimentum: et multa ad  
+      <lb ed="#B" n="46"/>bonum adiuuamenta haberent. Sed exurgit 
+      <lb ed="#B" n="47"/>graue dubium de ista morula quae fuerit: et 
+      <lb ed="#B" n="48"/>quotta ad termpophus nostrum an hora vel dimidia: 
+      <lb ed="#B" n="49"/>vel solum per momentum fuerunt boni ante beati 
+      <!--298.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>tudinem et mali ante culpam.
+</p>
+               <p xml:id="WuV37d-e64141-d1e812">
+¶ hic 
+      respon<lb ed="#B" n="51" break="no"/>det doctor subtilis in ista distinctione per 
+      <lb ed="#B" n="52"/>tres binarios regularum euidentissime hu 
+      <lb ed="#B" n="53"/>ius negotii pandens veritatem.
+</p>
+               <p xml:id="WuV37d-e64141-d1e821">
+¶ Prima 
+      <lb ed="#B" n="54"/>regula primi binarii est merentes vsque ad  
+      <lb ed="#B" n="55"/>nunc praemiationis in illo: nec praemiati sunt 
+      <lb ed="#B" n="56"/>patet regula: quia in illo nunc non sunt in via: 
+      <lb ed="#B" n="57"/>quia illud est nunc praemii: ergo in illo non possunt 
+      <lb ed="#B" n="58"/>demereri: quia non possunt impediri quin reddatur 
+      si<lb ed="#B" n="59" break="no"/>bi praemium debitum pro merito pro tota 
+      duratio<lb ed="#B" n="60" break="no"/>ne contracta: vsque ad illud nunc: sicut nec homo 
+      <lb ed="#B" n="61"/>bene viuens in tota vita sua in instanti 
+      mor<lb ed="#B" n="62" break="no"/>tis potest demereri.
+</p>
+               <p xml:id="WuV37d-e64141-d1e843">
+¶ Ex ista regula prima 
+      <lb ed="#B" n="63"/>patet defectus vnius op. quae satis in mul 
+      <lb ed="#B" n="64"/>tis concordat cum opi. Thome quae solum in 
+      <lb ed="#B" n="65"/>ista materia ponit duas moras quas 
+      vo<lb ed="#B" n="66" break="no"/>cat duo instantia: et dicit quod in prima mora 
+      <lb ed="#B" n="67"/>seu primo instanti fuerunt omnes conditi in gra 
+      <lb ed="#B" n="68"/>tia. In secundo instanti boni meruerunt: quia 
+      <lb ed="#B" n="69"/>non posuerunt obiicem: mali demeruerunt: quia 
+      <lb ed="#B" n="70"/>posuerunt obiicem: patet oppositum ex regula 
+      <lb ed="#B" n="71"/>patet etiam quod ponit trmpophus discretum: quia instans 
+      <lb ed="#B" n="72"/>immediate succedere instanti sine tempore 
+      <lb ed="#B" n="73"/>medio quod supra dist. 2. fuit improbatum. 
+      </p>
+               <p xml:id="WuV37d-e64141-d1e870">
+                  <lb ed="#B" n="74"/>¶ Secunda regula est: quod meritum 
+      duratio<lb ed="#B" n="75" break="no"/>ne praecedit praemium. patet ex prima secundi 
+      <lb ed="#B" n="76"/>binarii. Prima regula est: quod tota mora viae 
+      <lb ed="#B" n="77"/>omnibus angelis fuit aequalis: vt sicut omnibus 
+      <lb ed="#B" n="78"/>hominibus aequaliter praefixum est tempus merendi 
+      <lb ed="#B" n="79"/>vsque ad instans morteis: ita et bonis et malis 
+      <lb ed="#B" n="80"/>angelis praefigeretur trispus aequaliter existendi in 
+      <lb ed="#B" n="81"/>via. Ex quo patet angelos aliquando fuisse via 
+      <lb ed="#B" n="82"/>tores. Secunda regula huius binarii est: 
+      <lb ed="#B" n="83"/>quod quando boni vltimate meruerunt tunc in eodem 
+      <lb ed="#B" n="84"/>instanti mali demeruerunt. patet ex praecedem 
+      <lb ed="#B" n="85"/>ti. Tertii autem binarii prima propositio est seu 
+      <lb ed="#B" n="86"/>regula: quod omnes angeli creati sunt vniformes 
+      <lb ed="#B" n="87"/>ita quod omnes in gratia: vel omnes in puris naturalibus 
+      <lb ed="#B" n="88"/>Secunda regula: et est pro secunda parte con 
+      <lb ed="#B" n="89"/>clusionis quae dicit quod omnes angeli sunt 
+      crea<lb ed="#B" n="90" break="no"/>ti in gratia: quilibet angelus in gratia 
+      fu<lb ed="#B" n="91" break="no"/>it conditus: haec enim valde est probabilis: quam 
+      <lb ed="#B" n="92"/>uis enim non sit necesse peccantem prius 
+      fu<lb ed="#B" n="93" break="no"/>isse in gratia congruum tamen est: quod illi non 
+      so<lb ed="#B" n="94" break="no"/>lum fuerunt iniusti: quia acceperunt libertatemus 
+      <lb ed="#B" n="95"/>naturalem: per quam potuerunt seruare iusticiam 
+      <lb ed="#B" n="96"/>sed quia acceperuntiusticiam gratuitam: vt 
+      in<lb ed="#B" n="97" break="no"/>nuit Anf. in locis pluribus in li. de casu 
+      <lb ed="#B" n="98"/>diaboli.
+</p>
+               <p xml:id="WuV37d-e64141-d1e927">
+¶ Ex quibus regulis infero quod tres 
+      <!--299.xml-->
+      <pb ed="#B" n="141-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>more fuerunt in omnibus angelis: seu bonis 
+      <lb ed="#B" n="2"/>seu malis: in prima mora omnes fuerunt 
+      condi<lb ed="#B" n="3" break="no"/>ti in gratia: et in hac omnes fuerunt conformes. 
+      <lb ed="#B" n="4"/>In secunda mora boni meruerunt: et mali 
+      <lb ed="#B" n="5"/>demeruerunt. Et hic incepit difformitas 
+      <lb ed="#B" n="6"/>In tertia mora boni praemiati sunt per bea 
+      <lb ed="#B" n="7"/>titudinem: et mali puniti sunt per damna 
+      <lb ed="#B" n="8"/>tionem: et in ista consummata est bonorum 
+      <lb ed="#B" n="9"/>angelorum faelicitas: et malorum miseria 
+      <lb ed="#B" n="10"/>Sed tunc quaeritur: quae fuerunt iste more: 
+      <lb ed="#B" n="11"/>sanctus Thomas somniaret vnum 
+      tem<lb ed="#B" n="12" break="no"/>pus discretum contra intentionem omnium 
+      philosopho<lb ed="#B" n="13" break="no"/>rum: et licet eum sui sequaces maximum vocent 
+      <lb ed="#B" n="14"/>philosophum: et differet quod fuerunt instantia temporis 
+      <lb ed="#B" n="15"/>discreti. sed hoc supra dist. 2. fuit 
+      impro<lb ed="#B" n="16" break="no"/>batum: ideo dicendum quod istae morae fuerunt 
+      di<lb ed="#B" n="17" break="no"/>uersa nunc eui. Sed tunc quis quaerit: quod 
+      <lb ed="#B" n="18"/>se habent heae morae ad tempus nostrum: 
+      <lb ed="#B" n="19"/>Dico ex doctore subtili: quod prima mora in 
+      <lb ed="#B" n="20"/>qua fuerunt omnes conditi in gratia: 
+      corre<lb ed="#B" n="21" break="no"/>spondebat instanti temporis nostri: ideo val 
+      <lb ed="#B" n="22"/>de fuit modica. Secunda mora in qua 
+      bo<lb ed="#B" n="23" break="no"/>ni meruerunt: et mali demeruerunt: corresponde 
+      <lb ed="#B" n="24"/>bat tempori habito seu consequenti instans 
+      corre<lb ed="#B" n="25" break="no"/>spondens primae more: et patet clementia 
+      <lb ed="#B" n="26"/>dei: qui non statim puniuit per ignem peccatum 
+      <lb ed="#B" n="27"/>angelicum. Et si dicatur tunc peccatum perman 
+      <lb ed="#B" n="28"/>sit impunitum pro aliquo momento: et ita ali 
+      <lb ed="#B" n="29"/>quid inordinatum. Dicendum quod non: nam licet 
+      <lb ed="#B" n="30"/>igne non puniretur in caelo: erat actus ille dif 
+      <lb ed="#B" n="31"/>formis sibi paena: quia ab Augstin. scriptum est. 
+      <lb ed="#B" n="32"/>Dem peccatum peccanti paena est. Et quod ista 
+      <lb ed="#B" n="33"/>mora secunda corresponderit tempori habi 
+      <lb ed="#B" n="34"/>to non solum instanti cogit: tum primo: 
+      <lb ed="#B" n="35"/>quia mali multis speciebus peccatorum 
+      <lb ed="#B" n="36"/>peccauerunt: vt patebit distinctione. 6. et 
+      <lb ed="#B" n="37"/>ita oportuit: quod vno post aliud alioquin pec 
+      <lb ed="#B" n="38"/>cata secunda non fuissent demerita: sed 
+      pae<lb ed="#B" n="39" break="no"/>ne peccati primarii: tum rursus et valde 
+      co<lb ed="#B" n="40" break="no"/>git: quia bonis angelis pro magno merito 
+      <lb ed="#B" n="41"/>ascribitur: quod vicerunt praelium tentationis. 
+      <lb ed="#B" n="42"/>Factum est praelium magnum in caelo etc. 
+      <lb ed="#B" n="43"/>Si autem solum fuisset vnum instans 
+      tempo<lb ed="#B" n="44" break="no"/>ris nostri tunc non fuisset victoria: nec hoc 
+      <lb ed="#B" n="45"/>praelium patet. quia in illo instanti mali 
+      peccas<lb ed="#B" n="46" break="no"/>sent et boni meruissent: et ita malum malorum 
+      <lb ed="#B" n="47"/>non tentasset bonos: et per consequens non 
+      fu<lb ed="#B" n="48" break="no"/>isset victoria: non poterat quippe malorum 
+      <lb ed="#B" n="49"/>peccatum tentare nisi postquam factum est. Ter 
+      <!--299.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>tie autem more in qua boni confirmati sunt 
+      <lb ed="#B" n="51"/>in gloria: et mali in obstinatione corrumpit 
+      <lb ed="#B" n="52"/>totum tempus sequens instans 
+      beatitudi<lb ed="#B" n="53" break="no"/>nis et obstinationis.
+</p>
+               <p xml:id="WuV37d-e64141-d1e1055">
+¶ Ex secunda autem par 
+      <lb ed="#B" n="54"/>te conclusionis infero: quod defecit doctor 
+      de<lb ed="#B" n="55" break="no"/>uotus hac distinctione: ponendo angelos 
+      <lb ed="#B" n="56"/>in gratia non fuisse conditos. patet oppo 
+      <lb ed="#B" n="57"/>situm ex conclusione: vnde et sanctus Tho 
+      <lb ed="#B" n="58"/>mas in secundo scripti hac distinctione: 
+      quae<lb ed="#B" n="59" break="no"/>stione. 3. hoc idem asserit scilicet angelos 
+      condi<lb ed="#B" n="60" break="no"/>tos fuisse in gratia: licet propter eum non 
+      te<lb ed="#B" n="61" break="no"/>neam conclusionem: sed alio triplici motus 
+      <lb ed="#B" n="62"/>medio. primum est expressa sanctorum 
+      au<lb ed="#B" n="63" break="no"/>ctoritas et occurrit triplex. Prima est aug. 
+      <lb ed="#B" n="64"/>12. de ciuitate dei. Creauit deus angelos 
+      <lb ed="#B" n="65"/>simul in eis condens naturam: et largiens 
+      <lb ed="#B" n="66"/>gratiam. Secunda ex glo. super illo Osee 
+      <lb ed="#B" n="67"/>verbo. Dilexerunt vinacia vinearum: glo. 
+      <lb ed="#B" n="68"/>Hiero. solum per vinacia intelliguntur 
+      <lb ed="#B" n="69"/>daemones qui creati sunt in magna 
+      pingue<lb ed="#B" n="70" break="no"/>dine spiritus sancti: sed propter habundan 
+      <lb ed="#B" n="71"/>tiam arefacti de caelo ceciderunt: pinguedo 
+      <lb ed="#B" n="72"/>autem sanctis piritus est eius gratia. Tertia 
+      <lb ed="#B" n="73"/>auctoritas est Dama. valde expressa. Per 
+      <lb ed="#B" n="74"/>verbum dei creati sunt angeli: et a spiritu 
+      <lb ed="#B" n="75"/>sancto per sanctificationem perfecti. Secun 
+      <lb ed="#B" n="76"/>dum vero medium principale mouens ad 
+      <lb ed="#B" n="77"/>haec ponendum est doctoris subtilis aucto 
+      <lb ed="#B" n="78"/>ritas in hac distinctione: innuens angelos 
+      <lb ed="#B" n="79"/>in gratia fuisse conditos. Tertium vero est 
+      <lb ed="#B" n="80"/>idoneitas angelorum: quia a sui principio 
+      <lb ed="#B" n="81"/>erant receptacula munda et specula clara 
+      <lb ed="#B" n="82"/>vt innuit dyon. quarto de diui. nominibus 
+      <lb ed="#B" n="83"/>et dei liberalitas qui prompte non inuidens 
+      <lb ed="#B" n="84"/>in mente disposita sua bona distribuit. Unde 
+      <lb ed="#B" n="85"/>valde probabile est quod sicut in rerum crea 
+      <lb ed="#B" n="86"/>tione deus producit arbores cum suis fo 
+      <lb ed="#B" n="87"/>liis et fructibus: sic angelos condidit gre 
+      <lb ed="#B" n="88"/>tia plenos et virtutibus.
+</p>
+               <p xml:id="WuV37d-e64141-d1e1133">
+¶ Secunda con 
+      <lb ed="#B" n="89"/>clusio est de praeuisione beatitudinis: et 
+      <lb ed="#B" n="90"/>est haec. Sicut malis angelis non est suus 
+      <lb ed="#B" n="91"/>casus reuelatus: sic nec bonis sua felicitas. 
+      <lb ed="#B" n="92"/>Prima pars dicit quod malis angelis non fu 
+      <lb ed="#B" n="93"/>it reuelatus suus casus. probatur argumento 
+      <lb ed="#B" n="94"/>ansel. in lib. de casu diaboli: si enim angelo 
+      <lb ed="#B" n="95"/>malo ante suum casum fuit reuelatus suus 
+      <lb ed="#B" n="96"/>casus: quaero aut volebat suum casum: aut 
+      <lb ed="#B" n="97"/>nolebat. Si volebat ergo iam ceciderat: 
+      <lb ed="#B" n="98"/>quia volebat peccare: et velle peccare: pec¬ 
+      <!--300.xml-->
+      <pb ed="#B" n="142-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>care est: et ita non praesciebat se casurum. Si 
+      <lb ed="#B" n="2"/>autem dicatur: quod praesciebat et nolebat: tunc 
+      <lb ed="#B" n="3"/>sic: quantomagis nolebat: tanto magis 
+      <lb ed="#B" n="4"/>dolebat: et quantomagis dolebat: tanto iu 
+      <lb ed="#B" n="5"/>stior erat: et quantomagis dolebat erat mi 
+      <lb ed="#B" n="6"/>serior: ergo quanto iustior: tanto miserior: 
+      <lb ed="#B" n="7"/>sed hoc est inconueniens: igitur. Confirmatur 
+      <lb ed="#B" n="8"/>ista pars argumento magistri in littera: si 
+      prae<lb ed="#B" n="9" break="no"/>scierunt: aut ergo vitare potuerunt et voluerunt 
+      <lb ed="#B" n="10"/>et ita non ceciderunt: aut vitare voluerunt 
+      <lb ed="#B" n="11"/>et non potuerunt: et ita miseri fuerunt: aut 
+      <lb ed="#B" n="12"/>tertio vitare potuerunt et noluerunt: et ita 
+      <lb ed="#B" n="13"/>stulti et maligni fuerunt. Si igitur 
+      quod<lb ed="#B" n="14" break="no"/>libet istorum est impossibile: impossibile est eos 
+      <lb ed="#B" n="15"/>sui casus habuisse praescientiam. Et si obiicia 
+      <lb ed="#B" n="16"/>tur contra hoc: per hoc quod dicit Bern. in 
+      <lb ed="#B" n="17"/>li. de gradibus humilitatis: tranctans 
+      il<lb ed="#B" n="18" break="no"/>lud. Ponam sedem meam ad aquilonem. Pu 
+      <lb ed="#B" n="19"/>to inquit per aquilonem malos homines fuisse 
+      <lb ed="#B" n="20"/>designatos: per sedem potestatem in illos 
+      <lb ed="#B" n="21"/>et dicit quod ipse lucifer praeuidit in 
+      praescien<lb ed="#B" n="22" break="no"/>tia dei suam damnationem super malos: et 
+      <lb ed="#B" n="23"/>hoc fuit per peccatum: igitur preuidit suum 
+      <lb ed="#B" n="24"/>casum. Ad hoc ipse Bern. in eodem libro 
+      <lb ed="#B" n="25"/>respondit: quod ipse dyabolus lucifer 
+      praeui<lb ed="#B" n="26" break="no"/>dit consequens: scilicet dominationem suam super malos: et 
+      <lb ed="#B" n="27"/>non praeuidit antecedens scilicet quod hoc fieret per pec 
+      <lb ed="#B" n="28"/>catum. Multi nempe boni malis dominantur: 
+      <lb ed="#B" n="29"/>et dat exemplum de ioseph: qui praeuidit 
+      su<lb ed="#B" n="30" break="no"/>am sublimationem super fratres suos: sed 
+      <lb ed="#B" n="31"/>non praeuidit scilicet quod hoc fieret per venditio 
+      <lb ed="#B" n="32"/>nem: et alia multa quae a fratribus suis 
+      per<lb ed="#B" n="33" break="no"/>pessus est.
+</p>
+               <p xml:id="WuV37d-e64141-d1e1235">
+¶ Secunda pas conclusionis di 
+      <lb ed="#B" n="34"/>cit: quod bonis angelis non fuit reuelata sua 
+      <lb ed="#B" n="35"/>felicitas. probatur: tunc enim prius videretur 
+      <lb ed="#B" n="36"/>deus punisse daemones: quam fuissent mali: com 
+      <lb ed="#B" n="37"/>re enim his non dedit praescientiam istam: vt 
+      <lb ed="#B" n="38"/>fortius mouerentur in bonum: sicut dedit 
+      <lb ed="#B" n="39"/>bonis. Ceterum videretur: quod lucifer aliqua 
+      <lb ed="#B" n="40"/>liter se posset excusare a peccato inquiens: 
+      <lb ed="#B" n="41"/>scientiam non habui quam aliis dedisti: ideo 
+      <lb ed="#B" n="42"/>sic cecidi: et ita sicut mali non fuerunt 
+      prae<lb ed="#B" n="43" break="no"/>scii sui casus: sic nec boni suae felicitatis. Et 
+      <lb ed="#B" n="44"/>si dicatur: quod habuerunt a suo principio an 
+      <lb ed="#B" n="45"/>geli omnes cognitionem innatam omnium 
+      spe<lb ed="#B" n="46" break="no"/>cierum: igitur a fortiori et sui status scilicet bo 
+      <lb ed="#B" n="47"/>ni quod erant confirmandi. Dicendum quod non est 
+      <lb ed="#B" n="48"/>simile: cognitio enim rerum spectat ad 
+      co<lb ed="#B" n="49" break="no"/>gnitionem naturalem: sed cognitio beatitu 
+      <!--300.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>dinis de communi spectat ad statum glo 
+      <lb ed="#B" n="51"/>riae: ea propter in illo statu solum dari 
+      de<lb ed="#B" n="52" break="no"/>buit.
+</p>
+               <p xml:id="WuV37d-e64141-d1e1283">
+¶ Tertia conclusio est de 
+      noti<lb ed="#B" n="53" break="no"/>cia matutina et vespertina ante beatitu 
+      <lb ed="#B" n="54"/>dinem: et est haec: sic ante beatitudinem angeli 
+      <lb ed="#B" n="55"/>cis in mentibus matutina fuit cognitio 
+      <lb ed="#B" n="56"/>vt in eis vespertina non deesset. Prima 
+      <lb ed="#B" n="57"/>pars dicit: quod ante beatitudinem angeli 
+      ha<lb ed="#B" n="58" break="no"/>buerunt matutinam noticiam. probatur: 
+      no<lb ed="#B" n="59" break="no"/>ticia matutina est cognoscere verbum: et 
+      <lb ed="#B" n="60"/>res in verbo. sed istam habuerunt angeli 
+      <lb ed="#B" n="61"/>ante beatitudinem. igitur maior est ex quid 
+      <lb ed="#B" n="62"/>nominis. Sed minor patet auctoritate 
+      <lb ed="#B" n="63"/>Bern. exponetis illud. Scio ego quod 
+      pro<lb ed="#B" n="64" break="no"/>pter me haec tempestas grandis super vos 
+      <lb ed="#B" n="65"/>Dicit ibi quod lucifer in verbo diuino vidit 
+      <lb ed="#B" n="66"/>antequam caderet verbum dei incarnandum: et 
+      <lb ed="#B" n="67"/>postquam cecidit in paradisum terrestrem vi 
+      <lb ed="#B" n="68"/>dit hominem: et suae recordatus visionis inui 
+      <lb ed="#B" n="69"/>dens ei ascensuro vnde ceciderat: 
+      tenta<lb ed="#B" n="70" break="no"/>uit. Et si obiiciatur: sequeretur: quod tunc fuisset 
+      <lb ed="#B" n="71"/>beatus: quia videre verbum est beatitudo: 
+      <lb ed="#B" n="72"/>dicitur quod verum est videre verbum intuiti 
+      <lb ed="#B" n="73"/>ue quod non fecit: sed per solam speciem de 
+      <lb ed="#B" n="74"/>qua dictum est in praecedenti lectione. Et si quaeratur. 
+      <lb ed="#B" n="75"/>an mali angeli adhuc habeant istam specien. 
+      <lb ed="#B" n="76"/>Dicit doc. deuo. in smina huius dist. quod sic sed 
+      <lb ed="#B" n="77"/>obscurata est quasi funditus: vnde imaginor in 
+      <lb ed="#B" n="78"/>creatione angelica quo ad istam noticiam hunc 
+      <lb ed="#B" n="79"/>fuisse processum. Primo die dominica in 
+      prin<lb ed="#B" n="80" break="no"/>cipio creata fuit natura angelica: cum huius 
+      <lb ed="#B" n="81"/>modi noticia matutima. Secundo fuit confirma 
+      <lb ed="#B" n="82"/>tio bonorum et malorum reprobatio cum 
+      <lb ed="#B" n="83"/>de mane huius diei dicit deus: fiat lux id est 
+      <lb ed="#B" n="84"/>confirmatio bonorum: et facta est lux. Et 
+      <lb ed="#B" n="85"/>de malis subditur: et diuisit deus lucem a 
+      <lb ed="#B" n="86"/>tenebris. Tertio in bonis fuit completa 
+      <lb ed="#B" n="87"/>per gloriam ista matutina cognitio et in 
+      <lb ed="#B" n="88"/>malis per damnationem obfuscata.
+</p>
+               <p xml:id="WuV37d-e64141-d1e1365">
+¶ Se 
+      <lb ed="#B" n="89"/>cunda pars conclusionis: dicit quod habue. 
+      <lb ed="#B" n="90"/>runt ante beatitudinem etiam noticiam 
+      <lb ed="#B" n="91"/>vespertinam: patet autctoritate Augusti. 
+      <lb ed="#B" n="92"/>super Senes. et aliorum sanctorum. Et tan 
+      <lb ed="#B" n="93"/>tum de secundo articulo. 
+      <lb ed="#B" n="94"/>Quantum ad tertium 
+      articu<lb ed="#B" n="95" break="no"/>lum sunt 
+      <lb ed="#B" n="96"/>tres breves difficultates.
+</p>
+               <p xml:id="WuV37d-e64141-d1e1385">
+¶ Prima est 
+      <lb ed="#B" n="97"/>an ante beatitudinem fuerint omnes angeli aequa 
+      <lb ed="#B" n="98"/>ies in charitate: et virtutibus. Dicitur quod non 
+      <!--301.xml-->
+      <pb ed="#B" n="142-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>quinimmo multi angeli damnati habuerunt 
+      <lb ed="#B" n="2"/>maiorem charitatem: quam multi qui modo sunt 
+      <lb ed="#B" n="3"/>beati: patet de lucifero: de quo 
+      principa<lb ed="#B" n="4" break="no"/>liter dicitur. Tu plenus sapientia et deco 
+      <lb ed="#B" n="5"/>re fuisti: ex quo patet euidenter 
+      ingratitu<lb ed="#B" n="6" break="no"/>do eorum: qui tantum acceperant a domino deo: et 
+      <lb ed="#B" n="7"/>tam superbi recedebant. Et ideo lucifer in 
+      <lb ed="#B" n="8"/>infimum cecidit plus: recte quippe 
+      versifi<lb ed="#B" n="9" break="no"/>cator dicit. Quanto gradus altior: tanto ca 
+      <lb ed="#B" n="10"/>sus grauior etc.
+</p>
+               <p xml:id="WuV37d-e64141-d1e1420">
+¶ Secunda difficultas 
+      <lb ed="#B" n="11"/>est an mali angeli statim in momento post 
+      <lb ed="#B" n="12"/>peccatum de caelo ceciderunt: 
+      probabili<lb ed="#B" n="13" break="no"/>ter dicitur quod aliqua morula steterunt in 
+      cae<lb ed="#B" n="14" break="no"/>lo post peccatum primum: quia quandiu fuerunt 
+      <lb ed="#B" n="15"/>viatores: vt iam dictum est in secundo 
+      arti<lb ed="#B" n="16" break="no"/>culo: quod illa secunda mora correspondebat tempo 
+      <lb ed="#B" n="17"/>ri nostro habito.
+</p>
+               <p xml:id="WuV37d-e64141-d1e1438">
+¶ Tertia difficultas: 
+      <lb ed="#B" n="18"/>an sit aliqua cognitio meridiana in ange 
+      <lb ed="#B" n="19"/>lis: quia dicit propheta. Uespere et mane et 
+      <lb ed="#B" n="20"/>meridiae etc. Dico quod sic: sed illa non fuit ante 
+      <lb ed="#B" n="21"/>gloriam: quia meridiana lux signat 
+      ardem<lb ed="#B" n="22" break="no"/>tissimum calorem charitatis: qui est in statu 
+      <lb ed="#B" n="23"/>gloriae: aliae autem due benae fuerunt in statu in 
+      <lb ed="#B" n="24"/>nocentiae. Et tantum de tertio articulo. Ex qui 
+      <lb ed="#B" n="25"/>bus patet ad quaestionem: quod videlicet ange 
+      <lb ed="#B" n="26"/>lus matutina et vespertina noticia 
+      deco<lb ed="#B" n="27" break="no"/>ratus non fuit in beatitudine supernatura 
+      <lb ed="#B" n="28"/>lli conditus. Et tunc ad argumenta.
+</p>
+               <p xml:id="WuV37d-e64141-d1e1464">
+¶ Ad 
+      pri<lb ed="#B" n="29" break="no"/>mum nego consequentiam: et ad probationem dico 
+      <lb ed="#B" n="30"/>quod deus potuit in instanti creationis facere 
+      <lb ed="#B" n="31"/>eos beatos: Sed gloriosius fuit eis 
+      habe<lb ed="#B" n="32" break="no"/>re praemium ex aliquo merito primo quam sine 
+      <lb ed="#B" n="33"/>quocumque: ideo eis fecit quod erat melius. 
+      </p>
+               <p xml:id="WuV37d-e64141-d1e1477">
+                  <lb ed="#B" n="34"/>¶ Ad secundum negatur consequenta: et iam patet 
+      <lb ed="#B" n="35"/>responsio: non enim fuisset illi habenti 
+      beatitu<lb ed="#B" n="36" break="no"/>dinem: sine meritis melius quam habere 
+      meri<lb ed="#B" n="37" break="no"/>tis praeuiis: ideo assumit vnum falsum. 
+      </p>
+               <p xml:id="WuV37d-e64141-d1e1489">
+                  <lb ed="#B" n="38"/>¶ Ad tertium dicendum: quod habebat donum 
+      <lb ed="#B" n="39"/>sapientiae: et caetera solum secundum quod sunt 
+      gra<lb ed="#B" n="40" break="no"/>tiae et non gloriae: ideo non obuiat. Et sic pa 
+      <lb ed="#B" n="41"/>tet ad quaestionem.
+</p>
+            </div>
+            <div xml:id="WuV37d-e64141-Dd1e1501" type="et-conclusiones">
+               <head xml:id="WuV37d-e64141-Hd1e1503">Conclusiones</head>
+               <p xml:id="WuV37d-e64141-d1e1506">
+¶ Ex praesenti autem 
+      <lb ed="#B" n="42"/>distinctione sicut ex praecedetibus. etc. 
+      </p>
+               <p xml:id="WuV37d-e64141-d1e1511">
+                  <lb ed="#B" n="43"/>¶ Prima conclusio. Superni spiritus miseri 
+      <lb ed="#B" n="44"/>creati non sunt penitus neque beati. Dicit com 
+      <lb ed="#B" n="45"/>clusio. quod angeli nec sunt creati miseri: nec 
+      <lb ed="#B" n="46"/>beati. Et deducitur a principio distinctionis 
+      <lb ed="#B" n="47"/>vsque ad illud ca. Ad hoc autem quod quaerebatur etc. 
+      </p>
+               <p xml:id="WuV37d-e64141-d1e1524">
+                  <lb ed="#B" n="48"/>¶ Secunda conclusio: angelus perfectus et 
+      <lb ed="#B" n="49"/>creabatur: et imperfectus producebatur. Di 
+      <!--301.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>cit conclusio: quod potest dici secundum varios mo 
+      <lb ed="#B" n="51"/>dos loquendi: quos tangit in littera: quod an 
+      <lb ed="#B" n="52"/>gelus creabatur perfectus et imperfectus. Et de 
+      <lb ed="#B" n="53"/>ducitur ab hoc capitulo. Ad hoc autem etc. vsque 
+      <lb ed="#B" n="54"/>ibi. Quales fuerunt angeli etc.
+</p>
+               <p xml:id="WuV37d-e64141-d1e1546">
+¶ Tertia 
+      <lb ed="#B" n="55"/>conclusio. Bone sunt create angelice 
+      mem<lb ed="#B" n="56" break="no"/>tes: sed non batem: nisi large beatificando. Dicit 
+      <lb ed="#B" n="57"/>conclusio quod angeli fuerunt creati boni non 
+      <lb ed="#B" n="58"/>mali: non tamen beati: nisi accipiendo large bea 
+      <lb ed="#B" n="59"/>titudinem. Et ponitur ab illo capitulo: Quales 
+      <lb ed="#B" n="60"/>etc. vsque ad finem distinctionis.
+</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

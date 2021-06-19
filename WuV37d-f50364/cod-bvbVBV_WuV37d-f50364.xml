@@ -1,0 +1,743 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 38-40</title>
+            <author ref="#WilliamDeVaurouillon">William de Vaurouillon</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 38-40</title>
+               <date when="2021-06-19">June 19, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-bvbVBV">Basel 1510</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-06-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="323-v"/>
+            <cb ed="#B" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="WuV37d-f50364"><!-- l3d38-40 -->
+            <head xml:id="WuV37d-f50364-Hd1e108">Distinctio 38-40</head>
+            <div xml:id="WuV37d-f50364-Dd1e111" type="circa-textum">
+               <head xml:id="WuV37d-f50364-Hd1e113">Circa textum</head>
+               <p xml:id="WuV37d-f50364-d1e116">
+                  <lb ed="#B" n="78"/>Distinctio. 38. huius tertii tractat 
+      <lb ed="#B" n="79"/>de mendacio 
+    </p>
+               <p xml:id="WuV37d-f50364-d1e123">
+                  <lb ed="#B" n="80"/>Cciendum 
+      ta<lb ed="#B" n="81" break="no"/>mem esse tria genera mem 
+      <lb ed="#B" n="82"/>daciorum. Sunt enimu 
+      <lb ed="#B" n="83"/>mendacia quaedam pro sa 
+      <lb ed="#B" n="84"/>lute etc. Hic signatur. 36. 
+      <lb ed="#B" n="85"/>distin. quae sic continuatur ad praecedentes: 
+      <lb ed="#B" n="86"/>Nam postquam in praecedenti di. tabularum dei 
+      <lb ed="#B" n="87"/>quo ad mandata est posita: Nunc circa 
+      il<lb ed="#B" n="88" break="no"/>la mandata / maxime circa quintum / de 
+      fal<lb ed="#B" n="89" break="no"/>so testimonio ponitur sermo de mendacio 
+      <lb ed="#B" n="90"/>et habet diuidi haec pars in tres partes 
+      prin<lb ed="#B" n="91" break="no"/>cipales. In prima ponitur quid sit menda 
+      <lb ed="#B" n="92"/>cium. In secunda adiungitur an sit periurium. 
+      <lb ed="#B" n="93"/>In tertia concluditur hic breviloquium. Pri 
+      <lb ed="#B" n="94"/>ma in principio. Secunda. 39. distin. Nunc 
+      <lb ed="#B" n="95"/>de pariurio videamus. Tertia distinc. 4o. 
+      <lb ed="#B" n="96"/>ibi: Sextum praeceptum etc. Rursus prima par¬ 
+      <!--664.xml-->
+      <pb ed="#B" n="324-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>ticula / quae est. 36. distinctio: in qua 
+      antepo<lb ed="#B" n="2" break="no"/>nitur quid sit mendacium: in tres partes di 
+      <lb ed="#B" n="3"/>uiditur. In prima mendacii species assignantur et 
+      <lb ed="#B" n="4"/>differentiae. In secunda mendacii series cum 
+      <lb ed="#B" n="5"/>inentiri notatur variae. In tertia consequens pro 
+      <lb ed="#B" n="6"/>genies huius mali patet non dubie. 
+      Pri<lb ed="#B" n="7" break="no"/>ma in principio. Secunda ibi: Hic 
+      viden<lb ed="#B" n="8" break="no"/>dum est quid sit mendacium. Tertia ibi: 
+      Il<lb ed="#B" n="9" break="no"/>lud etiam sciendum etc. 
+    </p>
+               <p xml:id="WuV37d-f50364-d1e188">
+                  <lb ed="#B" n="10"/>Nunc de periurio vi 
+      <lb ed="#B" n="11"/>deamus. Periurium est mendacium etc. 
+      <lb ed="#B" n="12"/>In qua postquam in praecedenti distin. positum est. 
+      <lb ed="#B" n="13"/>quid sit mendacium: nunc inquiritur quid sit 
+      per<lb ed="#B" n="14" break="no"/>iurium. Et habet diuidi in tres partes 
+      prin<lb ed="#B" n="15" break="no"/>cipales. In prima determinatur de pariurii 
+      <lb ed="#B" n="16"/>descriptione. In secunda inuestigatur de 
+      iu<lb ed="#B" n="17" break="no"/>ramenti vitatione. In tertia post annota 
+      <lb ed="#B" n="18"/>tur de iuramenti impletione. Prima in 
+      <lb ed="#B" n="19"/>principio. Secunda ibi: Quaeritur etiam vtrum 
+      <lb ed="#B" n="20"/>liceat etc. Tertia ibi: Nunc superest videre 
+      <lb ed="#B" n="21"/>Aliis praesentis dist. propter brevitatem obmis 
+      <lb ed="#B" n="22"/>sis diuisionibus: sequitur. 40. et vl. huius. 3. 
+      dis<lb ed="#B" n="23" break="no"/>qd 
+      <lb ed="#B" n="24"/>dextu preceptu et: 
+      <lb ed="#B" n="25"/>ab sio
+    </p>
+               <p xml:id="WuV37d-f50364-d1e225">
+                  <lb ed="#B" n="26"/>Non desiderabis vxore pro ximi tui 
+      <lb ed="#B" n="27"/>etc. In qua postquam manifestum est menda 
+      <lb ed="#B" n="28"/>cium / et annexum sibi periurium / duabus antecedem 
+      <lb ed="#B" n="29"/>tibus de omnibus de duobus decalogi 
+      man<lb ed="#B" n="30" break="no"/>datis: Nunc concluditur breviloquium. Et ha 
+      <lb ed="#B" n="31"/>bet praesens distinctio diuidi in tres partes prin 
+      <lb ed="#B" n="32"/>cipales. In prima duorum mandatorum patet 
+      <lb ed="#B" n="33"/>distinctio. In secunda duum testamentorum 
+      <lb ed="#B" n="34"/>subest collatio. In tertia fit determinato 
+      <lb ed="#B" n="35"/>rum brevis conclusio. Prima in principio. Se 
+      <lb ed="#B" n="36"/>cunda ibi: Sed cum hic prohibetur concupiscentia 
+      <lb ed="#B" n="37"/>etc. Tertia ibi: Audisti decem chordas psal 
+      <lb ed="#B" n="38"/>terii. Et haec est diuisio harum trium distin. in 
+      <lb ed="#B" n="39"/>generali. Circa etc. 
+    </p>
+            </div>
+            <div xml:id="WuV37d-f50364-Dd1e259">
+               <head xml:id="WuV37d-f50364-Hd1e261">Quaestio</head>
+               <p xml:id="WuV37d-f50364-d1e264">
+                  <lb ed="#B" n="40"/>Questio haec determinat de qui 
+      <lb ed="#B" n="41"/>to madato secundae tapbitulae: i quao declarat 
+      <lb ed="#B" n="42"/>de mendacio et periurio: et quo noua lex 
+      <lb ed="#B" n="43"/>comparetur ad vetere: et ista habetur per sco. 
+      <lb ed="#B" n="44"/>i tribus quaestionibus trium distinctionum 
+      <lb ed="#B" n="45"/>vltimarum huius tertii. 
+      <lb ed="#B" n="46"/>Utrum noua lex 
+      <lb ed="#B" n="47"/>omne mendacium peccatum pro¬ 
+      <!--664.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="48"/>ferens cunctum periurium deliberatiue 
+      fa<lb ed="#B" n="49" break="no"/>ctum mortale censeat: Et arguitur ad partem 
+      <lb ed="#B" n="50"/>falsam tribus mediis.
+</p>
+               <p xml:id="WuV37d-f50364-d1e295">
+¶ Primo 
+      argui<lb ed="#B" n="51" break="no"/>tur / quod nulla lex sit noua. Si aliqua lex 
+      es<lb ed="#B" n="52" break="no"/>set noua: maxime hoc esset / vel quia legen 
+      <lb ed="#B" n="53"/>veterem compleret: aut quia legem veteremus 
+      <lb ed="#B" n="54"/>destrueret. Sed neutrum est dicendum: igitur. 
+      <lb ed="#B" n="55"/>Maior patet ex dicto ponentium legen 
+      no<lb ed="#B" n="56" break="no"/>uam scilicet vel quia complet antiquam: 
+      sicu<lb ed="#B" n="57" break="no"/>ti figuratum figuram: vel quia destruit 
+      si<lb ed="#B" n="58" break="no"/>cut veritas vmbram. Sed probatur minor: 
+      <lb ed="#B" n="59"/>primo quod non compleat. In aduentu enim 
+      <lb ed="#B" n="60"/>eius cessauerunt cerimonialia et 
+      iudicia<lb ed="#B" n="61" break="no"/>lia legis antiquae: et ita potius in hoc de 
+      <lb ed="#B" n="62"/>struitur quam completur. Secundo patet quod non 
+      <lb ed="#B" n="63"/>destruxerit: quia lator eius dicit / vt habetur in 
+      <lb ed="#B" n="64"/>euangelis. Non enim veni soluere legem / sed 
+      ad<lb ed="#B" n="65" break="no"/>implere.
+</p>
+               <p xml:id="WuV37d-f50364-d1e330">
+¶ Secundo arguitur quod non omno 
+      <lb ed="#B" n="66"/>mendacium sit peccatum. Non est maius pec 
+      <lb ed="#B" n="67"/>catum simulatio in verbis quam in factis. Sed  
+      <lb ed="#B" n="68"/>quis potest simulari in facto: et tamen non 
+      <lb ed="#B" n="69"/>peccabit: ergo et in verbo. Maior patet 
+      <lb ed="#B" n="70"/>ex eo quod facta sunt euidentiora quam verba: et 
+      <lb ed="#B" n="71"/>in malo facta sunt vituperabiliora 
+      ver<lb ed="#B" n="72" break="no"/>bis: et magis mentis conceptum praeten 
+      <lb ed="#B" n="73"/>dunt. Sed probatur minor: Tum de domino 
+      <lb ed="#B" n="74"/>Iesu / qui simulauit se peregrinum esse eun 
+      <lb ed="#B" n="75"/>tibus in emaus: non dubium quod non 
+      pecca<lb ed="#B" n="76" break="no"/>uit: Tum secundo de Dauid: qui se finxit 
+      <lb ed="#B" n="77"/>fatuum coram rege achis: Tum tertio de 
+      <lb ed="#B" n="78"/>Iehu: qui se finxit colere Baal: et tamen 
+      <lb ed="#B" n="79"/>laudatur: ex quo videtur non peccasse.
+</p>
+               <p xml:id="WuV37d-f50364-d1e363">
+¶ Ter 
+      <lb ed="#B" n="80"/>tio arguitur quod non omne periurium factum per 
+      de<lb ed="#B" n="81" break="no"/>liberationem sit peccatum mortale: grauius 
+      <lb ed="#B" n="82"/>est iurare per deum quam per euangelium: igi 
+      <lb ed="#B" n="83"/>tur si peccatum mortale sit semper periurium: 
+      <lb ed="#B" n="84"/>maximum periurium erit pariurare deum: sed 
+      <lb ed="#B" n="85"/>hoc est falsum: igitur. Antecedens patet 
+      <lb ed="#B" n="86"/>22. q. 1. si autem causa fuerit. Et patet quod ma 
+      <lb ed="#B" n="87"/>ius est deus quam opus eius: cuiusmodi est euam 
+      <lb ed="#B" n="88"/>gelium. Sed probatur minor: Tum quia iurare fal 
+      <lb ed="#B" n="89"/>lo super euangelia reddit hominem infamen 
+      <lb ed="#B" n="90"/>non iurare nomen dei. Tum quia sic communes 
+      <lb ed="#B" n="91"/>persone: et qui sepius et communiter peierant 
+      <lb ed="#B" n="92"/>nomen dei essent infames: quod non est dicen 
+      <lb ed="#B" n="93"/>dum.
+</p>
+               <p xml:id="WuV37d-f50364-d1e397">
+¶ In oppositum tamen primo primi 
+      argui<lb ed="#B" n="94" break="no"/>tur ex dicto Augstin. differentiam ponentis le 
+      <lb ed="#B" n="95"/>gis nouae ad antiquam. Previs inquit difse 
+      <lb ed="#B" n="96"/>rentia / timor et amor.
+</p>
+               <p xml:id="WuV37d-f50364-d1e406">
+¶ In oppositum se¬ 
+      <!--665.xml-->
+      <pb ed="#B" n="324-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>cundi arguitur auctoritate Augustinus in libro 
+      <lb ed="#B" n="2"/>contra mendacium. Uidetur mihi omne ge 
+      <lb ed="#B" n="3"/>nus mendacii esse peccatum.
+</p>
+               <p xml:id="WuV37d-f50364-d1e422">
+¶ In 
+      oppo<lb ed="#B" n="4" break="no"/>situm tertii arguitur: nam dicitur: Non periura 
+      <lb ed="#B" n="5"/>bis: reddes autem domino deo tuo iurament a 
+      <lb ed="#B" n="6"/>tua.
+</p>
+               <p xml:id="WuV37d-f50364-d1e431">
+¶ In ista quaestione ad alias 
+      parifor<lb ed="#B" n="7" break="no"/>miter sunt tres articuli declarandi 
+      <lb ed="#B" n="8"/>Prmius est terminorum declaratiuus 
+      <lb ed="#B" n="9"/>Quorum Secundus est quaestionis responsiuus. 
+      <lb ed="#B" n="10"/>Tertius est dubiorum motiuus  
+      <lb ed="#B" n="11"/>Quo ad primum articulum 
+      <lb ed="#B" n="12"/>termini sunt 
+      <lb ed="#B" n="13"/>Lex / mendacium / et periurium.
+</p>
+               <p xml:id="WuV37d-f50364-d1e449">
+¶ Primus 
+      <lb ed="#B" n="14"/>gitur est lex. Unde legisperiti legem 
+      <lb ed="#B" n="15"/>sic diffiniunt: vt tangit frater Alexandei 
+      <lb ed="#B" n="16"/>de ales / in tertia parte summaei collatione 
+      <lb ed="#B" n="17"/>de legibus. Lex est sanctio sancta / 
+      praeci<lb ed="#B" n="18" break="no"/>piens bonestum / prohibensque contrarium. 
+      <lb ed="#B" n="19"/>In qua diffinitione tria tanguntur. Pri 
+      <lb ed="#B" n="20"/>mo actus legis communis / dum dicitur / 
+      san<lb ed="#B" n="21" break="no"/>ctio sancta. Dicitur sanctio: tum ratione 
+      in<lb ed="#B" n="22" break="no"/>tellectus vt dirigatur prudentia: et inde 
+      di<lb ed="#B" n="23" break="no"/>cta est lex a legendo: quia dictamine sapi 
+      <lb ed="#B" n="24"/>entum dictari habet maxime: Tum 
+      ratio<lb ed="#B" n="25" break="no"/>tione affectus: et dicitur a ligando: vt 
+      <lb ed="#B" n="26"/>plus legis amore quam timore ligentur sub 
+      <lb ed="#B" n="27"/>diti. Dicitur sanctio sancta: quia maxime 
+      <lb ed="#B" n="28"/>lex habet in deum ordinare: et ex consequen 
+      <lb ed="#B" n="29"/>ti ad proximum. Sanctitas enim Seneca 
+      te<lb ed="#B" n="30" break="no"/>ste andronico peripatetico est scientia 
+      fa<lb ed="#B" n="31" break="no"/>ciens fideles. Ecce quo ad proximum: et ser 
+      <lb ed="#B" n="32"/>nantes ea quae ad deum iusta sunt. Ecce 
+      de<lb ed="#B" n="33" break="no"/>us. Secundo tangitur finis legis prncipalis 
+      <lb ed="#B" n="34"/>dum dicitur: praecipiens honestum id est bonoris 
+      <lb ed="#B" n="35"/>statum. Ad hoc enim lex ciuibus donatur vt 
+      <lb ed="#B" n="36"/>boneste viuant: licet Plato senserit / quod 
+      prin<lb ed="#B" n="37" break="no"/>cipale fuerit in legibus / ciuium 
+      perturba<lb ed="#B" n="38" break="no"/>tio fugienda. Tertio tangitur finis legis 
+      <lb ed="#B" n="39"/>secundarius / dum dicitur: prohibensque contra 
+      <lb ed="#B" n="40"/>rium. Ideo dicit in quinto ethimolis. 
+      Isido<lb ed="#B" n="41" break="no"/>rus / quod lex posita est / vt humana 
+      coercea<lb ed="#B" n="42" break="no"/>tur audacia: et tuta sit inter reprobos in 
+      <lb ed="#B" n="43"/>nocentia. Caeterum noto caeteris 
+      praetermis<lb ed="#B" n="44" break="no"/>sis legibus: quod ex sacro canone tres sunt 
+      <lb ed="#B" n="45"/>leges. Lex primo naturae: et haec non est 
+      ni<lb ed="#B" n="46" break="no"/>si quedam irradiatio legis aeterne in men 
+      <lb ed="#B" n="47"/>tibus nostris / et paucis praeceptis conten 
+      <lb ed="#B" n="48"/>ta est. Secundo lex antiqua / quae lex 
+      Mo<lb ed="#B" n="49" break="no"/>vsi scribitur: et in pentateuco scribitur. Ter¬ 
+      <!--665.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>tio lex noua: quae lex gratiae dicitur / et in 
+      euan<lb ed="#B" n="51" break="no"/>gelio continetur. Et possunt hae tres 
+      le<lb ed="#B" n="52" break="no"/>ges elici ex decretis distin. 1 et deinceps 
+      <lb ed="#B" n="53"/>vsque ad nonam: vt patet inspicienti.
+</p>
+               <p xml:id="WuV37d-f50364-d1e543">
+¶ Se 
+      <lb ed="#B" n="54"/>cundus terminus est mendacium. 
+      <lb ed="#B" n="55"/>Unde beatus Augustinus in lib. de 
+      mendacio<lb ed="#B" n="56" break="no"/>seu contra mendacium mendacium diffiniens 
+      <lb ed="#B" n="57"/>dicit: Hendacium est falsa vocis prolatio 
+      <lb ed="#B" n="58"/>cum intentione fallendi. Ubi tria tangun 
+      <lb ed="#B" n="59"/>tur. Primo genus mendacii / dum dicitur: 
+      <lb ed="#B" n="60"/>vocis prolatio exigitur enim vox vt 
+      menda<lb ed="#B" n="61" break="no"/>cium dicatur. Dico tamen in nobis: quia 
+      de<lb ed="#B" n="62" break="no"/>mones per conceptus suos inter se menda 
+      <lb ed="#B" n="63"/>cia possunt exprimere. Secundo notatur 
+      <lb ed="#B" n="64"/>eius differentia / dum dicitur / falsa. Si quis 
+      <lb ed="#B" n="65"/>enim verum diceret / credens tamen falsum dicere: pro 
+      <lb ed="#B" n="66"/>prie mendacium non diceret. Tertio 
+      subium<lb ed="#B" n="67" break="no"/>gitur formale / dum dicitur: cum intentione 
+      fal<lb ed="#B" n="68" break="no"/>sendi / id est falsum dicendi. Si quis 
+      nem<lb ed="#B" n="69" break="no"/>pe diceret falsum: intendens tamen dicere 
+      <lb ed="#B" n="70"/>verum: non proferret proprie mendacium. Si quis 
+      <lb ed="#B" n="71"/>vero et falsum diceret / et idipsum 
+      intende<lb ed="#B" n="72" break="no"/>ret: bene quippe mentiretur / et mendax esset: 
+      <lb ed="#B" n="73"/>quia falsum dicere intenderet: ideo contra 
+      <lb ed="#B" n="74"/>mentem iret. Caeterum noto vlterius / quod sunt 
+      <lb ed="#B" n="75"/>tria mendaciorum genera ad quae caetera re 
+      <lb ed="#B" n="76"/>ducuntur. Primum dicitur pernitiosum: et est 
+      <lb ed="#B" n="77"/>quando quas mentiendo alicui obest / siue in mente 
+      <lb ed="#B" n="78"/>siue in corpore / siue in bonis fortunae: siue 
+      al<lb ed="#B" n="79" break="no"/>teri prosit / siue non. Secundum dicitur 
+      officio<lb ed="#B" n="80" break="no"/>sum / ab officio: quando quis mentiendo ali 
+      <lb ed="#B" n="81"/>cui prodest / et nemini obest: sicut dum quis 
+      <lb ed="#B" n="82"/>videns aliquem quaeri ad mortem: scines vbi 
+      <lb ed="#B" n="83"/>sit: dicit quaerenti / nescio. Tertium dicitur 
+      ino<lb ed="#B" n="84" break="no"/>cosum / a ioco: quod fit gratia 
+      delectatio<lb ed="#B" n="85" break="no"/>nis / vt dicendo fabulam / vel aliquid aliud. Fra 
+      <lb ed="#B" n="86"/>ter Gerardus odonis in commento primi 
+      <lb ed="#B" n="87"/>ethicorum: super illa propatione: Duobus 
+      existen<lb ed="#B" n="88" break="no"/>tibus amicis / sanctum est praebonorare verius 
+      <lb ed="#B" n="89"/>tatem: dicit in. q. quartum mendacii genus: 
+      <lb ed="#B" n="90"/>quod vocat mendacium mendosum: cum quis 
+      <lb ed="#B" n="91"/>sola mentiendi libidine mentitur. Sed patet 
+      <lb ed="#B" n="92"/>quod potest reduci ad vnum trium 
+      predicto<lb ed="#B" n="93" break="no"/>rum: vnde non oportet id contra alia 
+      prae<lb ed="#B" n="94" break="no"/>dicta distinguere: cum nec sancti aut 
+      do<lb ed="#B" n="95" break="no"/>ctores de communi id fecerint: vt satis eti 
+      <lb ed="#B" n="96"/>am patet in distinctione praesenti. 36.
+</p>
+               <p xml:id="WuV37d-f50364-d1e640">
+¶ 
+      Ter<lb ed="#B" n="97" break="no"/>tius terminus est periurium. Unde secundum 
+      <lb ed="#B" n="98"/>magistrum distinctione. 39. in principio.  
+      <!--666.xml-->
+      <pb ed="#B" n="325-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>l pariurium est mendacium iuramento firmatum 
+      <lb ed="#B" n="2"/>et debet accipi mendacium communiter vt 
+      ha<lb ed="#B" n="3" break="no"/>beat opponi aut iudicio aut iusticiae aut ve 
+      <lb ed="#B" n="4"/>ritati: quae censentur a bto Hieronymo super 
+      <lb ed="#B" n="5"/>Hieremiam communiter tres iuramenti species: et sic 
+      <lb ed="#B" n="6"/>distinguuntur quia veritas dicit rem de qua 
+      <lb ed="#B" n="7"/>iuratur iusticia: causam pro qua iuratur: 
+      iu<lb ed="#B" n="8" break="no"/>dicium vero modum nominat iurantis: vt scilicet loco 
+      <lb ed="#B" n="9"/>tempore aliisque circunstantiis non alas 
+      iuramen<lb ed="#B" n="10" break="no"/>tum accipiat. Ulterius noto secundum docto. 
+      de<lb ed="#B" n="11" break="no"/>uotum dist. 39. arti. 1. q. 3. quod periurium potest con 
+      <lb ed="#B" n="12"/>mitti tripliciter. Primo cum praeuia delibe 
+      <lb ed="#B" n="13"/>ratione et solennitate: vt quando iuratur supra 
+      san<lb ed="#B" n="14" break="no"/>cta euangelia: et hoc iuramentum necdum ex 
+      <lb ed="#B" n="15"/>tat peccatum mortale: sed hominem infamen 
+      con<lb ed="#B" n="16" break="no"/>stituit Secundum potest committi praeuia delibe 
+      <lb ed="#B" n="17"/>ratione non tamen tali habita solennitate: 
+      <lb ed="#B" n="18"/>et sic est peccatum mortale: sed non reddit 
+      ho<lb ed="#B" n="19" break="no"/>minem infamen. Tertio potest committi periuri 
+      <lb ed="#B" n="20"/>um sine deliberatione praeuia: vt ex 
+      inad<lb ed="#B" n="21" break="no"/>uertentia: et sic peccatum veniale: siue hoc 
+      <lb ed="#B" n="22"/>sit assertorium: sicut est iuramentum de 
+      praete<lb ed="#B" n="23" break="no"/>rito aut praesenti: siue promissorium sicut est 
+      <lb ed="#B" n="24"/>iuramentum de futuro quae differunt: vt innuit 
+      <lb ed="#B" n="25"/>distin. 39. doc. subti. sicut in 
+      sophismati<lb ed="#B" n="26" break="no"/>bus due obligationis species: positio et 
+      peti<lb ed="#B" n="27" break="no"/>tio: positio emim obligat ad sustinendum 
+      po<lb ed="#B" n="28" break="no"/>situm tanquam vnum: sic iuramentum assertorium 
+      <lb ed="#B" n="29"/>petitio vero ad exequendum petitum in 
+      futu<lb ed="#B" n="30" break="no"/>ro: sicut iuramentum promissorium. 
+      <lb ed="#B" n="31"/>Quantum adsecudum articu 
+      <lb ed="#B" n="32"/>lum sunt 
+      <lb ed="#B" n="33"/>tres conclusiones. Prima conclusio est de 
+      <lb ed="#B" n="34"/>mendatio quo ad distin. 36. Secunda de per 
+      <lb ed="#B" n="35"/>iurio quo ad distin. 39. Tertia conclusio erit 
+      <lb ed="#B" n="36"/>de comparatione legis noue ad antiquam quo 
+      <lb ed="#B" n="37"/>ad distin. 46.
+</p>
+               <p xml:id="WuV37d-f50364-d1e734">
+¶ Prima est haec. Lcet 
+      <lb ed="#B" n="38"/>omne mendacium peccatum sit: non tamen quodli 
+      <lb ed="#B" n="39"/>bet mortale censetur. Dicit prima pars 
+      con<lb ed="#B" n="40" break="no"/>clusionis: quod omne mendacium est peccatum 
+      <lb ed="#B" n="41"/>Probatur auctoritate sancti Aug. in li. com 
+      <lb ed="#B" n="42"/>tra mendacium: Aut inquit non est credendum 
+      <lb ed="#B" n="43"/>bonis: aut credendum est eis quos credimus 
+      <lb ed="#B" n="44"/>aliquando debere mentiri. Aut tertio non 
+      <lb ed="#B" n="45"/>est credendum bonos aliquando mentiri. 
+      <lb ed="#B" n="46"/>Sed primum est pernitiosum. secundum ve 
+      <lb ed="#B" n="47"/>ro stultum restat ergo tertium vt nemo scilicet 
+      <lb ed="#B" n="48"/>mentiatur inquantum bonus: immo si mentiatur effi 
+      <lb ed="#B" n="49"/>ciatur malus. Unm ibidem dicit Aug. Quisquis 
+      <!--666.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>aliquo modo genus mendacii quod 
+      pecca<lb ed="#B" n="51" break="no"/>tum non sit esse putauerit: semetipsum turpi 
+      <lb ed="#B" n="52"/>ter decipit. Confirmatur. quia vbicunque est 
+      <lb ed="#B" n="53"/>mentis obliquitas: ibi est peccatum sed mem 
+      <lb ed="#B" n="54"/>dacium habet semper iunctam mentis obliqua 
+      <lb ed="#B" n="55"/>tatem: quia fit cum intentione fallendi. igitur 
+      <lb ed="#B" n="56"/>Ceterum habet semper mendatium iunctam sibi 
+      <lb ed="#B" n="57"/>iniquitatem: sicut et dolositatem: quia aliud in 
+      <lb ed="#B" n="58"/>ore aliud in corde gerit. Uerba enim plato 
+      <lb ed="#B" n="59"/>ne teste in thimeo ad hoc nobis a domino deo 
+      <lb ed="#B" n="60"/>data sunt vt eis conceptus nostros valea 
+      <lb ed="#B" n="61"/>mus exprimere: quod non facit mendax: im 
+      <lb ed="#B" n="62"/>mo oppositum sui conceptus praetendit. 
+      <lb ed="#B" n="63"/>Ideo doctor subti. venans causam in 
+      di<lb ed="#B" n="64" break="no"/>stin. 36. vnde est hoc quod mendacium non potest 
+      <lb ed="#B" n="65"/>benefieri: cum tamen mors innocentis possit 
+      <lb ed="#B" n="66"/>benefieri: sicut si abraam ad praeceptum dei 
+      <lb ed="#B" n="67"/>suum filium interfecisset. Dicit quod ratio est: quia 
+      <lb ed="#B" n="68"/>mendacium in suo nomine includit et actum et 
+      de<lb ed="#B" n="69" break="no"/>formitatem: sicut furtum: furtum enim nequit benefie 
+      <lb ed="#B" n="70"/>ri: quia necdum includit contrectationem alicuius 
+      <lb ed="#B" n="71"/>rei: quod dicit actum: sed rei alienae: inuito domino 
+      <lb ed="#B" n="72"/>vbi est deformitas. Ita mendatium necdum 
+      <lb ed="#B" n="73"/>exprimit vocis expressionem quae actum no 
+      <lb ed="#B" n="74"/>minat: sed intentionem fallendi vbi extat des 
+      <lb ed="#B" n="75"/>formitas. Et si obiiciatur de patribus anti 
+      <lb ed="#B" n="76"/>quis qui videntur fuisse mentiti: nec tamen 
+      <lb ed="#B" n="77"/>peccasse sicut de abraam. quae dicit se 
+      reuer<lb ed="#B" n="78" break="no"/>surum ad seruos suos cum puero suo Isaac 
+      <lb ed="#B" n="79"/>et tamen intendebat eum immolare. 
+      Rur<lb ed="#B" n="80" break="no"/>sus de Isaac qui dicit de rebecca quod soror 
+      <lb ed="#B" n="81"/>eius esset: et tamen erat vxor eius. Et de ia 
+      <lb ed="#B" n="82"/>cob qui dicit se: esse esau primogenitum. Et 
+      <lb ed="#B" n="83"/>Ioseph qui dicit auguriatorem ffratribus suis: et 
+      <lb ed="#B" n="84"/>vocauit eos exploratores. Et deiudith quae 
+      <lb ed="#B" n="85"/>multa mendacia dixit holoferni: vt patet 
+      <lb ed="#B" n="86"/>in libro suo: laudatur tamen. Dicendum primo de 
+      <lb ed="#B" n="87"/>abraam vt refert in libro antiquitatum Iose 
+      <lb ed="#B" n="88"/>phus: quod sperabat quod dominus suscitaret Isaac 
+      <lb ed="#B" n="89"/>filium eius post immolationem: ideo non mem 
+      <lb ed="#B" n="90"/>tiebatur: quia sperabat cum eo se reuersurum. 
+      Di<lb ed="#B" n="91" break="no"/>xerat enim sibi dominus: In isaac vocabitur tibi se 
+      <lb ed="#B" n="92"/>men: ideo certus erat de promisso dei: nec 
+      <lb ed="#B" n="93"/>est cito inferendum mendacium abrae qui 
+      di<lb ed="#B" n="94" break="no"/>citur pater fidei. De Isaac vero qui voca 
+      <lb ed="#B" n="95"/>uit rebeccam vxorem: sororem suam verum dicebat 
+      <lb ed="#B" n="96"/>quia erant eiusdem tribus: et tales in lege 
+      <lb ed="#B" n="97"/>mosaica dicebantur aut fratres aut sorores: 
+      <lb ed="#B" n="98"/>aut frater aut soror: et ita veritatem tacuit: 
+      <!--667.xml-->
+      <pb ed="#B" n="325-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>quod est in casu licitum: non tamen falsum 
+      di<lb ed="#B" n="2" break="no"/>cit. De aliis autem vt iacob ioseph etc: non 
+      vi<lb ed="#B" n="3" break="no"/>dentur vt dicit doc. sub. immunes a pecca 
+      <lb ed="#B" n="4"/>to veniali penitus: licet sanctus Tho. q. 3. et 
+      <lb ed="#B" n="5"/>peramplius doctor deuotus. q. 2. dist. 36. 
+      <lb ed="#B" n="6"/>eos varielexcusent. Non enim est magnum si 
+      di<lb ed="#B" n="7" break="no"/>camus eos in hoc venialiter peccare: cum 
+      <lb ed="#B" n="8"/>etiam non negemus de apostolis qui 
+      fue<lb ed="#B" n="9" break="no"/>runt perfectiores. de petro dicit paulus. In 
+      <lb ed="#B" n="10"/>facien ei restiti: quia reprehensibilis erat. Cae 
+      <lb ed="#B" n="11"/>terum de iudith necdum venialiter: sed forsan 
+      <lb ed="#B" n="12"/>mortaliter peccauit: quae ornauit se vt exci 
+      <lb ed="#B" n="13"/>taret holofernem ad peccatum luxuriae: lau 
+      <lb ed="#B" n="14"/>datur tamen non in hoc: sed in liberatione 
+      <lb ed="#B" n="15"/>sui populi. Sed quid de mendacio obste 
+      <lb ed="#B" n="16"/>tricum egyptiorum? Dicendum quod inter Breg. 
+      <lb ed="#B" n="17"/>et Hiero. de hoc varia videtur opinio: vnde 
+      <lb ed="#B" n="18"/>vt pateat in eis tria considerantur. Primum 
+      <lb ed="#B" n="19"/>pietas: quia parcere vitae puerorum hebreo 
+      <lb ed="#B" n="20"/>rum voluerunt: et sic intendit hieronxmus quod 
+      <lb ed="#B" n="21"/>meruerunt: et quod edificauit eis deus domos 
+      <lb ed="#B" n="22"/>spirituales. Secundum fuit amor vitae proprie 
+      <lb ed="#B" n="23"/>ne interficerentur dicendo veritatem: et sic loqui 
+      <lb ed="#B" n="24"/>tur in glosa super Exood. Brego. quod merces 
+      <lb ed="#B" n="25"/>earum commutata est in temporale bonum: et fuit 
+      <lb ed="#B" n="26"/>peccatum veniale. Tertium consideratur omissio 
+      <lb ed="#B" n="27"/>confessionis diuinae virtutis: quia non sunt com 
+      <lb ed="#B" n="28"/>fesse veritatem diuinae virtutis dum debebant: 
+      <lb ed="#B" n="29"/>et sic fuit earum peccatum mortale si hoc tamen fecernt 
+      <lb ed="#B" n="30"/>Ex quo manifeste concluditur secunda pars 
+      conclusio<lb ed="#B" n="31" break="no"/>nis: quod scilicet quodlibet mendacium non extat peccatum 
+      <lb ed="#B" n="32"/>mortale: peccatum enim mortale non 
+      committi<lb ed="#B" n="33" break="no"/>tur sine contemtu: in mendatio autem non sper ac 
+      <lb ed="#B" n="34"/>cedit contemtus dei: patet in mendacio io 
+      <lb ed="#B" n="35"/>coso et officioso: vnde in glosa super principium 
+      <lb ed="#B" n="36"/>exodi dicitur: quod infirmis mentiri conceditur 
+      <lb ed="#B" n="37"/>non quin peccent non tamen ad mortem. Sed 
+      <lb ed="#B" n="38"/>de viris perfectis quid: videtur dicere 
+      do<lb ed="#B" n="39" break="no"/>ctor deuotus. q. 4. quod eorum quodlibet 
+      menda<lb ed="#B" n="40" break="no"/>cium arguit peccatum mortale: cum sint velus 
+      <lb ed="#B" n="41"/>exemplar in pposlolis: et ita si memciantur nulli de 
+      <lb ed="#B" n="42"/>caetero crederetur maxime dum eorum perfectio 
+      <lb ed="#B" n="43"/>in aperto est omnium: tamen et merito tam doc. 
+      <lb ed="#B" n="44"/>sub: quam sancto tho. q. 4. videtur. non enim 
+      <lb ed="#B" n="45"/>perfectus se ad amplius: ex eo quod sic se 
+      ob<lb ed="#B" n="46" break="no"/>ligauit quam alius vt scilicet peccet mortaliter: non 
+      <lb ed="#B" n="47"/>alius nisi tamen videret ex hoc imminere 
+      <lb ed="#B" n="48"/>pusillis scandalum: aut fidei detrimentum et 
+      <lb ed="#B" n="49"/>tunc non: quia perfectus: sed ratione huius 
+      <!--667.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>additi posset peccare mortaliter: vnde 
+      val<lb ed="#B" n="51" break="no"/>de turpe est: et adminus grauius venialo 
+      <lb ed="#B" n="52"/>viris perfectis: vt religiosis et praelatis mem 
+      <lb ed="#B" n="53"/>dacium quam caeteris.
+</p>
+               <p xml:id="WuV37d-f50364-d1e999">
+¶ Secunda conclusio de per 
+      <lb ed="#B" n="54"/>iurio iuxta di. 39. et est haec. Licet pariurium 
+      le<lb ed="#B" n="55" break="no"/>ge prohibeatur domini: non tamen omne iuramen 
+      <lb ed="#B" n="56"/>tum. Dicit prima pars conclusionis quod 
+      per<lb ed="#B" n="57" break="no"/>iurium prohibetur lege dei: probatur: quod di 
+      <lb ed="#B" n="58"/>recte est contra mandatum dei lege 
+      prohi<lb ed="#B" n="59" break="no"/>betur: huiusmodi est periurium: est 
+      nem<lb ed="#B" n="60" break="no"/>pe tam periurium contra secundum mandatum 
+      <lb ed="#B" n="61"/>primae tabule: quia nomen dei assumitur 
+      <lb ed="#B" n="62"/>in vanum: quam contra quintum secundae tabulae 
+      <lb ed="#B" n="63"/>inquantum vergit in nocumentum 
+      proximi<lb ed="#B" n="64" break="no"/>Confirmatur: quia accipiendo sic nomen 
+      <lb ed="#B" n="65"/>dei et false nequit fieri nisi ex contentu. Ex quo 
+      <lb ed="#B" n="66"/>patet quod dubium non est asserendum pro 
+      ve<lb ed="#B" n="67" break="no"/>ro cum iuramento: alioquin sic assumens 
+      <lb ed="#B" n="68"/>dato quod diceret verum peierat: ex primo: 
+      <lb ed="#B" n="69"/>namque articulo habitum est: quod periurium non 
+      <lb ed="#B" n="70"/>est solum oppositum veritati sed iusticiae et iu 
+      <lb ed="#B" n="71"/>dicio. Unde si in iudicio quis aduocaretur) 
+      <lb ed="#B" n="72"/>ad ferendum testimonium de non bene 
+      cer<lb ed="#B" n="73" break="no"/>to: dicere deberet quantum possum scire: aui 
+      <lb ed="#B" n="74"/>mea fragilitas se extendit: aut aliud huius 
+      <lb ed="#B" n="75"/>modi. Patet extra de scrutinio in ordine 
+      <lb ed="#B" n="76"/>faciendo capitulo vicio. vide ibi. Unde in tali 
+      <lb ed="#B" n="77"/>responsione dicit papa. Peccare aliquem 
+      <lb ed="#B" n="78"/>non credimus. Caeterum peierat quis si 
+      <lb ed="#B" n="79"/>iurat se nunquam bonum facturum: quia iurat 
+      <lb ed="#B" n="80"/>contra diuinum praeceptum: aut si iurat se 
+      num<lb ed="#B" n="81" break="no"/>quam religionem intraturum: quia contradicit 
+      <lb ed="#B" n="82"/>spiritui sancto: qui semper ad meliora 
+      dispo<lb ed="#B" n="83" break="no"/>nit: et tale dicitur periurium incautum. Sed  
+      <lb ed="#B" n="84"/>dicebat secunda pars conclusionis: quod omne 
+      iu<lb ed="#B" n="85" break="no"/>ramentum non prohibetur. Probatur. Omnis 
+      <lb ed="#B" n="86"/>actus qui habet exemplar in deo non est 
+      il<lb ed="#B" n="87" break="no"/>licitus. huiusmodi est iuramentum. Iura  
+      <lb ed="#B" n="88"/>uit enim dominus et non penitebit est. Caeterum actus 
+      <lb ed="#B" n="89"/>talis debitam aspicit materiam confirmatiuus 
+      <lb ed="#B" n="90"/>est pacis et fidei et veritatis exhibiturus  
+      <lb ed="#B" n="91"/>reuerentiam diuine maiestati: Unde bene.  
+      <lb ed="#B" n="92"/>Laudabuntur omnes quiiurant in eo. Ex quo 
+      <lb ed="#B" n="93"/>patet error manicheorum dicentium omne iura 
+      <lb ed="#B" n="94"/>mentum esse illicitum: quia dicit dominus. Nolite 
+      <lb ed="#B" n="95"/>iurare omnino: non enim dixit dominus: quod nullus 
+      <lb ed="#B" n="96"/>vnquam iuraret: sed non pro qualibet causa: ne 
+      <lb ed="#B" n="97"/>ad hoc assuescat. Sed numquid est iurandum per 
+      cre<lb ed="#B" n="98" break="no"/>aturam: quia dicit Pius papa. 22. q. prima. Si 
+      <!--668.xml-->
+      <pb ed="#B" n="326-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>quis per capillum dei iurauerit: aut per 
+      ca<lb ed="#B" n="2" break="no"/>put: si in ecclesiastico ordine est: 
+      depona<lb ed="#B" n="3" break="no"/>tur: si laicus est anathematimetur. Dicendum 
+      <lb ed="#B" n="4"/>quod hoc decretum est contra illos qui crede 
+      <lb ed="#B" n="5"/>bant deum secundum diuinitatem habere 
+      mem<lb ed="#B" n="6" break="no"/>bra: sicuti homines habent: ideo merito 
+      <lb ed="#B" n="7"/>sunt veluti haeretici reputandi. Uel loquitur 
+      <lb ed="#B" n="8"/>contra illos qui turpiter modo caput modo 
+      pe<lb ed="#B" n="9" break="no"/>des periurant Ihesu christi: indiuisibilem 
+      <lb ed="#B" n="10"/>tunicem dei diuidentes: potest etiam. 
+      iura<lb ed="#B" n="11" break="no"/>ri per creaturam inquantum in ea est 
+      vesti<lb ed="#B" n="12" break="no"/>gium dei. vt Ioseph qui per salutem 
+      iura<lb ed="#B" n="13" break="no"/>uit pharaonis: sed non credendo aliquid 
+      <lb ed="#B" n="14"/>fnuminis in ea constare. Sed dicit dominus. No 
+      <lb ed="#B" n="15"/>lite iurare neque per caelum etc. immo quod plus 
+      <lb ed="#B" n="16"/>est potest sumi ab infidelibus testimoniu 
+      <lb ed="#B" n="17"/>per idola iurantibus: non ponendo specie in 
+      <lb ed="#B" n="18"/>idolo: sed confidendo de veritate iurantis  
+      <lb ed="#B" n="19"/>patet in Iuda machabeo accipiente 
+      iura<lb ed="#B" n="20" break="no"/>mentum a romanis: et Iacob a laban 
+      soce<lb ed="#B" n="21" break="no"/>ro suo et patre rachelis.
+</p>
+               <p xml:id="WuV37d-f50364-d1e1151">
+¶ Tertia 
+      con<lb ed="#B" n="22" break="no"/>clusio est: de comparatione noue legis ad 
+      <lb ed="#B" n="23"/>antiquam: et est haec. Lex noua amoris: lege 
+      <lb ed="#B" n="24"/>antiquatimoris: minus grauis existit. 
+      Di<lb ed="#B" n="25" break="no"/>cit prima pars quod lex noua dicitur lex 
+      amo<lb ed="#B" n="26" break="no"/>ris: patet in gratia collata filio dei 
+      incar<lb ed="#B" n="27" break="no"/>nato: legen cum discipulis suis in monte: ve 
+      <lb ed="#B" n="28"/>luti vno ex eis dictante. Lex antiqua lex ti 
+      <lb ed="#B" n="29"/>moris: patet quia illic dominus in noua 
+      pa<lb ed="#B" n="30" break="no"/>ter deus sepe nominatur. Si ego dominus 
+      in<lb ed="#B" n="31" break="no"/>quit: vbi est timor meus: si ego pater vbi 
+      <lb ed="#B" n="32"/>est amor meus: huccinis etiam 
+      resonanti<lb ed="#B" n="33" break="no"/>bus et fulgure donata est: vt diceret popu 
+      <lb ed="#B" n="34"/>clus. Non loquatur nobis dominus ne forte mo 
+      <lb ed="#B" n="35"/>riamur. Sed dicit secunda pars 
+      conclu<lb ed="#B" n="36" break="no"/>sionis: quod minus grauis existit lex euange 
+      <lb ed="#B" n="37"/>lica quam lex mosayvca. Patet vnica 
+      distinctio<lb ed="#B" n="38" break="no"/>ne quam dat doctor deuotus. q. 3. 40. di 
+      <lb ed="#B" n="39"/>stin. Est enim in lege considerare tria praece 
+      <lb ed="#B" n="40"/>pta obligantia affectiones interiores ad im 
+      <lb ed="#B" n="41"/>plendum. Tertio adiutoria si loquamur 
+      <lb ed="#B" n="42"/>de praeceptis in lege mosaica fuerunt 
+      tria<lb ed="#B" n="43" break="no"/>Cerimonialia: iudicialia: et moralia. Quo 
+      <lb ed="#B" n="44"/>ad cerimonialia simpliciter fuit grauior 
+      <lb ed="#B" n="45"/>lex movsi quam nostra: Unde beatus 
+      Augu<lb ed="#B" n="46" break="no"/>stinus in libro ad responsiones ianuarii: 
+      <lb ed="#B" n="47"/>et tangitur in decretis distinctione. 12. pars 
+      <lb ed="#B" n="48"/>illius auctoritatis dicit quod Rabimoises 
+      <lb ed="#B" n="49"/>enumerauit in lege sexcenta legalia ad quae 
+      <!--668.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>omnes tenebantur: et aliqua erant valde 
+      diffici<lb ed="#B" n="51" break="no"/>lia: vtputa: oiunem masculum ter in anno in 
+      <lb ed="#B" n="52"/>hierusalem apparere quantumcumque distaret: et 
+      <lb ed="#B" n="53"/>talia multa. Talia non sunt in lege 
+      noua<lb ed="#B" n="54" break="no"/>Ideo petrus dicit. Quare vultis super nos 
+      <lb ed="#B" n="55"/>imponere onus graue: quod nec nos nec 
+      pa<lb ed="#B" n="56" break="no"/>tres nostri portare potuimus. Si secundo loqua 
+      <lb ed="#B" n="57"/>mur quo ad iudicialia: nulla posuit dominus: sed  
+      <lb ed="#B" n="58"/>dimisit ecclesiae et principibus ordinanda: 
+      <lb ed="#B" n="59"/>ideo ex parte euangelii in se simpliciter no 
+      <lb ed="#B" n="60"/>ua lex minus grauis est: respectu autem 
+      im<lb ed="#B" n="61" break="no"/>ponentium quodammodo non. quia in antiqua 
+      <lb ed="#B" n="62"/>lege nullus habebat auctoritatem legem 
+      con<lb ed="#B" n="63" break="no"/>dendi: sicut modo in noua: vbi plurimae condi 
+      <lb ed="#B" n="64"/>te sunt: tam in canonico iure quam ciuili: quae 
+      ho<lb ed="#B" n="65" break="no"/>norare videntur libertatem euangelii super 
+      le<lb ed="#B" n="66" break="no"/>gem mosaicam. Quo autem ad moralia: quia 
+      ma<lb ed="#B" n="67" break="no"/>gis explicita sunt in noua lege quam in antiqua 
+      <lb ed="#B" n="68"/>quodammodo strictior est noua quam 
+      antiqua<lb ed="#B" n="69" break="no"/>Quo vero ad secundum pricipale. scilicet affectio 
+      <lb ed="#B" n="70"/>nes minus grauis est multo noua quam anti 
+      <lb ed="#B" n="71"/>qua: quia ad primam ducit amor: quae omnia fa 
+      <lb ed="#B" n="72"/>cit leuia: ad secundam timor qui cuncta ali 
+      <lb ed="#B" n="73"/>qualiter reddit grauia. Quo vero ad ter 
+      <lb ed="#B" n="74"/>tium. scilicet adiutoria: etiam leuissima est lex 
+      chri<lb ed="#B" n="75" break="no"/>sti vt ipse dicat. Iugum meum suaue est: et 
+      <lb ed="#B" n="76"/>onus meum leue. Sunt enim sacramenta septem de 
+      <lb ed="#B" n="77"/>quibus in sequenti quarto libro 
+      immedia<lb ed="#B" n="78" break="no"/>te dicetur: veluti vasa gratiae in lege noua 
+      <lb ed="#B" n="79"/>charitate redundantia plenissime vt fera 
+      <lb ed="#B" n="80"/>mur leuiter lege noua: veluti pecenis aues 
+      <lb ed="#B" n="81"/>rotis currus: et velis naues. 
+      <lb ed="#B" n="82"/>Quo ad tertium articulum sun 
+      <lb ed="#B" n="83"/>tres difficul 
+      <lb ed="#B" n="84"/>tates.
+</p>
+               <p xml:id="WuV37d-f50364-d1e1294">
+¶ Prima quod est minus mendaci 
+      <lb ed="#B" n="85"/>um: pernitiosum: iocosum: vel officiosum? 
+      Di<lb ed="#B" n="86" break="no"/>cendum quod officiosum: vtilitas enim adiuncta 
+      <lb ed="#B" n="87"/>diminuit de ratione peccati: quam non 
+      ha<lb ed="#B" n="88" break="no"/>bet ita: aut pernitiosum aut iocosum.
+</p>
+               <p xml:id="WuV37d-f50364-d1e1305">
+¶ Se 
+      <lb ed="#B" n="89"/>cunda difficultas vtrum iuramentum coactus 
+      <lb ed="#B" n="90"/>et dolosum obliget? Dicit doctor deuos 
+      <lb ed="#B" n="91"/>articu. 3. 39. distin. duabus primisa.eqtione quod se 
+      <lb ed="#B" n="92"/>habent ex opposito: quo enim ad deum 
+      dolo<lb ed="#B" n="93" break="no"/>sum iuramentum non obligat: quia non in 
+      <lb ed="#B" n="94"/>tendebat sic iurans se obligare: sed bens 
+      <lb ed="#B" n="95"/>quo ad proximum: quia accipiuntur verba secundum 
+      <lb ed="#B" n="96"/>quod audiuntur: econtra de coacto quo ad 
+      <lb ed="#B" n="97"/>deum obligat: non quo ad proximum: vnde praetor le 
+      <lb ed="#B" n="98"/>gum dicit quod vi aut metu fit: ratum non habeo. 
+      <!--669.xml-->
+      <pb ed="#B" n="326-v"/>
+                  <cb ed="#B" n="a"/>
+               </p>
+               <p xml:id="WuV37d-f50364-d1e1337">
+                  <lb ed="#B" n="1"/>¶ Tertia difficultas. Quid apparet 
+      <lb ed="#B" n="2"/>grauius in noua lege: dicit doctor subtil 
+      <lb ed="#B" n="3"/>dist. 46. quod sacramentum confessionis: est 
+      nem<lb ed="#B" n="4" break="no"/>pe valde magnum homini aliquando 
+      igno<lb ed="#B" n="5" break="no"/>to omnia dicere peccata sua: tamen addita est magna 
+      <lb ed="#B" n="6"/>cautela: vt scilicet reuelare non possit intm vt 
+      <lb ed="#B" n="7"/>quidam dicunt: quod numquam audiui magsis scio: quam 
+      <lb ed="#B" n="8"/>per confessionem scio: ratio quia possum 
+      lo<lb ed="#B" n="9" break="no"/>qui de eo quod numquam audiui: non tamen de eo quod 
+      <lb ed="#B" n="10"/>scio per confessionem. Ex quo patet ad 
+      quae<lb ed="#B" n="11" break="no"/>stionem: quod scilicet noua lex omne mendacium peccatum 
+      <lb ed="#B" n="12"/>proferens cunctum periurium deliberatiue 
+      <lb ed="#B" n="13"/>factum mortale iudicat. Tunc ad argumenta 
+      </p>
+               <p xml:id="WuV37d-f50364-d1e1368">
+                  <lb ed="#B" n="14"/>¶ Ad primum neganda est minor pro 
+      vtra<lb ed="#B" n="15" break="no"/>que sui parte: et dum primo probatur quod destru 
+      <lb ed="#B" n="16"/>xerit: quia ea adueniente cerimonialia et 
+      <lb ed="#B" n="17"/>iudicialia cessauerunt. Dico quod 
+      argumen<lb ed="#B" n="18" break="no"/>tum est in oppositum: eo enim quod cessauerunt tunc 
+      <lb ed="#B" n="19"/>signum est quod id aduenit cuius erant vmbra 
+      <lb ed="#B" n="20"/>et figura: et ita eorum adimpletum est miste 
+      <lb ed="#B" n="21"/>rium. Cum vero probatur quod non destruxerit: 
+      <lb ed="#B" n="22"/>quia scriptum est. Non veni legem soluere: sed 
+      <lb ed="#B" n="23"/>adimplere: veritatem habet modo praedicto: 
+      <lb ed="#B" n="24"/>aut implendo sicut veritas figuram in ceri 
+      <lb ed="#B" n="25"/>monialibus: aut perficiendo sicut in moralibus 
+      <lb ed="#B" n="26"/>quae sunt ab eo perfecta Math. 5.
+</p>
+               <p xml:id="WuV37d-f50364-d1e1399">
+¶ Ad secun 
+      <lb ed="#B" n="27"/>dum dico ad maiorem: quod triplex est simula 
+      <lb ed="#B" n="28"/>tio. Prima est doctrinae qualis fuit in chri 
+      <lb ed="#B" n="29"/>sto sicut allegatur: ostendit enim se talem 
+      ex<lb ed="#B" n="30" break="no"/>tra: qualis erat intra in eorum cordibus: vt 
+      <lb ed="#B" n="31"/>postmodum melius eos doceret. Secunda 
+      <lb ed="#B" n="32"/>est cautele qualis fui tinieu: et maxime in 
+      <lb ed="#B" n="33"/>dauid: et heae duae non sunt peccatum. Tertia est 
+      <!--669.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="34"/>duplicitatis sicut est in ipocritis qui 
+      fetidi<lb ed="#B" n="35" break="no"/>sunt interius: et boni apparent exterius: et 
+      <lb ed="#B" n="36"/>de hac arguit maior: et habet veritatem. 
+      </p>
+               <p xml:id="WuV37d-f50364-d1e1428">
+                  <lb ed="#B" n="37"/>¶ Ad tertium dicit doc. subti. dist. 36. quod 
+      <lb ed="#B" n="38"/>maximum iuramentum caeteris paribus est 
+      iu<lb ed="#B" n="39" break="no"/>rare per deum: et ita maius quam per 
+      euange<lb ed="#B" n="40" break="no"/>lium. Ordinauit tamen ecclesia ad terrorem 
+      ma<lb ed="#B" n="41" break="no"/>lorum tale iuramentum supra sancta dei 
+      euan<lb ed="#B" n="42" break="no"/>gelia: quatenus homo aut metueret infa 
+      <lb ed="#B" n="43"/>miam aut dei apertam vindictam: quamuis caete 
+      <lb ed="#B" n="44"/>ris paribus maius sit iurare per deum: ideo 
+      <lb ed="#B" n="45"/>non assuescat os nostrum in iuratione nomins 
+      <lb ed="#B" n="46"/>dei. Et tantum de etc.
+</p>
+            </div>
+            <div xml:id="WuV37d-f50364-Dd1e1453" type="et-conclusiones">
+               <head xml:id="WuV37d-f50364-Hd1e1455">Conclusiones</head>
+               <p xml:id="WuV37d-f50364-d1e1458">
+¶ Ex praesenti etc. Prima 
+      <lb ed="#B" n="47"/>conclusio. Extant mendacia textus attestatur 
+      <lb ed="#B" n="48"/>genere varia et clare probatur. Dicit conclusio 
+      <lb ed="#B" n="49"/>quod diuersa sunt genera mendacii: ponitur 
+      <lb ed="#B" n="50"/>conclusio per totam. 36. di.
+</p>
+               <p xml:id="WuV37d-f50364-d1e1469">
+¶ Secunda conclusio 
+      <lb ed="#B" n="51"/>396. dist. Iuratio vana sane prohibetur: sed  
+      <lb ed="#B" n="52"/>existens sana non sic inhibetur. Dicit 
+      com<lb ed="#B" n="53" break="no"/>clusio periurium simpliciter prohibitum est. 
+      <lb ed="#B" n="54"/>non ita iuramentum: ponitur per. 39. dist. 
+      </p>
+               <p xml:id="WuV37d-f50364-d1e1480">
+                  <lb ed="#B" n="55"/>¶ Tertia conclusio. Concupiscentia 
+      ma<lb ed="#B" n="56" break="no"/>gis abiicitur lege christipia quam praecipitur 
+      <lb ed="#B" n="57"/>Dicit conclusio quod concupiscentia quae 
+      prohi<lb ed="#B" n="58" break="no"/>betur in duobus vltimis decalogi 
+      prece<lb ed="#B" n="59" break="no"/>ptis: magis vincitur lege christi quam antiqua 
+      <lb ed="#B" n="60"/>et ponitur per totam. 40. dist. Et addatur 
+      <lb ed="#B" n="61"/>differentia legis noue et veteris. 
+      <lb ed="#B" n="62"/>Liber tertius magistri 
+      sententia<lb ed="#B" n="63" break="no"/>ru perlucide disputatus et declara 
+      <lb ed="#B" n="64"/>tus a venerabili patre fratre Guil. 
+      <lb ed="#B" n="65"/>lermo vorrillons: finit.
+</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

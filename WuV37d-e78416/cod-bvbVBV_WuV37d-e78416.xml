@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 14-16</title>
+            <author ref="#WilliamDeVaurouillon">William de Vaurouillon</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 14-16</title>
+               <date when="2021-06-19">June 19, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-bvbVBV">Basel 1510</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-06-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="169-v"/>
+            <cb ed="#B" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="WuV37d-e78416"><!-- l2d14-16 -->
+            <head xml:id="WuV37d-e78416-Hd1e108">Distinctio 14-16</head>
+            <div xml:id="WuV37d-e78416-Dd1e111" type="circa-textum">
+               <head xml:id="WuV37d-e78416-Hd1e113">Circa textum</head>
+               <p xml:id="WuV37d-e78416-d1e116">
+                  <lb ed="#B" n="23"/>Distinctio. 14. docet de 
+      produ<lb ed="#B" n="24" break="no"/>ctione simpliciu et insensibilium coti 
+      <lb ed="#B" n="25"/>nentium quantum ad formas speciales. 
+      <lb ed="#B" n="26"/>Axit quoquiea 
+      <lb ed="#B" n="27"/>deus: fiat firmamentu 
+      <lb ed="#B" n="28"/>in medio aquiru: et diui 
+      <lb ed="#B" n="29"/>dat aquis ab aquis. Hic 
+      <lb ed="#B" n="30"/>signatur. 14. distinctio huius 
+      <lb ed="#B" n="31"/>secundi libri sic continuata ad praecedentem: Nam 
+      <lb ed="#B" n="32"/>postquam in praecedenti distinctione prime diei po 
+      <lb ed="#B" n="33"/>sita est dispositio: nunc in hac duorum 
+      sequem<lb ed="#B" n="34" break="no"/>tium tangitur distinctio: et partitur in tres 
+      par<lb ed="#B" n="35" break="no"/>tes principales. In prima natura caelica 
+      cla<lb ed="#B" n="36" break="no"/>re distinguitur. In secunda quaestio ethica ex 
+      tex<lb ed="#B" n="37" break="no"/>tu oritur. In tertia voce veridica terra 
+      po<lb ed="#B" n="38" break="no"/>nitur: prima in principio: secunda ibi. Post hoc 
+      <lb ed="#B" n="39"/>quaeri solet etc. tertia ibi: Sequitur: dixit de 
+      <lb ed="#B" n="40"/>us: congregentur aque etc. Duabus partibus 
+      <lb ed="#B" n="41"/>vltimis indiuisis manentibus. Prima par 
+      <lb ed="#B" n="42"/>ticula in qua natura celica clare distinguitur 
+      <lb ed="#B" n="43"/>in tres partes diuiditur: In prima caeli cristalli 
+      <lb ed="#B" n="44"/>ni ponitur quidditas. In secunda caeli 
+      saphiri<lb ed="#B" n="45" break="no"/>ni id est firmamenti notatur entitas. In tertia 
+      <lb ed="#B" n="46"/>caeli huius bini patet rotunditas: prima in 
+      prin<lb ed="#B" n="47" break="no"/>cipio: secunda ibi: Quidam vero caelum quod exce 
+      <!--355.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="48"/>dit etc. tertia ibi: Quaeri etiam solet etc. Et 
+      <lb ed="#B" n="49"/>sequitur distinctio. 15. ibi: 
+      <lb ed="#B" n="50"/>Dixit deus: fiant liui 
+      <lb ed="#B" n="51"/>minaria in firmamento caeli: et diui 
+      <lb ed="#B" n="52"/>dant diem ac nocte etc. Quae etiam fuit 
+      <lb ed="#B" n="53"/>condiuisa in principio. 12. distinctionis vb 
+      <lb ed="#B" n="54"/>primo notandum occurrit: quod aliter signatur 
+      <lb ed="#B" n="55"/>ista distinctio: secundum docto. deuo. aliter secundum 
+      <lb ed="#B" n="56"/>doctur. sanctum seu thomam. Secundum enim doctur. 
+      <lb ed="#B" n="57"/>deuotum incipit illic: Dixit etiam deus: 
+      produ<lb ed="#B" n="58" break="no"/>tant aquae reptile etc. Secundum autem doctur. 
+      <lb ed="#B" n="59"/>sanctum vbi ego notaui. Et hic est prima 
+      di<lb ed="#B" n="60" break="no"/>uersitas situationum distinctionum inter eos 
+      <lb ed="#B" n="61"/>tam in primo quam in secundo. Sequor autem 
+      <lb ed="#B" n="62"/>hic thomam: quia melius videtur diuidere secundum 
+      <lb ed="#B" n="63"/>distinctionem distinctionis dierum et 
+      orna<lb ed="#B" n="64" break="no"/>tus eorum: vnde sic continuatur ad 
+      praeceden<lb ed="#B" n="65" break="no"/>tem. Nam postquam a distinctione. 12. inclu 
+      <lb ed="#B" n="66"/>siue positi sunt dies creationis et 
+      distin<lb ed="#B" n="67" break="no"/>ctionis: nunc ponuntur dies ornatus seu 
+      <lb ed="#B" n="68"/>ordinationis. Et partitur praesens 
+      distin<lb ed="#B" n="69" break="no"/>ctio in tres partes principales. In prima 
+      <lb ed="#B" n="70"/>decor ethereus primo disponitur. In 
+      secun<lb ed="#B" n="71" break="no"/>da ordo aereus exhinc exprimitur. In 
+      ter<lb ed="#B" n="72" break="no"/>tia ornatus terreus vltimo ponitur: prima 
+      <lb ed="#B" n="73"/>in principio: secunda ibi: Dixit etiam deus: 
+      <lb ed="#B" n="74"/>producant aque reptile etc. tertia ibi: 
+      Se<lb ed="#B" n="75" break="no"/>quitur: dixit deus: producat terra etc. Et ista 
+      <lb ed="#B" n="76"/>aliis duabus indiuisis manentibus in tres 
+      <lb ed="#B" n="77"/>scinditur particulas. In prima declaratur 
+      be<lb ed="#B" n="78" break="no"/>stiarum productio. In secunda subiungitur 
+      ho<lb ed="#B" n="79" break="no"/>minis grata creatio. In tertia incidens 
+      se<lb ed="#B" n="80" break="no"/>quitur dei cessatio: scilicet ab opere suo. prima in 
+      <lb ed="#B" n="81"/>principio: secunda ibi: Omnibus autem creatis  
+      <lb ed="#B" n="82"/>atque dispositis etc. tertia ibi: Iam de 
+      se<lb ed="#B" n="83" break="no"/>ptime diei requie etc. Et ista diuiditur in 
+      <lb ed="#B" n="84"/>tres partes. In prima ab opere patet 
+      cessa<lb ed="#B" n="85" break="no"/>tio. In secunda quietis venatur ratio. In 
+      <lb ed="#B" n="86"/>tertia datur ex munere sanctificatio 
+      pri<lb ed="#B" n="87" break="no"/>ma in principio: secunda ibi: Sed queritur 
+      <lb ed="#B" n="88"/>quomodo septimo die etc. tertia ibi: Illum 
+      <lb ed="#B" n="89"/>autem diem sanctificasse etc.
+</p>
+               <p xml:id="WuV37d-e78416-d1e268">
+¶ Sequitur 
+      de<lb ed="#B" n="90" break="no"/>cimasexta distinctio ibi: 
+      <lb ed="#B" n="91"/>His excursis quod 
+      su<lb ed="#B" n="92" break="no"/>pra de hominis creatione permisimus: quae 
+      <lb ed="#B" n="93"/>effectui mancipareatque ordine 
+      ex<lb ed="#B" n="94" break="no"/>planare nunc suscipimus / quae sic com p 
+      <!--356.xml-->
+      <pb ed="#B" n="170-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>tinuatur ad praecedentes. Nam postquam a se 
+      <lb ed="#B" n="2"/>cunda distinctione vsque ad. 11. inclusiue de 
+      <lb ed="#B" n="3"/>natura egit pure spirituali: Et ab. 11. 
+      ex<lb ed="#B" n="4" break="no"/>clusiue vsque ad. 15. de natura egit pure cor 
+      <lb ed="#B" n="5"/>porali: Nunc in ista. 16. distinctione age 
+      <lb ed="#B" n="6"/>re incipit de natura composita ex 
+      corpora<lb ed="#B" n="7" break="no"/>li et spirituali: scilicet homine. Et diuiditur in 
+      <lb ed="#B" n="8"/>tres partes principales. In prima hominis in 
+      <lb ed="#B" n="9"/>existentia assignatur productio. In secunda il 
+      <lb ed="#B" n="10"/>lius permanentia notatur et duratio. In 
+      ter<lb ed="#B" n="11" break="no"/>tia casus atque miseria panditur et tempta 
+      <lb ed="#B" n="12"/>tio: prima in principio: secunda distin. 19. ibi 
+      <lb ed="#B" n="13"/>Solent plura quaeri de pri. etc. tertia 
+      dis<lb ed="#B" n="14" break="no"/>21. Uidens igitur diabolus etc. Prima 
+      <lb ed="#B" n="15"/>rursus particula in qua bomins in sua 
+      exi<lb ed="#B" n="16" break="no"/>stentia assignatur productio in tres partes 
+      <lb ed="#B" n="17"/>diuiditur. In prima modum narrationis ve 
+      <lb ed="#B" n="18"/>ritas tangitur. In secunda lege expositio 
+      <lb ed="#B" n="19"/>nis quedam claret auctoritas. In tertia suae 
+      <lb ed="#B" n="20"/>constitutionis principii quaeritur entitas: prius 
+      <lb ed="#B" n="21"/>ma in principio: secunda ibi: Imago autem et 
+      <lb ed="#B" n="22"/>similitudo: tertia distin. 17. ibi De 
+      origi<lb ed="#B" n="23" break="no"/>ne animae hic etc. Et haec est diuisio etc. Cit 
+      <lb ed="#B" n="24"/>ca quam quaeritur. 
+</p>
+            </div>
+            <div xml:id="WuV37d-e78416-Dd1e341">
+               <head xml:id="WuV37d-e78416-Hd1e343">Quaestio</head>
+               <p xml:id="WuV37d-e78416-d1e346">
+                  <lb ed="#B" n="25"/>Questio haec determinat de na 
+      <lb ed="#B" n="26"/>tura caeli et bestiarum hominisque ima 
+      <lb ed="#B" n="27"/>gine in qua plures reprehendit 
+      do<lb ed="#B" n="28" break="no"/>ctores / paganos / iudeos / et 
+      christia<lb ed="#B" n="29" break="no"/>nos: sicut patet in margine. Uide 
+      <lb ed="#B" n="30"/>Secodo in dist. 14. et. 1. 
+      <lb ed="#B" n="31"/>Utrum celis et 
+      <lb ed="#B" n="32"/>variis productis bestiis ad 
+      di<lb ed="#B" n="33" break="no"/>uinam immaginem homo produ 
+      <lb ed="#B" n="34"/>ci debuit. Et arguitur quod non triplici medio. 
+      </p>
+               <p xml:id="WuV37d-e78416-d1e370">
+                  <lb ed="#B" n="35"/>¶ Primo sic: Opera diuina aut vadunt 
+      <lb ed="#B" n="36"/>ab imperfecto ad perfectum: aut a perfecto 
+      <lb ed="#B" n="37"/>ad imperfectum: sed / siue sic / siue sic: homo 
+      <lb ed="#B" n="38"/>erat ante caelos ac bestias producendus: 
+      igi<lb ed="#B" n="39" break="no"/>tur etc. Maior patet: quia non apparet 
+      ali<lb ed="#B" n="40" break="no"/>us modus. Sed probatur minor. si enimu 
+      <lb ed="#B" n="41"/>opera dei procedant a perfecto ad 
+      imper<lb ed="#B" n="42" break="no"/>fectum debuit produci ante caelos: cum sit 
+      <lb ed="#B" n="43"/>perfectior. Et patet de angelis: qui ante 
+      <lb ed="#B" n="44"/>caelos conditi sunt. Si rursus procedat de 
+      <lb ed="#B" n="45"/>imperfecto ad perfectum videtur quod illa ra 
+      <lb ed="#B" n="46"/>tione angeli etiam essent post hominemu 
+      <lb ed="#B" n="47"/>producendi cum sint natura perfectiores. 
+      <!--356.xml-->
+      <cb ed="#B" n="b"/>
+               </p>
+               <p xml:id="WuV37d-e78416-d1e405">
+                  <lb ed="#B" n="48"/>¶ Secundo arguitur sic. Quandocumque est 
+      <lb ed="#B" n="49"/>aliquis sapiens artifex intendens aliquem 
+      <lb ed="#B" n="50"/>finem immediate praetermissis mediis: 
+      fi<lb ed="#B" n="51" break="no"/>nem inducit si potest: patet: Hedicus enim 
+      <lb ed="#B" n="52"/>qui per multa media in suo patiente 
+      indu<lb ed="#B" n="53" break="no"/>cit sanitatem: si posset immediate 
+      causa<lb ed="#B" n="54" break="no"/>ret sanitatem. Sed in opere sex dierum 
+      in<lb ed="#B" n="55" break="no"/>tendebat deus principaliter creationem 
+      ho<lb ed="#B" n="56" break="no"/>minis quasi finem vniuersi: et poterat 
+      ef<lb ed="#B" n="57" break="no"/>ficere ante media: igitur et fecit: probatur 
+      <lb ed="#B" n="58"/>minor quod homo sit finis vniuersi: tum ex illo. 
+      <lb ed="#B" n="59"/>Dominamini piscibus maris et volatili 
+      <lb ed="#B" n="60"/>bus caeli etc. Tum quia in secundo 
+      phisicorum<lb ed="#B" n="61" break="no"/>scripsit philosopus: quod sumus quodammo 
+      <lb ed="#B" n="62"/>do finis ominum.
+</p>
+               <p xml:id="WuV37d-e78416-d1e440">
+¶ Tertio arguitur / quod non  
+      <lb ed="#B" n="63"/>sit productus ad dei immaginem. Si enim in 
+      <lb ed="#B" n="64"/>homine esset diuina imago: aut quaerenda 
+      <lb ed="#B" n="65"/>esset in corpore: aut in spiritu: non in 
+      corpo<lb ed="#B" n="66" break="no"/>re: patet: quia commune est nobis et brutis:  
+      <lb ed="#B" n="67"/>non in spiritu: probatur: quia cum imago re 
+      <lb ed="#B" n="68"/>ferri habeat ad prothotipum: et in prothoti 
+      <lb ed="#B" n="69"/>po sint tres res relatiue: et tres persone: in 
+      <lb ed="#B" n="70"/>nostro spiritu essent tres res relatiue: et 
+      <lb ed="#B" n="71"/>tres persone: quod negat quilibet sapiens.
+</p>
+               <p xml:id="WuV37d-e78416-d1e463">
+¶ Ir 
+      <lb ed="#B" n="72"/>oppositum horum est in littera magister di 
+      <lb ed="#B" n="73"/>stinctione. 16. agens post creationem caelorum 
+      <lb ed="#B" n="74"/>et bestiarum de ipso homine: et quod sit 
+      produ<lb ed="#B" n="75" break="no"/>ctus ad diuinam imaginem innuitur per 
+      id<lb ed="#B" n="76" break="no"/>Faciamus inquit hominem ad imaginemus 
+      <lb ed="#B" n="77"/>et similitudinem nostram.
+</p>
+               <p xml:id="WuV37d-e78416-d1e479">
+¶ In ista 
+      quaestio<lb ed="#B" n="78" break="no"/>ne ad alias etc. 
+      <lb ed="#B" n="79"/>Primus est terminorum declaratiuus 
+      <lb ed="#B" n="80"/>Quorum Secundus est quaestionis responsiuus 
+      </p>
+               <p xml:id="WuV37d-e78416-d1e488">
+                  <lb ed="#B" n="81"/>¶ Tertius est dubiorum motiuus 
+      <lb ed="#B" n="82"/>Quantum ad primii artic 
+      <lb ed="#B" n="83"/>culium 
+      <lb ed="#B" n="84"/>termini sunt / caelunm / bestia/ et homo.
+</p>
+               <p xml:id="WuV37d-e78416-d1e499">
+¶ Pr 
+      <lb ed="#B" n="85"/>mus igitur terminus est caelum. Un 
+      <lb ed="#B" n="86"/>de caelum est continentia visibilium et inui 
+      <lb ed="#B" n="87"/>sibilium. Et dicitur a celando seu celatura: 
+      <lb ed="#B" n="88"/>quia ad modum pulcherrimi campi depin 
+      <lb ed="#B" n="89"/>gitur. Unde apud theologos solent 
+      di<lb ed="#B" n="90" break="no"/>uidi tres caelorum ternarii seu nouem caeli: 
+      <lb ed="#B" n="91"/>scilicet aereum primum: ethereum secundum: olim 
+      <lb ed="#B" n="92"/>pium tertium: igneum quartum: caelum 
+      se<lb ed="#B" n="93" break="no"/>ptem planetarum quintum: firmamentum 
+      <lb ed="#B" n="94"/>sextum: caelum aqueum septimum: caelum 
+      <lb ed="#B" n="95"/>empireum octauum: caelum trinitatis no 
+      <lb ed="#B" n="96"/>num. Et differunt hoc modo. Et sic patet 
+      <!--357.xml-->
+      <pb ed="#B" n="170-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>eorum sufficientia. Caelum enim aut est pure spi 
+      <lb ed="#B" n="2"/>rituale: aut secundo corporale: sed per 
+      natu<lb ed="#B" n="3" break="no"/>ram incorruptibilem: aut tertio corporale et 
+      cor<lb ed="#B" n="4" break="no"/>ruptibile. Si sit purum spirituale: sic est caelum 
+      <lb ed="#B" n="5"/>trinitatis de quo dicit lucifer: Ascendam in 
+      <lb ed="#B" n="6"/>caelum et similis ero altissimo: quod merito di 
+      <lb ed="#B" n="7"/>citur caelum: quia in deo seu deus est per vdeas 
+      <lb ed="#B" n="8"/>continentia visibilium et inuisibilium. Si autem 
+      <lb ed="#B" n="9"/>sit corporale et incorruptibile hoc est 
+      tri<lb ed="#B" n="10" break="no"/>pliciter: aut enim solum est luminosum: et sic 
+      <lb ed="#B" n="11"/>est caelum empireum: quod ad modum ignis secundum 
+      <lb ed="#B" n="12"/>strabum fulgentissimi: sed non ardentis extat: 
+      <lb ed="#B" n="13"/>aut secundo est perspicuum seu luminis 
+      susce<lb ed="#B" n="14" break="no"/>ptiuum sed non luminosum: et sic est caeluim 
+      <lb ed="#B" n="15"/>aqueum quod est ad modum cristalli congelati: 
+      <lb ed="#B" n="16"/>vnde et cristallinum caelum nominatur: vnde si 
+      re<lb ed="#B" n="17" break="no"/>moueretur firmamentum de loco suo: 
+      vide<lb ed="#B" n="18" break="no"/>remus per caelum aqueum ipsum empireum: si 
+      <lb ed="#B" n="19"/>cut modo videmus firmamentum non 
+      obstan<lb ed="#B" n="20" break="no"/>tibus orbibus septem planetarum: aut tertio 
+      <lb ed="#B" n="21"/>est susceptiuum luminis seu perspicuum et 
+      lu<lb ed="#B" n="22" break="no"/>minosum simul: et sic est firmamentum in 
+      <lb ed="#B" n="23"/>quo locantur stellae ad modum lucis: et caetera 
+      <lb ed="#B" n="24"/>pars est ad modum luminis seu perspicui. 
+      <lb ed="#B" n="25"/>Et idem dicitur de septem spheris 
+      planeta<lb ed="#B" n="26" break="no"/>rum. In orbe enim cuiuslibet planetae est vni 
+      <lb ed="#B" n="27"/>ca stella erratica quae est luminosa: reliqua 
+      <lb ed="#B" n="28"/>orbis pars extat perspicua. Dicitur autem 
+      fir<lb ed="#B" n="29" break="no"/>mamentum quia diuidit aquas superiores scilicet 
+      <lb ed="#B" n="30"/>caelum aqueum ab aquis inferioribus scilicet ele 
+      <lb ed="#B" n="31"/>mentaribus: et quasi eas sustinere videtur: 
+      <lb ed="#B" n="32"/>licet fluere non possint: vel quia stelle ad mo 
+      <lb ed="#B" n="33"/>dum clauorum in rota in illo impresse sunt. 
+      <lb ed="#B" n="34"/>Tertio est caelum corporale et corruptibile 
+      <lb ed="#B" n="35"/>et hoc solum reperitur in his elementis igne et 
+      <lb ed="#B" n="36"/>aere. Si enim in igne fit consideratio secundum 
+      <lb ed="#B" n="37"/>partem superiorem dicitur caelum igneum: si secundum 
+      <lb ed="#B" n="38"/>partem inferiorem dicitur caelum olympium. Item 
+      <lb ed="#B" n="39"/>in aere si secundum partem superiorem dicitur caelum 
+      <lb ed="#B" n="40"/>ethereum. Ether enim secundum Aristo. in primo cae 
+      <lb ed="#B" n="41"/>li et mundi est pars aeris superior. Si secundum 
+      <lb ed="#B" n="42"/>partem inferiorem dicitur caelum aereum. Aqua 
+      <lb ed="#B" n="43"/>autem non dicitur caelum: quia secundum alpetragium in 
+      <lb ed="#B" n="44"/>libro de mota sphera non mouetur nisi 
+      di<lb ed="#B" n="45" break="no"/>midio circulo seu semicirculo: sicuti patet 
+      <lb ed="#B" n="46"/>in accessu maris et recessu.
+</p>
+               <p xml:id="WuV37d-e78416-d1e634">
+¶ Secundus 
+      <lb ed="#B" n="47"/>terminus est bestia: et dicitur bestia a vi 
+      <lb ed="#B" n="48"/>ecundum Isidorum quasi visti: quia crudelis: vel 
+      <lb ed="#B" n="49"/>apud alios quasi vastia: quia vasta et vaga 
+      <!--357.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>bunda est. Unde apud moysen in opere 
+      <lb ed="#B" n="51"/>sexte diei ista tria differunt / iumentum / repti 
+      <lb ed="#B" n="52"/>le / et bestia. Iumentum enim dicitur secundum textum 
+      <lb ed="#B" n="53"/>quod in aliquod hominis cedit adiumentum 
+      <lb ed="#B" n="54"/>de persae: sicuti equus aut asinus ad vehen 
+      <lb ed="#B" n="55"/>dum: ouis autem bos ad comedendum. 
+      Re<lb ed="#B" n="56" break="no"/>ptile autem dicitur quia supra corpus repit: et 
+      <lb ed="#B" n="57"/>horum est triplex differentia. Aliqua enim sunt 
+      <lb ed="#B" n="58"/>reptilia quae vi capitis se trahunt in repen 
+      <lb ed="#B" n="59"/>do sicut sunt vermes. Secunda reptilia 
+      di<lb ed="#B" n="60" break="no"/>cuntur quae vi costarum seu quorundam 
+      anulo<lb ed="#B" n="61" break="no"/>tum mouentur super terram: sicut sunt 
+      anguil<lb ed="#B" n="62" break="no"/>le et serpentes. Tertium reptilium genus est 
+      <lb ed="#B" n="63"/>quod aut pennulis: sicuti pisces in aquis: aut 
+      <lb ed="#B" n="64"/>valde paruis repit pedibus sicuti lacerte. 
+      <lb ed="#B" n="65"/>Bestia autem dicitur quae altis super terram 
+      am<lb ed="#B" n="66" break="no"/>bulat pedibus contra reptile: nec de se est 
+      <lb ed="#B" n="67"/>in hominis adiumentum: sicuti leones / 
+      vr<lb ed="#B" n="68" break="no"/>si etc. Noto tamen quod bestia dicitur tripliciter. 
+      <lb ed="#B" n="69"/>Primo modo proprie: et sic modo de 
+      be<lb ed="#B" n="70" break="no"/>stia dictum est. Secundo communiter et sic 
+      <lb ed="#B" n="71"/>quodlibet animal maxime factum in terrae 
+      <lb ed="#B" n="72"/>ornamentum dicitur bestia. Tertio modo 
+      ac<lb ed="#B" n="73" break="no"/>cipitur communissime: et sic diuiditur bestia in 
+      <lb ed="#B" n="74"/>volatile: sicut sunt aues: in natatile: sicut 
+      <lb ed="#B" n="75"/>sunt pisces: in gressibile: sicut sunt anima 
+      <lb ed="#B" n="76"/>lia super terram gradientia: et sic capitur in 
+      quae<lb ed="#B" n="77" break="no"/>stione.
+</p>
+               <p xml:id="WuV37d-e78416-d1e708">
+¶ Tertius terminus est homo 
+      <lb ed="#B" n="78"/>ab humo: quia de limo extat conditus: vnde 
+      <lb ed="#B" n="79"/>pomo est animal rationale mortale secundum 
+      por<lb ed="#B" n="80" break="no"/>phirium in suis vsagogis. In quo tria 
+      di<lb ed="#B" n="81" break="no"/>cit. Primo quod homo est animal in quo cum brutis  
+      <lb ed="#B" n="82"/>participat: in viuere et sentire. Secundo 
+      di<lb ed="#B" n="83" break="no"/>cit quod est rationale et in hoc differt ab 
+      an<lb ed="#B" n="84" break="no"/>gelis et conuenit cum angelis. Differt quidem 
+      <lb ed="#B" n="85"/>quia ratio teste isaac creata est in vmbra 
+      in<lb ed="#B" n="86" break="no"/>telligentiae: conuenit autem in ratione 
+      intelle<lb ed="#B" n="87" break="no"/>ctus. Tertio dicit mortale: et in isto differe 
+      <lb ed="#B" n="88"/>homo viator ab bomine beato: quia licet ho 
+      <lb ed="#B" n="89"/>mo beatus sit animal rationale non tamen morta 
+      <lb ed="#B" n="90"/>le. Unde et secundum Anshel. Mortale non est de 
+      <lb ed="#B" n="91"/>ratione ipsius bominis. Unde homo inquantum 
+      <lb ed="#B" n="92"/>homo est indifferens ad mortale: et 
+      immor<lb ed="#B" n="93" break="no"/>tale: mortalis in via: immortalis in patria. 
+      <lb ed="#B" n="94"/>Quantum ad secudlum art 
+      <lb ed="#B" n="95"/>
+      ti<lb ed="#B" n="96" break="no"/>culum sunt tres conclusiones. Quarum prima 
+      <lb ed="#B" n="97"/>est de natura caeli. Secunda de essentia 
+      bestia<lb ed="#B" n="98" break="no"/>rum seu brutorum animalium. Tertia de ip¬ 
+      <!--358.xml-->
+      <pb ed="#B" n="171-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>so bomine et de qualibet harum dictionum sit com 
+      <lb ed="#B" n="2"/>clusio vnica.
+</p>
+               <p xml:id="WuV37d-e78416-d1e768">
+¶ Prima est haec. Inter 
+      <lb ed="#B" n="3"/>caelos sic aqueum caelum primum est mobile: 
+      <lb ed="#B" n="4"/>vt caelorum nullum hominis liberum cogat 
+      ar<lb ed="#B" n="5" break="no"/>bitrium. Prima pars diciti / quod est dandum 
+      <lb ed="#B" n="6"/>vnum caelum quod dicitur aqueum: probatur ex 
+      te<lb ed="#B" n="7" break="no"/>xtu. Fiat inquit firmamentum in medio 
+      aqua<lb ed="#B" n="8" break="no"/>rum: et diuidat aquas ab aquis. Ex quo pri 
+      <lb ed="#B" n="9"/>mo patet quod sunt aquae super caelum stellatum. 
+      <lb ed="#B" n="10"/>Secundo patet quod in rerum creatione firmamen 
+      <lb ed="#B" n="11"/>tum est positum seu caelum stellatum in medio 
+      <lb ed="#B" n="12"/>materiae prime: quia dicit deus: Fiat 
+      firma<lb ed="#B" n="13" break="no"/>mentum in medio aquarum. Aqua enim hic 
+      <lb ed="#B" n="14"/>accipitur materia prima. Ex quo patet tertio 
+      <lb ed="#B" n="15"/>quod tanta est distantia a firmamento vsque ad  
+      <lb ed="#B" n="16"/>caelum empireum: sicuti ab hinc vsque ad 
+      fir<lb ed="#B" n="17" break="no"/>mamentum: quia firmamentum est positum in me 
+      <lb ed="#B" n="18"/>dio. Unde et aug. super Sen. de huiusmodi a quis 
+      <lb ed="#B" n="19"/>loquens dicit. Qualescumque sint ibi eas esse 
+      <lb ed="#B" n="20"/>non dubitamus: quia maior est huius scripturae 
+      <lb ed="#B" n="21"/>auctoritas quam omnis humani ingenii perspi 
+      <lb ed="#B" n="22"/>cacitas. Idem. Benedicite aquae omnes quae 
+      <lb ed="#B" n="23"/>super caelos sunt domino.
+</p>
+               <p xml:id="WuV37d-e78416-d1e816">
+¶ Ex quo patet defect 
+      <lb ed="#B" n="24"/>Rabi moysi dicentis hic firmamentum intel 
+      <lb ed="#B" n="25"/>ligi partem inferiorem aeris: et illas aquis nu 
+      <lb ed="#B" n="26"/>bes in medio aeris interstitio id est regione: patet 
+      <lb ed="#B" n="27"/>oppositum: et confirmatur ex illo psateso. Qui 
+      te<lb ed="#B" n="28" break="no"/>gis aquis superiora eius. Et si dicatur: quia 
+      te<lb ed="#B" n="29" break="no"/>ste philosopho in. 3. phisicorum. Idem est locus 
+      par<lb ed="#B" n="30" break="no"/>tis et totius: sicuti vnius glebe et totius ter 
+      <lb ed="#B" n="31"/>rae. Cum igitur videamus aquis particulares 
+      <lb ed="#B" n="32"/>naturaliter quiescere iuxta terram: igitur et 
+      <lb ed="#B" n="33"/>omnis aqua ibidem quiescet. Respondet doct. de 
+      <lb ed="#B" n="34"/>uo. huius dist. parte . 1. arti. 1. q. 1. quod aqua 
+      <lb ed="#B" n="35"/>habet triplicem proprietatem: scilicet perspicuitatem / 
+      <lb ed="#B" n="36"/>frigiditatem et grauitatem. Quo ad perspicui. 
+      <lb ed="#B" n="37"/>tatem conuenit haec aqua cum illa superiori: quia 
+      <lb ed="#B" n="38"/>caelum aqueum clarum est ad modum cristalli 
+      co<lb ed="#B" n="39" break="no"/>gelati: ideo et dicitur caelum cristallinum. Quo 
+      <lb ed="#B" n="40"/>autem ad grauitatem penitus differunt: quia 
+      <lb ed="#B" n="41"/>aquae supiores nullam funditus habent 
+      gra<lb ed="#B" n="42" break="no"/>uitatem. Quo autem ad tertiam proprietatem: scie 
+      <lb ed="#B" n="43"/>frigiditatem partim conueniunt: partim non. 
+      <lb ed="#B" n="44"/>Si enim fiat sermo de frigiditate virtuali 
+      <lb ed="#B" n="45"/>sic conueniunt. Unde quidam dicunt / quod saturnus 
+      <lb ed="#B" n="46"/>est frigidus virtualiter ratione huiusmodi aquarum 
+      <lb ed="#B" n="47"/>et multe stelle in firmamento caeli. Si autem 
+      <lb ed="#B" n="48"/>fit sermo de frigiditate formali non: quia est 
+      <lb ed="#B" n="49"/>hoc modo qualitas elementaris. Ex quo patet 
+      <!--358.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>quod non sunt huiusmodi aque solum spirituales: 
+      si<lb ed="#B" n="51" break="no"/>cut sentire videtur Amb. in libro de spiritusar 
+      <lb ed="#B" n="52"/>cto vocans huiusmodi aquas spiritum sanctum. Et 
+      <lb ed="#B" n="53"/>si quaeratur: an sit aliqua stella in illo caelo: 
+      Di<lb ed="#B" n="54" break="no"/>citur quod non: per totum enim est ad modum 
+      cri<lb ed="#B" n="55" break="no"/>stalli. Sed quanta est eius profunditas 
+      per<lb ed="#B" n="56" break="no"/>pendi poterit ex textu: dicit enim deus: 
+      Fi<lb ed="#B" n="57" break="no"/>at firmamentum in medio aquarum. Ex quo 
+      <lb ed="#B" n="58"/>igitur est in medio: relinquitur quod tantum est 
+      pro<lb ed="#B" n="59" break="no"/>fundum ascendendo quantum est spacium de hino 
+      <lb ed="#B" n="60"/>ad caelum stellatum.
+</p>
+               <p xml:id="WuV37d-e78416-d1e903">
+¶ Sed dicit secunda pars 
+      <lb ed="#B" n="61"/>conclusion is: quod huiusmodi caelum aqueum est primum 
+      <lb ed="#B" n="62"/>mobile: probatur: Omnis pluralitas 
+      redu<lb ed="#B" n="63" break="no"/>citur ad vnitatem seu monadem: secundum Dyon. 
+      <lb ed="#B" n="64"/>et difformitas ad vniformitatem: sed caelum 
+      <lb ed="#B" n="65"/>stellatum pluribus mouetur motibus: et in se 
+      <lb ed="#B" n="66"/>habet aliquam difformitatem: ergo motus eius 
+      <lb ed="#B" n="67"/>habet reduci ad aliquem primum motum: 
+      mi<lb ed="#B" n="68" break="no"/>nor probatur: teste enim ptholomeo in 
+      alma<lb ed="#B" n="69" break="no"/>gesti: aliisque expartis astronomis in centum 
+      <lb ed="#B" n="70"/>annis acquirit caelum stellatum vnum gradum 
+      con<lb ed="#B" n="71" break="no"/>tra motum diurnum: et ita habet duos mot 
+      <lb ed="#B" n="72"/>sicut et planetae: vnum ab oriente in occidens: 
+      <lb ed="#B" n="73"/>et alium ab occidente in oriens. Difformi 
+      <lb ed="#B" n="74"/>tas etiam in eius natura apparet: quia simul 
+      <lb ed="#B" n="75"/>est perspicuum et lucidum. Unde vniuersi 
+      perfe<lb ed="#B" n="76" break="no"/>ctio hic requirit vt primo sit vnum caelum im 
+      <lb ed="#B" n="77"/>mobile poenitus: et in natura vniforme et 
+      <lb ed="#B" n="78"/>omodoi est caelum empireum. Secundo vt sit vnum 
+      <lb ed="#B" n="79"/>caelum in natura vniforme et mobile: et hoc 
+      <lb ed="#B" n="80"/>vocatur caelum aqueum. Tertio vt sit vnum caelum 
+      <lb ed="#B" n="81"/>in natura difforme et in motu: et tale est 
+      <lb ed="#B" n="82"/>caelum stellatum et septem planetarum: 
+      differen<lb ed="#B" n="83" break="no"/>ter tamen quia in caelo stellato sunt plures stelle 
+      <lb ed="#B" n="84"/>caelum autem vnius planetae solam habet vnicam 
+      stel<lb ed="#B" n="85" break="no"/>lam et huius dat philosophus tres rationes. Prima: quia 
+      <lb ed="#B" n="86"/>caelum stellatum principaliter est causa vitae in 
+      <lb ed="#B" n="87"/>his inferioribus: ideo exigit multitudinem 
+      <lb ed="#B" n="88"/>stellarum non ita de aliis. Secunda est vt daret 
+      <lb ed="#B" n="89"/>caelo stellato quod pauciores habet motus 
+      <lb ed="#B" n="90"/>plus de stellis et planetis: qui plures 
+      ha<lb ed="#B" n="91" break="no"/>bent motus minus de stellis: vt sic esset 
+      <lb ed="#B" n="92"/>quoddam temperamentum quod enim planete 
+      plu<lb ed="#B" n="93" break="no"/>res habeant motus quam caelum stellatum: 
+      pa<lb ed="#B" n="94" break="no"/>tet: caelum enim stellatum vt dictum est solum ha 
+      <lb ed="#B" n="95"/>bet duos motus ex oriente: scilicet et occiden 
+      <lb ed="#B" n="96"/>te: planete autem secundum expertos 
+      astrono<lb ed="#B" n="97" break="no"/>mos habent alios in suis epiciclis et citcu 
+      <lb ed="#B" n="98"/>lis ecentricis: patet manifeste in retro¬ 
+      <!--359.xml-->
+      <pb ed="#B" n="171-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>gradatione planetarum et ascensione ad 
+      au<lb ed="#B" n="2" break="no"/>gem et descensione ad oppositum augis: si 
+      <lb ed="#B" n="3"/>cuti patet ad oculum de planeta veneris et 
+      <lb ed="#B" n="4"/>mercurii. Idem de luna quae aliquotiens 
+      <lb ed="#B" n="5"/>magis prope nos: aut longius apparet dum 
+      <lb ed="#B" n="6"/>est in capite: aut cauda draconis. Tertia 
+      <lb ed="#B" n="7"/>ratio: quia motus superior influit in inferio 
+      <lb ed="#B" n="8"/>res orbes: et ideo quasi principalior magis 
+      <lb ed="#B" n="9"/>debet decorari in stellis. Et si quaeratur a 
+      <lb ed="#B" n="10"/>qua parte incipit motus caeli aquei. 
+      Dicen<lb ed="#B" n="11" break="no"/>dum quod ab oriente in occidens: ex quo patet 
+      <lb ed="#B" n="12"/>quod motus caelistellati principalis est ab 
+      oc<lb ed="#B" n="13" break="no"/>cidente in oriens. Sed motu raptus mo 
+      <lb ed="#B" n="14"/>uetur ab oriente in occidens: sicuti enim 
+      vir<lb ed="#B" n="15" break="no"/>tute caeli stellati mouentur planete septem 
+      <lb ed="#B" n="16"/>ab oriente contra motum proprium: sic hoc 
+      <lb ed="#B" n="17"/>caelum stellatum virtute caeli aquei. Ex quo 
+      <lb ed="#B" n="18"/>primo patet quod loquendo simpliciter non 
+      de<lb ed="#B" n="19" break="no"/>bet caelum stellatum dici aplanos: sed caelum 
+      <lb ed="#B" n="20"/>aqueum: quia est vniforme in suo motu non 
+      <lb ed="#B" n="21"/>aliud. Exquo defecerunt platonici vocan 
+      <lb ed="#B" n="22"/>tes caelum stellatum campum elisios et apla 
+      <lb ed="#B" n="23"/>nos: patet secundo quod caelum stellatum non est 
+      <lb ed="#B" n="24"/>primum mobile sed aqueum. 
+</p>
+               <p xml:id="WuV37d-e78416-d1e1046">
+¶ Notandum ta 
+      <lb ed="#B" n="25"/>mem quod esse primum mobile potest intelligi tri 
+      <lb ed="#B" n="26"/>pliciter. Uno modo virtualiter: sicut 
+      lo<lb ed="#B" n="27" break="no"/>quitur sap. Omnibus mobilibus mobilior est. 
+      <lb ed="#B" n="28"/>sapientia. Et hoc modo deus esset primum 
+      <lb ed="#B" n="29"/>mobile: id est primum mouens. Secundo 
+      di<lb ed="#B" n="30" break="no"/>citur primum mobile creatura: primo reci 
+      <lb ed="#B" n="31"/>piens influxum a deo: et sic creditur aliquem 
+      <lb ed="#B" n="32"/>spiritum fore primum mobile: quia deus 
+      <lb ed="#B" n="33"/>sua sapientia primo influit in spiritus quam cor 
+      <lb ed="#B" n="34"/>pora. Tertio dicitur primum mobile inter 
+      <lb ed="#B" n="35"/>corpora: et hoc vel modo communi: et sic in 
+      <lb ed="#B" n="36"/>la prima materia fuisset primum mobile: vel 
+      <lb ed="#B" n="37"/>quia est corpus perfectius cui non 
+      repug<lb ed="#B" n="38" break="no"/>nat motus localis: et sic caelum empireum 
+      <lb ed="#B" n="39"/>esset primum mobile: quia potest moueri: vel 
+      <lb ed="#B" n="40"/>tertio: quia actu mouetur primo motu 
+      lo<lb ed="#B" n="41" break="no"/>cali: et hoc modo caelum aqueum dicitur 
+      pri<lb ed="#B" n="42" break="no"/>mum mobile. Ex quo patet quod suus motus 
+      <lb ed="#B" n="43"/>est a parte rei mensura reliquorum motuum 
+      <lb ed="#B" n="44"/>et suum tempus seu verius tempus sui mo 
+      <lb ed="#B" n="45"/>tus mensura temporalium: licet quo ad nos 
+      <lb ed="#B" n="46"/>et motus et tempus caeli stellati sit mensura 
+      <lb ed="#B" n="47"/>et temporis et motus nostri: quia caelum cri 
+      <lb ed="#B" n="48"/>stallinum non videmus. Sed est ne continu 
+      <lb ed="#B" n="49"/>us cum aliis caelis: videtur dicendum quod non: 
+      <!--359.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>Unde non patet possibilitas in 
+      diuersita<lb ed="#B" n="51" break="no"/>te motuum in caelis ponendo quod essent conti 
+      <lb ed="#B" n="52"/>nui. Ex quo patet defectus doctur. 
+      deuoti<lb ed="#B" n="53" break="no"/>dicendo omnes caelos continuos. Unde vt 
+      <lb ed="#B" n="54"/>rius est dicere quod sint solum contigui: et quod 
+      <lb ed="#B" n="55"/>eorum contactu mirabilis generetur 
+      armo<lb ed="#B" n="56" break="no"/>nia: vt platoni placuit: licet philosophus in secundo 
+      <lb ed="#B" n="57"/>caeli et mundi oppositum probare nitatur: 
+      <lb ed="#B" n="58"/>cuius rationes non concludunt. Unde in. 6. 
+      <lb ed="#B" n="59"/>reipublice inducitur aphricanus: Quis est 
+      <lb ed="#B" n="60"/>iste dulcis sonus qui complet aures meas 
+      <lb ed="#B" n="61"/>De quo in sequenti distinctione in 
+      situatio<lb ed="#B" n="62" break="no"/>ne paradisi terrestris. Sed quaerit: quis 
+      <lb ed="#B" n="63"/>mouet eum? Dicendum quod deus aut aliqua 
+      <lb ed="#B" n="64"/>intelligentia non quod sit animatum: vt quidam 
+      <lb ed="#B" n="65"/>dicunt philosophum sensisse quod non est verum. 
+      <lb ed="#B" n="66"/>Ubicumque enim vocat caelum animal debet in 
+      <lb ed="#B" n="67"/>telligi non quod habeat animam informantem: 
+      <lb ed="#B" n="68"/>sed intelligentiam mouentem quae est sicut mo 
+      <lb ed="#B" n="69"/>tor in mobili non anima in corpore. Sed  
+      <lb ed="#B" n="70"/>habet ne dextrum et sinistrum? Dicendum quod 
+      <lb ed="#B" n="71"/>sic: modo quo loquitur philosophus in secundo caeli et 
+      <lb ed="#B" n="72"/>mundi. Fingatur vnus rusticus habens dex 
+      <lb ed="#B" n="73"/>tram manum ad orientem: sinistram ad occidemn 
+      <lb ed="#B" n="74"/>tem: caput in meridie: seu in polo 
+      antar<lb ed="#B" n="75" break="no"/>tico: quia secundum astrologos planete illic 
+      ha<lb ed="#B" n="76" break="no"/>bent ampliorem efficaciam: pedes in 
+      septentri<lb ed="#B" n="77" break="no"/>one seu polo artico: faciemn versus nostrum 
+      <lb ed="#B" n="78"/>emisperium: dorsum vero ad oppositum: ita 
+      <lb ed="#B" n="79"/>quod latitudo caeli aquei sicut aliorum caelorum 
+      <lb ed="#B" n="80"/>erit ab oriente in occidens. longitudo a 
+      <lb ed="#B" n="81"/>septentrione in meridien: profunditas a 
+      no<lb ed="#B" n="82" break="no"/>stro emisperio ad inferius emisperium. 
+      </p>
+               <p xml:id="WuV37d-e78416-d1e1179">
+                  <lb ed="#B" n="83"/>¶ Tertia pars conclusionis dicit / quod nul 
+      <lb ed="#B" n="84"/>lum caelorum cogit nostrum liberum arbitrium: 
+      <lb ed="#B" n="85"/>probatur. Si enim cogeremur ad 
+      benefacien<lb ed="#B" n="86" break="no"/>dum aut male faciendum ratione stellarum seu 
+      <lb ed="#B" n="87"/>caeli / cessaret consilium cessarent praemiai 
+      cessa<lb ed="#B" n="88" break="no"/>rent et poene: quia de necessariis nullus ca 
+      <lb ed="#B" n="89"/>pit consilium ex. 3. ethicorum. Confirmatur: quia 
+      <lb ed="#B" n="90"/>ab optimo deo ordinatissime caelum est 
+      dis<lb ed="#B" n="91" break="no"/>positum: et per consequens nequit esse causa 
+      ali<lb ed="#B" n="92" break="no"/>cuius peccati seu omeordinationis. Unde 
+      <lb ed="#B" n="93"/>recte dicit doctur. deuotus arti. 2. huius 
+      di<lb ed="#B" n="94" break="no"/>stin. parte vltima. q. 3. quod istud dicere 
+      repu<lb ed="#B" n="95" break="no"/>gnat fidei quae hoc reprobat. repugnat 
+      sen<lb ed="#B" n="96" break="no"/>sui qui videt oppsitum eosdem scilicet pueros 
+      <lb ed="#B" n="97"/>simul nasci: sicuti esau et iacob: et tamen 
+      <lb ed="#B" n="98"/>vnum bonum: reliquum malum. Repugnat 
+      <!--360.xml-->
+      <pb ed="#B" n="172-r"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>tertio rationi: cum simus nobiliores caelis 
+      <lb ed="#B" n="2"/>quod ipsi imperent nobis. Unde 
+      ptholome<lb ed="#B" n="3" break="no"/>us in centilogio dicit: vir sapiens domina 
+      <lb ed="#B" n="4"/>bitur astris. Et si obiiciatur: quia secundum philoso 
+      <lb ed="#B" n="5"/>phum in lib. de proprietatibus elementorum 
+      <lb ed="#B" n="6"/>vacua facta sunt regna: etiam ciuitates 
+      de<lb ed="#B" n="7" break="no"/>populate in communiunctione horum duorum ma 
+      <lb ed="#B" n="8"/>gnorum planetarum saturni et iouis: et ita 
+      vi<lb ed="#B" n="9" break="no"/>detur quod communiunctio saturni cum ioue 
+      commo<lb ed="#B" n="10" break="no"/>ueat homines ad bella et dissentiones. 
+      Re<lb ed="#B" n="11" break="no"/>spondendum quod bene commouent corpora et 
+      <lb ed="#B" n="12"/>humores corporum quibus commotis 
+      aliqua<lb ed="#B" n="13" break="no"/>lis fit mutatio in appetitu carnali. Et quia 
+      <lb ed="#B" n="14"/>sepius homines quod carnis est non quod 
+      spi<lb ed="#B" n="15" break="no"/>ritus sequuntur: ideo iuxta motum caeli 
+      mul<lb ed="#B" n="16" break="no"/>ta iudicant de motibus hominum astrono 
+      <lb ed="#B" n="17"/>mi: licet nulla sit necessitas. Idem dico de 
+      <lb ed="#B" n="18"/>cometa apparente: nisi dono dei speciali 
+      <lb ed="#B" n="19"/>appareat in morte principum.
+</p>
+               <p xml:id="WuV37d-e78416-d1e1264">
+¶ Secun 
+      <lb ed="#B" n="20"/>da conclusio est / de brutis animalibus: 
+      <lb ed="#B" n="21"/>iuxta. 15. distin. et est haec. Sic ex anima et 
+      <lb ed="#B" n="22"/>corpore bruta sunt animalia vt in eorum essen 
+      <lb ed="#B" n="23"/>tia nullum elementum nisi virtute maneat 
+      <lb ed="#B" n="24"/>Prima pars diciti / quod bruta animalia sunt con 
+      <lb ed="#B" n="25"/>posita ex anima et corpore: probatur. Mo 
+      <lb ed="#B" n="26"/>tus quippe et sensus: ex primo de anima 
+      te<lb ed="#B" n="27" break="no"/>stes sunt animae: nutritio similium: ex primo 
+      <lb ed="#B" n="28"/>de generatione testis est corporis. Cum 
+      <lb ed="#B" n="29"/>igitur bruta animalia habeant motum ad 
+      <lb ed="#B" n="30"/>minus constrictionis: sicuti conchilia: et sen 
+      <lb ed="#B" n="31"/>sum adminus tactus: ex. 3. de anima. rut 
+      <lb ed="#B" n="32"/>sus ex corporalibus nutriantur sequitur etc. 
+      <lb ed="#B" n="33"/>Sed dicit alia pars / quod elementa non 
+      ma<lb ed="#B" n="34" break="no"/>nent in sua substantia in compositione anima 
+      <lb ed="#B" n="35"/>lium. 
+</p>
+               <p xml:id="WuV37d-e78416-d1e1302">
+¶ Noto hic quod circa hoc sunt tres 
+      <lb ed="#B" n="36"/>opiniones. Prima est auicene dicentis ele 
+      <lb ed="#B" n="37"/>menta eadem quo ad substantiam manere in 
+      <lb ed="#B" n="38"/>animali: sed remitti quo ad qualitatem. 
+      Si<lb ed="#B" n="39" break="no"/>cuti non est ignis cum tanto calore in corpo 
+      <lb ed="#B" n="40"/>re animalis cum quanto extra: quamuis eandem 
+      <lb ed="#B" n="41"/>habeat substantiam. Secunda est auerrois aui 
+      <lb ed="#B" n="42"/>cennam impugnantis et dicentis: quod oportet 
+      <lb ed="#B" n="43"/>quod sicut remittitur qualitas elementi: remittatur 
+      <lb ed="#B" n="44"/>et eius substantia. Unde dicit quod elementa 
+      <lb ed="#B" n="45"/>sunt in corpore remissa tam secundum 
+      substan<lb ed="#B" n="46" break="no"/>tiam quam secundum virtutem. Tertia est opinio 
+      <lb ed="#B" n="47"/>doctoris subti. hac distin. ponentis quod nec 
+      <lb ed="#B" n="48"/>secundum substantiam propriam nec qualitates proprias 
+      <lb ed="#B" n="49"/>sunt elementa in compositione corporis animalis: 
+      <!--360.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>sed solum in virtute manent in composito et 
+      <lb ed="#B" n="51"/>ista videtur melior: et probatur medio 
+      suo<lb ed="#B" n="52" break="no"/>Omne mixtum generatur ex elementis et con 
+      <lb ed="#B" n="53"/>uertitur in elementa in sui corruptione: ergo 
+      <lb ed="#B" n="54"/>simul est comparatio mixti ad elementum 
+      <lb ed="#B" n="55"/>qualis est in motu ad terminum a quo vel 
+      <lb ed="#B" n="56"/>ad quem: sed hic est incompossibilitas: igitur 
+      <lb ed="#B" n="57"/>Unde vbi reperitur philosophus dicere ele 
+      <lb ed="#B" n="58"/>menta permanere in mixto: debet intelligi 
+      <lb ed="#B" n="59"/>in virtute: sicuti extrema in medio. 
+      Un<lb ed="#B" n="60" break="no"/>de nec humidum radicale seu aereum est 
+      na<lb ed="#B" n="61" break="no"/>ture aeree: nec calidum radicale nature 
+      ig<lb ed="#B" n="62" break="no"/>nee: sed nature cuiusdam tertie continentis in 
+      <lb ed="#B" n="63"/>virtute has naturas.
+</p>
+               <p xml:id="WuV37d-e78416-d1e1370">
+¶ Tertia 
+      conclu<lb ed="#B" n="64" break="no"/>sio est / de homine et eius immagine: et est. 
+      <lb ed="#B" n="65"/>haec. Sic vltimate fieri decuit hominem vt 
+      <lb ed="#B" n="66"/>dei imago eidem impremeretur. Prima pars 
+      <lb ed="#B" n="67"/>dicit: quod homo decenter vltimo factus est: 
+      <lb ed="#B" n="68"/>probatur: homo enim constat ex corpore et spri 
+      <lb ed="#B" n="69"/>ritu. Decuit igitur prius fieri spiritum qui 
+      fa<lb ed="#B" n="70" break="no"/>ctus est in natura angelica: decuit secundo 
+      <lb ed="#B" n="71"/>fieri corpus: quod impletum est in fabricatio 
+      <lb ed="#B" n="72"/>ne caelorum et animalium vt tertio compositum 
+      <lb ed="#B" n="73"/>ex ambobus compleretur. Et confirmatur quia 
+      <lb ed="#B" n="74"/>recte praeparatur camera antequam quaeratur ha 
+      <lb ed="#B" n="75"/>bitator. Cum igitur quicquid est in mundo sen 
+      <lb ed="#B" n="76"/>sibili sit aut camera hominis: aut ornatus 
+      <lb ed="#B" n="77"/>relinquitur. Sed dicit secunda pars quod est ima 
+      <lb ed="#B" n="78"/>go dei: patet ex primo li. 3. dist. vnde in textu 
+      <lb ed="#B" n="79"/>Faciamus hominem ad immaginem et similitudinem 
+      <lb ed="#B" n="80"/>nostram: imago secundum Aug. in li. de spiritu et anima 
+      <lb ed="#B" n="81"/>in potentia cognoscendi similitudo in potentia 
+      <lb ed="#B" n="82"/>diligendi: seu imago in naturalibus: sed 
+      si<lb ed="#B" n="83" break="no"/>militudo in gratuitis. 
+      <lb ed="#B" n="84"/>Quantum ad tertium articu 
+      <lb ed="#B" n="85"/>lum sunt 
+      <lb ed="#B" n="86"/>tres difficultates.
+</p>
+               <p xml:id="WuV37d-e78416-d1e1422">
+¶ Prima est. An ali 
+      <lb ed="#B" n="87"/>quem influxum specialem habeat caelum 
+      cristalli<lb ed="#B" n="88" break="no"/>num hic inferius. Dicit doc. deuo. 2. di. huius 
+      <lb ed="#B" n="89"/>parte. 2. ar. 1. q. 2. quod secundum triplicem animam sunt i 
+      <lb ed="#B" n="90"/>tres speciales influxus trium caelorum. Caelum enim 
+      <lb ed="#B" n="91"/>stellatum seu firmamentum influit in corpore ad  
+      <lb ed="#B" n="92"/>dispositionem animae vegetatiuae. caelum aqueum 
+      <lb ed="#B" n="93"/>ad dispositionem animae sensitiue: caelum autem 
+      <lb ed="#B" n="94"/>empireum ad dispositionem animae 
+      intellecti<lb ed="#B" n="95" break="no"/>ue.
+</p>
+               <p xml:id="WuV37d-e78416-d1e1444">
+¶ Secunda difficultas. Quae quantitas 
+      <lb ed="#B" n="96"/>elementorum amplior manet in corpore animalis 
+      <lb ed="#B" n="97"/>secundum similitudinem aut actiuorum sicuti aeris vel 
+      <lb ed="#B" n="98"/>ignis: vel passiuorum sicuti aque vel terre. 
+      <!--361.xml-->
+      <pb ed="#B" n="172-v"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>Respondendum quod loquendo de quantitatem 
+      mo<lb ed="#B" n="2" break="no"/>lis semper plus est de quantitate consimili 
+      ter<lb ed="#B" n="3" break="no"/>rae vel aquae quam de quantitate consimili aeri: 
+      <lb ed="#B" n="4"/>vel igni: quia si non: consumeretur immediate 
+      pro<lb ed="#B" n="5" break="no"/>pter ignis actiuitatem corpus animalis. Lo 
+      <lb ed="#B" n="6"/>quendo autem de quantitate virtuali: sic 
+      <lb ed="#B" n="7"/>ibidem est equalitas et proportio secundum quod 
+      <lb ed="#B" n="8"/>animal est magis autiminus perfectum. 
+      </p>
+               <p xml:id="WuV37d-e78416-d1e1477">
+                  <lb ed="#B" n="9"/>¶ Tertia difficultas. Quomod intelligitur 
+      <lb ed="#B" n="10"/>esse mulier imago viri: sicuti vir est 
+      ima<lb ed="#B" n="11" break="no"/>go dei. Respondendum / quod hoc non debet 
+      in<lb ed="#B" n="12" break="no"/>elligi quo ad rationem principalem imaginis 
+      <lb ed="#B" n="13"/>scilicet memoriam / intelligentiam / voluntatem: quia 
+      <lb ed="#B" n="14"/>sicut immediate est mulier imago dei: 
+      sicu<lb ed="#B" n="15" break="no"/>ti et vir. Sed debet intelligi ratione 
+      praesi<lb ed="#B" n="16" break="no"/>dentie cuiusdam: quia sicut deo debetur 
+      impe<lb ed="#B" n="17" break="no"/>rium: sic suo modo homini super mulierem: et hoc 
+      <lb ed="#B" n="18"/>modo dicitur. imago viri: quia ei subiecta est: 
+      <lb ed="#B" n="19"/>sicuti homo deo cuius est imago. Ex quo 
+      <lb ed="#B" n="20"/>patet ad quaestionem quod videlet caelis et bestiis 
+      <lb ed="#B" n="21"/>variis productis homo ad dei imaginem vl 
+      <lb ed="#B" n="22"/>timate produci debuit. Et tunc ad 
+      argumen<lb ed="#B" n="23" break="no"/>ta.
+</p>
+               <p xml:id="WuV37d-e78416-d1e1512">
+¶ Ad primum dicendum / quod opera dei vadunt 
+      <lb ed="#B" n="24"/>ab imperfecto ad perfectum: et a perfecto ad 
+      im<lb ed="#B" n="25" break="no"/>perfectum. Computando enim angelos 
+      ince<lb ed="#B" n="26" break="no"/>perunt a perfecto: non computando inceperunt 
+      <lb ed="#B" n="27"/>ab imperfecto scilicet a materia prima. Unde 
+      de<lb ed="#B" n="28" break="no"/>cuit et perfectissimam creaturam scilicet angelum in 
+      <lb ed="#B" n="29"/>principio sui operis deum optimum condere: 
+      <lb ed="#B" n="30"/>et in fine consimilem scilicet hominem vt sic: et 
+      prin<lb ed="#B" n="31" break="no"/>cipio et fine operis laudetur altissimus: et 
+      <lb ed="#B" n="32"/>media ex ambobus extremis accipiant 
+      con<lb ed="#B" n="33" break="no"/>lementum.
+</p>
+               <p xml:id="WuV37d-e78416-d1e1537">
+¶ Ad secundum dicendum / quod 
+      ma<lb ed="#B" n="34" break="no"/>ior veritatem habet in artifice creato qui 
+      <lb ed="#B" n="35"/>non inducit finem quando vult: sed quando po 
+      <lb ed="#B" n="36"/>test: non ita de deo cui eque est facere vnum 
+      <lb ed="#B" n="37"/>sicut aliud: sed sic disposuit vt vltimo ho 
+      <lb ed="#B" n="38"/>minem ad seipsum conuerteret.
+</p>
+               <p xml:id="WuV37d-e78416-d1e1550">
+¶ Ad 
+      ter<lb ed="#B" n="39" break="no"/>tium respondendum / quod in spiritu: et quod 
+      obii<lb ed="#B" n="40" break="no"/>cit quod sunt tres persone relatiue etc. 
+      Dicen<lb ed="#B" n="41" break="no"/>dum sicut dictum fuit in primo quod non est in 
+      <lb ed="#B" n="42"/>omnibus conformitas: sed in aliquibus et 
+      <lb ed="#B" n="43"/>maxime in tribus: in consubstantialitate po 
+      <lb ed="#B" n="44"/>tentiarum: in origine actuum: et 
+      distinctio<lb ed="#B" n="45" break="no"/>ne amborum: et hoc sufficit. Et tantum de 
+      qua<lb ed="#B" n="46" break="no"/>stione.
+</p>
+            </div>
+            <div xml:id="WuV37d-e78416-Dd1e1571" type="et-conclusiones">
+               <head xml:id="WuV37d-e78416-Hd1e1573">Conclusiones</head>
+               <p xml:id="WuV37d-e78416-d1e1576">
+¶ Ex his autem tribus 
+      distin<lb ed="#B" n="47" break="no"/>ctionibus / tres elicio conclusiones de 
+      <lb ed="#B" n="48"/>mente magistri de qualibet vnam. Prima 
+      <lb ed="#B" n="49"/>conclusio: caelum distinguitur in secunda die 
+      <!--361.xml-->
+      <cb ed="#B" n="b"/>
+                  <lb ed="#B" n="50"/>aqua disiungitur in terna serie. Dicit conclu O 
+      <lb ed="#B" n="51"/>sio quod caeli fuerunt distincti in secunda die: 
+      <lb ed="#B" n="52"/>sed in tertia fuit diuisio aque a terra. Et 
+      <lb ed="#B" n="53"/>ponitur per totam distinctionem. 14.
+</p>
+               <p xml:id="WuV37d-e78416-d1e1598">
+¶ Se 
+      <lb ed="#B" n="54"/>cunda conclusio: die tripharia ornatus 
+      po<lb ed="#B" n="55" break="no"/>nitur: et deus in pia quiete dicitur. Dicit 
+      com<lb ed="#B" n="56" break="no"/>clusio quod tribus diebus sequentibus est 
+      or<lb ed="#B" n="57" break="no"/>natum vniuersum: et die septimo quieuit 
+      de<lb ed="#B" n="58" break="no"/>as. Et ponitur per totam distinctionem. xv. 
+      </p>
+               <p xml:id="WuV37d-e78416-d1e1611">
+                  <lb ed="#B" n="59"/>¶ Tertia conclusio. Ad imaginem dei est 
+      <lb ed="#B" n="60"/>ho conditus et similitudinem non vt 
+      vnigeni<lb ed="#B" n="61" break="no"/>tus: dicit conclusio quod homo est conditus ad  
+      <lb ed="#B" n="62"/>dei imaginem non tamen ita perfecte sicut est 
+      <lb ed="#B" n="63"/>vnigenitus. Et ponitur per totam. 16. di 
+      <lb ed="#B" n="64"/>stinctionem.
+</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
