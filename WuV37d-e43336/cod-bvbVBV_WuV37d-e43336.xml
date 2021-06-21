@@ -1,711 +1,729 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Distinctio 38-40</title>
-            <author ref="#WilliamDeVaurouillon">William de Vaurouillon</author>
-            <respStmt>
-               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
-               <resp>Transcription Editor</resp>
-               <resp>TEI Encoder</resp>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition n="0.0.0-dev">
-               <title>Distinctio 38-40</title>
-               <date when="2021-06-19">June 19, 2021</date>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <authority>SCTA</authority>
-            <availability status="free">
-               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
-               </p>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <listWit>
-               <witness xml:id="B" n="cod-bvbVBV">Basel 1510</witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
-         <editorialDecl>
-            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
-       guidelines for a diplomatic edition.</p>
-         </editorialDecl>
-      </encodingDesc>
-      <revisionDesc status="draft">
-         <listChange>
-            <change when="2021-06-19" status="draft" n="0.0.0">
-               <p>Created file for the first time.</p>
-            </change>
-         </listChange>
-      </revisionDesc>
-   </teiHeader>
-   <text xml:lang="la">
-      <front>
-         <div xml:id="starts-on">
-            <pb ed="#B" n="91-v"/>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Distinctio 38-40</title>
+        <author ref="#WilliamDeVaurouillon">William de Vaurouillon</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Distinctio 38-40</title>
+          <date when="2021-06-19">June 19, 2021</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-bvbVBV">Basel 1510</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2021-06-19" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="91-v"/>
+        <cb ed="#B" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="WuV37d-e43336"><!-- l1d38-40 -->
+        <head xml:id="WuV37d-e43336-Hd1e108">Distinctio 38-40</head>
+        <div xml:id="WuV37d-e43336-Dd1e111" type="circa-textum">
+          <head xml:id="WuV37d-e43336-Hd1e113">Circa textum</head>
+          <p xml:id="WuV37d-e43336-d1e116">
+            <lb ed="#B" n="65"/>Distinctio. 38. in qua magister 
+            <lb ed="#B" n="66"/>agit de modo scientiae seu cognitionis 
+            <lb ed="#B" n="67"/>dei et sciendi immutabilitate et 
+            cer<lb ed="#B" n="68" break="no"/>titudine.
+          </p>
+          <p xml:id="WuV37d-e43336-d1e127">
+            <lb ed="#B" n="69"/>Nunc ad 
+            pro<lb ed="#B" n="70" break="no"/>positum reuertentes / 
+            cae<lb ed="#B" n="71" break="no"/>pto insistamus. 
+            Su<lb ed="#B" n="72" break="no"/>pra dictum est quod praescien  
+            <lb ed="#B" n="73"/>tia dei futurorum tantum 
+            <lb ed="#B" n="74"/>est etc. hic signatur. 38. distinctio huius 
+            pri<lb ed="#B" n="75" break="no"/>mi: quae sic continuatur ad praecedentes. Nam 
+            <lb ed="#B" n="76"/>postquam a. 35 distinctione egit magister de 
+            <lb ed="#B" n="77"/>scientia dei generaliter: nunc ostendere in 
+            <lb ed="#B" n="78"/>cipit / quomodo deus nouit omnia 
+            immu<lb ed="#B" n="79" break="no"/>tabiliter. Et diuiditur in tres partes. In 
+            pri<lb ed="#B" n="80" break="no"/>ma praedictorum datur docta repetitio. In 
+            <lb ed="#B" n="81"/>secunda certa declaratur dei cognitio. In 
+            ter<lb ed="#B" n="82" break="no"/>tia summa resaeratur eius perfectio. Prima 
+            <lb ed="#B" n="83"/>in principio. Secunda ibi: Hic oritur 
+            quae<lb ed="#B" n="84" break="no"/>stio non dissimulanda. Tertia distinctione 
+            <lb ed="#B" n="85"/>39. ibi: Praeterea solet quaeri: vtrum scientia 
+            <lb ed="#B" n="86"/>dei: prima parte indiuisa manente: secunda 
+            <lb ed="#B" n="87"/>pars in qua a magistro certa declaratur etc. 
+            <lb ed="#B" n="88"/>in tres scinditur partes. In prima quaerit / an 
+            <lb ed="#B" n="89"/>praescientia praesciti sit causa seu effectus. In se 
+            <lb ed="#B" n="90"/>cunda mira industria dubium hoc soluitur pe 
+            <lb ed="#B" n="91"/>nitus. In tertia / quod contingentia praescitum 
+            praesci<lb ed="#B" n="92" break="no"/>tur a deo funditus. Prima in principio. Se 
+            <lb ed="#B" n="93"/>cunda ibi: Hanc igitur quae videtur repugnantiam 
+            <lb ed="#B" n="94"/>etc. Tertia ibi: Ad hoc autem quod supra 
+            di<lb ed="#B" n="95" break="no"/>ctum est. Et quia materiae praesentis patitur 
+            conne<lb ed="#B" n="96" break="no"/>xio: et temporis vrget brevitas: simul cum praesenti 
+            <lb ed="#B" n="97"/>distinctione expediendae sunt duae sequentes 
+            <!--200.xml-->
+            <pb ed="#B" n="92-r"/>
+            <cb ed="#B" n="a"/>
+            <lb ed="#B" n="1"/>distinctiones: vnde sequitur. 39. distinctio.
+          </p>
+          <p xml:id="WuV37d-e43336-d1e201">
+            <lb ed="#B" n="2"/>Preterea queri 
+            so<lb ed="#B" n="3" break="no"/>et let: vtrum scientia dei possit augeri vl 
+            <lb ed="#B" n="4"/>minui etc. In qua scientiae dei summa 
+            rese<lb ed="#B" n="5" break="no"/>ratur perfectio etc. Et diuitur in tres. In prima 
+            <lb ed="#B" n="6"/>ostendit quod diuina scientia non augetur nec di 
+            <lb ed="#B" n="7"/>minuitur. In secunda contra datur instantia quae 
+            <lb ed="#B" n="8"/>aperte soluitur. In tertia Hieronymi face 
+            <lb ed="#B" n="9"/>tia lucidius aperitur. Prima in principio. Se 
+            <lb ed="#B" n="10"/>cunda ibi: hic opponitur a quibusdam. Ter 
+            <lb ed="#B" n="11"/>tia ibi: Ei vero quod predictum est. Et tunc se 
+            <lb ed="#B" n="12"/>quitur. 40. distinctio / ibi: 
+          </p>
+          <p xml:id="WuV37d-e43336-d1e227">
+            <lb ed="#B" n="13"/>Predestinatio vero 
+            <lb ed="#B" n="14"/>de bonis salutaribus est / et de hominibus 
+            <lb ed="#B" n="15"/>saluadis etc. In qua postquam in. 36. et. 36 
+            <lb ed="#B" n="16"/>distinctionibus ostendit magister: quomodo 
+            de<lb ed="#B" n="17" break="no"/>us omnia noscit immutabiliter: Nunc de 
+            <lb ed="#B" n="18"/>praedestinatione agit specialiter. Et diuidit 
+            <lb ed="#B" n="19"/>ista pars in tres partes principales. In prima ex 
+            <lb ed="#B" n="20"/>ponitur praedestinatio. In secunda quid dicitur iam re 
+            <lb ed="#B" n="21"/>probatio. In tertia exquiritur quae harum ra 
+            <lb ed="#B" n="22"/>tio. Prima in principio. Secunda ibi: Cumquod 
+            <lb ed="#B" n="23"/>quodestinatio sit gratiae. Tertia. 41. dis. ibi: 
+            <lb ed="#B" n="24"/>Si autem quaerimus meritum obdurationis. 
+            <lb ed="#B" n="25"/>Prima iterum particula in qua exponitur prae 
+            <lb ed="#B" n="26"/>destinatio: in tres diuiditur. In prima praedesti 
+            <lb ed="#B" n="27"/>nationis donatur quidditas. In secunda via ra 
+            <lb ed="#B" n="28"/>tionis patet necessitas. In tertia vi 
+            specu<lb ed="#B" n="29" break="no"/>lationis subticetur falsitas. Prima in prin 
+            <lb ed="#B" n="30"/>cipio. Secunda ibi: Predestinatorum 
+            nul<lb ed="#B" n="31" break="no"/>lus videtur posse damnari. Tertia ibi: Ue 
+            <lb ed="#B" n="32"/>runtamen adhuc instant etc. Et haec diuisio di 
+            <lb ed="#B" n="33"/>stinctionum trium praesentium in generali.
+          </p>
+        </div>
+        <div xml:id="WuV37d-e43336-Dd1e276" type="quaestio">
+          <head xml:id="WuV37d-e43336-Hd1e278">Quaestio</head>
+          <head xml:id="WuV37d-e43336-Hd1e281" type="question-title">
+            Utrum sic diuina scientia rerum sit contingentium: vt inuariabilis recte <unclear>alirmetur</unclear>:
+          </head>
+          
+          <p xml:id="WuV37d-e43336-d1e281">
+            <lb ed="#B" n="34"/>Questio haec determinat de infalli 
+            <lb ed="#B" n="35"/>biliet ineffabili scientia dei: in qua reci 
+            <lb ed="#B" n="36"/>tat errores quorudam philosophorum 
+            <lb ed="#B" n="37"/>et nonullas opinioes theologorum: 
+            <lb ed="#B" n="38"/>quas refutat: et cum doctore sub. deius 
+            <lb ed="#B" n="39"/>ninat in isto loco. q. percipue tres. 
+          </p>
+          <p xml:id="WuV37d-e43336-d1e297">
+            <lb ed="#B" n="40"/>CIrca quarum etc. 
+            <lb ed="#B" n="41"/>Utrum sic diuina scientia rerum sit con 
+            <lb ed="#B" n="42" break="no"/>tingentium: vt inuariabilis recte al 
+            <lb ed="#B" n="43" break="no"/>irmetur:
+          </p>
+          <p xml:id="WuV37d-e43336-d1e314">
+            Et arguitur quod non / triplici 
+            medio<lb ed="#B" n="44" break="no"/>Primo sic. Contingens intantum a deo coc 
+            <lb ed="#B" n="45"/>loscitur inquantum ad esse determinatur: sed esse 
+            <!--200.xml-->
             <cb ed="#B" n="b"/>
-         </div>
-      </front>
-      <body>
-         <div xml:id="WuV37d-e43336"><!-- l1d38-40 -->
-            <head xml:id="WuV37d-e43336-Hd1e108">Distinctio 38-40</head>
-            <div xml:id="WuV37d-e43336-Dd1e111" type="circa-textum">
-               <head xml:id="WuV37d-e43336-Hd1e113">Circa textum</head>
-               <p xml:id="WuV37d-e43336-d1e116">
-                  <lb ed="#B" n="65"/>Distinctio. 38. in qua magister 
-      <lb ed="#B" n="66"/>agit de modo scientiae seu cognitionis 
-      <lb ed="#B" n="67"/>dei et sciendi immutabilitate et 
-      cer<lb ed="#B" n="68" break="no"/>titudine.
-    </p>
-               <p xml:id="WuV37d-e43336-d1e127">
-                  <lb ed="#B" n="69"/>Nunc ad 
-      pro<lb ed="#B" n="70" break="no"/>positum reuertentes / 
-      cae<lb ed="#B" n="71" break="no"/>pto insistamus. 
-      Su<lb ed="#B" n="72" break="no"/>pra dictum est quod praescien  
-      <lb ed="#B" n="73"/>tia dei futurorum tantum 
-      <lb ed="#B" n="74"/>est etc. hic signatur. 38. distinctio huius 
-      pri<lb ed="#B" n="75" break="no"/>mi: quae sic continuatur ad praecedentes. Nam 
-      <lb ed="#B" n="76"/>postquam a. 35 distinctione egit magister de 
-      <lb ed="#B" n="77"/>scientia dei generaliter: nunc ostendere in 
-      <lb ed="#B" n="78"/>cipit / quomodo deus nouit omnia 
-      immu<lb ed="#B" n="79" break="no"/>tabiliter. Et diuiditur in tres partes. In 
-      pri<lb ed="#B" n="80" break="no"/>ma praedictorum datur docta repetitio. In 
-      <lb ed="#B" n="81"/>secunda certa declaratur dei cognitio. In 
-      ter<lb ed="#B" n="82" break="no"/>tia summa resaeratur eius perfectio. Prima 
-      <lb ed="#B" n="83"/>in principio. Secunda ibi: Hic oritur 
-      quae<lb ed="#B" n="84" break="no"/>stio non dissimulanda. Tertia distinctione 
-      <lb ed="#B" n="85"/>39. ibi: Praeterea solet quaeri: vtrum scientia 
-      <lb ed="#B" n="86"/>dei: prima parte indiuisa manente: secunda 
-      <lb ed="#B" n="87"/>pars in qua a magistro certa declaratur etc. 
-      <lb ed="#B" n="88"/>in tres scinditur partes. In prima quaerit / an 
-      <lb ed="#B" n="89"/>praescientia praesciti sit causa seu effectus. In se 
-      <lb ed="#B" n="90"/>cunda mira industria dubium hoc soluitur pe 
-      <lb ed="#B" n="91"/>nitus. In tertia / quod contingentia praescitum 
-      praesci<lb ed="#B" n="92" break="no"/>tur a deo funditus. Prima in principio. Se 
-      <lb ed="#B" n="93"/>cunda ibi: Hanc igitur quae videtur repugnantiam 
-      <lb ed="#B" n="94"/>etc. Tertia ibi: Ad hoc autem quod supra 
-      di<lb ed="#B" n="95" break="no"/>ctum est. Et quia materiae praesentis patitur 
-      conne<lb ed="#B" n="96" break="no"/>xio: et temporis vrget brevitas: simul cum praesenti 
-      <lb ed="#B" n="97"/>distinctione expediendae sunt duae sequentes 
-      <!--200.xml-->
-      <pb ed="#B" n="92-r"/>
-                  <cb ed="#B" n="a"/>
-                  <lb ed="#B" n="1"/>distinctiones: vnde sequitur. 39. distinctio.
-    </p>
-               <p xml:id="WuV37d-e43336-d1e201">
-                  <lb ed="#B" n="2"/>Preterea queri 
-      so<lb ed="#B" n="3" break="no"/>et let: vtrum scientia dei possit augeri vl 
-      <lb ed="#B" n="4"/>minui etc. In qua scientiae dei summa 
-      rese<lb ed="#B" n="5" break="no"/>ratur perfectio etc. Et diuitur in tres. In prima 
-      <lb ed="#B" n="6"/>ostendit quod diuina scientia non augetur nec di 
-      <lb ed="#B" n="7"/>minuitur. In secunda contra datur instantia quae 
-      <lb ed="#B" n="8"/>aperte soluitur. In tertia Hieronymi face 
-      <lb ed="#B" n="9"/>tia lucidius aperitur. Prima in principio. Se 
-      <lb ed="#B" n="10"/>cunda ibi: hic opponitur a quibusdam. Ter 
-      <lb ed="#B" n="11"/>tia ibi: Ei vero quod predictum est. Et tunc se 
-      <lb ed="#B" n="12"/>quitur. 40. distinctio / ibi: 
-      </p>
-               <p xml:id="WuV37d-e43336-d1e227">
-                  <lb ed="#B" n="13"/>Predestinatio vero 
-      <lb ed="#B" n="14"/>de bonis salutaribus est / et de hominibus 
-      <lb ed="#B" n="15"/>saluadis etc. In qua postquam in. 36. et. 36 
-      <lb ed="#B" n="16"/>distinctionibus ostendit magister: quomodo 
-      de<lb ed="#B" n="17" break="no"/>us omnia noscit immutabiliter: Nunc de 
-      <lb ed="#B" n="18"/>praedestinatione agit specialiter. Et diuidit 
-      <lb ed="#B" n="19"/>ista pars in tres partes principales. In prima ex 
-      <lb ed="#B" n="20"/>ponitur praedestinatio. In secunda quid dicitur iam re 
-      <lb ed="#B" n="21"/>probatio. In tertia exquiritur quae harum ra 
-      <lb ed="#B" n="22"/>tio. Prima in principio. Secunda ibi: Cumquod 
-      <lb ed="#B" n="23"/>quodestinatio sit gratiae. Tertia. 41. dis. ibi: 
-      <lb ed="#B" n="24"/>Si autem quaerimus meritum obdurationis. 
-      <lb ed="#B" n="25"/>Prima iterum particula in qua exponitur prae 
-      <lb ed="#B" n="26"/>destinatio: in tres diuiditur. In prima praedesti 
-      <lb ed="#B" n="27"/>nationis donatur quidditas. In secunda via ra 
-      <lb ed="#B" n="28"/>tionis patet necessitas. In tertia vi 
-      specu<lb ed="#B" n="29" break="no"/>lationis subticetur falsitas. Prima in prin 
-      <lb ed="#B" n="30"/>cipio. Secunda ibi: Predestinatorum 
-      nul<lb ed="#B" n="31" break="no"/>lus videtur posse damnari. Tertia ibi: Ue 
-      <lb ed="#B" n="32"/>runtamen adhuc instant etc. Et haec diuisio di 
-      <lb ed="#B" n="33"/>stinctionum trium praesentium in generali.
-      </p>
-            </div>
-            <div xml:id="WuV37d-e43336-Dd1e276">
-               <head xml:id="WuV37d-e43336-Hd1e278">Quaestio</head>
-               <p xml:id="WuV37d-e43336-d1e281">
-                  <lb ed="#B" n="34"/>Questio haec determinat de infalli 
-      <lb ed="#B" n="35"/>biliet ineffabili scientia dei: in qua reci 
-      <lb ed="#B" n="36"/>tat errores quorudam philosophorum 
-      <lb ed="#B" n="37"/>et nonullas opinioes theologorum: 
-      <lb ed="#B" n="38"/>quas refutat: et cum doctore sub. deius 
-      <lb ed="#B" n="39"/>ninat in isto loco. q. percipue tres. 
-      </p>
-               <p xml:id="WuV37d-e43336-d1e297">
-                  <lb ed="#B" n="40"/>Irca quarum etc. 
-      <lb ed="#B" n="41"/>Utrum sic diuina scientia rerum sit com 
-      <lb ed="#B" n="42"/> tingentium: vt inuariabilis recte al 
-      <lb ed="#B" n="43"/>irmetur: Et arguitur quod non / triplici 
-      medio<lb ed="#B" n="44" break="no"/>Primo sic. Contingens intantum a deo coc 
-      <lb ed="#B" n="45"/>loscitur inquantum ad esse determinatur: sed esse 
-      <!--200.xml-->
-      <cb ed="#B" n="b"/>
-                  <lb ed="#B" n="46"/>contingentis est variabile: igitur scientia qua cog 
-      <lb ed="#B" n="47"/>noscitur est variabilis. Maior patet: quia prae 
-      <lb ed="#B" n="48"/>ter determinationem diuinae voluntatis conti 
-      <lb ed="#B" n="49"/>gens non habet esse: et per consequens nec 
-      cog<lb ed="#B" n="50" break="no"/>noscibilitatem: dicente Aristis. in. 2. metaph 
-      <lb ed="#B" n="51"/>Sicut se habet res ad esse / sic ad 
-      verita<lb ed="#B" n="52" break="no"/>tem. Sed minor patet de quolibet contingen 
-      <lb ed="#B" n="53"/>ti: potest enim nostrum quilibet et saluari et non 
-      sal<lb ed="#B" n="54" break="no"/>uari.
-</p>
-               <p xml:id="WuV37d-e43336-d1e336">
-¶ Secundo arguitur sic. Illa scientia ni 
-      <lb ed="#B" n="55"/>est inuariabilis quae augmentum suscipre potest et 
-      <lb ed="#B" n="56"/>diminutionem: sed huiusmodi est diuina scientia: igitur 
-      <lb ed="#B" n="57"/>etc. Maior patet: quia augmentum et diminu 
-      <lb ed="#B" n="58"/>tio sunt species motus: ex postpdicamentis et. 5 
-      <lb ed="#B" n="59"/>phyy. Sed minor probatur. Suppono quod deus 
-      <lb ed="#B" n="60"/>non disposuit alium facere mundum. Certum est 
-      <lb ed="#B" n="61"/>autem quod potest: ponatur quod faciat: tunc de nouo 
-      <lb ed="#B" n="62"/>scit se facere vnum mundum et prius 
-      nescie<lb ed="#B" n="63" break="no"/>bat: et ita augmentatur eius scientia. Idem de 
-      <lb ed="#B" n="64"/>diminutione: cadat iustus a gratia: prius 
-      <lb ed="#B" n="65"/>sciebat hunc deus iustum esse: modo nescit: et ita 
-      <lb ed="#B" n="66"/>minuitur eius scientia.
-</p>
-               <p xml:id="WuV37d-e43336-d1e365">
-¶ Tertio arguitur sic. 
-      <lb ed="#B" n="67"/>Tunc cognoscitur res perfecte dum sicut est attin 
-      <lb ed="#B" n="68"/>gitur: igitur non cognoscitur contingens nisi 
-      contin<lb ed="#B" n="69" break="no"/>genti et variabili scientia. Probatur consequen 
-      <lb ed="#B" n="70"/>tia: quia inuariabile ad variabile non habet 
-      <lb ed="#B" n="71"/>conuenientiam: et ita nequit scientia dei 
-      inua<lb ed="#B" n="72" break="no"/>riabilis esse variabilis contingentis. Sed pro 
-      <lb ed="#B" n="73"/>batur antecedens per communem veritatis diffinitio 
-      <lb ed="#B" n="74"/>nem. Ueritas est adaequatio rei ad 
-      intelle<lb ed="#B" n="75" break="no"/>ctum.
-</p>
-               <p xml:id="WuV37d-e43336-d1e388">
-¶ In oppsitum est diuinus Dionysius de 
-      <lb ed="#B" n="76"/>diuinis nominibus. Cognoscit deus omnia 
-      im<lb ed="#B" n="77" break="no"/>mutabilitur mutabilia impartite partita vni 
-      <lb ed="#B" n="78"/>formiter multa. Et Augustinus .15. de trini. Eius 
-      <lb ed="#B" n="79"/>scientia est inamissibilis et inuariabilis. 
-      </p>
-               <p xml:id="WuV37d-e43336-d1e399">
-                  <lb ed="#B" n="80"/>¶ In ista quaestione ad alias 
-      pariformi<lb ed="#B" n="81" break="no"/>ter sunt tres articuli declarandi. 
-      <lb ed="#B" n="82"/>Primus est terminorum declaratiuus 
-      <lb ed="#B" n="83"/>Quorum Secundus est quaestionis responsiuus. 
-      </p>
-               <p xml:id="WuV37d-e43336-d1e410">
-                  <lb ed="#B" n="84"/>¶ Tertius est dubiorum motiuus. 
-      <lb ed="#B" n="85"/>Quatum ad primum culum 
-      <lb ed="#B" n="86"/>termini sunt / diuina scientia / contingentia 
-      <lb ed="#B" n="87"/>inuariabilitas.
-</p>
-               <p xml:id="WuV37d-e43336-d1e421">
-¶ Diuina scientia est 
-      di<lb ed="#B" n="88" break="no"/>uini intellectus habitus: quo suam contemplatur s 
-      <lb ed="#B" n="89"/>essentiam et vniuersas creaturas. Unde ad istum 
-      <lb ed="#B" n="90"/>nominandum habitum intellectum in theologia 
-      <lb ed="#B" n="91"/>sunt tres nominum ternarii. Primus est no 
-      <lb ed="#B" n="92"/>ticia / scientia sumpta proprie / et sapientia. Dicitur 
-      <lb ed="#B" n="93"/>enim diuina cognitio sapientia: inquantum aeter¬ 
-      <!--201.xml-->
-      <pb ed="#B" n="92-v"/>
-                  <cb ed="#B" n="a"/>
-                  <lb ed="#B" n="1"/>nas intuetur rationes vt suam essentiam. Unde 
-      <lb ed="#B" n="2"/>Philosophus in. 6. ethicorum dicit. Sapientia al 
-      <lb ed="#B" n="3"/>tissimarum rerum causas cognoscit. Scientia 
-      <lb ed="#B" n="4"/>autem dicitur / secundum quod creaturas intuetur: noticia 
-      <lb ed="#B" n="5"/>autem commune nominat tam sapientiae quam 
-      scien<lb ed="#B" n="6" break="no"/>tiae: et iste ternarius est de nominibus nihil conm 
-      <lb ed="#B" n="7"/>notantibus. Secundus ternarius est 
-      praescien<lb ed="#B" n="8" break="no"/>tia / prouidentia et dispositio et differat. 
-      Prae<lb ed="#B" n="9" break="no"/>scientia nempe diuinam nominat noticiam cum 
-      euen<lb ed="#B" n="10" break="no"/>tuquodam rei praescitae solum: prouidentia autem ean 
-      <lb ed="#B" n="11"/>dem nominat vt res gubernantem: vnde prouidentia 
-      <lb ed="#B" n="12"/>quasi pro alio videntia. Dispositio autem vt 
-      <lb ed="#B" n="13"/>dantem rebus esse naturae: et iste secundus 
-      ter<lb ed="#B" n="14" break="no"/>narius est rerum connotatiuus: et est omnium 
-      <lb ed="#B" n="15"/>rerum respectu: nam cunctae res a deo 
-      praesci<lb ed="#B" n="16" break="no"/>untur /praevidentur et disponuntur. Tertius 
-      terna<lb ed="#B" n="17" break="no"/>rius est reprobatio / praedestinatio / et liber 
-      vi<lb ed="#B" n="18" break="no"/>tae: et differunt. Na reprobatio est respectu 
-      <lb ed="#B" n="19"/>damnatorum. Unde magister dicit 
-      distin<lb ed="#B" n="20" break="no"/>ctione. 40. Reprobatio est praescientia mali 
-      <lb ed="#B" n="21"/>ciae in quibusdam non finiendae / et praeparatio 
-      <lb ed="#B" n="22"/>poenae non terminande: predestinatio autem re 
-      <lb ed="#B" n="23"/>spectu saluandorum:. Unde praedestinatio est 
-      prae<lb ed="#B" n="24" break="no"/>scientia beneficiorum dei. Liber vero vitae est eti 
-      <lb ed="#B" n="25"/>am respectu saluandorum / sed differenter. 
-      <lb ed="#B" n="26"/>Predestinatio nempe magis est respectu 
-      <lb ed="#B" n="27"/>primii / sed liber vitae respectu meriti. 
-      Un<lb ed="#B" n="28" break="no"/>de super illud apostoli. Quorum nomina: id est 
-      <lb ed="#B" n="29"/>merita: scripta sunt in libro vite: et iste ter 
-      <lb ed="#B" n="30"/>narius connotatiuus est sicut secundus: et solum 
-      <lb ed="#B" n="31"/>est respectu rationalis seu intellectualis 
-      <lb ed="#B" n="32"/>creaturae: et de isto ternario magis dicetur 
-      <lb ed="#B" n="33"/>in sequenti quaestione.
-</p>
-               <p xml:id="WuV37d-e43336-d1e515">
-¶ Secundus ter 
-      <lb ed="#B" n="34"/>minus est continges: et dicitur triplici 
-      <lb ed="#B" n="35"/>ter secundum philosophos: contingens ad vtrumlibet / 
-      com<lb ed="#B" n="36" break="no"/>tingens innatum / et contingens altum. Dicitur 
-      com<lb ed="#B" n="37" break="no"/>tingens ad vtrumlibet / quando indifferenter 
-      <lb ed="#B" n="38"/>res se habet ad opposita contradictoria: vt 
-      <lb ed="#B" n="39"/>esse vel non esse: et ideo dicitur ad vtrumlibet: 
-      <lb ed="#B" n="40"/>et sic capit contingens Aristo. vbi agit de 
-      <lb ed="#B" n="41"/>modis propositionum modalium. Contingens 
-      <lb ed="#B" n="42"/>autem innatum dicitur: quando se habet ad vna: 
-      <lb ed="#B" n="43"/>partem: tamen cum quadam inclinatione ad 
-      <lb ed="#B" n="44"/>aliam: licet non aequaliter: et ista dicitur 
-      con<lb ed="#B" n="45" break="no"/>tingentia naturae: vbi sepius quod natura 
-      <lb ed="#B" n="46"/>intendit / accidit: licet no semper: et ideo 
-      dici<lb ed="#B" n="47" break="no"/>tur contingens innatum / quasi intus natum  
-      <lb ed="#B" n="48"/>seu in natura positum. Et de isto loqui 
-      vi<lb ed="#B" n="49" break="no"/>detur philosophus. 1 priorum. Tertio dicitur contin¬ 
-      <!--201.xml-->
-      <cb ed="#B" n="b"/>
-                  <lb ed="#B" n="50"/>gens altum: et est quoddam commune tam 
-      contin<lb ed="#B" n="51" break="no"/>genti ad vtrumlibet quam innato: et ideo dicitur 
-      <lb ed="#B" n="52"/>altum: sicut communia in linea praedicamentali 
-      <lb ed="#B" n="53"/>altiora sunt particularibus: et de isto agit 
-      <lb ed="#B" n="54"/>philosophus in. 2. perihermenias in quadam 
-      du<lb ed="#B" n="55" break="no"/>bitatione sub nomine possibilis: vbi 
-      po<lb ed="#B" n="56" break="no"/>nit commune possibile / contingenti et 
-      neces<lb ed="#B" n="57" break="no"/>sario. Et accipitur modo contingens in nostra 
-      <lb ed="#B" n="58"/>q. his tribus modis.
-</p>
-               <p xml:id="WuV37d-e43336-d1e576">
-¶ Tertius termi 
-      <lb ed="#B" n="59"/>nus est inuariabilitas. Unde noto secundum 
-      <lb ed="#B" n="60"/>doctorem deuotum huius primi distin. 6. 
-      tri<lb ed="#B" n="61" break="no"/>plicem esse mutationem. Quedam enim est ab 
-      <lb ed="#B" n="62"/>ente simpliciter in ens simpliciter: et dici 
-      <lb ed="#B" n="63"/>tur variatio. Secunda est ab ente simpli 
-      <lb ed="#B" n="64"/>citer in ens secundum quid / vel econtra: et dicitur 
-      <lb ed="#B" n="65"/>generatio seu corruptio. Tertia est ab en 
-      <lb ed="#B" n="66"/>te simpliciter in non ens simpliciter: et dici 
-      <lb ed="#B" n="67"/>tur versio et sic secundum hanc triplicem 
-      mutati<lb ed="#B" n="68" break="no"/>onem dicitur per oppositum immutabile: iuxta priman 
-      <lb ed="#B" n="69"/>inuariabile: iuxi secundam incorruptibile seu 
-      in<lb ed="#B" n="70" break="no"/>generabile: iuxta tertiam inuertibile. Quaerit 
-      <lb ed="#B" n="71"/>autem quaestio: vtrum ista contingentia cognita ali 
-      <lb ed="#B" n="72"/>quid per modum formae / et ita variationis: ad / 
-      <lb ed="#B" n="73"/>dant ad diuinam scientiam: et ita quod sit variabil 
-      <lb ed="#B" n="74"/>vel non. Et tantum de primo principali. 
-      </p>
-               <p xml:id="WuV37d-e43336-d1e614">
-                  <lb ed="#B" n="75"/>¶ Quantum ad secundum articulum 
-      <lb ed="#B" n="76"/>sunt tres 
-      <lb ed="#B" n="77"/>conclusiones. Prima est de diuinae 
-      scien<lb ed="#B" n="78" break="no"/>tiae necessitate. Et secunda de diuinae scientiae. 
-      <lb ed="#B" n="79"/>infallibilitate. Tertia est de diuinae scientiae 
-      <lb ed="#B" n="80"/>inuariabilitate:
-</p>
-               <p xml:id="WuV37d-e43336-d1e630">
-¶ Prima est haec. Sic 
-      di<lb ed="#B" n="81" break="no"/>uina scientia qua diuinus cuncta contemplatur in 
-      <lb ed="#B" n="82"/>tuitus extat necessaria: vt rebus contingentibus 
-      <lb ed="#B" n="83"/>nullam legen necessitatis imponat. Prima pars 
-      <lb ed="#B" n="84"/>dicit quod per diuinam scientia cuncta contemplatur diuinus 
-      <lb ed="#B" n="85"/>intuitus. Probatur. Omnis res etiam non viuens 
-      <lb ed="#B" n="86"/>instinctu naturali in suum tendit finem: igitur 
-      <lb ed="#B" n="87"/>ab aliquo ipsam intelligente dirigitur. Pro 
-      <lb ed="#B" n="88"/>batur ista consequentia. Si enim iuxta viam 
-      Dio<lb ed="#B" n="89" break="no"/>ny. 4. caelestis hierarchiae. infima per media 
-      <lb ed="#B" n="90"/>in suprciuma deducuntur: oportet primum dirigens 
-      <lb ed="#B" n="91"/>rerum cunctarum certius rerum finem cognoscere 
-      <lb ed="#B" n="92"/>quam res deductae faciant. Certissimus autem 
-      cog<lb ed="#B" n="93" break="no"/>nitionis modus est scientialis seu intellectualis: 
-      <lb ed="#B" n="94"/>et ita exquo extat primum vt supponitur / et 
-      <lb ed="#B" n="95"/>cuncta dirigit: omnia cognoscit. Sed quod 
-      <lb ed="#B" n="96"/>ipara scientia qua omnia cognoscit sit 
-      neces<lb ed="#B" n="97" break="no"/>saria probatur: quia si non: se habebit in deo ad 
-      <lb ed="#B" n="98"/>modum formae et accidentis venientis et rece¬ 
-      <!--202.xml-->
-      <pb ed="#B" n="93-r"/>
-                  <cb ed="#B" n="a"/>
-                  <lb ed="#B" n="1"/>dentis: et per consequens variabitur scientia dei 
-      <lb ed="#B" n="2"/>Ego inquit qui non mutor. Et Boetius in 
-      <lb ed="#B" n="3"/>li. de trini. forma simplex subiectum esse non 
-      <lb ed="#B" n="4"/>potest. Et corroboratur medio 
-      rhetori<lb ed="#B" n="5" break="no"/>co. Cogitamus ab aeterno deum beatissimum: 
-      <lb ed="#B" n="6"/>iocundissimum: et perfectissimum: sed non 
-      es<lb ed="#B" n="7" break="no"/>set nisi haberet cunctorum scientiam: quia 
-      <lb ed="#B" n="8"/>cuiuslibet per se cognitio aliquam arguit perfe 
-      <lb ed="#B" n="9"/>ctionem adminus extensiue: igitur ab aeterno istam 
-      <lb ed="#B" n="10"/>habet scientiam: sed omne aeternum est necessari 
-      <lb ed="#B" n="11"/>um. igitur etc. Sed tertia pars dicit quod ista 
-      <lb ed="#B" n="12"/>scientia seu praescientia dei non imponit re 
-      <lb ed="#B" n="13"/>bus cognitis necessitatem. probatur. illa sci 
-      <lb ed="#B" n="14"/>entia nullam imponit rebus necessitatem qua 
-      <lb ed="#B" n="15"/>non existente per impossibile res eodem modo in 
-      <lb ed="#B" n="16"/>telliguntur: sed huiusmodi est praescientia dei 
-      <lb ed="#B" n="17"/>igitur non imponit rebus necessitatem maior 
-      <lb ed="#B" n="18"/>patet: quia si imponeret rebus 
-      necessita<lb ed="#B" n="19" break="no"/>tem esset contradictio res intelligere ea non 
-      <lb ed="#B" n="20"/>intellecta: sed minor declaratur: si enim inquit 
-      <lb ed="#B" n="21"/>doc. deuo. hac distinctione intelligitur praescientia 
-      <lb ed="#B" n="22"/>dei non esse quid aufertur libero arbitrio 
-      <lb ed="#B" n="23"/>nihil ita bene contingenter bonum facie 
-      <lb ed="#B" n="24"/>mus sicut modo: vnde ad hoc valde 
-      gra<lb ed="#B" n="25" break="no"/>tum affert Aug. exemplum in libro de libe 
-      <lb ed="#B" n="26"/>ro arbitrio inquiens: sicut memoria mea 
-      <lb ed="#B" n="27"/>non cogit facta esse quo praeterierunt: sic dei 
-      <lb ed="#B" n="28"/>praescientia non cogit facienda esse quae 
-      fu<lb ed="#B" n="29" break="no"/>tura sunt. Et ratio huius est: 
-      determina<lb ed="#B" n="30" break="no"/>tio mere contingens diuine voluntatis quae 
-      <lb ed="#B" n="31"/>talia vult esse contingentia: vnde in 
-      cogni<lb ed="#B" n="32" break="no"/>tione complexorum in diuino intellectu secundm 
-      <lb ed="#B" n="33"/>doct. subti. tria intelliguntur signa. In 
-      pri<lb ed="#B" n="34" break="no"/>mo praesentantur omnes complexiones 
-      quae<lb ed="#B" n="35" break="no"/>cunque sint: aut necessariae: aut contingentes 
-      <lb ed="#B" n="36"/>et in hoc signo omnes complexiones 
-      neces<lb ed="#B" n="37" break="no"/>sarias intelligit: et sibi sunt neutrae 
-      contin<lb ed="#B" n="38" break="no"/>gentes: sicut ista antichristus erit: iudas dam 
-      <lb ed="#B" n="39"/>nabitur: Petrus saluabitur: in secundo signo 
-      <lb ed="#B" n="40"/>diuinae praesentantur voluntati: iste neutrae con 
-      <lb ed="#B" n="41"/>plexiones: et tunc diuina voluntas vnam 
-      eli<lb ed="#B" n="42" break="no"/>git partem et dicit volo antichristum esse: et 
-      <lb ed="#B" n="43"/>petrum saluari. In tertio signo videt 
-      diui<lb ed="#B" n="44" break="no"/>nus intellectus diuinae voluntatis determina 
-      <lb ed="#B" n="45"/>tionem et scit illas contingentes veritates: quia 
-      <lb ed="#B" n="46"/>scit suam voluntatem esse omnipotentem ad im 
-      <lb ed="#B" n="47"/>plendum quod vult et immutabilem.
-</p>
-               <p xml:id="WuV37d-e43336-d1e780">
-¶ Ex quo 
-      <lb ed="#B" n="48"/>patet error manifestus marci tullii 
-      cicero<lb ed="#B" n="49" break="no"/>nis et omnium epicureorum qui posuerunt 
-      <!--202.xml-->
-      <cb ed="#B" n="b"/>
-                  <lb ed="#B" n="50"/>deum ista ignorare contingentia: vt 
-      serua<lb ed="#B" n="51" break="no"/>retur libertas liberi arbitrii: patet quod simul 
-      <lb ed="#B" n="52"/>stant liberum arbitrium et praescientia dei 
-      </p>
-               <p xml:id="WuV37d-e43336-d1e798">
-                  <lb ed="#B" n="53"/>¶ Ex eodem error totius gimnasii 
-      stoico<lb ed="#B" n="54" break="no"/>rum eliditur: qui posuerunt per 
-      opposi<lb ed="#B" n="55" break="no"/>tum ad tullium et epicureorum sectam omnia 
-      <lb ed="#B" n="56"/>de necessitate euenire propter 
-      praescienti<lb ed="#B" n="57" break="no"/>am diuinam. In medio autem horum 
-      duo<lb ed="#B" n="58" break="no"/>rum ambulat tertia opinio: veritatis scilicet 
-      <lb ed="#B" n="59"/>peripatheticorum quae dicit deum omnium 
-      ha<lb ed="#B" n="60" break="no"/>bere praescientiam contra tullium et arbitrii 
-      <lb ed="#B" n="61"/>contingentiam contra stoicos. Et si quaeratur ali 
-      <lb ed="#B" n="62"/>quod manuductiuum ad videndum quomodo cum 
-      <lb ed="#B" n="63"/>dei praescientia possit stare contingentia rerum 
-      <lb ed="#B" n="64"/>doctor profundus in summa sua dat 
-      exem<lb ed="#B" n="65" break="no"/>plum: et est consimile exemplo boecii in. 5 de 
-      com<lb ed="#B" n="66" break="no"/>solatione: ponatur ad imaginationem vnus ocu 
-      <lb ed="#B" n="67"/>lus clarus sursum in aere cuius visio sit 
-      <lb ed="#B" n="68"/>idem per essentiam secum: videbis tunc 
-      <lb ed="#B" n="69"/>omnes transeuntes per viam loquentes 
-      <lb ed="#B" n="70"/>ludentes etc. et tamen non mutabitur in se: 
-      <lb ed="#B" n="71"/>quia visio est eiusdem secum essentiae: nec 
-      im<lb ed="#B" n="72" break="no"/>ponit necessitatem ambulandi: vt patet 
-      <lb ed="#B" n="73"/>eis quos videt: sed solum res mutabuntur. 
-      <lb ed="#B" n="74"/>Et si dicatur. exquo sum predestinatus 
-      quic<lb ed="#B" n="75" break="no"/>quid faciam ero saluatus: ita de praescito 
-      <lb ed="#B" n="76"/>quicquid faciet erit damnatus. Dico quod solum est hoc 
-      <lb ed="#B" n="77"/>necessitas contingentie non consequentis: quia nec 
-      <lb ed="#B" n="78"/>deus nos necessario prescit et predestinat: 
-      <lb ed="#B" n="79"/>sed contingenter: nec sumus necessario prae 
-      <lb ed="#B" n="80"/>destinati sed contingenter: vnde referunt do 
-      <lb ed="#B" n="81"/>ctorem subtilem quodam semel ambulare 
-      per<lb ed="#B" n="82" break="no"/>maiorem britanniam: a casu autem cuidam 
-      ob<lb ed="#B" n="83" break="no"/>uiauit bladum in agro seminanti: et 
-      mul<lb ed="#B" n="84" break="no"/>tis habitis aliis locutionibus inquit homo 
-      <lb ed="#B" n="85"/>ille: quid mea interest facere bonum vel ma 
-      <lb ed="#B" n="86"/>lum ex quo deus me praeuidet: aut saluan 
-      <lb ed="#B" n="87"/>dum aut damnandum. Cui doctor: si deus 
-      <lb ed="#B" n="88"/>sic rebus ex sua praeuisione necessitatem 
-      im<lb ed="#B" n="89" break="no"/>ponit iam amplius bladum non semina. 
-      <lb ed="#B" n="90"/>Si enim praeuisum est a deo venire etiam non 
-      <lb ed="#B" n="91"/>seminatum veniet: quo sermone homo con 
-      <lb ed="#B" n="92"/>ticuit. Ex quo relinquitur solam contingentie 
-      <lb ed="#B" n="93"/>non consequentis in hoc esse necessitatem. Et 
-      <lb ed="#B" n="94"/>si dicatur exquo iam factum est praescitus sum 
-      <lb ed="#B" n="95"/>aut predestinatus nequit fieri oppositum: 
-      <lb ed="#B" n="96"/>immo deus non posset secundum illud agatho 
-      <lb ed="#B" n="97"/>nis vel solonis in. 6. ethicorum: hoc lolo 
-      pri<lb ed="#B" n="98" break="no"/>uatur deus vt ingenita non possit facere 
-      <!--203.xml-->
-      <pb ed="#B" n="93-v"/>
-                  <cb ed="#B" n="a"/>
-                  <lb ed="#B" n="1"/>quae genita sunt. Dicit doctor subtilis: tam 
-      <lb ed="#B" n="2"/>in reportatis parrhysius quam in ordinario 
-      <lb ed="#B" n="3"/>quod hic nos excecat imaginatio: quia imagia 
-      <lb ed="#B" n="4"/>mur istam praescientiam iam transisse in praete 
-      <lb ed="#B" n="5"/>ritum quod est falsum: quia apud deum nihil 
-      <lb ed="#B" n="6"/>praeteriit: quia instans aeternitatis ab omi 
-      <lb ed="#B" n="7"/>relegatur temporis mensura. Ita enim nunc 
-      <lb ed="#B" n="8"/>primo predestinat: sicut ante mundi consti 
-      <lb ed="#B" n="9"/>tutionem et contingenter et libere tantam et non 
-      <lb ed="#B" n="10"/>plus rebus contingentibus imponens ne 
-      <lb ed="#B" n="11"/>cessitatem: sicut vnus homo alteri homini 
-      <lb ed="#B" n="12"/>quem aspicit eum videndo.
-</p>
-               <p xml:id="WuV37d-e43336-d1e933">
-¶ Secunda 
-      con<lb ed="#B" n="13" break="no"/>clusio est de diuinae scientiae 
-      infallibilita<lb ed="#B" n="14" break="no"/>te: et est: tam certa est apud deum rerum cogni 
-      <lb ed="#B" n="15"/>tio: vt falli nequeat probatur conclusio medio 
-      <lb ed="#B" n="16"/>docto. subtilis. in reportatis parrhysius: 
-      <lb ed="#B" n="17"/>distinctione. 36. q. 1. quod enim inquit in aliquo 
-      <lb ed="#B" n="18"/>non sit certa cognitio ex duobus venit: aut 
-      <lb ed="#B" n="19"/>quia cognoscibile valde exceditl 
-      cogno<lb ed="#B" n="20" break="no"/>scens: et inde est quod philosophus dicit in. 2. 
-      metha<lb ed="#B" n="21" break="no"/>phisice: quod intellectus noster se habet ad 
-      ma<lb ed="#B" n="22" break="no"/>nifestissima naturae: sicut oculus noctue ad 
-      <lb ed="#B" n="23"/>lumen solis: aut quia est minimum in 
-      enti<lb ed="#B" n="24" break="no"/>tate: sicut materia prima: quae nequit 
-      co<lb ed="#B" n="25" break="no"/>gnosci nisi in anologia ad formam ex primo: 
-      <lb ed="#B" n="26"/>philosophicorum. Unde Aristo. in de sensu et 
-      sen<lb ed="#B" n="27" break="no"/>sato dicit: quod secundum quod diminuitur obiectum 
-      <lb ed="#B" n="28"/>visus debet augmentari virtus visiua: sed  
-      <lb ed="#B" n="29"/>ista non impediunt deum quin certe: 
-      im<lb ed="#B" n="30" break="no"/>mo certissime cognoscat: igitur assumptum 
-      <lb ed="#B" n="31"/>patet primo quod non excellens 
-      intelligibi<lb ed="#B" n="32" break="no"/>le: quia diuiuo intellectu nihil excellentius: 
-      <lb ed="#B" n="33"/>secundo quia non minimum in entitate: quia 
-      ni<lb ed="#B" n="34" break="no"/>hil extat nisi eo effectiuae: et ita 
-      cognoscen<lb ed="#B" n="35" break="no"/>do se causam cognoscit suum effectum. Si er 
-      <lb ed="#B" n="36"/>go certissime res cognoscit: oportet quod co 
-      <lb ed="#B" n="37"/>gnoscat infallibiliter.
-</p>
-               <p xml:id="WuV37d-e43336-d1e990">
-¶ Et si quaeratur ex quo 
-      <lb ed="#B" n="38"/>apud deum rerum extat infallibilitas. vnde 
-      ve<lb ed="#B" n="39" break="no"/>nit ista contingentia in rebus Bodefredus 
-      <lb ed="#B" n="40"/>de fontibus dicit: quod ex causa secunda ita quod 
-      <lb ed="#B" n="41"/>esse est a prima causa: sed contingentia quae 
-      <lb ed="#B" n="42"/>est imperfectionis: est a causa secunda: nec 
-      <lb ed="#B" n="43"/>est inconueniens inquit quo ad quid effectum 
-      <lb ed="#B" n="44"/>esse a causa secunda et non prima: dat 
-      exem<lb ed="#B" n="45" break="no"/>plum in peccato: substratum enim peccati: quia 
-      <lb ed="#B" n="46"/>est positiuum est a deo: et tamen difformitas 
-      <lb ed="#B" n="47"/>a sola creatura extat voluntate. Sed patet 
-      <lb ed="#B" n="48"/>hoc esse falsum. Prima enim vt dictum est com 
-      <lb ed="#B" n="49"/>tingentia est aperte diuinae voluntatis: et confir¬ 
-      <!--203.xml-->
-      <cb ed="#B" n="b"/>
-                  <lb ed="#B" n="50"/>matur: quia adminus secunda causa solum producitur 
-      <lb ed="#B" n="51"/>a prima: et tamen non necessario: quia prima causa secundum 
-      <lb ed="#B" n="52"/>fidem extra se nihil agit necessario. Iterum 
-      <lb ed="#B" n="53"/>patet de animabus qualibet die a solo deo 
-      crea<lb ed="#B" n="54" break="no"/>tis: et tamen contingenter. Et quod adduxit de dif 
-      <lb ed="#B" n="55"/>formitate in peccato conformiter ad 
-      contingen<lb ed="#B" n="56" break="no"/>tiam. dicendum quod non est simile. Contingentia 
-      <lb ed="#B" n="57"/>autem est vere ens positiuum: vnde 
-      necessari<lb ed="#B" n="58" break="no"/>um et contingens sub disiunctione sunt 
-      passi<lb ed="#B" n="59" break="no"/>ones entis: difformitas vero est pura pri 
-      <lb ed="#B" n="60"/>uatio: ideo non sequitur: quod si difformitas a sola 
-      <lb ed="#B" n="61"/>sit creata voluntate: quod et contingentia a sola 
-      <lb ed="#B" n="62"/>causa secunda. Et si dicatur quod possit falli deus 
-      <lb ed="#B" n="63"/>ponatur: quod sciat me iturum ad ecclesiam: sed poe 
-      <lb ed="#B" n="64"/>sito hoc adhuc possibile est: quod ego non 
-      va<lb ed="#B" n="65" break="no"/>dam: tunc exquo est possibile ponatur in essi 
-      <lb ed="#B" n="66"/>oportebit tunc: quod vel deus sciat me ire ad ec 
-      <lb ed="#B" n="67"/>clesiam: quod est falsum: vel mutetur scientia sua 
-      <lb ed="#B" n="68"/>sed non mutatur: igitur fallitur. Hic dicendum est quod 
-      <lb ed="#B" n="69"/>iste due stant simul deus scit me iturum ad ec 
-      <lb ed="#B" n="70"/>clesiam: et possibile est me non ire ad ecclesiam: 
-      <lb ed="#B" n="71"/>non tamen iste deus scit me iturum ad ecclesiam: 
-      <lb ed="#B" n="72"/>et non ibo ad ecclesiam: multa enim repugnant ante 
-      <lb ed="#B" n="73"/>cedenti quae non consequenti: sicut multa homini quae 
-      <lb ed="#B" n="74"/>non animali: illa autem de in esse est antecedens ad 
-      il<lb ed="#B" n="75" break="no"/>lam de possibili: quia sequitur est: ergo potest esse: et non 
-      <lb ed="#B" n="76"/>econtra: et ita non sequitur quod si illa de 
-      possibi<lb ed="#B" n="77" break="no"/>li possit stare cum prima: quod etiam illa de ines 
-      <lb ed="#B" n="78"/>se: et cum dicitur ponatur in esse illa de possibili 
-      <lb ed="#B" n="79"/>dicitur quod licet simpliciter possit poni in esse 
-      <lb ed="#B" n="80"/>non tamen cum prima: quia repugnant.
-</p>
-               <p xml:id="WuV37d-e43336-d1e1091">
-¶ Tertia 
-      <lb ed="#B" n="81"/>conclusio est de diuinae scientiae inuariabi 
-      <lb ed="#B" n="82"/>litate: et est amplissima dei cognitio nulla 
-      <lb ed="#B" n="83"/>rerum variatione variatur: praemittendam puto 
-      <lb ed="#B" n="84"/>huic conclusioni quandam distinctionem quam dat 
-      <lb ed="#B" n="85"/>in prima parte summe frater alexam. de hali. 
-      <lb ed="#B" n="86"/>est enim quaedam scientia quae causatur a rebus et res 
-      <lb ed="#B" n="87"/>sunt mensura scientiae sicut nostra: et haec ad  
-      <lb ed="#B" n="88"/>variationem variatur rerum: est alia scientia quae rerum 
-      <lb ed="#B" n="89"/>est mensura: sicut diuina: et haec inuariabilus 
-      <lb ed="#B" n="90"/>est licet res varientur: sicut eadem vlna varii. 
-      <lb ed="#B" n="91"/>mensurantur pamni: hoc habito probatur conclusio primo 
-      <lb ed="#B" n="92"/>quod sit amplissima. Attingit a fine vsque ad  
-      <lb ed="#B" n="93"/>finem fortiter: suauiterque disponens omnia. Et 
-      <lb ed="#B" n="94"/>apostolus dicit: non est vlla creatura inuisibilis i 
-      <lb ed="#B" n="95"/>conspectu eius. Secundo probatur quod sit inuaria 
-      <lb ed="#B" n="96"/>bilis. Aug. super Sen. Dnem mutationem di 
-      <lb ed="#B" n="97"/>uidit: aut secundum locum: aut secundum timphus. Si igitur scien 
-      <lb ed="#B" n="98"/>tia dei sit inuariabilis: aut hoc est secundum locum 
-      <!--204.xml-->
-      <pb ed="#B" n="94-r"/>
-                  <cb ed="#B" n="a"/>
-                  <lb ed="#B" n="1"/>et hoc non: quia vbique est ex distinctione praecedem 
-      <lb ed="#B" n="2"/>ti: aut secundum tempus: et hoc non. quia aeternitas est mem 
-      <lb ed="#B" n="3"/>sura eius et non tempus. Sed hic est graue 
-      <lb ed="#B" n="4"/>dubium: quomodo ista amplissima cognitio dei 
-      <lb ed="#B" n="5"/>ab aeterno potuit esse omnium rerum 
-      contingenti<lb ed="#B" n="6" break="no"/>um nondum existentium. Dicit sanctus Tho. 
-      hui<lb ed="#B" n="7" break="no"/>dist. q. 5. in scripto: quod triplex est effectus 
-      <lb ed="#B" n="8"/>Aliqui enim sequuntur semper et necessario su 
-      <lb ed="#B" n="9"/>am causam: sicut est motus solis: et motus fir 
-      <lb ed="#B" n="10"/>mamenti: et de his est demonstratio. Alii sunt 
-      <lb ed="#B" n="11"/>qui sequuntur in maiori parte causam: sed non 
-      <lb ed="#B" n="12"/>emper sicut est in naturalibus: et de his 
-      <lb ed="#B" n="13"/>est communiectura: sicut astrologus facit de ven 
-      <lb ed="#B" n="14"/>is: et medicus de sanitate. Tertii sunt ad 
-      <lb ed="#B" n="15"/>trumlibet: et hi non cognoscuntur a nobis 
-      <lb ed="#B" n="16"/>isi dum sunt: dum enim sortes currit: possum 
-      <lb ed="#B" n="17"/>cire non prius: applicando autem dicit quod ab 
-      <lb ed="#B" n="18"/>erno erant in dei praesentia futura contin 
-      <lb ed="#B" n="19"/>entia: nec dum vt futura: sed in propria 
-      existem<lb ed="#B" n="20" break="no"/>la: quia inquit si non aliter cognosceret deus 
-      <lb ed="#B" n="21"/>acta et fienda. Et confirmat: quia deus mensu 
-      <lb ed="#B" n="22"/>atur aeternitate: et ita totum tempus complec: i 
-      <lb ed="#B" n="23"/>ir: et quamuis tempus sit in se successiuum: tamen 
-      <lb ed="#B" n="24"/>pud deum est totum simul: et quasi in qua 
-      <lb ed="#B" n="25"/>am specula in sua aeternitate illa aspicit. 
-      <lb ed="#B" n="26"/>ed cum reuerentia tanti doctoris hoc 
-      mo<lb ed="#B" n="27" break="no"/>cam habet apparentiam: quomodo enim potest co 
-      <lb ed="#B" n="28"/>existere tempus: quod non est: deo illud non 
-      <lb ed="#B" n="29"/>est intelligibile: et quod dicit quod aeternitas ex 
-      <lb ed="#B" n="30"/>edit tempus conceditur: et si tempus esset 
-      si<lb ed="#B" n="31" break="no"/>nul totum: simul aspiceret: sed quia non: non 
-      <lb ed="#B" n="32"/>notest: et est simile. Centrum enim in circum 
-      fe<lb ed="#B" n="33" break="no"/>entia est praesens toti circumferentiae: 
-      capi<lb ed="#B" n="34" break="no"/>itur circinus et figatur in centro vnus pes 
-      <lb ed="#B" n="35"/>deducatur alius pes per circumferentiam 
-      <lb ed="#B" n="36"/>ergo erit centrum praesens circumferentiae 
-      nisi<lb ed="#B" n="37" break="no"/>uantum actu est. Sic in proposito: quia 
-      tem<lb ed="#B" n="38" break="no"/>us est quasi circumferentia fluens: sicut enim 
-      <lb ed="#B" n="39"/>on dicitur deus praesens loco nisi actu sit: 
-      <lb ed="#B" n="40"/>c nec tempori nisi existenti: et dum dicit quod tunc 
-      <lb ed="#B" n="41"/>iter cognosceret facta et fienda: non sequitur 
-      <lb ed="#B" n="42"/>nia eadem determinatione sue voluntatis  
-      <lb ed="#B" n="43"/>ignoscit fiendum pro tali tempore: et fa 
-      <lb ed="#B" n="44"/>um in tali tempore. Et hoc de secundo 
-      <lb ed="#B" n="45"/>ticulo. 
-      <lb ed="#B" n="46"/>Quantum ad tertium 
-      articu<lb ed="#B" n="47" break="no"/>lum: sunt 
-      <lb ed="#B" n="48"/>s difficultates iuxta tres conclusiones. 
-      <lb ed="#B" n="49"/>Prima est: si scitum imponat necessita 
-      <!--204.xml-->
-      <cb ed="#B" n="b"/>
-                  <lb ed="#B" n="50"/>tem diuine praescientiae: quia dicit Orige. 
-      <lb ed="#B" n="51"/>super epostolam ad roma. quia aliquid est fu 
-      <lb ed="#B" n="52"/>turum: ideo scitur a deo antequam fiat: quia 
-      <lb ed="#B" n="53"/>autem dicit causam. Respondet doctor de 
-      <lb ed="#B" n="54"/>uotus hac distinctione: quod quo ad hoc esto 
-      <lb ed="#B" n="55"/>triplex modus causandi: modus 
-      inferen<lb ed="#B" n="56" break="no"/>di: et modus dicendi. Quo ad primum 
-      sc<lb ed="#B" n="57" break="no"/>causandi: praescientia est causa aliquorum 
-      <lb ed="#B" n="58"/>praescitorum sicut eorum quae sunt necessaria: 
-      <lb ed="#B" n="59"/>sicut motus solis etc. numquam tamen praescitum 
-      <lb ed="#B" n="60"/>est causa praescientiae: quae ad secundum. scilicet inferendi 
-      <lb ed="#B" n="61"/>mutuo sunt esse praescitum et praescientia: quia sequi 
-      <lb ed="#B" n="62"/>tur praescitum est: ergo praescientia: et rursus 
-      prae<lb ed="#B" n="63" break="no"/>scientia: ergo praescitum quam maxime inesse 
-      ob<lb ed="#B" n="64" break="no"/>iectiuo: quo ad tertium scilicet modum dicendi 
-      <lb ed="#B" n="65"/>praescitum est causa praescientiae: habet enim 
-      prae<lb ed="#B" n="66" break="no"/>cientia hoc nomen propter futurum: dicitur enim 
-      <lb ed="#B" n="67"/>a prae: quod est ante.
-</p>
-               <p xml:id="WuV37d-e43336-d1e1289">
-¶ Secunda difficul 
-      <lb ed="#B" n="68"/>tas: vtrum sit ordo in certitudine diuine 
-      sci<lb ed="#B" n="69" break="no"/>entiae. Dico quod sic. Primo enim intelliguntur 
-      <lb ed="#B" n="70"/>ea quae pertinent ad obiectum primarium: 
-      <lb ed="#B" n="71"/>vt sunt omnia intrinseca diuina essentia at 
-      <lb ed="#B" n="72"/>tributa et personae. Secundo ea quae habent 
-      ide<lb ed="#B" n="73" break="no"/>as in deo sicut sunt necessaria. Tertio ista 
-      <lb ed="#B" n="74"/>cotingentia.
-</p>
-               <p xml:id="WuV37d-e43336-d1e1307">
-¶ Tertia difficultas: vtrum  
-      <lb ed="#B" n="75"/>contingentia habent ideam in deo: dicitur quod non: vt sunt 
-      <lb ed="#B" n="76"/>contingentia: sed sola cognoscuntur determinatio s 
-      <lb ed="#B" n="77"/>ne voluntatis. Et sic patet ad quaestionem: quod vicem 
-      <lb ed="#B" n="78"/>diuina scientia sit rerum est contingentium vt 
-      inua<lb ed="#B" n="79" break="no"/>riabilis recte affirmetur. Et tunc ad argumon 
-      <lb ed="#B" n="80"/>ta.
-</p>
-               <p xml:id="WuV37d-e43336-d1e1323">
-¶ Ad primum dicitur quod argumentum istud 
-      <lb ed="#B" n="81"/>procedit de scientia causata a rebus: qualis non est 
-      <lb ed="#B" n="82"/>diuina quae est mensura rerum: cognoscit autem 
-      <lb ed="#B" n="83"/>deus res sicut sunt: sed non scientia quae sit 
-      <lb ed="#B" n="84"/>sicut res sunt: quia sunt variabiles et ipsa est in 
-      <lb ed="#B" n="85"/>uariabilis secundum dyon.
-</p>
-               <p xml:id="WuV37d-e43336-d1e1336">
-¶ Ad secundum dico:  
-      <lb ed="#B" n="86"/>quod ista augmentatio et diminutio non est ex 
-      <lb ed="#B" n="87"/>parte sui sed obiecti producti in esse cogni 
-      <lb ed="#B" n="88"/>to seu volito: vnde ipsa vna in se manet: 
-      <lb ed="#B" n="89"/>sicut si solis radius vltra aerem cristallum 
-      il<lb ed="#B" n="90" break="no"/>uminaret esset augmentatio ex parte 
-      pas<lb ed="#B" n="91" break="no"/>si non radii sic in proposito.
-</p>
-               <p xml:id="WuV37d-e43336-d1e1352">
-¶ Ad tertium iam et 
-      <lb ed="#B" n="92"/>patet quod contingens cognoscitur sicut est non 
-      <lb ed="#B" n="93"/>tamen oportet scientiam habere modum existendi 
-      <lb ed="#B" n="94"/>quem habet: sicut plato cognoscit lapidem: et 
-      <lb ed="#B" n="95"/>buius cognitio non habet modum existem 
-      <lb ed="#B" n="96"/>di quem habet lapis: quia lapis substantia: 
-      co<lb ed="#B" n="97" break="no"/>gnitio accidens: sic in proposito. Et sic patet ad prae 
-      <lb ed="#B" n="98"/>quaestionem.
-</p>
-            </div>
-            <div xml:id="WuV37d-e43336-Dd1e1371" type="et-conclusiones">
-               <head xml:id="WuV37d-e43336-Hd1e1373">Conclusiones</head>
-               <p xml:id="WuV37d-e43336-d1e1376">
-¶ Ex dictis distinctioibus is 
-      <!--205.xml-->
-      <pb ed="#B" n="94-v"/>
-                  <cb ed="#B" n="a"/>
-                  <lb ed="#B" n="1"/>tribus de mente magistri tres habentur 
-      <lb ed="#B" n="2"/>conclusiones: de qualibet vna.
-</p>
-               <p xml:id="WuV37d-e43336-d1e1389">
-¶ Prima con 
-      <lb ed="#B" n="3"/>clusio: summa praescientia est infallibilis et in 
-      <lb ed="#B" n="4"/>causabilis per alia entia: dicit conclusio: quod diui 
-      <lb ed="#B" n="5"/>na praescientia non causatur a praescito: et quod extat in 
-      <lb ed="#B" n="6"/>fallibilis. Et deducitur per totam. 36. distinctio 
-      <lb ed="#B" n="7"/>nem
-</p>
-               <p xml:id="WuV37d-e43336-d1e1402">
-¶ Secunda conclusio: dei scientia 
-      inaugmen<lb ed="#B" n="8" break="no"/>tabilis: inuariabilis gubernat omnia. dicit 
-      <lb ed="#B" n="9"/>conclusio quod scientia dei non augmentatur: nec 
-      <lb ed="#B" n="10"/>minuitur: nec variatur: et quod est ei cura de omni 
-      <lb ed="#B" n="11"/>bus. Et deducitur per totam. 36. distinctionem 
-      </p>
-               <p xml:id="WuV37d-e43336-d1e1413">
-                  <lb ed="#B" n="12"/>¶ Tertia conclusio: nequit mutari 
-      prede<lb ed="#B" n="13" break="no"/>stinatio et reprobatio est in damnari: 
-      di<lb ed="#B" n="14" break="no"/>cit conclusio: quod predestinatio non potest au 
-      <lb ed="#B" n="15"/>geri nec minui: et quod reprobatio est ordina 
-      <lb ed="#B" n="16"/>ri ad paenam aeternam. Et ponitur per totam. 40. 
-      <lb ed="#B" n="17"/>distinctionem.
-</p>
-            </div>
-         </div>
-      </body>
-   </text>
+            <lb ed="#B" n="46"/>contingentis est variabile: igitur scientia qua cog 
+            <lb ed="#B" n="47"/>noscitur est variabilis. Maior patet: quia prae 
+            <lb ed="#B" n="48" break="no"/>ter determinationem diuinae voluntatis conti 
+            <lb ed="#B" n="49" break="no"/>gens non habet esse: et per consequens nec 
+            cog<lb ed="#B" n="50" break="no"/>noscibilitatem: dicente <ref xml:id="WuV37d-e43336-Rd1e335"><name xml:id="WuV37d-e43336-Nd1e336">Aristis.</name> in. 2. metaph</ref> 
+            <lb ed="#B" n="51"/>Sicut se habet res ad esse / sic ad 
+            verita<lb ed="#B" n="52" break="no"/>tem. Sed minor patet de quolibet contingen 
+            <lb ed="#B" n="53" break="no"/>ti: potest enim nostrum quilibet et saluari et non 
+            sal<lb ed="#B" n="54" break="no"/>uari.
+          </p>
+          <p xml:id="WuV37d-e43336-d1e336">
+            ¶ Secundo arguitur sic. Illa scientia ni 
+            <lb ed="#B" n="55"/>est inuariabilis quae augmentum suscipre potest et 
+            <lb ed="#B" n="56"/>diminutionem: sed huiusmodi est diuina scientia: igitur 
+            <lb ed="#B" n="57"/>etc. Maior patet: quia augmentum et diminu 
+            <lb ed="#B" n="58" break="no"/>tio sunt species motus: ex postpdicamentis et. 5 
+            <lb ed="#B" n="59"/>phyy. Sed minor probatur. Suppono quod deus 
+            <lb ed="#B" n="60"/>non disposuit alium facere mundum. Certum est 
+            <lb ed="#B" n="61"/>autem quod potest: ponatur quod faciat: tunc de nouo 
+            <lb ed="#B" n="62"/>scit se facere vnum mundum et prius 
+            nescie<lb ed="#B" n="63" break="no"/>bat: et ita augmentatur eius scientia. Idem de 
+            <lb ed="#B" n="64"/>diminutione: cadat iustus a gratia: prius 
+            <lb ed="#B" n="65"/>sciebat hunc deus iustum esse: modo nescit: et ita 
+            <lb ed="#B" n="66"/>minuitur eius scientia.
+          </p>
+          <p xml:id="WuV37d-e43336-d1e365">
+            ¶ Tertio arguitur sic. 
+            <lb ed="#B" n="67"/>Tunc cognoscitur res perfecte dum sicut est attin 
+            <lb ed="#B" n="68" break="no"/>gitur: igitur non cognoscitur contingens nisi 
+            contin<lb ed="#B" n="69" break="no"/>genti et variabili scientia. Probatur consequen 
+            <lb ed="#B" n="70" break="no"/>tia: quia inuariabile ad variabile non habet 
+            <lb ed="#B" n="71"/>conuenientiam: et ita nequit scientia dei 
+            inua<lb ed="#B" n="72" break="no"/>riabilis esse variabilis contingentis. Sed pro 
+            <lb ed="#B" n="73" break="no"/>batur antecedens per communem veritatis diffinitio 
+            <lb ed="#B" n="74" break="no"/>nem. Ueritas est adaequatio rei ad 
+            intelle<lb ed="#B" n="75" break="no"/>ctum.
+          </p>
+          <p xml:id="WuV37d-e43336-d1e388">
+            ¶ In oppositum est <name xml:id="WuV37d-e43336-Nd1e404">diuinus Dionysius</name> de 
+            <lb ed="#B" n="76"/>diuinis nominibus. Cognoscit deus omnia 
+            im<lb ed="#B" n="77" break="no"/>mutabilitur mutabilia impartite partita vni 
+            <lb ed="#B" n="78"/>formiter multa. Et <ref xml:id="WuV37d-e43336-Rd1e413">Augustinus .15. de trini.</ref> Eius 
+            <lb ed="#B" n="79"/>scientia est inamissibilis et inuariabilis. 
+          </p>
+          <p xml:id="WuV37d-e43336-d1e399">
+            <lb ed="#B" n="80"/>¶ In ista quaestione ad alias 
+            pariformi<lb ed="#B" n="81" break="no"/>ter sunt tres articuli declarandi. 
+            <lb ed="#B" n="82"/>Primus est terminorum declaratiuus 
+            <lb ed="#B" n="83"/>Quorum Secundus est quaestionis responsiuus.
+            <lb ed="#B" n="84"/>¶ Tertius est dubiorum motiuus.
+          </p>
+          <div xml:id="WuV37d-e43336-Dd1e433" type="articulus">
+            <head xml:id="WuV37d-e43336-Hd1e435">Articulus 1</head>
+          <p xml:id="WuV37d-e43336-d1e410">
+            <lb ed="#B" n="85"/>Quantum ad primum culum 
+            <lb ed="#B" n="86"/>termini sunt / diuina scientia / contingentia 
+            <lb ed="#B" n="87"/>inuariabilitas.
+          </p>
+          <p xml:id="WuV37d-e43336-d1e421">
+            ¶ Diuina scientia est 
+            di<lb ed="#B" n="88" break="no"/>uini intellectus habitus: quo suam contemplatur s 
+            <lb ed="#B" n="89"/>essentiam et vniuersas creaturas. Unde ad istum 
+            <lb ed="#B" n="90"/>nominandum habitum intellectum in theologia 
+            <lb ed="#B" n="91"/>sunt tres nominum ternarii. Primus est no 
+            <lb ed="#B" n="92" break="no"/>ticia / scientia sumpta proprie / et sapientia. Dicitur 
+            <lb ed="#B" n="93"/>enim diuina cognitio sapientia: inquantum aeter
+            <!--201.xml-->
+            <pb ed="#B" n="92-v"/>
+            <cb ed="#B" n="a"/>
+            <lb ed="#B" n="1" break="no"/>nas intuetur rationes vt suam essentiam. Unde 
+            <lb ed="#B" n="2"/><ref xml:id="WuV37d-e43336-Rd1e472"><name xml:id="WuV37d-e43336-Nd1e473" ref="#Aristotle">Philosophus</name> in. 6. ethicorum</ref> dicit. Sapientia al 
+            <lb ed="#B" n="3" break="no"/>tissimarum rerum causas cognoscit. Scientia 
+            <lb ed="#B" n="4"/>autem dicitur / secundum quod creaturas intuetur: noticia 
+            <lb ed="#B" n="5"/>autem commune nominat tam sapientiae quam 
+            scien<lb ed="#B" n="6" break="no"/>tiae: et iste ternarius est de nominibus nihil conm 
+            <lb ed="#B" n="7"/>notantibus. Secundus ternarius est 
+            praescien<lb ed="#B" n="8" break="no"/>tia / prouidentia et dispositio et differat. 
+            Prae<lb ed="#B" n="9" break="no"/>scientia nempe diuinam nominat noticiam cum 
+            euen<lb ed="#B" n="10" break="no"/>tuquodam rei praescitae solum: prouidentia autem ean 
+            <lb ed="#B" n="11" break="no"/>dem nominat vt res gubernantem: vnde prouidentia 
+            <lb ed="#B" n="12"/>quasi pro alio videntia. Dispositio autem vt 
+            <lb ed="#B" n="13" break="no"/>dantem rebus esse naturae: et iste secundus 
+            ter<lb ed="#B" n="14" break="no"/>narius est rerum connotatiuus: et est omnium 
+            <lb ed="#B" n="15"/>rerum respectu: nam cunctae res a deo 
+            praesci<lb ed="#B" n="16" break="no"/>untur /praevidentur et disponuntur. Tertius 
+            terna<lb ed="#B" n="17" break="no"/>rius est reprobatio / praedestinatio / et liber 
+            vi<lb ed="#B" n="18" break="no"/>tae: et differunt. Na reprobatio est respectu 
+            <lb ed="#B" n="19"/>damnatorum. Unde magister dicit 
+            distin<lb ed="#B" n="20" break="no"/>ctione. 40. Reprobatio est praescientia mali 
+            <lb ed="#B" n="21" break="no"/>ciae in quibusdam non finiendae / et praeparatio 
+            <lb ed="#B" n="22"/>poenae non terminande: predestinatio autem re 
+            <lb ed="#B" n="23" break="no"/>spectu saluandorum:. Unde praedestinatio est 
+            prae<lb ed="#B" n="24" break="no"/>scientia beneficiorum dei. Liber vero vitae est eti 
+            <lb ed="#B" n="25" break="no"/>am respectu saluandorum / sed differenter. 
+            <lb ed="#B" n="26"/>Predestinatio nempe magis est respectu 
+            <lb ed="#B" n="27"/>primii / sed liber vitae respectu meriti. 
+            Un<lb ed="#B" n="28" break="no"/>de super illud apostoli. Quorum nomina: id est 
+            <lb ed="#B" n="29"/>merita: scripta sunt in libro vite: et iste ter 
+            <lb ed="#B" n="30" break="no"/>narius connotatiuus est sicut secundus: et solum 
+            <lb ed="#B" n="31"/>est respectu rationalis seu intellectualis 
+            <lb ed="#B" n="32"/>creaturae: et de isto ternario magis dicetur 
+            <lb ed="#B" n="33"/>in sequenti quaestione.
+          </p>
+          <p xml:id="WuV37d-e43336-d1e515">
+            ¶ Secundus ter 
+            <lb ed="#B" n="34"/>minus est continges: et dicitur triplici 
+            <lb ed="#B" n="35" break="no"/>ter secundum philosophos: contingens ad vtrumlibet / 
+            com<lb ed="#B" n="36" break="no"/>tingens innatum / et contingens altum. Dicitur 
+            com<lb ed="#B" n="37" break="no"/>tingens ad vtrumlibet / quando indifferenter 
+            <lb ed="#B" n="38"/>res se habet ad opposita contradictoria: vt 
+            <lb ed="#B" n="39"/>esse vel non esse: et ideo dicitur ad vtrumlibet: 
+            <lb ed="#B" n="40"/>et sic capit contingens Aristo. vbi agit de 
+            <lb ed="#B" n="41"/>modis propositionum modalium. Contingens 
+            <lb ed="#B" n="42"/>autem innatum dicitur: quando se habet ad vna: 
+            <lb ed="#B" n="43"/>partem: tamen cum quadam inclinatione ad 
+            <lb ed="#B" n="44"/>aliam: licet non aequaliter: et ista dicitur 
+            con<lb ed="#B" n="45" break="no"/>tingentia naturae: vbi sepius quod natura 
+            <lb ed="#B" n="46"/>intendit / accidit: licet no semper: et ideo 
+            dici<lb ed="#B" n="47" break="no"/>tur contingens innatum / quasi intus natum  
+            <lb ed="#B" n="48"/>seu in natura positum. Et de isto loqui 
+            vi<lb ed="#B" n="49" break="no"/>detur philosophus. 1 priorum. Tertio dicitur contin 
+            <!--201.xml-->
+            <cb ed="#B" n="b"/>
+            <lb ed="#B" n="50" break="no"/>gens altum: et est quoddam commune tam 
+            contin<lb ed="#B" n="51" break="no"/>genti ad vtrumlibet quam innato: et ideo dicitur 
+            <lb ed="#B" n="52"/>altum: sicut communia in linea praedicamentali 
+            <lb ed="#B" n="53"/>altiora sunt particularibus: et de isto agit 
+            <lb ed="#B" n="54"/><ref xml:id="WuV37d-e43336-Rd1e596">philosophus in. 2. perihermenias</ref> in quadam 
+            du<lb ed="#B" n="55" break="no"/>bitatione sub nomine possibilis: vbi 
+            po<lb ed="#B" n="56" break="no"/>nit commune possibile / contingenti et 
+            neces<lb ed="#B" n="57" break="no"/>sario. Et accipitur modo contingens in nostra 
+            <lb ed="#B" n="58"/>q. his tribus modis.
+          </p>
+          <p xml:id="WuV37d-e43336-d1e576">
+            ¶ Tertius termi 
+            <lb ed="#B" n="59" break="no"/>nus est inuariabilitas. Unde noto secundum 
+            <lb ed="#B" n="60"/>doctorem deuotum huius primi distin. 6. 
+            tri<lb ed="#B" n="61" break="no"/>plicem esse mutationem. Quedam enim est ab 
+            <lb ed="#B" n="62"/>ente simpliciter in ens simpliciter: et dici 
+            <lb ed="#B" n="63" break="no"/>tur variatio. Secunda est ab ente simpli 
+            <lb ed="#B" n="64" break="no"/>citer in ens secundum quid / vel econtra: et dicitur 
+            <lb ed="#B" n="65"/>generatio seu corruptio. Tertia est ab en 
+            <lb ed="#B" n="66" break="no"/>te simpliciter in non ens simpliciter: et dici 
+            <lb ed="#B" n="67" break="no"/>tur versio et sic secundum hanc triplicem 
+            mutati<lb ed="#B" n="68" break="no"/>onem dicitur per oppositum immutabile: iuxta priman 
+            <lb ed="#B" n="69"/>inuariabile: iuxi secundam incorruptibile seu 
+            in<lb ed="#B" n="70" break="no"/>generabile: iuxta tertiam inuertibile. Quaerit 
+            <lb ed="#B" n="71"/>autem quaestio: vtrum ista contingentia cognita ali 
+            <lb ed="#B" n="72"/>quid per modum formae / et ita variationis: ad / 
+            <lb ed="#B" n="73"/>dant ad diuinam scientiam: et ita quod sit variabil 
+            <lb ed="#B" n="74"/>vel non. Et tantum de primo principali. 
+          </p>
+          </div>
+          <div xml:id="WuV37d-e43336-Dd1e646" type="articulus">
+            <head xml:id="WuV37d-e43336-Hd1e648">Articulus 2</head>
+          <p xml:id="WuV37d-e43336-d1e614">
+            <lb ed="#B" n="75"/>¶ Quantum ad secundum articulum 
+            <lb ed="#B" n="76"/>sunt tres 
+            <lb ed="#B" n="77"/>conclusiones. Prima est de diuinae 
+            scien<lb ed="#B" n="78" break="no"/>tiae necessitate. Et secunda de diuinae scientiae. 
+            <lb ed="#B" n="79"/>infallibilitate. Tertia est de diuinae scientiae 
+            <lb ed="#B" n="80"/>inuariabilitate:
+          </p>
+          <p xml:id="WuV37d-e43336-d1e630">
+            ¶ Prima est haec. Sic 
+            di<lb ed="#B" n="81" break="no"/>uina scientia qua diuinus cuncta contemplatur in 
+            <lb ed="#B" n="82" break="no"/>tuitus extat necessaria: vt rebus contingentibus 
+            <lb ed="#B" n="83"/>nullam legen necessitatis imponat. Prima pars 
+            <lb ed="#B" n="84"/>dicit quod per diuinam scientia cuncta contemplatur diuinus 
+            <lb ed="#B" n="85"/>intuitus. Probatur. Omnis res etiam non viuens 
+            <lb ed="#B" n="86"/>instinctu naturali in suum tendit finem: igitur 
+            <lb ed="#B" n="87"/>ab aliquo ipsam intelligente dirigitur. Pro 
+            <lb ed="#B" n="88" break="no"/>batur ista consequentia. Si enim iuxta viam 
+            <ref xml:id="WuV37d-e43336-Rd1e686"><name xml:id="WuV37d-e43336-Nd1e687">Dio<lb ed="#B" n="89" break="no"/>ny.</name> 4. caelestis hierarchiae</ref>. infima per media 
+            <lb ed="#B" n="90"/>in suprciuma deducuntur: oportet primum dirigens 
+            <lb ed="#B" n="91"/>rerum cunctarum certius rerum finem cognoscere 
+            <lb ed="#B" n="92"/>quam res deductae faciant. Certissimus autem 
+            cog<lb ed="#B" n="93" break="no"/>nitionis modus est scientialis seu intellectualis: 
+            <lb ed="#B" n="94"/>et ita exquo extat primum vt supponitur / et 
+            <lb ed="#B" n="95"/>cuncta dirigit: omnia cognoscit. Sed quod 
+            <lb ed="#B" n="96"/>ipara scientia qua omnia cognoscit sit 
+            neces<lb ed="#B" n="97" break="no"/>saria probatur: quia si non: se habebit in deo ad 
+            <lb ed="#B" n="98"/>modum formae et accidentis venientis et rece¬ 
+            <!--202.xml-->
+            <pb ed="#B" n="93-r"/>
+            <cb ed="#B" n="a"/>
+            <lb ed="#B" n="1" break="no"/>dentis: et per consequens variabitur scientia dei 
+            <lb ed="#B" n="2"/>Ego inquit qui non mutor. Et <ref xml:id="WuV37d-e43336-Rd1e724"><name xml:id="WuV37d-e43336-Nd1e725">Boetius</name> in 
+            <lb ed="#B" n="3"/>li. de trini.</ref> forma simplex subiectum esse non 
+            <lb ed="#B" n="4"/>potest. Et corroboratur medio 
+            rhetori<lb ed="#B" n="5" break="no"/>co. Cogitamus ab aeterno deum beatissimum: 
+            <lb ed="#B" n="6"/>iocundissimum: et perfectissimum: sed non 
+            es<lb ed="#B" n="7" break="no"/>set nisi haberet cunctorum scientiam: quia 
+            <lb ed="#B" n="8"/>cuiuslibet per se cognitio aliquam arguit perfe 
+            <lb ed="#B" n="9" break="no"/>ctionem adminus extensiue: igitur ab aeterno istam 
+            <lb ed="#B" n="10"/>habet scientiam: sed omne aeternum est necessari 
+            <lb ed="#B" n="11" break="no"/>um. igitur etc. Sed tertia pars dicit quod ista 
+            <lb ed="#B" n="12"/>scientia seu praescientia dei non imponit re 
+            <lb ed="#B" n="13" break="no"/>bus cognitis necessitatem. probatur. illa sci 
+            <lb ed="#B" n="14"/>entia nullam imponit rebus necessitatem qua 
+            <lb ed="#B" n="15"/>non existente per impossibile res eodem modo in 
+            <lb ed="#B" n="16"/>telliguntur: sed huiusmodi est praescientia dei 
+            <lb ed="#B" n="17"/>igitur non imponit rebus necessitatem maior 
+            <lb ed="#B" n="18"/>patet: quia si imponeret rebus 
+            necessita<lb ed="#B" n="19" break="no"/>tem esset contradictio res intelligere ea non 
+            <lb ed="#B" n="20"/>intellecta: sed minor declaratur: si enim inquit 
+            <lb ed="#B" n="21"/>doc. deuo. hac distinctione intelligitur praescientia 
+            <lb ed="#B" n="22"/>dei non esse quid aufertur libero arbitrio 
+            <lb ed="#B" n="23"/>nihil ita bene contingenter bonum facie 
+            <lb ed="#B" n="24"/>mus sicut modo: vnde ad hoc valde 
+            gra<lb ed="#B" n="25" break="no"/>tum affert <ref xml:id="WuV37d-e43336-Rd1e778"><name xml:id="WuV37d-e43336-Nd1e779">Aug.</name> exemplum in libro de libe 
+            <lb ed="#B" n="26" break="no"/>ro arbitrio</ref> inquiens: sicut memoria mea 
+            <lb ed="#B" n="27"/>non cogit facta esse quo praeterierunt: sic dei 
+            <lb ed="#B" n="28"/>praescientia non cogit facienda esse quae 
+            fu<lb ed="#B" n="29" break="no"/>tura sunt. Et ratio huius est: 
+            determina<lb ed="#B" n="30" break="no"/>tio mere contingens diuine voluntatis quae 
+            <lb ed="#B" n="31"/>talia vult esse contingentia: vnde in 
+            cogni<lb ed="#B" n="32" break="no"/>tione complexorum in diuino intellectu secundm 
+            <lb ed="#B" n="33"/><name xml:id="WuV37d-e43336-Nd1e800" ref="#Scotus">doct. subti.</name> tria intelliguntur signa. In 
+            pri<lb ed="#B" n="34" break="no"/>mo praesentantur omnes complexiones 
+            quae<lb ed="#B" n="35" break="no"/>cunque sint: aut necessariae: aut contingentes 
+            <lb ed="#B" n="36"/>et in hoc signo omnes complexiones 
+            neces<lb ed="#B" n="37" break="no"/>sarias intelligit: et sibi sunt neutrae 
+            contin<lb ed="#B" n="38" break="no"/>gentes: sicut ista antichristus erit: iudas dam 
+            <lb ed="#B" n="39" break="no"/>nabitur: Petrus saluabitur: in secundo signo 
+            <lb ed="#B" n="40"/>diuinae praesentantur voluntati: iste neutrae con 
+            <lb ed="#B" n="41" break="no"/>plexiones: et tunc diuina voluntas vnam 
+            eli<lb ed="#B" n="42" break="no"/>git partem et dicit volo antichristum esse: et 
+            <lb ed="#B" n="43"/>petrum saluari. In tertio signo videt 
+            diui<lb ed="#B" n="44" break="no"/>nus intellectus diuinae voluntatis determina 
+            <lb ed="#B" n="45" break="no"/>tionem et scit illas contingentes veritates: quia 
+            <lb ed="#B" n="46"/>scit suam voluntatem esse omnipotentem ad im 
+            <lb ed="#B" n="47" break="no"/>plendum quod vult et immutabilem.
+          </p>
+          <p xml:id="WuV37d-e43336-d1e780">
+            ¶ Ex quo 
+            <lb ed="#B" n="48"/>patet error manifestus marci tullii 
+            cicero<lb ed="#B" n="49" break="no"/>nis et omnium epicureorum qui posuerunt 
+            <!--202.xml-->
+            <cb ed="#B" n="b"/>
+            <lb ed="#B" n="50"/>deum ista ignorare contingentia: vt 
+            serua<lb ed="#B" n="51" break="no"/>retur libertas liberi arbitrii: patet quod simul 
+            <lb ed="#B" n="52"/>stant liberum arbitrium et praescientia dei 
+          </p>
+          <p xml:id="WuV37d-e43336-d1e798">
+            <lb ed="#B" n="53"/>¶ Ex eodem error totius gimnasii 
+            stoico<lb ed="#B" n="54" break="no"/>rum eliditur: qui posuerunt per 
+            opposi<lb ed="#B" n="55" break="no"/>tum ad tullium et epicureorum sectam omnia 
+            <lb ed="#B" n="56"/>de necessitate euenire propter 
+            praescienti<lb ed="#B" n="57" break="no"/>am diuinam. In medio autem horum 
+            duo<lb ed="#B" n="58" break="no"/>rum ambulat tertia opinio: veritatis scilicet 
+            <lb ed="#B" n="59"/>peripatheticorum quae dicit deum omnium 
+            ha<lb ed="#B" n="60" break="no"/>bere praescientiam contra tullium et arbitrii 
+            <lb ed="#B" n="61"/>contingentiam contra stoicos. Et si quaeratur ali 
+            <lb ed="#B" n="62"/>quod manuductiuum ad videndum quomodo cum 
+            <lb ed="#B" n="63"/>dei praescientia possit stare contingentia rerum 
+            <lb ed="#B" n="64"/><ref xml:id="WuV37d-e43336-Rd1e879"><name xml:id="WuV37d-e43336-Nd1e880">doctor profundus</name> in summa sua</ref> dat 
+            exem<lb ed="#B" n="65" break="no"/>plum: et est consimile exemplo <ref xml:id="WuV37d-e43336-Rd1e886"><name xml:id="WuV37d-e43336-Nd1e887">boecii</name> in. 5 de 
+            com<lb ed="#B" n="66" break="no"/>solatione</ref>: ponatur ad imaginationem vnus ocu 
+            <lb ed="#B" n="67" break="no"/>lus clarus sursum in aere cuius visio sit 
+            <lb ed="#B" n="68"/>idem per essentiam secum: videbis tunc 
+            <lb ed="#B" n="69"/>omnes transeuntes per viam loquentes 
+            <lb ed="#B" n="70"/>ludentes etc. et tamen non mutabitur in se: 
+            <lb ed="#B" n="71"/>quia visio est eiusdem secum essentiae: nec 
+            im<lb ed="#B" n="72" break="no"/>ponit necessitatem ambulandi: vt patet 
+            <lb ed="#B" n="73"/>eis quos videt: sed solum res mutabuntur. 
+            <lb ed="#B" n="74"/>Et si dicatur. exquo sum predestinatus 
+            quic<lb ed="#B" n="75" break="no"/>quid faciam ero saluatus: ita de praescito 
+            <lb ed="#B" n="76"/>quicquid faciet erit damnatus. Dico quod solum est hoc 
+            <lb ed="#B" n="77"/>necessitas contingentie non consequentis: quia nec 
+            <lb ed="#B" n="78"/>deus nos necessario prescit et predestinat: 
+            <lb ed="#B" n="79"/>sed contingenter: nec sumus necessario prae 
+            <lb ed="#B" n="80"/>destinati sed contingenter: vnde referunt <name xml:id="WuV37d-e43336-Nd1e924" ref="#Scotus">do 
+            <lb ed="#B" n="81" break="no"/>ctorem subtilem</name> quodam semel ambulare 
+            per<lb ed="#B" n="82" break="no"/>maiorem britanniam: a casu autem cuidam 
+            ob<lb ed="#B" n="83" break="no"/>uiauit bladum in agro seminanti: et 
+            mul<lb ed="#B" n="84" break="no"/>tis habitis aliis locutionibus inquit homo 
+            <lb ed="#B" n="85"/>ille: quid mea interest facere bonum vel ma 
+            <lb ed="#B" n="86" break="no"/>lum ex quo deus me praeuidet: aut saluan 
+            <lb ed="#B" n="87" break="no"/>dum aut damnandum. Cui doctor: si deus 
+            <lb ed="#B" n="88"/>sic rebus ex sua praeuisione necessitatem 
+            im<lb ed="#B" n="89" break="no"/>ponit iam amplius bladum non semina. 
+            <lb ed="#B" n="90"/>Si enim praeuisum est a deo venire etiam non 
+            <lb ed="#B" n="91"/>seminatum veniet: quo sermone homo con 
+            <lb ed="#B" n="92" break="no"/>ticuit. Ex quo relinquitur solam contingentie 
+            <lb ed="#B" n="93"/>non consequentis in hoc esse necessitatem. Et 
+            <lb ed="#B" n="94"/>si dicatur exquo iam factum est praescitus sum 
+            <lb ed="#B" n="95"/>aut predestinatus nequit fieri oppositum: 
+            <lb ed="#B" n="96"/>immo deus non posset secundum illud agatho 
+            <lb ed="#B" n="97" break="no"/>nis vel <name xml:id="WuV37d-e43336-Nd1e963">solonis</name> in. <ref xml:id="WuV37d-e43336-Rd1e967">6. ethicorum</ref>: hoc lolo 
+            pri<lb ed="#B" n="98" break="no"/>uatur deus vt ingenita non possit facere 
+            <!--203.xml-->
+            <pb ed="#B" n="93-v"/>
+            <cb ed="#B" n="a"/>
+            <lb ed="#B" n="1"/>quae genita sunt. Dicit <ref xml:id="WuV37d-e43336-Rd1e981"><name xml:id="WuV37d-e43336-Nd1e982">doctor subtilis</name>: tam 
+            <lb ed="#B" n="2"/>in reportatis parrhysius quam in ordinario</ref> 
+            <lb ed="#B" n="3"/>quod hic nos excecat imaginatio: quia imagia 
+            <lb ed="#B" n="4" break="no"/>mur istam praescientiam iam transisse in praete 
+            <lb ed="#B" n="5" break="no"/>ritum quod est falsum: quia apud deum nihil 
+            <lb ed="#B" n="6"/>praeteriit: quia instans aeternitatis ab omi 
+            <lb ed="#B" n="7"/>relegatur temporis mensura. Ita enim nunc 
+            <lb ed="#B" n="8"/>primo predestinat: sicut ante mundi consti 
+            <lb ed="#B" n="9" break="no"/>tutionem et contingenter et libere tantam et non 
+            <lb ed="#B" n="10"/>plus rebus contingentibus imponens ne 
+            <lb ed="#B" n="11" break="no"/>cessitatem: sicut vnus homo alteri homini 
+            <lb ed="#B" n="12"/>quem aspicit eum videndo.
+          </p>
+          <p xml:id="WuV37d-e43336-d1e933">
+            ¶ Secunda 
+            con<lb ed="#B" n="13" break="no"/>clusio est de diuinae scientiae 
+            infallibilita<lb ed="#B" n="14" break="no"/>te: et est: tam certa est apud deum rerum cogni 
+            <lb ed="#B" n="15" break="no"/>tio: vt falli nequeat probatur conclusio medio 
+            <lb ed="#B" n="16"/><ref xml:id="WuV37d-e43336-Rd1e1020"><name xml:id="WuV37d-e43336-Nd1e1021">docto. subtilis.</name> in reportatis parrhysius: 
+            <lb ed="#B" n="17"/>distinctione. 36. q. 1.</ref> quod enim inquit in aliquo 
+            <lb ed="#B" n="18"/>non sit certa cognitio ex duobus venit: aut 
+            <lb ed="#B" n="19"/>quia cognoscibile valde excedit 
+            cogno<lb ed="#B" n="20" break="no"/>scens: et inde est quod philosophus dicit in. 2. 
+            metha<lb ed="#B" n="21" break="no"/>phisice: quod intellectus noster se habet ad 
+            ma<lb ed="#B" n="22" break="no"/>nifestissima naturae: sicut oculus noctue ad 
+            <lb ed="#B" n="23"/>lumen solis: aut quia est minimum in 
+            enti<lb ed="#B" n="24" break="no"/>tate: sicut materia prima: quae nequit 
+            co<lb ed="#B" n="25" break="no"/>gnosci nisi in anologia ad formam ex primo: 
+            <lb ed="#B" n="26"/>philosophicorum. Unde Aristo. in de sensu et 
+            sen<lb ed="#B" n="27" break="no"/>sato dicit: quod secundum quod diminuitur obiectum 
+            <lb ed="#B" n="28"/>visus debet augmentari virtus visiua: sed  
+            <lb ed="#B" n="29"/>ista non impediunt deum quin certe: 
+            im<lb ed="#B" n="30" break="no"/>mo certissime cognoscat: igitur assumptum 
+            <lb ed="#B" n="31"/>patet primo quod non excellens 
+            intelligibi<lb ed="#B" n="32" break="no"/>le: quia diuiuo intellectu nihil excellentius: 
+            <lb ed="#B" n="33"/>secundo quia non minimum in entitate: quia 
+            ni<lb ed="#B" n="34" break="no"/>hil extat nisi eo effectiuae: et ita 
+            cognoscen<lb ed="#B" n="35" break="no"/>do se causam cognoscit suum effectum. Si er 
+            <lb ed="#B" n="36"/>go certissime res cognoscit: oportet quod co 
+            <lb ed="#B" n="37"/>gnoscat infallibiliter.
+          </p>
+          <p xml:id="WuV37d-e43336-d1e990">
+            ¶ Et si quaeratur ex quo 
+            <lb ed="#B" n="38"/>apud deum rerum extat infallibilitas. vnde 
+            ve<lb ed="#B" n="39" break="no"/>nit ista contingentia in rebus Bodefredus 
+            <lb ed="#B" n="40"/>de fontibus dicit: quod ex causa secunda ita quod 
+            <lb ed="#B" n="41"/>esse est a prima causa: sed contingentia quae 
+            <lb ed="#B" n="42"/>est imperfectionis: est a causa secunda: nec 
+            <lb ed="#B" n="43"/>est inconueniens inquit quo ad quid effectum 
+            <lb ed="#B" n="44"/>esse a causa secunda et non prima: dat 
+            exem<lb ed="#B" n="45" break="no"/>plum in peccato: substratum enim peccati: quia 
+            <lb ed="#B" n="46"/>est positiuum est a deo: et tamen difformitas 
+            <lb ed="#B" n="47"/>a sola creatura extat voluntate. Sed patet 
+            <lb ed="#B" n="48"/>hoc esse falsum. Prima enim vt dictum est com 
+            <lb ed="#B" n="49"/>tingentia est aperte diuinae voluntatis: et confir¬ 
+            <!--203.xml-->
+            <cb ed="#B" n="b"/>
+            <lb ed="#B" n="50"/>matur: quia adminus secunda causa solum producitur 
+            <lb ed="#B" n="51"/>a prima: et tamen non necessario: quia prima causa secundum 
+            <lb ed="#B" n="52"/>fidem extra se nihil agit necessario. Iterum 
+            <lb ed="#B" n="53"/>patet de animabus qualibet die a solo deo 
+            crea<lb ed="#B" n="54" break="no"/>tis: et tamen contingenter. Et quod adduxit de dif 
+            <lb ed="#B" n="55"/>formitate in peccato conformiter ad 
+            contingen<lb ed="#B" n="56" break="no"/>tiam. dicendum quod non est simile. Contingentia 
+            <lb ed="#B" n="57"/>autem est vere ens positiuum: vnde 
+            necessari<lb ed="#B" n="58" break="no"/>um et contingens sub disiunctione sunt 
+            passi<lb ed="#B" n="59" break="no"/>ones entis: difformitas vero est pura pri 
+            <lb ed="#B" n="60"/>uatio: ideo non sequitur: quod si difformitas a sola 
+            <lb ed="#B" n="61"/>sit creata voluntate: quod et contingentia a sola 
+            <lb ed="#B" n="62"/>causa secunda. Et si dicatur quod possit falli deus 
+            <lb ed="#B" n="63"/>ponatur: quod sciat me iturum ad ecclesiam: sed poe 
+            <lb ed="#B" n="64"/>sito hoc adhuc possibile est: quod ego non 
+            va<lb ed="#B" n="65" break="no"/>dam: tunc exquo est possibile ponatur in essi 
+            <lb ed="#B" n="66"/>oportebit tunc: quod vel deus sciat me ire ad ec 
+            <lb ed="#B" n="67"/>clesiam: quod est falsum: vel mutetur scientia sua 
+            <lb ed="#B" n="68"/>sed non mutatur: igitur fallitur. Hic dicendum est quod 
+            <lb ed="#B" n="69"/>iste due stant simul deus scit me iturum ad ec 
+            <lb ed="#B" n="70"/>clesiam: et possibile est me non ire ad ecclesiam: 
+            <lb ed="#B" n="71"/>non tamen iste deus scit me iturum ad ecclesiam: 
+            <lb ed="#B" n="72"/>et non ibo ad ecclesiam: multa enim repugnant ante 
+            <lb ed="#B" n="73"/>cedenti quae non consequenti: sicut multa homini quae 
+            <lb ed="#B" n="74"/>non animali: illa autem de in esse est antecedens ad 
+            il<lb ed="#B" n="75" break="no"/>lam de possibili: quia sequitur est: ergo potest esse: et non 
+            <lb ed="#B" n="76"/>econtra: et ita non sequitur quod si illa de 
+            possibi<lb ed="#B" n="77" break="no"/>li possit stare cum prima: quod etiam illa de ines 
+            <lb ed="#B" n="78"/>se: et cum dicitur ponatur in esse illa de possibili 
+            <lb ed="#B" n="79"/>dicitur quod licet simpliciter possit poni in esse 
+            <lb ed="#B" n="80"/>non tamen cum prima: quia repugnant.
+          </p>
+          <p xml:id="WuV37d-e43336-d1e1091">
+            ¶ Tertia 
+            <lb ed="#B" n="81"/>conclusio est de diuinae scientiae inuariabi 
+            <lb ed="#B" n="82"/>litate: et est amplissima dei cognitio nulla 
+            <lb ed="#B" n="83"/>rerum variatione variatur: praemittendam puto 
+            <lb ed="#B" n="84"/>huic conclusioni quandam distinctionem quam dat 
+            <lb ed="#B" n="85"/>in prima parte summe frater alexam. de hali. 
+            <lb ed="#B" n="86"/>est enim quaedam scientia quae causatur a rebus et res 
+            <lb ed="#B" n="87"/>sunt mensura scientiae sicut nostra: et haec ad  
+            <lb ed="#B" n="88"/>variationem variatur rerum: est alia scientia quae rerum 
+            <lb ed="#B" n="89"/>est mensura: sicut diuina: et haec inuariabilus 
+            <lb ed="#B" n="90"/>est licet res varientur: sicut eadem vlna varii. 
+            <lb ed="#B" n="91"/>mensurantur pamni: hoc habito probatur conclusio primo 
+            <lb ed="#B" n="92"/>quod sit amplissima. Attingit a fine vsque ad  
+            <lb ed="#B" n="93"/>finem fortiter: suauiterque disponens omnia. Et 
+            <lb ed="#B" n="94"/>apostolus dicit: non est vlla creatura inuisibilis i 
+            <lb ed="#B" n="95"/>conspectu eius. Secundo probatur quod sit inuaria 
+            <lb ed="#B" n="96"/>bilis. Aug. super Sen. Dnem mutationem di 
+            <lb ed="#B" n="97"/>uidit: aut secundum locum: aut secundum timphus. Si igitur scien 
+            <lb ed="#B" n="98"/>tia dei sit inuariabilis: aut hoc est secundum locum 
+            <!--204.xml-->
+            <pb ed="#B" n="94-r"/>
+            <cb ed="#B" n="a"/>
+            <lb ed="#B" n="1"/>et hoc non: quia vbique est ex distinctione praecedem 
+            <lb ed="#B" n="2"/>ti: aut secundum tempus: et hoc non. quia aeternitas est mem 
+            <lb ed="#B" n="3"/>sura eius et non tempus. Sed hic est graue 
+            <lb ed="#B" n="4"/>dubium: quomodo ista amplissima cognitio dei 
+            <lb ed="#B" n="5"/>ab aeterno potuit esse omnium rerum 
+            contingenti<lb ed="#B" n="6" break="no"/>um nondum existentium. Dicit sanctus Tho. 
+            hui<lb ed="#B" n="7" break="no"/>dist. q. 5. in scripto: quod triplex est effectus 
+            <lb ed="#B" n="8"/>Aliqui enim sequuntur semper et necessario su 
+            <lb ed="#B" n="9"/>am causam: sicut est motus solis: et motus fir 
+            <lb ed="#B" n="10"/>mamenti: et de his est demonstratio. Alii sunt 
+            <lb ed="#B" n="11"/>qui sequuntur in maiori parte causam: sed non 
+            <lb ed="#B" n="12"/>emper sicut est in naturalibus: et de his 
+            <lb ed="#B" n="13"/>est communiectura: sicut astrologus facit de ven 
+            <lb ed="#B" n="14"/>is: et medicus de sanitate. Tertii sunt ad 
+            <lb ed="#B" n="15"/>trumlibet: et hi non cognoscuntur a nobis 
+            <lb ed="#B" n="16"/>isi dum sunt: dum enim sortes currit: possum 
+            <lb ed="#B" n="17"/>cire non prius: applicando autem dicit quod ab 
+            <lb ed="#B" n="18"/>erno erant in dei praesentia futura contin 
+            <lb ed="#B" n="19"/>entia: nec dum vt futura: sed in propria 
+            existem<lb ed="#B" n="20" break="no"/>la: quia inquit si non aliter cognosceret deus 
+            <lb ed="#B" n="21"/>acta et fienda. Et confirmat: quia deus mensu 
+            <lb ed="#B" n="22"/>atur aeternitate: et ita totum tempus complec: i 
+            <lb ed="#B" n="23"/>ir: et quamuis tempus sit in se successiuum: tamen 
+            <lb ed="#B" n="24"/>pud deum est totum simul: et quasi in qua 
+            <lb ed="#B" n="25"/>am specula in sua aeternitate illa aspicit. 
+            <lb ed="#B" n="26"/>ed cum reuerentia tanti doctoris hoc 
+            mo<lb ed="#B" n="27" break="no"/>cam habet apparentiam: quomodo enim potest co 
+            <lb ed="#B" n="28"/>existere tempus: quod non est: deo illud non 
+            <lb ed="#B" n="29"/>est intelligibile: et quod dicit quod aeternitas ex 
+            <lb ed="#B" n="30"/>edit tempus conceditur: et si tempus esset 
+            si<lb ed="#B" n="31" break="no"/>nul totum: simul aspiceret: sed quia non: non 
+            <lb ed="#B" n="32"/>notest: et est simile. Centrum enim in circum 
+            fe<lb ed="#B" n="33" break="no"/>entia est praesens toti circumferentiae: 
+            capi<lb ed="#B" n="34" break="no"/>itur circinus et figatur in centro vnus pes 
+            <lb ed="#B" n="35"/>deducatur alius pes per circumferentiam 
+            <lb ed="#B" n="36"/>ergo erit centrum praesens circumferentiae 
+            nisi<lb ed="#B" n="37" break="no"/>uantum actu est. Sic in proposito: quia 
+            tem<lb ed="#B" n="38" break="no"/>us est quasi circumferentia fluens: sicut enim 
+            <lb ed="#B" n="39"/>on dicitur deus praesens loco nisi actu sit: 
+            <lb ed="#B" n="40"/>c nec tempori nisi existenti: et dum dicit quod tunc 
+            <lb ed="#B" n="41"/>iter cognosceret facta et fienda: non sequitur 
+            <lb ed="#B" n="42"/>nia eadem determinatione sue voluntatis  
+            <lb ed="#B" n="43"/>ignoscit fiendum pro tali tempore: et fa 
+            <lb ed="#B" n="44"/>um in tali tempore. Et hoc de secundo 
+            <lb ed="#B" n="45"/>ticulo. 
+          </p>
+          </div>
+          <div xml:id="WuV37d-e43336-Dd1e1320" type="articulus">
+            <head xml:id="WuV37d-e43336-Hd1e1322">Articulus 3</head>
+            <p xml:id="WuV37d-e43336-d1e1325">
+            <lb ed="#B" n="46"/>Quantum ad tertium 
+            articu<lb ed="#B" n="47" break="no"/>lum: sunt 
+            <lb ed="#B" n="48"/>s difficultates iuxta tres conclusiones. 
+            <lb ed="#B" n="49"/>Prima est: si scitum imponat necessita 
+            <!--204.xml-->
+            <cb ed="#B" n="b"/>
+            <lb ed="#B" n="50"/>tem diuine praescientiae: quia dicit Orige. 
+            <lb ed="#B" n="51"/>super epostolam ad roma. quia aliquid est fu 
+            <lb ed="#B" n="52"/>turum: ideo scitur a deo antequam fiat: quia 
+            <lb ed="#B" n="53"/>autem dicit causam. Respondet doctor de 
+            <lb ed="#B" n="54"/>uotus hac distinctione: quod quo ad hoc esto 
+            <lb ed="#B" n="55"/>triplex modus causandi: modus 
+            inferen<lb ed="#B" n="56" break="no"/>di: et modus dicendi. Quo ad primum 
+            sc<lb ed="#B" n="57" break="no"/>causandi: praescientia est causa aliquorum 
+            <lb ed="#B" n="58"/>praescitorum sicut eorum quae sunt necessaria: 
+            <lb ed="#B" n="59"/>sicut motus solis etc. numquam tamen praescitum 
+            <lb ed="#B" n="60"/>est causa praescientiae: quae ad secundum. scilicet inferendi 
+            <lb ed="#B" n="61"/>mutuo sunt esse praescitum et praescientia: quia sequi 
+            <lb ed="#B" n="62"/>tur praescitum est: ergo praescientia: et rursus 
+            prae<lb ed="#B" n="63" break="no"/>scientia: ergo praescitum quam maxime inesse 
+            ob<lb ed="#B" n="64" break="no"/>iectiuo: quo ad tertium scilicet modum dicendi 
+            <lb ed="#B" n="65"/>praescitum est causa praescientiae: habet enim 
+            prae<lb ed="#B" n="66" break="no"/>cientia hoc nomen propter futurum: dicitur enim 
+            <lb ed="#B" n="67"/>a prae: quod est ante.
+          </p>
+          <p xml:id="WuV37d-e43336-d1e1289">
+            ¶ Secunda difficul 
+            <lb ed="#B" n="68"/>tas: vtrum sit ordo in certitudine diuine 
+            sci<lb ed="#B" n="69" break="no"/>entiae. Dico quod sic. Primo enim intelliguntur 
+            <lb ed="#B" n="70"/>ea quae pertinent ad obiectum primarium: 
+            <lb ed="#B" n="71"/>vt sunt omnia intrinseca diuina essentia at 
+            <lb ed="#B" n="72"/>tributa et personae. Secundo ea quae habent 
+            ide<lb ed="#B" n="73" break="no"/>as in deo sicut sunt necessaria. Tertio ista 
+            <lb ed="#B" n="74"/>cotingentia.
+          </p>
+          <p xml:id="WuV37d-e43336-d1e1307">
+            ¶ Tertia difficultas: vtrum  
+            <lb ed="#B" n="75"/>contingentia habent ideam in deo: dicitur quod non: vt sunt 
+            <lb ed="#B" n="76"/>contingentia: sed sola cognoscuntur determinatio s 
+            <lb ed="#B" n="77"/>ne voluntatis. Et sic patet ad quaestionem: quod vicem 
+            <lb ed="#B" n="78"/>diuina scientia sit rerum est contingentium vt 
+            inua<lb ed="#B" n="79" break="no"/>riabilis recte affirmetur. Et tunc ad argumon 
+            <lb ed="#B" n="80"/>ta.
+          </p>
+          <p xml:id="WuV37d-e43336-d1e1323">
+            ¶ Ad primum dicitur quod argumentum istud 
+            <lb ed="#B" n="81"/>procedit de scientia causata a rebus: qualis non est 
+            <lb ed="#B" n="82"/>diuina quae est mensura rerum: cognoscit autem 
+            <lb ed="#B" n="83"/>deus res sicut sunt: sed non scientia quae sit 
+            <lb ed="#B" n="84"/>sicut res sunt: quia sunt variabiles et ipsa est in 
+            <lb ed="#B" n="85"/>uariabilis secundum dyon.
+          </p>
+          <p xml:id="WuV37d-e43336-d1e1336">
+            ¶ Ad secundum dico:  
+            <lb ed="#B" n="86"/>quod ista augmentatio et diminutio non est ex 
+            <lb ed="#B" n="87"/>parte sui sed obiecti producti in esse cogni 
+            <lb ed="#B" n="88"/>to seu volito: vnde ipsa vna in se manet: 
+            <lb ed="#B" n="89"/>sicut si solis radius vltra aerem cristallum 
+            il<lb ed="#B" n="90" break="no"/>uminaret esset augmentatio ex parte 
+            pas<lb ed="#B" n="91" break="no"/>si non radii sic in proposito.
+          </p>
+          <p xml:id="WuV37d-e43336-d1e1352">
+            ¶ Ad tertium iam et 
+            <lb ed="#B" n="92"/>patet quod contingens cognoscitur sicut est non 
+            <lb ed="#B" n="93"/>tamen oportet scientiam habere modum existendi 
+            <lb ed="#B" n="94"/>quem habet: sicut plato cognoscit lapidem: et 
+            <lb ed="#B" n="95"/>buius cognitio non habet modum existem 
+            <lb ed="#B" n="96"/>di quem habet lapis: quia lapis substantia: 
+            co<lb ed="#B" n="97" break="no"/>gnitio accidens: sic in proposito. Et sic patet ad prae 
+            <lb ed="#B" n="98"/>quaestionem.
+          </p>
+        </div>
+        </div>
+        <div xml:id="WuV37d-e43336-Dd1e1371" type="et-conclusiones">
+          <head xml:id="WuV37d-e43336-Hd1e1373">Conclusiones</head>
+          <p xml:id="WuV37d-e43336-d1e1376">
+            ¶ Ex dictis distinctioibus is 
+            <!--205.xml-->
+            <pb ed="#B" n="94-v"/>
+            <cb ed="#B" n="a"/>
+            <lb ed="#B" n="1"/>tribus de mente magistri tres habentur 
+            <lb ed="#B" n="2"/>conclusiones: de qualibet vna.
+          </p>
+          <p xml:id="WuV37d-e43336-d1e1389">
+            ¶ Prima con 
+            <lb ed="#B" n="3"/>clusio: summa praescientia est infallibilis et in 
+            <lb ed="#B" n="4"/>causabilis per alia entia: dicit conclusio: quod diui 
+            <lb ed="#B" n="5"/>na praescientia non causatur a praescito: et quod extat in 
+            <lb ed="#B" n="6"/>fallibilis. Et deducitur per totam. 36. distinctio 
+            <lb ed="#B" n="7"/>nem
+          </p>
+          <p xml:id="WuV37d-e43336-d1e1402">
+            ¶ Secunda conclusio: dei scientia 
+            inaugmen<lb ed="#B" n="8" break="no"/>tabilis: inuariabilis gubernat omnia. dicit 
+            <lb ed="#B" n="9"/>conclusio quod scientia dei non augmentatur: nec 
+            <lb ed="#B" n="10"/>minuitur: nec variatur: et quod est ei cura de omni 
+            <lb ed="#B" n="11"/>bus. Et deducitur per totam. 36. distinctionem 
+          </p>
+          <p xml:id="WuV37d-e43336-d1e1413">
+            <lb ed="#B" n="12"/>¶ Tertia conclusio: nequit mutari 
+            prede<lb ed="#B" n="13" break="no"/>stinatio et reprobatio est in damnari: 
+            di<lb ed="#B" n="14" break="no"/>cit conclusio: quod predestinatio non potest au 
+            <lb ed="#B" n="15"/>geri nec minui: et quod reprobatio est ordina 
+            <lb ed="#B" n="16"/>ri ad paenam aeternam. Et ponitur per totam. 40. 
+            <lb ed="#B" n="17"/>distinctionem.
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
 </TEI>
