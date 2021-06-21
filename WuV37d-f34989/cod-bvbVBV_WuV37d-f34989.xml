@@ -1,708 +1,708 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Distinctio 23-25</title>
-            <author ref="#WilliamDeVaurouillon">William de Vaurouillon</author>
-            <respStmt>
-               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
-               <resp>Transcription Editor</resp>
-               <resp>TEI Encoder</resp>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition n="0.0.0-dev">
-               <title>Distinctio 23-25</title>
-               <date when="2021-06-19">June 19, 2021</date>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <authority>SCTA</authority>
-            <availability status="free">
-               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
-               </p>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <listWit>
-               <witness xml:id="B" n="cod-bvbVBV">Basel 1510</witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
-         <editorialDecl>
-            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
-       guidelines for a diplomatic edition.</p>
-         </editorialDecl>
-      </encodingDesc>
-      <revisionDesc status="draft">
-         <listChange>
-            <change when="2021-06-19" status="draft" n="0.0.0">
-               <p>Created file for the first time.</p>
-            </change>
-         </listChange>
-      </revisionDesc>
-   </teiHeader>
-   <text xml:lang="la">
-      <front>
-         <div xml:id="starts-on">
-            <pb ed="#B" n="291-v"/>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Distinctio 23-25</title>
+        <author ref="#WilliamDeVaurouillon">William de Vaurouillon</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Distinctio 23-25</title>
+          <date when="2021-06-19">June 19, 2021</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-bvbVBV">Basel 1510</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2021-06-19" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="291-v"/>
+        <cb ed="#B" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="WuV37d-f34989"><!-- l3d23-25 -->
+        <head xml:id="WuV37d-f34989-Hd1e108">Distinctio 23-25</head>
+        <div xml:id="WuV37d-f34989-Dd1e111" type="circa-textum">
+          <head xml:id="WuV37d-f34989-Hd1e113">Circa textum</head>
+          <p xml:id="WuV37d-f34989-d1e116">
+            <lb ed="#B" n="55"/>Distinctio. 23. in qua magister 
+            tra<lb ed="#B" n="56" break="no"/>ctat de virtutibus theologicis scilicet de 
+            fi<lb ed="#B" n="57" break="no"/>de quantum ad eius essentiam. 
+            <lb ed="#B" n="58"/>CUm vero su 
+            <lb ed="#B" n="59"/>pra praehabitum sit 
+            chri<lb ed="#B" n="60" break="no"/>stum plenum gratia 
+            fuis<lb ed="#B" n="61" break="no"/>se: non est superuacuum in 
+            <lb ed="#B" n="62"/>quirere: vtrum fidem et 
+            <lb ed="#B" n="63"/>spem etc. Hic signatur. 23. dist. huius tertii: 
+            <lb ed="#B" n="64"/>quae sic continuatur ad praecedentes: Nam postquam a 
+            <lb ed="#B" n="65"/>prima huius tertii dist. vsque ad. 19. exclusiue: 
+            <lb ed="#B" n="66"/>proposita est a dei verbo carnis assumptio. 
+            <lb ed="#B" n="67"/>Et secundo a. 19. vsque ad istam exclusiue 
+            decla<lb ed="#B" n="68" break="no"/>rata est diuini verbi durior passio: Nunc ter 
+            <lb ed="#B" n="69"/>tio in hac dist. ostendere incipit / qualis sit ab 
+            <lb ed="#B" n="70"/>eodem virtutum nobis donatio. Et habet diuidi 
+            <lb ed="#B" n="71"/>hic tertius huius tertii lib. tractatus in tres partes 
+            <lb ed="#B" n="72"/>principales. In prima de donis et virtutibus 
+            prae<lb ed="#B" n="73" break="no"/>sit consideratio. In secunda de earum complexibus 
+            <lb ed="#B" n="74"/>sequitur inquisitio. In tertia de dei iussionibus 
+            <lb ed="#B" n="75"/>iungitur indagatio. Prima in princi. Secunda 
+            <lb ed="#B" n="76"/>ibi / dist. 26. Solet etiam quaeri etc. Tertia 
+            di<lb ed="#B" n="77" break="no"/>stin. 27. ibi: Sed iam distributio decalogi 
+            <lb ed="#B" n="78"/>etc. Prima rursus particula in qua de donis 
+            <lb ed="#B" n="79"/>et virtutibus etc. in tres partes diuiditur. In pri 
+            <lb ed="#B" n="80"/>ma praemittitur vis theologicalis. In secunda 
+            sub<lb ed="#B" n="81" break="no"/>sequitur currus cardinalis. In tertia exponi 
+            <lb ed="#B" n="82"/>tur tabula donalis. Prima in principio.  
+            <lb ed="#B" n="83"/>Secunda dist. 33. ibi. Post praedicta de 
+            quat<lb ed="#B" n="84" break="no"/>tuor virtutibus etc. Tertia / distinctione 
+            <lb ed="#B" n="85"/>34. ibi: Nunc etc. Rursus prima particu 
+            <lb ed="#B" n="86"/>la in qua praemittitur vis theologicalis: in 
+            <lb ed="#B" n="87"/>tres partes diuiditur. In prima fidei datur no 
+            <lb ed="#B" n="88"/>ticia. In secunda hinc spei surgit fiducia. 
+            <lb ed="#B" n="89"/>In tertia est rei charitas nuncia. Prima in 
+            <lb ed="#B" n="90"/>principio. Secunda distin. 25. ibi: Est au 
+            <lb ed="#B" n="91"/>tem spes virtus. Tertia distin. 27. Cum 
+            au<lb ed="#B" n="92" break="no"/>tem christus spem et fidem non habuerit etc. 
+            <lb ed="#B" n="93"/>Rursus prima particula / in qua datur fidei 
+            <lb ed="#B" n="94"/>noticia: in tres partes diuiditur. In prima 
+            <lb ed="#B" n="95"/>fidei venatur quid sit essentia. In secunda 
+            <lb ed="#B" n="96"/>eius declaratur quid est materia. In tertia 
+            <!--600.xml-->
+            <pb ed="#B" n="292-r"/>
+            <cb ed="#B" n="a"/>
+            <lb ed="#B" n="1"/>huius demonstratur sufficientia. Prima in 
+            <lb ed="#B" n="2"/>principio. Secunda distin. 24. ibi: hic 
+            quae<lb ed="#B" n="3" break="no"/>nitur si fides tantum etc. Tertia distin. 25. ibi: 
+            <lb ed="#B" n="4"/>Predictis adiiciendum est de sufficientia 
+            <lb ed="#B" n="5"/>etc. Rursus prima particula quae est praesens 
+            di<lb ed="#B" n="6" break="no"/>stinctio: in qua fidei venatur quae sit essentia: in 
+            <lb ed="#B" n="7"/>es partes diuiditur. In prima fit ad praedicta 
+            <lb ed="#B" n="8"/>continuatio. In secunda fidei scripta est dis 
+            <lb ed="#B" n="9"/>fnitio. In tertia per exposita fit 
+            explana<lb ed="#B" n="10" break="no"/>tio. Prima in principio. Secunda ibi: 
+            Fi<lb ed="#B" n="11" break="no"/>des est virtus qua creduntur etc. Tertia ibi: 
+            <lb ed="#B" n="12"/>Accipitur autem fides tribus modis etc. Et 
+            <lb ed="#B" n="13"/>quamuis vlterius tertiae partis vlterior possit 
+            <lb ed="#B" n="14"/>fieri diuisio: tamen brevitatis causa indiui 
+            <lb ed="#B" n="15"/>sa manent. Unde consequentr sequitur. 24. dist. ibi: 
+            <lb ed="#B" n="16"/>Hic quaeritur si fides 
+            <lb ed="#B" n="17"/>tantum de non visis est: quomodo veritas 
+            <lb ed="#B" n="18"/>apostolis ait etc. In qua fidei declaratur obie 
+            <lb ed="#B" n="19"/>ctum seu materia. Et habet diuidi in tres 
+            <lb ed="#B" n="20"/>partes. In prima inquiritur vtrum fides sit 
+            <lb ed="#B" n="21"/>sensibilium. In secunda perspicitur / an sit haec 
+            <lb ed="#B" n="22"/>intelligibilium. In tertia elicitur exhinc 
+            ma<lb ed="#B" n="23" break="no"/>teriae corollarium. Prima in princi. Secunda 
+            <lb ed="#B" n="24"/>ibi: Post haec quaeri solet cum fides sit etc. 
+            <lb ed="#B" n="25"/>Tertia ibi: Ex his apparet aliqua credi etc. 
+            <lb ed="#B" n="26"/>Predictis 
+            adiicien<lb ed="#B" n="27" break="no"/>lum est de sufficientia fidei ad 
+            sa<lb ed="#B" n="28" break="no"/>lutem etc. In qua fidei monstratur 
+            suffici<lb ed="#B" n="29" break="no"/>entia. Et haec habet diuidi in tres partes. 
+            <lb ed="#B" n="30"/>In prima tangitur fidei sufficiens 
+            condi<lb ed="#B" n="31" break="no"/>tio. In secunda fides exponitur quae infuit 
+            <lb ed="#B" n="32"/>cornelio. In tertia huius disseritur ad caete 
+            <lb ed="#B" n="33"/>ras collatio. Prima in principio. 
+            Secun<lb ed="#B" n="34" break="no"/>da ibi: Solet etiam quaeri omne cornelio etc. 
+            <lb ed="#B" n="35"/>Tertia ibi: Illud etiam non est 
+            praetermitten<lb ed="#B" n="36" break="no"/>dum. Haec est diuisio harum etc. 
+          </p>
+        </div>
+        <div xml:id="WuV37d-f34989-Dd1e295">
+          <head xml:id="WuV37d-f34989-Hd1e297">Quaestio</head>
+          <p xml:id="WuV37d-f34989-d1e300">
+            <lb ed="#B" n="37"/>Qodo paesens proponit fidei essentiam: nec 
+            <lb ed="#B" n="38"/>noarticulorum fidei obiectum cum 
+            simbo<lb ed="#B" n="39" break="no"/>li sufficientia et necessitate ad salute. 
+            <lb ed="#B" n="40"/>e¶ Utrum cuiusli 
+            <lb ed="#B" n="41"/> bet symboli atque articli fidei 
+            <lb ed="#B" n="42"/> cognitio ad salutem hominis 
+            <lb ed="#B" n="43"/>requiratur: Et arguitur quod non / triplici 
+            me<lb ed="#B" n="44" break="no"/>dio.
+          </p>
+          <p xml:id="WuV37d-f34989-d1e320">
+            ¶ Primo sic. In nullo statu tenetur 
+            <lb ed="#B" n="45"/>homo scire quod angeli ignorare noscun¬ 
+            <!--600.xml-->
             <cb ed="#B" n="b"/>
-         </div>
-      </front>
-      <body>
-         <div xml:id="WuV37d-f34989"><!-- l3d23-25 -->
-            <head xml:id="WuV37d-f34989-Hd1e108">Distinctio 23-25</head>
-            <div xml:id="WuV37d-f34989-Dd1e111" type="circa-textum">
-               <head xml:id="WuV37d-f34989-Hd1e113">Circa textum</head>
-               <p xml:id="WuV37d-f34989-d1e116">
-                  <lb ed="#B" n="55"/>Distinctio. 23. in qua magister 
-      tra<lb ed="#B" n="56" break="no"/>ctat de virtutibus theologicis scilicet de 
-      fi<lb ed="#B" n="57" break="no"/>de quantum ad eius essentiam. 
-      <lb ed="#B" n="58"/>CUm vero su 
-      <lb ed="#B" n="59"/>pra praehabitum sit 
-      chri<lb ed="#B" n="60" break="no"/>stum plenum gratia 
-      fuis<lb ed="#B" n="61" break="no"/>se: non est superuacuum in 
-      <lb ed="#B" n="62"/>quirere: vtrum fidem et 
-      <lb ed="#B" n="63"/>spem etc. Hic signatur. 23. dist. huius tertii: 
-      <lb ed="#B" n="64"/>quae sic continuatur ad praecedentes: Nam postquam a 
-      <lb ed="#B" n="65"/>prima huius tertii dist. vsque ad. 19. exclusiue: 
-      <lb ed="#B" n="66"/>proposita est a dei verbo carnis assumptio. 
-      <lb ed="#B" n="67"/>Et secundo a. 19. vsque ad istam exclusiue 
-      decla<lb ed="#B" n="68" break="no"/>rata est diuini verbi durior passio: Nunc ter 
-      <lb ed="#B" n="69"/>tio in hac dist. ostendere incipit / qualis sit ab 
-      <lb ed="#B" n="70"/>eodem virtutum nobis donatio. Et habet diuidi 
-      <lb ed="#B" n="71"/>hic tertius huius tertii lib. tractatus in tres partes 
-      <lb ed="#B" n="72"/>principales. In prima de donis et virtutibus 
-      prae<lb ed="#B" n="73" break="no"/>sit consideratio. In secunda de earum complexibus 
-      <lb ed="#B" n="74"/>sequitur inquisitio. In tertia de dei iussionibus 
-      <lb ed="#B" n="75"/>iungitur indagatio. Prima in princi. Secunda 
-      <lb ed="#B" n="76"/>ibi / dist. 26. Solet etiam quaeri etc. Tertia 
-      di<lb ed="#B" n="77" break="no"/>stin. 27. ibi: Sed iam distributio decalogi 
-      <lb ed="#B" n="78"/>etc. Prima rursus particula in qua de donis 
-      <lb ed="#B" n="79"/>et virtutibus etc. in tres partes diuiditur. In pri 
-      <lb ed="#B" n="80"/>ma praemittitur vis theologicalis. In secunda 
-      sub<lb ed="#B" n="81" break="no"/>sequitur currus cardinalis. In tertia exponi 
-      <lb ed="#B" n="82"/>tur tabula donalis. Prima in principio.  
-      <lb ed="#B" n="83"/>Secunda dist. 33. ibi. Post praedicta de 
-      quat<lb ed="#B" n="84" break="no"/>tuor virtutibus etc. Tertia / distinctione 
-      <lb ed="#B" n="85"/>34. ibi: Nunc etc. Rursus prima particu 
-      <lb ed="#B" n="86"/>la in qua praemittitur vis theologicalis: in 
-      <lb ed="#B" n="87"/>tres partes diuiditur. In prima fidei datur no 
-      <lb ed="#B" n="88"/>ticia. In secunda hinc spei surgit fiducia. 
-      <lb ed="#B" n="89"/>In tertia est rei charitas nuncia. Prima in 
-      <lb ed="#B" n="90"/>principio. Secunda distin. 25. ibi: Est au 
-      <lb ed="#B" n="91"/>tem spes virtus. Tertia distin. 27. Cum 
-      au<lb ed="#B" n="92" break="no"/>tem christus spem et fidem non habuerit etc. 
-      <lb ed="#B" n="93"/>Rursus prima particula / in qua datur fidei 
-      <lb ed="#B" n="94"/>noticia: in tres partes diuiditur. In prima 
-      <lb ed="#B" n="95"/>fidei venatur quid sit essentia. In secunda 
-      <lb ed="#B" n="96"/>eius declaratur quid est materia. In tertia 
-      <!--600.xml-->
-      <pb ed="#B" n="292-r"/>
-                  <cb ed="#B" n="a"/>
-                  <lb ed="#B" n="1"/>huius demonstratur sufficientia. Prima in 
-      <lb ed="#B" n="2"/>principio. Secunda distin. 24. ibi: hic 
-      quae<lb ed="#B" n="3" break="no"/>nitur si fides tantum etc. Tertia distin. 25. ibi: 
-      <lb ed="#B" n="4"/>Predictis adiiciendum est de sufficientia 
-      <lb ed="#B" n="5"/>etc. Rursus prima particula quae est praesens 
-      di<lb ed="#B" n="6" break="no"/>stinctio: in qua fidei venatur quae sit essentia: in 
-      <lb ed="#B" n="7"/>es partes diuiditur. In prima fit ad praedicta 
-      <lb ed="#B" n="8"/>continuatio. In secunda fidei scripta est dis 
-      <lb ed="#B" n="9"/>fnitio. In tertia per exposita fit 
-      explana<lb ed="#B" n="10" break="no"/>tio. Prima in principio. Secunda ibi: 
-      Fi<lb ed="#B" n="11" break="no"/>des est virtus qua creduntur etc. Tertia ibi: 
-      <lb ed="#B" n="12"/>Accipitur autem fides tribus modis etc. Et 
-      <lb ed="#B" n="13"/>quamuis vlterius tertiae partis vlterior possit 
-      <lb ed="#B" n="14"/>fieri diuisio: tamen brevitatis causa indiui 
-      <lb ed="#B" n="15"/>sa manent. Unde consequentr sequitur. 24. dist. ibi: 
-      <lb ed="#B" n="16"/>Hic quaeritur si fides 
-      <lb ed="#B" n="17"/>tantum de non visis est: quomodo veritas 
-      <lb ed="#B" n="18"/>apostolis ait etc. In qua fidei declaratur obie 
-      <lb ed="#B" n="19"/>ctum seu materia. Et habet diuidi in tres 
-      <lb ed="#B" n="20"/>partes. In prima inquiritur vtrum fides sit 
-      <lb ed="#B" n="21"/>sensibilium. In secunda perspicitur / an sit haec 
-      <lb ed="#B" n="22"/>intelligibilium. In tertia elicitur exhinc 
-      ma<lb ed="#B" n="23" break="no"/>teriae corollarium. Prima in princi. Secunda 
-      <lb ed="#B" n="24"/>ibi: Post haec quaeri solet cum fides sit etc. 
-      <lb ed="#B" n="25"/>Tertia ibi: Ex his apparet aliqua credi etc. 
-      <lb ed="#B" n="26"/>Predictis 
-      adiicien<lb ed="#B" n="27" break="no"/>lum est de sufficientia fidei ad 
-      sa<lb ed="#B" n="28" break="no"/>lutem etc. In qua fidei monstratur 
-      suffici<lb ed="#B" n="29" break="no"/>entia. Et haec habet diuidi in tres partes. 
-      <lb ed="#B" n="30"/>In prima tangitur fidei sufficiens 
-      condi<lb ed="#B" n="31" break="no"/>tio. In secunda fides exponitur quae infuit 
-      <lb ed="#B" n="32"/>cornelio. In tertia huius disseritur ad caete 
-      <lb ed="#B" n="33"/>ras collatio. Prima in principio. 
-      Secun<lb ed="#B" n="34" break="no"/>da ibi: Solet etiam quaeri omne cornelio etc. 
-      <lb ed="#B" n="35"/>Tertia ibi: Illud etiam non est 
-      praetermitten<lb ed="#B" n="36" break="no"/>dum. Haec est diuisio harum etc. 
-    </p>
-            </div>
-            <div xml:id="WuV37d-f34989-Dd1e295">
-               <head xml:id="WuV37d-f34989-Hd1e297">Quaestio</head>
-               <p xml:id="WuV37d-f34989-d1e300">
-                  <lb ed="#B" n="37"/>Qodo paesens proponit fidei essentiam: nec 
-      <lb ed="#B" n="38"/>noarticulorum fidei obiectum cum 
-      simbo<lb ed="#B" n="39" break="no"/>li sufficientia et necessitate ad salute. 
-      <lb ed="#B" n="40"/>e¶ Utrum cuiusli 
-      <lb ed="#B" n="41"/> bet symboli atque articli fidei 
-      <lb ed="#B" n="42"/> cognitio ad salutem hominis 
-      <lb ed="#B" n="43"/>requiratur: Et arguitur quod non / triplici 
-      me<lb ed="#B" n="44" break="no"/>dio.
-</p>
-               <p xml:id="WuV37d-f34989-d1e320">
-¶ Primo sic. In nullo statu tenetur 
-      <lb ed="#B" n="45"/>homo scire quod angeli ignorare noscun¬ 
-      <!--600.xml-->
-      <cb ed="#B" n="b"/>
-                  <lb ed="#B" n="46"/>tur sed ante mortem christi angeli 
-      ignora<lb ed="#B" n="47" break="no"/>bant et incarnationem et passionem: ergo nec 
-      <lb ed="#B" n="48"/>illi de lege mosaica tenebantur illos 
-      co<lb ed="#B" n="49" break="no"/>gnoscere articulos pro salute obtinenda. 
-      <lb ed="#B" n="50"/>Maior patet: quia illuminationes ad nos 
-      <lb ed="#B" n="51"/>veniunt per angelos / non econtra: vnde et 
-      <lb ed="#B" n="52"/>lex Movsi data legitur in ministerio 
-      an<lb ed="#B" n="53" break="no"/>gelico. Sed minor probatur: Tum 
-      aucto<lb ed="#B" n="54" break="no"/>ritate apostoli Pauli: qui dicit: quod sacramen 
-      <lb ed="#B" n="55"/>tum incarnationis christi abscunsum 
-      fu<lb ed="#B" n="56" break="no"/>it principibus et potestatibus in 
-      caelesti<lb ed="#B" n="57" break="no"/>bus. Et in Esaia quaerunt angeli: vt 
-      diui<lb ed="#B" n="58" break="no"/>nus sentit Dionysius. Quis est iste qui 
-      ve<lb ed="#B" n="59" break="no"/>nit de edom tinctis vestibus de bosra: 
-      </p>
-               <p xml:id="WuV37d-f34989-d1e359">
-                  <lb ed="#B" n="60"/>¶ Secundo arguitur. Sicut se habet 
-      perfe<lb ed="#B" n="61" break="no"/>cta obedientia ad praeceptum: sic fides ad credi 
-      <lb ed="#B" n="62"/>bilia. Sed nemo tenetur obedire nisi expli 
-      <lb ed="#B" n="63"/>cite fiat praeceptum: ergo nec credere nisi 
-      ex<lb ed="#B" n="64" break="no"/>plicite monstretur. Sed plura sunt credibilia 
-      <lb ed="#B" n="65"/>explicita tam in nouo quam in antiquo testamen 
-      <lb ed="#B" n="66"/>to: ergo plurium in nobis est fides 
-      articulo<lb ed="#B" n="67"/> 
-                  <lb ed="#B" n="68"/>portione tam obedientiae quam fidei ad sua 
-      ob<lb ed="#B" n="69" break="no"/>iecta. Minor etiam prima nota est: quia alis 
-      ig<lb ed="#B" n="70" break="no"/>nota praecipientis voluntas iudicatur. Minor 
-      <lb ed="#B" n="71"/>etiam secunda ex eo patet: quia passio christi / nati 
-      <lb ed="#B" n="72"/>uitas / conceptio / et sic de aliis: apartae sunt et 
-      <lb ed="#B" n="73"/>exhibite: quae antiquitus non erant manifestae. 
-      </p>
-               <p xml:id="WuV37d-f34989-d1e392">
-                  <lb ed="#B" n="74"/>¶ Tertio arguitur. Nihil est ad salutem ho 
-      <lb ed="#B" n="75"/>minis necessarium / nisi quo potest saluari: 
-      <lb ed="#B" n="76"/>sed sine fide cuiuslibet articuli potest 
-      ho<lb ed="#B" n="77" break="no"/>mo saluari: ergo etc. Maior patet ex 
-      eo<lb ed="#B" n="78" break="no"/>quod necessarium et impossibile no esse 
-      aequipol<lb ed="#B" n="79" break="no"/>lent / ex. 2. peri hermenias. Sed probatur 
-      <lb ed="#B" n="80"/>minor. Tum quia possibile fuit christum non 
-      <lb ed="#B" n="81"/>incarnari: et ita articuli non fuissent ad 
-      hu<lb ed="#B" n="82" break="no"/>manitatem pertinentes. Tum quia fides est 
-      <lb ed="#B" n="83"/>quoddam accidens / in anima existens 
-      ho<lb ed="#B" n="84" break="no"/>minis: et ita eo non posito potest homini 
-      <lb ed="#B" n="85"/>dari salus. Tum tertio: quia in patria sine 
-      fi<lb ed="#B" n="86" break="no"/>de sunt beati: ergo possunt etiam in via: 
-      <lb ed="#B" n="87"/>cum status patriae statui viae succedat / et eun 
-      <lb ed="#B" n="88"/>dem perficiat.
-</p>
-               <p xml:id="WuV37d-f34989-d1e428">
-¶ In oppositum tamen argui 
-      <lb ed="#B" n="89"/>tur ex glo. super illo verbo: vbi dicitur de 
-      le<lb ed="#B" n="90" break="no"/>proso / quod offerat sextarium pro emundatione. 
-      <lb ed="#B" n="91"/>Habet glo. Sextarius est verissima fidei 
-      <lb ed="#B" n="92"/>confessio: vbi si plus est effunditur: si min 
-      <lb ed="#B" n="93"/>est deficit: et ita videtur requiri pro salute hominis 
-      <lb ed="#B" n="94"/>cognitio cuiuslibet articli.
-</p>
-               <p xml:id="WuV37d-f34989-d1e444">
-¶ Inista etc. 
-      <!--601.xml-->
-      <pb ed="#B" n="292-v"/>
-                  <cb ed="#B" n="a"/>
-                  <lb ed="#B" n="1"/>Primus est terminorum declaratiuus 
-      <lb ed="#B" n="2"/>Quorum Secundus est quaestionis responsiuus. 
-      </p>
-               <p xml:id="WuV37d-f34989-d1e457">
-                  <lb ed="#B" n="3"/>¶ Tertius est dubiorum motiuus.  
-      <lb ed="#B" n="4"/>Quo ad primumarticulum ter 
-      <lb ed="#B" n="5"/>mini sunt: 
-      <lb ed="#B" n="6"/>fides / articulus et symbolum.
-</p>
-               <p xml:id="WuV37d-f34989-d1e468">
-¶ Primus 
-      <lb ed="#B" n="7"/>igitur terminus est fides. Unde in 
-      theolo<lb ed="#B" n="8" break="no"/>gia tribus ternariis seu nouem vicibus 
-      so<lb ed="#B" n="9" break="no"/>let accipi fides. Primo accipitur fides pro 
-      <lb ed="#B" n="10"/>sponsione: sicut est illud apostoli. Primam 
-      fi<lb ed="#B" n="11" break="no"/>dem irritam fecerunt. Secundo pro 
-      fidelita<lb ed="#B" n="12" break="no"/>te: sicut illud: Periit fides et sanctus de 
-      ter<lb ed="#B" n="13" break="no"/>ra. Tertio pro conscientia: sicut illud 
-      apo<lb ed="#B" n="14" break="no"/>stoli: Omne quod non est ex fide / peccatum 
-      <lb ed="#B" n="15"/>est. Quarto pro fidei sacramento: sicut dicit 
-      <lb ed="#B" n="16"/>ad Bonifacium Augustinus quod non est aliud 
-      par<lb ed="#B" n="17" break="no"/>uulos habere fidem quam habere fidei sacramentum. 
-      <lb ed="#B" n="18"/>Quinto pro acceptione conclusionis per 
-      rati<lb ed="#B" n="19" break="no"/>onem probatae: sicut accipit Boetius in suis 
-      <lb ed="#B" n="20"/>thopicis / argumentum diffiniens. Argumen 
-      <lb ed="#B" n="21"/>tum est ratio rei dubiae faciens fidem. Sexto 
-      <lb ed="#B" n="22"/>pro cognitione comprhensionis: sicut 
-      scri<lb ed="#B" n="23" break="no"/>bit apostolus. Iusticia dei reuelatur ex 
-      <lb ed="#B" n="24"/>fide in fidem. Slo. Ex fide spei in fidem rei: 
-      <lb ed="#B" n="25"/>quae ideo fides dicitur: quia fidentissima et 
-      <lb ed="#B" n="26"/>certissima est. Septimo pro fidei obiecto: 
-      <lb ed="#B" n="27"/>secundum quod Athanasius in suo symbolo dicit. 
-      <lb ed="#B" n="28"/>Haec est fides catholica etc. Octauo pro 
-      <lb ed="#B" n="29"/>actu fidei: sicut est illud Augus. Fides est 
-      <lb ed="#B" n="30"/>credere quod non vides. Nono pro ipso 
-      fi<lb ed="#B" n="31" break="no"/>dei habitu: sicuti est illud apostoli: Iustus ex 
-      <lb ed="#B" n="32"/>fide viuit. Quae fides sic ab apostuolo describi 
-      <lb ed="#B" n="33"/>tur. Fides est substantia rerum 
-      speranda<lb ed="#B" n="34" break="no"/>rum: argumentum non apparentium. Ubi tria 
-      <lb ed="#B" n="35"/>tanguntur. Primo ipsius fidei origo / 
-      ba<lb ed="#B" n="36" break="no"/>sis seu fundamentum / dum dicitur: Fides est 
-      <lb ed="#B" n="37"/>substantia. Non enim accipitur hic 
-      substan<lb ed="#B" n="38" break="no"/>tia pro predicamento substantiae / sed pro funda 
-      <lb ed="#B" n="39"/>mento: quia fides est fuudamentum virtutum. 
-      <lb ed="#B" n="40"/>Quod clare innuit diffinitio fidei apud 
-      Da<lb ed="#B" n="41" break="no"/>mas. in. 4. suarum sententiarum: eam quae est 
-      apo<lb ed="#B" n="42" break="no"/>stoli declarans: quae est talis. Fides est spe 
-      <lb ed="#B" n="43"/>randarum rerum hypostasis id est suppositum / et 
-      eo<lb ed="#B" n="44" break="no"/>rum qua non videntur redargutio. Secundo tangitur 
-      <lb ed="#B" n="45"/>ipsius fidei finis / dum dicitur: quod fides est 
-      spe<lb ed="#B" n="46" break="no"/>randarum rerum. Fides namque in superna oculum 
-      di<lb ed="#B" n="47" break="no"/>rigit. Hoc modo potest illa fidei diffinitio apud 
-      <lb ed="#B" n="48"/>Augustinus ad consentium intelligi. Fides est illu 
-      <lb ed="#B" n="49"/>minatio mentis ad summam veritatem. Tertio 
-      <!--601.xml-->
-      <cb ed="#B" n="b"/>
-                  <lb ed="#B" n="50"/>tangitur obiectum fidei cum modo cognitionis eius 
-      <lb ed="#B" n="51"/>dem / dum dicitur: argumentum non apparentium. 
-      <lb ed="#B" n="52"/>Unde hugo in li. de sacramentis fidem 
-      diffini<lb ed="#B" n="53" break="no"/>ens dicit. Fides est cognitio seu 
-      certitu<lb ed="#B" n="54" break="no"/>do quedam de rebus absentibus / infra 
-      scienti<lb ed="#B" n="55" break="no"/>am / et supra opinionem constituta. Dicitur autem 
-      <lb ed="#B" n="56"/>fides argumentum / quasi argutam mentem 
-      fa<lb ed="#B" n="57" break="no"/>ciens id est claram / superna aliquiliter aspiciendo. Et 
-      <lb ed="#B" n="58"/>differt argumentum in philosophia et theologia: quia 
-      <lb ed="#B" n="59"/>argumentum in philosophia facit fidem. Argumentum 
-      <lb ed="#B" n="60"/>enim est ratio rei dubiae faciens fidem: theologia 
-      <lb ed="#B" n="61"/>vero ipsamet fides argumentum nominatur. Et di 
-      <lb ed="#B" n="62"/>citur fides quasi fiat dictum seu quod dicitur.
-</p>
-               <p xml:id="WuV37d-f34989-d1e596">
-¶ Se 
-      <lb ed="#B" n="63"/>cundus terminus est articulus: ab arto tas. 
-      <lb ed="#B" n="64"/>quia in peruo artatur: vnde hoc nomen fertur primo 
-      <lb ed="#B" n="65"/>ab Empedocle inuentum. Solet autem 
-      arti<lb ed="#B" n="66" break="no"/>culus in tribus liberalibus accipi artibus tri 
-      <lb ed="#B" n="67"/>pliciter. Primo in grammatica dicitur 
-      arti<lb ed="#B" n="68" break="no"/>culus quedam modica dictio cum qua caeterae 
-      <lb ed="#B" n="69"/>inflectuntur dictiones scilicet hic et haec et hoc. Se 
-      <lb ed="#B" n="70"/>cundo dicitur in rhetorica quaedam color rhetori 
-      <lb ed="#B" n="71"/>cus: dum. scilicet punctuatim quodlibet verbum profertur. 
-      <lb ed="#B" n="72"/>Sicut est illud: Ignis i grando / nixi glacies: 
-      <lb ed="#B" n="73"/>quem greci coma nominant. Tertio dicitur arti 
-      <lb ed="#B" n="74"/>culus in arithumetica quadam numerus: qui in decen 
-      <lb ed="#B" n="75"/>diuidi potest per partes aequales / nihil indiuiso 
-      <lb ed="#B" n="76"/>relicto: et habet hic numerus diuidi contra 
-      digi<lb ed="#B" n="77" break="no"/>tum: quae est numerus infra denarium constitutus: et 
-      <lb ed="#B" n="78"/>compositum: quae ex articulo et digito permiscetur. 
-      <lb ed="#B" n="79"/>Et inde est quod in naturali philosophia iuncturae dicum 
-      <lb ed="#B" n="80"/>tur articuli: vnde in theologia dictus est articu 
-      <lb ed="#B" n="81"/>lus quaedam smina in brevi comprehensa: quem 
-      ar<lb ed="#B" n="82" break="no"/>ticulum in theologia Richar. de sancto vic. 
-      diffi<lb ed="#B" n="83" break="no"/>niens dicit. Articulus est indiuisibilis mentis 
-      <lb ed="#B" n="84"/>veritas / de deo artans nos ad credendum. 
-      <lb ed="#B" n="85"/>Ubi tria tanguntur. Primo tangitur esse ipsius 
-      <lb ed="#B" n="86"/>dum dicitur / veritas indiuisibilis: non quia sit 
-      sim<lb ed="#B" n="87" break="no"/>plicitur indiuisibilis: sed respectiue: quia magna 
-      <lb ed="#B" n="88"/>mysteria in quolibet continentur articulo. Se 
-      <lb ed="#B" n="89"/>cundo tangitur subiectum articuli / dum dicitur / mem 
-      <lb ed="#B" n="90"/>tis: est enim fidei articulus / sicut fides in 
-      intel<lb ed="#B" n="91" break="no"/>lectu / non in voluntate. Tertio tangitur effectus 
-      <lb ed="#B" n="92"/>articuli / dum dicitur / artans nos ad credendum 
-      <lb ed="#B" n="93"/>de deo scilicet Unde Isid. articulum diffiniens 
-      di<lb ed="#B" n="94" break="no"/>cit. Articulus est perceptio diuinae veritatis in 
-      <lb ed="#B" n="95"/>tendens in ipsam: vnde et in fide nostra tres quaternarii 
-      <lb ed="#B" n="96"/>seu. 12. repariuntur articuli: quas doc. deuo. 
-      insi<lb ed="#B" n="97" break="no"/>nuat. q. 1. artic. 1. dis. 25. hoc modo ab apostolis 
-      <lb ed="#B" n="98"/>confectos. Petius primum composuit dum dicit: 
-      <!--602.xml-->
-      <pb ed="#B" n="293-r"/>
-                  <cb ed="#B" n="a"/>
-                  <lb ed="#B" n="1"/>Credo in deum patrem omnipotentem creatorem 
-      cae<lb ed="#B" n="2" break="no"/>li et terrae. Secundum andreas. Et in iesum christum 
-      <lb ed="#B" n="3"/>filium eius vnicum dominum nostrum. Tertium Ioannes 
-      <lb ed="#B" n="4"/>Qui conceptus est de spiritu sancto natus ex maria vir 
-      <lb ed="#B" n="5"/>gine. Quartum Iacobus maior. Passus sub 
-      <lb ed="#B" n="6"/>pontio pilato / crucifixus / mortuus et sepultus. 
-      <lb ed="#B" n="7"/>Quintum Thomas. Descendit ad inferna: 
-      <lb ed="#B" n="8"/>tertia die resurrexit a mortuis. Sextum ia 
-      <lb ed="#B" n="9"/>cobus minor. Ascendit ad caelos: sedet ad de 
-      <lb ed="#B" n="10"/>xteram dei patris omnipotentis. Septimum 
-      Phi<lb ed="#B" n="11" break="no"/>lippus. Inde venturus est iudicare viuos et 
-      <lb ed="#B" n="12"/>mortuos. Octauum Bartholomeus. Credo 
-      <lb ed="#B" n="13"/>in spiritum sanctum. Nonum Mattheus. Sanctam 
-      ec<lb ed="#B" n="14" break="no"/>clesiam cathollcam. Decimum Simon chana 
-      <lb ed="#B" n="15"/>neus. Sanctorum communionem / remissionem peccatorum. 
-      <lb ed="#B" n="16"/>Undecimum Iudas thadeus. Carnis resur 
-      <lb ed="#B" n="17"/>rectionem. Duodecimum Matthias. Et 
-      vi<lb ed="#B" n="18" break="no"/>tam eternam. Amen. Sed notandum quod in ista 
-      distin<lb ed="#B" n="19" break="no"/>ctione articulorum in aliquibus contradicit doc. sub. 1. q. 
-      <lb ed="#B" n="20"/>35. di. doc. deuo. Nam secundum articulum quem 
-      <lb ed="#B" n="21"/>attribuit doc. deuo. Andreae: doc. sub. Id 
-      <lb ed="#B" n="22"/>anni euangi. attribuit. Articulum vero concepti 
-      <lb ed="#B" n="23"/>onis et natiuitatis: quae apud doc. deuo. est 
-      <lb ed="#B" n="24"/>Idamnis euangstin. apud subti. est Iacobi cebe 
-      <lb ed="#B" n="25"/>dei. Articulum rursus passionis andreae 
-      tri<lb ed="#B" n="26" break="no"/>buit: quem doc. deuo. iacobo maiori dona 
-      <lb ed="#B" n="27"/>bat. Rursus illum articulum quem thomae 
-      tra<lb ed="#B" n="28" break="no"/>didit doc. deuo scilicet descendit ad inferna: tertia 
-      <lb ed="#B" n="29"/>die resurrexit a mortuis. Secundo in duos scient 
-      <lb ed="#B" n="30"/>dit: et primam partem philippo / secundam thomae tri 
-      <lb ed="#B" n="31"/>buit. Ascensionem autem quam Bonauem. iacobo 
-      <lb ed="#B" n="32"/>minori donat: doc. sub. bartholomeo 
-      insi<lb ed="#B" n="33" break="no"/>nuat habere. Aduentus ad iudicium apud doc. sub 
-      <lb ed="#B" n="34"/>ti. est matthaei: apud deuo:. philippi. Articu 
-      <lb ed="#B" n="35"/>lum de persona spiritus sancti Scndo alphei iacobi 
-      <lb ed="#B" n="36"/>dicit non bartholomei: sicut doc. deuo. Hoc 
-      <lb ed="#B" n="37"/>totum / sanctam ecclesiam catholicam / sanctorum communio 
-      <lb ed="#B" n="38"/>nem: repugnat doc. sub. vnum articulum: et 
-      si<lb ed="#B" n="39" break="no"/>moni chananaeo attribuit. Doc. deuo. po 
-      <lb ed="#B" n="40"/>nit duos: et primam partem dat matthaeo et secundam 
-      <lb ed="#B" n="41"/>chananaeo. Remissionem peccatorum est arti. secundum 
-      <lb ed="#B" n="42"/>doc. sub. et est iudae iacobi seu thadei. Apud 
-      <lb ed="#B" n="43"/>deuo. est solum pars articuli simonis chananaei. 
-      <lb ed="#B" n="44"/>Carnis resurrectionem et vitam aeternam amen: 
-      <lb ed="#B" n="45"/>solum est vnus articulus a doc. sub. quem sub du 
-      <lb ed="#B" n="46"/>bio matthiae / aut iterum thomae dat secundum doc. 
-      <lb ed="#B" n="47"/>deuo: sunt duo articuli. Et prima pars est Indae 
-      <lb ed="#B" n="48"/>thadaei / secunda matthiae: vt concludatur quod in 
-      assi<lb ed="#B" n="49" break="no"/>gnatione articulorum doc. deuo. et subti. solum 
-      <!--602.xml-->
-      <cb ed="#B" n="b"/>
-                  <lb ed="#B" n="50"/>in principio conueniunt: quia ambo ponunt primum 
-      <lb ed="#B" n="51"/>articulum esse Petri apostoli.
-</p>
-               <p xml:id="WuV37d-f34989-d1e798">
-¶ Tertius 
-      ter<lb ed="#B" n="52" break="no"/>minus est simbolum. et dicitur a sim quod est si 
-      <lb ed="#B" n="53"/>mul/ et bole suina / quasi simul sanima. Unde tria in 
-      <lb ed="#B" n="54"/>theologia simbola inueniuntur. Primum 
-      <lb ed="#B" n="55"/>apitulorum: vbi sunt. 12. articuli modo nominati. Se 
-      <lb ed="#B" n="56"/>cundum simbolum nicenum: quod in nicea ciuitate 
-      <lb ed="#B" n="57"/>sub Constantino augusto in praesentia. 36o. episcopo 
-      <lb ed="#B" n="58"/>rum confectum est: et ibidem arriana haeresis con 
-      <lb ed="#B" n="59"/>demnata: vt notatur in decre. di. 15. c. 
-      cano<lb ed="#B" n="60" break="no"/>nes. Tertium simbolum dicitur Athanasii: quod 
-      <lb ed="#B" n="61"/>incipit: Quicumque vult saluus esse. Et tan 
-      <lb ed="#B" n="62"/>tum de primo articulo. 
-      <lb ed="#B" n="63"/>Quantum ad secundum 
-      arti<lb ed="#B" n="64" break="no"/>culum  
-      <lb ed="#B" n="65"/>sunt tres conclusiones iuxta has tres dist. 
-      Pri<lb ed="#B" n="66" break="no"/>ma est de fidei essentia: quae ad. 23. dis. Secunda 
-      <lb ed="#B" n="67"/>de articulorum fidei obiecto seu materia: quae 
-      <lb ed="#B" n="68"/>ad. 24. Tertia de simboli sufficientia et ne 
-      <lb ed="#B" n="69"/>cessitate ad salutem: qua ad. 25.
-</p>
-               <p xml:id="WuV37d-f34989-d1e841">
-¶ Prima 
-      <lb ed="#B" n="70"/>igitur est haec. Uirtus fidei tam informis quam 
-      for<lb ed="#B" n="71" break="no"/>matae in intellectum infusae creduntur a deo. Dicit 
-      pri<lb ed="#B" n="72"/> 
-                  <lb ed="#B" n="73"/>mata est virtus. Ubi primo notandum quod fides in 
-      <lb ed="#B" n="74"/>formis dicitur: quando in habente fidem non est charitas: 
-      <lb ed="#B" n="75"/>quae dicitur forma virtutum: non quin habeat propriam 
-      fi<lb ed="#B" n="76" break="no"/>dei formam: alioquin non esset fides: sed non habet 
-      il<lb ed="#B" n="77" break="no"/>lum decorem extrinsecum / quo dicitur forma extrinseca: 
-      <lb ed="#B" n="78"/>Fides dero formata dicitur / quando est cum charitate. 
-      <lb ed="#B" n="79"/>Probatur igitur quod ambae sint virtus. Unde aug. 
-      <lb ed="#B" n="80"/>in li. de vera inocentia. Cum caeterae virtutes pos 
-      <lb ed="#B" n="81"/>sint et bonis et malis esse cones: sola dilectio est 
-      <lb ed="#B" n="82"/>propria et specialis virtus piorum atque sanctorum. 
-      Re<lb ed="#B" n="83" break="no"/>linquitur igitur fidem informen esse virtutem: dato quod 
-      <lb ed="#B" n="84"/>non sit charitas. De formata quippe dubium 
-      <lb ed="#B" n="85"/>non est. Confirmatur: quia talis fides est circa maxime 
-      <lb ed="#B" n="86"/>difficilia: captiuat enim intellectum suum in his quae 
-      <lb ed="#B" n="87"/>sunt supra rationem. Sed est ne fides informis et for 
-      <lb ed="#B" n="88"/>mata eadem: Dicendum vt dicit doc. deuo. ar 
-      <lb ed="#B" n="89"/>ti. 2. di. 23. q. 4. In fide informi tres sunt ha 
-      <lb ed="#B" n="90"/>bitus / vsus / et defectus scilicet informitas. Quantum 
-      <lb ed="#B" n="91"/>ad defectum non sunt idem: charitas eim illum 
-      eua<lb ed="#B" n="92" break="no"/>cuat defectum. Quantum rursus ad vsum non sunt 
-      <lb ed="#B" n="93"/>funditus idem: fides enim formata credit meri 
-      <lb ed="#B" n="94"/>torie non informis. Quantum autem ad habitum 
-      <lb ed="#B" n="95"/>sunt penitus idem. Dum nempe homo peccat 
-      morta<lb ed="#B" n="96" break="no"/>litur: ille idem numero habitus quae per charitatem 
-      for<lb ed="#B" n="97" break="no"/>matafides dicebatur: tunc absentia charita 
-      <lb ed="#B" n="98"/>tis informis nominatur. Ex quo clare infertur quod non est 
-      <!--603.xml-->
-      <pb ed="#B" n="293-v"/>
-                  <cb ed="#B" n="a"/>
-                  <lb ed="#B" n="1"/>idem fides informis et acquisita: fides enim infor 
-      <lb ed="#B" n="2"/>mis est infusa sicut et formata / cum idem sit: ac 
-      <lb ed="#B" n="3"/>quisita autem non: esset enim oppositum in 
-      adiecto<lb ed="#B" n="4" break="no"/>Patet rursus verum illud quod in. 23. dist. 
-      di<lb ed="#B" n="5" break="no"/>cit doctor subtilis: quod non apparet 
-      necessi<lb ed="#B" n="6" break="no"/>tas ad ponendum fidem infusam / nisi ecclesie au 
-      <lb ed="#B" n="7"/>ctoritas et doctorum: eadem enim quae per infusam 
-      <lb ed="#B" n="8"/>credimus fidem / credimus et acquisitam. 
-      Pa<lb ed="#B" n="9" break="no"/>tet exemplo. Detur enim casus quod vnus puer 
-      <lb ed="#B" n="10"/>iudeorum non baptigatus nutriatur cum christia 
-      <lb ed="#B" n="11"/>nis: certum est quod non habebit fidem infusam: et 
-      <lb ed="#B" n="12"/>tamen illa eadem poterit credere qua christianus: 
-      <lb ed="#B" n="13"/>si audiat legi facta christi et articulos: et vnde 
-      <lb ed="#B" n="14"/>hoc nisi fide acquisita: Confirmatur: quia 
-      la<lb ed="#B" n="15" break="no"/>psus in haeresim circa vnum fidei articulum: 
-      <lb ed="#B" n="16"/>perdit fidem infusam penitus: et tamen ad  
-      <lb ed="#B" n="17"/>huc fide acquisita caeteros credit 
-      articu<lb ed="#B" n="18" break="no"/>los: vnde fides acquisita praesentare videtu 
-      <lb ed="#B" n="19"/>credibilia fidei infusae. Dato nempe quod 
-      vn<lb ed="#B" n="20" break="no"/>puer bapticatus immediate post baptismum 
-      <lb ed="#B" n="21"/>intraret nemora / non audiens fidem christi 
-      <lb ed="#B" n="22"/>nec habens aliquam sidem praeter infusam: nui 
-      <lb ed="#B" n="23"/>quam per fidem infusam exibit in actum fidei / nis 
-      <lb ed="#B" n="24"/>habeat aliud privilegium. Sed dicit alia pare 
-      <lb ed="#B" n="25"/>conclusionis / quod fides est in intellectu: patet: 
-      <lb ed="#B" n="26"/>quia in eadem potentia est virtus theologica. 
-      <lb ed="#B" n="27"/>et dos illi succedens: cum igitur visio quae fidei 
-      <lb ed="#B" n="28"/>succedit sit in intellectu: sequitur etiam etc. Con 
-      <lb ed="#B" n="29"/>firmatur: quia virtutibus theologicis tota anima re 
-      <lb ed="#B" n="30"/>formatur: non reperitur autem nec spes nec cha 
-      <lb ed="#B" n="31"/>ritas in intellectu: ergo oportet ponere ipsam 
-      <lb ed="#B" n="32"/>fidem. Unde Augustinus psam fidem diffiniens 
-      <lb ed="#B" n="33"/>dicit: quod fides est cogitare cum assertione. 
-      <lb ed="#B" n="34"/>Cum igitur cogitare sit intellectus: 
-      sequi<lb ed="#B" n="35" break="no"/>tur quod et fides: quia in lib. de somno et vigslin. 
-      di<lb ed="#B" n="36" break="no"/>citur. Eius est actus cuius habitus / et econ 
-      <lb ed="#B" n="37"/>tra. Et Orego. illud exponens apostoli. Fides 
-      <lb ed="#B" n="38"/>ex auditu: dicit. Dat intellectum dum de 
-      au<lb ed="#B" n="39" break="no"/>ditis intellectum illustrat. Nec obuiat di 
-      <lb ed="#B" n="40"/>cto illud quod dicit Hugo de sancto Un 
-      <lb ed="#B" n="41"/>ctore. quod scilicet materiale fidei est solum in intello 
-      <lb ed="#B" n="42"/>ctu sed formale in voluntate seu substantia. 
-      <lb ed="#B" n="43"/>Uoluit enim dicere quod quo ad hoc quod fides vlti 
-      <lb ed="#B" n="44"/>mum suum habeat complementum: oportet quod 
-      tem<lb ed="#B" n="45" break="no"/>dat per dilectionem in voluntatem: et dicatur quod 
-      fi<lb ed="#B" n="46" break="no"/>des per dilectionem operatur.
-</p>
-               <p xml:id="WuV37d-f34989-d1e1012">
-¶ Secunda 
-      con<lb ed="#B" n="47" break="no"/>clusio est de obiecto seu materia articu 
-      <lb ed="#B" n="48"/>lorum fidei: et est haec. Fidei articuli de increa 
-      <lb ed="#B" n="49"/>to et creatis lumine supernaturali immedia¬ 
-      <!--603.xml-->
-      <cb ed="#B" n="b"/>
-                  <lb ed="#B" n="50"/>te gloriae communiuncto lumini primae innituntur ve 
-      <lb ed="#B" n="51"/>ritati. Dicit prima pars conclusionis / quod 
-      articu<lb ed="#B" n="52" break="no"/>li fidei sunt de increato et creatis: patet 
-      lu<lb ed="#B" n="53" break="no"/>cide: quia aliqui articuli aspiciunt diuinitatem et 
-      <lb ed="#B" n="54"/>tres personas: et hi sunt de increato: aliqui 
-      pas<lb ed="#B" n="55" break="no"/>sionem et mortem etc. et hi sunt de creato: nec 
-      <lb ed="#B" n="56"/>tamen variatur fides / vt sit alia fides increatii 
-      <lb ed="#B" n="57"/>alia creature: sicut alius habitus est sapienia quae est 
-      <lb ed="#B" n="58"/>de aeternis / alius scientia de creaturis. Cuius ratio: 
-      <lb ed="#B" n="59"/>quia hi habitus sunt de creato et increato 
-      sub<lb ed="#B" n="60" break="no"/>suis propriis rationibus: non sic fides: sed solu 
-      <lb ed="#B" n="61"/>inquantum deo credimus quem veracem repu 
-      <lb ed="#B" n="62"/>tamus / et non potentem mentiri: vnde sicuti si 
-      <lb ed="#B" n="63"/>crederem petrum veracem: eadem fide qua ipsut 
-      <lb ed="#B" n="64"/>veracem crederem: et vera qua mihi diceret cre 
-      <lb ed="#B" n="65"/>derem: sic in proposito. Ex quo manifeste 
-      infer<lb ed="#B" n="66" break="no"/>tur / quod fidei nequit subesse falsum / seu fidei 
-      <lb ed="#B" n="67"/>articulis. Patet vltra fidem non habere nec 
-      <lb ed="#B" n="68"/>vnitatem nec distinctionem a suo obiecto seu 
-      <lb ed="#B" n="69"/>materia: sicuti nec habet esse. Ex quo infertur 
-      <lb ed="#B" n="70"/>non esse magnum fidem esse non apparentium: cum 
-      <lb ed="#B" n="71"/>obiectum non moueat in habitu fidei ad noti 
-      <lb ed="#B" n="72"/>ciam sui: obiectum dico in ratione obiecti: licet bene  
-      <lb ed="#B" n="73"/>ratione causae efficientis. Et patet quod obiectum fidei 
-      <lb ed="#B" n="74"/>potest dici et complexum et incomplexum. Et si dicatur 
-      <lb ed="#B" n="75"/>complexum / alia est formalitur fides patrum / alia 
-      <lb ed="#B" n="76"/>nostra: nam iesum quem credebant incarnandum nos 
-      <lb ed="#B" n="77"/>credimus incarnatum / ita de aliis. Si autem 
-      di<lb ed="#B" n="78" break="no"/>catur incomplexum: eadem extat fides formaliter et 
-      <lb ed="#B" n="79"/>eiusdem: credebant enim incarnationem / et nos 
-      cre<lb ed="#B" n="80" break="no"/>dimus passionem: et sic de aliis. Dico autem 
-      cre<lb ed="#B" n="81" break="no"/>dere aut explicite aut implicite: sicut patebit 
-      <lb ed="#B" n="82"/>in sequenti conclusione: et patet fidem esse de 
-      sensibi<lb ed="#B" n="83" break="no"/>libus: sicut christum nasci /mori / pati etc. et de 
-      <lb ed="#B" n="84"/>intelligibilibus: vt deum vnum / trinum / et reliqua 
-      <lb ed="#B" n="85"/>de malis: vt est poena reproborum de bonis / vt 
-      <lb ed="#B" n="86"/>est glsia bonorum. Sed dicit secunda pars conclusio 
-      <lb ed="#B" n="87"/>nis / quod lumen fidei est immediate coniunctum lumi 
-      <lb ed="#B" n="88"/>glesiae: ita quod non est lumen tertium medium: quod qui 
-      <lb ed="#B" n="89"/>dem sit maius lumine fidei et minus lumine gliae: 
-      <lb ed="#B" n="90"/>sicut innuit doc. sollem. quali. 5. q. 9. vnde habitum 
-      <lb ed="#B" n="91"/>glie solum locat in guliosis in caelo / habitum fidei 
-      <lb ed="#B" n="92"/>in omnibus fidelibus / habitum medium in maioribus 
-      <lb ed="#B" n="93"/>ppostoli: quo alios habent ex officio regere: et spnt 
-      <lb ed="#B" n="94"/>veluti speculum in ppitulo: de quibus scriptum esti: 
-      <lb ed="#B" n="95"/>Suscipiant montes pacem popitulo / et colles 
-      iu<lb ed="#B" n="96" break="no"/>sticiam. Hoc quippe parum est: cum nullus sentiet in 
-      <lb ed="#B" n="97"/>se illud lumen medium: nec videatur posse fun 
-      <lb ed="#B" n="98"/>dari in lumine fi dei. Unde diligenter notandae 
-      <!--604.xml-->
-      <pb ed="#B" n="294-r"/>
-                  <cb ed="#B" n="a"/>
-                  <lb ed="#B" n="1"/>sunt rationes doc. subti. i. 24. dist. contra hunc 
-      <lb ed="#B" n="2"/>modum ponendi. Ex quo patet vltra theologi 
-      <lb ed="#B" n="3"/>am proprie non esse scientiam / cum fidei innitatur: et 
-      <lb ed="#B" n="4"/>ita non habeat euidentiam ex ratione obiecti: quae 
-      <lb ed="#B" n="5"/>tamen est conditio scientie: vt patet in. 1 posteriorum: 
-      <lb ed="#B" n="6"/>vnde infertur quod non est theologia scientia 
-      subalter<lb ed="#B" n="7" break="no"/>nata theologiae beatorum: vt in secunda secundae loquitur 
-      <lb ed="#B" n="8"/>sanctus Tho. Patet: quia negato superiori. scilicet 
-      <lb ed="#B" n="9"/>scientia a theologia: patet quod negatur inferius: sicut qua 
-      <lb ed="#B" n="10"/>lapidem negat esse animal / negat esse hominem. 
-      </p>
-               <p xml:id="WuV37d-f34989-d1e1160">
-                  <lb ed="#B" n="11"/>¶ Tertia conclusio est de simboli suffici 
-      <lb ed="#B" n="12"/>entia et necessitate ad salutem: et est haec. 
-      Im<lb ed="#B" n="13" break="no"/>plicite non explicite / omnes fideles catholici 
-      <lb ed="#B" n="14"/>omnia tenentur fidei simbola credere. Proba 
-      <lb ed="#B" n="15"/>tur conclusio breviter: quia omnis fidelis catholicus 
-      <lb ed="#B" n="16"/>debet implicite credere illud quod credit 
-      ec<lb ed="#B" n="17" break="no"/>clesia: sed ecclesia omnia fidei credit simbola: 
-      <lb ed="#B" n="18"/>igitur. Unde Augustinus ontra fundamentum manichae 
-      <lb ed="#B" n="19"/>orum. Cuangelio non crederem / nisi quia ecclesiae 
-      <lb ed="#B" n="20"/>tatholicae credo: vnde si aliquis pertinacitur crede 
-      <lb ed="#B" n="21"/>ret oppositum alicuius verbi quodcumque sit illud 
-      <lb ed="#B" n="22"/>in biblia / esset haereticus et infidelis iudicandus: ex 
-      <lb ed="#B" n="23"/>to quod ecclesia illud credit: dixi tamen quod explicite 
-      <lb ed="#B" n="24"/>omnes non tenentur credere omnia simbola: patet de 
-      <lb ed="#B" n="25"/>rudibus hominibus qua vix possunt concipere grossissima: 
-      <lb ed="#B" n="26"/>quanto minus subtilia multa quae in talibus simbolus 
-      <lb ed="#B" n="27"/>includuntur. Ex quo patet fidem omnia credenda ad 
-      <lb ed="#B" n="28"/>sufficientiam continere. Patet secundo multa impli 
-      <lb ed="#B" n="29"/>cite credi in antiquo testamento solum: quo modo 
-      cre<lb ed="#B" n="30" break="no"/>di opertet explicite: sicuti est natiuitas domini 
-      <lb ed="#B" n="31"/>aut trinitas personarum: nisi aliquibus esset facta 
-      <lb ed="#B" n="32"/>ex speciali reuelatio sicuti abraae aut mo 
-      vsi<lb ed="#B" n="33" break="no"/>aut aliquibus aliis: vnde necessaria ad salutem qua 
-      <lb ed="#B" n="34"/>ad fidem sunt haec duo: Credere deum et crede 
-      <lb ed="#B" n="35"/>re redemptionem humani generis: et sine his du 
-      <lb ed="#B" n="36"/>obus nemini fuit salus. Ex quo patet clare fidei 
-      <lb ed="#B" n="37"/>profectus / tam quo ad sui explicationem quam quo 
-      <lb ed="#B" n="38"/>ad numerum credibilium. Unde et fidei noticia 
-      <lb ed="#B" n="39"/>clarior est modo quam erat antiquitus / loquendo 
-      <lb ed="#B" n="40"/>simpliciter: licet eiusdem sit credibilis. 
-      <lb ed="#B" n="41"/>Quantum ad tertium 
-      arti<lb ed="#B" n="42" break="no"/>culum 
-      <lb ed="#B" n="43"/>sunt tres difficultaxes iuxta tres 
-      conclu<lb ed="#B" n="44" break="no"/>inones.
-</p>
-               <p xml:id="WuV37d-f34989-d1e1236">
-¶ Prima est: vtrum habitus fidei 
-      <lb ed="#B" n="45"/>lsit practicus vel speculatiuus? Tho. dicit. q. 
-      <lb ed="#B" n="46"/>3. arti. 2. 23. dist. quod est practicus et speculati 
-      <lb ed="#B" n="47"/>uus simul: sed principalitur est speculatiuus: 
-      <lb ed="#B" n="48"/>quia primae innititur veritati: practicus vero inquan 
-      <lb ed="#B" n="49"/>tum dirigit in opus. Sed hoc non videtur dicere 
-      <!--604.xml-->
-      <cb ed="#B" n="b"/>
-                  <lb ed="#B" n="50"/>eundem habitum simul practicum et speculati 
-      <lb ed="#B" n="51"/>uum: cum sint drisentiae oppositae habitus. Unde 
-      <lb ed="#B" n="52"/>simpliciter dicendum quod fides est habitus 
-      practi<lb ed="#B" n="53" break="no"/>cus: quia visio quae etiam fidei succedit est 
-      practi<lb ed="#B" n="54" break="no"/>ca. Unde bene Paulus dicit: quod finis legis est 
-      <lb ed="#B" n="55"/>dilectio omni credenti.
-</p>
-               <p xml:id="WuV37d-f34989-d1e1267">
-¶ Secunda difficul 
-      <lb ed="#B" n="56"/>tas. An vnus fidei articulus per alium probe 
-      <lb ed="#B" n="57"/>tur? Dicit doctor subtilis. 24. distin. quod non: 
-      <lb ed="#B" n="58"/>vnde illa argumentatio apostoli: Si mortui non 
-      <lb ed="#B" n="59"/>resurgunt / nec christus resurrexit: non est ar 
-      <lb ed="#B" n="60"/>gumentatio proprie dicta. Eodem enim modo 
-      cre<lb ed="#B" n="61" break="no"/>do resurrectionem mortuorum quo credo 
-      <lb ed="#B" n="62"/>resurrectionem Iesu christi / et econtra: quia scilice 
-      <lb ed="#B" n="63"/>ecclesiae credo quae hoc credit: vnde 
-      relinqui<lb ed="#B" n="64" break="no"/>tur quod est solum quaedam manuductio.
-</p>
-               <p xml:id="WuV37d-f34989-d1e1289">
-¶ Ter 
-      <lb ed="#B" n="65"/>tia difficultas. Si quilibet christianus 
-      te<lb ed="#B" n="66" break="no"/>neatur scire explicite duodecim articulos s 
-      <lb ed="#B" n="67"/>simboli apostolici? Dicit doc. sub. q. 1. di. 25. 
-      <lb ed="#B" n="68"/>quod non / maxime homines rudes: tenentur tamen 
-      <lb ed="#B" n="69"/>omnes scire implicite / alios autem 
-      explici<lb ed="#B" n="70" break="no"/>te / vt grossiores: vt quae pertinent ad humani 
-      <lb ed="#B" n="71"/>tatem: veluti est natiuitas christi / mors et 
-      re<lb ed="#B" n="72" break="no"/>surrectio etc. Ex quo patet ad. q. quod videli 
-      <lb ed="#B" n="73"/>cet cuiuslibet simboli atque articli fidei 
-      co<lb ed="#B" n="74" break="no"/>gnitio ad salutem hominis implicite / non explicite 
-      <lb ed="#B" n="75"/>in omnibus requiratur. Tunc ad argumenta. 
-      </p>
-               <p xml:id="WuV37d-f34989-d1e1316">
-                  <lb ed="#B" n="76"/>¶ Ad primum negatur maior. Licet enim de  
-      <lb ed="#B" n="77"/>communi cursu prius illuminentur angeli quam 
-      ho<lb ed="#B" n="78" break="no"/>mines: non tamen de necessitate: ideo potuit de 
-      <lb ed="#B" n="79"/>us reuelare homin pro sua salute quod 
-      ange<lb ed="#B" n="80" break="no"/>lus ignorabat. Nec obuiat quod angelus est 
-      <lb ed="#B" n="81"/>capacioris intelligentiae ipso homine: hoc enim 
-      <lb ed="#B" n="82"/>bene arguitur in his quae naturaliter 
-      cognoscun<lb ed="#B" n="83" break="no"/>tur: non in illis quae libere a deo infundun 
-      <lb ed="#B" n="84"/>tur sicut est in proposito.
-</p>
-               <p xml:id="WuV37d-f34989-d1e1338">
-¶ Ad secundum to 
-      <lb ed="#B" n="85"/>tum conceditur: hoc addendo quod in maiori 
-      <lb ed="#B" n="86"/>bus est peccatum negligentiae: nisi insudent di 
-      <lb ed="#B" n="87"/>ligenter vt cognitionem habeant explicitam 
-      <lb ed="#B" n="88"/>credendorum: quia sunt oculi populorum. Et 
-      di<lb ed="#B" n="89" break="no"/>cit hic doctor sub. quod credit nihil esse expli 
-      <lb ed="#B" n="90"/>citum in nouo testamento / quan in alio sensu / vl 
-      <lb ed="#B" n="91"/>tropologico / vel anagogico / vel allegori 
-      <lb ed="#B" n="92"/>co / in antiquo queat reperiri: licet non 
-      sem<lb ed="#B" n="93" break="no"/>per in litterali: vt sit rota inmedio rote: id 
-      <lb ed="#B" n="94"/>est nouum in antiquo testamento.
-</p>
-               <p xml:id="WuV37d-f34989-d1e1362">
-¶ Ad 
-      ter<lb ed="#B" n="95" break="no"/>tium dicendum tam ad maiorem quam ad mino 
-      <lb ed="#B" n="96"/>tem: quod est duplex potentia in deo / et duplex ne 
-      <lb ed="#B" n="97"/>cessitas. De potentia quidem dei absoluta 
-      po<lb ed="#B" n="98" break="no"/>test deus bominem sine fide saluare: quia pos 
-      <!--605.xml-->
-      <pb ed="#B" n="294-v"/>
-                  <cb ed="#B" n="a"/>
-                  <lb ed="#B" n="1"/>tuit non incarnari. De potentia autem 
-      ordina<lb ed="#B" n="2" break="no"/>ta non: quia ita ordinauit: vt sancti tradunt 
-      <lb ed="#B" n="3"/>doctores. Rursus loquendo de 
-      necessita<lb ed="#B" n="4" break="no"/>te absoluta: potest saluari homo sine fide: sicut 
-      <lb ed="#B" n="5"/>erit in gloria fine fide / sed non de necessitate 
-      <lb ed="#B" n="6"/>conditionata: quia sic est posita conditio vt si 
-      <lb ed="#B" n="7"/>quis velit saluari fidem habeat. Et tantum de 
-      <lb ed="#B" n="8"/>persenti quaestione.
-</p>
-            </div>
-            <div xml:id="WuV37d-f34989-Dd1e1398" type="et-conclusiones">
-               <head xml:id="WuV37d-f34989-Hd1e1400">Conclusiones</head>
-               <p xml:id="WuV37d-f34989-d1e1403">
-¶ Ex his autem tribus 
-      <lb ed="#B" n="9"/>distin. sicut etc. tres capiuntur conclusiones: 
-      <lb ed="#B" n="10"/>ne qualibet vna. Prima conclusio. A pau 
-      <lb ed="#B" n="11"/>li scriptura recte dffinitur fidei natura atque 
-      <lb ed="#B" n="12"/>exprimitur. Dicit conclusio quod paulus recte diffi 
-      <lb ed="#B" n="13"/>nit fidem. Et ponitur in virtute per totam distin. 
-      <lb ed="#B" n="14"/>23.
-</p>
-               <p xml:id="WuV37d-f34989-d1e1419">
-¶ Secunda conclusio. De non patenti 
-      fi<lb ed="#B" n="15" break="no"/>des exigit / necnon consistit humanae menti. 
-      <lb ed="#B" n="16"/>Dicit conclusio quod fides est de non 
-      apparem<lb ed="#B" n="17" break="no"/>tibus. Et ponitur per totam. 24. distinctionem. 
-      </p>
-               <p xml:id="WuV37d-f34989-d1e1428">
-                  <lb ed="#B" n="18"/>¶ Tertia conclusio. Fides implicita 
-      neces<lb ed="#B" n="19" break="no"/>se quaeritur / sed non explicita: vt pie creditur. 
-      <lb ed="#B" n="20"/>Dicit conclusio quod fides implicita omnium 
-      cre<lb ed="#B" n="21" break="no"/>dendorum est necesiaria ad salutem / sed non expli 
-      <lb ed="#B" n="22"/>cita. Et ponitur per totam. 25. distinctionem. 
-</p>
-            </div>
-         </div>
-      </body>
-   </text>
+            <lb ed="#B" n="46"/>tur sed ante mortem christi angeli 
+            ignora<lb ed="#B" n="47" break="no"/>bant et incarnationem et passionem: ergo nec 
+            <lb ed="#B" n="48"/>illi de lege mosaica tenebantur illos 
+            co<lb ed="#B" n="49" break="no"/>gnoscere articulos pro salute obtinenda. 
+            <lb ed="#B" n="50"/>Maior patet: quia illuminationes ad nos 
+            <lb ed="#B" n="51"/>veniunt per angelos / non econtra: vnde et 
+            <lb ed="#B" n="52"/>lex Movsi data legitur in ministerio 
+            an<lb ed="#B" n="53" break="no"/>gelico. Sed minor probatur: Tum 
+            aucto<lb ed="#B" n="54" break="no"/>ritate apostoli Pauli: qui dicit: quod sacramen 
+            <lb ed="#B" n="55"/>tum incarnationis christi abscunsum 
+            fu<lb ed="#B" n="56" break="no"/>it principibus et potestatibus in 
+            caelesti<lb ed="#B" n="57" break="no"/>bus. Et in Esaia quaerunt angeli: vt 
+            diui<lb ed="#B" n="58" break="no"/>nus sentit Dionysius. Quis est iste qui 
+            ve<lb ed="#B" n="59" break="no"/>nit de edom tinctis vestibus de bosra: 
+          </p>
+          <p xml:id="WuV37d-f34989-d1e359">
+            <lb ed="#B" n="60"/>¶ Secundo arguitur. Sicut se habet 
+            perfe<lb ed="#B" n="61" break="no"/>cta obedientia ad praeceptum: sic fides ad credi 
+            <lb ed="#B" n="62"/>bilia. Sed nemo tenetur obedire nisi expli 
+            <lb ed="#B" n="63"/>cite fiat praeceptum: ergo nec credere nisi 
+            ex<lb ed="#B" n="64" break="no"/>plicite monstretur. Sed plura sunt credibilia 
+            <lb ed="#B" n="65"/>explicita tam in nouo quam in antiquo testamen 
+            <lb ed="#B" n="66"/>to: ergo plurium in nobis est fides 
+            articulo<lb ed="#B" n="67"/> 
+            <lb ed="#B" n="68"/>portione tam obedientiae quam fidei ad sua 
+            ob<lb ed="#B" n="69" break="no"/>iecta. Minor etiam prima nota est: quia alis 
+            ig<lb ed="#B" n="70" break="no"/>nota praecipientis voluntas iudicatur. Minor 
+            <lb ed="#B" n="71"/>etiam secunda ex eo patet: quia passio christi / nati 
+            <lb ed="#B" n="72"/>uitas / conceptio / et sic de aliis: apartae sunt et 
+            <lb ed="#B" n="73"/>exhibite: quae antiquitus non erant manifestae. 
+          </p>
+          <p xml:id="WuV37d-f34989-d1e392">
+            <lb ed="#B" n="74"/>¶ Tertio arguitur. Nihil est ad salutem ho 
+            <lb ed="#B" n="75"/>minis necessarium / nisi quo potest saluari: 
+            <lb ed="#B" n="76"/>sed sine fide cuiuslibet articuli potest 
+            ho<lb ed="#B" n="77" break="no"/>mo saluari: ergo etc. Maior patet ex 
+            eo<lb ed="#B" n="78" break="no"/>quod necessarium et impossibile no esse 
+            aequipol<lb ed="#B" n="79" break="no"/>lent / ex. 2. peri hermenias. Sed probatur 
+            <lb ed="#B" n="80"/>minor. Tum quia possibile fuit christum non 
+            <lb ed="#B" n="81"/>incarnari: et ita articuli non fuissent ad 
+            hu<lb ed="#B" n="82" break="no"/>manitatem pertinentes. Tum quia fides est 
+            <lb ed="#B" n="83"/>quoddam accidens / in anima existens 
+            ho<lb ed="#B" n="84" break="no"/>minis: et ita eo non posito potest homini 
+            <lb ed="#B" n="85"/>dari salus. Tum tertio: quia in patria sine 
+            fi<lb ed="#B" n="86" break="no"/>de sunt beati: ergo possunt etiam in via: 
+            <lb ed="#B" n="87"/>cum status patriae statui viae succedat / et eun 
+            <lb ed="#B" n="88"/>dem perficiat.
+          </p>
+          <p xml:id="WuV37d-f34989-d1e428">
+            ¶ In oppositum tamen argui 
+            <lb ed="#B" n="89"/>tur ex glo. super illo verbo: vbi dicitur de 
+            le<lb ed="#B" n="90" break="no"/>proso / quod offerat sextarium pro emundatione. 
+            <lb ed="#B" n="91"/>Habet glo. Sextarius est verissima fidei 
+            <lb ed="#B" n="92"/>confessio: vbi si plus est effunditur: si min 
+            <lb ed="#B" n="93"/>est deficit: et ita videtur requiri pro salute hominis 
+            <lb ed="#B" n="94"/>cognitio cuiuslibet articli.
+          </p>
+          <p xml:id="WuV37d-f34989-d1e444">
+            ¶ Inista etc. 
+            <!--601.xml-->
+            <pb ed="#B" n="292-v"/>
+            <cb ed="#B" n="a"/>
+            <lb ed="#B" n="1"/>Primus est terminorum declaratiuus 
+            <lb ed="#B" n="2"/>Quorum Secundus est quaestionis responsiuus. 
+          </p>
+          <p xml:id="WuV37d-f34989-d1e457">
+            <lb ed="#B" n="3"/>¶ Tertius est dubiorum motiuus.  
+            <lb ed="#B" n="4"/>Quo ad primumarticulum ter 
+            <lb ed="#B" n="5"/>mini sunt: 
+            <lb ed="#B" n="6"/>fides / articulus et symbolum.
+          </p>
+          <p xml:id="WuV37d-f34989-d1e468">
+            ¶ Primus 
+            <lb ed="#B" n="7"/>igitur terminus est fides. Unde in 
+            theolo<lb ed="#B" n="8" break="no"/>gia tribus ternariis seu nouem vicibus 
+            so<lb ed="#B" n="9" break="no"/>let accipi fides. Primo accipitur fides pro 
+            <lb ed="#B" n="10"/>sponsione: sicut est illud apostoli. Primam 
+            fi<lb ed="#B" n="11" break="no"/>dem irritam fecerunt. Secundo pro 
+            fidelita<lb ed="#B" n="12" break="no"/>te: sicut illud: Periit fides et sanctus de 
+            ter<lb ed="#B" n="13" break="no"/>ra. Tertio pro conscientia: sicut illud 
+            apo<lb ed="#B" n="14" break="no"/>stoli: Omne quod non est ex fide / peccatum 
+            <lb ed="#B" n="15"/>est. Quarto pro fidei sacramento: sicut dicit 
+            <lb ed="#B" n="16"/>ad Bonifacium Augustinus quod non est aliud 
+            par<lb ed="#B" n="17" break="no"/>uulos habere fidem quam habere fidei sacramentum. 
+            <lb ed="#B" n="18"/>Quinto pro acceptione conclusionis per 
+            rati<lb ed="#B" n="19" break="no"/>onem probatae: sicut accipit Boetius in suis 
+            <lb ed="#B" n="20"/>thopicis / argumentum diffiniens. Argumen 
+            <lb ed="#B" n="21"/>tum est ratio rei dubiae faciens fidem. Sexto 
+            <lb ed="#B" n="22"/>pro cognitione comprhensionis: sicut 
+            scri<lb ed="#B" n="23" break="no"/>bit apostolus. Iusticia dei reuelatur ex 
+            <lb ed="#B" n="24"/>fide in fidem. Slo. Ex fide spei in fidem rei: 
+            <lb ed="#B" n="25"/>quae ideo fides dicitur: quia fidentissima et 
+            <lb ed="#B" n="26"/>certissima est. Septimo pro fidei obiecto: 
+            <lb ed="#B" n="27"/>secundum quod Athanasius in suo symbolo dicit. 
+            <lb ed="#B" n="28"/>Haec est fides catholica etc. Octauo pro 
+            <lb ed="#B" n="29"/>actu fidei: sicut est illud Augus. Fides est 
+            <lb ed="#B" n="30"/>credere quod non vides. Nono pro ipso 
+            fi<lb ed="#B" n="31" break="no"/>dei habitu: sicuti est illud apostoli: Iustus ex 
+            <lb ed="#B" n="32"/>fide viuit. Quae fides sic ab apostuolo describi 
+            <lb ed="#B" n="33"/>tur. Fides est substantia rerum 
+            speranda<lb ed="#B" n="34" break="no"/>rum: argumentum non apparentium. Ubi tria 
+            <lb ed="#B" n="35"/>tanguntur. Primo ipsius fidei origo / 
+            ba<lb ed="#B" n="36" break="no"/>sis seu fundamentum / dum dicitur: Fides est 
+            <lb ed="#B" n="37"/>substantia. Non enim accipitur hic 
+            substan<lb ed="#B" n="38" break="no"/>tia pro predicamento substantiae / sed pro funda 
+            <lb ed="#B" n="39"/>mento: quia fides est fuudamentum virtutum. 
+            <lb ed="#B" n="40"/>Quod clare innuit diffinitio fidei apud 
+            Da<lb ed="#B" n="41" break="no"/>mas. in. 4. suarum sententiarum: eam quae est 
+            apo<lb ed="#B" n="42" break="no"/>stoli declarans: quae est talis. Fides est spe 
+            <lb ed="#B" n="43"/>randarum rerum hypostasis id est suppositum / et 
+            eo<lb ed="#B" n="44" break="no"/>rum qua non videntur redargutio. Secundo tangitur 
+            <lb ed="#B" n="45"/>ipsius fidei finis / dum dicitur: quod fides est 
+            spe<lb ed="#B" n="46" break="no"/>randarum rerum. Fides namque in superna oculum 
+            di<lb ed="#B" n="47" break="no"/>rigit. Hoc modo potest illa fidei diffinitio apud 
+            <lb ed="#B" n="48"/>Augustinus ad consentium intelligi. Fides est illu 
+            <lb ed="#B" n="49"/>minatio mentis ad summam veritatem. Tertio 
+            <!--601.xml-->
+            <cb ed="#B" n="b"/>
+            <lb ed="#B" n="50"/>tangitur obiectum fidei cum modo cognitionis eius 
+            <lb ed="#B" n="51"/>dem / dum dicitur: argumentum non apparentium. 
+            <lb ed="#B" n="52"/>Unde hugo in li. de sacramentis fidem 
+            diffini<lb ed="#B" n="53" break="no"/>ens dicit. Fides est cognitio seu 
+            certitu<lb ed="#B" n="54" break="no"/>do quedam de rebus absentibus / infra 
+            scienti<lb ed="#B" n="55" break="no"/>am / et supra opinionem constituta. Dicitur autem 
+            <lb ed="#B" n="56"/>fides argumentum / quasi argutam mentem 
+            fa<lb ed="#B" n="57" break="no"/>ciens id est claram / superna aliquiliter aspiciendo. Et 
+            <lb ed="#B" n="58"/>differt argumentum in philosophia et theologia: quia 
+            <lb ed="#B" n="59"/>argumentum in philosophia facit fidem. Argumentum 
+            <lb ed="#B" n="60"/>enim est ratio rei dubiae faciens fidem: theologia 
+            <lb ed="#B" n="61"/>vero ipsamet fides argumentum nominatur. Et di 
+            <lb ed="#B" n="62"/>citur fides quasi fiat dictum seu quod dicitur.
+          </p>
+          <p xml:id="WuV37d-f34989-d1e596">
+            ¶ Se 
+            <lb ed="#B" n="63"/>cundus terminus est articulus: ab arto tas. 
+            <lb ed="#B" n="64"/>quia in peruo artatur: vnde hoc nomen fertur primo 
+            <lb ed="#B" n="65"/>ab Empedocle inuentum. Solet autem 
+            arti<lb ed="#B" n="66" break="no"/>culus in tribus liberalibus accipi artibus tri 
+            <lb ed="#B" n="67"/>pliciter. Primo in grammatica dicitur 
+            arti<lb ed="#B" n="68" break="no"/>culus quedam modica dictio cum qua caeterae 
+            <lb ed="#B" n="69"/>inflectuntur dictiones scilicet hic et haec et hoc. Se 
+            <lb ed="#B" n="70"/>cundo dicitur in rhetorica quaedam color rhetori 
+            <lb ed="#B" n="71"/>cus: dum. scilicet punctuatim quodlibet verbum profertur. 
+            <lb ed="#B" n="72"/>Sicut est illud: Ignis i grando / nixi glacies: 
+            <lb ed="#B" n="73"/>quem greci coma nominant. Tertio dicitur arti 
+            <lb ed="#B" n="74"/>culus in arithumetica quadam numerus: qui in decen 
+            <lb ed="#B" n="75"/>diuidi potest per partes aequales / nihil indiuiso 
+            <lb ed="#B" n="76"/>relicto: et habet hic numerus diuidi contra 
+            digi<lb ed="#B" n="77" break="no"/>tum: quae est numerus infra denarium constitutus: et 
+            <lb ed="#B" n="78"/>compositum: quae ex articulo et digito permiscetur. 
+            <lb ed="#B" n="79"/>Et inde est quod in naturali philosophia iuncturae dicum 
+            <lb ed="#B" n="80"/>tur articuli: vnde in theologia dictus est articu 
+            <lb ed="#B" n="81"/>lus quaedam smina in brevi comprehensa: quem 
+            ar<lb ed="#B" n="82" break="no"/>ticulum in theologia Richar. de sancto vic. 
+            diffi<lb ed="#B" n="83" break="no"/>niens dicit. Articulus est indiuisibilis mentis 
+            <lb ed="#B" n="84"/>veritas / de deo artans nos ad credendum. 
+            <lb ed="#B" n="85"/>Ubi tria tanguntur. Primo tangitur esse ipsius 
+            <lb ed="#B" n="86"/>dum dicitur / veritas indiuisibilis: non quia sit 
+            sim<lb ed="#B" n="87" break="no"/>plicitur indiuisibilis: sed respectiue: quia magna 
+            <lb ed="#B" n="88"/>mysteria in quolibet continentur articulo. Se 
+            <lb ed="#B" n="89"/>cundo tangitur subiectum articuli / dum dicitur / mem 
+            <lb ed="#B" n="90"/>tis: est enim fidei articulus / sicut fides in 
+            intel<lb ed="#B" n="91" break="no"/>lectu / non in voluntate. Tertio tangitur effectus 
+            <lb ed="#B" n="92"/>articuli / dum dicitur / artans nos ad credendum 
+            <lb ed="#B" n="93"/>de deo scilicet Unde Isid. articulum diffiniens 
+            di<lb ed="#B" n="94" break="no"/>cit. Articulus est perceptio diuinae veritatis in 
+            <lb ed="#B" n="95"/>tendens in ipsam: vnde et in fide nostra tres quaternarii 
+            <lb ed="#B" n="96"/>seu. 12. repariuntur articuli: quas doc. deuo. 
+            insi<lb ed="#B" n="97" break="no"/>nuat. q. 1. artic. 1. dis. 25. hoc modo ab apostolis 
+            <lb ed="#B" n="98"/>confectos. Petius primum composuit dum dicit: 
+            <!--602.xml-->
+            <pb ed="#B" n="293-r"/>
+            <cb ed="#B" n="a"/>
+            <lb ed="#B" n="1"/>Credo in deum patrem omnipotentem creatorem 
+            cae<lb ed="#B" n="2" break="no"/>li et terrae. Secundum andreas. Et in iesum christum 
+            <lb ed="#B" n="3"/>filium eius vnicum dominum nostrum. Tertium Ioannes 
+            <lb ed="#B" n="4"/>Qui conceptus est de spiritu sancto natus ex maria vir 
+            <lb ed="#B" n="5"/>gine. Quartum Iacobus maior. Passus sub 
+            <lb ed="#B" n="6"/>pontio pilato / crucifixus / mortuus et sepultus. 
+            <lb ed="#B" n="7"/>Quintum Thomas. Descendit ad inferna: 
+            <lb ed="#B" n="8"/>tertia die resurrexit a mortuis. Sextum ia 
+            <lb ed="#B" n="9"/>cobus minor. Ascendit ad caelos: sedet ad de 
+            <lb ed="#B" n="10"/>xteram dei patris omnipotentis. Septimum 
+            Phi<lb ed="#B" n="11" break="no"/>lippus. Inde venturus est iudicare viuos et 
+            <lb ed="#B" n="12"/>mortuos. Octauum Bartholomeus. Credo 
+            <lb ed="#B" n="13"/>in spiritum sanctum. Nonum Mattheus. Sanctam 
+            ec<lb ed="#B" n="14" break="no"/>clesiam cathollcam. Decimum Simon chana 
+            <lb ed="#B" n="15"/>neus. Sanctorum communionem / remissionem peccatorum. 
+            <lb ed="#B" n="16"/>Undecimum Iudas thadeus. Carnis resur 
+            <lb ed="#B" n="17"/>rectionem. Duodecimum Matthias. Et 
+            vi<lb ed="#B" n="18" break="no"/>tam eternam. Amen. Sed notandum quod in ista 
+            distin<lb ed="#B" n="19" break="no"/>ctione articulorum in aliquibus contradicit doc. sub. 1. q. 
+            <lb ed="#B" n="20"/>35. di. doc. deuo. Nam secundum articulum quem 
+            <lb ed="#B" n="21"/>attribuit doc. deuo. Andreae: doc. sub. Id 
+            <lb ed="#B" n="22"/>anni euangi. attribuit. Articulum vero concepti 
+            <lb ed="#B" n="23"/>onis et natiuitatis: quae apud doc. deuo. est 
+            <lb ed="#B" n="24"/>Idamnis euangstin. apud subti. est Iacobi cebe 
+            <lb ed="#B" n="25"/>dei. Articulum rursus passionis andreae 
+            tri<lb ed="#B" n="26" break="no"/>buit: quem doc. deuo. iacobo maiori dona 
+            <lb ed="#B" n="27"/>bat. Rursus illum articulum quem thomae 
+            tra<lb ed="#B" n="28" break="no"/>didit doc. deuo scilicet descendit ad inferna: tertia 
+            <lb ed="#B" n="29"/>die resurrexit a mortuis. Secundo in duos scient 
+            <lb ed="#B" n="30"/>dit: et primam partem philippo / secundam thomae tri 
+            <lb ed="#B" n="31"/>buit. Ascensionem autem quam Bonauem. iacobo 
+            <lb ed="#B" n="32"/>minori donat: doc. sub. bartholomeo 
+            insi<lb ed="#B" n="33" break="no"/>nuat habere. Aduentus ad iudicium apud doc. sub 
+            <lb ed="#B" n="34"/>ti. est matthaei: apud deuo:. philippi. Articu 
+            <lb ed="#B" n="35"/>lum de persona spiritus sancti Scndo alphei iacobi 
+            <lb ed="#B" n="36"/>dicit non bartholomei: sicut doc. deuo. Hoc 
+            <lb ed="#B" n="37"/>totum / sanctam ecclesiam catholicam / sanctorum communio 
+            <lb ed="#B" n="38"/>nem: repugnat doc. sub. vnum articulum: et 
+            si<lb ed="#B" n="39" break="no"/>moni chananaeo attribuit. Doc. deuo. po 
+            <lb ed="#B" n="40"/>nit duos: et primam partem dat matthaeo et secundam 
+            <lb ed="#B" n="41"/>chananaeo. Remissionem peccatorum est arti. secundum 
+            <lb ed="#B" n="42"/>doc. sub. et est iudae iacobi seu thadei. Apud 
+            <lb ed="#B" n="43"/>deuo. est solum pars articuli simonis chananaei. 
+            <lb ed="#B" n="44"/>Carnis resurrectionem et vitam aeternam amen: 
+            <lb ed="#B" n="45"/>solum est vnus articulus a doc. sub. quem sub du 
+            <lb ed="#B" n="46"/>bio matthiae / aut iterum thomae dat secundum doc. 
+            <lb ed="#B" n="47"/>deuo: sunt duo articuli. Et prima pars est Indae 
+            <lb ed="#B" n="48"/>thadaei / secunda matthiae: vt concludatur quod in 
+            assi<lb ed="#B" n="49" break="no"/>gnatione articulorum doc. deuo. et subti. solum 
+            <!--602.xml-->
+            <cb ed="#B" n="b"/>
+            <lb ed="#B" n="50"/>in principio conueniunt: quia ambo ponunt primum 
+            <lb ed="#B" n="51"/>articulum esse Petri apostoli.
+          </p>
+          <p xml:id="WuV37d-f34989-d1e798">
+            ¶ Tertius 
+            ter<lb ed="#B" n="52" break="no"/>minus est simbolum. et dicitur a sim quod est si 
+            <lb ed="#B" n="53"/>mul/ et bole suina / quasi simul sanima. Unde tria in 
+            <lb ed="#B" n="54"/>theologia simbola inueniuntur. Primum 
+            <lb ed="#B" n="55"/>apitulorum: vbi sunt. 12. articuli modo nominati. Se 
+            <lb ed="#B" n="56"/>cundum simbolum nicenum: quod in nicea ciuitate 
+            <lb ed="#B" n="57"/>sub Constantino augusto in praesentia. 36o. episcopo 
+            <lb ed="#B" n="58"/>rum confectum est: et ibidem arriana haeresis con 
+            <lb ed="#B" n="59"/>demnata: vt notatur in decre. di. 15. c. 
+            cano<lb ed="#B" n="60" break="no"/>nes. Tertium simbolum dicitur Athanasii: quod 
+            <lb ed="#B" n="61"/>incipit: Quicumque vult saluus esse. Et tan 
+            <lb ed="#B" n="62"/>tum de primo articulo. 
+            <lb ed="#B" n="63"/>Quantum ad secundum 
+            arti<lb ed="#B" n="64" break="no"/>culum  
+            <lb ed="#B" n="65"/>sunt tres conclusiones iuxta has tres dist. 
+            Pri<lb ed="#B" n="66" break="no"/>ma est de fidei essentia: quae ad. 23. dis. Secunda 
+            <lb ed="#B" n="67"/>de articulorum fidei obiecto seu materia: quae 
+            <lb ed="#B" n="68"/>ad. 24. Tertia de simboli sufficientia et ne 
+            <lb ed="#B" n="69"/>cessitate ad salutem: qua ad. 25.
+          </p>
+          <p xml:id="WuV37d-f34989-d1e841">
+            ¶ Prima 
+            <lb ed="#B" n="70"/>igitur est haec. Uirtus fidei tam informis quam 
+            for<lb ed="#B" n="71" break="no"/>matae in intellectum infusae creduntur a deo. Dicit 
+            pri<lb ed="#B" n="72"/> 
+            <lb ed="#B" n="73"/>mata est virtus. Ubi primo notandum quod fides in 
+            <lb ed="#B" n="74"/>formis dicitur: quando in habente fidem non est charitas: 
+            <lb ed="#B" n="75"/>quae dicitur forma virtutum: non quin habeat propriam 
+            fi<lb ed="#B" n="76" break="no"/>dei formam: alioquin non esset fides: sed non habet 
+            il<lb ed="#B" n="77" break="no"/>lum decorem extrinsecum / quo dicitur forma extrinseca: 
+            <lb ed="#B" n="78"/>Fides dero formata dicitur / quando est cum charitate. 
+            <lb ed="#B" n="79"/>Probatur igitur quod ambae sint virtus. Unde aug. 
+            <lb ed="#B" n="80"/>in li. de vera inocentia. Cum caeterae virtutes pos 
+            <lb ed="#B" n="81"/>sint et bonis et malis esse cones: sola dilectio est 
+            <lb ed="#B" n="82"/>propria et specialis virtus piorum atque sanctorum. 
+            Re<lb ed="#B" n="83" break="no"/>linquitur igitur fidem informen esse virtutem: dato quod 
+            <lb ed="#B" n="84"/>non sit charitas. De formata quippe dubium 
+            <lb ed="#B" n="85"/>non est. Confirmatur: quia talis fides est circa maxime 
+            <lb ed="#B" n="86"/>difficilia: captiuat enim intellectum suum in his quae 
+            <lb ed="#B" n="87"/>sunt supra rationem. Sed est ne fides informis et for 
+            <lb ed="#B" n="88"/>mata eadem: Dicendum vt dicit doc. deuo. ar 
+            <lb ed="#B" n="89"/>ti. 2. di. 23. q. 4. In fide informi tres sunt ha 
+            <lb ed="#B" n="90"/>bitus / vsus / et defectus scilicet informitas. Quantum 
+            <lb ed="#B" n="91"/>ad defectum non sunt idem: charitas eim illum 
+            eua<lb ed="#B" n="92" break="no"/>cuat defectum. Quantum rursus ad vsum non sunt 
+            <lb ed="#B" n="93"/>funditus idem: fides enim formata credit meri 
+            <lb ed="#B" n="94"/>torie non informis. Quantum autem ad habitum 
+            <lb ed="#B" n="95"/>sunt penitus idem. Dum nempe homo peccat 
+            morta<lb ed="#B" n="96" break="no"/>litur: ille idem numero habitus quae per charitatem 
+            for<lb ed="#B" n="97" break="no"/>matafides dicebatur: tunc absentia charita 
+            <lb ed="#B" n="98"/>tis informis nominatur. Ex quo clare infertur quod non est 
+            <!--603.xml-->
+            <pb ed="#B" n="293-v"/>
+            <cb ed="#B" n="a"/>
+            <lb ed="#B" n="1"/>idem fides informis et acquisita: fides enim infor 
+            <lb ed="#B" n="2"/>mis est infusa sicut et formata / cum idem sit: ac 
+            <lb ed="#B" n="3"/>quisita autem non: esset enim oppositum in 
+            adiecto<lb ed="#B" n="4" break="no"/>Patet rursus verum illud quod in. 23. dist. 
+            di<lb ed="#B" n="5" break="no"/>cit doctor subtilis: quod non apparet 
+            necessi<lb ed="#B" n="6" break="no"/>tas ad ponendum fidem infusam / nisi ecclesie au 
+            <lb ed="#B" n="7"/>ctoritas et doctorum: eadem enim quae per infusam 
+            <lb ed="#B" n="8"/>credimus fidem / credimus et acquisitam. 
+            Pa<lb ed="#B" n="9" break="no"/>tet exemplo. Detur enim casus quod vnus puer 
+            <lb ed="#B" n="10"/>iudeorum non baptigatus nutriatur cum christia 
+            <lb ed="#B" n="11"/>nis: certum est quod non habebit fidem infusam: et 
+            <lb ed="#B" n="12"/>tamen illa eadem poterit credere qua christianus: 
+            <lb ed="#B" n="13"/>si audiat legi facta christi et articulos: et vnde 
+            <lb ed="#B" n="14"/>hoc nisi fide acquisita: Confirmatur: quia 
+            la<lb ed="#B" n="15" break="no"/>psus in haeresim circa vnum fidei articulum: 
+            <lb ed="#B" n="16"/>perdit fidem infusam penitus: et tamen ad  
+            <lb ed="#B" n="17"/>huc fide acquisita caeteros credit 
+            articu<lb ed="#B" n="18" break="no"/>los: vnde fides acquisita praesentare videtu 
+            <lb ed="#B" n="19"/>credibilia fidei infusae. Dato nempe quod 
+            vn<lb ed="#B" n="20" break="no"/>puer bapticatus immediate post baptismum 
+            <lb ed="#B" n="21"/>intraret nemora / non audiens fidem christi 
+            <lb ed="#B" n="22"/>nec habens aliquam sidem praeter infusam: nui 
+            <lb ed="#B" n="23"/>quam per fidem infusam exibit in actum fidei / nis 
+            <lb ed="#B" n="24"/>habeat aliud privilegium. Sed dicit alia pare 
+            <lb ed="#B" n="25"/>conclusionis / quod fides est in intellectu: patet: 
+            <lb ed="#B" n="26"/>quia in eadem potentia est virtus theologica. 
+            <lb ed="#B" n="27"/>et dos illi succedens: cum igitur visio quae fidei 
+            <lb ed="#B" n="28"/>succedit sit in intellectu: sequitur etiam etc. Con 
+            <lb ed="#B" n="29"/>firmatur: quia virtutibus theologicis tota anima re 
+            <lb ed="#B" n="30"/>formatur: non reperitur autem nec spes nec cha 
+            <lb ed="#B" n="31"/>ritas in intellectu: ergo oportet ponere ipsam 
+            <lb ed="#B" n="32"/>fidem. Unde Augustinus psam fidem diffiniens 
+            <lb ed="#B" n="33"/>dicit: quod fides est cogitare cum assertione. 
+            <lb ed="#B" n="34"/>Cum igitur cogitare sit intellectus: 
+            sequi<lb ed="#B" n="35" break="no"/>tur quod et fides: quia in lib. de somno et vigslin. 
+            di<lb ed="#B" n="36" break="no"/>citur. Eius est actus cuius habitus / et econ 
+            <lb ed="#B" n="37"/>tra. Et Orego. illud exponens apostoli. Fides 
+            <lb ed="#B" n="38"/>ex auditu: dicit. Dat intellectum dum de 
+            au<lb ed="#B" n="39" break="no"/>ditis intellectum illustrat. Nec obuiat di 
+            <lb ed="#B" n="40"/>cto illud quod dicit Hugo de sancto Un 
+            <lb ed="#B" n="41"/>ctore. quod scilicet materiale fidei est solum in intello 
+            <lb ed="#B" n="42"/>ctu sed formale in voluntate seu substantia. 
+            <lb ed="#B" n="43"/>Uoluit enim dicere quod quo ad hoc quod fides vlti 
+            <lb ed="#B" n="44"/>mum suum habeat complementum: oportet quod 
+            tem<lb ed="#B" n="45" break="no"/>dat per dilectionem in voluntatem: et dicatur quod 
+            fi<lb ed="#B" n="46" break="no"/>des per dilectionem operatur.
+          </p>
+          <p xml:id="WuV37d-f34989-d1e1012">
+            ¶ Secunda 
+            con<lb ed="#B" n="47" break="no"/>clusio est de obiecto seu materia articu 
+            <lb ed="#B" n="48"/>lorum fidei: et est haec. Fidei articuli de increa 
+            <lb ed="#B" n="49"/>to et creatis lumine supernaturali immedia¬ 
+            <!--603.xml-->
+            <cb ed="#B" n="b"/>
+            <lb ed="#B" n="50"/>te gloriae communiuncto lumini primae innituntur ve 
+            <lb ed="#B" n="51"/>ritati. Dicit prima pars conclusionis / quod 
+            articu<lb ed="#B" n="52" break="no"/>li fidei sunt de increato et creatis: patet 
+            lu<lb ed="#B" n="53" break="no"/>cide: quia aliqui articuli aspiciunt diuinitatem et 
+            <lb ed="#B" n="54"/>tres personas: et hi sunt de increato: aliqui 
+            pas<lb ed="#B" n="55" break="no"/>sionem et mortem etc. et hi sunt de creato: nec 
+            <lb ed="#B" n="56"/>tamen variatur fides / vt sit alia fides increatii 
+            <lb ed="#B" n="57"/>alia creature: sicut alius habitus est sapienia quae est 
+            <lb ed="#B" n="58"/>de aeternis / alius scientia de creaturis. Cuius ratio: 
+            <lb ed="#B" n="59"/>quia hi habitus sunt de creato et increato 
+            sub<lb ed="#B" n="60" break="no"/>suis propriis rationibus: non sic fides: sed solu 
+            <lb ed="#B" n="61"/>inquantum deo credimus quem veracem repu 
+            <lb ed="#B" n="62"/>tamus / et non potentem mentiri: vnde sicuti si 
+            <lb ed="#B" n="63"/>crederem petrum veracem: eadem fide qua ipsut 
+            <lb ed="#B" n="64"/>veracem crederem: et vera qua mihi diceret cre 
+            <lb ed="#B" n="65"/>derem: sic in proposito. Ex quo manifeste 
+            infer<lb ed="#B" n="66" break="no"/>tur / quod fidei nequit subesse falsum / seu fidei 
+            <lb ed="#B" n="67"/>articulis. Patet vltra fidem non habere nec 
+            <lb ed="#B" n="68"/>vnitatem nec distinctionem a suo obiecto seu 
+            <lb ed="#B" n="69"/>materia: sicuti nec habet esse. Ex quo infertur 
+            <lb ed="#B" n="70"/>non esse magnum fidem esse non apparentium: cum 
+            <lb ed="#B" n="71"/>obiectum non moueat in habitu fidei ad noti 
+            <lb ed="#B" n="72"/>ciam sui: obiectum dico in ratione obiecti: licet bene  
+            <lb ed="#B" n="73"/>ratione causae efficientis. Et patet quod obiectum fidei 
+            <lb ed="#B" n="74"/>potest dici et complexum et incomplexum. Et si dicatur 
+            <lb ed="#B" n="75"/>complexum / alia est formalitur fides patrum / alia 
+            <lb ed="#B" n="76"/>nostra: nam iesum quem credebant incarnandum nos 
+            <lb ed="#B" n="77"/>credimus incarnatum / ita de aliis. Si autem 
+            di<lb ed="#B" n="78" break="no"/>catur incomplexum: eadem extat fides formaliter et 
+            <lb ed="#B" n="79"/>eiusdem: credebant enim incarnationem / et nos 
+            cre<lb ed="#B" n="80" break="no"/>dimus passionem: et sic de aliis. Dico autem 
+            cre<lb ed="#B" n="81" break="no"/>dere aut explicite aut implicite: sicut patebit 
+            <lb ed="#B" n="82"/>in sequenti conclusione: et patet fidem esse de 
+            sensibi<lb ed="#B" n="83" break="no"/>libus: sicut christum nasci /mori / pati etc. et de 
+            <lb ed="#B" n="84"/>intelligibilibus: vt deum vnum / trinum / et reliqua 
+            <lb ed="#B" n="85"/>de malis: vt est poena reproborum de bonis / vt 
+            <lb ed="#B" n="86"/>est glsia bonorum. Sed dicit secunda pars conclusio 
+            <lb ed="#B" n="87"/>nis / quod lumen fidei est immediate coniunctum lumi 
+            <lb ed="#B" n="88"/>glesiae: ita quod non est lumen tertium medium: quod qui 
+            <lb ed="#B" n="89"/>dem sit maius lumine fidei et minus lumine gliae: 
+            <lb ed="#B" n="90"/>sicut innuit doc. sollem. quali. 5. q. 9. vnde habitum 
+            <lb ed="#B" n="91"/>glie solum locat in guliosis in caelo / habitum fidei 
+            <lb ed="#B" n="92"/>in omnibus fidelibus / habitum medium in maioribus 
+            <lb ed="#B" n="93"/>ppostoli: quo alios habent ex officio regere: et spnt 
+            <lb ed="#B" n="94"/>veluti speculum in ppitulo: de quibus scriptum esti: 
+            <lb ed="#B" n="95"/>Suscipiant montes pacem popitulo / et colles 
+            iu<lb ed="#B" n="96" break="no"/>sticiam. Hoc quippe parum est: cum nullus sentiet in 
+            <lb ed="#B" n="97"/>se illud lumen medium: nec videatur posse fun 
+            <lb ed="#B" n="98"/>dari in lumine fi dei. Unde diligenter notandae 
+            <!--604.xml-->
+            <pb ed="#B" n="294-r"/>
+            <cb ed="#B" n="a"/>
+            <lb ed="#B" n="1"/>sunt rationes doc. subti. i. 24. dist. contra hunc 
+            <lb ed="#B" n="2"/>modum ponendi. Ex quo patet vltra theologi 
+            <lb ed="#B" n="3"/>am proprie non esse scientiam / cum fidei innitatur: et 
+            <lb ed="#B" n="4"/>ita non habeat euidentiam ex ratione obiecti: quae 
+            <lb ed="#B" n="5"/>tamen est conditio scientie: vt patet in. 1 posteriorum: 
+            <lb ed="#B" n="6"/>vnde infertur quod non est theologia scientia 
+            subalter<lb ed="#B" n="7" break="no"/>nata theologiae beatorum: vt in secunda secundae loquitur 
+            <lb ed="#B" n="8"/>sanctus Tho. Patet: quia negato superiori. scilicet 
+            <lb ed="#B" n="9"/>scientia a theologia: patet quod negatur inferius: sicut qua 
+            <lb ed="#B" n="10"/>lapidem negat esse animal / negat esse hominem. 
+          </p>
+          <p xml:id="WuV37d-f34989-d1e1160">
+            <lb ed="#B" n="11"/>¶ Tertia conclusio est de simboli 
+            suffici<lb ed="#B" n="12" break="no"/>entia et necessitate ad salutem: et est haec. 
+            Im<lb ed="#B" n="13" break="no"/>plicite non explicite / omnes fideles catholici 
+            <lb ed="#B" n="14"/>omnia tenentur fidei simbola credere. 
+            Proba<lb ed="#B" n="15" break="no"/>tur conclusio breviter: quia omnis fidelis catholicus 
+            <lb ed="#B" n="16"/>debet implicite credere illud quod credit 
+            ec<lb ed="#B" n="17" break="no"/>clesia: sed ecclesia omnia fidei credit simbola: 
+            <lb ed="#B" n="18"/>igitur. Unde <ref xml:id="WuV37d-f34989-Rd1e1179" corresp="#WuV37d-f34989-Qd1e1184">Augustinus contra fundamentum manichae 
+              <lb ed="#B" n="19"/>orum</ref>. <quote xml:id="WuV37d-f34989-Qd1e1184" source="http://scta.info/resource/AgCMfu-sdf83a-d1e185@139-149">Euangelio non crederem / nisi quia ecclesiae 
+                <lb ed="#B" n="20"/>catholicae credo</quote>: vnde si aliquis pertinaciter crede 
+            <lb ed="#B" n="21" break="no"/>ret oppositum alicuius verbi quodcumque sit illud 
+            <lb ed="#B" n="22"/>in biblia / esset haereticus et infidelis iudicandus: ex 
+            <lb ed="#B" n="23"/>to quod ecclesia illud credit: dixi tamen quod explicite 
+            <lb ed="#B" n="24"/>omnes non tenentur credere omnia simbola: patet de 
+            <lb ed="#B" n="25"/>rudibus hominibus qua vix possunt concipere grossissima: 
+            <lb ed="#B" n="26"/>quanto minus subtilia multa quae in talibus simbolus 
+            <lb ed="#B" n="27"/>includuntur. Ex quo patet fidem omnia credenda ad 
+            <lb ed="#B" n="28"/>sufficientiam continere. Patet secundo multa impli 
+            <lb ed="#B" n="29"/>cite credi in antiquo testamento solum: quo modo 
+            cre<lb ed="#B" n="30" break="no"/>di opertet explicite: sicuti est natiuitas domini 
+            <lb ed="#B" n="31"/>aut trinitas personarum: nisi aliquibus esset facta 
+            <lb ed="#B" n="32"/>ex speciali reuelatio sicuti abraae aut mo 
+            vsi<lb ed="#B" n="33" break="no"/>aut aliquibus aliis: vnde necessaria ad salutem qua 
+            <lb ed="#B" n="34"/>ad fidem sunt haec duo: Credere deum et crede 
+            <lb ed="#B" n="35"/>re redemptionem humani generis: et sine his du 
+            <lb ed="#B" n="36"/>obus nemini fuit salus. Ex quo patet clare fidei 
+            <lb ed="#B" n="37"/>profectus / tam quo ad sui explicationem quam quo 
+            <lb ed="#B" n="38"/>ad numerum credibilium. Unde et fidei noticia 
+            <lb ed="#B" n="39"/>clarior est modo quam erat antiquitus / loquendo 
+            <lb ed="#B" n="40"/>simpliciter: licet eiusdem sit credibilis. 
+            <lb ed="#B" n="41"/>Quantum ad tertium 
+            arti<lb ed="#B" n="42" break="no"/>culum 
+            <lb ed="#B" n="43"/>sunt tres difficultaxes iuxta tres 
+            conclu<lb ed="#B" n="44" break="no"/>inones.
+          </p>
+          <p xml:id="WuV37d-f34989-d1e1236">
+            ¶ Prima est: vtrum habitus fidei 
+            <lb ed="#B" n="45"/>lsit practicus vel speculatiuus? Tho. dicit. q. 
+            <lb ed="#B" n="46"/>3. arti. 2. 23. dist. quod est practicus et speculati 
+            <lb ed="#B" n="47"/>uus simul: sed principalitur est speculatiuus: 
+            <lb ed="#B" n="48"/>quia primae innititur veritati: practicus vero inquan 
+            <lb ed="#B" n="49"/>tum dirigit in opus. Sed hoc non videtur dicere 
+            <!--604.xml-->
+            <cb ed="#B" n="b"/>
+            <lb ed="#B" n="50"/>eundem habitum simul practicum et speculati 
+            <lb ed="#B" n="51"/>uum: cum sint drisentiae oppositae habitus. Unde 
+            <lb ed="#B" n="52"/>simpliciter dicendum quod fides est habitus 
+            practi<lb ed="#B" n="53" break="no"/>cus: quia visio quae etiam fidei succedit est 
+            practi<lb ed="#B" n="54" break="no"/>ca. Unde bene Paulus dicit: quod finis legis est 
+            <lb ed="#B" n="55"/>dilectio omni credenti.
+          </p>
+          <p xml:id="WuV37d-f34989-d1e1267">
+            ¶ Secunda difficul 
+            <lb ed="#B" n="56"/>tas. An vnus fidei articulus per alium probe 
+            <lb ed="#B" n="57"/>tur? Dicit doctor subtilis. 24. distin. quod non: 
+            <lb ed="#B" n="58"/>vnde illa argumentatio apostoli: Si mortui non 
+            <lb ed="#B" n="59"/>resurgunt / nec christus resurrexit: non est ar 
+            <lb ed="#B" n="60"/>gumentatio proprie dicta. Eodem enim modo 
+            cre<lb ed="#B" n="61" break="no"/>do resurrectionem mortuorum quo credo 
+            <lb ed="#B" n="62"/>resurrectionem Iesu christi / et econtra: quia scilice 
+            <lb ed="#B" n="63"/>ecclesiae credo quae hoc credit: vnde 
+            relinqui<lb ed="#B" n="64" break="no"/>tur quod est solum quaedam manuductio.
+          </p>
+          <p xml:id="WuV37d-f34989-d1e1289">
+            ¶ Ter 
+            <lb ed="#B" n="65"/>tia difficultas. Si quilibet christianus 
+            te<lb ed="#B" n="66" break="no"/>neatur scire explicite duodecim articulos s 
+            <lb ed="#B" n="67"/>simboli apostolici? Dicit doc. sub. q. 1. di. 25. 
+            <lb ed="#B" n="68"/>quod non / maxime homines rudes: tenentur tamen 
+            <lb ed="#B" n="69"/>omnes scire implicite / alios autem 
+            explici<lb ed="#B" n="70" break="no"/>te / vt grossiores: vt quae pertinent ad humani 
+            <lb ed="#B" n="71"/>tatem: veluti est natiuitas christi / mors et 
+            re<lb ed="#B" n="72" break="no"/>surrectio etc. Ex quo patet ad. q. quod videli 
+            <lb ed="#B" n="73"/>cet cuiuslibet simboli atque articli fidei 
+            co<lb ed="#B" n="74" break="no"/>gnitio ad salutem hominis implicite / non explicite 
+            <lb ed="#B" n="75"/>in omnibus requiratur. Tunc ad argumenta. 
+          </p>
+          <p xml:id="WuV37d-f34989-d1e1316">
+            <lb ed="#B" n="76"/>¶ Ad primum negatur maior. Licet enim de  
+            <lb ed="#B" n="77"/>communi cursu prius illuminentur angeli quam 
+            ho<lb ed="#B" n="78" break="no"/>mines: non tamen de necessitate: ideo potuit de 
+            <lb ed="#B" n="79"/>us reuelare homin pro sua salute quod 
+            ange<lb ed="#B" n="80" break="no"/>lus ignorabat. Nec obuiat quod angelus est 
+            <lb ed="#B" n="81"/>capacioris intelligentiae ipso homine: hoc enim 
+            <lb ed="#B" n="82"/>bene arguitur in his quae naturaliter 
+            cognoscun<lb ed="#B" n="83" break="no"/>tur: non in illis quae libere a deo infundun 
+            <lb ed="#B" n="84"/>tur sicut est in proposito.
+          </p>
+          <p xml:id="WuV37d-f34989-d1e1338">
+            ¶ Ad secundum to 
+            <lb ed="#B" n="85"/>tum conceditur: hoc addendo quod in maiori 
+            <lb ed="#B" n="86"/>bus est peccatum negligentiae: nisi insudent di 
+            <lb ed="#B" n="87"/>ligenter vt cognitionem habeant explicitam 
+            <lb ed="#B" n="88"/>credendorum: quia sunt oculi populorum. Et 
+            di<lb ed="#B" n="89" break="no"/>cit hic doctor sub. quod credit nihil esse expli 
+            <lb ed="#B" n="90"/>citum in nouo testamento / quan in alio sensu / vl 
+            <lb ed="#B" n="91"/>tropologico / vel anagogico / vel allegori 
+            <lb ed="#B" n="92"/>co / in antiquo queat reperiri: licet non 
+            sem<lb ed="#B" n="93" break="no"/>per in litterali: vt sit rota inmedio rote: id 
+            <lb ed="#B" n="94"/>est nouum in antiquo testamento.
+          </p>
+          <p xml:id="WuV37d-f34989-d1e1362">
+            ¶ Ad 
+            ter<lb ed="#B" n="95" break="no"/>tium dicendum tam ad maiorem quam ad mino 
+            <lb ed="#B" n="96"/>tem: quod est duplex potentia in deo / et duplex ne 
+            <lb ed="#B" n="97"/>cessitas. De potentia quidem dei absoluta 
+            po<lb ed="#B" n="98" break="no"/>test deus bominem sine fide saluare: quia pos 
+            <!--605.xml-->
+            <pb ed="#B" n="294-v"/>
+            <cb ed="#B" n="a"/>
+            <lb ed="#B" n="1"/>tuit non incarnari. De potentia autem 
+            ordina<lb ed="#B" n="2" break="no"/>ta non: quia ita ordinauit: vt sancti tradunt 
+            <lb ed="#B" n="3"/>doctores. Rursus loquendo de 
+            necessita<lb ed="#B" n="4" break="no"/>te absoluta: potest saluari homo sine fide: sicut 
+            <lb ed="#B" n="5"/>erit in gloria fine fide / sed non de necessitate 
+            <lb ed="#B" n="6"/>conditionata: quia sic est posita conditio vt si 
+            <lb ed="#B" n="7"/>quis velit saluari fidem habeat. Et tantum de 
+            <lb ed="#B" n="8"/>persenti quaestione.
+          </p>
+        </div>
+        <div xml:id="WuV37d-f34989-Dd1e1398" type="et-conclusiones">
+          <head xml:id="WuV37d-f34989-Hd1e1400">Conclusiones</head>
+          <p xml:id="WuV37d-f34989-d1e1403">
+            ¶ Ex his autem tribus 
+            <lb ed="#B" n="9"/>distin. sicut etc. tres capiuntur conclusiones: 
+            <lb ed="#B" n="10"/>ne qualibet vna. Prima conclusio. A pau 
+            <lb ed="#B" n="11"/>li scriptura recte dffinitur fidei natura atque 
+            <lb ed="#B" n="12"/>exprimitur. Dicit conclusio quod paulus recte diffi 
+            <lb ed="#B" n="13"/>nit fidem. Et ponitur in virtute per totam distin. 
+            <lb ed="#B" n="14"/>23.
+          </p>
+          <p xml:id="WuV37d-f34989-d1e1419">
+            ¶ Secunda conclusio. De non patenti 
+            fi<lb ed="#B" n="15" break="no"/>des exigit / necnon consistit humanae menti. 
+            <lb ed="#B" n="16"/>Dicit conclusio quod fides est de non 
+            apparem<lb ed="#B" n="17" break="no"/>tibus. Et ponitur per totam. 24. distinctionem. 
+          </p>
+          <p xml:id="WuV37d-f34989-d1e1428">
+            <lb ed="#B" n="18"/>¶ Tertia conclusio. Fides implicita 
+            neces<lb ed="#B" n="19" break="no"/>se quaeritur / sed non explicita: vt pie creditur. 
+            <lb ed="#B" n="20"/>Dicit conclusio quod fides implicita omnium 
+            cre<lb ed="#B" n="21" break="no"/>dendorum est necesiaria ad salutem / sed non expli 
+            <lb ed="#B" n="22"/>cita. Et ponitur per totam. 25. distinctionem. 
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
 </TEI>
