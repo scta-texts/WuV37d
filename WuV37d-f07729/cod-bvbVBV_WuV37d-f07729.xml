@@ -1,583 +1,595 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Distinctio 44</title>
-            <author ref="#WilliamDeVaurouillon">William de Vaurouillon</author>
-            <respStmt>
-               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
-               <resp>Transcription Editor</resp>
-               <resp>TEI Encoder</resp>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition n="0.0.0-dev">
-               <title>Distinctio 44</title>
-               <date when="2021-06-19">June 19, 2021</date>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <authority>SCTA</authority>
-            <availability status="free">
-               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
-               </p>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <listWit>
-               <witness xml:id="B" n="cod-bvbVBV">Basel 1510</witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
-         <editorialDecl>
-            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
-       guidelines for a diplomatic edition.</p>
-         </editorialDecl>
-      </encodingDesc>
-      <revisionDesc status="draft">
-         <listChange>
-            <change when="2021-06-19" status="draft" n="0.0.0">
-               <p>Created file for the first time.</p>
-            </change>
-         </listChange>
-      </revisionDesc>
-   </teiHeader>
-   <text xml:lang="la">
-      <front>
-         <div xml:id="starts-on">
-            <pb ed="#B" n="230-v"/>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Distinctio 44</title>
+        <author ref="#WilliamDeVaurouillon">William de Vaurouillon</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Distinctio 44</title>
+          <date when="2021-06-19">June 19, 2021</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-bvbVBV">Basel 1510</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2021-06-19" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="230-v"/>
+        <cb ed="#B" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="WuV37d-f07729"><!-- l2d44 -->
+        <head xml:id="WuV37d-f07729-Hd1e108">Distinctio 44</head>
+        <div xml:id="WuV37d-f07729-Dd1e111" type="circa-textum">
+          <head xml:id="WuV37d-f07729-Hd1e113">Circa textum</head>
+          <p xml:id="WuV37d-f07729-d1e116">
+            <lb ed="#B" n="55"/>Distinctio. 44. in quo magister tractat 
+            <lb ed="#B" n="56"/>omne origine potentiae peccandi. 
+          </p>
+          <p xml:id="WuV37d-f07729-d1e123">
+            <lb ed="#B" n="57"/>POst predicta 
+            <lb ed="#B" n="58"/>consideratione dignum 
+            <lb ed="#B" n="59"/>occurrit vtrum 
+            peccan<lb ed="#B" n="60" break="no"/>di potentia sit nobis a 
+            <lb ed="#B" n="61"/>deo vel a nobis etc. Hic 
+            <lb ed="#B" n="62"/>signatur. 44. dist. et vltima huius secundi quae sic 
+            <lb ed="#B" n="63"/>continuatur ad praecedentes. Nam postquam a. 38. di. 
+            <lb ed="#B" n="64"/>inclusiue: vsque ad. 42. exclusiue origo peccati in 
+            <lb ed="#B" n="65"/>nostra voluntate fuit quaesita: et a. 42. inclusiue 
+            <lb ed="#B" n="66"/>vsque ad praesentem exclusiue peccatorum 
+            multiplici<lb ed="#B" n="67" break="no"/>tas fuit elicita: nunc in hac vltima 
+            distincti<lb ed="#B" n="68" break="no"/>one de potentia peccandi: vnde sit vox extat 
+            <lb ed="#B" n="69"/>habita: et diuiditur in tres partes principales. 
+            <lb ed="#B" n="70"/>In prima de peccandi potentia quorundam ponitur 
+            <lb ed="#B" n="71"/>opinio. In secunda per dicta seria contra eos est 
+            impu<lb ed="#B" n="72" break="no"/>gnatio. In tertia potestati an resistentia sit vel 
+            <lb ed="#B" n="73"/>non est dubitatio. prima in principio. secunda 
+            <lb ed="#B" n="74"/>ibi: Sed in pluribus sanctorum testimoniis etc. 
+            ter<lb ed="#B" n="75" break="no"/>tia ibi. Hic oritur quaestio etc. Et haec est etc. 
+          </p>
+        </div>
+        <div xml:id="WuV37d-f07729-Dd1e168">
+          <head xml:id="WuV37d-f07729-Hd1e170">Quaestio</head>
+          <p xml:id="WuV37d-f07729-d1e173">
+            <lb ed="#B" n="76"/>Quaestio ista determinat de potentia 
+            <lb ed="#B" n="77"/>peccandi praelatione atque obedietia 
+            sub<lb ed="#B" n="78" break="no"/>ditorum in qua et notat thomas de primo 
+            pun<lb ed="#B" n="79" break="no"/>cto habetur a scoto in hoc loco questione vnica.
+          </p>
+          <p xml:id="WuV37d-f07729-d1e184">
+            <lb ed="#B" n="80"/>Utrum peccandi 
+            <lb ed="#B" n="81"/>potentia atque praelatio sic a deo 
+            cen<lb ed="#B" n="82" break="no"/>seatur: vt subditus ad praelatum in omnibus 
+            <lb ed="#B" n="83"/>obedire teneatur. Et arguitur ad partem falsam 
+            <lb ed="#B" n="84"/>tribus mediis.
+          </p>
+          <p xml:id="WuV37d-f07729-d1e197">
+            ¶ Primo arguitur: quod potestas 
+            <lb ed="#B" n="85"/>peccandi non sit a deo: cuius vsus malus est ipsum 
+            <lb ed="#B" n="86"/>quoque malum est ex topicis Boetii. Sed 
+            pecca<lb ed="#B" n="87" break="no"/>re est malum. ergo et potentia peccandi mala ex qua 
+            <lb ed="#B" n="88"/>hic ortum habet vsus. Tunc sic. Nullum malum 
+            <lb ed="#B" n="89"/>culpae est a deo. igitur nec ista peccandi 
+            poten<lb ed="#B" n="90" break="no"/>tia. Et confirmatur ex dicto Anselmi. <!-- cap. De lib. arb., --> <quote xml:id="WuV37d-f07729-Qd1e207">Posse enim 
+            <lb ed="#B" n="91"/>peccare: nec libertas est: nec pars libertatis</quote>. Et ita 
+            <lb ed="#B" n="92"/>solum nominat defectum. Defectus autem causam non 
+            <lb ed="#B" n="93"/>habet effectiuam sed defectiuam.
+          </p>
+          <p xml:id="WuV37d-f07729-d1e219">
+            ¶ Secundo  
+            <lb ed="#B" n="94"/>arguitur: quod praelatio non sit a deo. Nihil contrarium 
+            <!--478.xml-->
+            <pb ed="#B" n="231-r"/>
+            <cb ed="#B" n="a"/>
+            <lb ed="#B" n="1"/>naturae est a deo: sed praelatio est contra ius 
+            natu<lb ed="#B" n="2" break="no"/>rae: igitur non est a deo. Maior patet ex eo quod 
+            <lb ed="#B" n="3"/>habetur in glossa super illo verbo: <quote xml:id="WuV37d-f07729-Qd1e234" source="http://scta.info/resource/rom11_24@10-16">Contra naturam 
+            <lb ed="#B" n="4"/>insertus es in bonam oliuam</quote>. <!-- gloss quote here ? -->Tam enim auctor 
+            na<lb ed="#B" n="5" break="no"/>turae nihil facit contra se quam contra naturam. 
+            <lb ed="#B" n="6"/>Minor vero auctoritate <ref xml:id="WuV37d-f07729-Rd1e246">libri institutorum seu 
+            insti<lb ed="#B" n="7" break="no"/>tutionum</ref>: <quote xml:id="WuV37d-f07729-Qd1e251">ex hac enim secundum ipsum bella exorta 
+            <lb ed="#B" n="8"/>sunt / et captiuitates secutae et seruitus: quae sunt 
+            <lb ed="#B" n="9"/>iuri naturali contraria</quote>. Confirmatur per illud: 
+            <lb ed="#B" n="10"/><quote xml:id="WuV37d-f07729-Qd1e259" source="http://scta.info/resource/os8_4@1-11">Ipsi regnauerunt / et non ex me: principes 
+            ex<lb ed="#B" n="11" break="no"/>titerunt / et non cognoui.</quote>
+          </p>
+          <p xml:id="WuV37d-f07729-d1e255">
+            ¶ Tertio probatur quod 
+            <lb ed="#B" n="12"/>subditus sicuti religiosus tenetur praelato suo in 
+            <lb ed="#B" n="13"/>omnibus obedire. Eque vouet religiosus 
+            <lb ed="#B" n="14"/>obedientiam sicut castitatem: sed voto emisso 
+            <lb ed="#B" n="15"/>ab omni tenetur abstinere luxuria: ergo 
+            parifor<lb ed="#B" n="16" break="no"/>miter et in cunctis suo praelato obedire. 
+            Ma<lb ed="#B" n="17" break="no"/>ior patet: quia indifferenter vouet religiosus 
+            <lb ed="#B" n="18"/>in religionis ingressu aeque primo vnum sicut 
+            <lb ed="#B" n="19"/>aliud. Minor vero nota est de se. Confirmatur 
+            <lb ed="#B" n="20"/>per illud quod <ref xml:id="WuV37d-f07729-Rd1e287">Benedictus dicit in regula sua</ref>
+            <lb ed="#B" n="21"/>Si praeceperit praelatus impossibile: tentandum est id 
+            <lb ed="#B" n="22"/>facere.
+          </p>
+          <p xml:id="WuV37d-f07729-d1e281">
+            ¶ In oppositum primi arguitur auctoritate 
+            <lb ed="#B" n="23"/>Augustini super psalmum. <quote xml:id="WuV37d-f07729-Qd1e299">Uoluntas nocendi potest esse ab 
+            <lb ed="#B" n="24"/>homine: potestas non nisi a deo</quote>.
+          </p>
+          <p xml:id="WuV37d-f07729-d1e305">
+            In oppositum 
+            se<lb ed="#B" n="25" break="no"/>cundi arguitur per illud: <quote xml:id="WuV37d-f07729-Qd1e309" source="http://scta.info/resource/rom13_1@7-13">Non est potestas nisi  
+            <lb ed="#B" n="26"/>deo</quote>.
+          </p>
+          <p xml:id="WuV37d-f07729-d1e292">
+            ¶ In oppositum tertii arguitur auctoritate 
+            <lb ed="#B" n="27"/><ref xml:id="WuV37d-f07729-Rd1e318">Bernardi in libro de dispensatione et praecepto</ref>. 
+            Sub<lb ed="#B" n="28" break="no"/>ditus nec citra promissum est inhibendus / nec vltra 
+            <lb ed="#B" n="29"/>cogendus.
+          </p>
+          <p xml:id="WuV37d-f07729-d1e301">
+            ¶ In ista quaestione sunt tres articuli. 
+            <lb ed="#B" n="30"/>Primus quorum est terminorum declaratiuus; 
+            <lb ed="#B" n="31"/>Secundus est quaestionis responsiuus. 
+            <lb ed="#B" n="32"/>Tertius est dubiorum motiuus.
+          </p>
+        <div xml:id="WuV37d-f07729-Dd1e334">
+          <head xml:id="WuV37d-f07729-Hd1e336">Articulus 1</head>
+          <p xml:id="WuV37d-f07729-d1e338">
+            <lb ed="#B" n="33"/>Quoad primum articulum 
+            <lb ed="#B" n="34"/>termini sunt 
+            <lb ed="#B" n="35"/>potentia peccandi / praelatio et obedientia 
+          </p>
+          <p xml:id="WuV37d-f07729-d1e317">
+            <lb ed="#B" n="36"/>¶ Primus igitur terminus est potentia 
+            pec<lb ed="#B" n="37" break="no"/>cadi. Unde vt potest trahi ex doctore subtili in 
+            prae<lb ed="#B" n="38" break="no"/>senti distinctione potentia peccandi accipitur tripliciter. 
+            <lb ed="#B" n="39"/>Primo vt dicit ordinem seu 
+            ordinabilita<lb ed="#B" n="40" break="no"/>tem ad substratum peccati / sicuti ad id quod est 
+            posi<lb ed="#B" n="41" break="no"/>tiuum / aut informatione / aut actu homicidii. 
+            <lb ed="#B" n="42"/>Secundo accipitur vt dicit ordinem vel 
+            ordina<lb ed="#B" n="43" break="no"/>bilitatem ad deformitatem peccati: sicuti ad 
+            de<lb ed="#B" n="44" break="no"/>formitatem peccati quae extat in actu fornicationis 
+            <lb ed="#B" n="45"/>vel homicidii. Tertio accipitur pro 
+            fundamen<lb ed="#B" n="46" break="no"/>to istius ordinis seu ordinabilitatis: sicuti 
+            <lb ed="#B" n="47"/>quaelibet relatio intelligitur suum habere 
+            fundamen<lb ed="#B" n="48" break="no"/>tum. Unde et potest tripliciter nominari. Primo vt 
+            so<lb ed="#B" n="49" break="no"/>lum nominat illud fundamentum in quo ista 
+            ordinabi<cb ed="#B" n="b"/><lb ed="#B" n="50" break="no"/>litas 
+            fundatur: et tunc proprie dicitur potentia 
+            pec<lb ed="#B" n="51" break="no"/>candi. Secundo vt nominat potentiam peccato 
+            propin<lb ed="#B" n="52" break="no"/>quam: et tunc dicitur voluntas peccandi: quae est 
+            pec<lb ed="#B" n="53" break="no"/>catum semper interius / non tamen semper exterius. 
+            <lb ed="#B" n="54"/>Tertio vt nominat etiam complexionem maliciae: 
+            <lb ed="#B" n="55"/>et tunc dicitur potentia peccans.
+          </p>
+          <p xml:id="WuV37d-f07729-d1e367">
+            ¶ Secundus 
+            ter<lb ed="#B" n="56" break="no"/>minus est praelatio seu praesidentia. Unde 
+            praela<lb ed="#B" n="57" break="no"/>tio seu praesidentia. secundum doctorem deuo. articulo 
+            <lb ed="#B" n="58"/>2. quaestione 2. huius distinctione accipitur tripliciter: videlicet 
+            ge<lb ed="#B" n="59" break="no"/>neralissime / communis et proprie. Generalissime 
+            <lb ed="#B" n="60"/>dicitur praelatio respectu omnis rei / qua homo potest 
+            <lb ed="#B" n="61"/>ad libitum et votum suum vti. Et hoc modo 
+            di<lb ed="#B" n="62" break="no"/>ctum est a deo: <quote xml:id="WuV37d-f07729-Qd1e411" source="http://scta.info/resource/gen1_26@3-13">Faciamus hominem ad 
+            imagi<lb ed="#B" n="63" break="no"/>nem et similitudinem nostram: vt praesit piscibus 
+            ma<lb ed="#B" n="64" break="no"/>ris</quote> etc. Secundo dicitur communiter: et tunc dicit in 
+            praela<lb ed="#B" n="65" break="no"/>to excellentiam potestatis / imperando ei qui est 
+            ca<lb ed="#B" n="66" break="no"/>pax praecepti. Tertio dicitur proprie praelatio 
+            po<lb ed="#B" n="67" break="no"/>testas coercendi subditos: et haec nominat in 
+            <lb ed="#B" n="68"/>subdito libertatis quandam artationem: vnde 
+            <lb ed="#B" n="69"/>huic proprie relatiue opponitur seruitus: et 
+            se<lb ed="#B" n="70" break="no"/>cundae magis subditus / et primae magis 
+            pos<lb ed="#B" n="71" break="no"/>sessio.
+          </p>
+          <p xml:id="WuV37d-f07729-d1e405">
+            ¶ Tertius terminus est obedientia. 
+            <lb ed="#B" n="72"/>Unde obedientia vt notat <ref xml:id="WuV37d-f07729-Rd1e438">sanctus Thomae articulo 2. 
+            <lb ed="#B" n="73"/>huius distinctione q. 3.</ref> est triplex / indiscreta / 
+            imperfe<lb ed="#B" n="74" break="no"/>cta / et perfecta. Indiscreta dicitur quando quis in his 
+            <lb ed="#B" n="75"/>quae sunt contra deum suo praelato obedit: et non ligat 
+            <lb ed="#B" n="76"/>ad facere / sed potius ad non facere. 
+            Imperfe<lb ed="#B" n="77" break="no"/>cta autem dicitur quae ad salutem sufficit: dum scilicet in his 
+            <lb ed="#B" n="78"/>etiam quae solum vouit subditus suo obedit 
+            superi<lb ed="#B" n="79" break="no"/>ori. Perfecta vero dicitur quando prompte etiam in his 
+            <lb ed="#B" n="80"/>quo non vouit si non sint contra deum subditus praelato 
+            <lb ed="#B" n="81"/>obedit. Unde <ref xml:id="WuV37d-f07729-Rd1e460">bernardus</ref> Perfecta obedientia quae 
+            <lb ed="#B" n="82"/>legem nescit: terminis non artatur: non continetur 
+            pro<lb ed="#B" n="83" break="no"/>fessionis angustiis: largior voluntate fertur in 
+            <lb ed="#B" n="84"/>latitudinem charitatis: et ad omne quod iniungitur 
+            <lb ed="#B" n="85"/>spontaneo vigore liberalis alacrisque animi 
+            <lb ed="#B" n="86"/>modum non considerans in infinitum extenditur. Quam 
+            <lb ed="#B" n="87"/><ref xml:id="WuV37d-f07729-Rd1e475">hug. de sancto victore</ref> diffiniens ait. <quote xml:id="WuV37d-f07729-Qd1e477">Obedientia est 
+            vir<lb ed="#B" n="88" break="no"/>tus quae omnia amplectitur: iniuncta voluntarie 
+            im<lb ed="#B" n="89" break="no"/>plendo / nisi obstiterit imperantis auctoritas</quote>. 
+          </p>
+        </div>
+        <div xml:id="WuV37d-f07729-Dd1e487">
+          <head xml:id="WuV37d-f07729-Hd1e489">Articulus 2</head>
+          <p xml:id="WuV37d-f07729-d1e491">
+            <lb ed="#B" n="90"/>Quantum ad secundum articulum sunt 
+            <lb ed="#B" n="91"/>tres 
+            con<lb ed="#B" n="92" break="no"/>clusiones: prima est de peccandi potentia: secunda de 
+            <lb ed="#B" n="93"/>praelatione: tertia de obedientia subditi 
+            relati<lb ed="#B" n="94" break="no"/>ue ad praelatum
+          </p>
+          <p xml:id="WuV37d-f07729-d1e457">
+            ¶ Prima est haec. Peccandi 
+            po<lb ed="#B" n="95" break="no"/>tentia sit a deo effectiue producitur vt de se 
+            cul<lb ed="#B" n="96" break="no"/>pa non dicat. Dicit prima pars conclusionis / quod 
+            pec<lb ed="#B" n="97" break="no"/>candi potentia extat a deo. Probatur. Eadem 
+            <lb ed="#B" n="98"/>est in nobis potentia benefaciendi et peccandi: sed  
+            <!--479.xml-->
+            <pb ed="#B" n="231-v"/>
+            <cb ed="#B" n="a"/>
+            <lb ed="#B" n="1"/>potentia benefaciendi in nobis est a deo: ergo et 
+            ma<lb ed="#B" n="2" break="no"/>lefaciendi. Maior est <ref xml:id="WuV37d-f07729-Rd1e525">philosophi in. 9. metaph.</ref> 
+            po<lb ed="#B" n="3" break="no"/>tentiae enim rationales sunt ad opposita. Minor 
+            <lb ed="#B" n="4"/>est clara: cum omne bonum sit a deo. 
+            Confirma<lb ed="#B" n="5" break="no"/>tur: quia omne ens est a deo: potentia autem 
+            pec<lb ed="#B" n="6" break="no"/>candi est quoddam ens: igitur. Et si dicatur: quia posse 
+            <lb ed="#B" n="7"/>peccare est posse facere contra deum: igitur videtur 
+            <lb ed="#B" n="8"/>quod diuina potentia aliquid fecerit contra se: patet ex 
+            <lb ed="#B" n="9"/>1. articulo. Responsio quod ista potentia peccandi est a 
+            <lb ed="#B" n="10"/>deo / secundum quod quandam solum nominat entitatem / non 
+            <lb ed="#B" n="11"/>secundum quod nominat defectibilitatem. Et patet per 
+            <lb ed="#B" n="12"/>hoc solutio illius communis argumenti: A quo est 
+            poten<lb ed="#B" n="13" break="no"/>tia ab illo est actus / et econtra. Si ergo peccandi 
+            <lb ed="#B" n="14"/>potentia foret a deo: ergo et peccatum quod est eius 
+            <lb ed="#B" n="15"/>actus: dicitur enim quod peccatum est ab ea potentia 
+            <lb ed="#B" n="16"/>inquantum defectibilis / non inquantum a deo: vnde 
+            in<lb ed="#B" n="17" break="no"/>fertur quod ista potentia quae ad positiuum exemplat 
+            <lb ed="#B" n="18"/>habet in deo sicut caetera positiua. Et si 
+            quae<lb ed="#B" n="19" break="no"/>ratur / a quo inest sibi ista defectibilitas: 
+            San<lb ed="#B" n="20" break="no"/>ctus Thomas dicit / quod <quote xml:id="WuV37d-f07729-Qd1e566" source="http://scta.info/resource/ta-l2d44q1-d1e153@173-179">ex eo quod est de nihilo</quote>. 
+            <lb ed="#B" n="21"/>Sed salua reuerentia sua / istud sufficere non 
+            <lb ed="#B" n="22"/>videtur. Lapides enim tunc peccare possent cum 
+            <lb ed="#B" n="23"/>sint etiam de nihilo. Et ideo dicendum sicut in <ref xml:id="WuV37d-f07729-Rd1e576">
+            prae<lb ed="#B" n="24" break="no"/>senti dist. dicit doc. subti.</ref> quod ista 
+            defectibi<lb ed="#B" n="25" break="no"/>litas ad peccatum inest sibi ex eo quod creata 
+            vo<lb ed="#B" n="26" break="no"/>luntas. Nisi enim gratia confirmetur: quaelibet 
+            crea<lb ed="#B" n="27" break="no"/>ta voluntas potest deficere in peccato. Unde 
+            <lb ed="#B" n="28"/>bene dicit <ref xml:id="WuV37d-f07729-Rd1e590">doctor deuotus. <!-- bonaventure --> q. 1. arti. 1.</ref> quod ista 
+            pec<lb ed="#B" n="29" break="no"/>cabilitas quia fundatur in creatura rationali / non 
+            <lb ed="#B" n="30"/>competit irrationalibus: quia rursus nominat 
+            pos<lb ed="#B" n="31" break="no"/>se deficere / non competit iam gloriosis: vnde 
+            <lb ed="#B" n="32"/>patet quod simpliciter potest concedi quod 
+            poten<lb ed="#B" n="33" break="no"/>tia peccandi sit a deo: licet secundum quid possit 
+            ne<lb ed="#B" n="34" break="no"/>gari: inquantum scilicet nominat illam defectibilitatem. 
+            <lb ed="#B" n="35"/>Econtra de peccato simpliciter negatur quod 
+            <lb ed="#B" n="36"/>sit a deo: et conceditur secundum quid / inquantum scilicet 
+            no<lb ed="#B" n="37" break="no"/>minat quid positiuum. Et hinc est quod <name xml:id="WuV37d-f07729-Nd1e615">doctor 
+            de<lb ed="#B" n="38" break="no"/>uotus</name> magis condescendit quod non sit a deo 
+            <lb ed="#B" n="39"/>haec potentia peccandi. Thomas autem et doctor 
+            sub<lb ed="#B" n="40" break="no"/>tilis per oppositum: quia dicunt quod est a deo simpliciter / 
+            <lb ed="#B" n="41"/>sed non secundum quid / vt patuit: nec tamen in hoc inter 
+            <lb ed="#B" n="42"/>eos est contradictio: vt patet clare 
+            inspicien<lb ed="#B" n="43" break="no"/>ti. Sed dicit secunda pars conclusionis / quod potentia 
+            <lb ed="#B" n="44"/>peccandi non est peccatum. Probatur: quia tunc 
+            <lb ed="#B" n="45"/>vir sanctus esset malus et peccator / cum possit 
+            <lb ed="#B" n="46"/>peccare. Caeterum potentia peccandi praecedit 
+            <lb ed="#B" n="47"/>tempore peccatum: vt innuitur in praecedentibus: vbi 
+            osten<lb ed="#B" n="48" break="no"/>sum est quod oportuit prius tempore esse angelum 
+            <lb ed="#B" n="49"/>quam peccaret: vnde non sequitur: iste potest adulte¬ 
+            <!--479.xml-->
             <cb ed="#B" n="b"/>
-         </div>
-      </front>
-      <body>
-         <div xml:id="WuV37d-f07729"><!-- l2d44 -->
-            <head xml:id="WuV37d-f07729-Hd1e108">Distinctio 44</head>
-            <div xml:id="WuV37d-f07729-Dd1e111" type="circa-textum">
-               <head xml:id="WuV37d-f07729-Hd1e113">Circa textum</head>
-               <p xml:id="WuV37d-f07729-d1e116">
-                  <lb ed="#B" n="55"/>Distinctio. 44. in quo magister tractat 
-      <lb ed="#B" n="56"/>omne origine potentiae peccandi. 
-    </p>
-               <p xml:id="WuV37d-f07729-d1e123">
-                  <lb ed="#B" n="57"/>Ost predicta 
-      <lb ed="#B" n="58"/>consideratione dignum 
-      <lb ed="#B" n="59"/>occurrit vtrum 
-      peccan<lb ed="#B" n="60" break="no"/>di potetia sit nobis a 
-      <lb ed="#B" n="61"/>deo vel a nob etc. Hic 
-      <lb ed="#B" n="62"/>signatur. 44. dist. et vltima huius secundi quae sic 
-      <lb ed="#B" n="63"/>continuatur ad praecedentes. Nam postquam a. 36. di. 
-      <lb ed="#B" n="64"/>inclusiue: vsque ad. 42. exclusiue origo peccati i 
-      <lb ed="#B" n="65"/>nostra voluntate fuit quaesita: et a. 42. inclusiue 
-      <lb ed="#B" n="66"/>vsque ad praesentem exclusiue peccatorum 
-      multiplici<lb ed="#B" n="67" break="no"/>tas fuit elicita: nunc in hac vltima distincti 
-      <lb ed="#B" n="68"/>one de potentia peccandi: vnde sit vox extal 
-      <lb ed="#B" n="69"/>habita: et diuiditur in tres partes principales. 
-      <lb ed="#B" n="70"/>In prima de peccandi potentia quarundam ponitur 
-      <lb ed="#B" n="71"/>opinio. In secunda per dicta seria contra eos est 
-      impu<lb ed="#B" n="72" break="no"/>gnatio. In tertia potestati an tresistentia sit vl 
-      <lb ed="#B" n="73"/>non est dubitatio. prima in principio. secunda 
-      <lb ed="#B" n="74"/>ibi: Sed in pislouribus sanctorum testimoniis etc. 
-      ter<lb ed="#B" n="75" break="no"/>tia ibi. Hic oritur quaestio etc. Et haec est etc. 
-      </p>
-            </div>
-            <div xml:id="WuV37d-f07729-Dd1e168">
-               <head xml:id="WuV37d-f07729-Hd1e170">Quaestio</head>
-               <p xml:id="WuV37d-f07729-d1e173">
-                  <lb ed="#B" n="76"/>¶ Quaestio ista determinat de protentia 
-      <lb ed="#B" n="77"/>peccadi praelatione atque obedietia sib 
-      <lb ed="#B" n="78"/>ditorum in quae et notat tho. de primo piriutu 
-      <lb ed="#B" n="79"/>cto habetur a sco. in hoc loco q. vnica.
-</p>
-               <p xml:id="WuV37d-f07729-d1e184">
-                  <lb ed="#B" n="80"/>Utrum peccandi 
-      <lb ed="#B" n="81"/>potentia atque praelatio sic a deo 
-      cem<lb ed="#B" n="82" break="no"/>seatur: vt subditus ad praelatum in omnibus 
-      <lb ed="#B" n="83"/>obedire teneatur. Et arguitur ad partem falsam 
-      <lb ed="#B" n="84"/>tribus mediis.
-</p>
-               <p xml:id="WuV37d-f07729-d1e197">
-¶ Primo arguitur: quod potestas 
-      <lb ed="#B" n="85"/>peccandi non sit a deo: cuius vsus malus est ipsum 
-      <lb ed="#B" n="86"/>quim malum est ex topicis Boetii. Sed 
-      pecca<lb ed="#B" n="87" break="no"/>re est malum. ergo et potentia peccandi mala ex qua 
-      <lb ed="#B" n="88"/>hic ortum habet vsus. Tunc sic. Nullum malum 
-      <lb ed="#B" n="89"/>culpae est a deo. igister nec ista peccandi poten 
-      <lb ed="#B" n="90"/>tia. Et confirmatur ex dicto An. Posse enim 
-      <lb ed="#B" n="91"/>peccare: nec libtas est: nec pars libtatis. Et ita 
-      <lb ed="#B" n="92"/>olum nominat defectum. Defectus autem causam non 
-      <lb ed="#B" n="93"/>habet effectiuam sed defectiuam.
-</p>
-               <p xml:id="WuV37d-f07729-d1e219">
-¶ Secundo gi 
-      <lb ed="#B" n="94"/>arguitur: quod praelatio non sit a deo. Nihi contrium 
-      <!--478.xml-->
-      <pb ed="#B" n="231-r"/>
-                  <cb ed="#B" n="a"/>
-                  <lb ed="#B" n="1"/>naturae est a deo: sed praelatio est contra ius natu 
-      <lb ed="#B" n="2"/>re: igitur non est a deo. Maior patet ex eo quod 
-      <lb ed="#B" n="3"/>habetur in glo. super illo verbo: Contra naturam 
-      <lb ed="#B" n="4"/>insertus es in bonam oliuam. Tam enim auctor na 
-      <lb ed="#B" n="5"/>turae nihil facit contra se quam contra naturam. 
-      <lb ed="#B" n="6"/>Minor vero auctoritate libri institutorum seu isti 
-      <lb ed="#B" n="7"/>tutionum: ex hac enim secundum ipsum bella exorta 
-      <lb ed="#B" n="8"/>sunt / et captiuitates secutae et seruitus: quae sunt 
-      <lb ed="#B" n="9"/>iuri naturali contraria. Confirmatur per illud: 
-      <lb ed="#B" n="10"/>Ipsi regnauerunt / et non ex me: principes 
-      ex<lb ed="#B" n="11" break="no"/>titerunt / et non cognoui.
-</p>
-               <p xml:id="WuV37d-f07729-d1e255">
-¶ Tertio probatur quod 
-      <lb ed="#B" n="12"/>subditus sicuti religiosus tenetur praelato suo in 
-      <lb ed="#B" n="13"/>omnibus obedire. Eque vouet religiosus 
-      <lb ed="#B" n="14"/>obedientiam sicut castitatem: sed voto emisso 
-      <lb ed="#B" n="15"/>ab omni tenetur abstinere luxuria: ergo parifor 
-      <lb ed="#B" n="16"/>miter et in cunctis suo praelato obedire. 
-      Ma<lb ed="#B" n="17" break="no"/>ior patet: quia indifferenter vouet religiosus 
-      <lb ed="#B" n="18"/>in religionis ingressu aeque primo vnum sicut 
-      <lb ed="#B" n="19"/>aliud. Minor vero nota est de se. Confirmatur 
-      <lb ed="#B" n="20"/>per illud quod Benedictus dicit in regula 
-      sua<lb ed="#B" n="21" break="no"/>Si praeceprit praelatus impossibile: tentandum est id 
-      <lb ed="#B" n="22"/>facere.
-</p>
-               <p xml:id="WuV37d-f07729-d1e281">
-¶ In oppositum primi arguitur auctoritat 
-      <lb ed="#B" n="23"/>Augstin. super psates. Uoluntas nocendi potest esse ab 
-      <lb ed="#B" n="24"/>homine: potestas non nisi a deo. In oppositum se 
-      <lb ed="#B" n="25"/>cundi arguitur per illud: Non est potestas nisi  
-      <lb ed="#B" n="26"/>deo.
-</p>
-               <p xml:id="WuV37d-f07729-d1e292">
-¶ In oppositum tertii arguitur auctoritate 
-      <lb ed="#B" n="27"/>Bern. i li. de dispensatione et praecepto. Sub 
-      <lb ed="#B" n="28"/>ditus nec citra promissum est inhibendus / nec vltra 
-      <lb ed="#B" n="29"/>cogendus.
-</p>
-               <p xml:id="WuV37d-f07729-d1e301">
-¶ In ista quaestione sunt tres articuli. 
-      <lb ed="#B" n="30"/>Primus est terminorum declaratiuus; 
-      <lb ed="#B" n="31"/>Quorum Secundus est quaestionis responsiuus. 
-      <lb ed="#B" n="32"/> Tertius est dubiorum motiuus.  
-      <lb ed="#B" n="33"/>qm articulum 
-      <lb ed="#B" n="34"/>termini sunt 
-      <lb ed="#B" n="35"/>potentia peccandi / praelatio et obedientia 
-      </p>
-               <p xml:id="WuV37d-f07729-d1e317">
-                  <lb ed="#B" n="36"/>¶ Primus igitur terminus est potentia pec 
-      <lb ed="#B" n="37"/>cadi. Unde vt potest trahi ex doc. subti. in prae 
-      <lb ed="#B" n="38"/>senti distin. potentia peccandi accipitur tripliciter. 
-      <lb ed="#B" n="39"/>Primo vt dicit ordinem seu 
-      ordinabilita<lb ed="#B" n="40" break="no"/>tem ad substratum peccati / sicuti ad id quod est 
-      posi<lb ed="#B" n="41" break="no"/>tiuum / aut informatione / aut actu homicidii 
-      <lb ed="#B" n="42"/>Secundo accipitur vt dicit ordinem vel 
-      ordina<lb ed="#B" n="43" break="no"/>bilitatem ad deformitatem peccati: sicuti ad 
-      de<lb ed="#B" n="44" break="no"/>formitatem peccati quae extat in actu fornicationis 
-      <lb ed="#B" n="45"/>vel bomicidii. Tertimo accipitur pro fundamen 
-      <lb ed="#B" n="46"/>to istius ordinis seu ordinabilitatis: sicut 
-      <lb ed="#B" n="47"/>qualibet relatio intelligitur suum habere fundamen 
-      <lb ed="#B" n="48"/>tum. Unde et potest tripliciter nominari. Primo vt 
-      so<lb ed="#B" n="49" break="no"/>lum nominat illud fundamentum in quo ista ordinabi¬ 
-      <!--478.xml-->
-      <cb ed="#B" n="b"/>
-                  <lb ed="#B" n="50"/>litas fundatur: et tunc proprie dicitur potentia pec 
-      <lb ed="#B" n="51"/>candi. Secundo vt nominat potentiam peccato 
-      propin<lb ed="#B" n="52" break="no"/>quam: et tunc dicitur voluntas peccandi: quae est 
-      pec<lb ed="#B" n="53" break="no"/>catum semper interius / non tamen semper exterius. 
-      <lb ed="#B" n="54"/>Tertio vt nominat etiam complexionem maliciae: 
-      <lb ed="#B" n="55"/>et tunc dicitur potentia peccans.
-</p>
-               <p xml:id="WuV37d-f07729-d1e367">
-¶ Secundus 
-      ter<lb ed="#B" n="56" break="no"/>minus est praelatio seu praesidentia. Unde 
-      praela<lb ed="#B" n="57" break="no"/>tio seu praesidentia. secundum doctur. deuo. arti: 
-      <lb ed="#B" n="58"/>2. q. 2. huius di. accipitur tripliciter: videlicet ge 
-      <lb ed="#B" n="59"/>neralissime / communis et proprie. Seneralissime 
-      <lb ed="#B" n="60"/>dicitur praelatio respectu omnis rei / qua homo potest 
-      <lb ed="#B" n="61"/>ad libitum et votum suum vti. Et hoc modo di 
-      <lb ed="#B" n="62"/>ctum est a deo: Faciamus hominem ad 
-      imagi<lb ed="#B" n="63" break="no"/>nem et similitudinem nostram: vt praesit piscibus 
-      ma<lb ed="#B" n="64" break="no"/>ris etc. Secundo dicitur communiter: et tunc dicit in praela 
-      <lb ed="#B" n="65"/>to excellentiam potestatis / imperando ei qui est ca 
-      <lb ed="#B" n="66"/>pax praecepti. Tertio dicitur proprie praelatio po 
-      <lb ed="#B" n="67"/>testas coercendi subditos: et haec nominat in 
-      <lb ed="#B" n="68"/>subdito libertatis quandam artationem: vnde 
-      <lb ed="#B" n="69"/>huic proprie relatiue opponitur seruitus: et 
-      se<lb ed="#B" n="70" break="no"/>cundae magis subditus / et primae magis 
-      pos<lb ed="#B" n="71" break="no"/>sessio.
-</p>
-               <p xml:id="WuV37d-f07729-d1e405">
-¶ Tertius terminus est obedientia. 
-      <lb ed="#B" n="72"/>Unde obedientia vt notat sanct Tho. arti. 2. 
-      <lb ed="#B" n="73"/>huius dist. q. 3. est triplex / indiscreta / imperfe 
-      <lb ed="#B" n="74"/>cta / et perfecta. Indiscreta dicitur quando quis in his 
-      <lb ed="#B" n="75"/>quae sunt contra deum suo praelato obedit: et non ligat 
-      <lb ed="#B" n="76"/>ad facere / sed potius ad non facere. 
-      Imperfe<lb ed="#B" n="77" break="no"/>cta autem dicitur quae ad salutem sufficit: dum. scilicet in his 
-      <lb ed="#B" n="78"/>etiam quae solum vouit subditus suo obedit 
-      superi<lb ed="#B" n="79" break="no"/>ori. Perfecta vero dicitur quando prompte etiam in his 
-      <lb ed="#B" n="80"/>quo non vouit si non sint contra deum subditus praelato 
-      <lb ed="#B" n="81"/>obedit. Unde bernn. Perfecta obedientia quae 
-      <lb ed="#B" n="82"/>legen nescit: terminis non artatur: non continetur 
-      pro<lb ed="#B" n="83" break="no"/>fessionis angustiis: largior voluntate fertur in 
-      <lb ed="#B" n="84"/>latitudinem charitatis: et ad omne quod iniungitur 
-      <lb ed="#B" n="85"/>spontaneo vigore liberalisalacrisque animi 
-      <lb ed="#B" n="86"/>modum non considerans in ifinitum extenditur. Quam 
-      <lb ed="#B" n="87"/>hug. des. vic. diffiniens ait. Obedientia est ver 
-      <lb ed="#B" n="88"/>tus quae omnia amplectitur: iniuncta voluntarie 
-      im<lb ed="#B" n="89" break="no"/>plendo / nisi obstiterit imperantis auctoritas. 
-      <lb ed="#B" n="90"/>arti. sun 
-      <lb ed="#B" n="91"/>tres con 
-      <lb ed="#B" n="92"/>clusiones: prima est de peccandi potentia: secunda de 
-      <lb ed="#B" n="93"/>qualatione: tertia de obedientia subditi relat 
-      <lb ed="#B" n="94"/>ne ad praelatum
-</p>
-               <p xml:id="WuV37d-f07729-d1e457">
-¶ Prima est haec. Peccandi po 
-      <lb ed="#B" n="95"/>tentia sic a deo effectiue producitur vt de se cul 
-      <lb ed="#B" n="96"/>pa non dicat. Dicit prima pars conclusionis / quod 
-      pec<lb ed="#B" n="97" break="no"/>candi potentia extat a deo. Probatur. Eadem 
-      <lb ed="#B" n="98"/>est in nobis potentia benefaciendi et peccandi: sed  
-      <!--479.xml-->
-      <pb ed="#B" n="231-v"/>
-                  <cb ed="#B" n="a"/>
-                  <lb ed="#B" n="1"/>potentia benefaciendi in nobis est a deo: ergo et ma 
-      <lb ed="#B" n="2"/>lefaciendi. Maior est philosophi in. 9. metaph. 
-      po<lb ed="#B" n="3" break="no"/>tentiae enim rationales sunt ad opposita. Minor 
-      <lb ed="#B" n="4"/>est clara: cum omne bonum sit a deo. Confirma 
-      <lb ed="#B" n="5"/>tur: quia omne ens est a deo: potentia autem pec 
-      <lb ed="#B" n="6"/>candi est quoddam ens: igitur. Et si di: atur: quia posse 
-      <lb ed="#B" n="7"/>peccare est posse facere contra deum: igitur videtur 
-      <lb ed="#B" n="8"/>quod diuina potentia aliquid fecerit contra se: patet ex 
-      <lb ed="#B" n="9"/>1. artie. Responsio quod ista potentia peccandi est a 
-      <lb ed="#B" n="10"/>deo / secundum quod quandam solum nominat entitatem / non 
-      <lb ed="#B" n="11"/>secundum quod nominat defectibilitatem. Et patet per 
-      <lb ed="#B" n="12"/>hoc solutio illius communis argumenti: A quao est poten 
-      <lb ed="#B" n="13"/>tia ab illo est actus / et econtra. Si ergo peccandi 
-      <lb ed="#B" n="14"/>potentia foret a deo: ergo et peccatum quod est eius 
-      <lb ed="#B" n="15"/>actus: dicitur enim quod peccatum est ab ea potentia 
-      <lb ed="#B" n="16"/>inquantum defectibilis / non inquantum a deo: vnde in 
-      <lb ed="#B" n="17"/>fertur quod ista potentia quae ad positiuum exemplat 
-      <lb ed="#B" n="18"/>habet in deo sicut caetera positiua. Et si quae 
-      <lb ed="#B" n="19"/>ratur / a quo inest sibi ista defectibilitas: San 
-      <lb ed="#B" n="20"/>ctus Tho. dicit / quod ex eo quod est de nihilo. 
-      <lb ed="#B" n="21"/>Sed salua reuerentia sua / istud sufficere non 
-      <lb ed="#B" n="22"/>videtur. Lapides enim tunc peccare possent cum 
-      <lb ed="#B" n="23"/>sint etiam de nihilo. Et ideo dicendum sicut in prae 
-      <lb ed="#B" n="24"/>senti dist. dicit doc. subti. quod ista 
-      defectibi<lb ed="#B" n="25" break="no"/>itas ad peccatum inest sibi ex eo quod creata vo 
-      <lb ed="#B" n="26"/>luntas. Nisi enim gratia confirmetur: qualibet 
-      crea<lb ed="#B" n="27" break="no"/>ta voluntas potest deficere in peccato. Unde 
-      <lb ed="#B" n="28"/>bene dicit doc. deuotus. q. 1. arti. I. 1est quod ista pec 
-      <lb ed="#B" n="29"/>cabilitas quia fundatur in creatura rationali / non 
-      <lb ed="#B" n="30"/>competit irrationalibus: quia rursus nominat 
-      pos<lb ed="#B" n="31" break="no"/>se deficere / non competit iam gloriosis: vnde 
-      <lb ed="#B" n="32"/>patet quod simpliciter potest cocedi quod potem 
-      <lb ed="#B" n="33"/>tia peccandi sit a deo: licet secundum quid possit ne 
-      <lb ed="#B" n="34"/>gari: inquantum scilicet nominat illam defectibilitatem. 
-      <lb ed="#B" n="35"/>Econtra de peccato simpliciter negatur quod 
-      <lb ed="#B" n="36"/>sit a deo: et conceditur secundum quid / inquantum scilicet no 
-      <lb ed="#B" n="37"/>minat quid positiuum. Et hinc est quod doc. 
-      de<lb ed="#B" n="38" break="no"/>uotus magis condescendit quod non sit a deo 
-      <lb ed="#B" n="39"/>haec potentia peccandi. Tho. autem et doc. sub 
-      <lb ed="#B" n="40"/>ti. per oppositum: quia dicunt quod est a deo simpliciter / 
-      <lb ed="#B" n="41"/>sed non secundum quid / vt patuit: nec tamen in hoc inun 
-      <lb ed="#B" n="42"/>eos est contradictio: vtpatet clare inspicien 
-      <lb ed="#B" n="43"/>ti. Sed dicit secunda pars conclusionis / quod potentia 
-      <lb ed="#B" n="44"/>peccandi non est peccatum. Probatur: quia tunc 
-      <lb ed="#B" n="45"/>vir sanctus esset malus et peccator / cum possit 
-      <lb ed="#B" n="46"/>peccare. Caeterum potentia peccandi praecedit 
-      <lb ed="#B" n="47"/>tempore peccatum: vt innuitur in praecedentibus: vbi ostem 
-      <lb ed="#B" n="48"/>sum est quod oportuit prius tempore esse angelum 
-      <lb ed="#B" n="49"/>quam peccaret: vnde non sequitur: iste potest adulte¬ 
-      <!--479.xml-->
-      <cb ed="#B" n="b"/>
-                  <lb ed="#B" n="50"/>rari: ergo est adu lter. Et si dicatur: potentia bene 
-      <lb ed="#B" n="51"/>faciendi sper dicit bonum: ergo simili potentia 
-      <lb ed="#B" n="52"/>peccandi sper dicet peccatum. Dicendum quod non 
-      ex<lb ed="#B" n="53" break="no"/>tat simile: quia bonitas secundum se totam a deo est: et po 
-      <lb ed="#B" n="54"/>tentia faciendi bonitatem: ideo sper est bona: non sic 
-      <lb ed="#B" n="55"/>de potentia peccandi / quae ratione defectibilitatis 
-      <lb ed="#B" n="56"/>non habet causam: ideo peccatum non nominat: cum peccatum sit a 
-      <lb ed="#B" n="57"/>voluntate in actu posita. Et inde apud ali 
-      <lb ed="#B" n="58"/>quos versum est in prouerbium: quia boni sumus bona 
-      <lb ed="#B" n="59"/>facimus econtra in malo: quia mala facimus mali 
-      <lb ed="#B" n="60"/>sumus: nec sequitur / voluntas peccandi est pec 
-      <lb ed="#B" n="61"/>catum / ergo et potentia: quia voluntas peccandi iam 
-      <lb ed="#B" n="62"/>ncludit peccatum / quod non potentia: vnde illa regu 
-      <lb ed="#B" n="63"/>la: Unaquque potentia in suo completur actu: habet in 
-      <lb ed="#B" n="64"/>telligi / quando illa potentia ad illum actum de 
-      dire<lb ed="#B" n="65" break="no"/>cto ordinatur: quod non est in potentia peccandi 
-      re<lb ed="#B" n="66" break="no"/>spectu peccati: immo magis ad bonum ordinatur. 
-      </p>
-               <p xml:id="WuV37d-f07729-d1e622">
-                  <lb ed="#B" n="67"/>¶ Secunda conclusio est de praelatione vnde sit: et est  
-      <lb ed="#B" n="68"/>haec. Praelatio omnis a deo est: quae statui etiam 
-      in<lb ed="#B" n="69" break="no"/>nocentiae fuisset congrua. Dicit prima pars conclusio s 
-      <lb ed="#B" n="70"/>nis / quod omnis praelatio seu potestas est a deo: patet bre 
-      <lb ed="#B" n="71"/>uiter: quia nominat quid positiuum: omne autem 
-      posi<lb ed="#B" n="72" break="no"/>tiuum inquantum sic a deo est: vnde et christus pilato di 
-      <lb ed="#B" n="73"/>cit. Non haberes in me potestatem / nisi desu 
-      <lb ed="#B" n="74"/>per foret tibi datum. Et si dicatur: quia multae 
-      <lb ed="#B" n="75"/>sunt praelationes iniuste: nullum autem iniustum est 
-      <lb ed="#B" n="76"/>a deo. Dicendum vt dicit Tho. q. 2. primi 
-      <lb ed="#B" n="77"/>arti. In praelatione enim tria attenduntur: principium 
-      <lb ed="#B" n="78"/>modus et executio quae ad modum sper iusta est prae 
-      <lb ed="#B" n="79"/>latio modus enim praelationis est ordo 
-      infe<lb ed="#B" n="80" break="no"/>rioris ad superiorem / et econtra: et hoc notat 
-      <lb ed="#B" n="81"/>vniuersi pulchritudinem. Quo autem ad 
-      prin<lb ed="#B" n="82" break="no"/>cipium dicit doc. deuo. q. 1. arti. 2. quod 
-      tripli<lb ed="#B" n="83" break="no"/>citer acquiritur praelatio: primo per iusticiam: secundo in 
-      <lb ed="#B" n="84"/>violentiam: tertio per astutiam. Si principium 
-      <lb ed="#B" n="85"/>qulationis sit iusticia / est a deo faciente: si 
-      <lb ed="#B" n="86"/>vero sit astutia vel violentia a deo 
-      permitten<lb ed="#B" n="87" break="no"/>te: vel ad probationem beatorum / vel 
-      punitio<lb ed="#B" n="88" break="no"/>nem malorum. Unde dicitur: Dabo eis regem 
-      <lb ed="#B" n="89"/>in furore meo. Et alibi: Facit regnare he 
-      <lb ed="#B" n="90"/>pocritam propter peccata populi. Si autem ter 
-      <lb ed="#B" n="91"/>tio consideretur quo ad executionem: si debita 
-      <lb ed="#B" n="92"/>sit est a deo vt efficiente: et hac distin. patet 
-      <lb ed="#B" n="93"/>multarum rationum solutio vtputa quod sit malum 
-      <lb ed="#B" n="94"/>stultum praefici sapienti: vel quod deus remoueat. 
-      <lb ed="#B" n="95"/>praelationem quam semel dedit / et talia. Talia 
-      <lb ed="#B" n="96"/>enim adminus fiunt / aut probatione beatorum 
-      <lb ed="#B" n="97"/>aut punitione malorum. Sed dicit secunda pars 
-      <lb ed="#B" n="98"/>conclusionis / quod in statu innocentiae fuisset prae¬ 
-      <!--480.xml-->
-      <pb ed="#B" n="232-r"/>
-                  <cb ed="#B" n="a"/>
-                  <lb ed="#B" n="1"/>latio. Probatur. Omne id quod est ordinatum ad 
-      <lb ed="#B" n="2"/>conseruationem ordinis naturalis fuisset in 
-      sta<lb ed="#B" n="3" break="no"/>tu innocentiae: sed huiusmodi est praelatio: igitur etc. Ma 
-      <lb ed="#B" n="4"/>ior est nota: cum stante obedientia ad deum recte 
-      <lb ed="#B" n="5"/>ad seinuicem habuissent. Sed minor est Augustinus 
-      <lb ed="#B" n="6"/>19. de ciui. dei. Paenalis seruitus ea ordinatur qua 
-      <lb ed="#B" n="7"/>naturalem ordinem conseruari iubet et 
-      parturba<lb ed="#B" n="8" break="no"/>ri vetat. Et si dicatur: quia teste Oreg. natura 
-      <lb ed="#B" n="9"/>omnes homines aequiles fecit: sed pro variis meritis 
-      <lb ed="#B" n="10"/>alios aliis occulta dei dispensatio praeposuit 
-      <lb ed="#B" n="11"/>Dicendum quod illa auctoritas intelligitur de aequilitate 
-      <lb ed="#B" n="12"/>libertatis / non altia. Non tamen dico quod platio quae 
-      <lb ed="#B" n="13"/>modo est ad coercendum malos tunc fuisset. Ista 
-      <lb ed="#B" n="14"/>enim teste Amb. ex ebrietate inducta est. Unde 
-      <lb ed="#B" n="15"/>legitur: Seruitus inquit enim textus: 
-      Maledi<lb ed="#B" n="16" break="no"/>ctus chanaan puer: seruus seruorum erit 
-      fratri<lb ed="#B" n="17" break="no"/>bus suis. Uel propter peccatum adae quo ad rem: 
-      li<lb ed="#B" n="18" break="no"/>cet quo ad nomen primo a none exprimatur. Unde quae 
-      <lb ed="#B" n="19"/>ad hoc inquit Augustinus .15. de ci. dei. Rationalem 
-      <lb ed="#B" n="20"/>hominem ad immaginem dei factum non dominari 
-      vo<lb ed="#B" n="21" break="no"/>luit deus nisi rationalibus: vnde in illo statu 
-      praela<lb ed="#B" n="22" break="no"/>tio fuisset in hoc quod aliqui nobiliores fuissent in 
-      <lb ed="#B" n="23"/>naturalibus aliis: et eos de multis docuissent 
-      <lb ed="#B" n="24"/>et ad operandum perfectius inuitassent: licet nempe 
-      <lb ed="#B" n="25"/>nullus eorum malus fuisset: non tamen equilitur fuissent 
-      <lb ed="#B" n="26"/>boni: cum etiam intur angelos gradus sit bonita 
-      <lb ed="#B" n="27"/>tis. Nec est simile de statu glsiae: in quo omnes erunt 
-      <lb ed="#B" n="28"/>docibiles dei: status nempe innocentiae erat 
-      <lb ed="#B" n="29"/>status viatoris.
-</p>
-               <p xml:id="WuV37d-f07729-d1e763">
-¶ Tertia conclusio est de 
-      <lb ed="#B" n="30"/>obedientia subditi ad praelatum: et est haec. 
-      Li<lb ed="#B" n="31" break="no"/>cet ad bonos et malos praelatos obedienti 
-      <lb ed="#B" n="32"/>am habeat subditus in bonis: non tamen 
-      tene<lb ed="#B" n="33" break="no"/>tur omnibus. Dicit prima pars conclusionis. 
-      <lb ed="#B" n="34"/>quod subditus obedire tenetur bonis et malis 
-      <lb ed="#B" n="35"/>praelatis: patet expresse per apostolum. Serui / subdi 
-      <lb ed="#B" n="36"/>ti estote in omni timore dominis: non tantum bonis 
-      <lb ed="#B" n="37"/>et modestis / sed etiam discholis. Et Paul 
-      <lb ed="#B" n="38"/>dicit: Omnis anima potestatibus 
-      sublimiori<lb ed="#B" n="39" break="no"/>bus subdita sit. Ex quo infertur quod christia 
-      <lb ed="#B" n="40"/>ni debent obedire terrenis principibus. Sed  
-      <lb ed="#B" n="41"/>in quibus? Dicit Tho. q. 2. arti. 2. quod 
-      tri<lb ed="#B" n="42" break="no"/>pliciter potest praecipere terrenus princeps 
-      sub<lb ed="#B" n="43" break="no"/>dito. Aut primo contra deum: sic non 
-      tenentu<lb ed="#B" n="44" break="no"/>obedire / immo non obedire. Patet in 
-      legio<lb ed="#B" n="45" break="no"/>ne sacra thebeorum refutantium praeceptum 
-      ma<lb ed="#B" n="46" break="no"/>ximiani. Secundo praeter debitum: et sic non 
-      <lb ed="#B" n="47"/>tenentur obedire: tamen possunt si volunt: 
-      si<lb ed="#B" n="48" break="no"/>cut si princeps imponeret populo mulctam 
-      <lb ed="#B" n="49"/>non debitam. Tertio dum praecipit id ad quod ob¬ 
-      <!--480.xml-->
-      <cb ed="#B" n="b"/>
-                  <lb ed="#B" n="50"/>ligatur subditus: tunc ei obediendum est. Unde 
-      <lb ed="#B" n="51"/>christus: Reddite quae sunt cesaris caesari 
-      <lb ed="#B" n="52"/>et quo sunt dei deo. Et apostolus: Reddite 
-      omni<lb ed="#B" n="53" break="no"/>bus debitum: cui tributum / tributum: cui 
-      ve<lb ed="#B" n="54" break="no"/>ctigal / vectigal. Et si obiiciatur: quia 
-      adueni<lb ed="#B" n="55" break="no"/>ente maiori obligatione cessat minor: 
-      si<lb ed="#B" n="56" break="no"/>cut adueniente lege christi cessauit lex 
-      mo<lb ed="#B" n="57" break="no"/>vsi: christianus autem obligatur christo qua 
-      <lb ed="#B" n="58"/>si principaliori: et per consequens non principi 
-      <lb ed="#B" n="59"/>terreno. Dicendum quod non est simile de lege mo 
-      <lb ed="#B" n="60"/>vsi et lege christi: quia lex moysi fuit vmbrai 
-      <lb ed="#B" n="61"/>lex christi lux: ideo aduenicte luce cessare 
-      <lb ed="#B" n="62"/>debuiit vmbra: non sic autem in proposito: ma 
-      <lb ed="#B" n="63"/>net enim haec minor obligatio ratione humilita 
-      <lb ed="#B" n="64"/>tis: vt non solum humiliemur deo / sed homi: et 
-      <lb ed="#B" n="65"/>amplius in caelo praemium habeamus. Lex enim 
-      <lb ed="#B" n="66"/>christi dicitur libertatis: maxime quia liberats 
-      <lb ed="#B" n="67"/>a peccato: et ea mediante erimus liberi a poena in 
-      <lb ed="#B" n="68"/>celo. Nec obuiat illud de christo dicente: 
-      <lb ed="#B" n="69"/>Reges terrae a quibus accipiunt censum: 
-      <lb ed="#B" n="70"/>a filiis / an ab alienis: Et infra. Ergo liberi 
-      <lb ed="#B" n="71"/>sunt filii. Christus enim et eius discipuli 
-      ni<lb ed="#B" n="72" break="no"/>hil possidebant: immo omnia contempserant 
-      tem<lb ed="#B" n="73" break="no"/>poralia: sicuti et veris fratribus 
-      minori<lb ed="#B" n="74" break="no"/>bus in francia: et alibi multa passagia sunt 
-      <lb ed="#B" n="75"/>libera. Secunda pars conclusionis dicit / 
-      <lb ed="#B" n="76"/>quod subditus / vt (verbi gratia / religiosus: non 
-      <lb ed="#B" n="77"/>tenetur in omnibus bonis obedire suo 
-      prae<lb ed="#B" n="78" break="no"/>lato: patet: als vnica solum esset religio 
-      <lb ed="#B" n="79"/>si ad omnia praecepta praelati teneretur 
-      religio<lb ed="#B" n="80" break="no"/>sus. Et confirmatur: quia in his solum 
-      obedi<lb ed="#B" n="81" break="no"/>re tenetur: in quibus votum emisit: sed 
-      so<lb ed="#B" n="82" break="no"/>lum vouit vnam regulam: et ita solum ad 
-      ob<lb ed="#B" n="83" break="no"/>seruantiam illius obligatur. Et confirmatur: nam 
-      <lb ed="#B" n="84"/>Petrus dixit: Obedire oportet deo ma 
-      <lb ed="#B" n="85"/>gis quam hominibus. Et ita non in omnibus 
-      <lb ed="#B" n="86"/>tenetur praelato. Unde Bern. in libro de 
-      dis<lb ed="#B" n="87" break="no"/>pensatione et praecepto. Nihil probibeat ipse 
-      <lb ed="#B" n="88"/>prielatus horum quae promisi: nihil plus exigat 
-      <lb ed="#B" n="89"/>quam promisi. Et patet exemplo. Praelatus 
-      <lb ed="#B" n="90"/>enim in qualibet religione est positus / vt eam 
-      <lb ed="#B" n="91"/>faciat obseruari: et ita ad hoc tantum ad quod 
-      <lb ed="#B" n="92"/>et praeceptum se extendit et sua potestas: verum est tamen 
-      <lb ed="#B" n="93"/>quod si quis ad cuncta imperia obediret 
-      praela<lb ed="#B" n="94" break="no"/>ti in bono: tunc perfectius obediens esset iu 
-      <lb ed="#B" n="95"/>dicandus. Sicuti narratur de doctore sub 
-      <lb ed="#B" n="96"/>tili: qui in prato clericorum visa generalis 
-      <lb ed="#B" n="97"/>mistri obedientia: dum actu regens esset in schos 
-      <lb ed="#B" n="98"/>parrhysien. aut pauca / aut nulla de rebus 
-      <!--481.xml-->
-      <pb ed="#B" n="232-v"/>
-                  <cb ed="#B" n="a"/>
-                  <lb ed="#B" n="1"/>habita dispositione parrhysius exiuit vt 
-      co<lb ed="#B" n="2" break="no"/>loniam iret secundum ministri sninam. Et ita habens 
-      <lb ed="#B" n="3"/>oppositae auctoritates intelligi: sicut illa 
-      Hiero<lb ed="#B" n="4" break="no"/>ad Rusticum praepositum monasterii. Timeas 
-      <lb ed="#B" n="5"/>vt dominum: diligasvt patrem: credas quicquid 
-      di<lb ed="#B" n="6" break="no"/>xerit salutare: nec maiorum iudices sninam: 
-      <lb ed="#B" n="7"/>cuius est officium obedire et iussa im plere / dicen 
-      <lb ed="#B" n="8"/>te moyse: Audi istilis et tace / et consimiles. 
-      <lb ed="#B" n="9"/>articu 
-      <lb ed="#B" n="10"/>lum sunt 
-      <lb ed="#B" n="11"/>tres diffi. Prima. quid vult dicere illa 
-      au<lb ed="#B" n="12" break="no"/>ctoritas: Potuit transgredi et non est trani 
-      <lb ed="#B" n="13"/>gressus: dans laudem talibus maxime: cum deus sit 
-      <lb ed="#B" n="14"/>laudabilis: qui tantum peccare non potest: nec christ 
-      <lb ed="#B" n="15"/>potuit. Dicendum quod intelligitur de quadam laude 
-      <lb ed="#B" n="16"/>accidentali cum defectibilitate habita: quia 
-      <lb ed="#B" n="17"/>homini peccabili valde laudabile est habitare 
-      <lb ed="#B" n="18"/>cum malisi et non peccare: nec tantum minuitur laus 
-      <lb ed="#B" n="19"/>dei aut christis / si hoc non potuit: quia perfectius 
-      <lb ed="#B" n="20"/>in eis hoc recusabat: patet exemplo. Furor 
-      <lb ed="#B" n="21"/>enim laudatur in cane / non in homine: sic in proposito¬ 
-      </p>
-               <p xml:id="WuV37d-f07729-d1e971">
-                  <lb ed="#B" n="22"/>¶ Secunda diffi. Quomodo similistant quod aliqua 
-      po<lb ed="#B" n="23" break="no"/>testas seu praelatio sit a deo: ettame quod dicatur 
-      <lb ed="#B" n="24"/>vsurpata? Dicendum quod dicitur a deo 
-      permissi<lb ed="#B" n="25" break="no"/>ue in hoc casu: vsurpata autem dicitur ab homine am 
-      <lb ed="#B" n="26"/>biente.
-</p>
-               <p xml:id="WuV37d-f07729-d1e984">
-¶ Tertia diffi. Cui est magis obe 
-      <lb ed="#B" n="27"/>diendum: aut superiori praelato / aut inferiori? Di 
-      <lb ed="#B" n="28"/>cendum quod quando inferior praelatio penitus manat a 
-      <lb ed="#B" n="29"/>superiore magis obediendum est superiori: sicuti 
-      <lb ed="#B" n="30"/>deo quam homnibus: quando vero duae praelationes superio 
-      <lb ed="#B" n="31"/>et inferior manant per ordinem a peretia: tunc aliquando es 
-      <lb ed="#B" n="32"/>magis obediendum superiori / aliquando inferiori: 
-      si<lb ed="#B" n="33" break="no"/>cuti modo achus in aliquibus magis tenetur obedire 
-      <lb ed="#B" n="34"/>abbati quam episcopo: vt in aspicientibus suam regulam: in 
-      <lb ed="#B" n="35"/>aliis magis episcopo: sicut in pertinentibus discipliae eo 
-      <lb ed="#B" n="36"/>clesiasticae. Et loquier de abbatibus non exemptis: 
-      <lb ed="#B" n="37"/>Ex hoc patet ad. q. quod videlicet licet tam potentia 
-      <lb ed="#B" n="38"/>peccandi quam praelatio sit a deo: in omnibus tamen subditus 
-      <lb ed="#B" n="39"/>non tenetur obedire creato praelato.
-</p>
-               <p xml:id="WuV37d-f07729-d1e1016">
-¶ Ad pri 
-      <lb ed="#B" n="40"/>mum arg. dicendum / quod illa regula: cuius vsus ma 
-      <lb ed="#B" n="41"/>lus est / ipsm quom malum est: intelligitur quando vsus fit in 
-      <lb ed="#B" n="42"/>re ad id ad quod ordinatur / sicut equus ad 
-      equitan<lb ed="#B" n="43" break="no"/>dum: peccare autem non est id ad quod ordinatur 
-      vo<lb ed="#B" n="44" break="no"/>luntas creata / sed benefacere: venit enim peccatum 
-      <lb ed="#B" n="45"/>ex defectibilitate: ideo non currit argu. Et dum 
-      <lb ed="#B" n="46"/>confirmatur: quia vt dicit ansel. Posse peccare 
-      <lb ed="#B" n="47"/>nec libertas est / nec pars libertatis. Dicendum 
-      <lb ed="#B" n="48"/>quod accipit illud posse pro ordine ad 
-      deformi<lb ed="#B" n="49" break="no"/>tatem / non pro potentia: et illo modo dictum est quod non 
-      <!--481.xml-->
-      <cb ed="#B" n="b"/>
-                  <lb ed="#B" n="50"/>est a deo / sed isto secundo.
-</p>
-               <p xml:id="WuV37d-f07729-d1e1047">
-¶ Ad secundm dicendum ad 
-      <lb ed="#B" n="51"/>maiorem: quod aliquid fieri a deo contra ius naturae 
-      <lb ed="#B" n="52"/>potest intelligi / aut contra vele dictamen: et sic 
-      ma<lb ed="#B" n="53" break="no"/>ior est vera / et minor falsa. Sicuti enim eadem 
-      <lb ed="#B" n="54"/>medicina quae dat vinum sano / remouet egro: 
-      <lb ed="#B" n="55"/>sic eadem naturae lex dictat seruitutem in 
-      natu<lb ed="#B" n="56" break="no"/>ra lapsa / non in statu innocentiae. Potest rursum 
-      in<lb ed="#B" n="57" break="no"/>telligi aliquid fieri a deo contra ius naturae in 
-      parti<lb ed="#B" n="58" break="no"/>culari: et sic maior est falsa/ et minor vera: et 
-      <lb ed="#B" n="59"/>ita argu. semper habet vnam praemissam falsam. Auctoritas 
-      <lb ed="#B" n="60"/>autem osee intelligitur de voluntate antecedente in e 
-      <lb ed="#B" n="61"/>malis.
-</p>
-               <p xml:id="WuV37d-f07729-d1e1073">
-¶ Ad tertium dicendum ad maiorem / quod est 
-      <lb ed="#B" n="62"/>sic et non sic. Est quidem sic: quia sicut vouet fugere 
-      <lb ed="#B" n="63"/>actum carnis: sic ponit voluntatem in voluntate 
-      <lb ed="#B" n="64"/>praecipientis. Est autem non sic: quia non oportet quod 
-      <lb ed="#B" n="65"/>sicut negat omnem actum carnis / sic se obliget ad 
-      <lb ed="#B" n="66"/>quodlibet verbum praecipientis: esset nempe quasi 
-      impossi<lb ed="#B" n="67" break="no"/>bile: vnde bene dicit beati s simus franciscus in sua regu 
-      <lb ed="#B" n="68"/>la: in his quae promiserunt domino obseruare 
-      fideli<lb ed="#B" n="69" break="no"/>ter. Dictum autem benedictin sua regula 
-      intelli<lb ed="#B" n="70" break="no"/>gitur de perfecte obedientibus. Et sic obedientia 
-      <lb ed="#B" n="71"/>librum terminat secundum: qua mediante peruem ire 
-      me<lb ed="#B" n="72" break="no"/>reamur ad regna caelorum. Anem.
-</p>
-            </div>
-            <div xml:id="WuV37d-f07729-Dd1e1100" type="et-conclusiones">
-               <head xml:id="WuV37d-f07729-Hd1e1102">Conclusiones</head>
-               <p xml:id="WuV37d-f07729-d1e1105">
-¶ Ex posen s 
-      <lb ed="#B" n="73"/>ti autem dis. etc. Prima conclusio. Deus potentiam / 
-      <lb ed="#B" n="74"/>benefaciendi producit / etiam et illam peccandi. Di /i 
-      <lb ed="#B" n="75"/>cit conclusio / quod tam potentia benefaciendi quam 
-      male<lb ed="#B" n="76" break="no"/>faciendi est a deo: et ponitur a principio dist. vsque 
-      <lb ed="#B" n="77"/>ad ilsud. c. Hic oritur quodo non transiliendo etc. 
-      </p>
-               <p xml:id="WuV37d-f07729-d1e1118">
-                  <lb ed="#B" n="78"/>¶ Secunda conclusio. Principi seculi iusta 
-      iu<lb ed="#B" n="79" break="no"/>benti tenentur seruuli / non mala dictanti. Dicit 
-      <lb ed="#B" n="80"/>conclusio / quod subditi tenentur obedire principi 
-      <lb ed="#B" n="81"/>seculari dum praecipit iusta: et non dum praecipit iniu 
-      <lb ed="#B" n="82"/>sta: et ponitur ab illo. c. Hic oritur quod etc. vsque 
-      <lb ed="#B" n="83"/>ibi: Iam nunc his etc.
-</p>
-               <p xml:id="WuV37d-f07729-d1e1134">
-¶ Tertia coclusio. 
-      Sa<lb ed="#B" n="84" break="no"/>crum mysterium incarnationis petit studium com 
-      <lb ed="#B" n="85"/>templationis. Dicit conclusio / quod cognitio sacri 
-      <lb ed="#B" n="86"/>mysterii diuinae incarnationis filii dei de quo 
-      <lb ed="#B" n="87"/>est loquendum in sequenti libro: exigit vt per con 
-      <lb ed="#B" n="88"/>templationem fiat in nobis reuelatio. Et po 
-      <lb ed="#B" n="89"/>nitur ab illo ca. Iam nunc his etc. vsque hi 
-      <lb ed="#B" n="90"/>libri secundi etc. 
-</p>
-               <p xml:id="WuV37d-f07729-d1e1152">
-                  <lb ed="#B" n="91"/>Riber secundus magistri 
-      Sentem<lb ed="#B" n="92" break="no"/>tiarum perlucide disputatus et decla 
-      <lb ed="#B" n="93"/>tatus / a venerabili patre fratre Guil 
-      <lb ed="#B" n="94"/>lermo vorrillong finit. 
-    </p>
-            </div>
-         </div>
-      </body>
-   </text>
+            <lb ed="#B" n="50"/>rari: ergo est adulter. Et si dicatur: potentia bene 
+            <lb ed="#B" n="51"/>faciendi semper dicit bonum: ergo simili potentia 
+            <lb ed="#B" n="52"/>peccandi semper dicet peccatum. Dicendum quod non 
+            ex<lb ed="#B" n="53" break="no"/>tat simile: quia bonitas secundum se totam a deo est: et 
+            po<lb ed="#B" n="54" break="no"/>tentia faciendi bonitatem: ideo semper est bona: non sic 
+            <lb ed="#B" n="55"/>de potentia peccandi / quae ratione defectibilitatis 
+            <lb ed="#B" n="56"/>non habet causam: ideo peccatum non nominat: cum peccatum sit a 
+            <lb ed="#B" n="57"/>voluntate in actu posita. Et inde apud 
+            ali<lb ed="#B" n="58" break="no"/>quos versum est in prouerbium: quia boni sumus bona 
+            <lb ed="#B" n="59"/>facimus econtra in malo: quia mala facimus mali 
+            <lb ed="#B" n="60"/>sumus: nec sequitur / voluntas peccandi est 
+            pec<lb ed="#B" n="61" break="no"/>catum / ergo et potentia: quia voluntas peccandi iam 
+            <lb ed="#B" n="62"/>includit peccatum / quod non potentia: vnde illa 
+            regu<lb ed="#B" n="63" break="no"/>la: Unaquaeque potentia in suo completur actu: habet 
+            in<lb ed="#B" n="64" break="no"/>telligi / quando illa potentia ad illum actum de 
+            dire<lb ed="#B" n="65" break="no"/>cto ordinatur: quod non est in potentia peccandi 
+            re<lb ed="#B" n="66" break="no"/>spectu peccati: immo magis ad bonum ordinatur. 
+          </p>
+          <p xml:id="WuV37d-f07729-d1e622">
+            <lb ed="#B" n="67"/>¶ Secunda conclusio est de praelatione vnde sit: et est  
+            <lb ed="#B" n="68"/>haec. Praelatio omnis a deo est: quae statui etiam 
+            in<lb ed="#B" n="69" break="no"/>nocentiae fuisset congrua. Dicit prima pars 
+            conclusio<lb ed="#B" n="70" break="no"/>nis / quod omnis praelatio seu potestas est a deo: patet 
+            bre<lb ed="#B" n="71" break="no"/>uiter: quia nominat quid positiuum: omne autem 
+            posi<lb ed="#B" n="72" break="no"/>tiuum inquantum sic a deo est: vnde et christus pilato 
+            di<lb ed="#B" n="73" break="no"/>cit. <quote xml:id="WuV37d-f07729-Qd1e702" source="http://scta.info/resource/io19_11@3-13">Non haberes in me potestatem / nisi 
+            desu<lb ed="#B" n="74" break="no"/>per foret tibi datum</quote>. Et si dicatur: quia multae 
+            <lb ed="#B" n="75"/>sunt praelationes iniuste: nullum autem iniustum est 
+            <lb ed="#B" n="76"/>a deo. Dicendum vt dicit <ref xml:id="WuV37d-f07729-Rd1e711" target="http://scta.info/resource/ta-l2d44q1-d1e212">Tho. q. 2. <sic>primi<!-- but actually the 2nd --></sic> 
+            <lb ed="#B" n="77"/>articuli</ref>. In praelatione enim tria attenduntur: principium 
+            <lb ed="#B" n="78"/>modus et executio quae ad modum semper iusta est 
+            prae<lb ed="#B" n="79" break="no"/>latio: modus enim praelationis est ordo 
+            infe<lb ed="#B" n="80" break="no"/>rioris ad superiorem / et econtra: et hoc notat 
+            <lb ed="#B" n="81"/>vniuersi pulchritudinem. Quo autem ad 
+            prin<lb ed="#B" n="82" break="no"/>cipium dicit <ref xml:id="WuV37d-f07729-Rd1e731">doc. deuo. q. 1. arti. 2.</ref> quod 
+            tripli<lb ed="#B" n="83" break="no"/>citer acquiritur praelatio: primo per iusticiam: secundo in 
+            <lb ed="#B" n="84"/>violentiam: tertio per astutiam. Si principium 
+            <lb ed="#B" n="85"/>praelationis sit iusticia / est a deo faciente: si 
+            <lb ed="#B" n="86"/>vero sit astutia vel violentia a deo 
+            permitten<lb ed="#B" n="87" break="no"/>te: vel ad probationem beatorum / vel 
+            punitio<lb ed="#B" n="88" break="no"/>nem malorum. Unde dicitur: <quote xml:id="WuV37d-f07729-Qd1e747" source="http://scta.info/resource/os13_11@1-6">Dabo eis regem 
+              <lb ed="#B" n="89"/>in furore meo</quote>. Et alibi: <quote xml:id="WuV37d-f07729-Qd1e752" source="http://scta.info/resource/iob34_30@2-8">Facit regnare 
+            hy<lb ed="#B" n="90" break="no"/>pocritam propter peccata populi</quote>. Si autem 
+            ter<lb ed="#B" n="91" break="no"/>tio consideretur quo ad executionem: si debita 
+            <lb ed="#B" n="92"/>sit est a deo vt efficiente: et hac distin. patet 
+            <lb ed="#B" n="93"/>multarum rationum solutio vtputa quod sit malum 
+            <lb ed="#B" n="94"/>stultum praefici sapienti: vel quod deus remoueat. 
+            <lb ed="#B" n="95"/>praelationem quam semel dedit / et talia. Talia 
+            <lb ed="#B" n="96"/>enim ad minus fiunt / aut probatione beatorum 
+            <lb ed="#B" n="97"/>aut punitione malorum. Sed dicit secunda pars 
+            <lb ed="#B" n="98"/>conclusionis / quod in statu innocentiae fuisset prae<pb ed="#B" n="232-r"/><cb ed="#B" n="a" break="no"/><lb ed="#B" n="1"/>latio. 
+            Probatur. Omne id quod est ordinatum ad 
+            <lb ed="#B" n="2"/>conseruationem ordinis naturalis fuisset in 
+            sta<lb ed="#B" n="3" break="no"/>tu innocentiae: sed huiusmodi est praelatio: igitur etc. 
+            Ma<lb ed="#B" n="4" break="no"/>ior est nota: cum stante obedientia ad deum recte 
+            <lb ed="#B" n="5"/>ad seinuicem habuissent. Sed minor est <ref xml:id="WuV37d-f07729-Rd1e787">Augustinus 
+              <lb ed="#B" n="6"/>19. de ciui. dei.</ref> <quote xml:id="WuV37d-f07729-Qd1e792" source="http://scta.info/resource/adcd-l19-d1e3134@295-306">Poenalis seruitus ea ordinatur qua 
+            <lb ed="#B" n="7"/>naturalem ordinem conseruari iubet et 
+            parturba<lb ed="#B" n="8" break="no"/>ri vetat</quote>. Et si dicatur: quia teste Greg. natura 
+            <lb ed="#B" n="9"/>omnes homines aequales fecit: sed pro variis meritis 
+            <lb ed="#B" n="10"/>alios aliis occulta dei dispensatio praeposuit 
+            <lb ed="#B" n="11"/>Dicendum quod illa auctoritas intelligitur de aequalitate 
+            <lb ed="#B" n="12"/>libertatis / non alia. Non tamen dico quod praelatio quae 
+            <lb ed="#B" n="13"/>modo est ad coercendum malos tunc fuisset. Ista 
+            <lb ed="#B" n="14"/>enim teste Amb. ex ebrietate inducta est. Unde 
+            <lb ed="#B" n="15"/>legitur: Seruitus inquit enim textus: 
+            Maledi<lb ed="#B" n="16" break="no"/>ctus chanaan puer: seruus seruorum erit 
+            fratri<lb ed="#B" n="17" break="no"/>bus suis. Uel propter peccatum adae quo ad rem: 
+            li<lb ed="#B" n="18" break="no"/>cet quo ad nomen primo a <name xml:id="WuV37d-f07729-Nd1e821">noe</name> exprimatur. Unde quae 
+            <lb ed="#B" n="19"/>ad hoc inquit <ref xml:id="WuV37d-f07729-Rd1e826">Augustinus 19. de ciuitate dei</ref>. <quote xml:id="WuV37d-f07729-Qd1e828" source="http://scta.info/resource/adcd-l19-d1e3134@24-32">Rationalem 
+            <lb ed="#B" n="20"/>hominem ad imaginem dei factum non dominari 
+            vo<lb ed="#B" n="21" break="no"/>luit deus nisi <sic>rationalibus<!-- should be irrationalibus --></sic></quote>: vnde in illo statu 
+            praela<lb ed="#B" n="22" break="no"/>tio fuisset in hoc quod aliqui nobiliores fuissent in 
+            <lb ed="#B" n="23"/>naturalibus aliis: et eos de multis docuissent 
+            <lb ed="#B" n="24"/>et ad operandum perfectius inuitassent: licet nempe 
+            <lb ed="#B" n="25"/>nullus eorum malus fuisset: non tamen aequaliter fuissent 
+            <lb ed="#B" n="26"/>boni: cum etiam inter angelos gradus sit 
+            bonita<lb ed="#B" n="27" break="no"/>tis. Nec est simile de statu gloriae: in quo omnes erunt 
+            <lb ed="#B" n="28"/>docibiles dei: status nempe innocentiae erat 
+            <lb ed="#B" n="29"/>status viatoris.
+          </p>
+          <p xml:id="WuV37d-f07729-d1e763">
+            ¶ Tertia conclusio est de 
+            <lb ed="#B" n="30"/>obedientia subditi ad praelatum: et est haec. 
+            Li<lb ed="#B" n="31" break="no"/>cet ad bonos et malos praelatos 
+            obedienti<lb ed="#B" n="32" break="no"/>am habeat subditus in bonis: non tamen 
+            tene<lb ed="#B" n="33" break="no"/>tur omnibus. Dicit prima pars conclusionis. 
+            <lb ed="#B" n="34"/>quod subditus obedire tenetur bonis et malis 
+            <lb ed="#B" n="35"/>praelatis: patet expresse per apostolum. <quote xml:id="WuV37d-f07729-Qd1e871" source="http://scta.info/resource/Ipetr2_18@1-14">Serui / 
+            subdi<lb ed="#B" n="36" break="no"/>ti estote in omni timore dominis: non tantum bonis 
+            <lb ed="#B" n="37"/>et modestis / sed etiam discholis</quote>. Et Paulus 
+            <lb ed="#B" n="38"/>dicit: <quote xml:id="WuV37d-f07729-Qd1e880" source="http://scta.info/resource/rom13_1@1-6">Omnis anima potestatibus 
+            sublimiori<lb ed="#B" n="39" break="no"/>bus subdita sit</quote>. Ex quo infertur quod 
+            christia<lb ed="#B" n="40" break="no"/>ni debent obedire terrenis principibus. Sed  
+            <lb ed="#B" n="41"/>in quibus? Dicit <ref xml:id="WuV37d-f07729-Rd1e890">Tho. q. 2. arti. 2.</ref> quod 
+            tri<lb ed="#B" n="42" break="no"/>pliciter potest praecipere terrenus princeps 
+            sub<lb ed="#B" n="43" break="no"/>dito. Aut primo contra deum: sic non tenentur
+            <lb ed="#B" n="44"/>obedire / immo non obedire. Patet in 
+            legio<lb ed="#B" n="45" break="no"/>ne sacra thebeorum refutantium praeceptum 
+            ma<lb ed="#B" n="46" break="no"/>ximiani. Secundo praeter debitum: et sic non 
+            <lb ed="#B" n="47"/>tenentur obedire: tamen possunt si volunt: 
+            si<lb ed="#B" n="48" break="no"/>cut si princeps imponeret populo mulctam 
+            <lb ed="#B" n="49"/>non debitam. Tertio dum praecipit id ad quod 
+            ob<cb ed="#B" n="b"/><lb ed="#B" n="50" break="no"/>ligatur subditus: tunc ei obediendum est. Unde 
+            <lb ed="#B" n="51"/>christus: <quote xml:id="WuV37d-f07729-Qd1e915" source="http://scta.info/resource/mt22_21@7-17">Reddite quae sunt cesaris caesari 
+              <lb ed="#B" n="52"/>et quae sunt dei deo</quote>. Et apostolus: <quote xml:id="WuV37d-f07729-Qd1e920" source="http://scta.info/resource/rom13_7@1-9">Reddite 
+            omni<lb ed="#B" n="53" break="no"/>bus debitum: cui tributum / tributum: cui 
+            ve<lb ed="#B" n="54" break="no"/>ctigal / vectigal</quote>. Et si obiiciatur: quia 
+            adueni<lb ed="#B" n="55" break="no"/>ente maiori obligatione cessat minor: 
+            si<lb ed="#B" n="56" break="no"/>cut adueniente lege christi cessauit lex 
+            mo<lb ed="#B" n="57" break="no"/>vsi: christianus autem obligatur christo 
+            qua<lb ed="#B" n="58" break="no"/>si principaliori: et per consequens non principi 
+            <lb ed="#B" n="59"/>terreno. Dicendum quod non est simile de lege 
+            mo<lb ed="#B" n="60" break="no"/>ysi et lege christi: quia lex moysi fuit vmbra <pc type="virgula">/</pc> 
+            <lb ed="#B" n="61"/>lex christi lux: ideo adueniente luce cessare 
+            <lb ed="#B" n="62"/>debuit vmbra: non sic autem in proposito: 
+            ma<lb ed="#B" n="63" break="no"/>net enim haec minor obligatio ratione 
+            humilita<lb ed="#B" n="64" break="no"/>tis: vt non solum humiliemur deo / sed homini: et 
+            <lb ed="#B" n="65"/>amplius in caelo praemium habeamus. Lex enim 
+            <lb ed="#B" n="66"/>christi dicitur libertatis: maxime quia liberat 
+            <lb ed="#B" n="67"/>a peccato: et ea mediante erimus liberi a poena in 
+            <lb ed="#B" n="68"/>celo. Nec obuiat illud de christo dicente: 
+            <lb ed="#B" n="69"/><quote xml:id="WuV37d-f07729-Qd1e962" source="http://scta.info/resource/mt17_24@15-28">Reges terrae a quibus accipiunt censum: 
+            <lb ed="#B" n="70"/>a filiis / an ab alienis</quote>: Et infra. <quote xml:id="WuV37d-f07729-Qd1e967" source="http://scta.info/resource/mt17_25@9-12">Ergo liberi 
+            <lb ed="#B" n="71"/>sunt filii</quote>. Christus enim et eius discipuli 
+            ni<lb ed="#B" n="72" break="no"/>hil possidebant: immo omnia contempserant 
+            tem<lb ed="#B" n="73" break="no"/>poralia: sicuti et veris fratribus 
+            minori<lb ed="#B" n="74" break="no"/>bus in francia: et alibi multa passagia sunt 
+            <lb ed="#B" n="75"/>libera. Secunda pars conclusionis dicit / 
+            <lb ed="#B" n="76"/>quod subditus / vt (verbi gratia) / religiosus: non 
+            <lb ed="#B" n="77"/>tenetur in omnibus bonis obedire suo 
+            prae<lb ed="#B" n="78" break="no"/>lato: patet: als vnica solum esset religio: 
+            <lb ed="#B" n="79"/>si ad omnia praecepta praelati teneretur 
+            religio<lb ed="#B" n="80" break="no"/>sus. Et confirmatur: quia in his solum 
+            obedi<lb ed="#B" n="81" break="no"/>re tenetur: in quibus votum emisit: sed 
+            so<lb ed="#B" n="82" break="no"/>lum vouit vnam regulam: et ita solum ad 
+            ob<lb ed="#B" n="83" break="no"/>seruantiam illius obligatur. Et confirmatur: nam 
+            <lb ed="#B" n="84"/>Petrus dixit: Obedire oportet deo 
+            ma<lb ed="#B" n="85" break="no"/>gis quam hominibus. Et ita non in omnibus 
+            <lb ed="#B" n="86"/>tenetur praelato. Unde <ref xml:id="WuV37d-f07729-Rd1e1004">Bern. in libro de 
+            dis<lb ed="#B" n="87" break="no"/>pensatione et praecepto</ref>. <quote xml:id="WuV37d-f07729-Qd1e1010">Nihil prohibeat ipse 
+            <lb ed="#B" n="88"/>praelatus horum quae promisi: nihil plus exigat 
+            <lb ed="#B" n="89"/>quam promisi</quote>. Et patet exemplo. Praelatus 
+            <lb ed="#B" n="90"/>enim in qualibet religione est positus / vt eam 
+            <lb ed="#B" n="91"/>faciat obseruari: et ita ad hoc tantum ad quod 
+            <lb ed="#B" n="92"/>et praeceptum se extendit et sua potestas: verum est tamen 
+            <lb ed="#B" n="93"/>quod si quis ad cuncta imperia obediret 
+            praela<lb ed="#B" n="94" break="no"/>ti in bono: tunc perfectius obediens esset 
+            iu<lb ed="#B" n="95" break="no"/>dicandus. Sicuti narratur de doctore 
+            sub<lb ed="#B" n="96" break="no"/>tili: qui in prato clericorum visa generalis 
+            <lb ed="#B" n="97"/>ministri obedientia: dum actu regens esset in schola 
+            <lb ed="#B" n="98"/>parrhysiense aut pauca / aut nulla de rebus 
+            <!--481.xml-->
+            <pb ed="#B" n="232-v"/>
+            <cb ed="#B" n="a"/>
+            <lb ed="#B" n="1"/>habita dispositione parrhysius exiuit vt 
+            co<lb ed="#B" n="2" break="no"/>loniam iret secundum ministri sententiam. Et ita habent 
+            <lb ed="#B" n="3"/>oppositae auctoritates intelligi: sicut illa Hiero.
+            <lb ed="#B" n="4"/>ad Rusticum praepositum monasterii. Timeas 
+            <lb ed="#B" n="5"/>vt dominum: diligas vt patrem: credas quicquid 
+            di<lb ed="#B" n="6" break="no"/>xerit salutare: nec maiorum iudices sententiam: 
+            <lb ed="#B" n="7"/>cuius est officium obedire et iussa implere / 
+            dicen<lb ed="#B" n="8" break="no"/>te moyse: Audi israel et tace / et consimiles. 
+          </p>
+        </div>
+        <div xml:id="WuV37d-f07729-Dd1e1062">
+          <head xml:id="WuV37d-f07729-Hd1e1064">Articulus 3</head>
+          <p xml:id="WuV37d-f07729-d1e1066">
+            <lb ed="#B" n="9"/>Quantum ad tertium 
+            articu<lb ed="#B" n="10" break="no"/>lum sunt 
+            <lb ed="#B" n="11"/>tres difficultates. Prima. quid vult dicere illa 
+            au<lb ed="#B" n="12" break="no"/>ctoritas: <quote xml:id="WuV37d-f07729-Qd1e1076" source="http://scta.info/resource/sir31_10@16-21">Potuit transgredi et non est 
+            trans<lb ed="#B" n="13" break="no"/>gressus</quote>: dans laudem talibus maxime: cum deus sit 
+            <lb ed="#B" n="14"/>laudabilis: qui tantum peccare non potest: nec christus 
+            <lb ed="#B" n="15"/>potuit. Dicendum quod intelligitur de quadam laude 
+            <lb ed="#B" n="16"/>accidentali cum defectibilitate habita: quia 
+            <lb ed="#B" n="17"/>homini peccabili valde laudabile est habitare 
+            <lb ed="#B" n="18"/>cum malis <pc type="virgula">/</pc> et non peccare: nec tantum minuitur laus 
+            <lb ed="#B" n="19"/>dei aut christi / si hoc non potuit: quia perfectius 
+            <lb ed="#B" n="20"/>in eis hoc recusabat: patet exemplo. Furor 
+            <lb ed="#B" n="21"/>enim laudatur in cane / non in homine: sic in proposito. 
+          </p>
+          <p xml:id="WuV37d-f07729-d1e971">
+            <lb ed="#B" n="22"/>¶ Secunda difficultas Quomodo simul stant quod aliqua 
+            po<lb ed="#B" n="23" break="no"/>testas seu praelatio sit a deo: et tamen quod dicatur 
+            <lb ed="#B" n="24"/>vsurpata? Dicendum quod dicitur a deo 
+            permissi<lb ed="#B" n="25" break="no"/>ue in hoc casu: vsurpata autem dicitur ab homine 
+            am<lb ed="#B" n="26" break="no"/>biente.
+          </p>
+          <p xml:id="WuV37d-f07729-d1e984">
+            ¶ Tertia difficultas Cui est magis 
+            obe<lb ed="#B" n="27" break="no"/>diendum: aut superiori praelato / aut inferiori? 
+            Di<lb ed="#B" n="28" break="no"/>cendum quod quando inferior praelatio penitus manat a 
+            <lb ed="#B" n="29"/>superiore magis obediendum est superiori: sicuti 
+            <lb ed="#B" n="30"/>deo quam hominibus: quando vero duae praelationes superior 
+            <lb ed="#B" n="31"/>et inferior manant per ordinem a tertia: tunc aliquando est 
+            <lb ed="#B" n="32"/>magis obediendum superiori / aliquando inferiori: 
+            si<lb ed="#B" n="33" break="no"/>cuti monachus in aliquibus magis tenetur obedire 
+            <lb ed="#B" n="34"/>abbati quam episcopo: vt in aspicientibus suam regulam: in 
+            <lb ed="#B" n="35"/>aliis magis episcopo: sicut in pertinentibus disciplinae 
+            ec<lb ed="#B" n="36" break="no"/>clesiasticae. Et loquitur de abbatibus non exemptis. 
+            <lb ed="#B" n="37"/>Ex hoc patet ad. q. quod videlicet licet tam potentia 
+            <lb ed="#B" n="38"/>peccandi quam praelatio sit a deo: in omnibus tamen subditus 
+            <lb ed="#B" n="39"/>non tenetur obedire creato praelato.
+          </p>
+          <p xml:id="WuV37d-f07729-d1e1016">
+            ¶ <ref xml:id="WuV37d-f07729-Rd1e1149" target="http://scta.info/resource/#WuV37d-f07729-d1e197">Ad 
+            pri<lb ed="#B" n="40" break="no"/>mum argumentum</ref> dicendum / quod illa regula: cuius vsus 
+            ma<lb ed="#B" n="41" break="no"/>lus est / ipsum quoque malum est: intelligitur quando vsus fit in 
+            <lb ed="#B" n="42"/>re ad id ad quod ordinatur / sicut equus ad 
+            equitan<lb ed="#B" n="43" break="no"/>dum: peccare autem non est id ad quod ordinatur 
+            vo<lb ed="#B" n="44" break="no"/>luntas creata / sed benefacere: venit enim peccatum 
+            <lb ed="#B" n="45"/>ex defectibilitate: ideo non currit argu. Et dum 
+            <lb ed="#B" n="46"/>confirmatur: quia vt dicit anselmus <quote xml:id="WuV37d-f07729-Qd1e1167">Posse peccare 
+            <lb ed="#B" n="47"/>nec libertas est / nec pars libertatis</quote>. Dicendum 
+            <lb ed="#B" n="48"/>quod accipit illud posse pro ordine ad 
+            deformi<lb ed="#B" n="49" break="no"/>tatem / non pro potentia: et illo modo dictum est quod non 
+            <!--481.xml-->
+            <cb ed="#B" n="b"/>
+            <lb ed="#B" n="50"/>est a deo / sed isto secundo.
+          </p>
+          <p xml:id="WuV37d-f07729-d1e1047">
+            ¶ <ref xml:id="WuV37d-f07729-Rd1e1187" target="http://scta.info/resource/WuV37d-f07729-d1e219">Ad secundum</ref> dicendum ad 
+            <lb ed="#B" n="51"/>maiorem: quod aliquid fieri a deo contra ius naturae 
+            <lb ed="#B" n="52"/>potest intelligi / aut contra vniversale dictamen: et sic 
+            ma<lb ed="#B" n="53" break="no"/>ior est vera / et minor falsa. Sicuti enim eadem 
+            <lb ed="#B" n="54"/>medicina quae dat vinum sano / remouet egro: 
+            <lb ed="#B" n="55"/>sic eadem naturae lex dictat seruitutem in 
+            natu<lb ed="#B" n="56" break="no"/>ra lapsa / non in statu innocentiae. Potest rursum 
+            in<lb ed="#B" n="57" break="no"/>telligi aliquid fieri a deo contra ius naturae in 
+            parti<lb ed="#B" n="58" break="no"/>culari: et sic maior est falsa / et minor vera: et 
+            <lb ed="#B" n="59"/>ita argumentum semper habet vnam praemissam falsam. Auctoritas 
+            <lb ed="#B" n="60"/>autem osee intelligitur de voluntate antecedente in 
+            <lb ed="#B" n="61"/>malis.
+          </p>
+          <p xml:id="WuV37d-f07729-d1e1073">
+            ¶ <ref xml:id="WuV37d-f07729-Rd1e1217" target="http://scta.info/resource/WuV37d-f07729-d1e255">Ad tertium</ref> dicendum ad maiorem / quod est 
+            <lb ed="#B" n="62"/>sic et non sic. Est quidem sic: quia sicut vouet fugere 
+            <lb ed="#B" n="63"/>actum carnis: sic ponit voluntatem in voluntate 
+            <lb ed="#B" n="64"/>praecipientis. Est autem non sic: quia non oportet quod 
+            <lb ed="#B" n="65"/>sicut negat omnem actum carnis / sic se obliget ad 
+            <lb ed="#B" n="66"/>quodlibet verbum praecipientis: esset nempe quasi 
+            impossi<lb ed="#B" n="67" break="no"/>bile: vnde bene dicit beatissimus franciscus in sua 
+            regu<lb ed="#B" n="68" break="no"/>la: in his quae promiserunt domino obseruare 
+            fideli<lb ed="#B" n="69" break="no"/>ter. Dictum autem benedicti in sua regula 
+            intelli<lb ed="#B" n="70" break="no"/>gitur de perfecte obedientibus. Et sic obedientia 
+            <lb ed="#B" n="71"/>librum terminat secundum: qua mediante peruenire 
+            me<lb ed="#B" n="72" break="no"/>reamur ad regna caelorum. Amen.
+          </p>
+        </div>
+        </div>
+        <div xml:id="WuV37d-f07729-Dd1e1100" type="et-conclusiones">
+          <head xml:id="WuV37d-f07729-Hd1e1102">Conclusiones</head>
+          <p xml:id="WuV37d-f07729-d1e1105">
+            ¶ Ex 
+            prasen<lb ed="#B" n="73" break="no"/>ti autem dis. etc. Prima conclusio. Deus potentiam / 
+            <lb ed="#B" n="74"/>benefaciendi producit / etiam et illam peccandi. 
+            Di<lb ed="#B" n="75" break="no"/>cit conclusio / quod tam potentia benefaciendi quam 
+            male<lb ed="#B" n="76" break="no"/>faciendi est a deo: et ponitur a principio distinctionis vsque 
+            <lb ed="#B" n="77"/>ad illud. c. Hic oritur quomodo non transiliendo etc. 
+          </p>
+          <p xml:id="WuV37d-f07729-d1e1118">
+            <lb ed="#B" n="78"/>¶ Secunda conclusio. Principi seculi iusta 
+            iu<lb ed="#B" n="79" break="no"/>benti tenentur seruuli / non mala dictanti. Dicit 
+            <lb ed="#B" n="80"/>conclusio / quod subditi tenentur obedire principi 
+            <lb ed="#B" n="81"/>seculari dum praecipit iusta: et non dum praecipit 
+            iniu<lb ed="#B" n="82" break="no"/>sta: et ponitur ab illo. c. Hic oritur quaestio etc. vsque 
+            <lb ed="#B" n="83"/>ibi: Iam nunc his etc.
+          </p>
+          <p xml:id="WuV37d-f07729-d1e1134">
+            ¶ Tertia conclusio. 
+            Sa<lb ed="#B" n="84" break="no"/>crum mysterium incarnationis petit studium 
+            con<lb ed="#B" n="85" break="no"/>templationis. Dicit conclusio / quod cognitio sacri 
+            <lb ed="#B" n="86"/>mysterii diuinae incarnationis filii dei de quo 
+            <lb ed="#B" n="87"/>est loquendum in sequenti libro: exigit vt per 
+            con<lb ed="#B" n="88" break="no"/>templationem fiat in nobis reuelatio. Et 
+            po<lb ed="#B" n="89" break="no"/>nitur ab illo capitulo. Iam nunc his etc. vsque huius 
+            <lb ed="#B" n="90"/>libri secundi etc. 
+          </p>
+          <p xml:id="WuV37d-f07729-d1e1152">
+            <lb ed="#B" n="91"/>Liber secundus magistri 
+            Senten<lb ed="#B" n="92" break="no"/>tiarum perlucide disputatus et 
+            decla<lb ed="#B" n="93" break="no"/>ratus / a venerabili patre fratre 
+            Guil<lb ed="#B" n="94" break="no"/>lermo vorrillong finit. 
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
 </TEI>
