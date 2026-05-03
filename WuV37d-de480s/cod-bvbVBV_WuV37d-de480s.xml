@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -31,8 +30,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-diplomatic-1.0.0"
-              url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
      guidelines for a diplomatic edition.</p>
@@ -55,8 +53,8 @@
     </front>
     <body>
       <div xml:id="WuV37d-de480s"><!-- l1dubietas -->
-        <head>Dubietas</head>
-        <p>
+        <head xml:id="WuV37d-de480s-Hd1e101">Dubietas</head>
+        <p xml:id="WuV37d-de480s-d1e103">
           <!--22.xml-->
           <pb ed="#B" n="3-r"/>
           <cb ed="#B" n="a"/>
@@ -100,7 +98,7 @@
           <lb ed="#B" n="38"/>3 de anima dicit: Quod intellectus possibilis est / 
           <lb ed="#B" n="39"/>quo est omnia fieri: et agens quo est omnia facere. 
           </p>
-        <p>
+        <p xml:id="WuV37d-de480s-d1e197">
           <lb ed="#B" n="40"/>¶ In oppositum vero et pro parte negatiua 
           <lb ed="#B" n="41"/>arguitur sic. Omni agenti per cognitionem 
           neces<lb ed="#B" n="42" break="no"/>saria est cognitio sui finis distincta. Sed  
@@ -128,7 +126,7 @@
           <lb ed="#B" n="62"/>ris visus est: et cum homnibus conuersatus est. Et 
           <lb ed="#B" n="63"/>sic latitat quaestio sub dubio
         </p>
-        <p>
+        <p xml:id="WuV37d-de480s-d1e256">
           ¶ Antequam 
           vl<lb ed="#B" n="64" break="no"/>terius progrediari / reuerendi magistri 
           opti<lb ed="#B" n="65" break="no"/>mique patres / more huius almae facultatis  
@@ -151,7 +149,7 @@
           il<lb ed="#B" n="82" break="no"/>lorum: ad quem vel ad quos spectat huiusmodi 
           de<lb ed="#B" n="83" break="no"/>uiantes ad viam reducere veritatem.
         </p>
-        <p>
+        <p xml:id="WuV37d-de480s-d1e302">
           ¶ 
           Spe<lb ed="#B" n="84" break="no"/>cialiter tamen de praesenti protestor: quod multa quae 
           <lb ed="#B" n="85"/>dicturus sum: intendo solum dicere probabiliter 
@@ -165,7 +163,7 @@
           indulge<lb ed="#B" n="93" break="no"/>re dignenter: quia in corde semper habere 
           inten<lb ed="#B" n="94" break="no"/>do.
         </p>
-        <p>
+        <p xml:id="WuV37d-de480s-d1e329">
           ¶ His protestationibus praemissis quibus ad  
           <lb ed="#B" n="95"/>haereo et adhaerere intendo: quamdiu vitam du¬ 
           <!--23.xml-->
@@ -174,7 +172,7 @@
           <lb ed="#B" n="1"/>xero in humanis. Pro decisione 
           questio<lb ed="#B" n="2" break="no"/>nis fit vna fundamentalis conclusio talis. 
           </p>
-        <p>
+        <p xml:id="WuV37d-de480s-d1e345">
           <lb ed="#B" n="3"/>¶ Sapientia creata quae summa est felicitas 
           <lb ed="#B" n="4"/>inhaesiua naturaliter mentibus capitur: licet 
           <lb ed="#B" n="5"/>supernaturalitur imprimatur. Ista conclusio tres 
@@ -182,7 +180,7 @@
           impresso<lb ed="#B" n="7" break="no"/>Secunda de eo / quod imprimitur. Tertia de 
           im<lb ed="#B" n="8" break="no"/>primitate.
         </p>
-        <p>
+        <p xml:id="WuV37d-de480s-d1e361">
           ¶ Prima pars dicit: quod 
           sapien<lb ed="#B" n="9" break="no"/>tia creata summa est felicitas inhaesiua. Ubi 
           <lb ed="#B" n="10"/>primo notandum: quod sapientia capitur 
@@ -197,13 +195,13 @@
           con<lb ed="#B" n="19" break="no"/>prehendat / tam primum actum quam secundum: et isto 
           <lb ed="#B" n="20"/>modo capitur hic.
         </p>
-        <p>
+        <p xml:id="WuV37d-de480s-d1e390">
           ¶ Secundo notandum: quod 
           <lb ed="#B" n="21"/>triplex est felicitas scilicet inhesiua / et obiecti 
           <lb ed="#B" n="22"/>ua: inhaesiua in faelice: obiectiua se obiicit 
           <lb ed="#B" n="23"/>contemplanti: tertia vtrique communis est. 
           </p>
-        <p>
+        <p xml:id="WuV37d-de480s-d1e399">
           <lb ed="#B" n="24"/>¶ Tertio notandum: quod sapientia potest a tri 
           <lb ed="#B" n="25"/>plici deriuari vocabulo scilicet vel a sapere: et 
           <lb ed="#B" n="26"/>sic solum informat intellectum: vel a sapore: 
@@ -243,7 +241,7 @@
           <lb ed="#B" n="58"/>tione felicitatis in secura tentione / visione / 
           <lb ed="#B" n="59"/>et fruitione existentis. Minor patet de se. 
           </p>
-        <p>
+        <p xml:id="WuV37d-de480s-d1e484">
           <lb ed="#B" n="60"/>¶ Secunda pars conclusionis dicit: quod 
           sapien<lb ed="#B" n="61" break="no"/>tia creata naturaliter mentibus capitur. Et 
           <lb ed="#B" n="62"/>tertia: quod ab agente supernaturaliter 
@@ -302,7 +300,7 @@
           <lb ed="#B" n="14"/>In hoc etiam errauerunt philosophi: ponem 
           <lb ed="#B" n="15"/>tes omnia a deo produci naturaliter.
         </p>
-        <p>
+        <p xml:id="WuV37d-de480s-d1e611">
           ¶ Quo 
           <lb ed="#B" n="16"/>vero ad secundum et tertium membrum planum est: 
           <lb ed="#B" n="17"/>quis enim potest scire naturaliter omnia 
@@ -316,13 +314,13 @@
           <lb ed="#B" n="25"/>Felicitas vero nostra consistit: vt patuit 
           <lb ed="#B" n="26"/>in absolutis actibus.
         </p>
-        <p>
+        <p xml:id="WuV37d-de480s-d1e637">
           ¶ Secundo infero: 
           pro<lb ed="#B" n="27" break="no"/>batur solum / quod perfectissimus actus / est act 
           <lb ed="#B" n="28"/>sapientiae: vt a sapore dicitur. Probatur. Quia 
           <lb ed="#B" n="29"/>in perfectissimo actu consistit felicitas. 
           </p>
-        <p>
+        <p xml:id="WuV37d-de480s-d1e646">
           <lb ed="#B" n="30"/>¶ Tertio infero: quod sapientia vt includit 
           <lb ed="#B" n="31"/>charitatem atque intellectus noticiam: perfectior 
           <lb ed="#B" n="32"/>est charitate. Probatur eodem medio. 
@@ -337,7 +335,7 @@
           <lb ed="#B" n="41"/>est ab amore / siue charitate in sapientiae 
           do<lb ed="#B" n="42" break="no"/>num.
         </p>
-        <p>
+        <p xml:id="WuV37d-de480s-d1e677">
           ¶ Quarto infero: quod sapientia non 
           so<lb ed="#B" n="43" break="no"/>lum dicit actum intellectus: sed etiam voluntatis. 
           <lb ed="#B" n="44"/>patet ex supradictes. Coroboratur in textu: 
@@ -346,7 +344,7 @@
           <lb ed="#B" n="47"/>de perfectiuo intellectus et voluntatis dicit. 
           <lb ed="#B" n="48"/>Replebit eum spiritus sapientiae.
         </p>
-        <p>
+        <p xml:id="WuV37d-de480s-d1e693">
           ¶ Quinto 
           <lb ed="#B" n="49"/>infero: quod magis completiuae est lapientia in 
           <!--24.xml-->
@@ -380,13 +378,13 @@
           <lb ed="#B" n="76"/>tum nisi praecognitum. In voluntate vero est / 
           <lb ed="#B" n="77"/>vt in termino etc.
         </p>
-        <p>
+        <p xml:id="WuV37d-de480s-d1e763">
           ¶ Infero sexto quod sapi 
           <lb ed="#B" n="78"/>entia sic dicta: non est vnum per se: sed per 
           ac<lb ed="#B" n="79" break="no"/>cidens: quia complectitur duos actus singulares 
           <lb ed="#B" n="80"/>duarum potentiarum: qui non faciunt vnum per se 
           </p>
-        <p>
+        <p xml:id="WuV37d-de480s-d1e773">
           <lb ed="#B" n="81"/>¶ Infero septimo probabiliter solum / quod in 
           <lb ed="#B" n="82"/>visione dei non est ratio maxime particepus 
           <lb ed="#B" n="83"/>aeternitatis: seud in dilectione. Hoc 
@@ -483,7 +481,7 @@
           <lb ed="#B" n="72"/>organicae: et qui ad hoc applicat excedit intem 
           <lb ed="#B" n="73"/>tionem philosophi.
         </p>
-        <p>
+        <p xml:id="WuV37d-de480s-d1e981">
           ¶ Arguitur tertio auctoritate 
           Au<lb ed="#B" n="74" break="no"/>gu. dicentis: quod visio est tota merces. Dico 
           <lb ed="#B" n="75"/>quod verum est intelligendo: sic quod totaliter 
@@ -493,7 +491,7 @@
           <lb ed="#B" n="79"/>non de speculatiua: sed de practica quae habet 
           <lb ed="#B" n="80"/>in se: et cognitionem et amorem.
         </p>
-        <p>
+        <p xml:id="WuV37d-de480s-d1e999">
           ¶ Quarto 
           <lb ed="#B" n="81"/>arguitur sic. Btitudo consistit in nobilissima 
           <lb ed="#B" n="82"/>operatione: sed operatio intellectus est 
@@ -508,7 +506,7 @@
           ap<lb ed="#B" n="91" break="no"/>proximatio stupe ad ignem: quae tamen approxi 
           <lb ed="#B" n="92"/>matio non est causa comnbustionis.
         </p>
-        <p>
+        <p xml:id="WuV37d-de480s-d1e1028">
           ¶ Quinto 
           <lb ed="#B" n="93"/>arguitur sic. Beatitudo consistit in actu: 
           qua<lb ed="#B" n="94" break="no"/>consequimur finem vltimum / et communiungimur ei: 
@@ -524,13 +522,13 @@
           pa<lb ed="#B" n="3" break="no"/>tris in conspectu: cui me humiliter recommen 
           <lb ed="#B" n="4"/>do.
         </p>
-        <p>
+        <p xml:id="WuV37d-de480s-d1e1059">
           ¶ Infero vlterius ex secunda parte 
           con<lb ed="#B" n="5" break="no"/>clusionis. Primo quod deus est ens 
           intelli<lb ed="#B" n="6" break="no"/>gibile: patet: quia alias eius noticia non 
           reci<lb ed="#B" n="7" break="no"/>pitur in intellectu.
         </p>
-        <p>
+        <p xml:id="WuV37d-de480s-d1e1068">
           ¶ Secundo infero 
           probabiliu<lb ed="#B" n="8" break="no"/>ter solum et collatiuae: quod includit primum 
           ob<lb ed="#B" n="9" break="no"/>iectum adequatum intellectus quod est ens: ex 
@@ -551,7 +549,7 @@
           <lb ed="#B" n="24"/>entis in deo formaliter a deitate 
           distin<lb ed="#B" n="25" break="no"/>guitur.
         </p>
-        <p>
+        <p xml:id="WuV37d-de480s-d1e1111">
           ¶ Infero tertio quod in distinctis 
           quid<lb ed="#B" n="26" break="no"/>ditatibus potest deus a mentibus nostris 
           intel<lb ed="#B" n="27" break="no"/>ligi: patet ex iam dictis: quia alia quidditas est 
@@ -559,7 +557,7 @@
           <lb ed="#B" n="29"/>nec est fingenda distinctio aut a parte nostri 
           <lb ed="#B" n="30"/>intellectus vel diuini.
         </p>
-        <p>
+        <p xml:id="WuV37d-de480s-d1e1124">
           ¶ Quarto infero: 
           <lb ed="#B" n="31"/>intellectum nostrum et voluntatem tante esse 
           per<lb ed="#B" n="32" break="no"/>fectionis: vt nisi in infinito obiectiue: licet 
@@ -581,7 +579,7 @@
           <lb ed="#B" n="48"/>sime includi in aliquo ente infinito: igitur 
           <lb ed="#B" n="49"/>possumus tantum ibi quietari.
         </p>
-        <p>
+        <p xml:id="WuV37d-de480s-d1e1168">
           ¶ Quinto infe 
           <!--26.xml-->
           <cb ed="#B" n="b"/>
@@ -591,7 +589,7 @@
           pa<lb ed="#B" n="53" break="no"/>tria. Prima est modo abstractiue. Secunda 
           <lb ed="#B" n="54"/>modo intuitiue.
         </p>
-        <p>
+        <p xml:id="WuV37d-de480s-d1e1186">
           ¶ Infero sexto: quod res 
           crea<lb ed="#B" n="55" break="no"/>ta in deo ab aeterno habent esse 
           intelligibi<lb ed="#B" n="56" break="no"/>le. Istud corollarium probatur tripliciter. 
@@ -600,7 +598,7 @@
           in<lb ed="#B" n="59" break="no"/>tellectui humano. Tertio comparando eum 
           <lb ed="#B" n="60"/>operi producibili.
         </p>
-        <p>
+        <p xml:id="WuV37d-de480s-d1e1202">
           ¶ Quo ad primum arguo 
           <lb ed="#B" n="61"/>sic. Omne illud ab aeterno in alio habet 
           <lb ed="#B" n="62"/>esse intelligibile: quod distincte et perfecte ab 
@@ -619,7 +617,7 @@
           <lb ed="#B" n="75"/>quae requirit cognoscibile in ratione 
           obie<lb ed="#B" n="76" break="no"/>cti sibi praesens.
         </p>
-        <p>
+        <p xml:id="WuV37d-de480s-d1e1239">
           ¶ Secundo arguo sic. Non est 
           <lb ed="#B" n="77"/>imperfectior intellectus diuinus quam humanus sed 
           hu<lb ed="#B" n="78" break="no"/>manus rem cognoscendo producit rem in esse 
@@ -638,7 +636,7 @@
           <lb ed="#B" n="91"/>spirituale: nequit esse in obiecto quod 
           frequem<lb ed="#B" n="92" break="no"/>ter extat materiale.
         </p>
-        <p>
+        <p xml:id="WuV37d-de480s-d1e1277">
           ¶ Tertio arguo sic. 
           <lb ed="#B" n="93"/>Res producta ab aeterno fuit producibi 
           <lb ed="#B" n="94"/>lis: ergo aliquod esse habuit ab aeterno: aliud 
@@ -678,7 +676,7 @@
           <lb ed="#B" n="27"/>se: ad aliud extra se referretur: quod negat 
           <lb ed="#B" n="28"/>philosophus. 12. metaphysicae.
         </p>
-        <p>
+        <p xml:id="WuV37d-de480s-d1e1360">
           ¶ Infero 
           septi<lb ed="#B" n="29" break="no"/>mo: quod perfectior est cognitio facialis quam fi 
           <lb ed="#B" n="30"/>dei: patet ex predictis. Confirmatur: quia 
@@ -691,7 +689,7 @@
           Cogni<lb ed="#B" n="37" break="no"/>tio patriae perfecta: Tunc autem 
           cogno<lb ed="#B" n="38" break="no"/>scam / sicut et cognitus sum: igitur etc. 
           </p>
-        <p>
+        <p xml:id="WuV37d-de480s-d1e1384">
           <lb ed="#B" n="39"/>¶ Infero octauo probabiliter solum et 
           col<lb ed="#B" n="40" break="no"/>latiue: quod simul stare potest pro eodem 
           instan<lb ed="#B" n="41" break="no"/>ti habitus fidei / cum clara visione dei. 
@@ -707,7 +705,7 @@
           <cb ed="#B" n="b"/>
           <lb ed="#B" n="50"/>simas.
         </p>
-        <p>
+        <p xml:id="WuV37d-de480s-d1e1417">
           ¶ Quo ad primum variat dicta sua 
           <lb ed="#B" n="51"/>magister meus / vt videtur. In corollario 
           <lb ed="#B" n="52"/>enim suo videtur loqui de visione et 
@@ -716,7 +714,7 @@
           <lb ed="#B" n="55"/>habitum nominat / visio actum: ideo male 
           <lb ed="#B" n="56"/>transponit terminos.
         </p>
-        <p>
+        <p xml:id="WuV37d-de480s-d1e1433">
           ¶ Secundo probo 
           <lb ed="#B" n="57"/>meum corollarium sic. Si visio non possit 
           si<lb ed="#B" n="58" break="no"/>mul stare cum fide: aut hoc est / quia actus 
@@ -736,7 +734,7 @@
           <lb ed="#B" n="72"/>potest facere per pauciora: a fortiori deus 
           <lb ed="#B" n="73"/>naturae institutor.
         </p>
-        <p>
+        <p xml:id="WuV37d-de480s-d1e1472">
           ¶ Tunc tertio 
           respon<lb ed="#B" n="74" break="no"/>deo ad rationes magistri mei. Ad priman 
           <lb ed="#B" n="75"/>quando dicit. Impossibile est eidem inesse 
@@ -748,7 +746,7 @@
           <lb ed="#B" n="81"/>quia corollarium est de visione / et probatio de 
           <lb ed="#B" n="82"/>fcientia.
         </p>
-        <p>
+        <p xml:id="WuV37d-de480s-d1e1495">
           ¶ Secundo dico: quod scientiam 
           sta<lb ed="#B" n="83" break="no"/>re cum side: prout de scientia loquitur philosophus 
           <lb ed="#B" n="84"/>1. posteriorum: potest capi dupliciter. 
@@ -782,7 +780,7 @@
           hu<lb ed="#B" n="11" break="no"/>manae rationi: in credendo: non quod cum fide 
           po<lb ed="#B" n="12" break="no"/>tentia dei stare nequeat visio.
         </p>
-        <p>
+        <p xml:id="WuV37d-de480s-d1e1565">
           ¶ Infero 
           <lb ed="#B" n="13"/>nono: quod ad hoc quod intellectus diuinus 
           obie<lb ed="#B" n="14" break="no"/>cta intelligat secundaria: oportet ea 
@@ -815,7 +813,7 @@
           pa<lb ed="#B" n="41" break="no"/>tris in conspectu: cui me humiliter 
           recon<lb ed="#B" n="42" break="no"/>mendo.
         </p>
-        <p>
+        <p xml:id="WuV37d-de480s-d1e1633">
           ¶ Ex parte tertia conclusionis 
           in<lb ed="#B" n="43" break="no"/>fero corollarium responsiuum ad titulum 
           con<lb ed="#B" n="44" break="no"/>clusionis scilicet quod necesse est homini ad: 
